@@ -1,0 +1,4 @@
+(ns thesis.core)
+
+(defn do-slow []
+  (w))

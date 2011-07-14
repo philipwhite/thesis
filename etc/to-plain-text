@@ -1,0 +1,9 @@
+#!/usr/local/bin/nush
+(import Cocoa)
+(set files ((((NSProcessInfo processInfo) arguments) list) cddr))
+(files each:
+ (do (f)
+  (set astr ((NSAttributedString alloc) initWithPath: f documentAttributes:nil))
+  (set pathout ((f stringByDeletingPathExtension) stringByAppendingString:".txt"))
+  ((astr string) writeToFile: pathout atomically:YES encoding:4 error:nil)
+  (print "Wrote to path: " pathout "\n")))

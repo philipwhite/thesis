@@ -1,0 +1,36 @@
+12 July '11 3:16PM
+Initial entry. Up to this point, I have been
+working in Clojure with the Stanford Parser (1.6.4 and now
+1.6.7). Using the factored and PCFG parser I have generated
+parse-trees and Stanford dependencies.
+Yesterday spoke to Drs. Biava
+and Smith regarding this project. Basically just explained my
+intentions. Talked about finding corpora, the surprising paucity of
+Spanish linguistics literature, etc.
+
+I should provide a basic overview of my goals here:
+Using parse trees, Stanford Dependencies, possibilty vocabulary, and a
+machine learning package (likely WEKA) I want to create a system that
+will look at an English text and attempt to determine if it was
+written by a Spanish L1 or native English speaker. The problem here if
+finding the features in trees etc. that will allow this
+classification.
+
+Immediate Plans:
+Setup a Git repository? Today I emailed Dr. Smith regarding university
+server space for this.
+Stanford dependencies consists of "approximately 52 grammatical
+relations" (SD manual). Try using these as features for a first
+attempt at a classifications system. In other words, for a text just
+count the number of each relation it has and see if that gives the
+classifier something to work with.
+
+Relevent Works:
+-For the PCFG parser: Dan Klein and Christopher
+D. Manning. 2003. Accurate Unlexicalized Parsing. Proceedings of the
+41st Meeting of the Association for Computational Linguistics,
+pp. 423-430. 
+-For the factored parser: Dan Klein and Christopher
+D. Manning. 2003. Fast Exact Inference with a Factored Model for
+Natural Language Parsing. In Advances in Neural Information Processing
+Systems 15 (NIPS 2002), Cambridge, MA: MIT Press, pp. 3-10.

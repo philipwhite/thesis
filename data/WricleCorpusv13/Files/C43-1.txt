@@ -1,0 +1,124 @@
+       The growth in the uptake of Information and Communications Technology, 
+including the Internet, has lead to the appearance of new forms of crime. Electronic Crime 
+(E-crime, from now on) is presented as a new form of business that will require a 
+fundamental paradigm shift in policing. This 'new business' is characterised by new forms 
+of crime, a far broader scope and scale of offending and victimisation, and challenging 
+technical and legal complexities. In this essay I'll deal with the nature of the computer 
+crime problem and the challenges it presents and how it might be encountered during 
+prevention, detection and investigation.According to the Australian Institute of 
+Criminology, the term Electronic Crime <Q>. The 
+Information and Communications Technology (ICT) says that <Q>.While many crimes will be old style crimes simply involving the use of ICT, 
+new forms of crime will also emerge. In addition, the barriers to committing crime, that is 
+electronic crime, have dropped significantly and criminals are becoming even younger. It 
+seems to me that people who would not dream of stealing or maliciously damaging other 
+people's property in real life have no qualms or second thoughts in relation to the 
+opportunities and challenges presented by the Internet. I think that Police will also need to 
+be very selective about the range of E-crime incidents. Moreover, the costs of investigation 
+will be high and there will be a need to respond in a much shorter time frame, increasing 
+pressure on already stretched resources.This rapid increase in the use of computer 
+technology has facilitated many countries' participation in the emerging Information 
+Economy but also increases their exposure to electronic crime issues. Maybe Technology is 
+becoming more and more pervasive in our society. The use of the Internet will continue to 
+evolve and grow in many areas including Electronic commerce, online banking,drug stores 
+with prescription services,health care services and records and Education. Of particular 
+relevance to those interested in crime issues is the potential for huge increases in fraud. 
+Fraud (including forgery and false pretences) has already been found to be the most 
+expensive crime in many countries. According to the Australasian Police Ministers' 
+Council (APMC) at its meeting in Perth on 12 July 2000, <Q>. The APMC recognised that the possibilities 
+for misuse of electronic technologies made this an issue which needed to be addressed 
+immediately. And they're probably right: if fraudulent infrastructures continue growing, 
+coordinating and perfectioning their ways, the problem could become unstoppable. Identity 
+theft, in particular, is one of the worst forms of E-crime, which can facilitate a range of 
+fraud offences, and can occasion a lot of trouble to victims. Technology has weakened the 
+integrity of many identifiers currently in use - birth certificates can be reproduced using 
+desktop publishing software; counterfeit passports and counterfeit smartcards can be 
+purchased over the Internet. Easier access to these false identifiers facilitates a range of 
+fraudulent behaviour, including tax evasion, immigration malpractice, fraudulent claims 
+against social security and health insurance companies. That's how they operate, and 
+there's no effective way to fight against it.In addition, a recent study found that 12 times 
+more credit card fraud occurred on Internet transactions than on conventional sales <R>. Another global report emanating from the UK found 
+that E-commerce firms were reporting up to 25% of online transactions as fraudulent, with 
+an average of 5%. Stolen credit cards and identity theft made up the majority of frauds 
+perpetrated on the Internet - 28% and 20% respectively <R>. That shows how 
+computers have become an integral part of our way of life. As I indicated, the barriers to 
+participating in criminal activity appear to be dropping and there is also a proliferation of 
+individuals who are capable of countering IT security measures. For instance, it was 
+believed a few years ago that only several thousand people in the US had the capabilities to 
+launch a cyber-attack. Today, it is estimated that there are 17 million such people in the US 
+alone <R>. But the machinery can't be stopped, as long as there's 
+no law to restrain the use of that technology; and we mustn't forget that it would attempt to 
+the individual's right of free property.Another example: a student known variously as K2 
+and Kelly exposed a glaring security breach in the Australian GST Assist website. Simply 
+by typing in a string of numbers, K2 was able to access the records of more than 20,000 
+GST-registered providers, including their bank details. He alerted more than 17,000 of the 
+providers by emailing their confidential details to them. K2 rejected the notion he was a 
+hacker, saying it involved no cracking but was a wide open security flaw <R>. Here's the proof that reveals that evil intentions are not contained into technology but 
+into the individual.Global connectivity means that havoc can occur, in a very short 
+timeframe, throughout the world. The abuse of computer technology may threaten national 
+security, public safety and community well-being, and devastate the lives of affected 
+individuals; a long list of traditional offending has been greatly facilitated by technology 
+advancements such as mobile telephony, the Internet and encryption <R>. I think that a global 
+problem like this should be easier to remove if the principal authorities of each zone work 
+together. But on the other side, the cost of time and money of that organisation would be 
+considerable, as I pointed before.Furthermore, new criminal opportunities or new crimes 
+have been created by the development of electronic media. Denial of service attacks, 
+viruses, unauthorised entry, information tampering, cyber-stalking, spamming, page-
+jacking, dumping or phone-napping, and computer damage are relatively new types of 
+offending or undesirable behaviour that did not exist in the pre-computing environment. As 
+it's known, the world of Internet Media is always in expansion and I find very difficult to 
+control each new application that is born month after month.E-crime is variable in its 
+manifestations, so it is difficult to discuss in terms of aggregate incidence and impact. This 
+inability to accurately define the nature of the problem is not helped by the fact that 
+currently no statistics on computer crime are maintained by police. Unfortunately, 
+definitive information on the present extent and impact of electronic crime in the world is 
+not available. A significant amount of this crime is simply not reported and some may not 
+even be detected. It seems to me that this non-reporting is in part because of a great 
+reluctance to notify incidents to law enforcement authorities so as to avoid any potentially 
+adverse impact on consumer confidence or share prices, or perhaps because of a lack of 
+confidence in law enforcement to deal with such issues in a timely or effective 
+way.Indications are that electronic crimes are more than likely on the increase, in 
+consonance with the youth element in cities. The editorial director with the CSI is reported 
+as saying <Q> <R>. In summary, 
+we are clearly witnessing exponential growth in the uptake of technology and the use of the 
+Internet. It is reasonable to assume that such growth will be accompanied by an increase in 
+the incidence of electronic crime. There have been predictions that online crime will grow 
+by as much as 1,000 percent over the next four years <R>. 
+One of the biggest policy issues for government will be how to deal with the anonymity of 
+the Internet. Indeed, the US Electronic Frontier report <R> states that 
+<Q>. The UK has also demonstrated its concern 
+relating to anonymity and a range of other issues through the creation of the Regulatory and 
+Investigatory Powers Act (RIPA) which, after much controversy, received royal assent in 
+July 2000. The FBI's Carnivore system has also been the subject of much criticism and 
+debate. In Australia, dealing with the anonymity issue will involve, inter alia, developing 
+new response capabilities in close cooperation with Internet Service Providers (ISP's).A 
+major issue which also needs to be dealt with, and which was discussed by the Model 
+Criminal Code Officers Committee <R> is the issue of jurisdiction. 
+This matter is particularly problematic given the potential global reach or borderless nature 
+of electronic crime. For instance, I find easy to thwart a criminal investigation or 
+prosecution at the present time by routing your transactions through a number of countries 
+(particularly those with weaker law enforcement regimes or those without relevant treaty 
+arrangements). We are also seeing the emergence of data havens, such as the Principality of 
+Sealand, an island fortress 10 km off the English coast, where anyone who wants to keep a 
+website or other data out of the reach of national governments can rent space on the 
+Sealand servers <R>.As the United Nations (UN) points out <Q> <R>.Jurisdiction presents as a very real issue in the 
+area of electronic crime and will require new responses from law enforcement particularly 
+when one considers the need for a much more rapid response. That makes you think of the 
+legal solutions which could establish well of what is a criminal action released by 
+Internet.To date, international harmonisation of the legal categories and definitions of 
+computer crime has been proposed by the UN, Organisation for Economic Cooperation and 
+Development (OECD) and the Council of Europe <R>. However, before we 
+even contemplate harmonisation, it will be necessary to get many (if not all) countries to 
+agree to legislate in this area. One US survey found that of 52 nations surveyed, 33 did not 
+even have laws which dealt with computer crime (AFP 2000).It is true that many e-crimes 
+of the future will be traditional crimes simply perpetrated via or facilitated through the use 
+of ICT. However, as indicated above, there are characteristics of electronic crime, such as 
+anonymity, speed, the ease with which one can participate in unlawful behaviour and the 
+potential for large scale victimisation that will present new and unique challenges. The 
+ability to move quickly to preserve data and to get around encryption will also require new 
+responses.E-crime is truly a global issue and there will be an unprecedented need for 
+international coordination and cooperation. A response to electronic crime will involve 
+much stronger partnerships with the private sector and other law enforcement and related 
+agencies (such as defence and intelligence) and a major thrust of addressing the issue must 
+be one of prevention, otherwise policing will simply be overwhelmed. I find also important 
+to understand the nature of the problem and to address the significant underreporting of the 
+phenomenon.
