@@ -1,3 +1,6 @@
+18 July '11 10:41PM
+Have been working on a preprocessor for the micusp resource. Still in progress. There are slight differences between the files in terms of the page headers that need to be stripped; mainly a difference of newlines but possibly more. New folder code-nu containing code that does batch converts from PDFs to utf8.
+
 17 July '11
 1:41PM
 NB: MICUSP: Michigan Corpus of Upper-Level Student Papers

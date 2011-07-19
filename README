@@ -1,0 +1,11 @@
+Directory Structure:
+code:
+	Clojure source code, main part of project
+code-nu:
+	Some additional code written in nu
+data:
+	english language corpora
+etc:
+	images and miscellaneous
+papers:
+	relevant academic papers

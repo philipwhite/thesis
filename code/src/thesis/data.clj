@@ -5,7 +5,7 @@
    [clojure.string :as string]
    [clojure.java.io :as io])
   (:import
-   [java.io BufferedReader FileReader]))
+   [java.io BufferedReader FileReader File FilenameFilter]))
 
 (defn- load-csv-lines [path]
   "returns a sequence of sequences representing the lines and cells of a csv file"
@@ -37,3 +37,20 @@
 		    os (io/output-stream dst)]
 	  (io/copy is os))
 	(print ".")))))
+
+(defn clear-micusp-headers []
+  "This takes the text version of the micusp papers (converted from the pdf by nu code, and strips out header text."
+  (let [ptrn1 #"[\r\n]Michigan Corpus of U.*[\r\n].*[\r\n].*[\r\n].*[\r\n]" ;patterns to erase
+	ptrn2 #"^MICUSP.*[\r\n].*[\r\n]"
+	ptrn3 #"[\r\n]$"
+	filename-filter (proxy [Object FilenameFilter] [] ;only open .txt files
+			  (accept [dir name]
+				  (boolean (re-find #".txt$" name))))
+	dir-contents (.listFiles (File. *micusp-directory*) filename-filter)]
+    (doseq [file dir-contents]
+      (println (.toString file))
+      (let [text (-> (slurp file)
+		     (string/replace ptrn1 "")
+		     (string/replace ptrn2 ""))]
+	(spit file text)))))
+
