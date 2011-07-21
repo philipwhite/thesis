@@ -5,7 +5,8 @@
    [clojure.string :as string]
    [clojure.java.io :as io])
   (:import
-   [java.io BufferedReader FileReader File FilenameFilter]))
+   [java.io BufferedReader FileReader File FilenameFilter]
+   [edu.stanford.nlp.process DocumentPreprocessor]))
 
 (defn- load-csv-lines [path]
   "returns a sequence of sequences representing the lines and cells of a csv file"
@@ -40,9 +41,9 @@
 
 (defn clear-micusp-headers []
   "This takes the text version of the micusp papers (converted from the pdf by nu code, and strips out header text."
-  (let [ptrn1 #"[\r\n]Michigan Corpus of U.*[\r\n].*[\r\n].*[\r\n].*[\r\n]" ;patterns to erase
-	ptrn2 #"^MICUSP.*[\r\n].*[\r\n]"
-	ptrn3 #"[\r\n]$"
+  (let [ptrn1 #"[\n\r][^A-Za-z]+[\n\r]" ;lines of only non alpha
+	ptrn2 #"[\n\r]Michigan Corpus.*[\n\r]" ;lines beginning with...
+	ptrn3 #"[\n\r]MICUSP.*[\n\r]"
 	filename-filter (proxy [Object FilenameFilter] [] ;only open .txt files
 			  (accept [dir name]
 				  (boolean (re-find #".txt$" name))))
@@ -53,4 +54,12 @@
 		     (string/replace ptrn1 "")
 		     (string/replace ptrn2 ""))]
 	(spit file text)))))
+
+(defn load-sentences [file-path]
+  "Use Stanford Parser DocumentPreprocessor to returns a list of sentences for file-path. Sentences are lists of objects that implement HasWord"
+  (seq (DocumentPreprocessor. file-path)))
+
+(defn load-micusp-file [file-name]
+  "file-name is the file name without filetype suffix"
+  (load-sentences (str *micusp-directory* file-name ".txt")))
 

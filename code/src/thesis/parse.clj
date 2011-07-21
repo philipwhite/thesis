@@ -1,5 +1,4 @@
-(ns thesis.parser
-  (:use alex-and-georges.debug-repl)
+(ns thesis.parse
   (:import
     edu.stanford.nlp.parser.lexparser.LexicalizedParser
     edu.stanford.nlp.trees.LabeledScoredTreeNode
@@ -16,10 +15,19 @@
     [clojure.java.shell :as shell]))
 (defmacro brk [& more] `(debug-repl ~@more))
 
-(def *parser-path* "/usr/share/java/stanford-parser-2011-04-20/englishFactored.ser.gz")
+(def *parser-path* "/usr/share/java/stanford-parser-2011-04-20/englishPCFG.ser.gz")
+;(def *parser-path* "/usr/share/java/stanford-parser-2011-04-20/englishFactored.ser.gz")
 (def *parser* (LexicalizedParser. *parser-path*))
 (.setOptionFlags *parser* (into-array ["-retainTmpSubcategories"]))
 
+(defn pick-sentence [s]
+  "s must be a parse tree (LabeledScoredTreeNode). returns s if the root is S, nil otherwise. In otherwords, returns nil for nonsentences"
+  (if (= "S" (.value (first (.children s))))
+    s))
+
+(defn parse-sentences [ss]
+  "parses the sentences in ss (sequence of lists of objects that implement HasWord), removing any that do not have an S as the ROOT. Returns a sequence of trees."
+  (remove nil? (map pick-sentence (map #(.apply *parser* %) ss))))
 
 (defn tree->seq [t]
   (with-meta (cons (if (.isLeaf t)

@@ -1,3 +1,10 @@
+20 July '11
+10:05PM
+Renamed parser.clj to parse.clj along with package thesis.parse. This packages now contains a function parse-sentences that takes a list of preprocessed text and returns only the parses that are complete sentences. Also added functions in data.clj that return the preprocessed text. Next step is to write a function that will create dependences for these parses. Then use those dependencies as features for WEKA.
+
+2:29PM
+Finished a preliminary preprocessor for the micusp resource. regexes need improvement as some documents seem to be cutoff. Also there is some initial information that needs to be striped.
+
 18 July '11 10:41PM
 Have been working on a preprocessor for the micusp resource. Still in progress. There are slight differences between the files in terms of the page headers that need to be stripped; mainly a difference of newlines but possibly more. New folder code-nu containing code that does batch converts from PDFs to utf8.
 
