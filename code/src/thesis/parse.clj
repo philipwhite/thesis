@@ -15,7 +15,7 @@
     [clojure.java.shell :as shell]))
 (defmacro brk [& more] `(debug-repl ~@more))
 
-(def *parser-path* "/usr/share/java/stanford-parser-2011-04-20/englishPCFG.ser.gz")
+(def *parser-path* "../stanford/grammar/englishPCFG.ser.gz")
 ;(def *parser-path* "/usr/share/java/stanford-parser-2011-04-20/englishFactored.ser.gz")
 (def *parser* (LexicalizedParser. *parser-path*))
 (.setOptionFlags *parser* (into-array ["-retainTmpSubcategories"]))
@@ -28,6 +28,13 @@
 (defn parse-sentences [ss]
   "parses the sentences in ss (sequence of lists of objects that implement HasWord), removing any that do not have an S as the ROOT. Returns a sequence of trees."
   (remove nil? (map pick-sentence (map #(.apply *parser* %) ss))))
+
+(defn dependencies [ps]
+  "ps == parsed sentences. This function works on a sequence of sentences. Returns a sequence of dependency listings."
+  (map #(.typedDependencies (EnglishGrammaticalStructure. %)) ps))
+
+(def *all-deps*
+     (vec (.keySet (EnglishGrammaticalStructure/shortNameToGRel))))
 
 (defn tree->seq [t]
   (with-meta (cons (if (.isLeaf t)
@@ -79,9 +86,9 @@
   (Main/writeImage (.apply *parser* text) "latest-dep-image.png")
   (shell/sh "open" "latest-dep-image.png"))
 
-(defn dependencies [text]
-  (let [egs (EnglishGrammaticalStructure. (.apply *parser* text))]
-    (dorun (map #(println (.toString %)) (.typedDependencies egs)))))
+(comment (defn dependencies [text]
+   (let [egs (EnglishGrammaticalStructure. (.apply *parser* text))]
+     (dorun (map #(println (.toString %)) (.typedDependencies egs))))))
 
 (defn deleafed-seq [s]
   "returns the seq s with the leaves (strings/words) removed"

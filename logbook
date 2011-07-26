@@ -1,3 +1,9 @@
+25 July '11
+Added file train_deps.clj to contain code for running the deps-based classification. Using clj-ml to interface weka.
+Began initial test by constructing a Weka data set with as many attributes as there are stanford dependencies (50 some). I added a weka Instance to the data set for each sample text. I setup each attribute to be numeric, counting the number of times a particular dependency relation is used in a text (i.e. just the basic dep such as "xsubj", ignoring the words that are parameters), dividing that number by the total number of dependencies and using that as the attribute value. Class attribute has the key "L1" with possible values "en" or "es".
+thesis.train-deps/make-reln-dataset-with-samples will construct the weka dataset from the supplied list of english and spanish L1 micusp files.
+Starting a run with 8 L1 spanish and 9 L1 english texts. Following run need to train a classifier.
+
 20 July '11
 10:05PM
 Renamed parser.clj to parse.clj along with package thesis.parse. This packages now contains a function parse-sentences that takes a list of preprocessed text and returns only the parses that are complete sentences. Also added functions in data.clj that return the preprocessed text. Next step is to write a function that will create dependences for these parses. Then use those dependencies as features for WEKA.

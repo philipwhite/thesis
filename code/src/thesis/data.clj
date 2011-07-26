@@ -63,3 +63,20 @@
   "file-name is the file name without filetype suffix"
   (load-sentences (str *micusp-directory* file-name ".txt")))
 
+(def *es-samples* ["BIO.G1.01.1"
+		   "BIO.G2.03.1"
+		   "CEE.G1.02.2"
+		   "CEE.G1.02.3"
+		   "CEE.G1.02.1"
+		   "PHI.G1.02.1"
+		   "PHI.G1.02.2"
+		   "POL.G2.01.1"])
+(def *en-samples* ["BIO.G0.11.1"
+		   "BIO.G1.05.1"
+		   "CEE.G1.03.1"
+		   "CEE.G3.04.2"
+		   "CEE.G0.01.2"
+		   "PHI.G3.03.1"
+		   "PHI.G1.03.1"
+		   "PHI.G0.06.5"
+		   "POL.G0.15.1"])
