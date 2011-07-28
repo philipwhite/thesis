@@ -1,3 +1,6 @@
+27 July '11
+Code now capable of doing deps relation-based classification. The efficacy of this has not yet been determined. Relevent code in thesis.train-deps. Next step, choose appropriate classifier algorith and test.
+
 25 July '11
 Added file train_deps.clj to contain code for running the deps-based classification. Using clj-ml to interface weka.
 Began initial test by constructing a Weka data set with as many attributes as there are stanford dependencies (50 some). I added a weka Instance to the data set for each sample text. I setup each attribute to be numeric, counting the number of times a particular dependency relation is used in a text (i.e. just the basic dep such as "xsubj", ignoring the words that are parameters), dividing that number by the total number of dependencies and using that as the attribute value. Class attribute has the key "L1" with possible values "en" or "es".

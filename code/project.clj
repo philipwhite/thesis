@@ -7,4 +7,4 @@
 		 [incanter "1.2.3"]
 		 [com.leadtune/clj-ml "0.1.1-SNAPSHOT"]]
   :dev-dependencies [ [swank-clojure "1.3.0"] ]
-  :jvm-opts ["-Xmx1g"])
+  :jvm-opts ["-Xmx4g"])

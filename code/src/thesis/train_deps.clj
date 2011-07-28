@@ -6,7 +6,8 @@
    (:require
     [thesis.parse :as parse]
     [thesis.data :as data]
-    [clj-ml.data :as mld]))
+    [clj-ml.data :as mld]
+    [clj-ml.classifiers :as mlc]))
 
 (def *all-reln*
   (vec (.keySet (EnglishGrammaticalStructure/shortNameToGRel))))
@@ -40,16 +41,21 @@
     (mld/dataset-add ds (conj counts L1))))
 
 (defn make-reln-dataset-with-samples [en-samples es-samples]
+  "Pass 2 seq of micusp titles, first for en 2nd for es."
   (let [ds (make-num-reln-dataset)
 	load-samples (fn [samples]
-		       (->> samples
-			    (map data/load-micusp-file)
-			    (map parse/parse-sentences)
-			    (map parse/dependencies)))]
+		       (map data/load-micusp-deps samples))]
     (doseq [d (load-samples en-samples)]
       (println "+")
       (add-to-reln-dataset ds d "en"))
     (doseq [d (load-samples es-samples)]
       (println "+")
       (add-to-reln-dataset ds d "es"))
+    ds))
+
+(defn make-unlabeled-reln-dataset [file]
+  "makes a data set from a single micusp file, without a class label"
+  (let [ds (make-num-reln-dataset)
+	sample (data/load-micusp-deps file)]
+    (add-to-reln-dataset ds sample "es")
     ds))

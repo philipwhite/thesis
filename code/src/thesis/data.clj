@@ -2,6 +2,7 @@
 
 (ns thesis.data
   (:require
+   [thesis.parse :as parse]
    [clojure.string :as string]
    [clojure.java.io :as io])
   (:import
@@ -63,6 +64,7 @@
   "file-name is the file name without filetype suffix"
   (load-sentences (str *micusp-directory* file-name ".txt")))
 
+
 (def *es-samples* ["BIO.G1.01.1"
 		   "BIO.G2.03.1"
 		   "CEE.G1.02.2"
@@ -80,3 +82,37 @@
 		   "PHI.G1.03.1"
 		   "PHI.G0.06.5"
 		   "POL.G0.15.1"])
+
+(def *en-samples2* [])
+
+(defn dump-micusp-parses-and-deps [& sample-lists]
+  "dumps serialized java objects containing the parse trees and dependency graphs of the lists of micusp file names. Function intended to receive one or more lists of file names. resulting files have the same names with suffixes .parse and .deps"
+  (doseq [fname (reduce into sample-lists)]
+    (let [parse (-> fname
+                    (load-micusp-file)
+                    (parse/parse-sentences))
+          deps (parse/dependencies parse)]
+      (with-open [outp (-> (File. (str *micusp-directory* fname ".parse"))
+                           java.io.FileOutputStream.
+                           java.io.ObjectOutputStream.)]
+        (.writeObject outp (to-array parse))
+        (println "+"))
+      (with-open [outp (-> (File. (str *micusp-directory* fname ".deps"))
+                           java.io.FileOutputStream.
+                           java.io.ObjectOutputStream.)]
+        (.writeObject outp (to-array deps))
+        (println "+")))))
+
+(defn load-micusp-dump [name]
+  (with-open [inp (-> (File. (str *micusp-directory* name))
+                      java.io.FileInputStream.
+                      java.io.ObjectInputStream.)]
+    (seq (.readObject inp))))
+
+(defn load-micusp-parse [name]
+  "Loads a file that was previously dumped with dump-micusp-parses-and-deps. Arguments should not have suffix"
+  (load-micusp-dump (str name ".parse")))
+
+(defn load-micusp-deps [name]
+  "Loads a file that was previously dumped with dump-micusp-parses-and-deps. Arguments should not have suffix"
+  (load-micusp-dump (str name ".deps")))
