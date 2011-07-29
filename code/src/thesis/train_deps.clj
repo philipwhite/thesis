@@ -57,4 +57,44 @@
 
 (defn add-dataset-to-dataset [add-to add-from]
   "adds the instances from add-from to add-to and returns add-to"
-  )
+  (map #(mld/dataset-add add-to %) (mld/dataset-seq add-from)))
+
+(def *min-dep-num* 30) ;any file with fewer than this number of deps will be skipped
+
+(defn make-reln-dataset-with-samples [sample-maps]
+  "argument should be a seq of maps with keys :corpus,:filenames,:L1.
+the values for corpus and L1 should be keywords, :micusp, etc, :es or :en
+and for :filenames the value should be a list of strings, without a type suffix"
+  (let [ds (make-num-reln-dataset)]
+    (doseq [{corpus :corpus filenames :filenames L1 :L1}
+            sample-maps]
+      (doseq [filename filenames]
+        (let [d (data/load-deps corpus filename)
+              L1-str (L1 {:es "es" :en "en"})]
+          (if (< (count d) *min-dep-num*)
+            (println "Skipping" filename "in" corpus "--" (count d) "deps.")
+            (do
+              (add-to-reln-dataset ds d L1-str)
+              (println "Added" filename "from" corpus "--" (count d) "deps."))))))
+    ds))
+
+
+(defn test-for-best-min-dep-num [sample-maps mins]
+  (def *test-results* [])
+  (doseq [m mins]
+    (with-bindings {#'*min-dep-num* m}
+      (println "*min-dep-num* =" *min-dep-num*)
+      (let [dataset (make-reln-dataset-with-samples data/*all-corpora*)
+            classifier (mlc/make-classifier :neural-network :multilayer-perceptron)]
+        (mlc/classifier-train classifier dataset)
+        (let [total (loop [count 10
+                           sum 0]
+                      (if (> count 0)
+                        (let [{correct :percentage-correct}
+                              (mlc/classifier-evaluate classifier
+                                                       :cross-validation
+                                                       dataset 20)]
+                          (recur (- count 1) (+ sum correct)))
+                        sum))]
+          (def *test-results* (conj *test-results* [m (/ total 10)]))
+          (println (last *test-results*)))))))

@@ -1,4 +1,20 @@
 29 Jul '11
+3:14pm
+
+
+Ran an experiment hoping to discover if some corpus files should be dropped or otherwise treated specially due to small size. Initial results seem to indicate no. The table below shows the results from 20 fold cross validation. See also log-addendum-001 for the list of files used. multilayer perceptron used as classifier with no special options. Still need to investigate whether results can be improved by pooling smaller files.
+
+MinDep	Average correct over 10 runs
+15	86.86131386861314
+20	86.46616541353384
+25 	85.88709677419355
+35 	82.47422680412373
+45 	82.49999999999999
+60 	77.08333333333334
+
+
+8:35am
+commit 659bea22b18d4ff857aaa886b5797f1ce96a1aef
 
 Training a decision tree classifier (:decision-tree :c45 / J48 pruned tree) on a dataset consisting of all L1-ES wricle texts of levels 5 and 6 (79), all L1-ES micusp texts (8), and a sampling of L1-EN wricle texts (48) yields a classifier which when evaluated with 10 fold cross validation yields a success of 88.1481%. The decision tree is as follows:
 

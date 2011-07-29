@@ -29,6 +29,7 @@
 (def *micusp-keyfile* (str *micusp-directory* "micusp_papers.csv"))
 
 (def *wricle-directory* "../data/WricleCorpusv13/Files/")
+(def *misc-directory* "../data/misc/")
 
 (defn download-micusp []
   "Downloads the files listed in the 'PAPER ID' column of the *micusp-keyfile* into *micusp-directory*"
@@ -70,11 +71,16 @@
   "file-name is the file name without filetype suffix"
   (load-sentences (str *wricle-directory* file-name ".txt")))
 
+(defn load-misc-file [file-name]
+  "file-name is the file name without filetype suffix"
+  (load-sentences (str *misc-directory* file-name ".txt")))
+
 (defn dump-parses-and-deps [corpus & sample-lists]
    "dumps serialized java objects containing the parse trees and dependency graphs of the lists of file names. Function intended to receive one or more lists of file names. resulting files have the same names with suffixes .parse and .deps. First argument should be either :wricle or :micusp"
    (let [[load-file dir] (case corpus
                            :micusp [load-micusp-file *micusp-directory*]
                            :wricle [load-wricle-file *wricle-directory*]
+                           :misc [load-misc-file *misc-directory*]
                            (throw
                             (Exception. "First argument must indicate corpus")))]
      (doseq [fname (reduce into sample-lists)]
@@ -98,6 +104,7 @@
    (let [dir (case corpus
                :micusp *micusp-directory*
                :wricle *wricle-directory*
+               :misc *misc-directory*
                (throw
                 (Exception. "First argument must indicate corpus")))]
      (with-open [inp (-> (File. (str dir name))
@@ -140,7 +147,6 @@
    "NRE.G0.02.1"
    "NUR.G0.01.1"
    "NUR.G0.02.1"
-   
    "BIO.G1.04.1"
    "BIO.G3.03.1"
    "BIO.G3.02.1"
@@ -254,3 +260,19 @@
                   "C118-2"
                   "C118-3"])
 
+(def *all-corpora*
+  [{:corpus :micusp
+    :filenames *micusp-es*
+    :L1 :es}
+   {:corpus :micusp
+    :filenames *micusp-en*
+    :L1 :en}
+   {:corpus :wricle
+    :filenames *wricle-es*
+    :L1 :es}
+   {:corpus :misc
+    :filenames ["msu-level4"]
+    :L1 :es}
+   {:corpus :misc
+    :filenames ["pmw-paper"]
+    :L1 :en}])
