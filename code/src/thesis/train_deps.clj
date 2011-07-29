@@ -40,11 +40,13 @@
 			 (map #(/ % tot-reln-count))))]
     (mld/dataset-add ds (conj counts L1))))
 
-(defn make-reln-dataset-with-samples [en-samples es-samples]
-  "Pass 2 seq of micusp titles, first for en 2nd for es."
+
+
+(defn make-reln-dataset-with-samples [corpus en-samples es-samples]
+  "Pass corpus title and 2 seq of titles, first for en 2nd for es."
   (let [ds (make-num-reln-dataset)
 	load-samples (fn [samples]
-		       (map data/load-micusp-deps samples))]
+		       (map #(data/load-deps corpus %) samples))]
     (doseq [d (load-samples en-samples)]
       (println "+")
       (add-to-reln-dataset ds d "en"))
@@ -53,9 +55,6 @@
       (add-to-reln-dataset ds d "es"))
     ds))
 
-(defn make-unlabeled-reln-dataset [file]
-  "makes a data set from a single micusp file, without a class label"
-  (let [ds (make-num-reln-dataset)
-	sample (data/load-micusp-deps file)]
-    (add-to-reln-dataset ds sample "es")
-    ds))
+(defn add-dataset-to-dataset [add-to add-from]
+  "adds the instances from add-from to add-to and returns add-to"
+  )

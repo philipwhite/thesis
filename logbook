@@ -1,3 +1,18 @@
+29 Jul '11
+
+Training a decision tree classifier (:decision-tree :c45 / J48 pruned tree) on a dataset consisting of all L1-ES wricle texts of levels 5 and 6 (79), all L1-ES micusp texts (8), and a sampling of L1-EN wricle texts (48) yields a classifier which when evaluated with 10 fold cross validation yields a success of 88.1481%. The decision tree is as follows:
+
+nn <= 0.043394: es (78.0/1.0)
+nn > 0.043394
+|   predet <= 0.001776
+|   |   advmod <= 0.034846
+|   |   |   quantmod <= 0.001476
+|   |   |   |   prt <= 0.00202: es (6.0)
+|   |   |   |   prt > 0.00202: en (2.0)
+|   |   |   quantmod > 0.001476: en (6.0)
+|   |   advmod > 0.034846: en (40.0/1.0)
+|   predet > 0.001776: es (3.0)
+
 27 July '11
 Code now capable of doing deps relation-based classification. The efficacy of this has not yet been determined. Relevent code in thesis.train-deps. Next step, choose appropriate classifier algorith and test.
 
