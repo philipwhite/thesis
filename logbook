@@ -1,8 +1,29 @@
+10 Aug '11
+
+Previously (about 10 days ago) wrote a function
+train-deps/run-root-attr-trim-experiment that performs the following
+experiment (from docs): This function makes an unpruned J48 tree using
+the data in dataset, evaluates it using cross validation, then removes
+the attribute from dataset that is the basis of the initial decision
+in the tree and calls itself again, decrementing depth.
+The purpose of this is to discover which features are apparently most
+important in classification. This can likely also be done (though
+probably with different results) using a classifier that can report
+the most informative features automatically.
+
+See log-addendum-002 for specifics.
+
 29 Jul '11
 3:14pm
+commit 51b394f7ce93d8bed552b5e07119a35026db2719
 
-
-Ran an experiment hoping to discover if some corpus files should be dropped or otherwise treated specially due to small size. Initial results seem to indicate no. The table below shows the results from 20 fold cross validation. See also log-addendum-001 for the list of files used. multilayer perceptron used as classifier with no special options. Still need to investigate whether results can be improved by pooling smaller files.
+Ran an experiment hoping to discover if some corpus files should be
+dropped or otherwise treated specially due to small size. Initial
+results seem to indicate no. The table below shows the results from 20
+fold cross validation. See also log-addendum-001 for the list of files
+used.  multilayer perceptron used as classifier with no special
+options. Still need to investigate whether results can be improved by
+pooling smaller files.
 
 MinDep	Average correct over 10 runs
 15	86.86131386861314
@@ -16,7 +37,12 @@ MinDep	Average correct over 10 runs
 8:35am
 commit 659bea22b18d4ff857aaa886b5797f1ce96a1aef
 
-Training a decision tree classifier (:decision-tree :c45 / J48 pruned tree) on a dataset consisting of all L1-ES wricle texts of levels 5 and 6 (79), all L1-ES micusp texts (8), and a sampling of L1-EN wricle texts (48) yields a classifier which when evaluated with 10 fold cross validation yields a success of 88.1481%. The decision tree is as follows:
+Training a decision tree  classifier (:decision-tree :c45 / J48 pruned
+tree) on  a dataset consisting of  all L1-ES wricle texts  of levels 5
+and 6 (79), all L1-ES micusp texts (8), and a sampling of L1-EN wricle
+texts (48) yields a classifier which when evaluated with 10 fold cross
+validation  yields a  success of  88.1481%.  The decision  tree is  as
+follows:
 
 nn <= 0.043394: es (78.0/1.0)
 nn > 0.043394
@@ -29,36 +55,57 @@ nn > 0.043394
 |   |   advmod > 0.034846: en (40.0/1.0)
 |   predet > 0.001776: es (3.0)
 
-27 July '11
-Code now capable of doing deps relation-based classification. The efficacy of this has not yet been determined. Relevent code in thesis.train-deps. Next step, choose appropriate classifier algorith and test.
+27   July  '11  Code   now  capable   of  doing   deps  relation-based
+classification.   The   efficacy   of    this   has   not   yet   been
+determined.  Relevent  code in  thesis.train-deps.  Next step,  choose
+appropriate classifier algorith and test.
 
-25 July '11
-Added file train_deps.clj to contain code for running the deps-based classification. Using clj-ml to interface weka.
-Began initial test by constructing a Weka data set with as many attributes as there are stanford dependencies (50 some). I added a weka Instance to the data set for each sample text. I setup each attribute to be numeric, counting the number of times a particular dependency relation is used in a text (i.e. just the basic dep such as "xsubj", ignoring the words that are parameters), dividing that number by the total number of dependencies and using that as the attribute value. Class attribute has the key "L1" with possible values "en" or "es".
-thesis.train-deps/make-reln-dataset-with-samples will construct the weka dataset from the supplied list of english and spanish L1 micusp files.
-Starting a run with 8 L1 spanish and 9 L1 english texts. Following run need to train a classifier.
+25 July '11 Added file  train_deps.clj to contain code for running the
+deps-based  classification.  Using clj-ml  to  interface weka.   Began
+initial test by  constructing a Weka data set  with as many attributes
+as there are stanford dependencies  (50 some). I added a weka Instance
+to the  data set for  each sample text.  I setup each attribute  to be
+numeric, counting the number of times a particular dependency relation
+is used in  a text (i.e. just the basic dep  such as "xsubj", ignoring
+the  words that  are parameters),  dividing that  number by  the total
+number of  dependencies and using  that as the attribute  value. Class
+attribute  has  the  key  "L1"  with possible  values  "en"  or  "es".
+thesis.train-deps/make-reln-dataset-with-samples  will  construct  the
+weka dataset from  the supplied list of english  and spanish L1 micusp
+files.   Starting  a   run  with  8  L1  spanish   and  9  L1  english
+texts. Following run need to train a classifier.
 
-20 July '11
-10:05PM
-Renamed parser.clj to parse.clj along with package thesis.parse. This packages now contains a function parse-sentences that takes a list of preprocessed text and returns only the parses that are complete sentences. Also added functions in data.clj that return the preprocessed text. Next step is to write a function that will create dependences for these parses. Then use those dependencies as features for WEKA.
+20 July '11 10:05PM Renamed parser.clj to parse.clj along with package
+thesis.parse.  This packages now  contains a  function parse-sentences
+that takes  a list  of preprocessed text  and returns only  the parses
+that  are complete sentences.  Also added  functions in  data.clj that
+return the  preprocessed text. Next step  is to write  a function that
+will create dependences for  these parses. Then use those dependencies
+as features for WEKA.
 
-2:29PM
-Finished a preliminary preprocessor for the micusp resource. regexes need improvement as some documents seem to be cutoff. Also there is some initial information that needs to be striped.
+2:29PM   Finished   a   preliminary   preprocessor  for   the   micusp
+resource.  regexes  need improvement  as  some  documents  seem to  be
+cutoff.  Also there  is  some  initial information  that  needs to  be
+striped.
 
-18 July '11 10:41PM
-Have been working on a preprocessor for the micusp resource. Still in progress. There are slight differences between the files in terms of the page headers that need to be stripped; mainly a difference of newlines but possibly more. New folder code-nu containing code that does batch converts from PDFs to utf8.
+18 July '11 10:41PM Have been working on a preprocessor for the micusp
+resource. Still in progress.  There are slight differences between the
+files in terms of the page  headers that need to be stripped; mainly a
+difference  of   newlines  but  possibly  more.   New  folder  code-nu
+containing code that does batch converts from PDFs to utf8.
 
 17 July '11
 1:41PM
 NB: MICUSP: Michigan Corpus of Upper-Level Student Papers
 http://search-micusp.elicorpora.info/simple/
 
-1:24PM
-Downloaded ice-canada corpus. Zip file (in data/ice-canada/) is password protected. etc/ICElicence.doc needs to be completed and emailed after July '11 (researcher is out of town).
+1:24PM Downloaded ice-canada corpus. Zip file (in data/ice-canada/) is
+password  protected.  etc/ICElicence.doc  needs  to be  completed  and
+emailed   after    July   '11    (researcher   is   out    of   town).
 http://ICE-corpora.net/ice/download.htm
 
-13 July '11 9:32PM
-Setup remote git repository for this project at thesis@rivulus-sw.com:thesis
+13 July  '11 9:32PM  Setup remote git  repository for this  project at
+thesis@rivulus-sw.com:thesis
 
 12 July '11 3:16PM
 Initial entry. Up to this point, I have been

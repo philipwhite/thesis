@@ -2,7 +2,10 @@
 
 (ns thesis.train-deps
    (:import
-    edu.stanford.nlp.trees.EnglishGrammaticalStructure)
+    edu.stanford.nlp.trees.EnglishGrammaticalStructure
+    [weka.core Instances Attribute]
+    java.util.Vector)
+   
    (:require
     [thesis.parse :as parse]
     [thesis.data :as data]
@@ -59,7 +62,7 @@
   "adds the instances from add-from to add-to and returns add-to"
   (map #(mld/dataset-add add-to %) (mld/dataset-seq add-from)))
 
-(def *min-dep-num* 30) ;any file with fewer than this number of deps will be skipped
+(def *min-dep-num* 10) ;any file with fewer than this number of deps will be skipped
 
 (defn make-reln-dataset-with-samples [sample-maps]
   "argument should be a seq of maps with keys :corpus,:filenames,:L1.
@@ -80,6 +83,7 @@ and for :filenames the value should be a list of strings, without a type suffix"
 
 
 (defn test-for-best-min-dep-num [sample-maps mins]
+  "This function tests to see what value *min-dep-num* should be set to."
   (def *test-results* [])
   (doseq [m mins]
     (with-bindings {#'*min-dep-num* m}
@@ -98,3 +102,25 @@ and for :filenames the value should be a list of strings, without a type suffix"
                         sum))]
           (def *test-results* (conj *test-results* [m (/ total 10)]))
           (println (last *test-results*)))))))
+
+(defn run-root-attr-trim-experiment 
+  "This function makes an unpruned J48 tree using the data in dataset,
+evaluates it using cross validation, then removes the attribute from dataset that is the basis of the initial decision in the tree and calls itself again, decrementing depth. returns when depth is zero. does not modify dataset"
+  ([dataset depth]
+     (run-root-attr-trim-experiment dataset depth
+                               (mlc/make-classifier :decision-tree
+                                                    :c45
+                                                    {:unpruned true})))
+  ([dataset depth classifier]
+     (when (> depth 0)
+       (mlc/classifier-train classifier dataset)
+       (println classifier)
+       (mlc/classifier-evaluate classifier :cross-validation dataset 20)
+       (let [root-att (re-find #"(?<=^\[)[A-Za-z]+(?=:)"
+                               (.prefix classifier))
+             dataset-mod (Instances. dataset)]
+         (->> root-att
+              (.attribute dataset-mod)
+              .index
+              (.deleteAttributeAt dataset-mod))
+         (recur dataset-mod (- depth 1) classifier)))))

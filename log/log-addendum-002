@@ -1,0 +1,595 @@
+See end of file for files used in this experiment (*all-corpora*)
+
+thesis.train-deps> (run-root-attr-trim-experiment dataset 10)
+#<J48 J48 unpruned tree
+------------------
+
+nn <= 0.043394: es (79.0/1.0)
+nn > 0.043394
+|   predet <= 0.001808
+|   |   advmod <= 0.034846
+|   |   |   quantmod <= 0.001476
+|   |   |   |   prt <= 0.00202: es (6.0)
+|   |   |   |   prt > 0.00202: en (2.0)
+|   |   |   quantmod > 0.001476: en (6.0)
+|   |   advmod > 0.034846: en (41.0/1.0)
+|   predet > 0.001808: es (3.0)
+
+Number of Leaves  : 	6
+
+Size of the tree : 	11
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 80  8 |  a = es
+  7 42 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances         122               89.0511 %
+Incorrectly Classified Instances        15               10.9489 %
+Kappa statistic                          0.7628
+Mean absolute error                      0.1221
+Root mean squared error                  0.3231
+Relative absolute error                 26.5024 %
+Root relative squared error             67.3269 %
+Total Number of Instances              137     
+
+#<J48 J48 unpruned tree
+------------------
+
+possessive <= 0.000565
+|   rcmod <= 0.014057
+|   |   complm <= 0.017424
+|   |   |   advmod <= 0.034846
+|   |   |   |   tmod <= 0.000471: es (4.0)
+|   |   |   |   tmod > 0.000471: en (7.0)
+|   |   |   advmod > 0.034846: en (38.0)
+|   |   complm > 0.017424: es (6.0/1.0)
+|   rcmod > 0.014057: es (11.0/1.0)
+possessive > 0.000565
+|   infmod <= 0.001077
+|   |   infmod <= 0.00064: es (7.0)
+|   |   infmod > 0.00064: en (3.0/1.0)
+|   infmod > 0.001077: es (61.0)
+
+Number of Leaves  : 	8
+
+Size of the tree : 	15
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 72 16 |  a = es
+ 11 38 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances         110               80.292  %
+Incorrectly Classified Instances        27               19.708  %
+Kappa statistic                          0.5806
+Mean absolute error                      0.2078
+Root mean squared error                  0.4318
+Relative absolute error                 45.1101 %
+Root relative squared error             89.9845 %
+Total Number of Instances              137     
+
+#<J48 J48 unpruned tree
+------------------
+
+appos <= 0.006223
+|   aux <= 0.044037
+|   |   rcmod <= 0.011292: en (7.0)
+|   |   rcmod > 0.011292
+|   |   |   attr <= 0.00021: es (5.0)
+|   |   |   attr > 0.00021: en (2.0)
+|   aux > 0.044037
+|   |   auxpass <= 0.008339
+|   |   |   cc <= 0.031847: en (2.0)
+|   |   |   cc > 0.031847: es (11.0/1.0)
+|   |   auxpass > 0.008339: es (66.0)
+appos > 0.006223
+|   purpcl <= 0.000935
+|   |   neg <= 0.009838: en (34.0)
+|   |   neg > 0.009838: es (3.0/1.0)
+|   purpcl > 0.000935
+|   |   acomp <= 0.001524: es (5.0)
+|   |   acomp > 0.001524: en (2.0)
+
+Number of Leaves  : 	10
+
+Size of the tree : 	19
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 74 14 |  a = es
+ 14 35 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances         109               79.562  %
+Incorrectly Classified Instances        28               20.438  %
+Kappa statistic                          0.5552
+Mean absolute error                      0.1984
+Root mean squared error                  0.4272
+Relative absolute error                 43.0694 %
+Root relative squared error             89.0367 %
+Total Number of Instances              137     
+
+#<J48 J48 unpruned tree
+------------------
+
+aux <= 0.044037
+|   mwe <= 0.001036
+|   |   quantmod <= 0.000478: es (5.0)
+|   |   quantmod > 0.000478: en (8.0/1.0)
+|   mwe > 0.001036: en (30.0/1.0)
+aux > 0.044037
+|   complm <= 0.007375
+|   |   prep <= 0.120339: en (7.0)
+|   |   prep > 0.120339: es (4.0/1.0)
+|   complm > 0.007375
+|   |   xcomp <= 0.016429
+|   |   |   amod <= 0.076115: es (16.0)
+|   |   |   amod > 0.076115
+|   |   |   |   predet <= 0.001471: en (5.0)
+|   |   |   |   predet > 0.001471: es (2.0)
+|   |   xcomp > 0.016429: es (60.0)
+
+Number of Leaves  : 	9
+
+Size of the tree : 	17
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 74 14 |  a = es
+ 16 33 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances         107               78.1022 %
+Incorrectly Classified Instances        30               21.8978 %
+Kappa statistic                          0.5191
+Mean absolute error                      0.2202
+Root mean squared error                  0.4471
+Relative absolute error                 47.818  %
+Root relative squared error             93.181  %
+Total Number of Instances              137     
+
+#<J48 J48 unpruned tree
+------------------
+
+rcmod <= 0.012475
+|   complm <= 0.016739
+|   |   purpcl <= 0.000856
+|   |   |   rcmod <= 0.012187: en (39.0/1.0)
+|   |   |   rcmod > 0.012187: es (3.0/1.0)
+|   |   purpcl > 0.000856
+|   |   |   neg <= 0.003552
+|   |   |   |   rcmod <= 0.006965: es (2.0)
+|   |   |   |   rcmod > 0.006965: en (6.0)
+|   |   |   neg > 0.003552: es (6.0)
+|   complm > 0.016739: es (15.0)
+rcmod > 0.012475
+|   dep <= 0.026114: es (53.0)
+|   dep > 0.026114
+|   |   purpcl <= 0.000543: en (5.0/1.0)
+|   |   purpcl > 0.000543: es (8.0)
+
+Number of Leaves  : 	9
+
+Size of the tree : 	17
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 73 15 |  a = es
+ 16 33 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances         106               77.3723 %
+Incorrectly Classified Instances        31               22.6277 %
+Kappa statistic                          0.5053
+Mean absolute error                      0.2289
+Root mean squared error                  0.4512
+Relative absolute error                 49.6935 %
+Root relative squared error             94.0338 %
+Total Number of Instances              137     
+
+#<J48 J48 unpruned tree
+------------------
+
+ccomp <= 0.020239
+|   poss <= 0.012103
+|   |   purpcl <= 0.000856
+|   |   |   tmod <= 0
+|   |   |   |   quantmod <= 0.000548: es (2.0)
+|   |   |   |   quantmod > 0.000548: en (4.0)
+|   |   |   tmod > 0: en (30.0)
+|   |   purpcl > 0.000856
+|   |   |   neg <= 0.003552
+|   |   |   |   pcomp <= 0.003492: es (2.0)
+|   |   |   |   pcomp > 0.003492: en (6.0)
+|   |   |   neg > 0.003552: es (4.0)
+|   poss > 0.012103
+|   |   iobj <= 0.000286: es (12.0)
+|   |   iobj > 0.000286
+|   |   |   abbrev <= 0.000056
+|   |   |   |   mark <= 0.00809: en (2.0)
+|   |   |   |   mark > 0.00809: es (4.0)
+|   |   |   abbrev > 0.000056: en (2.0)
+ccomp > 0.020239
+|   auxpass <= 0.004405: en (4.0/1.0)
+|   auxpass > 0.004405
+|   |   parataxis <= 0.005329: es (59.0)
+|   |   parataxis > 0.005329
+|   |   |   amod <= 0.070872: es (4.0)
+|   |   |   amod > 0.070872: en (2.0)
+
+Number of Leaves  : 	14
+
+Size of the tree : 	27
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 70 18 |  a = es
+ 20 29 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances          99               72.2628 %
+Incorrectly Classified Instances        38               27.7372 %
+Kappa statistic                          0.3908
+Mean absolute error                      0.2883
+Root mean squared error                  0.5244
+Relative absolute error                 62.6043 %
+Root relative squared error            109.2877 %
+Total Number of Instances              137     
+
+#<J48 J48 unpruned tree
+------------------
+
+poss <= 0.010699
+|   complm <= 0.014674
+|   |   purpcl <= 0.000856: en (37.0/2.0)
+|   |   purpcl > 0.000856
+|   |   |   neg <= 0.003552
+|   |   |   |   pcomp <= 0.003492: es (2.0)
+|   |   |   |   pcomp > 0.003492: en (6.0)
+|   |   |   neg > 0.003552: es (4.0)
+|   complm > 0.014674
+|   |   nsubjpass <= 0.002688: en (2.0)
+|   |   nsubjpass > 0.002688: es (14.0)
+poss > 0.010699
+|   purpcl <= 0.000514
+|   |   advcl <= 0.006875: en (3.0)
+|   |   advcl > 0.006875
+|   |   |   rel <= 0: es (16.0)
+|   |   |   rel > 0
+|   |   |   |   iobj <= 0.000286: es (5.0)
+|   |   |   |   iobj > 0.000286: en (3.0)
+|   purpcl > 0.000514: es (45.0)
+
+Number of Leaves  : 	11
+
+Size of the tree : 	21
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 72 16 |  a = es
+ 20 29 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances         101               73.7226 %
+Incorrectly Classified Instances        36               26.2774 %
+Kappa statistic                          0.4176
+Mean absolute error                      0.2644
+Root mean squared error                  0.4882
+Relative absolute error                 57.3978 %
+Root relative squared error            101.7537 %
+Total Number of Instances              137     
+
+#<J48 J48 unpruned tree
+------------------
+
+complm <= 0.012187
+|   purpcl <= 0.000935
+|   |   det <= 0.096478: en (25.0)
+|   |   det > 0.096478
+|   |   |   nsubj <= 0.077641: en (10.0/1.0)
+|   |   |   nsubj > 0.077641
+|   |   |   |   rel <= 0.001724: es (8.0/1.0)
+|   |   |   |   rel > 0.001724: en (2.0)
+|   purpcl > 0.000935
+|   |   attr <= 0.00021
+|   |   |   mwe <= 0.00381: es (10.0)
+|   |   |   mwe > 0.00381: en (3.0/1.0)
+|   |   attr > 0.00021: en (2.0)
+complm > 0.012187
+|   dep <= 0.028689
+|   |   cop <= 0.017114
+|   |   |   cop <= 0.0163: es (5.0)
+|   |   |   cop > 0.0163: en (2.0)
+|   |   cop > 0.017114: es (58.0)
+|   dep > 0.028689
+|   |   purpcl <= 0.000243: en (4.0)
+|   |   purpcl > 0.000243
+|   |   |   nsubjpass <= 0.00604: en (2.0)
+|   |   |   nsubjpass > 0.00604: es (6.0)
+
+Number of Leaves  : 	13
+
+Size of the tree : 	25
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 64 24 |  a = es
+ 22 27 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances          91               66.4234 %
+Incorrectly Classified Instances        46               33.5766 %
+Kappa statistic                          0.2758
+Mean absolute error                      0.3358
+Root mean squared error                  0.5643
+Relative absolute error                 72.9154 %
+Root relative squared error            117.6092 %
+Total Number of Instances              137     
+
+#<J48 J48 unpruned tree
+------------------
+
+num <= 0.006941
+|   pcomp <= 0.006194
+|   |   preconj <= 0.000248
+|   |   |   iobj <= 0.000685: es (9.0)
+|   |   |   iobj > 0.000685: en (2.0)
+|   |   preconj > 0.000248: en (6.0)
+|   pcomp > 0.006194: es (57.0)
+num > 0.006941
+|   mark <= 0.014577
+|   |   purpcl <= 0.000604: en (31.0/1.0)
+|   |   purpcl > 0.000604
+|   |   |   attr <= 0.000129
+|   |   |   |   cc <= 0.046492
+|   |   |   |   |   abbrev <= 0.001141: es (13.0)
+|   |   |   |   |   abbrev > 0.001141: en (4.0/1.0)
+|   |   |   |   cc > 0.046492: en (4.0)
+|   |   |   attr > 0.000129: en (4.0)
+|   mark > 0.014577: es (7.0)
+
+Number of Leaves  : 	10
+
+Size of the tree : 	19
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 66 22 |  a = es
+ 19 30 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances          96               70.073  %
+Incorrectly Classified Instances        41               29.927  %
+Kappa statistic                          0.3574
+Mean absolute error                      0.3053
+Root mean squared error                  0.5243
+Relative absolute error                 66.2865 %
+Root relative squared error            109.2692 %
+Total Number of Instances              137     
+
+#<J48 J48 unpruned tree
+------------------
+
+nsubj <= 0.082729
+|   infmod <= 0.00444
+|   |   purpcl <= 0.000935
+|   |   |   det <= 0.110925: en (27.0)
+|   |   |   det > 0.110925
+|   |   |   |   neg <= 0.003568: en (8.0)
+|   |   |   |   neg > 0.003568
+|   |   |   |   |   npadvmod <= 0.000656: es (6.0)
+|   |   |   |   |   npadvmod > 0.000656: en (2.0)
+|   |   purpcl > 0.000935
+|   |   |   attr <= 0.00021
+|   |   |   |   prt <= 0.000997: en (3.0/1.0)
+|   |   |   |   prt > 0.000997: es (9.0)
+|   |   |   attr > 0.00021: en (2.0)
+|   infmod > 0.00444: es (6.0)
+nsubj > 0.082729
+|   auxpass <= 0.008969
+|   |   mark <= 0.009346: en (5.0)
+|   |   mark > 0.009346
+|   |   |   auxpass <= 0.004405: en (4.0/1.0)
+|   |   |   auxpass > 0.004405: es (10.0)
+|   auxpass > 0.008969: es (55.0)
+
+Number of Leaves  : 	12
+
+Size of the tree : 	23
+>
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 69 19 |  a = es
+ 18 31 |  b = en
+
+=== Summary ===
+
+Correctly Classified Instances         100               72.9927 %
+Incorrectly Classified Instances        37               27.0073 %
+Kappa statistic                          0.4149
+Mean absolute error                      0.2734
+Root mean squared error                  0.5085
+Relative absolute error                 59.3688 %
+Root relative squared error            105.9716 %
+Total Number of Instances              137     
+
+
+--FILES USED--
+ (def *micusp-es* ["BIO.G1.01.1"
+                   "BIO.G2.03.1"
+                   "CEE.G1.02.2"
+                   "CEE.G1.02.3"
+                   "CEE.G1.02.1"
+                   "PHI.G1.02.1"
+                   "PHI.G1.02.2"
+                   "POL.G2.01.1"])
+
+(def *micusp-en*
+  ["BIO.G0.11.1"
+   "BIO.G1.05.1"
+   "CEE.G1.03.1"
+   "CEE.G3.04.2"
+   "CEE.G0.01.2"
+   "PHI.G3.03.1"
+   "PHI.G1.03.1"
+   "PHI.G0.06.5"
+   "POL.G0.15.1"
+   "LIN.G0.01.1"
+   "LIN.G0.01.2"
+   "MEC.G0.02.1"
+   "MEC.G0.03.1"
+   "NRE.G0.01.1"
+   "NRE.G0.02.1"
+   "NUR.G0.01.1"
+   "NUR.G0.02.1"
+   "BIO.G1.04.1"
+   "BIO.G3.03.1"
+   "BIO.G3.02.1"
+   "BIO.G0.01.1"
+   "BIO.G0.02.1"
+   "BIO.G0.02.2"
+   "BIO.G0.02.3"
+   "BIO.G0.02.4"
+   "BIO.G0.02.5"
+   "BIO.G0.04.1"
+   "BIO.G0.05.1"
+   "BIO.G0.06.1"
+   "BIO.G0.07.1"
+   "BIO.G0.09.1"
+   "BIO.G0.11.3"
+   "BIO.G0.12.2"
+   "BIO.G0.13.1"
+   "BIO.G0.16.1"
+   "BIO.G0.18.1"
+   "BIO.G0.19.1"
+   "BIO.G0.20.1"
+   "BIO.G0.24.1"
+   "BIO.G0.25.1"
+   "BIO.G0.26.1"
+   "BIO.G0.29.1"
+   "BIO.G0.30.1"
+   "BIO.G0.32.1"
+   "BIO.G1.03.1"
+   "BIO.G1.06.1"
+   "BIO.G2.02.1"
+   "BIO.G2.07.1"])
+; "PSY.G0.01.1"
+;   "PSY.G0.02.1"
+(def *wricle-es* ["A99-1"
+                  "A99-2"
+                  "A255-1"
+                  "A255-2"
+                  "A364-1"
+                  "A364-2"
+                  "C21-1"
+                  "C21-3"
+                  "A43-1"
+                  "A43-2"
+                  "A55-1"
+                  "A55-2"
+                  "A91-1"
+                  "A91-2"
+                  "A144-1"
+                  "A144-2"
+                  "A148-1"
+                  "A148-2"
+                  "A170-1"
+                  "A170-2"
+                  "A240-1"
+                  "A243-1"
+                  "A243-2"
+                  "A249-1"
+                  "A249-2"
+                  "A267-1"
+                  "A267-2"
+                  "A277-1"
+                  "A277-2"
+                  "A356-1"
+                  "A357-1"
+                  "A357-2"
+                  "C2-1"
+                  "C2-2"
+                  "C2-3"
+                  "C12-2"
+                  "C12-3"
+                  "C15-1"
+                  "C15-2"
+                  "C15-3"
+                  "C19-1"
+                  "C19-2"
+                  "C19-3"
+                  "C22-1"
+                  "C22-2"
+                  "C22-3"
+                  "C24-1"
+                  "C24-2"
+                  "C24-3"
+                  "C28-1"
+                  "C28-3"
+                  "C35-1"
+                  "C35-3"
+                  "C46-1"
+                  "C46-2"
+                  "C46-3"
+                  "C50-1"
+                  "C50-2"
+                  "C50-3"
+                  "C57-1"
+                  "C63-1"
+                  "C63-2"
+                  "C63-3"
+                  "C70-2"
+                  "C70-3"
+                  "C73-1"
+                  "C73-2"
+                  "C73-3"
+                  "C75-1"
+                  "C75-3"
+                  "C76-1"
+                  "C76-2"
+                  "C76-3"
+                  "C107-1"
+                  "C107-2"
+                  "C107-3"
+                  "C118-1"
+                  "C118-2"
+                  "C118-3"])
+
+(def *all-corpora*
+  [{:corpus :micusp
+    :filenames *micusp-es*
+    :L1 :es}
+   {:corpus :micusp
+    :filenames *micusp-en*
+    :L1 :en}
+   {:corpus :wricle
+    :filenames *wricle-es*
+    :L1 :es}
+   {:corpus :misc
+    :filenames ["msu-level4"]
+    :L1 :es}
+   {:corpus :misc
+    :filenames ["pmw-paper"]
+    :L1 :en}])
