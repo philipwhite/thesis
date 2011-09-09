@@ -1,4 +1,11 @@
+3 Sep '11
+No commit
+Up next, figure out how tenses are represented in the syntactic parse trees and turn this into attributes. Let each verb tense be an attribute with the value being the number of times it appears in the text divide by the total number of verb usages. Restrict to finite verbs.
+Tenses:
+
+
 10 Aug '11
+commit 17849cefb00c0082d9d6e5a4885ae83edc0eb6b6
 
 Previously (about 10 days ago) wrote a function
 train-deps/run-root-attr-trim-experiment that performs the following

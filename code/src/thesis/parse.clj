@@ -16,7 +16,7 @@
 (defmacro brk [& more] `(debug-repl ~@more))
 
 (def *parser-path* "../stanford/grammar/englishPCFG.ser.gz")
-;(def *parser-path* "/usr/share/java/stanford-parser-2011-04-20/englishFactored.ser.gz")
+;(def *parser-path* "../stanford/grammar/englishFactored.ser.gz")
 (def *parser* (LexicalizedParser. *parser-path*))
 (.setOptionFlags *parser* (into-array ["-retainTmpSubcategories"]))
 
