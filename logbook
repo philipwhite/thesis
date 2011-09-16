@@ -1,7 +1,20 @@
+11 Sep '11
+Note to self: a good attribute to analyze might involve looking at the arguments of a verb and seeing how many are lexical NPs and how many are referential forms. Recall that Du Bois says that no more than one lexical NP is preferred, in intransitives in the S position (of course), and in transitives and ditransitives in the D.O. position. This could be presented as fourteen attributes:
+1 argument -> {s, S}
+2 arguments -> {ao,aO,Ao,AO}
+3 arguments -> {aio,aiO,aIo,aIO,Aio,AiO,AIo,AIO}
+
+The values for each could be represented thus, where the variables are the number of occurences of that particular argument configuration:
+Vs = sum(s)/(sum(s)+sum(S))
+Vao = sum(ao)/(sum(ao)+sum(aO)+sum(Ao)+sum(AO))
+and so forth
+
+Sources:
+Du Bois, John W. "Discourse and Grammar" from ed. Tomasello, Michael "The New Psychology of Language" Ch. 2 pp 48-87
+
 3 Sep '11
 No commit
 Up next, figure out how tenses are represented in the syntactic parse trees and turn this into attributes. Let each verb tense be an attribute with the value being the number of times it appears in the text divide by the total number of verb usages. Restrict to finite verbs.
-Tenses:
 
 
 10 Aug '11

@@ -1,6 +1,6 @@
 (defproject thesis "1.0.0-SNAPSHOT"
   :description "FIXME: write description"
-  :dependencies [[org.clojure/clojure "1.2.0"]
+  :dependencies [[org.clojure/clojure "1.2.1"]
 		 [org.clojure/clojure-contrib "1.2.0"]
 		 [org.clojars.gilesc/stanford-parser "1.6.7"]
 		 [org.clojars.magnusrw/dependensee "1.4.2"]
