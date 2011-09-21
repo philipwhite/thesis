@@ -96,6 +96,20 @@
    "He had been writing"
    "He will have been writing"])
 
+(def *passive-examples*
+  ["He is chased"
+   "He was chased"
+   "He will be chased"
+   "He has been chased"
+   "He had been chased"
+   "He will have been chased"
+   "He is being chased"
+   "He was being chased"
+   "He will be being chased"
+   "He has been being chase"
+   "He had been being chased"
+   "He will have been being chased"])
+
 (defn draw-tenses []
   (map parse/display-parse
        *tense-examples*))
@@ -103,205 +117,747 @@
 
 
 (def *verb-patterns*
-  (let [f (fn [past perfect progressive]
-            {:past? past :perfect? perfect :progressive? progressive})
+  (let [f (fn [past perfect progressive passive]
+            {:past? past :perfect? perfect :progressive? progressive
+             :passive? passive})
         Y true
-        N false]
-;;;
-;;;MODAL
- [{:pattern                             ;modal perfect progressive
-   ["VP"
-    ["MD"]
-    ["VP"
-     ["VB"
-      ["have"]]
-     ["VP"
-      ["VBN"
-       ["been"]]
-      ["VP"
-       ["VBG"]]]]]
-   :depth 5
-   :form (f N Y Y)},
- 
+        N false
+        unsorted-patterns
+        ;;;modal perfect progressive
+        ;;active
+        [{:pattern                             
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["have"]]
+            ["VP"
+             ["VBN"
+              ["been"]]
+             ["VP"
+              ["VBG"]]]]]
+          :depth 5
+          :form (f N Y Y N)},
 
-  ;;modal progressive
-  {:pattern
-   ["VP"
-    ["MD"]
-    ["VP"
-     ["VB"
-      ["be"]]
-     ["VP"
-      ["VBG"]]]]
-   :depth 4
-   :form (f N N Y)},
+         ;;passive
+         {:pattern                             
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["have"]]
+            ["VP"
+             ["VBN"
+              ["been"]]
+             ["VP"
+              ["VBG"
+               ["being"]]
+              ["VP"
+                ["VBN"]]]]]]
+          :depth 6
+          :form (f N Y Y Y)}
+         
+         {:pattern                             
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["have"]]
+            ["VP"
+             ["VBN"
+              ["been"]]
+             ["VP"
+              ["VBG"
+               ["getting"]]
+              ["VP"
+                ["VBN"]]]]]]
+          :depth 6
+          :form (f N Y Y Y)}
+         
+         ;;modal progressive
+         ;;active
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["be"]]
+            ["VP"
+             ["VBG"]]]]
+          :depth 4
+          :form (f N N Y N)},
 
-  ;;modal perfect
-  {:pattern
-   ["VP"
-    ["MD"]
-    ["VP"
-     ["VB"
-      ["have"]]
-     ["VP"
-      ["VBN"]]]]
-   :depth 4
-   :form (f N Y N)},
+         ;;passive
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["be"]]
+            ["VP"
+             ["VBG"
+              ["being"]]
+             ["VP"
+              ["VBN"]]]]]
+          :depth 5
+          :form (f N N Y Y)}
+         
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["be"]]
+            ["VP"
+             ["VBG"
+               ["getting"]]
+              ["VP"
+                ["VBN"]]]]]
+          :depth 5
+          :form (f N N Y Y)}
 
-  ;;modal simple
-  
-  {:pattern
-   ["VP"
-    ["MD"]
-    ["VP"
-     ["VB"]]]
-   :depth 3
-   :form (f N N N)},
+         ;;modal perfect
+         ;;active
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["have"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N Y N N)}
 
+         ;;passive
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["have"]]
+            ["VP"
+             ["VBN"
+              ["been"]]
+             ["VP"
+              ["VBN"]]]]]
+          :depth 5
+          :form (f N Y N Y)}
 
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["have"]]
+            ["VP"
+             ["VBN"
+              ["gotten"]]
+             ["VP"
+              ["VBN"]]]]]
+          :depth 5
+          :form (f N Y N Y)}
+
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["have"]]
+            ["VP"
+             ["VBN"
+              ["got"]]
+             ["VP"
+              ["VBN"]]]]]
+          :depth 5
+          :form (f N Y N Y)}
+
+         ;;modal simple
+         ;;active
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"]]]
+          :depth 3
+          :form (f N N N N)},
+
+         ;;passive
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["be"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N N N Y)}
+
+         {:pattern
+          ["VP"
+           ["MD"]
+           ["VP"
+            ["VB"
+             ["get"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N N N Y)}
 ;;;
 ;;;PAST
 
-  ;;past perfect progressive
-  
-  {:pattern
-   ["VP"
-    ["VBD"
-     ["had"]]
-    ["VP"
-     ["VBN"
-      ["been"]]
-     ["VP"
-      ["VBG"]]]]
-   :depth 4
-   :form (f Y Y Y)},
+         ;;past perfect progressive
+         ;;active
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBG"]]]]
+          :depth 4
+          :form (f Y Y Y N)}
 
-  ;;past progressive
-  
-  {:pattern
-   ["VP"
-    ["VBD"
-     ["was"]]
-    ["VP"
-     ["VBG"]]]
-   :depth 3
-   :form (f Y N Y)},
+         ;;passive
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBG"
+              ["being"]]
+             ["VP"
+              ["VBD"]]]]]
+          :depth 5
+          :form (f Y Y Y Y)},
 
-  
-  {:pattern
-   ["VP"
-    ["VBD"
-     ["were"]]
-    ["VP"
-     ["VBG"]]]
-   :depth 3
-   :form (f Y N Y)},
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBG"
+              ["getting"]]
+             ["VP"
+              ["VBD"]]]]]
+          :depth 5
+          :form (f Y Y Y Y)}
+         
+         ;;past progressive
+         ;;active
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["was"]]
+           ["VP"
+            ["VBG"]]]
+          :depth 3
+          :form (f Y N Y N)},
 
-  ;;past perfect
-  {:pattern
-   ["VP"
-    ["VBD"
-     ["had"]]
-    ["VP"
-     ["VBN"]]]
-   :depth 3
-   :form (f Y Y N)},
+         
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["were"]]
+           ["VP"
+            ["VBG"]]]
+          :depth 3
+          :form (f Y N Y N)},
 
-  ;;past simple
-  
-  {:pattern
-   ["VP"
-    ["VBD"]]
-   :depth 2
-   :form (f Y N N)},
+         ;;passive
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["was"]]
+           ["VP"
+            ["VBG"
+             ["being"]]
+            ["VP"
+             ["VBD"]]]]
+          :depth 4
+          :form (f Y N Y Y)}
 
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["were"]]
+           ["VP"
+            ["VBG"
+             ["being"]]
+            ["VP"
+             ["VBD"]]]]
+          :depth 4
+          :form (f Y N Y Y)}
+         
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["was"]]
+           ["VP"
+            ["VBG"
+             ["getting"]]
+            ["VP"
+             ["VBD"]]]]
+          :depth 4
+          :form (f Y N Y Y)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["were"]]
+           ["VP"
+            ["VBG"
+             ["getting"]]
+            ["VP"
+             ["VBD"]]]]
+          :depth 4
+          :form (f Y N Y Y)}
+         
+         ;;past perfect
+         ;;active
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f Y Y N N)},
+
+         ;;passive
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f Y Y N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["VP"
+            ["VBN"
+             ["gotten"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f Y Y N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["VP"
+            ["VBN"
+             ["got"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f Y Y N Y)}
+
+         ;;past simple
+         ;;active
+         {:pattern
+          ["VP"
+           ["VBD"]]
+          :depth 2
+          :form (f Y N N N)},
+
+         ;;passive
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["was"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f Y N N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["were"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f Y N N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["got"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f Y N N Y)}
 ;;;
 ;;;PRESENT
 
-  ;;present perfect progressive
-  {:pattern
-   ["VP"
-    ["VBZ"
-     ["has"]]
-    ["VP"
-     ["VBN"
-      ["been"]]
-     ["VP"
-      ["VBG"]]]]
-   :depth 4
-   :form (f N Y Y)},
+         ;;present perfect progressive
+         ;;active
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["has"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBG"]]]]
+          :depth 4
+          :form (f N Y Y N)},
 
-  {:pattern
-   ["VP"
-    ["VBP"
-     ["have"]]
-    ["VP"
-     ["VBN"
-      ["been"]]
-     ["VP"
-      ["VBG"]]]]
-   :depth 4
-   :form (f N Y Y)},
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["have"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBG"]]]]
+          :depth 4
+          :form (f N Y Y N)},
 
-  ;;present progressive
-  {:pattern
-   ["VP"
-    ["VBZ"
-     ["is"]]
-    ["VP"
-     ["VBG"]]]
-   :depth 3
-   :form (f N N Y)},
+         ;;passive
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["has"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBG"
+              ["being"]]
+             ["VP"
+              ["VBN"]]]]]
+          :depth 5
+          :form (f N Y Y Y)}
 
-  {:pattern
-   ["VP"
-    ["VBP"
-     ["am"]]
-    ["VP"
-     ["VBG"]]]
-   :depth 3
-   :form (f N N Y)}
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["have"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBG"
+              ["being"]]
+             ["VP"
+              ["VBN"]]]]]
+          :depth 5
+          :form (f N Y Y Y)}
 
-  {:pattern
-   ["VP"
-    ["VBP"
-     ["are"]]
-    ["VP"
-     ["VBG"]]]
-   :depth 3
-   :form (f N N Y)},
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["has"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBG"
+              ["getting"]]
+             ["VP"
+              ["VBN"]]]]]
+          :depth 5
+          :form (f N Y Y Y)}
 
-  ;;present perfect
-  {:pattern
-   ["VP"
-    ["VBZ"
-     ["has"]]
-    ["VP"
-     ["VBN"]]]
-   :depth 3
-   :form (f N Y N)},
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["have"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBG"
+              ["getting"]]
+             ["VP"
+              ["VBN"]]]]]
+          :depth 5
+          :form (f N Y Y Y)}
 
-  {:pattern
-   ["VP"
-    ["VBP"
-     ["have"]]
-    ["VP"
-     ["VBN"]]]
-   :depth 3
-   :form (f N Y N)},
+         ;;present progressive
+         ;;active
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["is"]]
+           ["VP"
+            ["VBG"]]]
+          :depth 3
+          :form (f N N Y N)},
 
-  ;;present simple
-  {:pattern
-   ["VP"
-    ["VBZ"]]
-   :depth 2
-   :form (f N N N)},
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["am"]]
+           ["VP"
+            ["VBG"]]]
+          :depth 3
+          :form (f N N Y N)}
 
-  {:pattern
-   ["VP"
-    ["VBP"]]
-   :depth 2
-   :form (f N N N)}]))
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["are"]]
+           ["VP"
+            ["VBG"]]]
+          :depth 3
+          :form (f N N Y N)},
+
+         ;;passive
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["is"]]
+           ["VP"
+            ["VBG"
+             ["being"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N N Y Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["am"]]
+           ["VP"
+            ["VBG"
+             ["being"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N N Y Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["are"]]
+           ["VP"
+            ["VBG"
+             ["being"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N N Y Y)}
+
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["is"]]
+           ["VP"
+            ["VBG"
+             ["getting"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N N Y Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["am"]]
+           ["VP"
+            ["VBG"
+             ["getting"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N N Y Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["are"]]
+           ["VP"
+            ["VBG"
+             ["getting"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N N Y Y)}
+         
+         ;;present perfect
+         ;;active
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["has"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f N Y N N)},
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["have"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f N Y N N)},
+
+         ;;passive
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["has"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N Y N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["have"]]
+           ["VP"
+            ["VBN"
+             ["been"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N Y N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["has"]]
+           ["VP"
+            ["VBN"
+             ["gotten"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N Y N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["have"]]
+           ["VP"
+            ["VBN"
+             ["gotten"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N Y N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["has"]]
+           ["VP"
+            ["VBN"
+             ["got"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N Y N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["have"]]
+           ["VP"
+            ["VBN"
+             ["got"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N Y N Y)}
+         
+         ;;present simple
+         ;;active
+         {:pattern
+          ["VP"
+           ["VBZ"]]
+          :depth 2
+          :form (f N N N N)},
+
+         {:pattern
+          ["VP"
+           ["VBP"]]
+          :depth 2
+          :form (f N N N N)}
+
+         ;;passive
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["is"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f N N N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["am"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f N N N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["are"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f N N N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["gets"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f N N N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["get"]]
+           ["VP"
+            ["VBN"]]]
+          :depth 3
+          :form (f N N N Y)}
+         ]]
+
+    
+   
+    
+    ;;now sort from deepest to shallowest. this is so as to match
+  ;;complex patterns first, since many of the complex ones
+  ;;contain the simple one
+    (reverse (sort-by :depth unsorted-patterns))))
 
 (defn tree->seq [t]
   (with-meta (cons (.value t)
@@ -395,7 +951,7 @@ If it can't split and it has children, it recurses for each child"
   "First recurse on all children. Concat the sequences return by the children.
 Check if the current node is S, if so, remove it from the parent, add it to the sequence and return that sequence"
   (let [children (.children node)
-        sub-Ss (mapcat (partial extract-Ss-at-node! head) children)]
+        sub-Ss (doall (mapcat (partial extract-Ss-at-node! head) children))]
     (if (= (.value node) "S")
       (let [parent (.parent node head)]
         (conj sub-Ss (.removeChild parent (.indexOf parent node))))
@@ -476,6 +1032,36 @@ a series of S-headed trees derived from 'parse' that do not contain S nodes othe
        (filter #(label-eq "MD" (.value %))
                (.children parse))))
 
+(defn modify-get-passives! [parse]
+  "the stanford parses generates a (VP (S (VP (VBN)))) rightmost tail in
+the trees for get passives. It doesn't do so when there is a conjunction in that member (e.g. They are getting bought and sold). This functions removes that S and reattaches the branch"
+  ;;check if we are at a terminal branch
+  (if (not (.isLeaf parse))
+    ;;recurse first, then check this branch
+    (do
+      (doseq [child (.children parse)]
+        (modify-get-passives! child))
+      (if (and
+           (= (.value parse) "VP")
+           (let [child (last (.children parse))
+                 child-children-count (.numChildren child)]
+             (and
+              (= (.value child) "S")
+              (== child-children-count 1)
+              (let [child (first (.children child))
+                    child-children-count (.numChildren child)]
+                (and
+                 (= (.value child) "VP")
+                 (== child-children-count 1)
+                 (= (.value (first (.children child))) "VBN"))))))
+        (do
+          (println "modifying get-passive")
+          (println parse)
+          (.setChild parse
+                     (dec (.numChildren parse))
+                     (first (.children (last (.children parse))))))
+        parse))))
+
 (defn match-and-extract-verb [parse pattern]
   "if the parse matches the pattern, returns a dictionary with grammatical information. Last item in the sequence will be the verb. If the first item is a sequence, it is a list of modal, the rest of the items will be aux verbs"
   ;;first do depth check
@@ -499,14 +1085,16 @@ a series of S-headed trees derived from 'parse' that do not contain S nodes othe
                :modal (extract-modals parse)})))
 
 (defn extract-verbs [parse]
-  (let [ps (extract-Ss parse)
+  (let [ps (modify-get-passives! (.deepCopy parse))
+        ps (extract-Ss parse)
         ps (mapcat split-conjunctions ps)]
     (doseq [p ps]
       (shorten-branches! p))
-    (map (fn [p]
-           (some #(match-and-extract-verb p %)
-                 *verb-patterns*))
-         ps)))
+    (remove nil?
+     (map (fn [p]
+            (some #(match-and-extract-verb p %)
+                  *verb-patterns*))
+          ps))))
 
 (defn verb-test [text]
   (extract-verbs (.apply parse/*parser* text)))

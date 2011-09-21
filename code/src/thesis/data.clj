@@ -30,6 +30,14 @@
 
 (def *wricle-directory* "../data/WricleCorpusv13/Files/")
 (def *misc-directory* "../data/misc/")
+(def *sulec-directory* "../data/sulec/")
+(def *sulec-raw-file* (str *sulec-directory* "sulec-all-raw.txt"))
+
+(def keyword-to-directory
+  {:micusp *micusp-directory*
+   :wricle *wricle-directory*
+   :misc *misc-directory*
+   :sulec *sulec-directory*})
 
 (defn download-micusp []
   "Downloads the files listed in the 'PAPER ID' column of the *micusp-keyfile* into *micusp-directory*"
@@ -59,34 +67,64 @@
 		     (string/replace ptrn2 ""))]
 	(spit file text)))))
 
+
+
+(defn divide-sulec []
+  "Take the sulec corpus and divide it into component essays"
+  (let [parts (string/split (slurp *sulec-raw-file*)
+                            #"[\n\r][\n\r][\n\r]")]
+    (loop [remaining-parts parts
+           name 0]
+      (if remaining-parts
+        (do
+          (spit (str *sulec-directory* name ".txt")
+                (reduce #(str %1 "\n" %2) (take 3 remaining-parts)))
+          (recur (nthnext remaining-parts 3)
+                (+ name 1)))))))
+
 (defn load-sentences [file-path]
   "Use Stanford Parser DocumentPreprocessor to returns a list of sentences for file-path. Sentences are lists of objects that implement HasWord"
   (seq (DocumentPreprocessor. file-path)))
 
-(defn load-micusp-file [file-name]
-  "file-name is the file name without filetype suffix"
-  (load-sentences (str *micusp-directory* file-name ".txt")))
+(comment (defn load-micusp-file [file-name]
+   "file-name is the file name without filetype suffix"
+   (load-sentences (str *micusp-directory* file-name ".txt")))
 
-(defn load-wricle-file [file-name]
-  "file-name is the file name without filetype suffix"
-  (load-sentences (str *wricle-directory* file-name ".txt")))
+ (defn load-wricle-file [file-name]
+   "file-name is the file name without filetype suffix"
+   (load-sentences (str *wricle-directory* file-name ".txt")))
 
-(defn load-misc-file [file-name]
-  "file-name is the file name without filetype suffix"
-  (load-sentences (str *misc-directory* file-name ".txt")))
+ (defn load-misc-file [file-name]
+   "file-name is the file name without filetype suffix"
+   (load-sentences (str *misc-directory* file-name ".txt"))))
+
+(defn load-corpus-file [corpus file-name]
+  (load-sentences (str (keyword-to-directory corpus)
+                       file-name
+                       ".txt")))
+
+(defn dump-stats [corpus & sample-lists]
+  "writes a text file for each input file with a single number that is the number of words in that file"
+  (let [dir (if (contains? keyword-to-directory corpus)
+               (keyword-to-directory corpus)
+               (throw
+                (Exception. "First argument must indicate corpus")))]
+     (doseq [fname (reduce into sample-lists)]
+       (let [doc (load-corpus-file corpus fname)
+             count (apply + (map #(count %) doc))]
+         (spit (str dir fname ".stats")
+               (str count))))))
 
 (defn dump-parses-and-deps [corpus & sample-lists]
    "dumps serialized java objects containing the parse trees and dependency graphs of the lists of file names. Function intended to receive one or more lists of file names. resulting files have the same names with suffixes .parse and .deps. First argument should be either :wricle or :micusp"
-   (let [[load-file dir] (case corpus
-                           :micusp [load-micusp-file *micusp-directory*]
-                           :wricle [load-wricle-file *wricle-directory*]
-                           :misc [load-misc-file *misc-directory*]
-                           (throw
-                            (Exception. "First argument must indicate corpus")))]
+   (let [dir (if (contains? keyword-to-directory corpus)
+               (keyword-to-directory corpus)
+               (throw
+                (Exception. "First argument must indicate corpus")))]
      (doseq [fname (reduce into sample-lists)]
-       (let [parse (-> fname
-                       load-file
-                       parse/parse-sentences)
+       (let [parse (->> fname
+                        (load-corpus-file corpus)
+                        parse/parse-sentences)
              deps (parse/dependencies parse)]
          (with-open [outp (-> (File. (str dir fname ".parse"))
                               java.io.FileOutputStream.
@@ -100,11 +138,13 @@
            (println "-"))))))
 
 
+
 (defn load-dump [corpus name]
    (let [dir (case corpus
                :micusp *micusp-directory*
                :wricle *wricle-directory*
                :misc *misc-directory*
+               :sulec *sulec-directory*
                (throw
                 (Exception. "First argument must indicate corpus")))]
      (with-open [inp (-> (File. (str dir name))
@@ -260,6 +300,8 @@
                   "C118-2"
                   "C118-3"])
 
+(def *sulec-es* (range 41))
+
 (def *all-corpora*
   [{:corpus :micusp
     :filenames *micusp-es*
@@ -275,4 +317,7 @@
     :L1 :es}
    {:corpus :misc
     :filenames ["pmw-paper"]
-    :L1 :en}])
+    :L1 :en}
+   {:corpus :sulec
+    :filenames *sulec-es*
+    :L1 :es}])

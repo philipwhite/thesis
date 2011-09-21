@@ -1,3 +1,10 @@
+20 Sep '11
+Did more work on verb.clj. Also created train_verbs.clj, which will contain that code that performs classifying tasks using the tools in verbs.clj. So far the 'extract-verbs' function can recognize all twelve tense/aspect combinations ({past,present,modal}/perfect/progressive). It also recognizes passives in 'be' and 'get' with both 'got' and 'gotten'. It does not yet recognize negative 'get' passives that require a 'do' operator, e.g. "he didn't get beaten" Also, questions are not supported and, as of my thinking right now, probably never will be.
+
+Yesterday I added access methods for the sulec corpus to data.clj. I pooled the sulec essays by threes, creating a total of 41 "instances". I also generated a *.stats file for each instance (from all corpora). At the moment, this file is simply a text file that contains the number of stanford nlp parser tokens. I'm not sure if this will be useful. My thinking was that this number could provide a normalizing factor for the different attributes, but now that I think about it, my current approach might be better. For instance, in thesis.train-deps, I use the total number of dependencies of any type as a normalizing factor. I don't immediately see a reason to change this. One concern is that some instances are too small for certain attributes to have statistical relevance. This warrants some thought.
+
+
+
 11 Sep '11
 Note to self: a good attribute to analyze might involve looking at the arguments of a verb and seeing how many are lexical NPs and how many are referential forms. Recall that Du Bois says that no more than one lexical NP is preferred, in intransitives in the S position (of course), and in transitives and ditransitives in the D.O. position. This could be presented as fourteen attributes:
 1 argument -> {s, S}

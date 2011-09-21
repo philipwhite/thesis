@@ -62,7 +62,7 @@
   "adds the instances from add-from to add-to and returns add-to"
   (map #(mld/dataset-add add-to %) (mld/dataset-seq add-from)))
 
-(def *min-dep-num* 10) ;any file with fewer than this number of deps will be skipped
+(def *min-dep-num* 0) ;any file with fewer than this number of deps will be skipped
 
 (defn make-reln-dataset-with-samples [sample-maps]
   "argument should be a seq of maps with keys :corpus,:filenames,:L1.
