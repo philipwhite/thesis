@@ -10,7 +10,8 @@
     [thesis.parse :as parse]
     [thesis.data :as data]
     [clj-ml.data :as mld]
-    [clj-ml.classifiers :as mlc]))
+    [clj-ml.classifiers :as mlc]
+    [incanter.stats :as stats]))
 
 (def *all-reln*
   (vec (.keySet (EnglishGrammaticalStructure/shortNameToGRel))))
@@ -124,3 +125,37 @@ evaluates it using cross validation, then removes the attribute from dataset tha
               .index
               (.deleteAttributeAt dataset-mod))
          (recur dataset-mod (- depth 1) classifier)))))
+
+(defn relative-dep-freqs [deps]
+  "take a seq of seqs of dependencies. returns a map where the keys are the relation names and the values are the relative frequencies of that particular dependency (in a vector, to ease concating in run-t-test)"
+  (let [dep-count (reduce + (map count deps))]
+    (apply merge (map #(hash-map % [(float (/ (count-reln deps %) dep-count))])
+                      *all-reln*))))
+
+;;TODO does this method actuall return a seq of seqs of seqs or one level less?
+(defn load-all-corpora-deps [L1]
+  "return a seq of seqs of seqs of deps (instances->sentences->sentence->dep"
+  (let [corpora (filter #(= (:L1 %) L1) data/*all-corpora*)]
+    (mapcat (fn [corpus-info]
+              (let [corpus (:corpus corpus-info)]
+                (map (fn [filename]
+                       (data/load-deps corpus filename))
+                     (:filenames corpus-info))))
+            corpora)))
+
+(defn run-t-test []
+  (let [es-freqs (apply (partial merge-with concat)
+                         (map relative-dep-freqs
+                              (load-all-corpora-deps :es)))
+        en-freqs (apply (partial merge-with concat)
+                         (map relative-dep-freqs
+                              (load-all-corpora-deps :en)))]
+    (doseq [reln *all-reln*]
+      ;;incanter doesn't like it if all zeros are passed to it
+      (if (some #(not= 0 %) (concat (es-freqs reln) (en-freqs reln)))
+        (let [test-results (stats/t-test (es-freqs reln) :y (en-freqs reln))
+            filtered-results (select-keys test-results
+                                          [:conf-int :t-stat :p-value :df]) ]
+        (println "*****")
+        (println reln)
+        (println filtered-results))))))

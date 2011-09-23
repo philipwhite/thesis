@@ -15,72 +15,89 @@
    (split-conjunctions (.apply parse/*parser* text))
    ))
 
-(defn extract-verbs [parse]
-  "Takes a parse of a sentence, looks for finite verbs, and returns a seq of maps. maps have keys->values :verb -> seq of strings, :modals -> seq of strings, :progressive? -> bool, :past? -> bool, :perfect? -> bool, :passive? -> bool. "
-  nil)
+(comment (defn extract-verbs [parse]
+   "Takes a parse of a sentence, looks for finite verbs, and returns a seq of maps. maps have keys->values :verb -> seq of strings, :modals -> seq of strings, :progressive? -> bool, :past? -> bool, :perfect? -> bool, :passive? -> bool. "
+   nil)
 
-(defn extract-VP-VP [parse]
-  "Helper for extract-VPs, expects a parse headed by VP"
-  (vector parse))
+ (defn extract-VP-VP [parse]
+   "Helper for extract-VPs, expects a parse headed by VP"
+   (vector parse))
 
-(defn extract-VP-S [parse]
-  "Helper for extract-VPs, expects a tree headed by S"
-  ;;there should either be multiple S children or a single VP child
-  ;;perform error checking here to ensure that is the case
-  (let [children (.children parse)
-        vp-child-count (apply + (map #(if (= (.value %) "VP") 1 0) children))
-        s-child-count (apply + (map #(if (= (.value %) "S") 1 0)  children))]
-    ;;error checking
-    (if (not (or
-              (and (== 1 vp-child-count) (== 0 s-child-count))
-              (and (== 0 vp-child-count) (> s-child-count 1))))
-      (throw (Exception. (str "extract-VP-S unexpected S child count. num of VP =" vp-child-count " num of S = " s-child-count))))
-    (if (== vp-child-count 1)
-      (extract-VP-VP (first (filter #(= "VP" (.value %)) children)))
-      (map extract-VP-S (filter #(= "S" (.value %)) children)))))
+ (defn extract-VP-S [parse]
+   "Helper for extract-VPs, expects a tree headed by S"
+   ;;there should either be multiple S children or a single VP child
+   ;;perform error checking here to ensure that is the case
+   (let [children (.children parse)
+         vp-child-count (apply + (map #(if (= (.value %) "VP") 1 0) children))
+         s-child-count (apply + (map #(if (= (.value %) "S") 1 0)  children))]
+     ;;error checking
+     (if (not (or
+               (and (== 1 vp-child-count) (== 0 s-child-count))
+               (and (== 0 vp-child-count) (> s-child-count 1))))
+       (throw (Exception. (str "extract-VP-S unexpected S child count. num of VP =" vp-child-count " num of S = " s-child-count))))
+     (if (== vp-child-count 1)
+       (extract-VP-VP (first (filter #(= "VP" (.value %)) children)))
+       (map extract-VP-S (filter #(= "S" (.value %)) children)))))
 
-(defn extract-VPs [parse]
-  "returns a seq of subtrees of largely finite predicates"
+ (defn extract-VPs [parse]
+   "returns a seq of subtrees of largely finite predicates"
 
-  ;;from ROOT, follow S or return nil if S not present
-  ;;from S, follow each S or the VP. For each S repeat this line
-  ;;for the VP, if there is more than one child VP apply this line to those
-  ;;if there is 1 or 0 child VP, return the current VP
-  (if (.isLeaf parse)
-    nil
-    (do
-      ;;make sure that there is an expect number of children
-      (let [ch-count (count (.children parse))]
-        (if (or (== 0 ch-count) (> ch-count 1))
-          (throw (Exception. (str "extract-VPs unexpected ROOT child count = " ch-count)))))
-;;at this point we know there is a single child
-      (let [child (first (.children parse))]
-        (if (= (.value child)
-             "S")
-          (flatten (extract-VP-S child))
-          nil)))))
+   ;;from ROOT, follow S or return nil if S not present
+   ;;from S, follow each S or the VP. For each S repeat this line
+   ;;for the VP, if there is more than one child VP apply this line to those
+   ;;if there is 1 or 0 child VP, return the current VP
+   (if (.isLeaf parse)
+     nil
+     (do
+       ;;make sure that there is an expect number of children
+       (let [ch-count (count (.children parse))]
+         (if (or (== 0 ch-count) (> ch-count 1))
+           (throw (Exception. (str "extract-VPs unexpected ROOT child count = " ch-count)))))
+       ;;at this point we know there is a single child
+       (let [child (first (.children parse))]
+         (if (= (.value child)
+                "S")
+           (flatten (extract-VP-S child))
+           nil)))))
 
 ;;;try 2
 ;;;
 
+)
+
 (defn children-of-type [parent type]
-  (filter #(= (string/capitalize type)
-              (string/capitalize (.value %)))
-          (.children parent)))
+   (filter #(= (string/capitalize type)
+               (string/capitalize (.value %)))
+           (.children parent)))
 
 (defn has-child-of-type? [parent child-type]
-  "returns true if the parent has one or more children of type child-type"
-  (some #(= % child-type) (map #(.value %) (.children parent))))
+   "returns true if the parent has one or more children of type child-type"
+   (some #(= % child-type) (map #(.value %) (.children parent))))
 
-(defn has-descendants? [parent path]
-  "returns true if the sequence of strings in 'path' can be matched with a series of descendants
+ (defn has-descendants? [parent path]
+   "returns true if the sequence of strings in 'path' can be matched with a series of descendants
    of those values with the immediate child of the parent being the leftmost in the sequence."
-  (let [matches (children-of-type parent (first path))]
-    (cond
-     (empty? matches) false
-     (empty? (rest path)) true
-     :else (true? (some #(has-descendants? % (rest path))
-                        matches)))))
+   (let [matches (children-of-type parent (first path))]
+     (cond
+      (empty? matches) false
+      (empty? (rest path)) true
+      :else (true? (some #(has-descendants? % (rest path))
+                         matches)))))
+
+(defn get-tense-aspect-name [p]
+  (let [subtitles {:past?  ["-past" "-present"]
+                   :perfect? ["-perfect" ""]
+                   :progressive? ["-progressive" ""]
+                   :passive? ["-passive" ""]}
+        modal-subtitle (if (not (zero? (count (:modal p)))) "-modal" "")]
+    (let [ss (merge-with #(if %2 (first %1) (second %1))
+                         subtitles p)]
+      (string/replace-first
+       (str modal-subtitle (:past? ss) (:perfect? ss) (:progressive? ss) (:passive? ss))
+       #"-"
+       ""))))
+
+(def *tense-aspect-count* 24)
 
 (def *tense-examples*
   ["He writes"
@@ -113,8 +130,6 @@
 (defn draw-tenses []
   (map parse/display-parse
        *tense-examples*))
-
-
 
 (def *verb-patterns*
   (let [f (fn [past perfect progressive passive]
@@ -850,22 +865,26 @@
           :depth 3
           :form (f N N N Y)}
          ]]
-
-    
    
-    
     ;;now sort from deepest to shallowest. this is so as to match
   ;;complex patterns first, since many of the complex ones
   ;;contain the simple one
     (reverse (sort-by :depth unsorted-patterns))))
 
-(defn tree->seq [t]
-  (with-meta (cons (.value t)
-               (map tree->seq (.children t)))
-    {:labeled-score-tree t}))
+(def *all-tense-aspect-names*
+  (let [nonmodal-forms (map :form *verb-patterns*)
+        modal-forms (map #(into % {:modal ["will"]})
+                         (remove :past? nonmodal-forms))]
+    (vec (distinct (map get-tense-aspect-name
+                              (concat nonmodal-forms modal-forms))))))
 
-(defn text->seq [text]
-  (tree->seq (.apply parse/*parser* text)))
+(comment (defn tree->seq [t]
+   (with-meta (cons (.value t)
+                    (map tree->seq (.children t)))
+     {:labeled-score-tree t}))
+
+ (defn text->seq [text]
+   (tree->seq (.apply parse/*parser* text))))
 
 
 (defn split-conjunctions-at-level [head node type]
@@ -878,9 +897,9 @@
       (loop [heads []
              rest-children VP-children]
         (if-let [child (first rest-children)]
-          (let [other-children (filter #(= child %) VP-children)
-                other-children (into other-children
-                                     (children-of-type node "CC"))
+          (let [other-children (doall (remove #(= child %) VP-children))
+                other-children (doall (into other-children
+                                            (children-of-type node "CC")))
                 child-filter (proxy [edu.stanford.nlp.util.Filter] []
                                (accept [node]
                                  (if (some #(identical? node %) other-children)

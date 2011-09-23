@@ -98,10 +98,16 @@
    "file-name is the file name without filetype suffix"
    (load-sentences (str *misc-directory* file-name ".txt"))))
 
+(defn corpus-file-path [corpus file-name]
+  (str (keyword-to-directory corpus)
+                       file-name
+                       ".txt"))
+
 (defn load-corpus-file [corpus file-name]
   (load-sentences (str (keyword-to-directory corpus)
                        file-name
                        ".txt")))
+
 
 (defn dump-stats [corpus & sample-lists]
   "writes a text file for each input file with a single number that is the number of words in that file"
@@ -321,3 +327,24 @@
    {:corpus :sulec
     :filenames *sulec-es*
     :L1 :es}])
+
+(def *es-corpora*
+  (filter #(= (:L1 %) :es) *all-corpora*))
+
+(def *en-corpora*
+  (filter #(= (:L1 %) :en) *all-corpora*))
+
+(defn count-words-in-file [file]
+  (let [f (slurp file)
+        lines (string/split-lines f)
+        words (mapcat #(string/split % #" ") lines)
+        words (remove #(= "" %) words)]
+    (count words)))
+
+(defn count-words-in-corpora []
+  (doseq [corp *all-corpora*]
+    (print (corp :corpus) " " (corp :L1)
+           (apply + (map count-words-in-file
+                         (map (partial corpus-file-path (corp :corpus))
+                              (corp :filenames))))
+           "\n\n")))

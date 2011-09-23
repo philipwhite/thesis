@@ -1,3 +1,79 @@
+23 Sep '11
+Added function count-words-in-corpora to thesis.data. The following are the current results
+:micusp   :es 31057 
+:micusp   :en 167984 
+:wricle   :es 88977 
+:misc   :es 496 
+:misc   :en 2848 
+:sulec   :es 36267
+
+total es = 156,797
+total en = 170,832
+
+Note that ICLE will provde another 198,131 words of Spanish, more than doubling that body. I can probably get enough English from ICE to make up the difference on the English side.
+
+22 Sep '11
+Finished verb.clj to the point where I was able to run statistics and classifying tests (found in train_verb.clj)
+
+Training on all corpora and doing a 10 fold cross validation, a decision tree gives:
+Correctly Classified Instances         126               70.7865 %
+Incorrectly Classified Instances        52               29.2135 %
+Kappa statistic                          0.2077
+Mean absolute error                      0.3059
+Root mean squared error                  0.5139
+Relative absolute error                 76.424  %
+Root relative squared error            115.0477 %
+Total Number of Instances              17
+
+A Neural Net gives slightly better results at:
+Correctly Classified Instances         136               76.4045 %
+Incorrectly Classified Instances        42               23.5955 %
+Kappa statistic                          0.3853
+Mean absolute error                      0.2601
+Root mean squared error                  0.4596
+Relative absolute error                 64.9751 %
+Root relative squared error            102.8927 %
+Total Number of Instances              178
+
+On the statistics test, at the 95% confidence level the following tense/aspect combinations were shown to have statistically different relative frequencies between L1-es and L1-en. The language is written next to it if that language had the higher frequency.
+
+present-perfect-passive en
+present-perfect-progressive es
+present-progressive es
+past-passive en
+present es
+past en
+
+Note that negative get passives are still not recognized, so that needs to be done.
+
+See addendum-004 for more statistics
+
+21 Sep '11
+Used Incanter to run t-test on dependency relations. The following dependencies show significant differences in relative frequency between L1 English and L1 Spanish at 95% confidence:
+prt
+purpcl
+poss
+predet
+possessive
+rcmod
+csubj
+mark
+cop
+xcomp
+advcl
+pcomp
+expl
+aux
+neg
+npadvmod
+infmod
+complm
+ccomp
+nsubj
+det
+
+See addendum-003 for more statistics.
+
 20 Sep '11
 Did more work on verb.clj. Also created train_verbs.clj, which will contain that code that performs classifying tasks using the tools in verbs.clj. So far the 'extract-verbs' function can recognize all twelve tense/aspect combinations ({past,present,modal}/perfect/progressive). It also recognizes passives in 'be' and 'get' with both 'got' and 'gotten'. It does not yet recognize negative 'get' passives that require a 'do' operator, e.g. "he didn't get beaten" Also, questions are not supported and, as of my thinking right now, probably never will be.
 
