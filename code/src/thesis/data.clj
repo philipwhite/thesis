@@ -334,6 +334,15 @@
 (def *en-corpora*
   (filter #(= (:L1 %) :en) *all-corpora*))
 
+;;for testing purposes, randomly assign the corpora instances to two different
+;;language groupings
+(let [rand-corpora
+      (for [c *all-corpora*
+	    f (:filenames c)]
+	(into c {:filenames [f] :L1 (if (> 0.5 (rand)) :es :en)}))]
+  (def *rand-es-corpora* (filter #(= (:L1 %) :es)))
+  (def *rand-en-corpora* (filter #(+ (:L1 %) :en))))
+
 (defn count-words-in-file [file]
   (let [f (slurp file)
         lines (string/split-lines f)
