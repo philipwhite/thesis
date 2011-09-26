@@ -32,6 +32,22 @@
                         (if (contains? tense-rel-freqs tense)
                           {tense (tense-rel-freqs tense)}
                           {tense [0.0]}))
+                      verb/*all-tense-aspect-names*))))
+
+(defn relative-tense-aspect-freqs-2 [tenses]
+  "takes a sequence of verb mappings. returns a map where the keys are the tense/aspect names and the values are the relative frequencies of that particular tense/aspect. Same as the function with the same name (w/0 the -2) except that it expects verb/extract-verb to have already been called"
+  (let [tense-count (count tenses)
+        tense-names (map verb/get-tense-aspect-name tenses)
+        tense-freqs (frequencies tense-names)
+        tense-rel-freqs (zipmap (keys tense-freqs)
+            (map #(vector (float (/ % tense-count)))
+                 (vals tense-freqs)))]
+    
+    ;;now add zeros for any unused tenses
+    (apply merge (map (fn [tense]
+                        (if (contains? tense-rel-freqs tense)
+                          {tense (tense-rel-freqs tense)}
+                          {tense [0.0]}))
                       verb/*all-tense-aspect-names*)
            )))
 
@@ -186,4 +202,62 @@
       (add-to-hf-verb-dataset ds m :es))
     (doseq [m en-freqs]
       (add-to-hf-verb-dataset ds m :en))
+    ds))
+
+
+;;COMBINED TENSE/MODALS/HIGH FREQ VERBS
+
+(def *combined-attribute-names* (concat verb/*all-tense-aspect-names*
+                                        verb/*high-freq-verbs*
+                                        verb/*all-modals*))
+
+(defn relative-combined-freqs [parses]
+  "takes a sequence of parses. returns a map where the keys are the combined attribute names and the values are the relative frequencies of that particular attribute"
+  (let [verbs (mapcat verb/extract-verbs parses)
+        
+        tense-names (map verb/get-tense-aspect-name verbs)
+        modals (mapcat verb/extract-modals parses)
+        hf-verbs (mapcat verb/extract-high-freq-verbs-2 verbs)
+
+        attributes (concat tense-names modals hf-verbs)
+        attribute-count (count attributes)
+        attribute-freqs (frequencies attributes)
+        
+        attribute-rel-freqs (zipmap (keys attribute-freqs)
+                                (map #(float (/ % attribute-count))
+                                     (vals attribute-freqs)))]
+    
+    ;;now add zeros for any attribute that doesn't appear
+    (apply merge (map (fn [attr]
+                        (if (contains? attribute-rel-freqs attr)
+                          {attr (attribute-rel-freqs attr)}
+                          {attr 0.0}))
+                      *combined-attribute-names*))))
+
+(defn make-combined-dataset []
+  "Makes a dataset with numerical attributes of tense, modals, and high freq
+verbs"
+  (let [ds (mld/make-dataset "Combined Verb"
+                             (concat *combined-attribute-names*
+                                     [{"L1" ["es" "en"]}])
+			  100)]
+    (mld/dataset-set-class ds "L1")
+    ds))
+
+(defn add-to-combined-dataset [ds combined-freqs L1]
+  "adds an instance using the data found in the map combined-freqs"
+  (mld/dataset-add ds (concat (map combined-freqs *combined-attribute-names*)
+                              [({:en "en" :es "es"} L1)])))
+
+(defn make-combined-dataset-from-all-corpora []
+  "makes a dataset using combined attribute relative frequencies of all the corpora"
+  (let [ds (make-combined-dataset)
+        es-freqs (map relative-combined-freqs
+                      (load-all-corpora-parses :es))
+        en-freqs (map relative-combined-freqs
+                      (load-all-corpora-parses :en))]
+    (doseq [m es-freqs]
+      (add-to-combined-dataset ds m :es))
+    (doseq [m en-freqs]
+      (add-to-combined-dataset ds m :en))
     ds))

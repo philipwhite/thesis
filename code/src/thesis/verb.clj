@@ -1187,3 +1187,9 @@ the trees for get passives. It doesn't do so when there is a conjunction in that
     (remove nil?
             (for [verb verbs]
               (high-freq-verb-base-form (last (:verb verb)))))))
+
+(defn extract-high-freq-verbs-2 [verbs]
+  "return a list of all the BASE FORMS of the high frequency verbs found in the sequence of verb mappings 'verb'"
+  (remove nil?
+          (for [verb verbs]
+            (high-freq-verb-base-form (last (:verb verb))))))
