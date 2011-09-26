@@ -33,8 +33,7 @@
                           {tense (tense-rel-freqs tense)}
                           {tense [0.0]}))
                       verb/*all-tense-aspect-names*)
-           )
-    ))
+           )))
 
 (defn run-tense-aspect-t-test []
   (let [es-freqs (apply (partial merge-with concat)
@@ -68,8 +67,8 @@
   (mld/dataset-add ds (flatten (concat (map tense-freqs verb/*all-tense-aspect-names*)
                                        [({:en "en" :es "es"} L1)]))))
 
-(defn make-classifier-from-all-corpora []
-  "makes a classifier trained on all of the corpora"
+(defn make-tense-dataset-from-all-corpora []
+  "makes a dataset using tense information from all of the corpora"
   (let [ds (make-tense-dataset)
         es-freqs (map relative-tense-aspect-freqs
                       (load-all-corpora-parses :es))
@@ -79,4 +78,112 @@
       (add-to-tense-dataset ds f :es))
     (doseq [f en-freqs]
       (add-to-tense-dataset ds f :en))
+    ds))
+
+;;;MODALS
+
+(defn relative-modal-freqs [parses]
+  "takes a sequence of parses. returns a map where the keys are the modals and the values are the relative frequencies of that particular modal"
+  (let [modals (mapcat verb/extract-modals parses)
+        modal-count (count modals)
+        modal-freqs (frequencies modals)
+        modal-rel-freqs (zipmap (keys modal-freqs)
+                                (map #(float (/ % modal-count))
+                                     (vals modal-freqs)))]
+    
+    ;;now add zeros for any modals
+    (apply merge (map (fn [m]
+                        (if (contains? modal-rel-freqs m)
+                          {m (modal-rel-freqs m)}
+                          {m 0.0}))
+                      verb/*all-modals*))))
+
+(defn make-modal-dataset []
+  "Makes a dataset with numerical attributes of modal relative frequencies"
+  (let [ds (mld/make-dataset "Modals"
+                             (conj verb/*all-modals*
+                                   {"L1" ["es" "en"]})
+			  100)]
+    (mld/dataset-set-class ds "L1")
+    ds))
+
+(defn add-to-modal-dataset [ds modal-freqs L1]
+  "adds an instance using the data found in the map modal-freqs"
+  (mld/dataset-add ds (concat (map modal-freqs verb/*all-modals*)
+                              [({:en "en" :es "es"} L1)])))
+
+(defn make-modal-dataset-from-all-corpora []
+  "makes a dataset using modal relative frequencies all of the corpora"
+  (let [ds (make-modal-dataset)
+        es-freqs (map relative-modal-freqs
+                      (load-all-corpora-parses :es))
+        en-freqs (map relative-modal-freqs
+                      (load-all-corpora-parses :en))]
+    (doseq [m es-freqs]
+      (add-to-modal-dataset ds m :es))
+    (doseq [m en-freqs]
+      (add-to-modal-dataset ds m :en))
+    ds))
+
+(def *classifiers* [[:decision-tree :c45]
+                    [:decision-tree :boosted-stump]
+                    [:decision-tree :random-forest]
+                    [:decision-tree :rotation-forest]
+                    [:bayes :naive]
+                    [:neural-network :multilayer-perceptron]
+                    [:support-vector-machine :smo]
+                    
+                    [:regression :logistic]
+                    [:regression :pace]] )
+
+(defn test-modals []
+  (let [ds (make-modal-dataset-from-all-corpora)]
+    (doseq [[cl1 cl2] *classifiers*]
+      (let [cl (mlc/make-classifier cl1 cl2)]
+        (mlc/classifier-train cl ds)
+        (mlc/classifier-evaluate cl :cross-validation ds 10)))))
+
+;;HIGH FREQUENCE VERBS
+
+(defn relative-hf-verb-freqs [parses]
+  "takes a sequence of parses. returns a map where the keys are the high freq verb base form and the values are the relative frequencies of that particular high freq verb"
+  (let [hf-verbs (mapcat verb/extract-high-freq-verbs parses)
+        hf-verb-count (count hf-verbs)
+        hf-verb-freqs (frequencies hf-verbs)
+        hf-verb-rel-freqs (zipmap (keys hf-verb-freqs)
+                                (map #(float (/ % hf-verb-count))
+                                     (vals hf-verb-freqs)))]
+    
+    ;;now add zeros for any hf-verb that doesn't appear
+    (apply merge (map (fn [hfv]
+                        (if (contains? hf-verb-rel-freqs hfv)
+                          {hfv (hf-verb-rel-freqs hfv)}
+                          {hfv 0.0}))
+                      verb/*high-freq-verbs*))))
+
+(defn make-hf-verb-dataset []
+  "Makes a dataset with numerical attributes of hf-verb relative frequencies"
+  (let [ds (mld/make-dataset "High Frequency Verbs"
+                             (conj verb/*high-freq-verbs*
+                                   {"L1" ["es" "en"]})
+			  100)]
+    (mld/dataset-set-class ds "L1")
+    ds))
+
+(defn add-to-hf-verb-dataset [ds hf-verb-freqs L1]
+  "adds an instance using the data found in the map hf-verb-freqs"
+  (mld/dataset-add ds (concat (map hf-verb-freqs verb/*high-freq-verbs*)
+                              [({:en "en" :es "es"} L1)])))
+
+(defn make-hf-verb-dataset-from-all-corpora []
+  "makes a dataset using hf-verb relative frequencies of all the corpora"
+  (let [ds (make-hf-verb-dataset)
+        es-freqs (map relative-hf-verb-freqs
+                      (load-all-corpora-parses :es))
+        en-freqs (map relative-hf-verb-freqs
+                      (load-all-corpora-parses :en))]
+    (doseq [m es-freqs]
+      (add-to-hf-verb-dataset ds m :es))
+    (doseq [m en-freqs]
+      (add-to-hf-verb-dataset ds m :en))
     ds))

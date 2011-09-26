@@ -1117,3 +1117,73 @@ the trees for get passives. It doesn't do so when there is a conjunction in that
 
 (defn verb-test [text]
   (extract-verbs (.apply parse/*parser* text)))
+
+
+;;;MODALS
+(def *all-modals*
+  ["can" "could" "dare" "may" "might" "must" 
+   "ought" "shall" "should" "will" "would"])
+
+(def *contracted-modals*
+  ["ca" "mus" "sha" "wo"])
+
+(def *contracted-modal-map*
+  {"ca" "can", "mus" "must", "sha" "shall", "wo" "will"})
+
+(defn extract-modals-at-node [node]
+  "if a leaf, return an empty seq, if label of node is MD, return that value of the child, otherwise recur on children and gather the results in a list."
+  (cond
+   (.isLeaf node) []
+   (= "MD" (.value node)) [(.toLowerCase (.value (first (.children node))))]
+   :else (mapcat extract-modals-at-node (.children node))))
+
+(defn extract-modals [parse]
+  "returns a list of modals in a parse, resolving contractions into the base form"
+  (map (fn [m]
+         (if (contains? *contracted-modal-map* m)
+           (*contracted-modal-map* m)
+           m))
+       (extract-modals-at-node parse)))
+
+;;;HIGH-FREQUENCY VERBS
+(def *high-freq-verbs*
+  ["have" "go" "take" "do" "say" "look" "know" "see" "give"
+   "think" "come" "find" "get" "make" "use"])
+
+(def *high-freq-verb-inflections-map*
+  (let [inflections
+        [["has" "had"] "have"
+         ["goes" "went" "gone"] "go"
+         ["takes" "took" "taken"] "take"
+         ["does" "did" "done"] "do"
+         ["says" "said"] "say"
+         ["looks" "looked"] "look"
+         ["knows" "knew" "known"] "know"
+         ["sees" "saw" "seen"] "see"
+         ["gives" "gave" "given"] "give"
+         ["thinks" "thought"] "think"
+         ["comes" "came"] "come"
+         ["finds" "found"] "found"
+         ["gets" "got" "gotten"] "get"
+         ["makes" "made"] "make"
+         ["uses" "used"] "use"]]
+    ;;now convert those into maps, with multiple keys (the inflections)
+    ;;referring to the same value (the base form)
+    (apply merge
+           (apply concat
+                  (for [[infls base] (partition 2 inflections)]
+                    (for [infl infls]
+                      {infl base}))))))
+
+(defn high-freq-verb-base-form [form]
+  "either returns the base form, or nil if it's not in the list"
+  (if (contains? *high-freq-verb-inflections-map* form)
+    (*high-freq-verb-inflections-map* form)
+    (some #(if (= % form) form) *high-freq-verbs*)))
+
+(defn extract-high-freq-verbs [parse]
+  "return a list of all the BASE FORMS of the high frequency verbs found in parse"
+  (let [verbs (extract-verbs parse)]
+    (remove nil?
+            (for [verb verbs]
+              (high-freq-verb-base-form (last (:verb verb)))))))

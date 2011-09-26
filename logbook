@@ -1,4 +1,22 @@
+25 Sep '11
+Added functions to the 'train-verbs' and 'verb' namespaces to allow
+classification by modal relative frequency and also by high-frequency verb
+relative frequency. The verbs considered are from Altenberg and Granger and are
+'have go take do say look know see give think come find get make use'.
+Using a Neural Net, classifying by modals gives about 80% accuracy. I need to run it again and rcord the results.
+
+Classifying by high freq vergs gives the following:
+Correctly Classified Instances         139               78.0899 %
+Incorrectly Classified Instances        39               21.9101 %
+Kappa statistic                          0.4474
+Mean absolute error                      0.2173
+Root mean squared error                  0.4346
+Relative absolute error                 54.2876 %
+Root relative squared error             97.2821 %
+Total Number of Instances              178     
+
 23 Sep '11
+commit 8b2c71f4a645c96a86fd60557aaed877664c8144
 Added function count-words-in-corpora to thesis.data. The following are the current results
 :micusp   :es 31057 
 :micusp   :en 167984 
