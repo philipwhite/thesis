@@ -4,11 +4,13 @@
    [thesis.verb :as verb]
    [clj-ml.data :as mld]
    [clj-ml.classifiers :as mlc]
-   [incanter.stats :as stats]))
+   [incanter.stats :as stats])
+  (:import
+   thesis.AttributeVoting))
 
 (defn load-all-corpora-parses [L1]
   "return a seq of seqs of trees of a given L1. (instances->sentences)"
-  (let [corpora (filter #(= (:L1 %) L1) data/*all-corpora*)]
+  (let [corpora ({:es data/*es-corpora* :en data/*en-corpora*} L1)]
     (mapcat (fn [corpus-info]
               (let [corpus (:corpus corpus-info)]
                 (map (fn [filename]
@@ -261,3 +263,8 @@ verbs"
     (doseq [m en-freqs]
       (add-to-combined-dataset ds m :en))
     ds))
+
+(defn train-and-test-NN [dataset]
+  (let [cl (mlc/make-classifier :neural-network :multilayer-perceptron)]
+    (mlc/classifier-train cl dataset)
+    (mlc/classifier-evaluate cl :cross-validation dataset 10)))

@@ -340,8 +340,8 @@
       (for [c *all-corpora*
 	    f (:filenames c)]
 	(into c {:filenames [f] :L1 (if (> 0.5 (rand)) :es :en)}))]
-  (def *rand-es-corpora* (filter #(= (:L1 %) :es)))
-  (def *rand-en-corpora* (filter #(+ (:L1 %) :en))))
+  (def *rand-es-corpora* (filter #(= (:L1 %) :es) rand-corpora))
+  (def *rand-en-corpora* (filter #(= (:L1 %) :en) rand-corpora)))
 
 (defn count-words-in-file [file]
   (let [f (slurp file)
