@@ -1,0 +1,611 @@
+<I>
+<ICE-CAN:W2A-035#1:1> <h> Pattern classification and recognition based on morphology and
+
+neural networks </h> <X>
+<ICE-CAN:W2A-035#X2:1> <h> <indig> Classification et reconnaissance de formes bas&eacute;es
+
+sur la morphologie et les r&eacute;seaux neuroniques </indig> </h> </X>
+<ICE-CAN:W2A-035#3:1> P. Yu, V. Anastassopoulos <it> and </it> A.N. Venetsanopoulos
+
+<p> <ICE-CAN:W2A-035#4:1> Morphological transformations are an efficient method for shape
+
+analysis and representation.
+<ICE-CAN:W2A-035#5:1> In this work the pecstrum ( pattern spectrum), which is a
+
+morphological shape descriptor, is used for object representation.
+<ICE-CAN:W2A-035#6:1> Neural networks are then employed, instead of conventional
+
+classification techniques, for object recognition and classification.
+<ICE-CAN:W2A-035#7:1> Various coding schemes and training procedures have been examined in
+
+order to achieve a high classification performance.
+<ICE-CAN:W2A-035#8:1> A complete classification and recognition scheme is proposed, which is
+
+shown to work satisfactorily even for small objects, where the quantization
+
+noise has significantly distorted their shape.
+<ICE-CAN:W2A-035#9:1> The classification results are compared with those obtained using
+
+conventional methods, as well as with the results obtained using other shape
+
+descriptors.</p> <X>
+
+<p> <ICE-CAN:W2A-035#X10:1> <indig> Les transformations morphologiques sont des
+
+m&eacute;thodes efficaces pour l'analyse et la repr&eacute;sentation de
+
+formes.
+<ICE-CAN:W2A-035#X11:1> Dans cette &eacute;tude, le pecstrum ( pattern spectrum), un
+
+descripteur morphologique, est utilis&eacute; pour repr&eacute;senter un
+
+objet.
+<ICE-CAN:W2A-035#X12:1> Au lieu de techniques de classification conventionnelles, on utilise
+
+les r&eacute;seaux neuroniques pour la reconnaissance et la classification
+
+des objets.
+<ICE-CAN:W2A-035#X13:1> Plusieurs strat&eacute;gies de codage et d'apprentissage ont
+
+&eacute;t&eacute; &eacute;tudi&eacute;es afin d'assurer une performance
+
+sup&eacute;rieure pour la classification.
+<ICE-CAN:W2A-035#X14:1> On propose ici une strat&eacute;gie compl&egrave;te de
+
+classification et de reconnaissance fonctionnant m&ecircumflex;me pour de
+
+petits objets pour lesquels la forme est distorsionn&eacute;e de
+
+fa&ccedille;on appr&eacute;ciable par le bruit de quantification.
+<ICE-CAN:W2A-035#X15:1> Les r&eacute;sultats de classification obtenus sont compar&eacute;s
+
+&agrave; ceux issus des m&eacute;thodes. </indig> </p> </X>
+<ICE-CAN:W2A-035#16:1> <h> <bold> I. Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-035#17:1> Pattern classification and recognition techniques constitute the
+
+basis of computer-based decision systems and find applications in many
+
+important areas, such as medicine, space exploration, geo <l> physics and
+
+defense.
+<ICE-CAN:W2A-035#18:1> Pattern recognition and classification are the links between
+
+low-level and high-level computer vision techniques <fnr> [ 1] </fnr>
+
+<footnote> [ 1] M.D. Levine, Vision in Man and Machine, New York:
+
+McGraw-Hill, 1985. </footnote>
+<ICE-CAN:W2A-035#19:1> Low-level processing such as enhancement, restoration, seg <l>
+
+mentation and detection, comes first in a general classification and
+
+recognition system.
+<ICE-CAN:W2A-035#20:1> Feature extraction, which follows, is essentially the first task in
+
+the process of recognition <fnr> [ 2] </fnr> <footnote> [ 2] R.O. Duda and
+
+P.E. Hart, Pattern Classification and Scene Analysis, New York: Wiley, 1973.
+
+</footnote>
+<ICE-CAN:W2A-035#21:1> The choice of features which will be used in the recognition process
+
+is a critical factor that affects the classification results.
+<ICE-CAN:W2A-035#22:1> In this work, the term <mention> " pattern" </mention> refers to
+
+binary objects representing airplanes, and the repre <l> sentation used is
+
+based on shape information descriptors.
+<ICE-CAN:W2A-035#23:1> There exist a wide variety of shape-information-based descriptors
+
+that can be used as features in a pattern recognition process <fnr> [ 2]-[3]
+
+</fnr> <footnote> <O> reference [ 2] </O> [ 3] T. Pavlidis, " A review of
+
+algorithms for shape analysis," Comp. Graphics and Image Processing, vol. 7,
+
+no. 2, 1978, pp. 243-258. </footnote>
+<ICE-CAN:W2A-035#24:1> These descriptors can be classified as information preserving and
+
+informa <l> tion nonpreserving <fnr> [ 3] </fnr> , depending on whether the
+
+original object can be reconstructed from the information contained in the
+
+descriptors <footnote> <O> reference [ 3] </O> </footnote> .
+<ICE-CAN:W2A-035#25:1> They can also be characterized as internal or external, depending on
+
+whether they describe information of the whole area of the object or just of
+
+its boundary.
+<ICE-CAN:W2A-035#26:1> The shape descriptor considered in this work is an
+
+information-nonpreserving, internal, morphological vector de <l> scriptor
+
+called the pecstrum ( pattern spectrum). </p>
+
+<p> <ICE-CAN:W2A-035#27:1> Morphological transformations <fnr> [ 4]-[5] </fnr> have been
+
+proven to be powerful in extracting shape information <footnote> [ 4] J.
+
+Serra, Image Analysis and Mathematical Morphology, New York: Academic Press,
+
+1982. [ 5] I. Pitas and A.N. Venetsanopoulos, Nonlinear Digital Filters:
+
+Principles and Applications, Boston: Kluwer Academic Publishers, 1990.
+
+</footnote>
+<ICE-CAN:W2A-035#28:1> These transformations are defined as combinations of set operations,
+
+the simplest of which are the morphological operations of erosion and
+
+dilation.
+<ICE-CAN:W2A-035#29:1> Their realiza <l> tion requires the binary object ( set), which will
+
+be transformed, and a probing element used to extract the shape information,
+
+called the structuring element ( SE).
+<ICE-CAN:W2A-035#30:1> The pecstrum is the simplest morphologi <l> cal shape descriptor
+
+which has been analyzed extensively <fnr> [ 6]-[9] </fnr> and has also been
+
+used for classification purposes <fnr> [ 7] </fnr> , <fnr> [ 9]-[10] </fnr>
+
+<footnote> [ 6] J.F. Bronskill and A.N.Venetsanopoulos, " The pecstrum,"
+
+presented at 3rd ASSP Workshop on Spectral Estimation and Modelling, Boston,
+
+Nov. 1986, pp. 89-92. [ 7] J.F. Bronskill and A.N.Venetsanopoulos, "
+
+Multidimensional shape description and recognition using mathematical
+
+morphology," J. of Intelligent and Robotic Syst., vol. 1, no. 2, 1988, pp.
+
+117-143. [ 8] P. Maragos, " Pattern spectrum and multiscale shape
+
+representation," IEEE Trans. Pattern Analysis Machine Intell., vol. PAMI-11,
+
+no. 7, July 1989, pp. 701-716. [ 9] V. Anastassopoulos and
+
+A.N.Venetsanopoulos, " The classification properties of the pecstrum and its
+
+use in pattern identification," Circ. Syst. Signal Proc., vol. 10, no. 3,
+
+1991, pp. 293-326. </footnote> <footnote> <O> reference [ 7] </O> </footnote>
+
+<footnote> <O> reference [ 9] </O> [ 10] V. Anastassopoulos and
+
+A.N.Venetsanopoulos, " An approach to the classification problem in the
+
+pecstral space," in Proc. 15th Biennial Symp. on Communications, Kingston,
+
+Ont., 1990, pp. 65-68. </footnote>
+<ICE-CAN:W2A-035#31:1> It con <l> tains information of the area distribution of the object,
+
+while this information depends on the structuring element used.
+<ICE-CAN:W2A-035#32:1> Simple classi <l> fication schemes that have been obtained
+
+demonstrate interesting classification results.
+<ICE-CAN:W2A-035#33:1> The classification methods that have already been used were based on
+
+simple distance measures, such as the Euclidean distance or the weighted <it>
+
+k </it> - nearest neighbour <fnr> [ 7] </fnr> , <fnr> [ 9] </fnr> <footnote>
+
+<O> reference [ 7] </O> </footnote> <footnote> <O> reference [ 9] </O>
+
+</footnote> .
+<ICE-CAN:W2A-035#34:1> The statistics of the pecstrum are unknown and, in addition, the way
+
+that these statistics change with the size ( area) of the object is difficult
+
+to determine.
+<ICE-CAN:W2A-035#35:1> These two observations are the main reasons that conventional
+
+classification methods were not considered.
+<ICE-CAN:W2A-035#36:1> Neural networks were used instead to achieve the same objective.
+<ICE-CAN:W2A-035#37:1> In this work these difficulties were overcome using neural net <l>
+
+works. </p>
+
+<p> <ICE-CAN:W2A-035#38:1> Artificial neural networks have been studied in an attempt to
+
+achieve biological-like performance.
+<ICE-CAN:W2A-035#39:1> Even though the best perform <l> ance of the neural networks studied
+
+so far is still far from that of biological creatures, neural networks have
+
+already shown a great potential in areas where many hypotheses are pursued in
+
+parallel, and where high computation rates are required.
+<ICE-CAN:W2A-035#40:1> Studies on neural networks began more than 40 years ago with an
+
+attempt to develop detailed mathematical models, and a variety of neural
+
+networks were introduced for different classification purposes <fnr> [
+
+11]-[12] </fnr> <footnote> [ 11] R.P. Lippmann, " An introduction to
+
+computing with neural nets," IEEE ASSP Mag., vol. 4, no. 2, April 1987, pp.
+
+4-22. [ 12] S. Grossberg, " Nonlinear neural networks: principles,
+
+mechanisms, and architec <l> tures," Neural Networks, vol. 1, no. 1, 1988, pp
+
+17-61. </footnote>
+<ICE-CAN:W2A-035#41:1> Various learning algorithms related to the previous network
+
+structures and network behaviours have been considered, and many successful
+
+applications have been developed. </p>
+
+<p> <ICE-CAN:W2A-035#42:1> Neural networks provide a great degree of robustness and fault
+
+tolerance to local damages, and high computation rates because of massive
+
+parallelism.
+<ICE-CAN:W2A-035#43:1> Neural networks with hidden layers can achieve better classification
+
+results. </p> <O> Diagram </O> <O> Figure 1 caption </O>
+
+<p> <ICE-CAN:W2A-035#44:1> The neural networks adopted in this paper are the feedforward
+
+networks trained with recursive least square learning algorithms <fnr> [
+
+13]-[14] </fnr> <footnote> [ 13] N.B. Karayiannis, Artificial Neural
+
+Networks: Learning Algorithms, Performance Evaluations, Ph.D. dissertation,
+
+Dept. of Electrical Engineering, University of Toronto, Toronto, Ont., April
+
+1991. [ 14] N.B. Karayiannis and A.N.Venetsanopoulos, " Efficient learning
+
+algorithms for single-layered neural networks," in Parallel Processing in
+
+Neural Systems and Computers, R. Eckmiller, G. Hartmann and G. Hanske, Eds.,
+
+North Holland: Elsevier Publishers, 1990, pp. 173-176. </footnote>
+<ICE-CAN:W2A-035#45:1> A group of templates, considered to be the key input patterns, and
+
+their associative output patterns are employed to train the neural networks
+
+to obtain a set of optimal synaptic weights by successive iteration.
+<ICE-CAN:W2A-035#46:1> If the training is successful, when the input is a noisy or
+
+incomplete version of a key pattern, the network can recall the associated
+
+pattern.
+<ICE-CAN:W2A-035#47:1> If the network employed is on a binary basis, a suitable coding
+
+scheme has to be found to convert the morphologi <l> cal shape descriptors,
+
+which are represented by a set of continuous vectors, to a set of binary
+
+codes. </p>
+
+<p> <ICE-CAN:W2A-035#48:1> In this paper, the basic morphological operation, the pecstrum,
+
+is presented in section II.
+<ICE-CAN:W2A-035#49:1> Section III gives a description of neural networks and their
+
+application in morphological pattern classifica <l> tion and recognition.
+<ICE-CAN:W2A-035#50:1> Experiments and the results are shown in section IV, which also
+
+includes comparisons with the results ob <l> tained through conventional
+
+classification techniques.
+<ICE-CAN:W2A-035#51:1> Finally, con <l> clusions are drawn in section V. </p>
+<ICE-CAN:W2A-035#52:1> <h> <bold> II. Mathematical morphology and the pecstrum </bold> </h>
+
+<p> <ICE-CAN:W2A-035#53:1> In this section we describe the pecstrum, which is a means of
+
+quantifying the geometrical structure of a continuous or discrete
+
+multidimensional signal.
+<ICE-CAN:W2A-035#54:1> Its origins and foundations lie in the prin <l> ciples of
+
+mathematical morphology <fnr> [ 4] </fnr> <footnote> <O> reference [ 4] </O>
+
+</footnote> .
+<ICE-CAN:W2A-035#55:1> Mathematical morphology deals with the processing of sets
+
+representing 2-D objects.
+<ICE-CAN:W2A-035#56:1> An object, <it> X </it> , which is either binary or gray scale, can
+
+be interacted or trans <l> formed into another object.
+<ICE-CAN:W2A-035#57:1> The tool of interaction is a simple object called a structuring
+
+element ( SE), B, and the mode of interaction is the morphological
+
+transformation.
+<ICE-CAN:W2A-035#58:1> Information about the charac <l> teristics of the object can be
+
+obtained by certain transformations with different SEs.
+<ICE-CAN:W2A-035#59:1> The basic mathematical transformations are erosion and dilation <fnr>
+
+[ 6] </fnr> <footnote> <O> reference [ 6] </O> </footnote>
+<ICE-CAN:W2A-035#60:1> Erosion ( &theta;) is a shrinking morphological operation which can
+
+be defined as <O> mathematical equation </O> , <marginalia> ( 1)
+
+</marginalia> where <it> X </it> is translated by every element of <it> B
+
+<sp> s </sp> </it> ( <it> B <sp> s </sp> </it> = { <it> - b </it> : <it> b
+
+</it> <O> mathematical symbol </O> <it> B </it> } ) , and then the
+
+intersection is taken.
+<ICE-CAN:W2A-035#61:1> Dilation ( <O> mathematical symbol </O> ) is an expanding morpho <l>
+
+logical operation: <O> Diagram </O> <O> Figure 2 caption </O> <O>
+
+mathematical equation </O> , <marginalia> ( 2) </marginalia> where <it> X
+
+</it> is translated by every element of <it> B </it> , and then the union is
+
+taken.
+<ICE-CAN:W2A-035#62:1> The erosion and dilation on a set <it> X </it> by an SE <it> B </it>
+
+are illustrated in <}> <-> Fig. </-> <+> Figure </+> </}> 1. </p>
+
+<p> <ICE-CAN:W2A-035#63:1> Opening ( &circle;) is defined as an erosion followed by a
+
+dilation with the same SE <it> B </it> ; i.e., <O> mathematical equation </O>
+
+, <marginalia> ( 3) </marginalia> where <it> B </it> is the SE
+<ICE-CAN:W2A-035#64:1> The opening of a set <it> X </it> by an SE <it> B </it> can be seen
+
+as the union of all translations of <it> B </it> which fit well in <it> X
+
+</it> : <O> mathematical equation </O> <marginalia> ( 4) </marginalia> .
+<ICE-CAN:W2A-035#65:1> As a result, the difference between <it> X </it> &circle; B and <it>
+
+X </it> consists of all those parts of <it> X </it> which are smaller than
+
+<it> B </it> or, in other words, into which <it> B </it> does not fit.
+<ICE-CAN:W2A-035#66:1> It is obvious that opening has low-pass filtering charac <l>
+
+teristics, because it removes from the object <it> X </it> , details which
+
+are smaller than <it> B </it> and can be considered as high-frequency
+
+components.
+<ICE-CAN:W2A-035#67:1> The difference <it> X </it> – ( <it> X </it> &circle; <it> B </it> )
+
+denotes all the shape information which was extracted by the structuring
+
+element <it> B </it> . </p>
+
+<p> <ICE-CAN:W2A-035#68:1> We can continue the opening process on the opened set ( <it> X
+
+</it> &circle; <it> B </it> ) , increasing each time the radius of the SE
+
+<it> B </it> , until the whole object <it> X </it> disappears, as shown in
+
+<}> <-> Fig. </-> <+> Figure </+> </}> 2.
+<ICE-CAN:W2A-035#69:1> The differences which can be formed from two successive openings,
+
+i.e., <O> mathematical equation </O> , where <O> mathematical equation </O> ,
+
+denote the shape information that can be extracted by the structuring element
+
+( <it> n </it> +1) <it> B </it> .
+<ICE-CAN:W2A-035#70:1> These differences are used to form the vector called the pecstrum in
+
+the following way
+<ICE-CAN:W2A-035#71:1> Each component, <it> p </it> ( <it> n </it> ) , of the pecstrum, <it>
+
+p </it> , is defined as <O> mathematical equation </O> , <marginalia> ( 5)
+
+</marginalia> where <it> Mes </it> ( .) denotes the size of the set included
+
+in pixels.
+<ICE-CAN:W2A-035#72:1> If <it> X <lit> &circle; <it> nB </it> is empty for all <it> n </it>
+
+&gt; <it> M </it> , <it> p </it> ( <it> M </it> ) is the last component of
+
+<it> p </it> .
+<ICE-CAN:W2A-035#73:1> It is obvious that each pecstral component, <it> p </it> ( <it> n
+
+</it> ) , contains the shape in <l> formation extracted by the SE ( <it> n
+
+</it> + 1) <it> B </it> .
+<ICE-CAN:W2A-035#74:1> Its value is equal to the size rejected normalized to the whole size
+
+of the object
+<ICE-CAN:W2A-035#75:1> Accordingly, all these components add up to unity: <O> mathematical
+
+equation </O> . </p> <marginalia> ( 6) </marginalia>
+
+<p> <ICE-CAN:W2A-035#76:1> A shape descriptor must be translation-, rotation- and
+
+scale-invariant in order to be appropriate for many recognition and
+
+classification tasks.
+<ICE-CAN:W2A-035#77:1> The vector describing the pecstrum is translation-invariant, since
+
+its formation is based on morphological opening, which is a
+
+translation-invariant transformation <fnr> [ 4]-[5] </fnr> <footnote> <O>
+
+references [ 4]-[5] </O> </footnote> .
+<ICE-CAN:W2A-035#78:1> Ro <l> tation invariance of morphological transformations can be
+
+achieved in the 2-D Euclidean space <it> R </it> <sp> 2 </sp> , only in the
+
+case of a circular SE.
+<ICE-CAN:W2A-035#79:1> In the 2-D discrete Euclidean space <it> Z </it> <sp> 2 </sp> , which
+
+is used in practice, rotation invariance of the pecstrum can be approached
+
+only when a good approximation of the circular SE is available.
+<ICE-CAN:W2A-035#80:1> Additionally, the binary object must be sufficiently large, so that
+
+its special shape characteristics do not vary significantly with rotation.
+<ICE-CAN:W2A-035#81:1> Finally, the pecstrum is not scale-invariant, but it can be made
+
+scale-invariant if every object participating in the classification process
+
+is first scaled to a standard predetermined size, <it> A <sb> s </sb> </it> .
+<ICE-CAN:W2A-035#82:1> The prescaling process <fnr> [ 7] </fnr> results in a pecstrum which
+
+is scale-invariant, while the maximum dimension, <it> k </it> , of the
+
+pecstral space is fixed and expressed from the relation between <it> A <sb> s
+
+</sb> </it> and <it> Mes </it> ( <it> B </it> ) as the minimum integer given
+
+by <O> mathematical equation </O> <marginalia> ( 7) </marginalia> <footnote>
+
+<O> reference [ 7] </O> </footnote>
+<ICE-CAN:W2A-035#83:1> Therefore, the number of the nonzero components in each pecstrum is
+
+less than <it> k </it> .
+<ICE-CAN:W2A-035#84:1> On the other hand, the pecstral space can be seen as a <it> k </it> –
+
+<it> D </it> orthonormal space in which all vectors, <it> p </it> , have
+
+components satisfying ( 6).
+<ICE-CAN:W2A-035#85:1> This equation determines a plane in the pecstral space with
+
+dimensionality <it> k </it> – 1. </p>
+
+<p> <ICE-CAN:W2A-035#86:1> Extensive work on the properties of the pecstrum has been dis <l>
+
+cussed so far, which provides an efficient tool for pattern classifica <l>
+
+tion and recognition.
+<ICE-CAN:W2A-035#87:1> The use of the pecstrum in classification and recognition tasks is
+
+attractive, mainly due to the high-speed execu <l> tion of morphological
+
+operations and the fact that it is represented by a vector with only a few
+
+components.
+<ICE-CAN:W2A-035#88:1> It was shown in <fnr> [ 7] </fnr> that the number of the vector
+
+components extracted from a fixed standard size, <it> A <sb> s </sb> </it> ,
+
+is directly related to the size of the basic SE <footnote> <O> reference [ 7]
+
+</O> </footnote.>
+<ICE-CAN:W2A-035#89:1> The size has to be properly selected to obtain a balance between
+
+simplicity of the vector and description of the shape characteristics
+<ICE-CAN:W2A-035#90:1> In this case, the classification procedure can be considered to
+
+consist of two modes.
+<ICE-CAN:W2A-035#91:1> In the learning mode, the pecstra <it> p <sp> ( i) </sp> </it> ( <it>
+
+i </it> is an index characterizing the <it> i <sp> th </sp> </it> of <it> L
+
+</it> different binary objects) of the binary objects are evaluated, given
+
+that the objects are known and their size equals the standard size <it> A
+
+<sb> s </sb> </it> , and are stored.
+<ICE-CAN:W2A-035#92:1> In the recognition mode, the pecstrum <O> mathematical symbol </O> of
+
+an observed image is evaluated and the presence of the <it> i <sp> th </sp>
+
+</it> object is declared when the Euclidean distance, <O> mathematical
+
+equation </O> , <marginalia> ( 8) </marginalia> is minimum.
+<ICE-CAN:W2A-035#93:1> The coefficients <it> c <sb> n </sb> </it> were proposed to stress
+
+more or less the degree of participation of some of the components of the pec
+
+<l> strum in the decision making.
+<ICE-CAN:W2A-035#94:1> A good selection could be the one which gives small values of <it> c
+
+<sb> n </sb> </it> for the components of the pecstrum that are rather
+
+sensitive to various kinds of quantization noise.
+<ICE-CAN:W2A-035#95:1> In <fnr> [ 7] </fnr> , the value of 1 was used for all <it> c <sb> n
+
+</sb> </it> . <footnote> <O> reference [ 7] </O> </footnote> </p>
+
+<p> <ICE-CAN:W2A-035#96:1> In <fnr> [ 9] </fnr> , the classification properties of the
+
+pecstrum and the pecstral space were examined extensively <footnote> <O>
+
+reference [ 9] </O> </footnote> .
+<ICE-CAN:W2A-035#97:1> The conceptual correlates of the pecstrum were also studied, and new
+
+concepts like the pseudo <l> pecstrum were introduced.
+<ICE-CAN:W2A-035#98:1> It was also proved in <fnr> [ 9] </fnr> that the classi <l> fication
+
+performance of the pecstrum is sufficient even for the smallest objects, when
+
+a specific classification scheme is used <footnote> <O> reference [ 9] </O>
+
+</footnote> .
+<ICE-CAN:W2A-035#99:1> Finally, some comparisons were carried out between the pecstrum and
+
+the invariant moments.
+<ICE-CAN:W2A-035#100:1> In this paper the classification procedure using the pecstrum is
+
+based on neural networks, and the results are compared to those of <fnr> [ 9]
+
+</fnr> . <footnote> <O> reference [ 9] </O> </footnote> </p>
+<ICE-CAN:W2A-035#101:1> <h> <bold> III. Classification using neural networks </bold> </h>
+
+<p> <ICE-CAN:W2A-035#102:1> The structure of neural networks is based on our present under
+
+<l> standing of biological nervous systems which are composed of neu <l> rons
+
+and synapses.
+<ICE-CAN:W2A-035#103:1> The neurons are considered to be processing elements, and the
+
+synapses to be variable resistors carrying weighted inputs that represent
+
+data or the sums of weights of still other processing elements.
+<ICE-CAN:W2A-035#104:1> Neurons can interact in many ways by virtue of the manner in which
+
+they are interconnected.
+<ICE-CAN:W2A-035#105:1> They can be either only feedforward, or they may have feedback
+
+loops.
+<ICE-CAN:W2A-035#106:1> <}> <-> Fig. </-> <+> Figure </+> </}> 3 is a typical single-layer
+
+feedforward neural system which can be de <l> scribed as <O> mathematical
+
+equation </O> , <marginalia> ( 9) </marginalia> where <it> y </it> ( <it> j
+
+</it> ) , <it> j </it> = 1, 2, &dotted-line;, <it> n <sb> 0 </sb> </it> , is
+
+the output neuron, and <it> x </it> ( <it> i </it> ) , <it> i </it> = 1, 2,
+
+&dotted-line;, <it> n <sb> i </sb> </it> , is the input neuron of this layer;
+
+<it> w <sb> ij </sb> </it> is the synaptic weight of the network connecting
+
+nodes <it> x </it> ( <it> i </it> ) and <it> y </it> ( <it> j </it> ) ;
+
+&theta;( <it> j </it> ) , <it> j </it> = 1, 2, &dotted-line;, <it> n <sb> 0
+
+</sb> </it> , is the threshold; and <O> mathematical symbol </O> ( .) is a
+
+nonlinear function.
+<ICE-CAN:W2A-035#107:1> More layers can be added, and each output neuron in the lower layer
+
+can be the input of the adjacent higher-layer structure. </p>
+
+<p> <ICE-CAN:W2A-035#108:1> The whole procedure of classification using neural networks can
+
+be seen as consisting of the following four steps:
+<ICE-CAN:W2A-035#109:1> 1) Choose an architecture of the network structure, which means
+
+choosing a suitable number of bits for the input and output <O> Diagram </O>
+
+<O> Figure 3 caption </O> signals, hidden layer nodes, and the number of
+
+hidden layers involved in this network.
+<ICE-CAN:W2A-035#110:1> 2) Determine a proper coding scheme to convert the pecstra, which
+
+are analogue figures, to a series of binary codes.
+<ICE-CAN:W2A-035#111:1> 3) Use the key patterns and their associative patterns to train the
+
+neural network to obtain a set of optimal synaptic weights of the network.
+<ICE-CAN:W2A-035#112:1> 4) Having designed a special network, test it with all vector codes
+
+available as input patterns to evaluate its performance. </p> </I>

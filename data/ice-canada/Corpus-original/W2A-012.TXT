@@ -1,0 +1,459 @@
+<I>
+<ICE-CAN:W2A-012#1:1> <h> The Object-Line Effect: Is It Attributable to Intercontext
+
+Differences or the Structural Properties of Contexts and Task Demands? </h>
+<ICE-CAN:W2A-012#2:1> <h> Bruce Earhard </h>
+<ICE-CAN:W2A-012#3:1> <h> <it> Dalhousie University </it> </h>
+
+<p> <ICE-CAN:W2A-012#4:1> <bold> <smallcaps> ABSTRACT </smallcaps> </bold>
+<ICE-CAN:W2A-012#5:1> Briefly presented target lines are reported more accurately when part
+
+of an object-like context than alone ( Williams & Weisstein, 1978).
+<ICE-CAN:W2A-012#6:1> Efforts to explain this effect have tended to focus on structural
+
+properties that contexts must possess in order to be effective in
+
+facilitating target-line discrimination ( e.g., Weisstein, Williams, &
+
+Harris, 1982).
+<ICE-CAN:W2A-012#7:1> Enns and Prinzmetal ( 1984) take issue with this approach.
+<ICE-CAN:W2A-012#8:1> They propose that contexts differ more from one another than do target
+
+lines presented alone, and it is this fact, and not the general structural
+
+properties of contexts, that underlies their effectiveness.
+<ICE-CAN:W2A-012#9:1> Two experiments examined intercontext differences and structural
+
+factors as determinants of context effectiveness.
+<ICE-CAN:W2A-012#10:1> Subjects were found to use intercontext differences to narrow the
+
+range of possible alternatives, but when this factor was controlled,
+
+structural properties determined context effectiveness.
+<ICE-CAN:W2A-012#11:1> The structural interpretation of context effectiveness was found not
+
+to be as straight <l> forward as generally assumed, however.
+<ICE-CAN:W2A-012#12:1> A third experiment showed context effec <l> tiveness to be affected
+
+by the character of the discrimination task employed. </p>
+
+<p> <X>
+<ICE-CAN:W2A-012#X13:1> <indig> R&Eacute;SUM&Eacute;
+<ICE-CAN:W2A-012#X14:1> Des lignes-cibles pr&eacute;sent&eacute;es bri&egrave;vement sont
+
+rapport&eacute;es avec plus de pr&eacute;cision lorsqu'elles font partie d'un
+
+contexte figural que pr&eacute;sent&eacute;es toutes seules ( Williams &
+
+Weisstein, 1978).
+<ICE-CAN:W2A-012#X15:1> Les efforts pour expliquer cet effet se sont concen <l> tr&eacute;s
+
+sur les propri&eacute;t&eacute;s structurales que le contexte doit
+
+poss&eacute;der en vue de faciliter la discrimination lignes-cibles ( e.g.,
+
+Weisstein, Williams, & Harris, 1982).
+<ICE-CAN:W2A-012#X16:1> Enns et Prinzmetal ( 1984) ont consid&eacute;r&eacute; cette
+
+approche.
+<ICE-CAN:W2A-012#X17:1> Ils proposent que les contextes diff&egrave;rent plus l'un de
+
+l'autre que les lignes-cibles pr&eacute;sent&eacute;es seules et c'est ce
+
+fait, et non pas les propri&eacute;t&eacute;s structurales
+
+g&eacute;n&eacute;rales des contextes, qui sous-tend leur efficacit&eacute;.
+<ICE-CAN:W2A-012#X18:1> Deux exp&eacute;riences examinaient les diff&eacute;rences
+
+intercontextes et les fac <l> teurs structuraux comme d&eacute;terminants de
+
+l'efficacit&eacute; du contexte.
+<ICE-CAN:W2A-012#X19:1> On a montr&eacute; que les sujets utilisaient les diff&eacute;rences
+
+intercontexts pour retr&eacute;cir l'&eacute;tendue des alter <l> natives
+
+possibles; cependant, quand ce facteur &eacute;tait
+
+contr&ocircumflex;l&eacute;, les propri&eacute;t&eacute;s structu <l> rales
+
+d&eacute;terminaient l'efficacit&eacute; du contexte.
+<ICE-CAN:W2A-012#X20:1> L'interpr&eacute;tation structurale de l'efficacit&eacute; du
+
+contexte n'&eacute;tait cependant pas aussi &eacute;vidente que
+
+g&eacute;n&eacute;ralement assum&eacute;.
+<ICE-CAN:W2A-012#X21:1> Une troi <l> si&egrave;me exp&eacute;rience a montr&eacute; que
+
+l'efficacit&eacute; du contexte &eacute;tait affect&eacute;e par le carac <l>
+
+t&egrave;re de la t&acircumflex;che discriminative employ&eacute;e. </indig>
+
+</X> </p>
+
+<p> <ICE-CAN:W2A-012#22:1> Briefly presented line segments can be discriminated more
+
+accurately within an object-like context than alone ( Williams & Weisstein,
+
+1978).
+<ICE-CAN:W2A-012#23:1> This finding has been termed the object-line effect ( OLE).
+<ICE-CAN:W2A-012#24:1> It has attracted much attention because it is con <l> trary to
+
+expectation.
+<ICE-CAN:W2A-012#25:1> Normally, briefly exposed, adjacent line segments interfere with one
+
+another through lateral inhibitory processes ( Breitmeyer, 1984).
+<ICE-CAN:W2A-012#26:1> Line seg <l> ments, therefore, should be more accurately
+
+discriminated when presented alone than when included as one of many line
+
+segments constituting a context. </p>
+
+<p> <ICE-CAN:W2A-012#27:1> Not all contexts are effective in facilitating line
+
+discrimination.
+<ICE-CAN:W2A-012#28:1> Weisstein and her associates have shown that contexts which are
+
+coherent ( i.e., present a unitary configuration), connected ( i.e., have a
+
+continuous contour), and three dimensional ( i.e., have a depth inducing
+
+perspective) are effective in facilitating discrimination of constituent line
+
+detail, and contexts lacking these characteristics are not ( e.g., Lanze,
+
+Maguire, & Weisstein, 1985; Lanze, Weisstein, & Harris, 1982; Weisstein,
+
+Williams, & Harris, 1982; Williams & Weisstein, 1978).
+<ICE-CAN:W2A-012#29:1> Weisstein and her associates suggest that structural properties such
+
+as coherence, connectedness, and three dimensionality increase the
+
+discriminability of contexts and allow them to be processed more rapidly than
+
+contexts lacking these properties or target lines presented alone. </p>
+
+<p> <ICE-CAN:W2A-012#30:1> An alternative interpretation of the OLE has been recently
+
+advanced by Enns and Prinzmetal ( 1984).
+<ICE-CAN:W2A-012#31:1> They suggest that in analyzing the OLE, attention should not be <}>
+
+<-> focussed </-> <+> focused </+> </}> on the structural properties of
+
+contexts, but on the degree to which con <l> texts differ from one another in
+
+appearance and the degree to which such differences are greater than those
+
+evident among target lines presented alone.
+<ICE-CAN:W2A-012#32:1> They contend that, in studies demonstrating an OLE, contexts
+
+containing target lines differ more from one another than do members of the
+
+set of target lines presented alone.
+<ICE-CAN:W2A-012#33:1> Since each different context is associated with a particular
+
+target-line location, subjects can use the distinctive appearance of
+
+individual contexts as a basis for inferring which target line has been
+
+presented.
+<ICE-CAN:W2A-012#34:1> Under such circumstances, better performance is to be expected when
+
+target lines are presented within contexts than when they are presented
+
+alone.
+<ICE-CAN:W2A-012#35:1> The feasibility of the Enns and Prinzmetal approach has been much
+
+strength <l> ened by their demonstration that intercontext dissimilarity, in
+
+the absence of any general configural property such as three dimensionality,
+
+connectedness, or coher <l> ence, can generate an OLE and that making
+
+information provided by intercontext differences difficult to use reduces or
+
+eliminates the OLE. </p>
+
+<p> <ICE-CAN:W2A-012#36:1> The research to be reported examines the Enns and Prinzmetal (
+
+1984) position.
+<ICE-CAN:W2A-012#37:1> It was prompted by doubts that the effectiveness of a given set of
+
+contexts can be wholly attributed to intercontext differences.
+<ICE-CAN:W2A-012#38:1> The principal objective was to deter <l> mine whether context effects
+
+attributable to the stimulus properties of contexts can be demonstrated if
+
+intercontext configural dissimilarities are controlled. </p>
+<ICE-CAN:W2A-012#39:1> <h> EXPERIMENT 1 </h>
+
+<p> <ICE-CAN:W2A-012#40:1> Experiment 1 was a preliminary study with two objectives.
+<ICE-CAN:W2A-012#41:1> One objective was to examine Enns and Prinzmetal's ( 1984) claim that
+
+subjects use intercontext differ <l> ences correlated with target-line
+
+location to specify acceptable alternatives in studies of the OLE.
+<ICE-CAN:W2A-012#42:1> The other objective was to try and determine whether, with intercon
+
+<l> text differences controlled, evidence could be obtained to show that the
+
+structural properties of contexts remain as an important determinant of the
+
+OLE. </p>
+<ICE-CAN:W2A-012#43:1> <h> <it> Method </it> </h>
+
+<p> <ICE-CAN:W2A-012#44:1> <it> Design and Materials </it> : Subjects were required to
+
+specify the position of a broken target line presented alone and within two
+
+structurally different types of contexts.
+<ICE-CAN:W2A-012#45:1> The two different types of contexts are shown in Panel A of Figure 1.
+<ICE-CAN:W2A-012#46:1> It may be seen that each of the contexts was aligned in two different
+
+ways.
+<ICE-CAN:W2A-012#47:1> At each alignment, only two of the four broken target-line <O> Table
+
+</O> <O> Figure 1 caption </O> locations were appropriate targets.
+<ICE-CAN:W2A-012#48:1> If the long axis of either context was aligned vertically, a target
+
+line could be located on the left or the right.
+<ICE-CAN:W2A-012#49:1> If the long axis of either context was aligned horizontally, the
+
+target line could occur at the top or bottom.
+<ICE-CAN:W2A-012#50:1> Context alignment was thus correlated with target-line location.
+<ICE-CAN:W2A-012#51:1> If subjects are as sensitive to configural variations in contexts as
+
+Enns and Prinzmetal ( 1984) suggest, they should readily discern the
+
+consequences of context orientation and utilize this information to narrow
+
+down the range of appropriate response alternatives.
+<ICE-CAN:W2A-012#52:1> As a consequence, they should make few errors that involve alterna
+
+<l> tives inappropriate with respect to the orientation of a given context.
+
+</p>
+
+<p> <ICE-CAN:W2A-012#53:1> Although the orientation information provided by the two contexts
+
+is identical, the two con <l> texts are very different structurally.
+<ICE-CAN:W2A-012#54:1> One context is flat and unconnected, the other is con <l> nected and
+
+three dimensional.
+<ICE-CAN:W2A-012#55:1> If Weisstein is correct and the structural properties of contexts is
+
+an important determinant of the OLE, then the connected, three-dimensional
+
+context should generate an OLE effect and the flat, unconnected context
+
+should not.
+<ICE-CAN:W2A-012#56:1> Further, any differences generated should not be attributable to
+
+intercontext differences correlated with target-line loca <l> tions of the
+
+type described by Enns and Prinzmetal ( 1984).
+<ICE-CAN:W2A-012#57:1> Employing a <it> single </it> connected, three-dimensional context
+
+and a <it> single </it> flat, unconnected context, rather than a set of
+
+different contexts exemplifying each context type, eliminates intercontext
+
+configural differences of the type described by Enns and Prinzmetal.
+<ICE-CAN:W2A-012#58:1> The only variation in context appearance in both con <l> nected
+
+three-dimensional and unconnected two-dimensional forms is that associated
+
+with orientation, and variations associated with orientation are identical
+
+for both types of contexts.
+<ICE-CAN:W2A-012#59:1> Any overall difference between lines presented in context and alone
+
+should reflect the ease or difficulty subjects have in determining the
+
+position of target-line locations as a function of the structural properties
+
+of the two contexts employed. </p>
+
+<p> <ICE-CAN:W2A-012#60:1> An Imagewriter printer directed by an Apple 2e computer was used
+
+to generate the central square of three-dimensional contexts and to introduce
+
+broken target lines at the requisite posi <l> tions.
+<ICE-CAN:W2A-012#61:1> Angular wing-like appendages were added by a Koh-I-Nor drafting pen
+
+with a 0.6 mm nib.
+<ICE-CAN:W2A-012#62:1> The number and length and type of the line components used in the
+
+unconnected, flat context were the same as those used in the
+
+three-dimensional context, and the positioning of broken target lines vis
+
+&agrave; vis the fixation point in outer locations of the unconnected context
+
+was identical to that used in the three-dimensional context.
+<ICE-CAN:W2A-012#63:1> The connected and unconnected contexts subtended visual angles of
+
+2.3&degree; and 2.1&degree;, respectively, along the long axis and
+
+1.7&degree; and 1.8&degree;, respectively, along the short axis.
+<ICE-CAN:W2A-012#64:1> Target lines subtended a visual angle of 1.1&degree;.
+<ICE-CAN:W2A-012#65:1> Eight naive subjects participated in the experiment in exchange for
+
+course credit points. </p>
+
+<p> <ICE-CAN:W2A-012#66:1> <it> Procedure </it> : A forced choice procedure required
+
+subjects to specify the position of the target line after each presentation
+
+by pointing to one of the four possible target-line locations dis <l> played
+
+on a response card.
+<ICE-CAN:W2A-012#67:1> Twenty-four item presentation blocks were used, and within each
+
+block, target lines appeared alone and in each of the two different contexts
+
+equally often.
+<ICE-CAN:W2A-012#68:1> Both context orientations and all four target-line locations were
+
+sampled equally often within each block.
+<ICE-CAN:W2A-012#69:1> Drawings of various contexts and lines examined were provided before
+
+the start of the study and were available for consultation throughout the
+
+experiment.
+<ICE-CAN:W2A-012#70:1> No information was provided about the fact that horizontal and
+
+vertical alignments of contexts could be used to narrow the range of relevant
+
+target-line locations.
+<ICE-CAN:W2A-012#71:1> To familiarize subjects with the general procedure, a block of
+
+practice presentations preceded the eight blocks of experimental presen <l>
+
+tations.
+<ICE-CAN:W2A-012#72:1> A Gerbrands two-field tachistoscope was used to present stimuli.
+<ICE-CAN:W2A-012#73:1> A uniformly illu <l> minated preexposure field containing a small
+
+fixation dot preceded and followed the exposure field.
+<ICE-CAN:W2A-012#74:1> As in the Enns and Prinzmetal ( 1984) study, subjects were required
+
+to maintain a predeter <l> mined level of accuracy in responding.
+<ICE-CAN:W2A-012#75:1> The required accuracy level of 50-70% correct responding was
+
+established by holding the illumination level of the exposure field of the
+
+tachistoscope fixed at 1.7 cd/m <sp> 2 </sp> and varying the illumination
+
+level of the uniform field preceding and following the exposure field.
+<ICE-CAN:W2A-012#76:1> The preliminary practice period was used to establish an appropriate
+
+performance level.
+<ICE-CAN:W2A-012#77:1> As in the Enns and Prinzmetal study, further adjustments were made,
+
+if necessary, only at the end of a presentation block after all conditions
+
+had been presented an equal number of times.
+<ICE-CAN:W2A-012#78:1> The mean level of illumination of the field which preceded and
+
+followed the exposure field was 3.1 cd/m <sp> 2 </sp> .
+<ICE-CAN:W2A-012#79:1> A fixed exposure duration of 20 ms was used throughout the study.
+<ICE-CAN:W2A-012#80:1> Subjects were provided no feedback with respect to the accuracy of
+
+their responses during the study. </p>
+<ICE-CAN:W2A-012#81:1> <h> <it> Results </it> </h>
+
+<p> <ICE-CAN:W2A-012#82:1> To determine whether typically observed object-line effects were
+
+evident, the proportion of presentations on which target lines were
+
+designated correctly was tabu <l> lated for each condition.
+<ICE-CAN:W2A-012#83:1> The mean proportion of target lines correctly specified was higher
+
+for target lines within the connected, three-dimensional context than within
+
+the flat, unconnected context or than when presented alone ( .82, .59, & .55,
+
+respec <l> tively).
+<ICE-CAN:W2A-012#84:1> An analysis of variance applied to arc sine transformed proportions
+
+indi <l> cated that presentation conditions differed reliably, <it> F </it> (
+
+2, 14) = 13.46, <it> p </it> < .001. 
+<ICE-CAN:W2A-012#85:1> Planned comparison tests showed that target lines were discerned
+
+significantly more accurately in the three-dimensional context than in the
+
+two-dimensional context, <it> t </it> ( 14) = 4.81, <it> p </it>
+
+< .05, or than when presented alone,  <it> t </it> ( 14) = 4.20, <it> p </it>
+
+< .05. 
+<ICE-CAN:W2A-012#86:1> Differ <l> ences in the accuracy with which target lines were
+
+discriminated in the flat, two-dimensional context and line-alone condition
+
+did not differ reliably. </p> <O> Table </O> <O> Table caption </O>
+
+<p> <ICE-CAN:W2A-012#87:1> Finding that the two contexts differed in the degree to which
+
+they facilitated target-line location supports the Weisstein et al. ( 1982)
+
+position that structural properties of contexts are important, but is
+
+difficult to reconcile with the approach of Enns and Prinzmetal ( 1984).
+<ICE-CAN:W2A-012#88:1> According to Enns and Prinzmetal, pronounced intercon <l> text
+
+configural differences have to be evident among the exemplars of a given con
+
+<l> text type, and these differences have to be correlated with target-line
+
+locations for variations in context effectiveness to be manifest.
+<ICE-CAN:W2A-012#89:1> In the present study, each context type was represented by a single
+
+configuration.
+<ICE-CAN:W2A-012#90:1> The only variation in contexts cor <l> related with target-line
+
+location was that associated with context alignment, and that, as has been
+
+noted, was identical for both context types. </p>
+
+<p> <ICE-CAN:W2A-012#91:1> To determine whether subjects took advantage of context alignment
+
+to narrow the range of appropriate alternatives, the total number of errors
+
+made by each subject were divided according to whether the alternative
+
+selected matched the orientation of the target line presented or was
+
+nonmatching, that is, orthogonal to the orienta <l> tion the target line
+
+presented.
+<ICE-CAN:W2A-012#92:1> An analysis of variance carried out on the error data indicated that
+
+there were reliable main effects for error type, <it> F </it> ( 1, 7) = 5.67,
+
+<it> p </it> < .05, presentation conditions,  <it> F </it> ( 2, 14) = 12.69,
+
+<it> p </it> < .001, and an interaction between presen tation conditions and
+
+error type, <it> F </it> ( 2, 14) = 32.22, <it> p </it> < .001. 
+<ICE-CAN:W2A-012#93:1> The summary of error data provided in Table 1 shows that the most
+
+important factor contributing to the interaction is the marked difference in
+
+error patterns between the context and line-alone conditions.
+<ICE-CAN:W2A-012#94:1> In context conditions, errors involving appropriately oriented
+
+alternatives were more common than errors involving inappropriately oriented
+
+alterna <l> tives, whereas in the line-alone condition the reverse was true.
+<ICE-CAN:W2A-012#95:1> Why errors involving inappropriately oriented alternatives were twice
+
+as frequent in the line-alone condi <l> tion ( 19.63 vs. 9.50) as errors
+
+involving appropriately oriented alternatives is difficult to understand.
+<ICE-CAN:W2A-012#96:1> Inspection of presentation sequences and tabulation operations
+
+reveals no indication of anomalies that could account for the effect.
+<ICE-CAN:W2A-012#97:1> Although not readily explained, the distribution of error types in
+
+the line-alone condition is of only limited interest. </p> </I>

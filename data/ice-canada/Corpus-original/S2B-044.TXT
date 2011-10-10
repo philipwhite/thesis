@@ -1,0 +1,387 @@
+<I>
+
+<$A> <ICE-CAN:S2B-044#1:1:A> Hypothesis two <,> the expertise of literary critics should
+
+enable them to pick up more textual clues and markers than non-experts do
+
+<,,>
+<ICE-CAN:S2B-044#2:1:A> Hypothesis three critics versed in the cultural references of a
+
+particular text should respond differently to that text than those who are
+
+not as culturally informed
+<ICE-CAN:S2B-044#3:1:A> Hypothesis four within the same critical circle there should be
+
+commonly held concepts and ways of reading a text
+<ICE-CAN:S2B-044#4:1:A> Over the past few years I've aimed to establish the validity of
+
+these <}> <-> hypothesis </-> <=> hypotheses </=> </}> <}> <-> though my own
+
+</-> <=> through my own </=> </}> empirical research
+<ICE-CAN:S2B-044#5:1:A> To accomplish this I've conducted a series of studies in which I had
+
+graduate students some of whom could be considered as expert readers analyze
+
+the same text using the same critical model of analysis
+<ICE-CAN:S2B-044#6:1:A> My objective was to see under these circumstances to what extent
+
+interpretations or readings would vary within and between groups
+<ICE-CAN:S2B-044#7:1:A> The independent variables tested were levels of expertise critical
+
+expertise including knowledge of the genre the critical model used and the
+
+corresponding linguistic and literary theories and knowledge of the culture
+
+in this case Canadian and or Quebecois culture
+<ICE-CAN:S2B-044#8:1:A> Along with what I refer to all of these <}> <-> <.> do </.> </-> <=>
+
+levels of domain </=> </}> knowledge I also sought to determine if the time
+
+factor <}> <-> was a <.> sig </.> </-> <=> was significant </=> </}> when
+
+analyzing the text
+<ICE-CAN:S2B-044#9:1:A> The sample text for all readers <,,> twenty-five in all was a play
+
+written about pre-war Quebec by the Quebecois writer playwright Marie Laberge
+
+<indig> C'&eacute;tait avant le guerre &agrave; L'Anse-&Agrave;-Gilles
+
+</indig>
+<ICE-CAN:S2B-044#10:1:A> The critic model was based upon <w> Greimas'</w> system of
+
+functional analysis and <w> Pavis'</w> <}> <-> <.> commitaire </.> </-> <+>
+
+quantitative </+> </}> study of <unclear> word </unclear> or stage elements
+
+found in printed plays
+<ICE-CAN:S2B-044#11:1:A> My subjects were graduate students in Canada and France with
+
+varying self-rated degrees of knowledge about dramatic analysis and the
+
+semiotics <,> about the precise critical methodology used about Canada and
+
+Quebec and about Quebec theatre <,,>
+<ICE-CAN:S2B-044#12:1:A> Method
+<ICE-CAN:S2B-044#13:1:A> Using an analytical grid <}> <-> the analytical grid adapted from
+
+the work of Greimas </-> <=> an analytical grid adapted from the work of
+
+Greimas </=> </}> and Paris subjects were asked to analyze one scene <,> one
+
+scene of the Laberge play
+<ICE-CAN:S2B-044#14:1:A> They did this by dividing this scene into subscenes based on what
+
+they perceived of the different conflicts depicted in the text
+<ICE-CAN:S2B-044#15:1:A> They were asked to designate the subject the object and the
+
+opponent of these <w> conflicts'</w> spheres of action <unclear> maybe three
+
+words </unclear> and to describe the overall general atmosphere of the scene
+
+connotations later regrouped under <indig> convergences </indig> convergences
+
+created by the different theatrical or stage elements referred to in the text
+
+<,,>
+<ICE-CAN:S2B-044#16:1:A> The first of the three independent variables measured the results
+
+of spontaneous versus non-spontaneous reading
+<ICE-CAN:S2B-044#17:1:A> The remaining independent variables related to the scores obtained
+
+by the readers in relation to six different domains of knowledge <,>
+
+knowledge of Canada knowledge of Quebec knowledge of theatre knowledge of
+
+Quebec theatre knowledge of linguistics or semiotics and knowledge of the
+
+critical model
+<ICE-CAN:S2B-044#18:1:A> I first compared results against the total scores obtained for the
+
+six domains of expertise
+<ICE-CAN:S2B-044#19:1:A> That is I used the overall expertise of the readers to compare the
+
+analysis of those obtaining high total knowledge scores against those with
+
+low total knowledge scores
+<ICE-CAN:S2B-044#20:1:A> I did this in order to see whether or not the more informed readers
+
+would answer differently than less informed ones <,>
+<ICE-CAN:S2B-044#21:1:A> Then I compared the readers' analysis in relation to each of the
+
+six domains of expertise
+<ICE-CAN:S2B-044#22:1:A> In this case I wanted to find out A if <}> <-> culture and
+
+knowledge </-> <=> cultural knowledge </=> </}> made a difference when
+
+reading <}> <-> a test </-> <=> a text </=> </}> that was culturally specific
+
+B if critical expertise whether it be dramatic criticism or semiotics lead
+
+high scoring readers to answer differently from low scoring ones and C if the
+
+choice and or knowledge of the methodology made a difference
+<ICE-CAN:S2B-044#23:1:A> I also ran a test to determine whether spontaneous reading by a
+
+group of subjects would be the same as that conducted by the same readers who
+
+had had time to read and think about the text
+<ICE-CAN:S2B-044#24:1:A> Here are the results <,,>
+<ICE-CAN:S2B-044#25:1:A> Spontaneous versus non-spontaneous
+<ICE-CAN:S2B-044#26:1:A> When I compared the analysis of those who noted down their
+
+interpretations as they were reading the text with those produced by students
+
+having had time to study the text I noted areas of agreement <,> within and
+
+between both groups
+<ICE-CAN:S2B-044#27:1:A> Spontaneous reactions to a text can be held in common and can be
+
+maintained over time
+<ICE-CAN:S2B-044#28:1:A> Nevertheless there were some <}> <-> <.> con </.> </-> <=>
+
+inconsistencies </=> </}> <unclear> two words </unclear> with spontaneous
+
+reading
+<ICE-CAN:S2B-044#29:1:A> Over time a few readers also changed their minds as to the meaning
+
+of a text <,,>
+<ICE-CAN:S2B-044#30:1:A> In the case <}> <-> of the two independent </-> <=> of the two
+
+dependent </=> </}> variables subjects opponents time led to more coherent
+
+readings of the text
+<ICE-CAN:S2B-044#31:1:A> When designating objects and convergences those who had more time
+
+that is the non-spontaneous readers entered more responses than did the
+
+spontaneous group
+<ICE-CAN:S2B-044#32:1:A> For example the non-spontaneous group supplied more objects and
+
+more convergences than did the spontaneous group
+<ICE-CAN:S2B-044#33:1:A> Conclusion <,>
+<ICE-CAN:S2B-044#34:1:A> And of course this is all very summarized form
+<ICE-CAN:S2B-044#35:1:A> Time makes a difference
+<ICE-CAN:S2B-044#36:1:A> Not surprising
+<ICE-CAN:S2B-044#37:1:A> It leads readers to change their minds about the meanings of a text
+
+to produce more consistent analysis of what they have read and to propose
+
+more varied and more nuanced analysis
+<ICE-CAN:S2B-044#38:1:A> I'm going to go to what you have as uhm <,> four point three <,>
+
+instead of four point two for the first and I'll go back to four point two
+<ICE-CAN:S2B-044#39:1:A> Critical expertise overall knowledge <,>
+<ICE-CAN:S2B-044#40:1:A> When comparisons against the overall knowledge levels of the
+
+reading subjects were conducted a complex pattern was revealed of overlap and
+
+agreement coupled with opposing nuances and outright contradictions
+<ICE-CAN:S2B-044#41:1:A> On the one hand informed readers agree on several points with
+
+non-informed readers
+<ICE-CAN:S2B-044#42:1:A> That is there were some commonly held perceptions
+<ICE-CAN:S2B-044#43:1:A> On the other hand those who were most informed selected a larger
+
+number of types of objects and convergences than did the less informed group
+
+where choices were more spread out and basically less consistent within the
+
+group
+<ICE-CAN:S2B-044#44:1:A> Conclusion
+<ICE-CAN:S2B-044#45:1:A> Informed readers and non-informed readers disagree as to the
+
+relative importance of the different types of possible answers
+<ICE-CAN:S2B-044#46:1:A> The concepts of those with high levels of overall knowledge are
+
+more differentiated <,> their readings more nuanced than those of the less
+
+informed readers
+<ICE-CAN:S2B-044#47:1:A> To put it another way the more you know the more you have to say
+
+<,>
+<ICE-CAN:S2B-044#48:1:A> This is certainly a reassuring conclusion for those of us who make
+
+a living from having a lot to say and saying it in such a way as to imply <}>
+
+<-> that we're </-> <=> that we </=> </}> are revealing new truths to those
+
+who may be listening
+<ICE-CAN:S2B-044#49:1:A> But more significantly it points to the importance of overall
+
+domain-related knowledge and the differentiation of expert and non-expert
+
+readers
+<ICE-CAN:S2B-044#50:1:A> Now we'll go to specifics
+<ICE-CAN:S2B-044#51:1:A> Critical expertise knowledge of the critical model <,,>
+<ICE-CAN:S2B-044#52:1:A> When I compared the work of readers who were not instructed as to
+
+the use of the actual critical model with that of well-instructed readers
+
+results showed that there was generally no consistent pattern of response
+
+within the non-<}> <-> <.> insis </.> </-> <=> instructed </=> </}> group
+<ICE-CAN:S2B-044#53:1:A> Moreover by none of my measures did the non-instructed group agree
+
+with the instructed group
+<ICE-CAN:S2B-044#54:1:A> For example readers with high levels of this type of domain
+
+knowledge designated subjects and opponents more often and more logically
+
+than did those with little knowledge of the model
+<ICE-CAN:S2B-044#55:1:A> In the same way subjects with high levels of domain knowledge also
+
+designated more objects and more convergences <}> <-> than did </-> <=> than
+
+did </=> </}> those with low levels of knowledge of the critical model <,>
+<ICE-CAN:S2B-044#56:1:A> Conclusion
+<ICE-CAN:S2B-044#57:1:A> Knowledge of the process seems to make a difference both as a
+
+distinguishing factor between experts and non-experts and as a means of
+
+differentiating experts from each other
+<ICE-CAN:S2B-044#58:1:A> Knowledge of the critical methodology distinguishes readers from
+
+each other
+<ICE-CAN:S2B-044#59:1:A> It is also sufficient condition to allow readers to produce more
+
+levels of meaning
+<ICE-CAN:S2B-044#60:1:A> In this case more convergences than objects <,>
+<ICE-CAN:S2B-044#61:1:A> Critical expertise knowledge of theatre and or dramatic criticism
+<ICE-CAN:S2B-044#62:1:A> The comparison of those with high levels of knowledge and or
+
+dramatic criticism and those with low levels of this type of critical
+
+expertise produce interesting results which correlate with the finding for
+
+measures of overall knowledge
+<ICE-CAN:S2B-044#63:1:A> Informed readers agreed in some points identified by non-informed
+
+readers
+<ICE-CAN:S2B-044#64:1:A> Informed readers generally analyze texts differently than do
+
+non-informed readers
+<ICE-CAN:S2B-044#65:1:A> Answers in the low level group differed by as much as fifty percent
+
+by those of the high level group
+<ICE-CAN:S2B-044#66:1:A> Informed readers isolate more elements of meaning than do
+
+non-informed readers and perhaps consequently informed readers disagree more
+
+between themselves than do non-informed readers <,>
+<ICE-CAN:S2B-044#67:1:A> Conclusion
+<ICE-CAN:S2B-044#68:1:A> Knowledge of the genre makes a difference
+<ICE-CAN:S2B-044#69:1:A> It differentiates informed and non-informed readers and informed
+
+readers against themselves
+<ICE-CAN:S2B-044#70:1:A> There can be some agreement between the two groups but overall
+
+those with relevant domain knowledge performed differently than those without
+
+this type of knowledge
+<ICE-CAN:S2B-044#71:1:A> Domain specific critical expertise is what differentiates expert
+
+readers from non-expert readers and from each other
+<ICE-CAN:S2B-044#72:1:A> At least <,> one might think that until we get to a knowledge of
+
+semiotics another kind of expertise
+<ICE-CAN:S2B-044#73:1:A> Perhaps the most surprising result of my research was that produced
+
+by the comparison between those <?> possessing </?> semiotic knowledge with
+
+those with low levels of this particular type of critical expertise
+<ICE-CAN:S2B-044#74:1:A> One could have expected these readers to behave as expert readers
+
+that is to reply differently than the non-expert group and to provide more
+
+layers of meaning
+<ICE-CAN:S2B-044#75:1:A> But this is not what I found
+<ICE-CAN:S2B-044#76:1:A> Responses were essentially the same for both groups
+<ICE-CAN:S2B-044#77:1:A> The high knowledge group
+<ICE-CAN:S2B-044#78:1:A> I don't know if I should <&> audience laughter </&> leave now <,,>
+<ICE-CAN:S2B-044#79:1:A> The high knowledge group designated about as many objects as did
+
+the low knowledge group and both groups selected ah almost the same number of
+
+convergences
+<ICE-CAN:S2B-044#80:1:A> Conclusion <,>
+<ICE-CAN:S2B-044#81:1:A> Being <}> <-> high </-> <=> highly </=> </}> informed about
+
+literature or literary theory in general is not a significant factor when
+
+analyzing a specific genre or using a specific methodology
+<ICE-CAN:S2B-044#82:1:A> Knowing about literary theory does not allow readers to produce
+
+more detailed analysis or different readings than those of non-informed
+
+readers
+<ICE-CAN:S2B-044#83:1:A> Expert knowledge of theatre and dramatic criticism is what is
+
+required to differentiate literary critics of drama from non-expert readers
+<ICE-CAN:S2B-044#84:1:A> Knowledge about semiotics apparently only generally relates to the
+
+specific application of the Greimasian model to theatre and is therefore not
+
+enough to differentiate these critics from non-experts <,>
+<ICE-CAN:S2B-044#85:1:A> Cultural expertise knowledge of Canada or Quebec <,,>
+<ICE-CAN:S2B-044#86:1:A> Although Canadians and Quebecois experts offered more levels of
+
+meaning than a non-informed <}> <-> groups </-> <=> group </=> </}> those
+
+with high levels of knowledge about Canada or Quebec did not differ amongst
+
+themselves as to the meaning of the different types of analysis
+<ICE-CAN:S2B-044#87:1:A> Moreover whether they knew about Canada or about Quebec these
+
+readers distinguished themselves from those who knew less about Canada or
+
+Quebec by proposing far more objects and far more convergences
+<ICE-CAN:S2B-044#88:1:A> Conclusion <,,>
+<ICE-CAN:S2B-044#89:1:A> Cultural expertise leads readers to form more numerous and more
+
+consistent opinions on the meaning of a text related to the culture about
+
+which they are knowledgeable <,>
+<ICE-CAN:S2B-044#90:1:A> <?> Might </?> tell us something about uhm <}> <-> national or
+
+regional </-> <=> <,> interpretations of national or regional literatures
+
+</=> </}>
+<ICE-CAN:S2B-044#91:1:A> Readers with knowledge of the culture to which the text is related
+
+produce more meanings than less informed readers do <,> but more consistent
+
+and fewer than the other texts <unclear> maybe three words </unclear>
+<ICE-CAN:S2B-044#92:1:A> Critical and cultural expertise knowledge of Quebec theatre
+<ICE-CAN:S2B-044#93:1:A> Quebec theatre as opposed to theatres just by itself
+<ICE-CAN:S2B-044#94:1:A> Knowledge of Quebec theatre turned out to be a <unclear> maybe two
+
+words </unclear> produced complex and surprising results
+<ICE-CAN:S2B-044#95:1:A> There was some agreement between the two groups although the
+
+informed group produced more answers than did the non-informed group
+<ICE-CAN:S2B-044#96:1:A> However when compared with those knowledgeable about Canada or
+
+Quebec this high knowledge group that is readers with high <}> <-> <}> <->
+
+<.> know </.> <.> know </.> </-> <+> knowledge </+> </}> </-> <=> levels </=>
+
+</}> of cultural and critical expertise designated fewer objects and
+
+convergences than did the culturally aware group
+<ICE-CAN:S2B-044#97:1:A> This implies yet again that there is a fine line to be drawn
+
+between different types and levels of expertise and there might even be a
+
+type of expertise such as the case here which <}> <-> read </-> <=> lead </=>
+
+</}> readers to draw more concise and succinct conclusions than will not more
+
+na&iuml;ve readers do
+<ICE-CAN:S2B-044#98:1:A> Conclusion
+<ICE-CAN:S2B-044#99:1:A> As with the high cultural <,> knowledge group readers with high
+
+levels of knowledge about the culture and the genre did not differ much
+
+within their own group <,> although their responses differed in number and
+
+kind from the low level group </I>

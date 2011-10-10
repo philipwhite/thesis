@@ -1,0 +1,657 @@
+<I>
+
+<$B> <ICE-CAN:S1B-005#1:1:B> Now I didn't know where
+<ICE-CAN:S1B-005#2:1:B> Where did he go
+<ICE-CAN:S1B-005#3:1:B> What's he up to
+<ICE-CAN:S1B-005#4:1:B> Now occasionally you see stuff in the journals
+
+<$A> <ICE-CAN:S1B-005#5:1:A> Right
+
+<$B> <ICE-CAN:S1B-005#6:1:B> And he ended up <,,> in Turkey <,> and he's teaching at this
+
+<,> <@> Selfend </@> University
+<ICE-CAN:S1B-005#7:1:B> Now <{> <[> <,,> </[> apparently they've been getting some good
+
+faculty out there
+
+<$A> <ICE-CAN:S1B-005#8:1:A> <[> Mh hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-005#9:1:B> The guy that used to be the uh <,> uhh head of the uh finance
+
+group <,> at the University of <@> Ottawa </@> a <@> Rihad Tunis </@> <,,> uh
+
+when he left <@> Ottawa </@> he went to Texas for the big bucks
+
+<$A> <ICE-CAN:S1B-005#10:1:A> <{> <[> Huh </[>
+
+<$B> <ICE-CAN:S1B-005#11:1:B> <[> So </[> </{> then he was at the University of Texas-Austin
+
+<}> <-> for <.> se </.> </-> <=> for many years </=> </}> but he's also gone
+
+gone to <}> <-> this </-> <=> this </=> </}> school in Turkey
+<ICE-CAN:S1B-005#12:1:B> So apparently they must have <,,> a lot of money in Turkey these
+
+days
+<ICE-CAN:S1B-005#13:1:B> I don't know <,,> <{> <[> where it's coming from cos they've </[>
+
+got so many people and they're
+
+<$A> <ICE-CAN:S1B-005#14:1:A> <[> Where it's coming from ya </[> </{>
+
+<$B> <ICE-CAN:S1B-005#15:1:B> They're supposed to be the grocer of the world but <,> right
+
+<,> try to make a living selling groceries
+
+<$B> <ICE-CAN:S1B-005#16:1:B> I mean you got to produce oil I guess
+
+<$A> <ICE-CAN:S1B-005#17:1:A> Groceries and <,> kebabs <O> laugh </O>
+
+<$B> <ICE-CAN:S1B-005#18:1:B> Anyways uh he's got a chapter in here <,,> that uh looks at
+
+<,> splining and it's sort of the <,> first sort of critical <,> paper or <,>
+
+critical chapter saying that well <,> splining <}> <-> can </-> <=> <,>
+
+doesn't </=> </}> always give you the results that you want <{> <[> or <}>
+
+<-> that </[> </-> <=> that </=> </}> are the correct results
+
+<$A> <ICE-CAN:S1B-005#19:1:A> <[> Mhh </[> </{>
+
+<$B> <ICE-CAN:S1B-005#20:1:B> Uhm <,,> so <,> well you want to talk about the shortcomings
+
+of everything huh but you could <,> refer <,,> <}> <-> to </-> <=> <,,> to
+
+</=> </}> this <,,> as <,> uhm some new work <,,> that's going the opposite
+
+direction
+<ICE-CAN:S1B-005#21:1:B> That with splining you're over-fitting and uhm <}> <-> you're not
+
+<,,> <}> <-> gonna </-> <+> going to </+> </}> have </-> <=> uh <,,> you're
+
+not going to get <}> <-> the the </-> <=> the </=> </}> correct results </=>
+
+</}> <,> in <,> uh
+<ICE-CAN:S1B-005#22:1:B> Or if you make <}> <-> type </-> <=> a lot of type two </=> </}>
+
+errors you're going to be <,> uh <,,> accepting the <,> null hypothesis when
+
+it's false
+
+<$A> <ICE-CAN:S1B-005#23:1:A> Mh hmm
+
+<$B> <ICE-CAN:S1B-005#24:1:B> So <}> <-> I <.> g </.> </-> <=> I guess </=> </}> we should
+
+take a look at this but at the same time uh <,> how <,> <.> wha </.>
+<ICE-CAN:S1B-005#25:1:B> <}> <-> Have </-> <=> have </=> </}> you done the splining too
+<ICE-CAN:S1B-005#26:1:B> <{> <[> <}> <-> The </-> <=> the </=> </}> approach that we took
+
+yet or
+<ICE-CAN:S1B-005#27:1:B> <}> <-> So </[> </-> <=> <,,> so </=> </}> what is it
+
+<$A> <ICE-CAN:S1B-005#28:1:A> <[> No I haven't done that <?> much </?> </[> </{>
+
+<$B> <ICE-CAN:S1B-005#29:1:B> Uh <,> I mean we could try <,,> doing what
+<ICE-CAN:S1B-005#30:1:B> Try GARCHing it <}> <-> or </-> <=> or </=> </}>
+
+<$A> <ICE-CAN:S1B-005#31:1:A> Ya well <}> <-> I </-> <=> I </=> </}> mean and <}> <->
+
+there's there's there's </-> <=> there's </=> </}> a lot of different
+
+permutations we can do on De Rosa
+
+<$B> <ICE-CAN:S1B-005#32:1:B> <{> <[> Uh huh </[>
+
+<$A> <ICE-CAN:S1B-005#33:1:A> <[> And <}> <-> that's </[> </{> </-> <=> <O> cough </O> I
+
+guess that's </=> </}> sort of <}> <-> more </-> <=> the most </=> </}>
+
+important uh part <}> <-> is that the </-> or for me <=> is that the </=>
+
+</}> contribution the empirical duration <,> uhm coming up with a way of
+
+refining the De Rosa
+
+<$B> <ICE-CAN:S1B-005#34:1:B> <{> <[> Uh huh </[>
+
+<$A> <ICE-CAN:S1B-005#35:1:A> <[> I mean there's </[> </{> you know the rolling regression
+
+is one way which <,> makes a lot of sense to me
+<ICE-CAN:S1B-005#36:1:A> Uh but that's really I guess just a testing <,> issue
+
+<$B> <ICE-CAN:S1B-005#37:1:B> I mean the splining <}> <-> is </-> <=> may </=> </}> have
+
+some problems <{> <[> <,> but </[> at the same time <,> nobody's looked at
+
+<}> <-> the </-> <=> the </=> </}> potential problems of splining with this
+
+particular problem
+
+<$A> <ICE-CAN:S1B-005#38:1:A> <[> Mh hmm </[> </{>
+<ICE-CAN:S1B-005#39:1:A> <{> <[> Right </[>
+
+<$B> <ICE-CAN:S1B-005#40:1:B> <[> And <}> <-> the </[> </{> </-> <=> uh <,> the </=> </}>
+
+other <,> discussion the other possible approach is <}> <-> this </-> <=> the
+
+</=> </}> two factor discussion the two factor price elasticities <,,> which
+
+he shows that well what you <}> <-> gotta </-> <+> have got to </+> </}> do
+
+is add up <,> the coefficients
+<ICE-CAN:S1B-005#41:1:B> If you add up the coefficients you end up getting <,,> uhm <,> <}>
+
+<-> better </-> <=> better </=> </}> numbers <{> <[> <,> or </[> more
+
+reasonable numbers <,,> uhm <,> than if you just go for a <,,>
+
+<$A> <ICE-CAN:S1B-005#42:1:A> <[> Mh hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-005#43:1:B> So <}> <-> he </-> <=> he </=> </}> says well look at the
+
+sensitivities relative to a short-term <?> Euro </?> as well as a long-term
+
+<{> <[> <,,> </[> bond
+
+<$A> <ICE-CAN:S1B-005#44:1:A> <[> Mh hmm </[> </{>
+<ICE-CAN:S1B-005#45:1:A> <{> <[> Okay </[>
+
+<$B> <ICE-CAN:S1B-005#46:1:B> <[> And so </[> </{> there's two sensitivities there
+<ICE-CAN:S1B-005#47:1:B> And then you get <}> <-> a </-> <=> ah a </=> </}> better fit <}>
+
+<-> <.> ver </.> </-> <=> versus </=> </}> your ordinary way of measuring
+
+<,,> <{> <[> uhm </[>
+
+<$A> <ICE-CAN:S1B-005#48:1:A> <[> That </[> </{> makes a lot of sense too
+<ICE-CAN:S1B-005#49:1:A> Ya I like that cos like <,> you said you really notice a big
+
+difference when the <?> yield </?> curve is flattening and the ten year is
+
+rallying but short rates aren't and if you compare duration with
+<ICE-CAN:S1B-005#50:1:A> Cos all of these durations are based on <,,> parallel moves and
+
+that <,> <{> <[> is never the case </[>
+
+<$B> <ICE-CAN:S1B-005#51:1:B> <[> Ya see this is non </[> </{> - parallel interest <,> curve
+
+shifts and uh
+<ICE-CAN:S1B-005#52:1:B> So that's the story <,,>
+<ICE-CAN:S1B-005#53:1:B> <{> <[> So that's all in here </[>
+
+<$A> <ICE-CAN:S1B-005#54:1:A> <[> Okay what </[> </{> <,,>
+<ICE-CAN:S1B-005#55:1:A> Now <}> <-> how </-> <=> <{> <[> what </=> </}> would be <}> <-> a
+
+</[> </-> <=> a </=> </}> good path to build on that though
+
+<$B> <ICE-CAN:S1B-005#56:1:B> <[> That's all here </[> </{>
+
+<$A> <ICE-CAN:S1B-005#57:1:A> Like <}> <-> I </-> <=> I'm </=> </}> presuming that obviously
+
+I can't <,> <{> <[> uhh </[>
+
+<$B> <ICE-CAN:S1B-005#58:1:B> <[> Ya but </[> </{> you can say the these are the fits that
+
+you're getting
+<ICE-CAN:S1B-005#59:1:B> <}> <-> You're <.> fo </.> </-> <=> <}> <-> you </-> <=> you </=>
+
+</}> go </=> </}> with the two factor model <}> <-> as </-> <=> <{1> <[1> <,>
+
+as </[1> </=> </}> opposed to <}> <-> a </-> <=> <,>
+<ICE-CAN:S1B-005#60:1:B> <{2> <[2> a </=> </}> large factor model </[2> but <}> <-> you </->
+
+<=> you're </=> </}> going for a two factor right what <,,> the heck <}> <->
+
+is </-> <=> <,> is </=> </}> the duration
+<ICE-CAN:S1B-005#61:1:B> <{3> <[3> <,,> </[3> really
+
+<$A> <ICE-CAN:S1B-005#62:1:A> <[1> Mh hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1B-005#63:1:A> <[2> And the <unclear> word </unclear> </[2> </{2>
+
+<$A> <ICE-CAN:S1B-005#64:1:A> <[3> Mh hmm </[3> </{3>
+
+<$B> <ICE-CAN:S1B-005#65:1:B> I mean <,> <}> <-> the </-> <=> the </=> </}> standard
+
+duration D P over P <,,> is <,> alpha plus <,> beta times the D I sort of
+
+thing <{> <[> the interest </[> rate
+
+<$A> <ICE-CAN:S1B-005#66:1:A> <[> Right </[> </{>
+<ICE-CAN:S1B-005#67:1:A> And that's the <}> <-> <.> interes </.> </-> <+> interest </+> </}>
+
+<{> <[> <unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1B-005#68:1:B> <[> And then </[> </{> just one interest rate
+<ICE-CAN:S1B-005#69:1:B> So we're <?> saying </?> got two interest rates we can say well
+
+this is the duration <,,> it's the coefficient of D I is the duration
+
+<$A> <ICE-CAN:S1B-005#70:1:A> <{> <[> Mh hmm </[>
+
+<$B> <ICE-CAN:S1B-005#71:1:B> <[> So we </[> </{> got two of these things
+<ICE-CAN:S1B-005#72:1:B> Well what exactly is <}> <-> <.> th </.> </-> <=> the </=> </}>
+
+duration <,,> right
+<ICE-CAN:S1B-005#73:1:B> Is it a linear combination and what kind of a linear combination
+
+<$A> <ICE-CAN:S1B-005#74:1:A> Right <,,>
+
+<$B> <ICE-CAN:S1B-005#75:1:B> <{> <[> I'm not too sure </[>
+
+<$A> <ICE-CAN:S1B-005#76:1:A> <[> <unclear> a few words </unclear> </[> </{> trying to
+
+interpret uhm <,,>
+
+<$B> <ICE-CAN:S1B-005#77:1:B> So you can <{> <[> say </[> well you've got a really clean way
+
+to interpret it
+
+<$A> <ICE-CAN:S1B-005#78:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1B-005#79:1:B> You could say well D I you can take <}> <-> as </-> <=> as
+
+</=> </}> the average interest rate change
+
+<$A> <ICE-CAN:S1B-005#80:1:A> Right
+
+<$B> <ICE-CAN:S1B-005#81:1:B> Right
+<ICE-CAN:S1B-005#82:1:B> So the long and the short <}> <-> the </-> <=> so take the </=>
+
+</}> average of that and that
+
+<$A> <ICE-CAN:S1B-005#83:1:A> Mh hmm <,,>
+<ICE-CAN:S1B-005#84:1:A> But ya okay
+
+<$B> <ICE-CAN:S1B-005#85:1:B> But it's not that same
+<ICE-CAN:S1B-005#86:1:B> It's not the same <,,>
+
+<$A> <ICE-CAN:S1B-005#87:1:A> Hmm
+<ICE-CAN:S1B-005#88:1:A> Okay <,,>
+
+<$B> <ICE-CAN:S1B-005#89:1:B> So that's the strategy <,> right
+<ICE-CAN:S1B-005#90:1:B> <}> <-> You </-> <=> you </=> </}> lay it out and you organize
+<ICE-CAN:S1B-005#91:1:B> <}> <-> You </-> <=> you </=> </}> organize it and <,> you sit down
+
+and you do nothing else <,>
+<ICE-CAN:S1B-005#92:1:B> <}> <-> for </-> <=> for </=> </}> two weeks in a row <,> and <{>
+
+<[> <,,> right </[> <,,> uhm keep me informed sort of <,> every couple of
+
+days <}> <-> where </-> <=> where </=> </}> it's at
+
+<$A> <ICE-CAN:S1B-005#93:1:A> <[> <unclear> word </unclear> it </[> </{>
+<ICE-CAN:S1B-005#94:1:A> Right okay <,,>
+<ICE-CAN:S1B-005#95:1:A> Uhm okay
+<ICE-CAN:S1B-005#96:1:A> Uh so maybe what I'm <}> <-> gonna </-> <+> going to </+> </}> do
+
+then is draw up a battle plan of the amount of time I can spend <}> <-> or
+
+</-> <=> or </=> </}> when I can get the time the two weeks
+<ICE-CAN:S1B-005#97:1:A> <{> <[> It'll probably be </[>
+
+<$B> <ICE-CAN:S1B-005#98:1:B> <[> Well <,> </[> </{> I mean this is the story
+<ICE-CAN:S1B-005#99:1:B> Right now <,,> better <&> pronounced 'batter' </&> plan or no
+
+battle plan I <}> <-> wanna </-> <+> want to </+> </}> see kind of a
+
+introduction and literature review <{> <[> <,,> one </[> week from today
+
+<$A> <ICE-CAN:S1B-005#100:1:A> <[> Right
+<ICE-CAN:S1B-005#101:1:A> Okay </[> </{>
+<ICE-CAN:S1B-005#102:1:A> Uhm actually I can even probably spend the weekend <,,> doing this
+
+uhm cos I've got most of the papers uhm
+
+<$B> <ICE-CAN:S1B-005#103:1:B> And that'll put it together
+<ICE-CAN:S1B-005#104:1:B> So you get all the papers together <,>
+
+<$A> <ICE-CAN:S1B-005#105:1:A> <{> <[> Right </[>
+
+<$B> <ICE-CAN:S1B-005#106:1:B> <[> Uhm </[> </{> add <}> <-> em </-> <+> them </+> </}> to
+
+here <,> and sort of <,> get that phase done
+<ICE-CAN:S1B-005#107:1:B> So <}> <-> that's </-> <=> that's </=> </}> the deadline one week
+
+from today
+
+<$A> <ICE-CAN:S1B-005#108:1:A> Okay
+<ICE-CAN:S1B-005#109:1:A> I'll try and make it a little shorter uh or <,> sooner even <,> if
+
+I can
+<ICE-CAN:S1B-005#110:1:A> So probably the two weeks off would be or the two weeks I could do
+
+it <,> uhm <}> <-> I'm hoping will be the </-> <=> since I'll be in New York
+
+<,> starting Thursday it'll </=> </}> probably <}> <-> be </-> <=> be </=>
+
+</}> the following Monday <,,>
+<ICE-CAN:S1B-005#111:1:A> Uh but <,> that being said I think this I can still do <{> <[> <,>
+
+<}> <-> or </-> <=> or </=> </}> I might get </[>
+
+<$B> <ICE-CAN:S1B-005#112:1:B> <[> This you <}> <-> gotta </-> <+> have got to </+> </}> do
+<ICE-CAN:S1B-005#113:1:B> This </[> </{> you <}> <-> gotta </-> <+> have got to </+> </}> do
+
+regardless
+<ICE-CAN:S1B-005#114:1:B> I mean <{> <[> you say </[> you're going to set up the total
+
+battle plan
+
+<$A> <ICE-CAN:S1B-005#115:1:A> <[> Exactly </[> </{>
+
+<$B> <ICE-CAN:S1B-005#116:1:B> Okay
+<ICE-CAN:S1B-005#117:1:B> Here's the problem let's <,> identify the problem
+<ICE-CAN:S1B-005#118:1:B> <{> <[> Right </[>
+
+<$A> <ICE-CAN:S1B-005#119:1:A> <[> Mh hmm </[> </{> <,>
+<ICE-CAN:S1B-005#120:1:A> Okay
+
+<$B> <ICE-CAN:S1B-005#121:1:B> Which means jeez <,,> it's <}> <-> gonna </-> <+> going to
+
+</+> </}> be <,> a hectic time
+<ICE-CAN:S1B-005#122:1:B> <}> <-> I </-> <=> you're </=> </}> <}> <-> gonna </-> <+> going
+
+to </+> </}> be on the road <,,> there <}> <-> at </-> <=> at </=> </}> <@> G
+
+D A </@> 's expense
+<ICE-CAN:S1B-005#123:1:B> Is that the story <}> <-> that you're <{> <[> <}> <-> <.> st </.>
+
+</-> <+> staying </+> </}> </-> <=> they're putting </=> </}> you up in a
+
+hotel and <,> all that stuff </[>
+
+<$A> <ICE-CAN:S1B-005#124:1:A> <[> That's correct
+<ICE-CAN:S1B-005#125:1:A> Ya <,,>
+<ICE-CAN:S1B-005#126:1:A> Flying me down and everything fancy </[> </{> <{> <[> restaurants
+
+and all that </[>
+
+<$B> <ICE-CAN:S1B-005#127:1:B> <[> Where you staying </[> </{>
+
+<$A> <ICE-CAN:S1B-005#128:1:A> Uhm I don't know the name of the place actually
+<ICE-CAN:S1B-005#129:1:A> I haven't uh <,>
+<ICE-CAN:S1B-005#130:1:A> Probably not too fancy <,> is <{> <[> my guess </[>
+
+<$B> <ICE-CAN:S1B-005#131:1:B> <[> Well bring </[> </{> me back a black and white cookie <{>
+
+<[> <O> laugh </O> from New York </[>
+
+<$A> <ICE-CAN:S1B-005#132:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1B-005#133:1:B> That's <}> <-> the the </-> <=> the </=> </}> good <{> <[>
+
+stuff <,> that's </[>
+
+<$A> <ICE-CAN:S1B-005#134:1:A> <[> The good <}> <-> <.> st </.> </-> <+> stuff </+> </}>
+
+</[> </{>
+<ICE-CAN:S1B-005#135:1:A> <{> <[> Black and white cookies </[>
+
+<$B> <ICE-CAN:S1B-005#136:1:B> <[> Actually I sent </[> </{> <,,> <@> Tim Stark </@> there
+
+on a mission once to bring me back a <{> <[> <,,> black and white </[> cookie
+
+and he couldn't find <}> <-> em </-> <+> them </+> </}> or he went to the
+
+wrong neighbourhoods and <,> got <}> <-> them this </-> <=> these </=> </}>
+
+Italian cookies that weren't right
+
+<$A> <ICE-CAN:S1B-005#137:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1B-005#138:1:B> <{> <[> But <,> if you know </[> a New Yorker they know what
+
+a <O> laugh </O> black and white cookie is
+
+<$A> <ICE-CAN:S1B-005#139:1:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1B-005#140:1:A> <{> <[> A black and white </[>
+
+<$B> <ICE-CAN:S1B-005#141:1:B> <[> It's just </[> </{> it's <,> very New York
+
+<$A> <ICE-CAN:S1B-005#142:1:A> <}> <-> Have you </-> <=> have you </=> </}> heard of the uhm
+
+what do they call him The Soup Nazi <,,>
+<ICE-CAN:S1B-005#143:1:A> <{> <[> The </[>
+
+<$B> <ICE-CAN:S1B-005#144:1:B> <[> Ya </[> </{> on Seinfeld
+
+<$A> <ICE-CAN:S1B-005#145:1:A> <{> <[> Ya
+<ICE-CAN:S1B-005#146:1:A> Apparently he's like a real </[>
+
+<$B> <ICE-CAN:S1B-005#147:1:B> <[> I guess <?> is a </?> <unclear> word </unclear>
+<ICE-CAN:S1B-005#148:1:B> He exists </[> </{>
+<ICE-CAN:S1B-005#149:1:B> He's a real person <{> <[> <unclear> word </unclear> </[>
+
+<$A> <ICE-CAN:S1B-005#150:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1B-005#151:1:B> Anyway life imitates <{> <[> <,,> Seinfeld
+<ICE-CAN:S1B-005#152:1:B> I'm not too sure you <}> <-> wanna </-> <+> want to </+> </}> do
+
+that </[>
+
+<$A> <ICE-CAN:S1B-005#153:1:A> <[> I'll see if I can find that guy too </[> </{> <{> <[> <O>
+
+laugh </O> </[>
+
+<$B> <ICE-CAN:S1B-005#154:1:B> <[> But <,,> anyways <,> </[> </{> you're going to be busy
+
+<$A> <ICE-CAN:S1B-005#155:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1B-005#156:1:B> <[> <}> <-> The </-> <=> the </=> </}> </[> </{> important
+
+thing in New York City is that you <,,> do your business and you <,> don't
+
+look at people cos <{> <[> <,> if you stop </[> <,,> to observe the view
+
+you'll get mugged <,>
+
+<$A> <ICE-CAN:S1B-005#157:1:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1B-005#158:1:A> <{> <[> <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1B-005#159:1:B> <[> Right </[> </{>
+
+<$A> <ICE-CAN:S1B-005#160:1:A> <{> <[> That's my big worry
+<ICE-CAN:S1B-005#161:1:A> I've never been there before so </[>
+
+<$B> <ICE-CAN:S1B-005#162:1:B> <[> <unclear> a few words </unclear> <,> it's cos <}> <->
+
+it's very </-> </[> </{> <,> <=> it's </=> </}> a fast moving city
+
+<$A> <ICE-CAN:S1B-005#163:1:A> Ya
+
+<$B> <ICE-CAN:S1B-005#164:1:B> It's too fast moving and that's the story is really <,,> uhm
+
+<,,>
+
+<$A> <ICE-CAN:S1B-005#165:1:A> Keep your head up
+
+<$B> <ICE-CAN:S1B-005#166:1:B> Ya <,>
+<ICE-CAN:S1B-005#167:1:B> I was a victim there several years <,,> ago and it wasn't pleasing
+
+to <,> go to the hospital
+<ICE-CAN:S1B-005#168:1:B> All this blood
+<ICE-CAN:S1B-005#169:1:B> And <}> <-> it's just </-> <=> they just </=> </}> wanted to make
+
+me bleed these guys
+<ICE-CAN:S1B-005#170:1:B> <{> <[> And uh <,,> that's </[> what happens when you just sort of
+
+stop <}> <-> to </-> <=> to </=> </}> observe the traffic here
+
+<$A> <ICE-CAN:S1B-005#171:1:A> <[> <O> uncomfortable laugh </O> Hmm </[> </{>
+<ICE-CAN:S1B-005#172:1:A> Right
+
+<$B> <ICE-CAN:S1B-005#173:1:B> So go there
+<ICE-CAN:S1B-005#174:1:B> You have a mission to go there and that's <,> to <{1> <[1> stay
+
+alive </[1> <O> laugh </O> and get
+<ICE-CAN:S1B-005#175:1:B> <{2> <[2> out <unclear> a few words </unclear> </[2>
+
+<$A> <ICE-CAN:S1B-005#176:1:A> <[1> That's it </[1> </{1>
+
+<$A> <ICE-CAN:S1B-005#177:1:A> <[2> <O> laugh </O> Sounds like a fun city <O> laugh </O>
+
+</[2> </{2>
+
+<$B> <ICE-CAN:S1B-005#178:1:B> Take cabs if you can
+
+<$A> <ICE-CAN:S1B-005#179:1:A> Ya
+
+<$B> <ICE-CAN:S1B-005#180:1:B> I often <,,> take the metro <,> too
+<ICE-CAN:S1B-005#181:1:B> It's not such a bad system there
+
+<$A> <ICE-CAN:S1B-005#182:1:A> Mhh okay
+
+<$B> <ICE-CAN:S1B-005#183:1:B> So what else <{> <[> is doing </[>
+
+<$A> <ICE-CAN:S1B-005#184:1:A> <[> <O> cough </O> </[> </{>
+<ICE-CAN:S1B-005#185:1:A> Uhm <,,> on the trip you mean <{> <[> <,> or </[> just in general
+
+<$B> <ICE-CAN:S1B-005#186:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1B-005#187:1:A> Uhm <,> I'm going to Washington but <}> <-> my </-> or <=>
+
+<,> my </=> </}> boss is going to the Shadow Open Market Committee <{> <[>
+
+<,,> </[> meeting
+
+<$B> <ICE-CAN:S1B-005#188:1:B> <[> Uh huh </[> </{>
+
+<$A> <ICE-CAN:S1B-005#189:1:A> Uhm <,> and <}> <-> I'm just </-> <=> uh basically I'm <}>
+
+<-> gonna </-> <+> going to </+> </}> </=> </}> be along for the ride just to
+
+see Washington <unclear> about three words </unclear> <{> <[> <,,> </[>
+
+<$B> <ICE-CAN:S1B-005#190:1:B> <[> Uh huh </[> </{>
+
+<$A> <ICE-CAN:S1B-005#191:1:A> <}> <-> So that'll be </-> <=> uh and that's it </=> </}>
+<ICE-CAN:S1B-005#192:1:A> So Thursday Friday Saturday and I'll <,,> <{> <[> be back
+
+<unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1B-005#193:1:B> <[> Ya I'm supposed to go to Washington </[> </{> too
+<ICE-CAN:S1B-005#194:1:B> Uh I was <}> <-> <.> in </.> </-> <=> invited </=> </}> down to
+
+the <,> Securities and Exchange Commission to <,,> <{> <[> give </[> a talk
+
+and I <}> <-> <.> m </.> </-> <=> might </=> </}> be going down <}> <-> in
+
+</-> <=> <,> <O> sniff </O> in </=> </}> April <,,>
+
+<$A> <ICE-CAN:S1B-005#195:1:A> <[> Mh hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-005#196:1:B> I like Washington
+
+<$A> <ICE-CAN:S1B-005#197:1:A> I've never been there <{> <[> either </[>
+
+<$B> <ICE-CAN:S1B-005#198:1:B> <[> Oh ya </[> </{>
+
+<$A> <ICE-CAN:S1B-005#199:1:A> <O> laugh </O> Too much <{> <[> <unclear> word </unclear>
+
+</[>
+
+<$B> <ICE-CAN:S1B-005#200:1:B> <[> Well you </[> </{> got to do the Smithsonian Museum when
+
+you're there and <}> <-> the </-> <=> the </=> </}> Holocaust Museum is
+
+really impressive and sort of being to <,> different museums like that I
+
+could say <unclear> mumbled words </unclear> <,,> the one in Washington is
+
+something that they <,,> really did ah <,,> an authentic <,,> <{> <[> job
+
+</[> on and it's a
+
+<$A> <ICE-CAN:S1B-005#201:1:A> <[> Right </[> </{>
+<ICE-CAN:S1B-005#202:1:A> Well I've been to some of <}> <-> the </-> or <=> the </=> </}>
+
+concentration camps in Germany
+<ICE-CAN:S1B-005#203:1:A> <{> <[> I was </[> at uh Dachau <,,>
+
+<$B> <ICE-CAN:S1B-005#204:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1B-005#205:1:A> I think it was Dachau <{> <[> but </[>
+
+<$B> <ICE-CAN:S1B-005#206:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1B-005#207:1:A> <{> <[> <unclear> phrase </unclear> </[>
+
+<$B> <ICE-CAN:S1B-005#208:1:B> <[> Well <}> <-> this </-> <=> this </=> </}> </[> </{> one
+
+gives you sort of <}> <-> an </-> <=> an </=> </}> American perspective of
+
+okay this is <{1> <[1> what they were </[1> doing in the States while it was
+<ICE-CAN:S1B-005#209:1:B> <{2> <[2> happening <}> <-> to </-> <=> <,,> </[2> and </=> </}>
+
+just complete <}> <-> <.> in </.> </-> <=> indifference </=> </}>
+
+<$A> <ICE-CAN:S1B-005#210:1:A> <[1> Uh huh </[1> </{1>
+
+<$A> <ICE-CAN:S1B-005#211:1:A> <[2> Okay </[2> </{2>
+
+<$B> <ICE-CAN:S1B-005#212:1:B> And you see the original documents of uh <,> the <,,> leaders
+
+in the States just <,,>
+<ICE-CAN:S1B-005#213:1:B> You know it was blatant
+
+<$A> <ICE-CAN:S1B-005#214:1:A> Mh mhh
+
+<$B> <ICE-CAN:S1B-005#215:1:B> They were ready to blatantly participate <}> <-> in </-> <=>
+
+<,,> in </=> </}> the murder that was going on
+
+<$A> <ICE-CAN:S1B-005#216:1:A> <{> <[> All right </[>
+
+<$B> <ICE-CAN:S1B-005#217:1:B> <[> Anyways </[> </{> where do we got here on the markets
+
+today
+<ICE-CAN:S1B-005#218:1:B> They were down <,> I saw
+<ICE-CAN:S1B-005#219:1:B> <{> <[> <unclear> word </unclear> was down about four points
+
+earlier on </[>
+
+<$A> <ICE-CAN:S1B-005#220:1:A> <[> Uhm <,,> yield curve steepening </[> </{>
+<ICE-CAN:S1B-005#221:1:A> Uh <,> you know the two year's down <}> <-> ten </-> <=> <,,> ten
+
+</=> </}> <?> bibs </?> I think today <,,>
+<ICE-CAN:S1B-005#222:1:A> Uhm <,> actually there's a huge ah rally bond rally
+<ICE-CAN:S1B-005#223:1:A> The long bond was doing well <}> <-> and then </-> <=> uh because
+
+</=> </}> there was a ahh durable goods orders or something
+
+<$B> <ICE-CAN:S1B-005#224:1:B> <{> <[> Uh huh </[>
+
+<$A> <ICE-CAN:S1B-005#225:1:A> <[> You probably </[> </{> don't remember off hand
+
+<$B> <ICE-CAN:S1B-005#226:1:B> Well
+
+<$A> <ICE-CAN:S1B-005#227:1:A> Anyways and it had just got erased
+<ICE-CAN:S1B-005#228:1:A> I think like the bond market's ready to <,,> start backing up <{>
+
+<[> now <,> anyways </[>
+
+<$B> <ICE-CAN:S1B-005#229:1:B> <[> Where is it now </[> </{>
+<ICE-CAN:S1B-005#230:1:B> We can check out exactly where the market <}> <-> is </-> <=> <,>
+
+is </=> </}> happening
+<ICE-CAN:S1B-005#231:1:B> That <{> <[> network and I want </[> Nets
+
+<$A> <ICE-CAN:S1B-005#232:1:A> <[> Right there </[> </{>
+
+<$B> <ICE-CAN:S1B-005#233:1:B> There it is down there
+
+<$A> <ICE-CAN:S1B-005#234:1:A> Get the uh P C close <{> <[> <unclear> about two words
+
+</unclear> </[>
+
+<$B> <ICE-CAN:S1B-005#235:1:B> <[> <unclear> three or four words </unclear> </[> </{> <,>
+
+about a fifteen <,> minute delay on some of <{1> <[1> these </[1> things and
+
+<,,>
+<ICE-CAN:S1B-005#236:1:B> <{2> <[2> <unclear> a few words </unclear> </[2>
+
+<$A> <ICE-CAN:S1B-005#237:1:A> <[1> Ya </[1> </{1>
+
+<$A> <ICE-CAN:S1B-005#238:1:A> <[2> Do you trade </[2> </{2> the stock market now </I>

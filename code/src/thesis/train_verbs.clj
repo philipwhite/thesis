@@ -150,7 +150,6 @@
                     [:bayes :naive]
                     [:neural-network :multilayer-perceptron]
                     [:support-vector-machine :smo]
-                    
                     [:regression :logistic]
                     [:regression :pace]] )
 
@@ -264,7 +263,8 @@ verbs"
       (add-to-combined-dataset ds m :en))
     ds))
 
-(defn train-and-test-NN [dataset]
-  (let [cl (mlc/make-classifier :neural-network :multilayer-perceptron)]
+(defn train-and-test [dataset]
+  (let [cl (AttributeVoting.)]
+    
     (mlc/classifier-train cl dataset)
     (mlc/classifier-evaluate cl :cross-validation dataset 10)))

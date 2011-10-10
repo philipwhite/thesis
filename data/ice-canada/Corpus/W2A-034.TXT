@@ -1,0 +1,450 @@
+<I>
+<ICE-CAN:W2A-034#1:1> <h> <bold> WIND TUNNEL INVESTIGATION OF A WING-PROPELLER MODEL
+
+PERFORMANCE DEGRADATION DUE TO DISTRIBUTED UPPER-SURFACE ROUGHNESS AND
+
+LEADING EDGE SHAPE MODIFICATION </bold> </h>
+<ICE-CAN:W2A-034#2:1> <bold> R.H. Wickens </bold> <fnr> * </fnr> and V.D. Nguyen <fnr> **
+
+</fnr> </bold> <footnote> *Guest Worker, Applied Aerodynamics Laboratory
+
+</footnote> <footnote> **Research Officer, High Speed Aerodynamics Laboratory
+
+</footnote>
+<ICE-CAN:W2A-034#3:1> <h> <bold> ABSTRACT </bold> </h>
+
+<p> <ICE-CAN:W2A-034#4:1> <it> A wind tunnel investigation has assessed the effects of
+
+distributed upper-surface roughness, and leading-edge ice formation on a
+
+powered wing propeller model. </it> </p>
+
+<p> <ICE-CAN:W2A-034#5:1> <it> In the unpowered state, it was found that roughness reduces
+
+the lift slope, and maximum lift by 30 to 50 percent, depending upon particle
+
+size and Reynolds number.
+<ICE-CAN:W2A-034#6:1> The leading edge region is especially sensitive to these disturbances;
+
+however, removal of the roughness over a small portion of the nose restored
+
+the wing to close to its original performance. </it> </p>
+
+<p> <ICE-CAN:W2A-034#7:1> <it> The application of power to the wing, with an increase of
+
+slipstream dynamic pressure, increases the lift slope and maxi <l> mum lift;
+
+however, this benefit is lost if the wing is roughened.
+<ICE-CAN:W2A-034#8:1> Subtraction of the propeller reactions indicated that the slipstream
+
+interaction accounted for half the lift increase and also resulted in reduced
+
+drag for the clean surface.
+<ICE-CAN:W2A-034#9:1> This drag reduction was removed when the wing was roughened,
+
+indicating that the degradation of wing performance due to roughening is
+
+relatively greater when a slipstream is present, compared with the unpowered
+
+wing. </it> </p>
+
+<p> <ICE-CAN:W2A-034#10:1> <it> Leading-edge ice accretion causes similar large losses in
+
+lift and increases of form drag although a comparison of the two types of
+
+contamination showed that leading-edge ice produces a smaller reduction of
+
+lift slope prior to flow separation.
+<ICE-CAN:W2A-034#11:1> In both types of contamination, Reynolds number is important, and
+
+emphasizes the necessity of testing under near full-scale conditions. </it>
+
+</p>
+<ICE-CAN:W2A-034#12:1> <h> <bold> NOMENCLATURE </bold> </h> <O> list of symbols </O>
+<ICE-CAN:W2A-034#13:1> <h> <bold> INTRODUCTION </bold> </h>
+
+<p> <ICE-CAN:W2A-034#14:1> Recent flying accidents resulting from adverse weather condi <l>
+
+tions in the form of freezing rain or snow, have focused attention, on the
+
+degradation of aerodynamic surfaces.
+<ICE-CAN:W2A-034#15:1> One of the most recent accidents, involving a Fokker F-28, mk 1000
+
+jet aircraft, and the subject of a Commission of Inquiry in Canada, dealt
+
+specifically with the degradation of such surfaces due to ice and snow
+
+contami <l> nants on the wings.
+<ICE-CAN:W2A-034#16:1> The information contained in this paper stems in part from the
+
+investigation conducted for the Commission of Inquiry into the Air Ontario
+
+Crash at Dryden, Ontario, March 10, 1989.
+<ICE-CAN:W2A-034#17:1> <fnr> ( Reference 10) </fnr> <footnote> <bold> 10 Morgan, J.M.,
+
+Wagner, G.A. and Wickens, R.H. </bold> - <it> A Report of the Flight Dynamics
+
+of the Fokker F-28 mk 1000 as they pertain to the accident at Dryden,
+
+Ontario, March 1989. </it> <bold> NRC/NAE misc. 64. </bold> </footnote>
+<ICE-CAN:W2A-034#18:1> Investigations of the effects of uniform roughness on airfoils shows
+
+clearly that stalling is premature, loss of maximum lift can range from 30 to
+
+50%, ( depending on Reynolds number) and form drag reaches very high levels
+
+at angles of attack below normal clean wing stall. </p>
+
+<p> <ICE-CAN:W2A-034#19:1> The effect of upper surface roughness on complete aircraft
+
+configurations is less well known; however, there is a long history of
+
+aircraft accidents related to flight in icing conditions and several recent
+
+accidents, including the Air Ontario F-28 accident, involving swept-wing jet
+
+aircraft have highlighted the problem.
+<ICE-CAN:W2A-034#20:1> In these situa <l> tions it has been observed <fnr> <sp> 11 </sp>
+
+</fnr> that early flow separation and stall <l> ing was a characteristic
+
+result of ice and snow contaminants on the wing <footnote> <bold> 11
+
+Commission of Enquiry into the Air Ontario crash at Dryden, Ontario. Final
+
+Report, Technical Appendices - Appendix 2; " Note on the aircraft
+
+characteristics as affected by frost, ice or freezing rain deposits on the
+
+wing". ( Fokker report &hash;L-28-22). </bold> </footnote>
+<ICE-CAN:W2A-034#21:1> Flow breakdown was accompanied not only by a <?> loss </?> of lift
+
+and an increase of drag, but also wing-dropping as a result of outer panel
+
+flow separation and wing tip stall prior to inboard wing stall.
+<ICE-CAN:W2A-034#22:1> Experimental data on simulated upper surface con <l> tamination on a
+
+swept-wing model of a typical jet-commuter air <l> craft have confirmed what
+
+was suspected from flight experience and have also demonstrated that large
+
+changes of trim will occur on the full-scale aircraft. </p> <O> Charts </O>
+
+<O> Figure 1a caption </O> <O> Figure explication </O> <O> Charts </O> <O>
+
+Figure 1b caption </O>
+
+<p> <ICE-CAN:W2A-034#23:1> Propeller-driven aircraft, where the slipstream passes over the
+
+wing surface, are thought to be less sensitive to the effects of upper
+
+surface contamination compared with the typical swept-wing con <l>
+
+figuration.
+<ICE-CAN:W2A-034#24:1> This is attributable in part to the effects of sweep that reduce the
+
+wing lift-slope, compared with a straight wing; and the effects of slipstream
+
+interaction that augment span loading locally, increase wing lift slope, and
+
+also delay flow separation at high angles of attack.
+<ICE-CAN:W2A-034#25:1> Thus the rotation angle on take off of a straight wing
+
+propeller-driven aircraft is likely to be less than that for an equivalent
+
+swept-wing aircraft with no slipstream interaction, and the likelihood of a
+
+premature stall may not arise. </p>
+
+<p> <ICE-CAN:W2A-034#26:1> Notwithstanding this apparent beneficial comparison, the
+
+propeller-driven aircraft may still experience significant losses of lift and
+
+large increases of drag if premature flow separation occurs when the wing
+
+upper surface is contaminated.
+<ICE-CAN:W2A-034#27:1> Figure 1b from Ref <l> erence 1 for the Fokker F-27 turboprop
+
+transport wind tunnel model indicates, however, that smaller losses in
+
+maximum lift may be expected from a contaminated wing, compared with the
+
+airfoil test results of Figure 1a.
+<ICE-CAN:W2A-034#28:1> The corresponding reduction in critical angle of attack is also small
+
+and, in some cases, positive and was attributed to a significant change in
+
+the wing-slipstream stall pat <l> tern.
+<ICE-CAN:W2A-034#29:1> The extent to which the slipstream may remain attached to the wing
+
+surface is unknown but its influence may affect the overall stall pattern
+
+even when roughened by ice. </p>
+
+<p> <ICE-CAN:W2A-034#30:1> In view of the unknown nature of the complex interactions of wing
+
+boundary layer, propeller slipstream and distributed roughness, and the lack
+
+of experimental data, it was decided to use the half-wing propeller model of
+
+Reference 3 to obtain some preliminary data on the effects of upper surface
+
+roughness in a slipstream and also the effects of typical in-flight ice
+
+accretion shapes on the leading edge. <O> Picture </O> <O> Figure 2a caption
+
+</O>
+<ICE-CAN:W2A-034#31:1> The utility of the data to aircraft design or performance estimation
+
+will be limited; the model configuration is not typical of current propeller
+
+transport configurations and the test Reynolds number was low ( Re = 1.3
+
+million). </p>
+<ICE-CAN:W2A-034#32:1> <h> <bold> MODEL </bold> </h>
+
+<p> <ICE-CAN:W2A-034#33:1> The general arrangement of the rectangular, unswept half-wing
+
+model is shown in Figure 2.
+<ICE-CAN:W2A-034#34:1> The wing, having a NACA 4415 airfoil section, was untwisted and was
+
+equipped with a 30 percent chord plain flap extending along the semi-span.
+<ICE-CAN:W2A-034#35:1> The aspect ratio was 4.85.
+<ICE-CAN:W2A-034#36:1> A nacelle containing a 20 hp water-cooled induction motor was
+
+underslung on the wing approximately one chord length above the floor.
+<ICE-CAN:W2A-034#37:1> The four-bladed propeller was located at 70% chord in front on the
+
+leading edge and was equipped with an adjustable pitch-setting mechanism.
+<ICE-CAN:W2A-034#38:1> The propeller/wing chord ratio was 1.33. </p>
+<ICE-CAN:W2A-034#39:1> <h> <bold> EXPERIMENTAL PROCEDURE </bold> </h>
+
+<p> <ICE-CAN:W2A-034#40:1> The wing was pitched through an angle-of-attack range up to and
+
+beyond stall.
+<ICE-CAN:W2A-034#41:1> A complete stall and flow breakdown was not achieved with this model
+
+due probably to the effects of the low <w> <?> a </?> spect </w> ratio,
+
+Reynolds number and the half-model configuration. <O> Diagram </O> <O> Figure
+
+2b caption </O> <
+<ICE-CAN:W2A-034#42:1> Maximum lift was achieved however, and this was used as a basis of
+
+comparison for the effects of roughness.
+<ICE-CAN:W2A-034#43:1> Model lift, drag and pitching moment were measured on the wind tunnel
+
+balance.
+<ICE-CAN:W2A-034#44:1> Pitch <l> ing moment was taken about the 30% chord location.
+<ICE-CAN:W2A-034#45:1> The mea <l> sured forces include the propeller reaction, comprised of
+
+thrust, normal force and pitching moment.
+<ICE-CAN:W2A-034#46:1> The test Reynolds number was 1.3 million ( 2.3 million for the
+
+unpowered wing only). </p>
+
+<p> <ICE-CAN:W2A-034#47:1> At the desired test conditions, thrust coefficient C <sb> Tp
+
+</sb> was varied by adjusting the blade pitch settings to a value of 0.115.
+<ICE-CAN:W2A-034#48:1> This corresponded approximately to the take-off thrust coefficient of
+
+a typical turbo-prop aircraft <fnr> <sp> 5 </sp> </fnr> <footnote> <bold> 5
+
+Wickens, R. H. </bold> - <it> Aerodynamic Force and Moment Charac <l>
+
+teristics of a Four-Bladed Propeller Yawed through 120 Degrees. </it> <bold>
+
+NRC-LR-454. May 1966. </bold> </footnote>
+<ICE-CAN:W2A-034#49:1> Thrust coefficient was estimated from the isolated propeller data of
+
+Reference 5. </p> <O> Diagram </O> <O> Figure 2c caption </O>
+<ICE-CAN:W2A-034#50:1> <h> <bold> SIMULATED ROUGHNESS </bold> </h>
+
+<p> <ICE-CAN:W2A-034#51:1> Roughness, in the form of a uniform distribution of carborun <l>
+
+dum grit was applied over various portions of the chord.
+<ICE-CAN:W2A-034#52:1> Three grades of standard grit were used: 150 ( .0041", 80 ( .0083"),
+
+46 ( .0165").
+<ICE-CAN:W2A-034#53:1> These correspond approximately to average roughness heights of .03", .06",
+
+and .11" respectively on a full-scale wing of 10 <}> <-> ft. </-> <+> feet
+
+</+> </}> chord giving roughness height/chord ratios of 0.000227, .000461 and .000916
+
+respectively.
+<ICE-CAN:W2A-034#54:1> In addition, a heavy grade ( 50 grit) of commercial sandpaper was
+
+applied to the wing surface.
+<ICE-CAN:W2A-034#55:1> The roughness height and concentration of this application was
+
+considered to be significantly greater than the standard grit par <l> ticles
+
+applied manually to the wing surface. </p>
+
+<p> <ICE-CAN:W2A-034#56:1> The Carborundum grit was applied initially to the upper sur <l>
+
+face from the lower leading edge stagnation region to the flap hinge line.
+<ICE-CAN:W2A-034#57:1> Since only the forward portion of the chord was found to be sensitive
+
+however, most of the investigation was performed with only the first 25-30%
+
+of the chord roughened and the results pre <l> sented in this report are for
+
+30% coverage. <O> Chart </O> <O> Figure 3a caption </O> <O> Chart </O> <O>
+
+Figure 3b caption </O> <O> Chart </O> <O> Figure 3c caption </O> <O> Figure 3
+
+caption </O>
+<ICE-CAN:W2A-034#58:1> The density of applica <l> tion was not varied or determined
+
+precisely, and in the case of sandpaper application, the transition was
+
+abrupt. </p>
+
+<p> <ICE-CAN:W2A-034#59:1> In addition to distributed roughness application, shapes rep <l>
+
+resenting rime and glaze ice accretions were applied to the wing leading
+
+edge.
+<ICE-CAN:W2A-034#60:1> The shapes were similar to those of Reference 6 and are shown in
+
+Figure 2c. </p>
+<ICE-CAN:W2A-034#61:1> <h> <bold> PRESENTATION OF RESULTS </bold> </h>
+<ICE-CAN:W2A-034#62:1> <h> <bold> Effects of Roughness — Powered Wing </bold> </h>
+
+<p> <ICE-CAN:W2A-034#63:1> With the application of power on the clean wing, the resulting
+
+slipstream interaction produces an increase in both lift slope and maximum
+
+lift by about 25%, and an increase of stalling angle of about 4 degrees.
+<ICE-CAN:W2A-034#64:1> Roughly half of this lift increment comes from the propeller thrust
+
+and normal force reactions; the other half is attributed to the interaction
+
+of the slipstream with the wing ( Figure 3a). </p>
+
+<p> <ICE-CAN:W2A-034#65:1> The wing drag polar, as seen in Figure 3b, is shifted by an
+
+amount that corresponds to the thrust force plus a leading edge thrust on the
+
+wing due to increased leading edge suction.
+<ICE-CAN:W2A-034#66:1> The drag equivalent of the estimated propeller thrust has a value of
+
+about 0.085, which, when subtracted from the total wing force at zero lift
+
+apparently produces a negative drag or thrust on the wing.
+<ICE-CAN:W2A-034#67:1> This effect, known as the ` Squire Effect', has been alluded to
+
+before <fnr> <sp> 7 </sp> </fnr> and is attributed the effects of increased
+
+pressure and flow rotation in the slipstream. <footnote> 7 Squire, H.B. and
+
+Chester, W. - Calculation of the Effect of Slipstream on Lift and Drag. ARC
+
+R&M 2368, 1950. </footnote> </p>
+
+<p> <ICE-CAN:W2A-034#68:1> With roughness applied to the wing upper surface there appears to
+
+be a loss of lift slope and maximum lift of about 25 to 35% depending upon
+
+roughness element size ( Figure 4a).
+<ICE-CAN:W2A-034#69:1> In effect, the benefits of powered lift, resulting from slipstream
+
+inter <l> action, is significantly reduced.
+<ICE-CAN:W2A-034#70:1> Drag also increases as the flow sep <l> arates prematurely, and there
+
+also is an increase in the parasite drag at zero lift due to roughness, and
+
+increased dynamic pressure in the slipstream.
+<ICE-CAN:W2A-034#71:1> The effect of roughness on wing pitching moment is small at angles of
+
+attack below stall, ( &alpha; &lt; 10&degree;) but the moment becomes more
+
+nose down as roughness size increases ( Figure 3c). </p>
+
+<p> <ICE-CAN:W2A-034#72:1> The application of the heavy sandpaper roughness further
+
+deteriorated the wing performance under power at the Reynolds number of 1.3
+
+million.
+<ICE-CAN:W2A-034#73:1> Maximum lift decreased slightly, as did the lift slope; although the
+
+stall was not sharply defined.
+<ICE-CAN:W2A-034#74:1> Drag also increased near zero lift but the pitching moment did not
+
+change significantly, although the tendency continued to be nose-down. </p>
+
+<p> <ICE-CAN:W2A-034#75:1> A comparison between the powered and unpowered wing drag polars
+
+shows the relative effects of roughness with and without power ( Figure 6).
+<ICE-CAN:W2A-034#76:1> It is clear from these graphs that roughness, espe <l> cially when it
+
+reaches the heavy proportions of sandpaper coverage, has a much more adverse
+
+effect on drag of the powered wing near maximum lift than for the unpowered
+
+wing in uniform flow.
+<ICE-CAN:W2A-034#77:1> At lift coefficients below stall however, drag increases between
+
+powered and unpowered wings are similar.
+<ICE-CAN:W2A-034#78:1> The lift curves exhibit about the same degree of degradation of
+
+performance between powered and unpowered configurations .<ICE-CAN:W2A-034#> The pitching
+
+moment change appears to be smaller when the wing is powered and is
+
+accompanied by an increase in slope ( C <sb> m </sb> <}> <-> vs </-> <+>
+
+versus to </+> </}> alpha) and a small change in the nose-up direction (
+
+Figure 5c). </p> <O> Chart </O> <O> Figure 4a caption </O> <O> Chart </O> <O>
+
+Figure 4b caption </O> <O> Chart </O> <O> Figure 4c caption </O> <O> Figure 4
+
+caption and legend </O> <O> Chart </O> <O> Figure 5a caption </O> <O> Chart
+
+</O> <O> Figure 5b caption </O> <O> Chart </O> <O> Figure 5c caption </O> <O>
+
+Figure 5 caption and legend </O> <O> Chart </O> <O> Figure 6a caption </O>
+
+<O> Chart </O> <O> Figure 6b caption </O> <O> Chart </O> <O> Figure 6c
+
+caption </O>
+
+<p> <ICE-CAN:W2A-034#79:1> In order to simulate the scrubbing action of the slipstream, a
+
+portion of the roughness was removed at the propeller location.
+<ICE-CAN:W2A-034#80:1> This resulted in a modest improvement of performance ( Figure 5a).
+
+</p>
+<ICE-CAN:W2A-034#81:1> <h> <bold> Wing-Slipstream Characteristics </bold> </h>
+
+<p> <ICE-CAN:W2A-034#82:1> In order to separate the propeller reactions from the total wing
+
+forces, and to compare unpowered wing characteristics with those with the
+
+wing immersed in the slipstream, the isolated propeller thrust, normal force
+
+and pitching moment were estimated from Reference 5 and were removed from the
+
+measured wing force and moment data.
+<ICE-CAN:W2A-034#83:1> No attempt was made to correct the propeller data for the blockage
+
+and upwash events of the wing; however the com <l> ments of Reference 8 and
+
+the experimental data of Reference 4 suggest that these interactions may be
+
+small.
+<ICE-CAN:W2A-034#84:1> See Figure A. </p>
+
+<p> <ICE-CAN:W2A-034#85:1> Typical wing characteristics with the propeller reactions removed
+
+are shown in Figure 6.
+<ICE-CAN:W2A-034#86:1> The increase in C <sb> Lmax </sb> for the clean wing ( Figure 6a) is
+
+roughly half the total powered lift incre <l> ments.
+<ICE-CAN:W2A-034#87:1> The loss of lift due to roughness increases with roughness scale and
+
+is apparently greater for the unpowered wing than for the powered wing.
+<ICE-CAN:W2A-034#88:1> Lift slope diminishes with roughness size in both cases. </p> </I>

@@ -1,0 +1,443 @@
+<I>
+<ICE-CAN:W2B-032#1:1> <h> <bold> Is Unix really open? </bold> </h>
+
+<p> <ICE-CAN:W2B-032#2:1> So you've decided on Unix.
+<ICE-CAN:W2B-032#3:1> But have you decided on which Unix? </p>
+
+<p> <ICE-CAN:W2B-032#4:1> You're probably letting your hardware decide for you.
+<ICE-CAN:W2B-032#5:1> After all, the vendor of hardware will likely belong to one of two
+
+groups, Unix International ( UI) or the Open Software Foundation ( OSF). </p>
+
+<p> <ICE-CAN:W2B-032#6:1> Maybe you'll let the software or the application deter <l> mine
+
+which choice you make.
+<ICE-CAN:W2B-032#7:1> Don't count on it.
+<ICE-CAN:W2B-032#8:1> Most software firms are hedging their bets by, at least for now,
+
+committing to both the UI and OSF groups.
+<ICE-CAN:W2B-032#9:1> ( See story, for example, Computer Associates commits to Unix, p. 21).
+
+</p>
+
+<p> <ICE-CAN:W2B-032#10:1> But why not try this test?
+<ICE-CAN:W2B-032#11:1> Ask your supplier if their version of Unix is open. </p>
+
+<p> <ICE-CAN:W2B-032#12:1> Why do we raise this question now?
+<ICE-CAN:W2B-032#13:1> It has to do with the great momentum behind open systems and the
+
+continuing uncertainty around other operating systems.
+<ICE-CAN:W2B-032#14:1> ( See stories, p.1).
+<ICE-CAN:W2B-032#15:1> Open systems may yet force the issue between which version of Unix
+
+will emerge as the standard. </p>
+
+<p> <ICE-CAN:W2B-032#16:1> Not surprisingly, David Sandel, vice-president of marketing, Unix
+
+International has stated that he sees <quote> " Unix System V as the base of
+
+open systems." </quote> </p>
+
+<p> <ICE-CAN:W2B-032#17:1> What this talk does is set up a confrontation by turning the road
+
+to open systems into a collision course for competing versions of Unix. </p>
+
+<p> <ICE-CAN:W2B-032#18:1> If everybody wants open systems, it stands to reason that they
+
+will only want one version of an open system.
+<ICE-CAN:W2B-032#19:1> And if they only want one version of open systems that is based on
+
+Unix, then one of the two is sure to face extinction. </p>
+
+<p> <ICE-CAN:W2B-032#20:1> It's too early to tell if users will go the UI or the OSF route.
+<ICE-CAN:W2B-032#21:1> Nor do we have any way of knowing if one of the two versions is
+
+technically superior to the other. </p>
+
+<p> <ICE-CAN:W2B-032#22:1> But the hype around open systems seems to have the effect of
+
+forcing this issue earlier than we expected.
+<ICE-CAN:W2B-032#23:1> Users should look now for signs of one version dominating the other.
+
+</p>
+
+<p> <ICE-CAN:W2B-032#24:1> The early returns place UI's version in front.
+<ICE-CAN:W2B-032#25:1> Said AT&T Canada's Benjamin Scott at the recent Open Systems show in
+
+Ottawa: <quote> " By the end of 1990, more than 300 companies were shipping
+
+products based on System V release 4 platforms. <X>
+<ICE-CAN:W2B-032#X26:1> With those kind of numbers, the UI version has the best chance of
+
+becoming the standard around which open systems will flourish. </X> "
+
+</quote> </p>
+
+<p> <ICE-CAN:W2B-032#27:1> In contrast, users, as IBM and others have done, should raise
+
+some serious concerns about AT&T's ownership of Unix System V. (
+<ICE-CAN:W2B-032#28:1> Although, it should be noted that AT&T is negotiating to sell off as
+
+much of the 40 per cent of its Unix operating system). </p>
+
+<p> <ICE-CAN:W2B-032#29:1> If an open system is all about being non-proprietary, users may
+
+yet look to the OSF for direction. </p>
+<ICE-CAN:W2B-032#30:1> <h> <bold> New columnist </bold> </h>
+
+<p> <ICE-CAN:W2B-032#31:1> The Communications section of <it> Computing Canada </it>
+
+welcomes another monthly columnist in this issue ( see p. 40).
+<ICE-CAN:W2B-032#32:1> Clyde Boom, director of technical services for Lancom Technologies, a
+
+Toronto-based computer ser <l> vices firm, will contribute a LANs (
+
+Local-Area Net <l> works) column from a training and systems integration
+
+perspective. <O> picture </O> <O> perspective </O> </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-032#33:2> <h> <bold> Training should remain a priority </bold> </h>
+<ICE-CAN:W2B-032#34:2> <bold> by Paul Swinwood </bold>
+<ICE-CAN:W2B-032#35:2> <it> Paul Swinwood is president, Learning Tree International, a
+
+Gloucester, Ont.-based firm that specializes in telecommunica <l> tions,
+
+software and management training. </it>
+
+<p> <ICE-CAN:W2B-032#36:2> Times are tough out there.
+<ICE-CAN:W2B-032#37:2> Sales managers are reporting lost sales, production managers are
+
+reporting low backlogs, CEOs are warning of layoffs and controllers are
+
+calling for cut <l> ting expenses. </p>
+
+<p> <ICE-CAN:W2B-032#38:2> What can a manager do?
+<ICE-CAN:W2B-032#39:2> First no travel, no training, no more giveaways - cut expenses.
+<ICE-CAN:W2B-032#40:2> Con <l> gratulations, well done. </p>
+
+<p> <ICE-CAN:W2B-032#41:2> That solution may be too simple.
+<ICE-CAN:W2B-032#42:2> A leading edge, competi <l> tive company, however, will con <l> tinue
+
+to spend on two major areas during a recession: future projects and future
+
+productivity. </p>
+
+<p> <ICE-CAN:W2B-032#43:2> Successful companies plan carefully, review projects an <l>
+
+nually and focus on products, productivity and most impor <l> tantly, people.
+
+</p>
+
+<p> <ICE-CAN:W2B-032#44:2> As a training institution, we typically feel the downturn sig <l>
+
+nificantly as our clients freeze spending.
+<ICE-CAN:W2B-032#45:2> In our experience, the major successful players in the technology
+
+fields react well to market pressures and then focus on the resources
+
+available. </p>
+
+<p> <ICE-CAN:W2B-032#46:2> Some tips on using these resources include: <l>
+<ICE-CAN:W2B-032#47:2> &bullet; review your current product and procedures for short-term
+
+productivity gains.
+<ICE-CAN:W2B-032#48:2> Can better training improve productivity of the staff;
+<ICE-CAN:W2B-032#49:2> &bullet; review your development needs.
+<ICE-CAN:W2B-032#50:2> Could training cut development costs and time re <l> quired to bring
+
+your newest product to the market quicker and gain a market edge; and,
+<ICE-CAN:W2B-032#51:2> &bullet; review your staff needs.
+<ICE-CAN:W2B-032#52:2> Could training provide the morale boost and productivity improve <l>
+
+ment to weather these tough times?
+<ICE-CAN:W2B-032#53:2> Most training can be brought to your location.
+<ICE-CAN:W2B-032#54:2> You save on travel, staff availability costs and gain productivity im
+
+<l> mediately because the training is focused on your environment and needs.
+<ICE-CAN:W2B-032#55:2> Tough times call for tough measures, but the wise manager recognizes
+
+training remains important. </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-032#56:3> <h> <bold> IN CONVERSATION </bold> </h>
+<ICE-CAN:W2B-032#57:3> </bold> <it> Mark Skapinker </it> </bold>
+
+<p> <ICE-CAN:W2B-032#58:3> Mark Skapinker is a co-founder and president of Delrina
+
+Technology Inc. </p>
+
+<p> <ICE-CAN:W2B-032#59:3> He is credited with helping to define and to promote the forms
+
+processing market through his participation in product innovation and a
+
+number of industry engagements.
+<ICE-CAN:W2B-032#60:3> Under his direction, Delrina's PerForm software has garnered a number
+
+of industry awards. </p>
+
+<p> <ICE-CAN:W2B-032#61:3> Prior to Delrina, he was director of product development for
+
+Batteries Included, before its acquisition by Electronic Arts. </p>
+
+<p> <ICE-CAN:W2B-032#62:3> He has a post-graduate diploma in computer science from the
+
+University of Jerusalem. </p>
+
+<p> <ICE-CAN:W2B-032#63:3> He recently spoke to <it> Computing Canada </it> editor Martin
+
+Slofstra at Delrina's head office in Toronto. </p> <O> picture </O>
+<ICE-CAN:W2B-032#64:3> <h> <bold> <it> Derlina Technology Inc. </it> </bold> </h>
+
+<p> <ICE-CAN:W2B-032#65:3> Delrina Technology Inc. is a wholly-owned subsidiary of
+
+Toronto-based Delrina Corp. and is recognized as a leading supplier of
+
+PC-based graphics forms processing software.
+<ICE-CAN:W2B-032#66:3> It claims nearly 100,000 units shipped. </p>
+
+<p> <ICE-CAN:W2B-032#67:3> Other subsidiaries of Delrina are Carolian Systems ( data centre
+
+management systems for HP 3000) and a 51 per cent share of SoftPort
+
+Technologies, distributors of accounting software. </p>
+
+<p> <ICE-CAN:W2B-032#68:3> In April 1990, IBM Canada Ltd. acquired a 11 per cent stake,
+
+representing the first such investment by IBM in a Canadian software company.
+
+</p>
+
+<p> <ICE-CAN:W2B-032#69:3> Delrina Corp. also has offices in Ottawa, Los Gatos, Calif.,
+
+Washington D.C. and England.
+<ICE-CAN:W2B-032#70:3> Revenues for the period ending June 30, 1990 were &dollar;8.1
+
+million, up from &dollar;5.0 million the year before. </p> </I>
+
+
+<I>
+
+<p> <it>
+<ICE-CAN:W2B-032#71:4> CC: How would you define forms processing and what does it include?
+
+</it> </p>
+
+<p> <ICE-CAN:W2B-032#72:4> Skapinker: Forms processing is basically the computerization of
+
+forms.
+<ICE-CAN:W2B-032#73:4> It takes parts of many other technologies and brings them all
+
+together.
+<ICE-CAN:W2B-032#74:4> In other words, it takes the printing, WYSIWYG ( What You See Is What
+
+You Get) and complete page layout aspects of desktop publishing, the database
+
+data entry elements from database, printing technology, font tech <l> nology
+
+and it also includes com <l> munications. </p>
+
+<p> <ICE-CAN:W2B-032#75:4> <it> CC: Who in the organization would control the forms pro <l>
+
+cessing function? </it> </p>
+
+<p> <ICE-CAN:W2B-032#76:4> Skapinker: I think it depends on the size of the organization.
+<ICE-CAN:W2B-032#77:4> What we've done is we've split our product line completely down the
+
+middle.
+<ICE-CAN:W2B-032#78:4> So we have regular PerForm, which is really aimed at the entry-level
+
+or smaller business, where it's the owner-operator or the administrative
+
+people who look after the forms.
+<ICE-CAN:W2B-032#79:4> Then we've got our PerForm Pro, which is really aimed at the high-end
+
+of the marketplace. </p>
+
+<p> <ICE-CAN:W2B-032#80:4> Certain companies may have a forms department.
+<ICE-CAN:W2B-032#81:4> The admin <l> istrative people may look after it, and often, the
+
+financial people look after it.
+<ICE-CAN:W2B-032#82:4> Certainly the MIS people look after only a certain kind of form.
+<ICE-CAN:W2B-032#83:4> However, it's the senior managers beyond the in <l> dividual
+
+departments, who really see the hidden cost of forms and the advantage of
+
+forms pro <l> cessing. </p>
+
+<p> <ICE-CAN:W2B-032#84:4> <it> CC: Are organizations starting to integrate their forms pro
+
+<l> cessing function with their overall information strategy? </it> </p>
+
+<p> <ICE-CAN:W2B-032#85:4> Skapinker: Very much so.
+<ICE-CAN:W2B-032#86:4> There is no need to fill in a form on paper and then re-enter the
+
+data in afterwards.
+<ICE-CAN:W2B-032#87:4> It makes absolute sense to be building the form into an existing
+
+network of ma <l> chines or communication of ma <l> chines, get the data in,
+
+be able to use it anywhere within the or <l> ganization, and of course, get
+
+rid of a lot of the waste. </p>
+
+<p> <ICE-CAN:W2B-032#88:4> Why keep writing your name and address on 50 different forms when
+
+you only really need to update your address once and it will appear on any
+
+other forms? </p>
+
+<p> <ICE-CAN:W2B-032#89:4> <it> CC: Forms processing is one application that is said to be
+
+ideal for client / server applica <l> tions.
+<ICE-CAN:W2B-032#90:4> Do you see that as so? </it> </p>
+
+<p> <ICE-CAN:W2B-032#91:4> Skapinker: If you ever look at the type of money that people are
+
+currently spending on paper forms, it starts becoming far more realistic.
+
+</p>
+
+<p> <ICE-CAN:W2B-032#92:4> There's huge costs based in terms of processing a form.
+<ICE-CAN:W2B-032#93:4> The cost of processing a form, com <l> pared to the cost of printing
+
+a paper form is about 50 or 60 to one.
+<ICE-CAN:W2B-032#94:4> So for every dollar that you spend on buying a paper form, you spend
+
+&dollar;60 on processing that form. </p>
+
+<p> <ICE-CAN:W2B-032#95:4> For years, we heard about how the industry had managed to
+
+computerize itself, and small office functionality had been able to
+
+computerize itself, yet when it came to the large overall management of an
+
+office, it has never been able to get comput <l> erized.
+<ICE-CAN:W2B-032#96:4> It's really quite interest <l> ing to have a look why this has never
+
+happened. </p>
+
+<p> <ICE-CAN:W2B-032#97:4> A lot of this is that the hard <l> ware hasn't been there.
+<ICE-CAN:W2B-032#98:4> You need the graphics hardware, you need laser printers, you need
+
+networks, you need a database which exists out there on a client/server
+
+basis. </p>
+
+<p> <ICE-CAN:W2B-032#99:4> With that all in place, we now have the ability to pull all this
+
+together and actually computer <l> ize the communications between individuals
+
+in an office, which is forms processing.
+<ICE-CAN:W2B-032#100:4> I think the opportunity is enormous in terms of real live users and
+
+the application of form processing in the office. </p>
+
+<p> <ICE-CAN:W2B-032#101:4> <it> CC: So electronic mail, for example, could be done in the
+
+way of forms when you intro <l> duce a large enough user base? </p>
+
+<p> <ICE-CAN:W2B-032#102:4> Skapinker: I don't think that people think in terms of elec <l>
+
+tronic mail.
+<ICE-CAN:W2B-032#103:4> When I go on a business trip and I come back and I fill in an
+
+expense form, I want one copy to go to my manager who is going to sign it
+
+off. </it> </p>
+
+<p> <ICE-CAN:W2B-032#104:4> My manager, once he's signed it off, will probably send it
+
+through to the accounting department who will generate a cheque and send that
+
+cheque back to me.
+<ICE-CAN:W2B-032#105:4> I don't think of that as electronic mail.
+<ICE-CAN:W2B-032#106:4> I think of that as the routing and the pro <l> cessing of the form
+
+that I've just filled in. </p>
+
+<p> <ICE-CAN:W2B-032#107:4> When I've sat with an em <l> ployee and gone through an employee
+
+evaluation process, and I file that away in their file, I don't think of that
+
+as mail or database.
+<ICE-CAN:W2B-032#108:4> I just think of it as, well I've now written this form and I've
+
+filled this in, let's put it away. </p>
+
+<p> <ICE-CAN:W2B-032#109:4> One of the big advantages of form processing is it gets rid of
+
+all the jargon of having to update your database, electronically send a piece
+
+of information from one person to another and put it in terms that people
+
+understand. </p>
+
+<p> <ICE-CAN:W2B-032#110:4> <it> CC: Are you saying that the form is a good way to auto <l>
+
+mate your business because it's what people can relate to? </it> </p>
+
+<p> <ICE-CAN:W2B-032#111:4> Skapinker: It's proven.
+<ICE-CAN:W2B-032#112:4> Every business uses forms as a means of communication and can re <l>
+
+late to a means of communica <l> tion. </p>
+
+<p> <ICE-CAN:W2B-032#113:4> Part of the difficulty is that people on the entry-level, com
+
+<l> puter level really are looking for a means of communicating and using
+
+computers.
+<ICE-CAN:W2B-032#114:4> When they re <l> ally got into word processing, which is what a lot
+
+of them do, it really just replaced the type-writer. </p>
+
+<p> <ICE-CAN:W2B-032#115:4> Why is WordPerfect the most popular word processor?
+<ICE-CAN:W2B-032#116:4> Be <l> cause it's the most similar to a typewriter. </p>
+
+<p> <ICE-CAN:W2B-032#117:4> <it> CC: Forms processing is a hot market for you now.
+<ICE-CAN:W2B-032#118:4> But what do you to do for an encore and how do you avoid becoming a
+
+one product company? </it> </p>
+
+<p> <ICE-CAN:W2B-032#119:4> Skapinker: The software in <l> dustry has shown over and over
+
+that positioning and market share is very, very important. </p>
+
+<p> <ICE-CAN:W2B-032#120:4> When we started off, our initial aim was to become the market
+
+leader.
+<ICE-CAN:W2B-032#121:4> Within a one-and-one-half to two-year period, we became the market
+
+leader both in the high-end and the low-end.
+<ICE-CAN:W2B-032#122:4> Our intention is to remain there.
+<ICE-CAN:W2B-032#123:4> We have a strategic relationship with IBM, that can maybe lead
+
+straight into that. </p>
+
+<p> <ICE-CAN:W2B-032#124:4> By creating a strategic rela <l> tionship with market leaders,
+
+such as IBM, our credibility factor goes up, and our chances of remaining in
+
+the market as a market leader, remain very high.
+<ICE-CAN:W2B-032#125:4> Certainly IBM today owns 11 per cent of Delrina.
+<ICE-CAN:W2B-032#126:4> We are the only Canadian software company that IBM has invested in.
+
+</p>
+
+<p> <ICE-CAN:W2B-032#127:4> <it> CC: Do you see yourself diver <l> sifying into different
+
+products or building on forms pro <l> cessing? </it> </p>
+
+<p> <ICE-CAN:W2B-032#128:4> Skapinker: You will see us build <l> ing on forms processing.
+<ICE-CAN:W2B-032#129:4> How <l> ever, other related graphics business-type applications may
+
+become quite interesting to us.
+<ICE-CAN:W2B-032#130:4> Our long-term aim is to be a leading grahics business soft <l> ware
+
+Canadian publisher.
+<ICE-CAN:W2B-032#131:4> And whatever it takes to do that, you will find us doing.
+<ICE-CAN:W2B-032#132:4> Certainly, once an infrastructure is built, it will make sense for
+
+us to expand into other products. </p> </I>

@@ -1,0 +1,442 @@
+<I>
+
+<$A> <ICE-CAN:S2A-058#1:1:A> So over here in setup you have your D V three background okay
+<ICE-CAN:S2A-058#2:1:A> So <,> you could uhh
+<ICE-CAN:S2A-058#3:1:A> You'll have to put more in that one <,>
+
+<$ZA> <ICE-CAN:S2A-058#4:1:Z> <O> comments </O>
+<ICE-CAN:S2A-058#5:1:Z> Uhm anyways usually you'll use the black
+<ICE-CAN:S2A-058#6:1:Z> And I'll show you
+<ICE-CAN:S2A-058#7:1:Z> You might <}> <-> wanna </-> <+> want to </+> </}> fade to black <,>
+
+fade out from black
+<ICE-CAN:S2A-058#8:1:Z> Technically you could fade to yellow <,> and out from yellow <,>
+<ICE-CAN:S2A-058#9:1:Z> Uhm <,> here <,> we'll come back to the setup <,> later <,> uhm
+<ICE-CAN:S2A-058#10:1:Z> Okay this is the main thing
+<ICE-CAN:S2A-058#11:1:Z> Your main screen is your first scene
+<ICE-CAN:S2A-058#12:1:Z> That's your first scene to be edited
+<ICE-CAN:S2A-058#13:1:Z> The preview represents the beginning of the second scene
+<ICE-CAN:S2A-058#14:1:Z> In between the first and the second you want a transition
+<ICE-CAN:S2A-058#15:1:Z> Okay
+<ICE-CAN:S2A-058#16:1:Z> So in this case uh <}> <-> these </-> <=> this </=> </}> is my
+
+effects bag A
+<ICE-CAN:S2A-058#17:1:Z> I've also got effects bag C D E F G <,>
+<ICE-CAN:S2A-058#18:1:Z> <}> <-> Kay </-> <+> Okay </+> </}> there's about well there's
+
+almost two hundred effects here <O> laughing in audience </O>
+<ICE-CAN:S2A-058#19:1:Z> Uh which is why it can take a while just to figure out what it is
+
+you're doing
+<ICE-CAN:S2A-058#20:1:Z> Some of them are really graphic
+<ICE-CAN:S2A-058#21:1:Z> Like here for example watch the screen <O> baaing starts </O> over
+
+here
+<ICE-CAN:S2A-058#22:1:Z> <?> He's got </?> sheep falling from the sky <,,> <O> baaing ends
+
+</O>
+<ICE-CAN:S2A-058#23:1:Z> <}> <-> Kay </-> <+> Okay </+> </}> which is a bit well <,> graphic
+
+I mean
+
+<$ZB> <ICE-CAN:S2A-058#24:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-058#25:1:A> Some of them do but in any case the sound isn't being
+
+transferred
+<ICE-CAN:S2A-058#26:1:A> <}> <-> We don't </-> <=> We're not </=> </}> set up for it so you
+
+just hear it and <,> uhm
+<ICE-CAN:S2A-058#27:1:A> <}> <-> Kay </-> <+> Okay </+> </}> so this is what you spend a lot
+
+of time playing
+<ICE-CAN:S2A-058#28:1:A> You just come <}> <-> and </-> <=> and </=> </}> try out some of
+
+these effects uhh <,> <O> sound effect in background </O>
+<ICE-CAN:S2A-058#29:1:A> That kind of thing
+<ICE-CAN:S2A-058#30:1:A> And then you've also got your more <,>
+<ICE-CAN:S2A-058#31:1:A> Well actually I'm just <}> <-> gonna </-> <+> going to </+> </}>
+
+show you a real cheesy one here <,> <O> laughter from audience </O>
+<ICE-CAN:S2A-058#32:1:A> Boys have their own of course <O> laughter from audience </O>
+<ICE-CAN:S2A-058#33:1:A> And Mister Clean <,,>
+<ICE-CAN:S2A-058#34:1:A> They become part of the content of your video okay so
+
+<$ZC> <ICE-CAN:S2A-058#35:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-058#36:1:A> Beware
+<ICE-CAN:S2A-058#37:1:A> Well it's sort of I mean some of this is pretty tacky really <,>
+
+and uh it's really how you use it
+<ICE-CAN:S2A-058#38:1:A> There are some more subtle ones here
+<ICE-CAN:S2A-058#39:1:A> You've got your wipes uh
+<ICE-CAN:S2A-058#40:1:A> Your soft wipes and your uhm <,,> your
+<ICE-CAN:S2A-058#41:1:A> Hold on
+
+<$ZD> <ICE-CAN:S2A-058#42:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-058#43:1:A> Split screen
+<ICE-CAN:S2A-058#44:1:A> Now it doesn't digitize it <,>
+<ICE-CAN:S2A-058#45:1:A> It doesn't shrink it
+<ICE-CAN:S2A-058#46:1:A> Although one of them will
+<ICE-CAN:S2A-058#47:1:A> I'll show you that in a second
+<ICE-CAN:S2A-058#48:1:A> This is good to know about though cos you can shoot for this easily
+
+enough <,>
+<ICE-CAN:S2A-058#49:1:A> Heavy to the left heavy to the right and then combine the two <,>
+
+uhm
+<ICE-CAN:S2A-058#50:1:A> So what I'm doing here is I highlight once and I can either
+<ICE-CAN:S2A-058#51:1:A> Well I can come down here and choose a speed slow medium fast
+<ICE-CAN:S2A-058#52:1:A> And then I can trigger the effect by clicking on the effect once
+
+again
+<ICE-CAN:S2A-058#53:1:A> Or I can click on auto <,>
+<ICE-CAN:S2A-058#54:1:A> Or I can use the T bar
+<ICE-CAN:S2A-058#55:1:A> Left mouse button and just drag it and just control it and leave it
+
+right there <,>
+<ICE-CAN:S2A-058#56:1:A> And when an effect is in motion the screen usually distorts in some
+
+way or another
+<ICE-CAN:S2A-058#57:1:A> <}> <-> And </-> <=> Or </=> </}> I could also hit the space bar
+<ICE-CAN:S2A-058#58:1:A> You <}> <-> wanna </-> <+> want to </+> </}> hit the space bar
+<ICE-CAN:S2A-058#59:1:A> Okay so you can trigger it in <}> <-> a <.> f </.> </-> <=> quite a
+
+few </=> </}> different ways depending on who you're working with and <,> how
+
+you're working
+<ICE-CAN:S2A-058#60:1:A> Uhm <,,> now there are a couple which actually digitize <,,>
+<ICE-CAN:S2A-058#61:1:A> Ah let me just find one
+<ICE-CAN:S2A-058#62:1:A> Okay this one for example
+<ICE-CAN:S2A-058#63:1:A> Okay see what it's done
+<ICE-CAN:S2A-058#64:1:A> It takes the incoming image <,> uhm <,> as a whole
+<ICE-CAN:S2A-058#65:1:A> <}> <-> Kay </-> <+> Okay </+> </}> it doesn't cut it up or
+
+anything
+<ICE-CAN:S2A-058#66:1:A> So now I can just like move it around and tuck it anywhere and they
+
+can both be <?> removed </?> <&> pause about ten seconds </&>
+<ICE-CAN:S2A-058#67:1:A> Okay <,,>
+<ICE-CAN:S2A-058#68:1:A> So you can do this <}> <-> sorta </-> <+> sort of </+> </}> thing
+<ICE-CAN:S2A-058#69:1:A> Uh there's also a couple that actually <,> superimpose themselves
+
+over your image
+<ICE-CAN:S2A-058#70:1:A> <unclear> word </unclear> snow <unclear> word </unclear>
+
+accumulations <O> audience laughter </O> <,,>
+<ICE-CAN:S2A-058#71:1:A> Uhm and then there's also this kind of deep space thing or
+
+something <O> audience laughter </O> <,,>
+<ICE-CAN:S2A-058#72:1:A> And then there is <,> something called the old movie
+<ICE-CAN:S2A-058#73:1:A> Cos you got rid of your dust and your scratches
+<ICE-CAN:S2A-058#74:1:A> In the chrome effects you can combine this with black and white
+<ICE-CAN:S2A-058#75:1:A> <}> <-> Kay </-> <+> Okay </+> </}> so you just take the colour
+
+right <}> <-> outta </-> <+> out of </+> </}> your video
+
+<$ZE> <ICE-CAN:S2A-058#76:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-058#77:1:A> Yeah I'll show you that in a second
+<ICE-CAN:S2A-058#78:1:A> Yeah they're filters <,> <}> <-> kay </-> <+> okay </+> </}>
+<ICE-CAN:S2A-058#79:1:A> Uhm <,> anyways this is the sort of thing you come in and play with
+<ICE-CAN:S2A-058#80:1:A> Dissolve's at the end of every effects bank
+<ICE-CAN:S2A-058#81:1:A> So <,> again using the T bar I can just leave it as kind of a
+
+transparent superimpose <,>
+<ICE-CAN:S2A-058#82:1:A> Okay
+<ICE-CAN:S2A-058#83:1:A> And I can record that as long as I want to <,,>
+<ICE-CAN:S2A-058#84:1:A> Or I could just take it right out
+<ICE-CAN:S2A-058#85:1:A> Okay
+
+<$ZF> <ICE-CAN:S2A-058#86:1:Z> <O> starts to ask a question </O>
+
+<$A> <ICE-CAN:S2A-058#87:1:A> There's also something called the superimpose here <,> which
+
+is uhm well anyway I'll
+<ICE-CAN:S2A-058#88:1:A> Let me just show you
+<ICE-CAN:S2A-058#89:1:A> They call it a superimpose
+<ICE-CAN:S2A-058#90:1:A> It's more of a luminance keyer which means it'll key <,> a white or
+
+a black signal out
+<ICE-CAN:S2A-058#91:1:A> Okay and I'll show you <,> uhm
+
+<$ZG> <ICE-CAN:S2A-058#92:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-058#93:1:A> Yeah <,> yeah <,> uh well I'll just show you
+
+<$ZH> <ICE-CAN:S2A-058#94:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-058#95:1:A> No you can't set it up quite that way
+<ICE-CAN:S2A-058#96:1:A> If I click on dissolve I'll go back here to setup there is the
+
+effect speeds
+<ICE-CAN:S2A-058#97:1:A> The default is slow medium fast
+<ICE-CAN:S2A-058#98:1:A> I can also go to variable though <,,>
+<ICE-CAN:S2A-058#99:1:A> Which means that back here in my dissolve I've got a number grid
+<ICE-CAN:S2A-058#100:1:A> So <}> <-> you've got </-> <,> <=> you could have </=> </}> a
+
+pretty slow dissolve here
+<ICE-CAN:S2A-058#101:1:A> You'd have to experiment with it to get it to that timing
+
+<$ZH> <ICE-CAN:S2A-058#102:1:Z> <O> aks a question </O>
+
+<$A> <ICE-CAN:S2A-058#103:1:A> You can do
+<ICE-CAN:S2A-058#104:1:A> Yeah you have to do it manually
+<ICE-CAN:S2A-058#105:1:A> Yeah <,>
+<ICE-CAN:S2A-058#106:1:A> But you can do it on the cut
+<ICE-CAN:S2A-058#107:1:A> You would just do it manually
+
+<$ZH> <ICE-CAN:S2A-058#108:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-058#109:1:A> <}> <-> There there </-> <=> There </=> </}> is a system in
+
+here a G P I trigger which we did set up at one point but it was just so uh
+
+unpredictable <,> that <,> it's better to just do it yourself <,,>
+<ICE-CAN:S2A-058#110:1:A> Uhm <,> <}> <-> kay </-> <+> okay </+> </}> the superimpose
+<ICE-CAN:S2A-058#111:1:A> Now let's match this up with three
+<ICE-CAN:S2A-058#112:1:A> <}> <-> Kay </-> <+> Okay </+> </}> now you see what's <.> ha </.>
+<ICE-CAN:S2A-058#113:1:A> Can you see
+
+<$ZI> <ICE-CAN:S2A-058#114:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-058#115:1:A> Yeah
+<ICE-CAN:S2A-058#116:1:A> Uhm <,> I click either on black or white and then this number
+
+system here <}> <-> is like a </-> <=> it's a </=> </}> numbered T bar okay
+<ICE-CAN:S2A-058#117:1:A> So left mouse button and I'll just scroll <,,>
+<ICE-CAN:S2A-058#118:1:A> Okay so what happens is that <,> the blacks go first and are
+
+replaced with <,> another video image <,> you see
+<ICE-CAN:S2A-058#119:1:A> Uhm <,> and again using <}> <-> this </-> <=> this </=> </}> uh
+
+scroll bar <,> I can eventually take it right out if I want
+
+<$ZJ> <ICE-CAN:S2A-058#120:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-058#121:1:A> Yeah
+<ICE-CAN:S2A-058#122:1:A> Yeah I can <}> <-> kinda </-> <+> kind of </+> </}> determine the
+
+grade of that key
+<ICE-CAN:S2A-058#123:1:A> Or you can go to white <,> and <,> key out the whites <&> pause
+
+about ten seconds </&>
+<ICE-CAN:S2A-058#124:1:A> Alright
+<ICE-CAN:S2A-058#125:1:A> So it has its uses <&> pause about ten seconds </&>
+<ICE-CAN:S2A-058#126:1:A> And again this is the sort of thing where <}> <-> if you </-> <=>
+
+if you </=> </}> know about it uhm <,> then you can <}> <-> kinda </-> <+>
+
+kind of </+> </}> shoot with that in mind a bit <&> pause about ten seconds
+
+</&>
+<ICE-CAN:S2A-058#127:1:A> Okay so for example I've got more of a sky here <&> pause about
+
+ten seconds </&>
+<ICE-CAN:S2A-058#128:1:A> Okay that's keyed out <&> pause about ten seconds </&>
+<ICE-CAN:S2A-058#129:1:A> Alright
+<ICE-CAN:S2A-058#130:1:A> Anyway <,>
+<ICE-CAN:S2A-058#131:1:A> Okay so again like all the stuff I'm doing there's little
+
+tutorials in the manual as you do everything
+<ICE-CAN:S2A-058#132:1:A> It's pretty good <,> that way
+<ICE-CAN:S2A-058#133:1:A> Uhm <,> alright so the other thing here is the freeze frame <,,>
+<ICE-CAN:S2A-058#134:1:A> Just choose something <,,>
+<ICE-CAN:S2A-058#135:1:A> The really big thing to remember about the switcher and it can be
+
+a bit confusing is that <,> uh <,> <}> <-> when you're </-> <=> when you're
+
+</=> </}> using the editor you're just <}> <-> sorta </-> <+> sort of </+>
+
+</}> concerned with the first scenario that you're editing okay
+<ICE-CAN:S2A-058#136:1:A> You cut that and then you're back to finding the other one
+<ICE-CAN:S2A-058#137:1:A> Uhm in this case you've <}> <-> gotta </-> <+> got to </+> </}>
+
+find scene one and also the beginning of scene two for your other transition
+
+between <,> the two
+<ICE-CAN:S2A-058#138:1:A> Okay so there's another step to it
+<ICE-CAN:S2A-058#139:1:A> You've got three end points as opposed to two end points
+<ICE-CAN:S2A-058#140:1:A> Uhm <&> pause about 12 seconds </&>
+<ICE-CAN:S2A-058#141:1:A> <}> <-> Kay </-> <+> Okay </+> </}> now I'll just frame grab this
+
+quickly
+<ICE-CAN:S2A-058#142:1:A> It's really pretty simple to frame grab <,,>
+<ICE-CAN:S2A-058#143:1:A> <}> <-> Kay </-> <+> Okay </+> </}> let's just say here
+<ICE-CAN:S2A-058#144:1:A> Uh the freeze button comes up highlit as a default
+<ICE-CAN:S2A-058#145:1:A> First thing you do is take it off
+<ICE-CAN:S2A-058#146:1:A> Whatever you want to grab you'll put <,> in the preview
+<ICE-CAN:S2A-058#147:1:A> And uh click on your D Vs and press freeze <,> okay
+<ICE-CAN:S2A-058#148:1:A> So that's now become <,> uhm a freeze frame and it's stored in D V
+
+two
+<ICE-CAN:S2A-058#149:1:A> These are also called frame buffers
+<ICE-CAN:S2A-058#150:1:A> They're quite temporary
+<ICE-CAN:S2A-058#151:1:A> If you start <}> <-> muckin </-> <+> mucking </+> </}> around a
+
+little bit chances are you'll lose it
+<ICE-CAN:S2A-058#152:1:A> So unless you're <}> <-> gonna </-> <+> going to </+> </}> use it
+
+right away <,> you might <}> <-> wanna </-> <+> want to </+> </}> take it to
+
+setup and save it to the hard drive and call it back again later on okay
+<ICE-CAN:S2A-058#153:1:A> If you <}> <-> wanna </-> <+> want to </+> </}> save stuff to the
+
+hard drive <,> generally speaking just ask somebody on staff to take you
+
+through <,> how to do that
+<ICE-CAN:S2A-058#154:1:A> The manual <,> uhm <,,> doesn't <,> really show you like with our
+
+system of course so <,>
+<ICE-CAN:S2A-058#155:1:A> Just let somebody know
+<ICE-CAN:S2A-058#156:1:A> Uhm I'll just go to save
+<ICE-CAN:S2A-058#157:1:A> Now I'll find an empty frame <,,>
+<ICE-CAN:S2A-058#158:1:A> <}> <-> Kay </-> <+> Okay </+> </}> so let's just call it <O> loud
+
+cough in audience </O> <unclear> word </unclear> donuts and then save to the
+
+hard drive now
+<ICE-CAN:S2A-058#159:1:A> So if we lose it <,> we can call it back
+<ICE-CAN:S2A-058#160:1:A> And uhm we're going to paint <,> all over this frame is what we're
+
+<}> <-> gonna </-> <+> going to </+> </}> do <O> sneeze in audience </O> <&>
+
+pause about 5 seconds </&> <O> sneeze in audience </O>
+<ICE-CAN:S2A-058#161:1:A> Okay <,>
+<ICE-CAN:S2A-058#162:1:A> Now one thing uhm <,> which I <}> <-> talked </-> <=> touched </=>
+
+</}> on just a little bit before there was sometimes <}> <-> on your </-> uh
+
+<,> <=> on your </=> </}> tape you've got two <,> images that you <}> <->
+
+wanna </-> <+> want to </+> </}> dissolve to and uh I mean you can do a
+
+couple of things here
+<ICE-CAN:S2A-058#163:1:A> You could make a copy of that tape and use it as another source
+
+<,>
+<ICE-CAN:S2A-058#164:1:A> Or <,,> you could <,> for example
+<ICE-CAN:S2A-058#165:1:A> Alright let's just say this is scene one <,,> here
+<ICE-CAN:S2A-058#166:1:A> I'll just dissolve to black <,> for example
+<ICE-CAN:S2A-058#167:1:A> I'll use that <,,>
+<ICE-CAN:S2A-058#168:1:A> Uhm <,> looks like it's fast
+<ICE-CAN:S2A-058#169:1:A> Something like that <&> pause about 25 seconds </&>
+<ICE-CAN:S2A-058#170:1:A> <}> <-> Kay </-> <+> Okay </+> </}> are you with me so far <,>
+
+<$ZK> <ICE-CAN:S2A-058#171:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-058#172:1:A> I mean usually this is like a four hour workshop so I'm <,>
+
+moving pretty quickly <,,>
+<ICE-CAN:S2A-058#173:1:A> Alright and then whatever
+<ICE-CAN:S2A-058#174:1:A> At any time you <,> fade to black <,>
+<ICE-CAN:S2A-058#175:1:A> And that <,,>
+<ICE-CAN:S2A-058#176:1:A> Whenever you're in the recorder as well you're not going to see
+
+<,> the toaster
+<ICE-CAN:S2A-058#177:1:A> <}> <-> I can </-> <=> I can </=> </}> click on all kinds of
+
+things here <}> <-> kay </-> <+> okay </+> </}>
+<ICE-CAN:S2A-058#178:1:A> It's all happening in the player side
+<ICE-CAN:S2A-058#179:1:A> This is an output
+<ICE-CAN:S2A-058#180:1:A> So once I've got something on my recorder I can't throw a dissolve
+
+onto the scene for example
+<ICE-CAN:S2A-058#181:1:A> You have to do that as it's being processed through the player
+<ICE-CAN:S2A-058#182:1:A> Okay
+<ICE-CAN:S2A-058#183:1:A> That's something that <,> people sometimes find a little bit hard
+
+to get their head around
+<ICE-CAN:S2A-058#184:1:A> That is an output only <,>
+<ICE-CAN:S2A-058#185:1:A> It's not represented on <?> bus </?> at all <&> pause about 18
+
+seconds </&>
+<ICE-CAN:S2A-058#186:1:A> <}> <-> Kay </-> <+> Okay </+> </}> fade to black <,,> uhm <,,>
+
+find the next <,> scene
+<ICE-CAN:S2A-058#187:1:A> Let's say there
+<ICE-CAN:S2A-058#188:1:A> And this time I'll <,> fade up from black <,,>
+<ICE-CAN:S2A-058#189:1:A> So my first scene here is D V three
+<ICE-CAN:S2A-058#190:1:A> It's the colour background that's <}> <-> gonna </-> <+> going to
+
+</+> </}> be edited first and I'm <}> <-> gonna </-> <+> going to </+> </}>
+
+dissolve <,,> to input two which is the player
+<ICE-CAN:S2A-058#191:1:A> Okay so you can only see your preview <?> waiting </?> there <,,>
+<ICE-CAN:S2A-058#192:1:A> <}> <-> Kay </-> <+> Okay </+> </}> so as soon as it beeped <}>
+
+<-> I </-> <=> I </=> </}> triggered the effect <&> pause about fifteen
+
+seconds </&>
+<ICE-CAN:S2A-058#193:1:A> Okay
+<ICE-CAN:S2A-058#194:1:A> So that's one way around it
+<ICE-CAN:S2A-058#195:1:A> It's a pretty common device really <,>
+<ICE-CAN:S2A-058#196:1:A> Uhm <,> and it's a way of keeping your sound organized
+<ICE-CAN:S2A-058#197:1:A> There's also the match frame edit uhm <,,> which I could show you
+
+<,,>
+<ICE-CAN:S2A-058#198:1:A> What you have to leave a specific time here
+
+<$ZK> <ICE-CAN:S2A-058#199:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-058#200:1:A> Yeah
+<ICE-CAN:S2A-058#201:1:A> I just wonder if <}> <-> it's </-> <,> <=> it's </=> </}> worth
+
+showing you or maybe I can just explain it to you
+<ICE-CAN:S2A-058#202:1:A> What I did here was find uh scene one and scene two
+<ICE-CAN:S2A-058#203:1:A> In a match frame I would freeze frame the first frame of the
+
+second scene <,,> set that up here <,>
+<ICE-CAN:S2A-058#204:1:A> Maybe I should just show you
+<ICE-CAN:S2A-058#205:1:A> Actually I think that'd make more sense
+
+<$ZL> <ICE-CAN:S2A-058#206:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-058#207:1:A> Okay okay I'm <}> <-> gonna </-> <+> going to </+> </}> show
+
+you <&> pause about five seconds </&>
+<ICE-CAN:S2A-058#208:1:A> Somebody tried to speak
+<ICE-CAN:S2A-058#209:1:A> Okay
+<ICE-CAN:S2A-058#210:1:A> Uhm alright so we'll never mind this for now and pretend there is
+
+not
+<ICE-CAN:S2A-058#211:1:A> Okay
+<ICE-CAN:S2A-058#212:1:A> This one
+<ICE-CAN:S2A-058#213:1:A> I'm <}> <-> gonna </-> <+> going to </+> </}> grab this one okay
+<ICE-CAN:S2A-058#214:1:A> So could you
+<ICE-CAN:S2A-058#215:1:A> Does somebody have a pen
+<ICE-CAN:S2A-058#216:1:A> They could take note of this
+<ICE-CAN:S2A-058#217:1:A> One zero zero forty <,> oh one <,>
+<ICE-CAN:S2A-058#218:1:A> <O> muttering from speaker and audience all at once </O> One zero
+
+zero forty oh one
+<ICE-CAN:S2A-058#219:1:A> Forty oh one
+<ICE-CAN:S2A-058#220:1:A> Alright so I'm <}> <-> gonna </-> <+> going to </+> </}> grab this
+
+<,,>
+<ICE-CAN:S2A-058#221:1:A> Okay that's frozen
+<ICE-CAN:S2A-058#222:1:A> Let's go save this to setup again
+<ICE-CAN:S2A-058#223:1:A> In fact I think I'll hold on to that idea <,>
+<ICE-CAN:S2A-058#224:1:A> <O> whispering starts </O> I'm <}> <-> gonna </-> <+> going to
+
+</+> </}> close the door
+<ICE-CAN:S2A-058#225:1:A> It's really drafty up here <O> whispering ends </O>
+<ICE-CAN:S2A-058#226:1:A> <}> <-> Kay </-> <+> Okay </+> </}> so that's the first frame of
+
+scene two <,,>
+
+<$ZM> <ICE-CAN:S2A-058#227:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-058#228:1:A> It's saving it
+
+<$ZM> <ICE-CAN:S2A-058#229:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-058#230:1:A> Ah it's the first frame <{> <[> of the second scene </[>
+
+<$ZM> <ICE-CAN:S2A-058#231:1:Z> <[> <O> comments </O> </[> </{> <O> laughter from audience
+
+</O>
+
+<$A> <ICE-CAN:S2A-058#232:1:A> Alright so first frame scene two
+<ICE-CAN:S2A-058#233:1:A> Now let's find first frame scene one </I>

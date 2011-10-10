@@ -1,0 +1,397 @@
+<I>
+<ICE-CAN:W2A-030#1:1> <h> <bold> Diving patterns of California sea lions, <foreign> <it>
+
+Zalophus californianus </it> </foreign> </bold> </h>
+<ICE-CAN:W2A-030#2:1> <h> STEVEN D. FELDKAMP <sp> 1 </sp> <footnote> 1 Present address: P.O.
+
+Box 524, Roseburg, OR 97470, U.S.A. </footnote> </h>
+<ICE-CAN:W2A-030#3:1> <it> Physiological Research Laboratory A-004, Scripps Institution of
+
+Oceanography, La Jolla, CA 92093, U.S.A. </it> AND ROBERT L. DELONG AND
+
+GEORGE A. ANTONELIS </h>
+<ICE-CAN:W2A-030#4:1> <it> Northwest and Alaska Fisheries Center, National Marine Mammal
+
+Laboratory, National Marine Fisheries Service, National Oceanic and
+
+Atmospheric Administration, 7600 Sand Pt. Way, N.E., Seattle, WA 98115,
+
+U.S.A. </it> </h>
+<ICE-CAN:W2A-030#5:1> <h> Received August 15, 1988 </h>
+<ICE-CAN:W2A-030#6:1> <h> FELDKAMP, S. D., DELONG, R. L., and ANTONELIS, G. A. 1989.
+<ICE-CAN:W2A-030#7:1> Diving patterns of California sea lions, <foreign> <it> Zalophus cali
+
+<l> fornianus. </it> </foreign> Can. J. Zool. <bold> 67 </bold> : 872 - 883.
+
+</h>
+
+<p> <ICE-CAN:W2A-030#8:1> The diving patterns of 10 adult female California sea lions (
+
+<foreign> <it> Zalophus californianus </it> </foreign> ) were examined during
+
+the summer breeding season on San Miguel Island, California, in 1982 and 1983
+
+using time-depth recorders.
+<ICE-CAN:W2A-030#9:1> During 17 feeding trips, representing 40.6 days at sea, animals made
+
+over 8900 dives, the deepest of which was estimated at 274 m, while the
+
+longest was 9.9 min.
+<ICE-CAN:W2A-030#10:1> The majority of dives, however, were less than 3 min in duration and
+
+80 m in depth.
+<ICE-CAN:W2A-030#11:1> From estimates of body oxygen stores, we predict that dives up to 5.8
+
+min can be supported aerobically.
+<ICE-CAN:W2A-030#12:1> Therefore, cost-benefit considerations based on prey availability and
+
+encounter rate may be more important than physiological limits in shaping the
+
+foraging patterns of <foreign> <it> Zalophus </it> </foreign> .
+<ICE-CAN:W2A-030#13:1> Sea lions were active virtually throughout their time at sea, resting
+
+on the surface for only 3% of the average trip.
+<ICE-CAN:W2A-030#14:1> Peak diving frequency occurred during the twilight hours near sunrise
+
+and sunset.
+<ICE-CAN:W2A-030#15:1> Dives were frequent, however, during all hours of the day and were
+
+typically clustered into bouts that lasted a mean ( <w> + <sb> - </sb> </w>
+
+SD) of 3.3 <w> + <sb> - </sb> </w> 1.5 h.
+<ICE-CAN:W2A-030#16:1> We suggest that these bouts represent active feeding on discrete prey
+
+patches.
+<ICE-CAN:W2A-030#17:1> During short bouts ( &lt;3 h), dive depth was less variable than for
+
+dives occurring between bouts.
+<ICE-CAN:W2A-030#18:1> During longer bouts, dive depth changed in a manner consistent with
+
+pursuit of vertically migrating prey.
+<ICE-CAN:W2A-030#19:1> During the 1983 El Ni&ntilde;o, sea lions compensated for a reduction
+
+in food availability by lengthening dive bouts.
+<ICE-CAN:W2A-030#20:1> These seasonal and diel variations in diving patterns suggest that
+
+the rate of prey encounter strongly influences the depth and duration of
+
+individual dives. </p> <O> French Abstract </O>
+<ICE-CAN:W2A-030#21:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-030#22:1> Unlike terrestrial predators, the foraging activities of aquatic
+
+mammals take place during breath hold.
+<ICE-CAN:W2A-030#23:1> Feeding depths and time available for search, pursuit, and prey
+
+capture are limited by oxygen stores available upon submergence.
+<ICE-CAN:W2A-030#24:1> These constraints undoubtedly influence the decision rules used by
+
+aquatic predators in locating and pursuing prey.
+<ICE-CAN:W2A-030#25:1> How <l> ever, physiological limits to breath hold may not be the most
+
+important factor shaping the diving patterns of foraging marine mammals.
+<ICE-CAN:W2A-030#26:1> Instead, energetic cost-benefit considera <l> tions based on prey
+
+availability and encounter rates may have a more pronounced effect.
+<ICE-CAN:W2A-030#27:1> Recent data indicate that many fur seal species rarely approach the
+
+calculated limits of dive depth and duration ( Gentry et al. 1986 <it> a
+
+</it> ) .
+<ICE-CAN:W2A-030#28:1> Their dives are normally shallow and of short duration.
+<ICE-CAN:W2A-030#29:1> Consistent, diel variations in dive patterns also suggest that prey
+
+availability and location strongly influence the depth and duration of
+
+individual dives.
+<ICE-CAN:W2A-030#30:1> Within absolute physiological limits, there may be consider <l> able
+
+flexibility in the ways that marine mammals find and pursue prey. </p>
+
+<p> <ICE-CAN:W2A-030#31:1> Theoretical treatments of foraging by terrestrial predators have
+
+described a number of alternative strategies that animals in different
+
+habitats should use to maximize their net rate of energy intake ( Schoener
+
+1971; Pyke et al. 1977; Krebs 1978; Orians and Pearson 1979).
+<ICE-CAN:W2A-030#32:1> For aquatic mammals, however, only Dunstone and O'Connor ( 1979 <it>
+
+a </it> , 1979 <it> b </it> ) have addressed the question of foraging
+
+optimization.
+<ICE-CAN:W2A-030#33:1> They investigated the trade-off between the benefits of continued
+
+search and the cost of losing the prey because of oxygen depletion during
+
+pursuit by the mink ( <foreign> <it> Mustela vison </it> </foreign> ) . <O>
+
+graph </O> <O> graph caption </O>
+<ICE-CAN:W2A-030#34:1> The results of these studies demonstrated that search and pursuit
+
+times were negatively correlated, but that oxygen limits accounted for
+
+considerably less of the variation in hunting patterns than did optimal forag
+
+<l> ing considerations based on prey encounter rates. </p>
+
+<p> <ICE-CAN:W2A-030#35:1> Empirical evidence of the interactions between marine mammals and
+
+their prey, which might be used to test predic <l> tions of optimal
+
+breath-hold foraging, is lacking.
+<ICE-CAN:W2A-030#36:1> Recent advances in recording instruments, however, now permit the
+
+collection of data on the behavior of foraging animals.
+<ICE-CAN:W2A-030#37:1> As a result, information on several marine mammal and bird spe <l>
+
+cies is now available and provides a basis with which to com <l> pare their
+
+diving and feeding patterns ( Kooyman 1981; Kooyman et al. 1982; Nagy et al.
+
+1984; Croxall et al. 1985; Gentry et al. 1986 <it> a </it> ; Le Boeuf et al.
+
+1988).
+<ICE-CAN:W2A-030#38:1> Constraints imposed by an animal's physiology, morphology, and
+
+habitat and the energetic decision rules common to aquatic predators can be
+
+clarified by these comparisons. </p>
+
+<p> <ICE-CAN:W2A-030#39:1> The California sea lion ( <foreign> <it> Zalophus californianus
+
+</it> </foreign> ) is an ideal subject for studies of diving behavior.
+<ICE-CAN:W2A-030#40:1> Its large size provides an interesting comparison to previous studies
+
+of smaller fur seals ( Gentry et al. 1986 <it> a </it> ) .
+<ICE-CAN:W2A-030#41:1> Like other otariid pinnipeds, sea lions make repeated trips to sea
+
+during the breeding season, returning each time to suckle their pups.
+<ICE-CAN:W2A-030#42:1> This enables the deployment and retrieval of dive recorders.
+<ICE-CAN:W2A-030#43:1> Because they must return with sufficient energy to nourish their pups
+
+during their brief onshore fast, there is no doubt that feeding occurs during
+
+these offshore periods ( Costa 1986). </p>
+
+<p> <ICE-CAN:W2A-030#44:1> In this study, we examined the diving patterns of female sea
+
+lions during these foraging trips.
+<ICE-CAN:W2A-030#45:1> Although no information was obtained on prey availability, inferences
+
+based on optimal foraging predictions were made as to the factors that might
+
+influence the observed behavior.
+<ICE-CAN:W2A-030#46:1> Average dive durations were compared with predicted values to assess
+
+the effects of oxygen limitations on feeding patterns.
+<ICE-CAN:W2A-030#47:1> Comparisons with other spe <l> cies, for which similar data are
+
+available, give insights into the foraging constraints imposed by the
+
+environment and those that reflect functional limits. </p>
+<ICE-CAN:W2A-030#48:1> <h> <bold> Methods </bold> </h>
+
+<p> <ICE-CAN:W2A-030#49:1> This study was conducted at San Miguel Island, California (
+
+34&degree;N; 120&degree;25'W).
+<ICE-CAN:W2A-030#50:1> Time-depth recorders ( TDRs) were deployed on nine lactating, adult
+
+California sea lions between mid-July and mid-August 1982, and on five
+
+animals during mid-July 1983. </p>
+
+<p> <ICE-CAN:W2A-030#51:1> The TDR is a 500-g mechanical device that records, in real time,
+
+the depth and duration of every dive an animal makes over a 2-week period.
+<ICE-CAN:W2A-030#52:1> A complete description of this 5 x 20 cm instrument is given by
+
+Kooyman et al. ( 1983) and Gentry and Kooyman ( 1986).
+<ICE-CAN:W2A-030#53:1> Dives, along with time marks are recorded on photographic film by a
+
+light-emitting diode ( LED) mounted on a movable, pressure sensitive bourdon
+
+tube.
+<ICE-CAN:W2A-030#54:1> Only dives greater than 10 m in depth and 30 s in dura <l> tion can
+
+be resolved.
+<ICE-CAN:W2A-030#55:1> Before deployment and after recovery, all TDRs were calibrated to a
+
+maximum depth of 207 m using a portable pres <l> sure station. </p>
+
+<p> <ICE-CAN:W2A-030#56:1> The appearance of the LED trace can also provide an indirect
+
+measure of activity ( Gentry and Kooyman 1986).
+<ICE-CAN:W2A-030#57:1> Along with dives that appear as pointed traces on the film, the
+
+baseline ( recorded when the animal is on the surface) may be either broad
+
+and wavy, or narrow and flat ( Fig. 1).
+<ICE-CAN:W2A-030#58:1> A broad baseline is caused by movement or chatter of the bourdon tube
+
+arm, and we interpret this trace to indicate sur <l> face swimming.
+<ICE-CAN:W2A-030#59:1> Similarly, we interpret a flat baseline as representing inactivity of
+
+the animal or its resting on the surface.
+<ICE-CAN:W2A-030#60:1> From these images a time budget of the animal's activities at sea can
+
+be con <l> structed ( Fig. 1). </p>
+
+<p> <ICE-CAN:W2A-030#61:1> Sea lions that were observed nursing a pup were captured with
+
+hoop nets and physically immobilized using a large restraint board with a
+
+detachable neck brace ( Gentry and Holt 1982).
+<ICE-CAN:W2A-030#62:1> TDRs were fastened to each animal with a harness constructed from
+
+straps of 2.5 cm wide tubular nylon webbing ( Gentry and Kooyman 1986).
+<ICE-CAN:W2A-030#63:1> A very high frequency ( VHF) radio transmitter ( 5 cm length x 2 cm
+
+diameter; Advanced Telemetry Systems) was also attached to the har <l> ness
+
+to facilitate locating the animal on shore.
+<ICE-CAN:W2A-030#64:1> When animals returned from sea they were recaptured, the TDR removed,
+
+and the animal released. </p>
+<ICE-CAN:W2A-030#65:1> <h> <it> Analysis </it> </h>
+
+<p> <ICE-CAN:W2A-030#66:1> Upon recovery, the film was developed and enlarged.
+<ICE-CAN:W2A-030#67:1> Dive traces and timing marks were digitized and printouts obtained of
+
+the time each dive occurred, its depth, duration, and length of the following
+
+surface interval ( Gentry and Kooyman 1986).
+<ICE-CAN:W2A-030#68:1> During analysis, it became clear that dives occurred in clusters,
+
+separated by compara <l> tively long surface intervals.
+<ICE-CAN:W2A-030#69:1> To analyze these dive bouts, we estab <l> lished their ending points
+
+in time using a bout-ending criterion ( BEC) that was determined by
+
+constructing surface interval - survivorship curves ( Gentry and Kooyman
+
+1986).
+<ICE-CAN:W2A-030#70:1> For each animal, the number of post-dive surface intervals with a
+
+duration greater than a given time <it> t </it> was plotted logarithmically
+
+against <it> t </it> on the ordinate ( Fig. 2).
+<ICE-CAN:W2A-030#71:1> This formed a decreasing function with a slope proportional to the
+
+probability of a surface interval of given duration occurring at any time
+
+after the last surface interval recorded ( Fagen and Young 1978).
+<ICE-CAN:W2A-030#72:1> A break in the slope, therefore, signifies a change in the
+
+probability of surface interval occurrence. </p>
+
+<p> <ICE-CAN:W2A-030#73:1> For each animal two inflection points were observed: one at 2 to
+
+3 min and the other between 7 and 11 min ( Fig. 2).
+<ICE-CAN:W2A-030#74:1> Following the procedures outlined in Gentry and Kooyman ( 1986), the
+
+second point was chosen to represent the BEC.
+<ICE-CAN:W2A-030#75:1> To further define a bout, the mini <l> mum number of dives was
+
+arbitrarily set at 10.
+<ICE-CAN:W2A-030#76:1> A dive bout, there <l> fore, consisted of 10 or more dives not
+
+separated by a surface period exceeding the BEC. </p>
+
+<p> <ICE-CAN:W2A-030#77:1> Dive bouts were analyzed separately for mean dive depth,
+
+duration, and surface interval length.
+<ICE-CAN:W2A-030#78:1> Interbout intervals were calculated as time from the last dive in a
+
+bout until the first dive of the next.
+<ICE-CAN:W2A-030#79:1> Transit times to and from the feeding grounds were established by
+
+calculating the time from shore departure to the first dive bout and that
+
+spent in returning to land from the last dive bout. </p>
+
+<p> <ICE-CAN:W2A-030#80:1> Activity budgets were constructed from records with clear swim
+
+<l> ming and resting traces.
+<ICE-CAN:W2A-030#81:1> Time spent swimming was determined as all surface activity excluding
+
+resting and time spent on the surface between dives occurring within bouts.
+<ICE-CAN:W2A-030#82:1> During a dive bout, surface intervals between dives were generally
+
+brief and likely did not indi <l> cate travel, but instead were associated
+
+with replenishing 0 <sb> 2 </sb> stores.
+<ICE-CAN:W2A-030#83:1> Time spent diving was calculated as the total time that the animal
+
+was submerged.
+<ICE-CAN:W2A-030#84:1> Sea lions were considered resting when the dive trace appeared flat (
+
+Fig. 1). </p>
+
+<p> <ICE-CAN:W2A-030#85:1> To calculate distance travelled from the amount of time spent
+
+swimming, estimates were made of both swim speed and the instru <l> ment's
+
+hydrodynamic impact ( Appendix).
+<ICE-CAN:W2A-030#86:1> These calculations indicate that adult sea lions should travel at an
+
+average velocity of 2.5 m/s ( 9 km/h) when carrying the TDR package.
+<ICE-CAN:W2A-030#87:1> Empirical data collected on other otariid species of differing body
+
+size, however, suggest that this value may be slightly high owing to the
+
+assumption of similar relative transport costs between juveniles and adults (
+
+P. J. Ponganis, personal communication).
+<ICE-CAN:W2A-030#88:1> The average velocity of 9 km/h should therefore be viewed as
+
+approximate and the calculated foraging ranges regarded as maximum estimates.
+
+</p>
+<ICE-CAN:W2A-030#89:1> <h> <bold> Results </bold> </h>
+
+<p> <ICE-CAN:W2A-030#90:1> In 1982, all nine animals returned to shore with the instru <l>
+
+ment package.
+<ICE-CAN:W2A-030#91:1> One TDR failed, so that eight diving records were obtained ( ZC-5
+
+through ZC-12).
+<ICE-CAN:W2A-030#92:1> In 1983, only two of the five animals returned to the study site (
+
+ZC-17 and ZC-20).
+<ICE-CAN:W2A-030#93:1> A total of 10 dive records was therefore obtained from individual
+
+animals.
+<ICE-CAN:W2A-030#94:1> Because several of the animals made more than one trip to sea prior
+
+to recapture, a total of 17 feeding trips was recorded ( Table 1).
+<ICE-CAN:W2A-030#95:1> On 6 of these, film in the TDR ran out while the animal was still at
+
+sea.
+<ICE-CAN:W2A-030#96:1> On 11 of the trips, the return to shore was recorded. </p>
+
+<p> <ICE-CAN:W2A-030#97:1> Since all animals carried radio tags, it was possible to tell
+
+when they returned to San Miguel Island.
+<ICE-CAN:W2A-030#98:1> However, records clearly showed that two animals ( ZC-10 and ZC-17)
+
+were on land for periods ranging from 12 to 33 h although they did not return
+
+to the study site.
+<ICE-CAN:W2A-030#99:1> Nevertheless, because offshore rocks and other islands occur near San
+
+Miguel, these onshore periods are taken to represent the end of a trip to
+
+sea. </p>
+<ICE-CAN:W2A-030#100:1> <h> <it> Performance </it> </h>
+
+<p> <ICE-CAN:W2A-030#101:1> Over 8900 dives were logged in 40.6 recorded days at sea.
+<ICE-CAN:W2A-030#102:1> The trace of the deepest dive, although completely recorded on the
+
+film, exceeded the calibration of the instrument and was estimated at 274 m (
+
+ZC-9; Table 1) by assuming a linear correlation between pressure and the
+
+distance travelled by the recording arm. <O> diagram </O> <O> diagram caption
+
+</O> </p> </I>

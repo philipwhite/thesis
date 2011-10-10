@@ -1,0 +1,437 @@
+<I>
+
+<$A> <ICE-CAN:S1B-048#1:1:A> <@> Jack Babineau </@> is of course the director of Police
+
+Services for the M U C <&> Montreal City Police Department </&>
+<ICE-CAN:S1B-048#2:1:A> Chief of Police <@> Babineau </@> joins us now
+<ICE-CAN:S1B-048#3:1:A> Good morning sir
+
+<$B> <ICE-CAN:S1B-048#4:1:B> Good morning Mister <@> Gore </@>
+
+<$A> <ICE-CAN:S1B-048#5:1:A> Thanks for joining us this morning
+
+<$B> <ICE-CAN:S1B-048#6:1:B> My pleasure
+
+<$A> <ICE-CAN:S1B-048#7:1:A> You and your people had a tough week last week <{> <[> a very
+
+</[> tough week
+
+<$B> <ICE-CAN:S1B-048#8:1:B> <[> Yeah </[> </{> very tough week uhh I mean these things <}>
+
+<-> <}> <-> you </-> <=> you </=> </}> always know that </-> <=> you know it
+
+</=> </}> could happen but uhh when you're the uh police chief <}> <-> <}>
+
+<-> you </-> <=> you </=> </}> </-> <=> I think it's your </=> </}> nightmare
+
+uhh and <}> <-> it </-> <=> it </=> </}> happened uhh and uhh you know <}>
+
+<-> we uhh </-> <=> we </=> </}> have to overcome the situation
+<ICE-CAN:S1B-048#9:1:B> But still it's kind of hard
+
+<$A> <ICE-CAN:S1B-048#10:1:A> What's the latest in the investigation of the murder of <@>
+
+Roberta Piquard </@>
+<ICE-CAN:S1B-048#11:1:A> I see this morning some specialized police services may be being
+
+called on
+<ICE-CAN:S1B-048#12:1:A> <}> <-> What </-> <=> what's </=> </}> happening
+
+<$B> <ICE-CAN:S1B-048#13:1:B> Well you know uhuh obviously I won't talk about details but
+
+<}> <-> <.> we </.> </-> <+> we're </+> </}> working on the case uhh trying
+
+to find uhh why uhh Constable <@> Piquard </@> was shot
+<ICE-CAN:S1B-048#14:1:B> And when you find <}> <-> the uhh </-> <=> the </=> </}> motive for
+
+uhh the shooting <}> <-> you </-> <=> you're </=> </}> usually next to the uh
+
+person <}> <-> who's </-> <=> who </=> </}> committed the murder
+<ICE-CAN:S1B-048#15:1:B> So we're working on it right now and I wouldn't like to go in
+
+detail <{> <[> obviously uhh </[>
+
+<$A> <ICE-CAN:S1B-048#16:1:A> <[> Maybe you </[> </{> could confirm or deny this but I think
+
+the report in the Journal <&> Montreal newspaper </&> this morning saying
+
+you're trying to build up potential psychological profiles in the absense of
+
+you know any visual identification by any witness
+<ICE-CAN:S1B-048#17:1:A> That's what you're having to deal with
+
+<$B> <ICE-CAN:S1B-048#18:1:B> Well <}> <-> the </-> <=> there's </=> </}> a science uhh
+
+developed in the United States with the F B I over the last twenty years
+
+called profiling
+<ICE-CAN:S1B-048#19:1:B> Uhh and it you know with what happened on the scene <,> the way the
+
+person was shot <,> you can make a profile the <&> not " of the" </&> suspect
+
+you're looking for
+<ICE-CAN:S1B-048#20:1:B> And that's what we're going to be using uhm in a couple of days
+
+<$A> <ICE-CAN:S1B-048#21:1:A> As you know a number of questions about <,> the security or
+
+lack thereof around that substation
+<ICE-CAN:S1B-048#22:1:A> Was it consistent with procedures that she was there by herself <{>
+
+<[> in that substation </[>
+
+<$B> <ICE-CAN:S1B-048#23:1:B> <[> Oh yeah well </[> </{> everyday you got over two hundred
+
+police officers working on their own <,> in patrol cars <,> in stations <,>
+
+walking the beat
+<ICE-CAN:S1B-048#24:1:B> Uhh you know when you wear this uniform there's <}> <-> always </->
+
+<=> always </=> </}> this potential for danger
+<ICE-CAN:S1B-048#25:1:B> That you might get hit
+<ICE-CAN:S1B-048#26:1:B> And that's what happened
+<ICE-CAN:S1B-048#27:1:B> So it's not unusual that <}> <-> she was </-> <=> she was </=> </}>
+
+alone
+
+<$A> <ICE-CAN:S1B-048#28:1:A> What about things like <,> I mean security cameras
+<ICE-CAN:S1B-048#29:1:A> That came up as well
+<ICE-CAN:S1B-048#30:1:A> Why wasn't there a camera there even <}> <-> as </-> <=> as </=>
+
+</}> a dissuasive measure but in terms of trying to crack the case after the
+
+fact
+
+<$B> <ICE-CAN:S1B-048#31:1:B> But do you really think cameras are a dissuasive uhh operation
+<ICE-CAN:S1B-048#32:1:B> We had cameras at the <indig> assembl&eacute;e nationale </indig>
+
+and uhh you know people got shot
+<ICE-CAN:S1B-048#33:1:B> We have cameras in uhh banks <,> and still they are getting robbed
+<ICE-CAN:S1B-048#34:1:B> We have cameras at the casino
+<ICE-CAN:S1B-048#35:1:B> Uh two days ago a person sitting at a table <,> decided to pull out
+
+a gun <}> <-> and </-> <=> and </=> </}> and make a robbery there even though
+
+there are <}> <-> plenties of camera </-> <=> plenty of cameras </=> </}>
+<ICE-CAN:S1B-048#36:1:B> Uhh so you know it's not a deterrent
+<ICE-CAN:S1B-048#37:1:B> Uhh we have to find ways so that our people don't get shot
+<ICE-CAN:S1B-048#38:1:B> And uhh it's kind of hard you know to be uhh protected uhh all the
+
+time
+
+<$A> <ICE-CAN:S1B-048#39:1:A> But are you committed to the substations <}> <-> and </-> <=>
+
+cos </=> </}> it sounds to me like no changes in procedures for those
+
+substations
+
+<$B> <ICE-CAN:S1B-048#40:1:B> There won't be any changes
+<ICE-CAN:S1B-048#41:1:B> Uhh and I'm pretty sure Constable <@> Piquard </@> uhh you know
+
+would have said the same thing
+<ICE-CAN:S1B-048#42:1:B> The key solution to problems that we have in this society <,>
+
+mainly violence <,> is to go through community policing
+<ICE-CAN:S1B-048#43:1:B> The <,> closer we're going to get to the population <,,> <}> <-> if
+
+we you know uhh </-> <=> if we're </=> </}> able to build bridges with the
+
+community uhh these things won't happen
+<ICE-CAN:S1B-048#44:1:B> You know you don't shot <&> not " shoot" </&> you know people you
+
+know
+<ICE-CAN:S1B-048#45:1:B> Or uhh you know people around the police station will be uhh sort
+
+of a protection
+<ICE-CAN:S1B-048#46:1:B> Uhh so that's <}> <-> the </-> <=> to me the </=> </}> way of the
+
+future
+
+<$A> <ICE-CAN:S1B-048#47:1:A> I want to pick up on another story that's the news this
+
+morning
+<ICE-CAN:S1B-048#48:1:A> The Wolverine Squad <,> more arrests this morning and <}> <-> seems
+
+to </-> <=> seem like </=> </}> this initiative <}> <-> has become </-> <=>
+
+has been </=> </}> very successful since you've finally got <{> <[> everybody
+
+together </[> and started working together
+<ICE-CAN:S1B-048#49:1:A> I mean I've had this question right through so I'm going to ask you
+
+why did it seem to take so long to get everybody together and working in one
+
+direction
+
+<$B> <ICE-CAN:S1B-048#50:1:B> <[> Mhm </[> </{> well mainly it's a question of budget
+<ICE-CAN:S1B-048#51:1:B> I mean Wolverine is doing a great job
+<ICE-CAN:S1B-048#52:1:B> It's not only to pull people together
+<ICE-CAN:S1B-048#53:1:B> Uh it's a question of having the dollars
+<ICE-CAN:S1B-048#54:1:B> I mean it cost <&> not " costs" </&> a lot
+<ICE-CAN:S1B-048#55:1:B> Uhm and we had this budget given by the Quebec government
+<ICE-CAN:S1B-048#56:1:B> It made you know a big difference
+<ICE-CAN:S1B-048#57:1:B> Ever since we worked
+<ICE-CAN:S1B-048#58:1:B> I think the police itself has done you know a great job
+<ICE-CAN:S1B-048#59:1:B> My main concern is <}> <-> that </-> <=> will </=> </}> the <}> <->
+
+judicial system <,,> </-> <=> correctional system </=> </}> will be able to
+
+follow uhh what we are doing right now
+<ICE-CAN:S1B-048#60:1:B> I mean it makes no sense if we make the arrest and people involved
+
+<}> <-> in </-> <=> in </=> </}> these gangs uh get six months or a year in
+
+prison
+<ICE-CAN:S1B-048#61:1:B> So uhh you know after we've done our job somebody <,> else has to
+
+do theirs
+
+<$A> <ICE-CAN:S1B-048#62:1:A> Now this is supposed to be though part of the plan
+<ICE-CAN:S1B-048#63:1:A> I remember Mister Menard the Minister of Public Security when he
+
+was talking about putting this in place and finding the budget one of the
+
+things he said was <}> <-> we've </-> <=> you know we </=> </}> got to make
+
+very sure that when those people end up before a judge <}> <-> that </-> <=>
+
+that </=> </}> judge has all the information he needs to be able to make the
+
+kind of not only judgment but also the kind of sentencing that might act <}>
+
+<-> <}> <-> as a </-> <=> as well </=> </}> </-> <=> as an </=> </}> element
+
+in beating this thing
+
+<$B> <ICE-CAN:S1B-048#64:1:B> <{> <[> umhm </[>
+
+<$A> <ICE-CAN:S1B-048#65:1:A> <}> <-> <[> Are </[> </{> </-> <=> you sound </=> </}> like
+
+you're still sceptical though about the judges and their role in this
+
+<$B> <ICE-CAN:S1B-048#66:1:B> Well ahh obviously they need to be informed uhh but <}> <-> to
+
+uh </-> <=> to </=> </}> to inform them we need uhh the tools to be able to
+
+do it <,> mainly uh prosecutors
+<ICE-CAN:S1B-048#67:1:B> Uhh we're going uh through uh you know kind of budget problems
+<ICE-CAN:S1B-048#68:1:B> Uhh how do we uhh make sure that we can have twenty more
+
+prosecutors to do the job
+<ICE-CAN:S1B-048#69:1:B> And this is a question of money
+<ICE-CAN:S1B-048#70:1:B> And that's what they are debating uhh right now <}> <-> in </-> <=>
+
+in </=> </}> Quebec City <O> News report interruption </O>
+
+<$A> <ICE-CAN:S1B-048#71:1:A> Chief <@> Babineau </@> I wanted to get some of your thoughts
+
+on the uhh the big announcement yesterday by a number of ministers of various
+
+ministries uhh here in Quebec about <,,> measures designed to prevent
+
+conjugal <{> <[> violence </[>
+
+<$B> <ICE-CAN:S1B-048#72:1:B> <[> Mhm </[> </{>
+
+<$A> <ICE-CAN:S1B-048#73:1:A> And there's a whole array of things that were there from each
+
+of these ministries
+<ICE-CAN:S1B-048#74:1:A> One of the major ones though seems to be just trying to make sure
+
+<}> <-> you know it's a bit like the Wolverine task force </-> <=> the
+
+information <{> <[> flows </[> </=> </}>
+
+<$B> <ICE-CAN:S1B-048#75:1:B> <[> Mhm </[> </{>
+
+<$A> <ICE-CAN:S1B-048#76:1:A> That if a guy gets out of prison <}> <-> that </-> <=> that
+
+</=> </}> his spouse who's a potential target of violence is informed
+<ICE-CAN:S1B-048#77:1:A> <}> <-> That </-> <=> that </=> </}> <}> <-> the police </-> <=>
+
+the local police </=> </}> gets the information into their computers quickly
+
+so that the man or woman on the street in the car can you know punch it up
+
+right away
+<ICE-CAN:S1B-048#78:1:A> <}> <-> It's </-> <=> what </=> </}> do you think of some of these
+
+things that <}> <-> are </-> <=> were </=> </}> announced yesterday
+<ICE-CAN:S1B-048#79:1:A> <}> <-> What </-> <=> what </=> </}> about this whole problem
+<ICE-CAN:S1B-048#80:1:A> Cos it's huge
+<ICE-CAN:S1B-048#81:1:A> I mean just this past week what four women found killed
+
+<$B> <ICE-CAN:S1B-048#82:1:B> <}> <-> My </-> <=> my </=> </}> first comment is <,> at last
+<ICE-CAN:S1B-048#83:1:B> Ahh you know <}> <-> it took </-> <=> it took </=> </}> a long time
+<ICE-CAN:S1B-048#84:1:B> Uhh the M U C police has had a program like that for a over a year
+<ICE-CAN:S1B-048#85:1:B> Uhh we have four police officers working uh at the uhh <indig>
+
+Parajustice </indig> uh and they're informing uhh women that their uhh
+
+husband uhh is getting out
+<ICE-CAN:S1B-048#86:1:B> Uhh and we're working with the victims
+<ICE-CAN:S1B-048#87:1:B> And then <}> <-> we </-> <=> we've </=> </}> had that for a year
+
+now
+<ICE-CAN:S1B-048#88:1:B> So it's working pretty good
+
+<$A> <ICE-CAN:S1B-048#89:1:A> How does that system work
+<ICE-CAN:S1B-048#90:1:A> So <}> <-> as </-> <=> as </=> </}> soon as someone is to be
+
+released for whatever reason there's an immediate contact with the person
+
+<$B> <ICE-CAN:S1B-048#91:1:B> Before the person is released <,> there's a call uhh to the
+
+victim saying <}> <-> within uh </-> <=> within </=> </}> an hour the uhh
+
+person involved in your incident will be freed <}> <-> she </-> <=> the </=>
+
+</}> person is getting out
+<ICE-CAN:S1B-048#92:1:B> Uhh is everything alright
+<ICE-CAN:S1B-048#93:1:B> They're working with the person <,> helping them to find solutions
+
+to the problem
+<ICE-CAN:S1B-048#94:1:B> If the problem is security we might find a place for them
+<ICE-CAN:S1B-048#95:1:B> And help them to go through this nightmare
+
+<$A> <ICE-CAN:S1B-048#96:1:A> So those four officers <}> <-> are </-> <=> are </=> </}>
+
+contact people in both directions
+<ICE-CAN:S1B-048#97:1:A> I mean <}> <-> if </-> <=> if </=> </}> a problem arises from the
+
+side of the woman or the citizen they can get in touch with them
+
+<$B> <ICE-CAN:S1B-048#98:1:B> That's it
+<ICE-CAN:S1B-048#99:1:B> That's what was missing before
+
+<$A> <ICE-CAN:S1B-048#100:1:A> <}> <-> Well one of the other things that </-> <=> I mean cos
+
+one of the things </=> </}> Mister Menard spoke about yesterday was the
+
+delays that often happen
+<ICE-CAN:S1B-048#101:1:A> You know <}> <-> as </-> <=> even </=> </}> if it's known it
+
+doesn't necessarily get into the computer so that maybe somebody knows but
+
+everybody doesn't know
+<ICE-CAN:S1B-048#102:1:A> Is that part of your procedures as <{> <[> well </[>
+
+<$B> <ICE-CAN:S1B-048#103:1:B> <[> mhm </[> </{>
+
+<$A> <ICE-CAN:S1B-048#104:1:A> <}> <-> Is that in </-> <=> that's in </=> </}> all <}> <->
+
+those </-> <=> those </=> </}> little onboard computers I see your folks
+
+tapping into all the time
+
+<$B> <ICE-CAN:S1B-048#105:1:B> <O> laugh </O> <}> <-> Well their job uhh with this program
+
+</-> <=> <}> <-> the </-> <=> the </=> </}> police officers involved </=>
+
+</}> their job is to uh make sure the victim is well-secured
+<ICE-CAN:S1B-048#106:1:B> And the victim <,> knows what's happening
+<ICE-CAN:S1B-048#107:1:B> And uhh you know we're there to help
+<ICE-CAN:S1B-048#108:1:B> And that's the uh the main change
+<ICE-CAN:S1B-048#109:1:B> <}> <-> We are uh </-> <=> we are </=> </}> involved in the case
+
+and we know what uh people are going through
+<ICE-CAN:S1B-048#110:1:B> So we're trying to help them uh you know try to find solutions
+
+<$A> <ICE-CAN:S1B-048#111:1:A> Mister Menard also seemed to talk in terms of uh really <,,>
+
+targeting those responsible for the violence
+<ICE-CAN:S1B-048#112:1:A> I mean maybe they were convicted <}> <-> on a violent </-> <=> I
+
+mean on a charge linked directly to the violence </=> </}> but if you can get
+
+em on anything else whether it's firearms possession or weapons possession or
+
+just like anything <,> you slap with it
+<ICE-CAN:S1B-048#113:1:A> <}> <-> Is </-> <=> Is </=> </}> that your approach as well
+
+<$B> <ICE-CAN:S1B-048#114:1:B> Uhh I fully agree with that
+<ICE-CAN:S1B-048#115:1:B> I mean uhh violence uh should not be a part of what's happening in
+
+our society
+<ICE-CAN:S1B-048#116:1:B> I mean too often <,,> and it's too bad people solve their problems
+
+with violence
+<ICE-CAN:S1B-048#117:1:B> And it's not only adults <,> kids do it
+<ICE-CAN:S1B-048#118:1:B> So uh uh together we have to find solutions
+<ICE-CAN:S1B-048#119:1:B> And I think the uh proposition uh given yesterday is one uh step
+
+in a good direction
+
+<$A> <ICE-CAN:S1B-048#120:1:A> Just a little bit of a budget from that ministry for these
+
+things
+<ICE-CAN:S1B-048#121:1:A> Fifty thousand dollars I think it is for training
+<ICE-CAN:S1B-048#122:1:A> Feeling that there needs to be some kind of upgrading or <}> <->
+
+<.> sense </.> </-> <+> sensitivity </+> </}> training I guess you'd say <,>
+
+for officers in this whole field of conjugal violence
+<ICE-CAN:S1B-048#123:1:A> Where do you think you are with your force on that issue
+
+<$B> <ICE-CAN:S1B-048#124:1:B> Yeah well there will always be budget problems uhh but <}>
+
+<-> that's not uh </-> <=> it shouldn't stop us from you know taking care of
+
+victims </=> </}>
+<ICE-CAN:S1B-048#125:1:B> And uhh the main thing uh victims want is <}> <-> to know </-> <=>
+
+to get </=> </}> the information
+<ICE-CAN:S1B-048#126:1:B> What's happening <,> what will happen to me
+<ICE-CAN:S1B-048#127:1:B> And and I think we're answering these questions right now
+
+<$A> <ICE-CAN:S1B-048#128:1:A> <}> <-> <}> <-> The </-> <=> the </=> </}> </-> <=> and as I
+
+say </=> </}> there were a number of ministers involved in that press
+
+conference yesterday
+<ICE-CAN:S1B-048#129:1:A> <{> <[> <}> <-> Mister Rochand </-> <=> Doctor Rochand </=> </}>
+
+talking about ahh special budgets for support services uhh the Minister of
+
+Education talking about you know some getting at the uhh roots </[> of
+
+violence as well
+
+<$B> <ICE-CAN:S1B-048#130:1:B> <[> yeah <,,> uhuh <,,> mhm <,,> yeah <,,> violence </[> </{>
+
+<$A> <ICE-CAN:S1B-048#131:1:A> How optimistic are you about these kind of initiatives
+<ICE-CAN:S1B-048#132:1:A> <}> I mean it's <-> easy to be cynical </-> <=> easy to be <{1>
+
+<[1> pessimistic </[1> </=> </}> and I'm sure especially you see the kinds of
+
+things you see
+<ICE-CAN:S1B-048#133:1:A> <{2> <[2> everyday </[2> it's especially easy to be cynical and
+
+pessimistic
+
+<$B> <ICE-CAN:S1B-048#134:1:B> <[1> mhm </[1> </{1> <[2> mhm </[2> </{2>
+
+<$A> <ICE-CAN:S1B-048#135:1:A> But <}> <-> <}> <-> what's </-> <=> what's </=> </}> </-> <=>
+
+how </=> </}> reasonably <}> <-> how can </-> <=> how reasonably </=> </}>
+
+optimistic can we be <{> <[> about this </[>
+
+<$B> <ICE-CAN:S1B-048#136:1:B> <[> It works </[> </{> <}> <-> and </-> <=> and </=> </}> you
+
+know <,> it's not only a question of procedures it's a question of caring for
+
+victims
+<ICE-CAN:S1B-048#137:1:B> And it's <}> <-> a </-> <=> a </=> </}> change in attitudes
+<ICE-CAN:S1B-048#138:1:B> If we change the attitude
+<ICE-CAN:S1B-048#139:1:B> <}> <-> If </-> <=> if </=> </}> you're a police officer and
+
+you're dealing <,> only this case and you know it's for you only a case well
+
+<}> <-> we won't uhh </-> <=> we won't </=> </}> be able to solve the uhh <}>
+
+<-> the </-> <=> the </=> </}> whole problem
+<ICE-CAN:S1B-048#140:1:B> If <,,> as a police officer you think that there's a problem <}>
+
+<-> and the problem is </-> <=> the victim is facing this problem </=> </}>
+
+and you are there to care for the victim <,> you will find solutions </I>

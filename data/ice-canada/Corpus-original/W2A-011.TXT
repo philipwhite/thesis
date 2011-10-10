@@ -1,0 +1,438 @@
+<I>
+<ICE-CAN:W2A-011#1:1> <h> B. G. Galef, JR. </h>
+<ICE-CAN:W2A-011#2:1> <h> PART 1: A LITTLE HISTORY </h>
+
+<p> <ICE-CAN:W2A-011#3:1> We humans are profoundly social animals.
+<ICE-CAN:W2A-011#4:1> The biological success of our species - our numbers, our worldwide
+
+distribution - depends in no small measure on our ability to acquire
+
+behaviour socially: to use and, over generations, to improve upon one
+
+another's responses to environmental challenge.
+<ICE-CAN:W2A-011#5:1> Members of our species, however, are not unique in using the behaviour
+
+of others to guide their own responses to life's demands.
+<ICE-CAN:W2A-011#6:1> Like us, various insects, fishes, birds, and mammals can exploit the
+
+behaviour of conspecifics to bias their own behavioural development in
+
+adaptive directions. </p>
+
+<p> <ICE-CAN:W2A-011#7:1> We humans are, apparently, exceptional in our spontaneous use of
+
+arbitrary signs and symbols to communicate with our fellows.
+<ICE-CAN:W2A-011#8:1> We may well be unusual both in intentionally teaching others how to
+
+behave ( Barnett, 1968; Ewer, 1969; Galef & Dalrymple, 1978) and in the
+
+extent to which we acquire motor skills by observing and then imitating our
+
+more accomplished fellows ( Davis, 1973; Galef, 1988b; Roberts, 1941; Thorpe,
+
+1963).
+<ICE-CAN:W2A-011#9:1> However, it is only recently that evidence supporting even these
+
+relatively simple statements about differences in the processes supporting
+
+social learning by members of our own and other species has become available.
+<ICE-CAN:W2A-011#10:1> For many decades, the processes used by animals and by humans to
+
+learn socially were assumed to be identical. </p>
+<ICE-CAN:W2A-011#11:1> <h> <it> Did It All Begin With Gall? </it> </h>
+
+<p> <ICE-CAN:W2A-011#12:1> Late in the first half of the 19th century, Franz Gall, father of
+
+phrenology, quoted with approval the following passage from the works of the
+
+French philosopher and naturalist Charles-George Leroy to show that animals (
+
+in this case foxes), like humans, used arbitrary sounds, <quote> " verbal
+
+language" </quote> ( Gall, 1835, p. 26), to communicate ideas and emotions:
+
+</p> <X>
+<ICE-CAN:W2A-011#X13:1> <quote> It is certain from observation, that before having been able
+
+to instruct themselves by personal experience, the young foxes on leaving the
+
+burrow, for the first time, are more distrustful, and more cautious in the
+
+places where war is often made on them, than in places where the snares have
+
+never been spread.
+<ICE-CAN:W2A-011#X14:1> This observation, which is incontestable, proves absolutely the need
+
+they have of language; for, without it, how could they acquire the knowledge
+
+of proper precautions, which knowledge supposes a succession of facts known,
+
+of comparisons made, of judgments rendered?
+<ICE-CAN:W2A-011#X15:1> It appears then, that it is absurd to doubt, that brutes have among
+
+them a language, by means of which they transmit ideas, the communication of
+
+which is necessary to them. </quote> ( Leroy, 1802, in Gall, 1835, p. 29)
+
+</X>
+
+<p> <ICE-CAN:W2A-011#16:1> To the modern reader, Leroy's views on the mechanisms of animal
+
+social learning and Gall's uncritical promotion of them ( assuming, for the
+
+sake of argument, that naive young foxes do, in fact, behave as Leroy
+
+asserted they do) may suggest that both gentlemen were singularly thoughtless
+
+or gullible.
+<ICE-CAN:W2A-011#17:1> It is, however, probably more reasonable to assume that the failure
+
+of Gall and of Leroy to provide a convincing explanation of the avoidance by
+
+naive, young foxes of areas containing snares arose not from thoughtlessness
+
+or gullibility, but from a lack of alternative hypotheses to explain the
+
+behaviour of foxes. </p>
+
+<p> <ICE-CAN:W2A-011#18:1> For the contemporary reader, aware of the existence of
+
+pheromones, in general ( Wilson & Bossert, 1963), and of warning pheromones,
+
+in particular ( von Frisch, 1941), or knowledgeable about the ways in which
+
+European blackbirds ( Curio, Ernst, & Vieth, 1978) or rhesus monkeys ( Cook,
+
+Mineka, Wolkenstein, & Laitsch, 1985) come to avoid potential predators,
+
+observations of social influences on avoidance are not evidence of an ability
+
+of animals to communicate using language.
+<ICE-CAN:W2A-011#19:1> However, if, like Gall and Leroy working in the 19th century, we
+
+today knew of no means other than language for the transmission of
+
+information between individuals, then any evidence of animal communication
+
+would serve us, as it served Leroy and Gall, as evidence of human-like speech
+
+in nonhumans.
+<ICE-CAN:W2A-011#20:1> Gall and Leroy did not lack intellectual prowess, they lacked
+
+alternative hypotheses with which to explain the behaviours in which they
+
+were interested. </p>
+<ICE-CAN:W2A-011#21:1> <h> <it> Imitating Romanes </it> </h>
+
+<p> <ICE-CAN:W2A-011#22:1> Attribution of social influences on the development of behaviour
+
+in animals to their use of language disappeared from the scientific
+
+literature in mid-19th century.
+<ICE-CAN:W2A-011#23:1> Unfortunately, explanation of social learning by animals in terms of
+
+humanlike speech was replaced by an equally misleading, equally
+
+all-encompassing explanation of social influence on behaviour that proved
+
+considerably more difficult to reject than Leroy's idea that animals talk to
+
+one another about matters of importance. </p>
+
+<p> <ICE-CAN:W2A-011#24:1> Darwin, Wallace, Romanes, Morgan ( for much of his life), and
+
+other, lesser known naturalists of the latter half of the 19th century
+
+treated learning by imitation as the primary way in which animals acquire
+
+adaptive behaviour.
+<ICE-CAN:W2A-011#25:1> The ability of animals to learn by imitation was taken for granted.
+<ICE-CAN:W2A-011#26:1> The only question to be asked was whether the ability to imitate had
+
+been exercised in particular instances of behavioural development ( Morgan,
+
+1896, p. 184). </p>
+
+<p> <ICE-CAN:W2A-011#27:1> Darwin's disciple and immediate intellectual heir in behavioural
+
+matters, George Romanes, was particularly quick to infer that animals were
+
+capable of <quote> " intelligent perception of the desirability of
+
+modification [ in behaviour] on the part of certain individuals and to modify
+
+their actions accordingly" </quote> ( Romanes, 1884, p. 229).
+<ICE-CAN:W2A-011#28:1> According to Romanes ( p. 219), <quote> " with animals as with men,
+
+original ideas are not always forthcoming at the time they are wanted, and
+
+therefore it is often easier to imitate than to invent." </quote> </p>
+
+<p> <ICE-CAN:W2A-011#29:1> Indeed, whenever Romanes ( 1882, 1884) saw evidence of social
+
+influences on learning in animals - whether in groups of newly hatched chicks
+
+learning to drink water, weanling lambs avoiding ingestion of toxic plants,
+
+or the acquisition of responses by birds of one species to the warning cries
+
+of another - he attributed the adaptive modifications of behaviour he
+
+described to learning by imitation.
+<ICE-CAN:W2A-011#30:1> When a cat, resident in Romanes's household, learned to open the
+
+garden gate by jumping up and grabbing hold of the latchguard with one
+
+forepaw, depressing the thumb piece with the other, and simultaneously
+
+kicking at the gate post with her hind legs, Romanes ( 1882) assumed: first,
+
+that the cat had observed humans opening the gate by grasping the handle and
+
+moving the latch, second, that the cat had reasoned <X> <quote> " If a hand
+
+can do it, why not a paw?" </quote> </X> ( Romanes, 1882, p. 422), and,
+
+finally, that the cat, motivated by this insight, had attempted to open the
+
+garden gate and succeeded. </p>
+
+<p> <ICE-CAN:W2A-011#31:1> Introspection had convinced Romanes ( 1882) that much of human
+
+behaviour was learned by imitation.
+<ICE-CAN:W2A-011#32:1> Anthropomorphic inference led Romanes to generalize his
+
+introspections to explain acquisition of novel behaviours by animals, as he
+
+had explained acquisition of novel behaviours by members of his own species,
+
+in terms of learning by imitation ( see Galef, 1988c, for further
+
+discussion). </p>
+<ICE-CAN:W2A-011#33:1> <h> <it> Constraints on the Study of Animal Learning </it> </h>
+
+<p> <ICE-CAN:W2A-011#34:1> In the century since Romanes ( 1882, 1884) published his classic
+
+volumes on comparative psychology, the anthropomorphism so common in
+
+19th-century monographs on animal behaviour has been purged from the
+
+literature.
+<ICE-CAN:W2A-011#35:1> Discussions of animal intentions and intelligent perceptions have
+
+been replaced by analyses in terms of stimuli, responses, and reinforcers.
+<ICE-CAN:W2A-011#36:1> This reductionist approach to the analysis of behaviour, advocated by
+
+Morgan, Thorndike, and Watson, profoundly influenced not only interpretations
+
+of the results of animal learning studies but also their methods and subject
+
+matter.
+<ICE-CAN:W2A-011#37:1> Anecdotal reports of cats and dogs learning complex motor skills by
+
+imitating their masters have been superceded by controlled experiments
+
+analyzing the factors influencing association formation in laboratory
+
+situations.
+<ICE-CAN:W2A-011#38:1> The resultant changes in the focus of studies of animal learning
+
+generally, and of animal social learning particularly, have proven a major
+
+advance.
+<ICE-CAN:W2A-011#39:1> However, as is often the case, progress was not entirely without
+
+cost. </p>
+
+<p> <ICE-CAN:W2A-011#40:1> The introduction, early in the present century, of experimental
+
+procedures for investigating association formation resulted in a precipitous
+
+shift in the subject matter of animal development studies.
+<ICE-CAN:W2A-011#41:1> Interest in the development of behaviours exhibited by animals
+
+outside the laboratory ( the centre of attention since the time of Aristotle)
+
+waned.
+<ICE-CAN:W2A-011#42:1> Conversely, study of laboratory situations in which abstract
+
+processes of association formation could best be observed and dissected
+
+increased dramatically.
+<ICE-CAN:W2A-011#43:1> This shift in locus of attention had a profound impact on the study
+
+of social learning by animals.
+<ICE-CAN:W2A-011#44:1> Following Thorndike's ( 1898) explicit rejection, on theoretical
+
+grounds, of the possibility of learning by imitation in animals and failure
+
+both by Thorndike ( 1898) and by numerous other laboratory workers ( see
+
+Holmes, 1911; Warden & Jackson, 1935; and Washburn, 1908 for reviews) to find
+
+convincing evidence of animal imitation, discussions of learning by imitation
+
+gradually disappeared from the behavioural literature.
+<ICE-CAN:W2A-011#45:1> Such discussions were replaced by attempts to analyze instances of
+
+social learning, demonstrated in laboratory situations, as special cases of
+
+either classical or discriminant operant conditioning ( for examples see
+
+Church, 1968; Miller & Dollard, 1941).
+<ICE-CAN:W2A-011#46:1> Study of particular instances of apparent social learning observed
+
+outside the laboratory seemed unnecessary; in time, all instances of
+
+behaviour acquisition, whether individually or socially based, would be
+
+explicable in terms of general laws describing all association formation.
+
+</p>
+
+<p> <ICE-CAN:W2A-011#47:1> Meanwhile, in the world outside the learning laboratory,
+
+ducklings continued to follow their mothers, song birds went on singing their
+
+species-typical songs, and weaning animals continued to choose the same foods
+
+to eat as their more experienced fellows.
+<ICE-CAN:W2A-011#48:1> The psychological community simply didn't pay attention to such
+
+occurrences.
+<ICE-CAN:W2A-011#49:1> Those learning phenomena that could be explained easily within the
+
+framework provided by laboratory learning paradigms received careful study by
+
+numerous investigators.
+<ICE-CAN:W2A-011#50:1> Those instances of animal learning that were more difficult to
+
+assimilate into either of the prevailing laboratory paradigms were largely
+
+ignored.
+<ICE-CAN:W2A-011#51:1> Experimental, animal psychologists lost interest in carrying out
+
+analyses of instances of animal learning observed outside the laboratory, at
+
+least in part because successful study of learning in unconstrained
+
+situations required an approach quite different both from the informal
+
+anthropomorphizing of 19th-century naturalists and from the paradigm-bound
+
+examination of associative processes that dominated the study of animal
+
+learning. </p>
+<ICE-CAN:W2A-011#52:1> <h> <it> An Alternative Zeitgeist </it> </h>
+
+<p> <ICE-CAN:W2A-011#53:1> The development by European ethologists of a complementary
+
+framework to that provided by experimental psychology for the study of animal
+
+behaviour, in general, and animal learning, in particular, provided the
+
+background for a resurgence of interest in the study of behaviours that
+
+occurred outside the laboratory.
+<ICE-CAN:W2A-011#54:1> Ethologists studied behaviours exhibited by members of particular
+
+species in interaction with their respective natural environments.
+<ICE-CAN:W2A-011#55:1> Observations of such naturally occurring behaviours served
+
+ethologists as a focus for subsequent developmental, causal, and functional
+
+analyses.
+<ICE-CAN:W2A-011#56:1> Consequently, analyses of the behavioural processes supporting
+
+particular instances of social learning observed in natural circumstances fit
+
+easily into ethologically oriented research programmes. </p>
+
+<p> <ICE-CAN:W2A-011#57:1> Further, ethologists were more eclectic than experimental
+
+psychologists in discussing processes supporting the acquisition of
+
+behaviour; ethologists had no particular commitment to operant or classical
+
+paradigms as explanatory systems; and they felt no compulsion to study animal
+
+learning in situations where it might occur <quote> " free from the helping
+
+hand of instinct" </quote> ( Thorndike, 1911, p. 30).
+<ICE-CAN:W2A-011#58:1> On the contrary, ethologists treated learning as an adjunct to
+
+instinctive behavioural sequences ( Tinbergen, 1951). </p>
+
+<p> <ICE-CAN:W2A-011#59:1> Although ethologists both promoted analyses of the development of
+
+behaviours observed in uncontrolled environments and maintained an eclectic
+
+approach to the study of behaviour acquisition, they lacked a tradition of
+
+sophistication and rigour in the analysis of behavioural development, in
+
+general, and of animal learning, in particular.
+<ICE-CAN:W2A-011#60:1> Of course, experimental psychologists had spent decades developing
+
+techniques that ethology lacked for the study of acquisition processes in
+
+animals.
+<ICE-CAN:W2A-011#61:1> Hence, by the mid-1960s, the elements of a hybrid <it>
+
+ethopsychological </it> framework were available that permitted focus on the
+
+question of how naturally occurring behaviours might develop and that
+
+provided methods needed to arrive at satisfying answers.
+<ICE-CAN:W2A-011#62:1> In particular, the question of how animals might use information
+
+acquired from others to guide their own behaviour in adaptive directions, a
+
+question that, at least implicitly, had been perplexing scientists for the
+
+better part of 2 centuries, was finally open to systematic investigation.
+<ICE-CAN:W2A-011#63:1> The issue was no longer whether animals could imitate, but, rather,
+
+how one individual might use the behaviour of others to bias its own
+
+development in appropriate directions ( Galef, 1989d). </p>
+<ICE-CAN:W2A-011#64:1> <h> PART 2: A PROGRAMME OF RESEARCH </h>
+
+<p> <ICE-CAN:W2A-011#65:1> For the past 20 years, my co-workers and I have been studying the
+
+role of social interaction in the development of adaptive patterns of food
+
+selection by Norway rats ( <foreign> <it> Rattus norvegicus </it> </foreign> ) .
+<ICE-CAN:W2A-011#66:1> The immediate goal of this research programme has been to determine
+
+the behavioral processes that cause one rat to direct its feeding behaviour
+
+towards the same foods that others of its social group are eating and ignore
+
+potential foods that others of its social group are not eating.
+<ICE-CAN:W2A-011#67:1> Equally important, we hoped to develop a general approach to studies
+
+of social learning that would be of use to future investigators of analogous
+
+behavioral phenomena. </p>
+
+<p> <ICE-CAN:W2A-011#68:1> My co-workers and I began, as any ethologist would, with field
+
+observations of a possible case of social learning.
+<ICE-CAN:W2A-011#69:1> We brought the behavioral phenomenon observed in the field into the
+
+laboratory and, as any psychologist would, then tried to determine under
+
+controlled conditions how one animal influenced another's behaviour. </p>
+<ICE-CAN:W2A-011#70:1> <h> <it> Problems Poisoning Norway Rats </it> </h>
+
+<p> <ICE-CAN:W2A-011#71:1> More than 40 years ago, an applied ecologist who was an expert in
+
+the control of Norway rats discovered that when he used a single poison bait
+
+in a rat-infested area for several months, despite initial success, later
+
+acceptance of the bait was negligible.
+<ICE-CAN:W2A-011#72:1> As might be expected, many members of the target population died as
+
+the result of eating the poisoned bait. </p> </I>

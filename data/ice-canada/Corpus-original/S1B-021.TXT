@@ -1,0 +1,528 @@
+<I>
+
+<$B> <ICE-CAN:S1B-021#1:1:B> Good morning
+<ICE-CAN:S1B-021#2:1:B> Beautiful morning out there isn't it <{> <[> right now </[>
+
+<$A> <ICE-CAN:S1B-021#3:1:A> <[> isn't it glorious </[> </{>
+
+<$A> <ICE-CAN:S1B-021#4:1:A> It's that red red sky
+
+<$B> <ICE-CAN:S1B-021#5:1:B> yes
+
+<$B> <ICE-CAN:S1B-021#6:1:B> Yeah uh we got a beautiful cityscape on our ah traffic monitor
+
+right <{1> <[1> now </[1> which isn't <}> <-> s </-> <=> showing </=> </}>
+
+traffic
+<ICE-CAN:S1B-021#7:1:B> But that's no problem because there's no traffic to show really
+<ICE-CAN:S1B-021#8:1:B> <{2> <[2> to speak of </[2> <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-021#9:1:A> <[1> Mhm </[1> </{1>
+
+<$A> <ICE-CAN:S1B-021#10:1:A> <[2> Fine then we'll take the pleasant city view yeah </[2>
+
+</{2> <,> </I>
+
+<$B> <ICE-CAN:S1B-021#11:1:B> All the routes into town working very well right now
+<ICE-CAN:S1B-021#12:1:B> From the West Island Southshore and Laval
+<ICE-CAN:S1B-021#13:1:B> Ah no delays accidents stalled cars to report on the Metropolitan
+
+or C&ocircumflex;te de Liesse or D&eacute;carie expressway
+<ICE-CAN:S1B-021#14:1:B> just ah one thing off Island down the uh Jean-Lesage autoroute
+
+again
+<ICE-CAN:S1B-021#15:1:B> Unfortunately uh this not quite so serious an accident as we <}>
+
+<-> <.> re </.> </-> <=> reported </=> </}> yesterday <,> and it's also a bit
+
+closer to Montreal at <indig> Sainte-Rosalie </indig> which is about one
+
+hundred and forty kilometres east of Montreal uh
+<ICE-CAN:S1B-021#16:1:B> A two car accident there and apparently <,> one injury <,> but
+
+again not as serious as the other one that we reported yesterday <{1> <[1>
+
+also <}> <-> it is uh </-> <=> these things </=> </}> seem to come <}> <-> in
+
+</-> <=> in </=> </}> </[1>
+<ICE-CAN:S1B-021#17:1:B> <{2> <[2> batches like this </[2>
+
+<$A> <ICE-CAN:S1B-021#18:1:A> <[1> it's odd though two days in a row I mean you rarely uh
+
+</[1> </{1>
+
+<$A> <ICE-CAN:S1B-021#19:1:A> <[2> waves yeah </[2> </{2>
+
+<$B> <ICE-CAN:S1B-021#20:1:B> Uh when we had problems <}> <-> oh </-> <=> on </=> </}> the
+
+island of Montreal uh uh on the
+<ICE-CAN:S1B-021#21:1:B> <{1> <[1> twenty again at Woodland </[1> </{1> <}> <-> they </->
+
+<=> they </=> </}> came in a batch and so uh it's just the way things work it
+
+seems
+<ICE-CAN:S1B-021#22:1:B> <{2> <[2> so </[2> well let's hope <}> <-> that the uh </-> <=> if
+
+there is a problem there will be <}> <-> <.> co </.> </-> <=> corrected </=>
+
+<}> </=> </}>
+
+<$A> <ICE-CAN:S1B-021#23:1:A> <[1> same <unclear> word </unclear> mmm yeah </[1>
+
+<$A> <ICE-CAN:S1B-021#24:1:A> <[2> we'll hope this is the last of <?> many </?> </[2> </{2>
+
+<$B> <ICE-CAN:S1B-021#25:1:B> There is a lot of construction going on on the uh Jean-Lesage
+
+autoroute
+<ICE-CAN:S1B-021#26:1:B> <{1> <[1> these days </[1>
+
+<$A> <ICE-CAN:S1B-021#27:1:A> <[1> mhm </[1> </{1>
+
+<$B> <ICE-CAN:S1B-021#28:1:B> In fact in Sainte-Rosalie we had one lane closed yesterday I
+
+don't know if it was closed overnight or not
+<ICE-CAN:S1B-021#29:1:B> I'll check into that
+<ICE-CAN:S1B-021#30:1:B> <{1> <[1> <,> so </[1> people might <}> <-> wanna </-> <+> want to
+
+</+> </}> watch it if they're heading out today
+
+<$A> <ICE-CAN:S1B-021#31:1:A> <[1> yeah that might cause confusion </[1> </{1> </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1B-021#32:2:A> Now is that your theme music <@> Jeanne </@>
+<ICE-CAN:S1B-021#33:2:A> <{1> <[1> The leafing through the paper music </[1>
+<ICE-CAN:S1B-021#34:2:A> <{2> <[2> Mhm </[2>
+
+<$B> <ICE-CAN:S1B-021#35:2:B> <[1> I don't know it's very uhm courtly I guess </[1> </{1>
+
+<$B> <ICE-CAN:S1B-021#36:2:B> <[2> <}> <-> I </-> <=> it </=> </}> would be </[2> </{2> <{3>
+
+<[3> suitable </[3>
+
+<$B> <ICE-CAN:S1B-021#37:2:B> I <{4> <[4> guess </[4>
+<ICE-CAN:S1B-021#38:2:B> Except that this morning I wanted to open with a sports story <,>
+<ICE-CAN:S1B-021#39:2:B> <{5> <[5> uhm </[5>
+<ICE-CAN:S1B-021#40:2:B> <}> <-> So I guess it's not directly <,> </-> <=> I guess you
+
+couldn't say that </=> </}> <{6> <[6> <unclear> word </unclear> </[6> <?> not
+
+really the adequate scene </?> for that
+
+<$B> <ICE-CAN:S1B-021#41:2:B> but anyway it's uhm again the story of Bruny Surin and Donovan
+
+Bailey and it's the lead story in <indig> La Presse </indig> <&> local
+
+newspaper </&> with a big photograph of the two guys smiling
+<ICE-CAN:S1B-021#42:2:B> <{7> <[7> <}> <-> from <.> mi </.> </-> </[7> <=> you know from
+
+</=> </}> <,> ear to ear and <}> <-> the </-> <=> the </=> </}> lead is uh is
+
+<quote> <indig> ils s'entendent <}> <-> comme la </-> <=> comme des larrons
+
+en foire </=> </}> </indig> </quote>
+<ICE-CAN:S1B-021#43:2:B> Now the word <indig> larrons </indig> I had to go and consult with
+
+our French colleagues
+<ICE-CAN:S1B-021#44:2:B> <{8> <[8> It's </[8> a kind of an uh a mediaeval term meaning uh
+
+something like the court jester
+<ICE-CAN:S1B-021#45:2:B> <{9> <[9> So </[9> these two guys clearly are having a great time
+<ICE-CAN:S1B-021#46:2:B> That's what the <indig> La Presse </indig> is suggesting
+<ICE-CAN:S1B-021#47:2:B> It says that they're friendly rivals who are proud to be the first
+
+<,> double Canadian winners in Track <,>
+<ICE-CAN:S1B-021#48:2:B> <{10> <[10> and </[10> that they had two golds in the Swedish
+
+competition to prove that they're the best in the world and to put the ghost
+
+of Ben Johnson to rest <{11> <[11> <,> </[11>
+<ICE-CAN:S1B-021#49:2:B> That's a ghost that's been hanging around since nineteen
+
+eighty-eight
+<ICE-CAN:S1B-021#50:2:B> And ah they're very much enjoying being treated like international
+
+stars in Sweden
+
+<$A> <ICE-CAN:S1B-021#51:2:A> <[3> Mmm mmm </[3> </{3>
+
+<$A> <ICE-CAN:S1B-021#52:2:A> <[4> It's lively it's lively </[4> </{4>
+
+<$A> <ICE-CAN:S1B-021#53:2:A> <[5> Mhm </[5> </{5>
+
+<$A> <ICE-CAN:S1B-021#54:2:A> <[6> Not a natural link no </[6> </{6>
+
+<$A> <ICE-CAN:S1B-021#55:2:A> <[7> <.> <?> Beau- </?> </.> </[7> </{7>
+
+<$A> <ICE-CAN:S1B-021#56:2:A> <[8> Mmm </[8> </{8>
+
+<$A> <ICE-CAN:S1B-021#57:2:A> <[9> Oh </[9> </{9>
+
+<$A> <ICE-CAN:S1B-021#58:2:A> <[10> Mhm </[10> </{10>
+
+<$A> <ICE-CAN:S1B-021#59:2:A> <[11> Mhm </[11> </{11>
+
+<$A> <ICE-CAN:S1B-021#60:2:A> Ah well they really do look like they're glowing
+<ICE-CAN:S1B-021#61:2:A> It's funny yesterday there was some comment from another athlete
+
+who said <quote> you know I'm sure Bruny isn't too disappointed </quote> and
+
+I thought <?> yeah <?> I didn't see <{1> <[1> disappointment exactly </[1>
+
+<O> laugh </O>
+<ICE-CAN:S1B-021#62:2:A> <{2> <[2> <unclear> word </unclear> pretty <?> enjoyable </?> all
+
+round </[2>
+
+<$B> <ICE-CAN:S1B-021#63:2:B> <[1> No <unclear> word </unclear> looked pretty happy </[1>
+
+</{1>
+
+<$B> <ICE-CAN:S1B-021#64:2:B> <[2> Yeah I think he's really enjoying being <}> <-> the </->
+
+<=> the </=> </}> centre of attention over there </[2> </{2>
+
+<$B> <ICE-CAN:S1B-021#65:2:B> Uhm in the Gazette and the Globe as well as on the front page
+
+of <indig> Le Devoir </indig> <&> local newspapers </&> the uh the story of
+
+the Serb <,> <{1> <[1> refugees </[1> in the Krajina ah
+<ICE-CAN:S1B-021#66:2:B> And the
+<ICE-CAN:S1B-021#67:2:B> <{2> <[2> number being quoted </[2> is a hundred and <{3> <[3>
+
+twenty thousand </[3> <,> in the Gazette
+
+<$A> <ICE-CAN:S1B-021#68:2:A> <[1> Hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1B-021#69:2:A> <[2> Next wave </[2> </{2>
+
+<$A> <ICE-CAN:S1B-021#70:2:A> <[3> Gee hmm </[3> </{3>
+
+<$B> <ICE-CAN:S1B-021#71:2:B> Ah Croatia says its three day military operation to take over
+
+the Krajina <,> is over <,> and they will now clear out ah the five thousand
+
+Serb rebels left
+<ICE-CAN:S1B-021#72:2:B> Ah <}> <-> this the ah </-> <=> this is an </=> </}> attack that
+
+shocked the world
+<ICE-CAN:S1B-021#73:2:B> The Croatian army ah you know unexpectedly well-prepared and ah <,>
+
+aggressive here
+<ICE-CAN:S1B-021#74:2:B> And ah there are reports of attacks on Serb refugees by Croat
+
+troops <,> according to the International Committee of the Red Cross
+<ICE-CAN:S1B-021#75:2:B> And looting of towns
+<ICE-CAN:S1B-021#76:2:B> So <}> <-> it </-> <=> it's </=> </}> really a conflict in which
+
+there don't seem to be any good guys
+<ICE-CAN:S1B-021#77:2:B> Ah it's very hard to ah to understand
+
+<$A> <ICE-CAN:S1B-021#78:2:A> That's just it even ah as you look at the different sides
+<ICE-CAN:S1B-021#79:2:A> And I think that's what's so discouraging about it is <{> <[> uh
+
+<,> </[> no lines drawn
+
+<$B> <[> <}> <-> No there's no </-> <=> no one has the moral high road on
+
+this one </=> </}> </[> </{>
+
+<$A> <ICE-CAN:S1B-021#80:2:A> No no
+
+<$B> <ICE-CAN:S1B-021#81:2:B> Ah in <indig> Le Devoir </indig> the lead story
+<ICE-CAN:S1B-021#82:2:B> Quebec's youngest politician Mario Dumont twenty-five years old on
+
+the pre-referendum campaign trail and he's sort of on the damage control
+
+trail I guess you could say <}> <-> The lead </-> <=> the title </=> </}> is
+
+<quote> Dumont will respect the <}> <-> <.> tra- </.> </-> <=> tripartite
+
+</=> </}> agreement </quote>
+<ICE-CAN:S1B-021#83:2:B> this is an agreement that was arrived at in June between the Bloc
+
+Qu&eacute;b&eacute;cois, the P Q and Dumont's Action d&eacute;mocratique <&>
+
+political parties in Quebec </&>
+<ICE-CAN:S1B-021#84:2:B> And last week he got himself into a bit of hot water when he told
+
+<indig> Le Devoir </indig> he was uneasy about the proposed bill <{> <[> that
+
+the P Q has put forward </[> that would declare Quebec sovereign
+<ICE-CAN:S1B-021#85:2:B> He wants a vote on sovereignty specifically and wants a negotiating
+
+committee that would include federalists on it and this was very upsetting to
+
+uh Montreal P Q activists some of whom threatened to resign
+<ICE-CAN:S1B-021#86:2:B> Uhm so uh he's <}> <-> hel </-> <=> called </=> </}> a <?> newser
+
+</?> to clarify this and he said that he'd like Parizeau to modify the
+
+proposed bill <,> to include the terms of the June agreement and he wants a
+
+sovereignty partnership with Canada &aacute; la Bourassa
+<ICE-CAN:S1B-021#87:2:B> <?> Just </?> so funny about Dumont <.> i </.> the photo of him on
+
+the back page of the front section of the <indig> Devoir </indig>
+<ICE-CAN:S1B-021#88:2:B> He looks like Bourassa <,>
+<ICE-CAN:S1B-021#89:2:B> <{1> <[1> <}> <-> He even <.> st </.> </-> </[1> <=> he's even
+
+standing </=> </}> there with <}> <-> his </-> <=> the </=> </}> tips
+<ICE-CAN:S1B-021#90:2:B> <{2> <[2> of his fingers together </[2>
+<ICE-CAN:S1B-021#91:2:B> <,> it's quite hilarious <}> <-> I </-> <=> I </=> </}> must say
+
+<,>
+<ICE-CAN:S1B-021#92:2:B> <{3> <[3> anyway </[3> so uh
+<ICE-CAN:S1B-021#93:2:B> <}> <-> He </-> <=> well </=> </}> definitely <,> a follower
+
+<$A> <ICE-CAN:S1B-021#94:2:A> <[> Hmm mm </[> </{>
+
+<$A> <ICE-CAN:S1B-021#95:2:A> <[1> Oh </[1> </{1>
+
+<$A> <ICE-CAN:S1B-021#96:2:A> <[2> He <unclear> words </unclear> mannerisms that's right
+
+</[2> </{2>
+
+<$A> <ICE-CAN:S1B-021#97:2:A> <[3> Yeah <,> he seems a student of his </[3> </{3>
+
+<$A> <ICE-CAN:S1B-021#98:2:A> But yeah ah week by week uhm <}> <-> i- </-> <=> it's </=>
+
+</}> back and forth with him certainly isn't it
+<ICE-CAN:S1B-021#99:2:A> Uh the signing there <}> <-> <.> wa- </.> </-> <=> wasn't </=> </}>
+
+uh a word mentioned of <}> <-> any </-> <=> any </=> </}> kind of uhm
+
+problems with whatever he was signing on for and then suddenly <{> <[> a
+
+little distance from it </[> and now <quote> no no it'll be fine <,> it's
+
+just a few changes </quote>
+
+<$B> <ICE-CAN:S1B-021#100:2:B> <[> He's having reservations <,> yes yeah </[> </{>
+
+<$B> <ICE-CAN:S1B-021#101:2:B> And the reaction of the media to this whole thing is
+
+interesting
+<ICE-CAN:S1B-021#102:2:B> It's the top of the <?> full story </?> in <indig> Le Devoir
+
+</indig>
+<ICE-CAN:S1B-021#103:2:B> It's not mentioned in <indig> La Presse </indig> and it's buried
+
+in The Gazette <{> <[> <O> laugh </O> so </[>
+
+<$A> <ICE-CAN:S1B-021#104:2:A> <[> Oh yeah way deep in a tiny little mention </[> </{>
+
+<$B> <ICE-CAN:S1B-021#105:2:B> People fighting <}> <-> the uh </-> <=> the uh </=> </}>
+
+referendum agenda <{> <[> oh </[>
+
+<$A> <ICE-CAN:S1B-021#106:2:A> <[> Well I think there'll be a lot more stories <,> of that
+
+nature to come </[> </{>
+
+<$B> <ICE-CAN:S1B-021#107:2:B> I think so <,> yeah
+
+<$B> <ICE-CAN:S1B-021#108:2:B> <indig> La Presse </indig> uh has <}> <-> a- </-> <=> on </=>
+
+</}> the front page also <}> <-> the </-> <=> a </=> </}> weird story with a
+
+big photograph that also got <}> <-> a </-> <=> a </=> </}> big play in
+
+<indig> Le Journal </indig> but <}> <-> not in uh </-> <=> not in the </=>
+
+</}> English media
+<ICE-CAN:S1B-021#109:2:B> Uh these two sort of dingy looking characters being arrested by
+
+the tactical squad in Scott junction <,> just south of Quebec City near
+
+<indig> Sainte-Marie-de-Beauce </indig>
+<ICE-CAN:S1B-021#110:2:B> Now this is the community where <}> <-> the undertaker </-> <=>
+
+the local undertaker </=> </}> killed his daughter and the police chief and
+
+then himself just a little while ago
+<ICE-CAN:S1B-021#111:2:B> Unfortunate community
+
+<$A> <ICE-CAN:S1B-021#112:2:A> Entirely too many ah strange and uh dismaying <O> laugh </O>
+
+stories <{> <[> coming out </[> of that region <,> there's somthing about it
+
+<$B> <ICE-CAN:S1B-021#113:2:B> <[> Mmm </[> </{>
+
+<$B> <ICE-CAN:S1B-021#114:2:B> And <}> <-> this is a </-> <=> this is a </=> </}> sect
+
+apparently
+<ICE-CAN:S1B-021#115:2:B> These two guys are <}> <-> gonna </-> <+> going to </+> </}> be
+
+accused of kidnapping and confinement
+<ICE-CAN:S1B-021#116:2:B> Uh the police uhm found a seventeen year-old girl and her sister
+
+<,> who'd been reported disappeared inside a compound called the <indig>
+
+domaine </indig> Moreau which is like <}> <-> a <.> sa </.> </-> <=> uh <}>
+
+<-> <.> th </.> </-> <=> the </=> </}> </=> </}> <indig> Presse </indig>
+
+describes as a stone bunker-like structure <,> surrounded by barbed wire
+<ICE-CAN:S1B-021#117:2:B> Very odd <{> <[> <,> </[> story which I'm sure we'll be hearing
+
+some more about
+
+<$A> <ICE-CAN:S1B-021#118:2:A> <[> Mmm </[> </{>
+
+<$A> <ICE-CAN:S1B-021#119:2:A> Hmm mmm
+
+<$B> <ICE-CAN:S1B-021#120:2:B> In <indig> La Presse </indig> an exclusive story concerning
+
+Haiti <,> a country we haven't heard too much about in the news in the last
+
+week or two
+<ICE-CAN:S1B-021#121:2:B> Bishop Willy Rom&eacute;luse of J&eacute;r&eacute;mie which is on
+
+the far western part of the island uhm
+<ICE-CAN:S1B-021#122:2:B> And also <}> <-> this </-> <=> uh this </=> </}> was a person who
+
+was uhn nominated for the nineteen ninety-five Nobel Prize
+<ICE-CAN:S1B-021#123:2:B> He's the only church leader in Haiti <}> <-> to oppose publicly
+
+</-> <=> to have opposed publicly </=> </}> Raoul C&eacute;dras's military uh
+
+junta
+<ICE-CAN:S1B-021#124:2:B> He's in Montreal for a couple of days
+<ICE-CAN:S1B-021#125:2:B> <}> <-> He's be </-> <=> he'll be </=> </}> staying at the
+
+well-known uh French-speaking Quebecoise <}> <-> actor's </-> <=> actress'
+
+</=> </}> Ang&egrave;le Coutu's place
+<ICE-CAN:S1B-021#126:2:B> And uhm speaking and doing work on behalf of his uh his parish in
+
+Haiti
+<ICE-CAN:S1B-021#127:2:B> He also opposed the Vatican which recognized the government of
+
+C&eacute;dras
+<ICE-CAN:S1B-021#128:2:B> A very courageous man
+<ICE-CAN:S1B-021#129:2:B> And he's not officially being received by the Quebec church but
+
+only uh by the Haitian community
+<ICE-CAN:S1B-021#130:2:B> And of course there are forty thousand Haitian Quebecers here in
+
+Montreal
+<ICE-CAN:S1B-021#131:2:B> So interesting story that no one else picked up on
+<ICE-CAN:S1B-021#132:2:B> In <indig> Le Devoir </indig> a review of the uh <indig>
+
+Francofolie </indig> Festival again
+<ICE-CAN:S1B-021#133:2:B> And <@> Fran&ccedille;ois Panier </@> the reviewer calls it an
+
+<quote> unorthodox </quote> <indig> Francofolie </indig> Festival
+<ICE-CAN:S1B-021#134:2:B> He says the <indig> Conseille de la langue fran&ccedille;aise
+
+</indig> <&> French language promotion council </&> is nowhere to be seen <,>
+
+and uh this is a good thing
+<ICE-CAN:S1B-021#135:2:B> And he talks about <unclear> word </unclear> a sixty-three
+
+year-old French from France folky <}> <-> who ah had a </-> <=> who performed
+
+</=> </}> last night and said from the stage <quote> <indig> C'est en anglais
+
+j'ai le droit </indig> </quote>
+<ICE-CAN:S1B-021#136:2:B> He asked permission to sing in English
+<ICE-CAN:S1B-021#137:2:B> Sorry he said it <}> <-> <.> so- </.> </-> <=> somewhat </=> </}>
+
+sarcastically
+<ICE-CAN:S1B-021#138:2:B> And he went ahead and sang <quote> Blowing in the Wind </quote> in
+
+English
+<ICE-CAN:S1B-021#139:2:B> And uhm <}> <-> <indig> Le Devoir </indig> </-> <=> this reveiwer
+
+</=> </}> is happy to say that the festival is multilingual
+<ICE-CAN:S1B-021#140:2:B> There's uh Kashtin singing in Montagnais <,> there's Afiletta
+
+singing in Corsican <,> and he's happy to see this mixture of language and
+
+cultures
+
+<$A> <ICE-CAN:S1B-021#141:2:A> Something of an evolution for the Francofolie then
+
+<$B> <ICE-CAN:S1B-021#142:2:B> New and different and very happy about that
+<ICE-CAN:S1B-021#143:2:B> And apparently <?> Aufrey </?> is known for his translation of
+
+<quote> Goodnight Irene </quote> which is translated to be <quote> <indig>
+
+Rosinne Bonsoir </indig> </quote> which <}> <-> I </-> <=> I </=> </}> don't
+
+think I've ever heard
+
+<$A> <ICE-CAN:S1B-021#144:2:A> No that's <{> <[> odd </[>
+
+<$B> <ICE-CAN:S1B-021#145:2:B> <[> <O> laugh </O> </[> </{> so uhm <,> and finally in
+
+<indig> La Presse </indig> also another musical story <,> about the Casavant
+
+uh Pipe Organ uh Company in <indig> Sainte </indig> uh <?> ya </?> <indig>
+
+Sainte </indig> uhm
+<ICE-CAN:S1B-021#146:2:B> Just a sort of a feature profile of this company <,> and the title
+
+is <quote> Casavant Paying a Prosperous Air </quote>
+
+<$A> <ICE-CAN:S1B-021#147:2:A> <O> laugh </O>
+
+<$B> <ICE-CAN:S1B-021#148:2:B> <}> <-> This is the organ that uh </-> <=> this is the organ
+
+company that </=> </}> built the organ in the Saint-Jean-Baptiste church in
+
+the Plateau <{> <[> district on Rachel </[>
+
+<$A> <ICE-CAN:S1B-021#149:2:A> <[> <unclear> word </unclear> Yeah </[> </{>
+<ICE-CAN:S1B-021#150:2:A> They're renowned around the world <}> <-> for uh </-> <=> for
+
+their uh </=> </}> incredibly uh uhm successful uh attempts to modify and
+
+update the <}> <-> pike </-> <=> pipe </=> </}> organ but using the original
+
+uh <}> <-> p- </-> <=> plan </=> </}> and original materials
+<ICE-CAN:S1B-021#151:2:A> They have seventy-five employees and they export eighty to ninety
+
+percent of their instruments all around the world
+<ICE-CAN:S1B-021#152:2:A> All over Europe and <}> <-> ak- </-> <=> apparently </=> </}>
+
+their big uh success right now is exports to Japan where there's great
+
+interest in pipe organ music
+
+<$A> <ICE-CAN:S1B-021#153:2:A> Ah extraordinary
+<ICE-CAN:S1B-021#154:2:A> Well thank you very much and uh someone will be back with us <{>
+
+<[> <unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1B-021#155:2:B>
+<ICE-CAN:S1B-021#156:2:B> <[> And good night <@> Alana </@> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1B-021#157:2:A> Good night <@> Jeanne </@> <O> laugh </O>
+<ICE-CAN:S1B-021#158:2:A> We'll just uhm go back for a second to the Francofolie which is
+
+uhm running all this week certainly in Montreal
+<ICE-CAN:S1B-021#159:2:A> Uhm we've got a little of the sounds of the Francofolie uh
+<ICE-CAN:S1B-021#160:2:A> A song from uh Danny Boudreau who will be playing tomorrow at Les
+
+midis in Complexe Desjardins
+<ICE-CAN:S1B-021#161:2:A> Ah this is a song called <quote> <indig> Un peu de pluie </indig>
+
+</quote> <O> song </O>
+
+<$A> <ICE-CAN:S1B-021#162:2:A> Ah such expressions of tenderness and devotion <,> from Danny
+
+Boudreau
+<ICE-CAN:S1B-021#163:2:A> Ah a performer from ah New Brunswick who'll be playing at the
+
+Francofolie
+<ICE-CAN:S1B-021#164:2:A> He's uh taking the stage tomorrow at noon at <indig> <}> <->
+
+Complexe Desjardins </-> <=> les midis complexe Desjardins </=> </}> </indig>
+<ICE-CAN:S1B-021#165:2:A> Uhm lovely song from him certainly we're all swaying and flicking
+
+our Bics <&> lighters </&> here in the studio <O> laugh </O>
+<ICE-CAN:S1B-021#166:2:A> Aren't we <{> <[> Campbell Jeffrey </@> ? <O> laugh </O> </[>
+<ICE-CAN:S1B-021#167:2:A> Ooh <O> laugh </O> </I>

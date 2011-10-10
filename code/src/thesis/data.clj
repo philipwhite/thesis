@@ -32,12 +32,14 @@
 (def *misc-directory* "../data/misc/")
 (def *sulec-directory* "../data/sulec/")
 (def *sulec-raw-file* (str *sulec-directory* "sulec-all-raw.txt"))
+(def *ice-can-directory* "../data/ice-canada/Corpus/")
 
 (def keyword-to-directory
   {:micusp *micusp-directory*
    :wricle *wricle-directory*
    :misc *misc-directory*
-   :sulec *sulec-directory*})
+   :sulec *sulec-directory*
+   :ice-can *ice-can-directory*})
 
 (defn download-micusp []
   "Downloads the files listed in the 'PAPER ID' column of the *micusp-keyfile* into *micusp-directory*"
@@ -78,25 +80,14 @@
       (if remaining-parts
         (do
           (spit (str *sulec-directory* name ".txt")
-                (reduce #(str %1 "\n" %2) (take 3 remaining-parts)))
-          (recur (nthnext remaining-parts 3)
+                (reduce #(str %1 "\n" %2) (take 6 remaining-parts)))
+          (recur (nthnext remaining-parts 6)
                 (+ name 1)))))))
 
 (defn load-sentences [file-path]
   "Use Stanford Parser DocumentPreprocessor to returns a list of sentences for file-path. Sentences are lists of objects that implement HasWord"
   (seq (DocumentPreprocessor. file-path)))
 
-(comment (defn load-micusp-file [file-name]
-   "file-name is the file name without filetype suffix"
-   (load-sentences (str *micusp-directory* file-name ".txt")))
-
- (defn load-wricle-file [file-name]
-   "file-name is the file name without filetype suffix"
-   (load-sentences (str *wricle-directory* file-name ".txt")))
-
- (defn load-misc-file [file-name]
-   "file-name is the file name without filetype suffix"
-   (load-sentences (str *misc-directory* file-name ".txt"))))
 
 (defn corpus-file-path [corpus file-name]
   (str (keyword-to-directory corpus)
@@ -151,6 +142,7 @@
                :wricle *wricle-directory*
                :misc *misc-directory*
                :sulec *sulec-directory*
+               :ice-can *ice-can-directory*
                (throw
                 (Exception. "First argument must indicate corpus")))]
      (with-open [inp (-> (File. (str dir name))
@@ -226,87 +218,125 @@
    "BIO.G2.07.1"])
 ; "PSY.G0.01.1"
 ;   "PSY.G0.02.1"
-(def *wricle-es* ["A99-1"
-                  "A99-2"
-                  "A255-1"
-                  "A255-2"
-                  "A364-1"
-                  "A364-2"
-                  "C21-1"
-                  "C21-3"
-                  "A43-1"
-                  "A43-2"
-                  "A55-1"
-                  "A55-2"
-                  "A91-1"
-                  "A91-2"
-                  "A144-1"
-                  "A144-2"
-                  "A148-1"
-                  "A148-2"
-                  "A170-1"
-                  "A170-2"
-                  "A240-1"
-                  "A243-1"
-                  "A243-2"
-                  "A249-1"
-                  "A249-2"
-                  "A267-1"
-                  "A267-2"
-                  "A277-1"
-                  "A277-2"
-                  "A356-1"
-                  "A357-1"
-                  "A357-2"
-                  "C2-1"
-                  "C2-2"
-                  "C2-3"
-                  "C12-2"
-                  "C12-3"
-                  "C15-1"
-                  "C15-2"
-                  "C15-3"
-                  "C19-1"
-                  "C19-2"
-                  "C19-3"
-                  "C22-1"
-                  "C22-2"
-                  "C22-3"
-                  "C24-1"
-                  "C24-2"
-                  "C24-3"
-                  "C28-1"
-                  "C28-3"
-                  "C35-1"
-                  "C35-3"
-                  "C46-1"
-                  "C46-2"
-                  "C46-3"
-                  "C50-1"
-                  "C50-2"
-                  "C50-3"
-                  "C57-1"
-                  "C63-1"
-                  "C63-2"
-                  "C63-3"
-                  "C70-2"
-                  "C70-3"
-                  "C73-1"
-                  "C73-2"
-                  "C73-3"
-                  "C75-1"
-                  "C75-3"
-                  "C76-1"
-                  "C76-2"
-                  "C76-3"
-                  "C107-1"
-                  "C107-2"
-                  "C107-3"
-                  "C118-1"
-                  "C118-2"
-                  "C118-3"])
+(def *wricle-es-uncombined* ["A99-1"
+                             "A99-2"
+                             "A255-1"
+                             "A255-2"
+                             "A364-1"
+                             "A364-2"
+                             "C21-1"
+                             "C21-3"
+                             "A43-1"
+                             "A43-2"
+                             "A55-1"
+                             "A55-2"
+                             "A91-1"
+                             "A91-2"
+                             "A144-1"
+                             "A144-2"
+                             "A148-1"
+                             "A148-2"
+                             "A170-1"
+                             "A170-2"
+                             "A240-1"
+                             "A243-1"
+                             "A243-2"
+                             "A249-1"
+                             "A249-2"
+                             "A267-1"
+                             "A267-2"
+                             "A277-1"
+                             "A277-2"
+                             "A356-1"
+                             "A357-1"
+                             "A357-2"
+                             "C2-1"
+                             "C2-2"
+                             "C2-3"
+                             "C12-2"
+                             "C12-3"
+                             "C15-1"
+                             "C15-2"
+                             "C15-3"
+                             "C19-1"
+                             "C19-2"
+                             "C19-3"
+                             "C22-1"
+                             "C22-2"
+                             "C22-3"
+                             "C24-1"
+                             "C24-2"
+                             "C24-3"
+                             "C28-1"
+                             "C28-3"
+                             "C35-1"
+                             "C35-3"
+                             "C46-1"
+                             "C46-2"
+                             "C46-3"
+                             "C50-1"
+                             "C50-2"
+                             "C50-3"
+                             "C57-1"
+                             "C63-1"
+                             "C63-2"
+                             "C63-3"
+                             "C70-2"
+                             "C70-3"
+                             "C73-1"
+                             "C73-2"
+                             "C73-3"
+                             "C75-1"
+                             "C75-3"
+                             "C76-1"
+                             "C76-2"
+                             "C76-3"
+                             "C107-1"
+                             "C107-2"
+                             "C107-3"
+                             "C118-1"
+                             "C118-2"
+                             "C118-3"])
 
-(def *sulec-es* (range 41))
+(defn combine-wricle []
+  "take the files in *wricle-es-uncombined* and pair them up into single files"
+  (let [fpaths (map #(str *wricle-directory*  % ".txt") *wricle-es-uncombined*)]
+    ;;there are an odd number of wricle-es files
+    ;;take the last one and add it to the last pair
+    (loop [rest-paths fpaths
+           iter 0]
+      (if (= (count rest-paths) 3)
+        (spit (str *wricle-directory* iter ".txt")
+              (str (slurp (nth rest-paths 0)) "\n"
+                   (slurp (nth rest-paths 1)) "\n"
+                   (slurp (nth rest-paths 2))))
+        (do
+          (spit (str *wricle-directory* iter ".txt")
+                (str (slurp (nth rest-paths 0)) "\n"
+                     (slurp (nth rest-paths 1)) ))
+          (recur (nthnext rest-paths 2) (+ iter 1)))))))
+
+(def *wricle-es* (map str (range 39)))
+
+(def *sulec-es* (map str (range 21)))
+
+(def *ice-can-en*
+  ["W1A-001"
+   "W1A-003"
+   "W1A-005"
+   "W1A-006"
+   "W1A-010"
+   "W1A-013"
+   "W1A-014"
+   "W1A-016"
+   "W1A-017"
+   "W1A-020"
+   "W1B-016"
+   "W1B-019"
+   "W1B-020"])
+
+(def *ice-can-es*
+  ["W1A-002"])
 
 (def *all-corpora*
   [{:corpus :micusp
@@ -321,9 +351,12 @@
    {:corpus :misc
     :filenames ["msu-level4"]
     :L1 :es}
-   {:corpus :misc
-    :filenames ["pmw-paper"]
+   {:corpus :ice-can
+    :filenames *ice-can-en*
     :L1 :en}
+   {:corpus :ice-can
+    :filenames *ice-can-es*
+    :L1 :es}
    {:corpus :sulec
     :filenames *sulec-es*
     :L1 :es}])
@@ -333,6 +366,17 @@
 
 (def *en-corpora*
   (filter #(= (:L1 %) :en) *all-corpora*))
+
+(defn cleanup-ice-can []
+  "remove tags <...> from the texts"
+  (let [files (concat *ice-can-es* *ice-can-en*)]
+    (doseq [f files]
+      (let [fpath (str *ice-can-directory* f ".txt")
+            text (slurp fpath)]
+        (spit fpath
+              (-> text
+                  (string/replace #"\<.+\>" "")
+                  (string/replace #"[\r\n][\r\n]" " ")))))))
 
 ;;for testing purposes, randomly assign the corpora instances to two different
 ;;language groupings
@@ -357,3 +401,8 @@
                          (map (partial corpus-file-path (corp :corpus))
                               (corp :filenames))))
            "\n\n")))
+
+(defn count-files-in-corpora []
+  {:es (apply + (map #(count (:filenames %)) (filter #(= :es (:L1 %)) *all-corpora*)))
+   :en (apply + (map #(count (:filenames %)) (filter #(= :en (:L1 %)) *all-corpora*)))})
+

@@ -1,0 +1,410 @@
+<I>
+
+<$A> <ICE-CAN:S2B-009#1:1:A> Good morning
+<ICE-CAN:S2B-009#2:1:A> I'm <@> Gus Mcbain </@>
+
+<$B> <ICE-CAN:S2B-009#3:1:B> And I'm <@> Julie Maverins </@>
+<ICE-CAN:S2B-009#4:1:B> This is World Report
+
+<$A> <ICE-CAN:S2B-009#5:1:A> In the news today <,> bedlam at Queens Park
+<ICE-CAN:S2B-009#6:1:A> The Opposition stages an all-night protest in the Ontario
+
+Legislature
+
+<$B> <ICE-CAN:S2B-009#7:1:B> Forgive us our sins <,,> churches apologize to native groups
+
+for residential schools
+
+<$A> <ICE-CAN:S2B-009#8:1:A> And rendez-vous with Jupiter <,,> the Galileo space probe ends
+
+a six year journey through space
+
+<$B> <ICE-CAN:S2B-009#9:1:B> It has been a very long night at the Ontario Legislature
+<ICE-CAN:S2B-009#10:1:B> About a dozen Opposition members are gathered around a Liberal
+
+member to prevent the Sergeant-at-Arms from removing him from the chamber
+<ICE-CAN:S2B-009#11:1:B> Yesterday the speaker ordered Liberal M P P <&> member of the
+
+provincial parliament </&> Alvin Curling expelled when he refused to vote on
+
+a bill
+<ICE-CAN:S2B-009#12:1:B> That's a violation of House rules
+<ICE-CAN:S2B-009#13:1:B> As <@> Phil Hastings </@> reports the controversial bill from the
+
+Conservative government is at the centre of the political storm
+
+<$C> <ICE-CAN:S2B-009#14:1:C> The flashpoint for the Opposition's anger is the bill the
+
+Harris government says it must pass <,> to implement the six billion dollar
+
+spending cut it announced last week
+<ICE-CAN:S2B-009#15:1:C> But the Opposition says this is much more than money bill
+<ICE-CAN:S2B-009#16:1:C> Among other things they say it gives the government the right to
+
+redraw municipal boundaries and even look at people's private medical records
+<ICE-CAN:S2B-009#17:1:C> They accuse Harris of trying to ram through a huge chunk of his
+
+legislative agenda all at once <,> so unpopular policies could be slipped by
+
+without debate
+<ICE-CAN:S2B-009#18:1:C> The Opposition's price for ending what has effectively become a
+
+sit-in <,> is for the government to break the bill down into several smaller
+
+bills <,> then submit the pieces to extensive public hearing
+<ICE-CAN:S2B-009#19:1:C> Conservative House leader Ernie Eaves says he's willing to
+
+negotiate but
+
+<$D> <ICE-CAN:S2B-009#20:1:D> I'm not going to do it while they are holding the legislative
+
+Assembly hostage and while they refuse to complete a vote
+<ICE-CAN:S2B-009#21:1:D> I mean this is an affront to parliamentary democracy as we know it
+
+<$C> <ICE-CAN:S2B-009#22:1:C> Liberal leader Lynne Mcleod says Alvin Curling and the
+
+Opposition are willing to stay put <,> until Eaves agrees to public hearing
+
+<$E> <ICE-CAN:S2B-009#23:1:E> That is not asking a lot of a government that is making
+
+sweeping and fundamental changes that give them incredible powers
+
+<$C> <ICE-CAN:S2B-009#24:1:C> Close to thirty M P P's from both sides sat through the night
+<ICE-CAN:S2B-009#25:1:C> Some read and some slept <,> some did their Christmas cards
+<ICE-CAN:S2B-009#26:1:C> Once every hour Conservative members held up posters of a dollar
+
+sign
+<ICE-CAN:S2B-009#27:1:C> The Tories claim every hour the bill to cut government spending is
+
+delayed <,,> a million dollars in interest is added to the Ontario debt
+<ICE-CAN:S2B-009#28:1:C> <@> Phil Hastings </@> C B C News Toronto
+
+<$A> <ICE-CAN:S2B-009#29:1:A> Canadian soldiers will soon be heading back to Bosnia
+<ICE-CAN:S2B-009#30:1:A> The first of up to a thousand troops will begin leaving for the
+
+Balkans before Christmas
+<ICE-CAN:S2B-009#31:1:A> They'll become part of the multi-national force of sixty thousand
+
+from NATO
+<ICE-CAN:S2B-009#32:1:A> Canada's Defence Minister says a thousand soldiers will satisfy
+
+NATO commanders
+<ICE-CAN:S2B-009#33:1:A> But some military analysts disagree <@> Devon Asper </@> has more
+
+<$F> <ICE-CAN:S2B-009#34:1:F> Canada had been asked to contribute a larger force <,,> of up
+
+to sixteen hundred
+<ICE-CAN:S2B-009#35:1:F> But Defence Minister David Collenette insists <,> Canada's
+
+contribution will please NATO headquarters in Brussels
+
+<$H> <ICE-CAN:S2B-009#36:1:H> This is uhh within the acceptable range that we had been
+
+discussing with the NATO commanders
+<ICE-CAN:S2B-009#37:1:H> I think they'll be quite happy
+
+<$F> <ICE-CAN:S2B-009#38:1:F> And Collenette says Canadians will be pleased as well
+
+<$H> <ICE-CAN:S2B-009#39:1:H> It goes without saying that Canadians would expect us <}> <->
+
+to uh </-> <=> if we're </=> </}> part of the NATO organization <,> to be
+
+there
+<ICE-CAN:S2B-009#40:1:H> Especially <,> at this historic time when <,> uh NATO in effect <,>
+
+is changing its direction after forty years and take on a very meaningful
+
+security role
+
+<$F> <ICE-CAN:S2B-009#41:1:F> But some defence analysts believe Canada is taking the easy
+
+way out
+
+<$H> <ICE-CAN:S2B-009#42:1:H> I would have hoped for <}> <-> a </-> <=> a </=> </}> much
+
+more <{> <[> substantial contribution </[>
+
+<$F> <ICE-CAN:S2B-009#43:1:F> <[> <@> Don Jorgenson </@> is a </[> </{> retired colonel and
+
+former editor of the Canadian Defence Quarterly
+<ICE-CAN:S2B-009#44:1:F> <@> Jorgenson </@> says Canada could have done more <,> it should
+
+have done more
+
+<$H> <ICE-CAN:S2B-009#45:1:H> I wonder <,> how much <,> our contribution is going to matter
+<ICE-CAN:S2B-009#46:1:H> And I think that needs to be <}> <-> a matter of something </-> <=>
+
+accounted for us </=> </}>
+<ICE-CAN:S2B-009#47:1:H> We wanted to contribute to something <,> uh to an operation where
+
+it made a difference
+
+<$F> <ICE-CAN:S2B-009#48:1:F> The commitment to the peace process in Bosnia will cost
+
+Canadian tax payers just under fifty million dollars
+
+<$F> <ICE-CAN:S2B-009#49:1:F> Collenette says the Canadian soldiers will stay in Bosnia for
+
+one year and then come home
+<ICE-CAN:S2B-009#50:1:F> <@> Devon Asper </@> C B C News Ottawa
+
+<$B> <ICE-CAN:S2B-009#51:1:B> Paul Martin has set a new target for federal deficit reduction
+<ICE-CAN:S2B-009#52:1:B> The finance minister said yesterday he intends to slash the deficit
+
+to two percent of gross domestic product by nineteen ninety-seven
+<ICE-CAN:S2B-009#53:1:B> That means a deficit of about seventeen billion dollars
+<ICE-CAN:S2B-009#54:1:B> Half of what it is today
+<ICE-CAN:S2B-009#55:1:B> But as <@> Joanne Murphy </@> reports the Reform Party says the
+
+target is still too high
+
+<$I> <ICE-CAN:S2B-009#56:1:I> Everybody agree with <}> <-> the </-> <=> the </=> </}>
+
+objective of <}> <-> uh </-> <=> uh </=> </}> reducing uh deficit of federal
+
+government
+
+<$J> <ICE-CAN:S2B-009#57:1:J> Actually it's rare to get agreement on something in Ottawa
+<ICE-CAN:S2B-009#58:1:J> But Yvan Loubier of the <indig> Bloc Qu&eacute;b&eacute;cois
+
+</indig> says everyone wants deficit reduction
+<ICE-CAN:S2B-009#59:1:J> The problem is <,> there's no consensus on the pace of cutting back
+<ICE-CAN:S2B-009#60:1:J> Finance minister Paul Martin says he's moving as fast as he can
+
+<$K> <ICE-CAN:S2B-009#61:1:K> A single-minded dash to a zero deficit <,,> would be
+
+counterproductive in every sense
+
+<$J> <ICE-CAN:S2B-009#62:1:J> But don't say that to Preston Manning of the Reform Party
+<ICE-CAN:S2B-009#63:1:J> He's not impressed with the new target
+<ICE-CAN:S2B-009#64:1:J> And he's repeating what has become a mantra for Reform
+
+<$L> <ICE-CAN:S2B-009#65:1:L> I think you know what we're going to say
+<ICE-CAN:S2B-009#66:1:L> And that is that you are not going far enough <,> fast enough <,>
+
+with respect to spending reduction
+
+<$J> <ICE-CAN:S2B-009#67:1:J> But other Reform members seem almost surprised that Martin is
+
+moving so fast
+<ICE-CAN:S2B-009#68:1:J> His finance critic Herb Grubel says most of the cuts from the last
+
+budget have yet to work their way through the system
+<ICE-CAN:S2B-009#69:1:J> So it'll be quite the challenge to slash even more
+
+<$M> <ICE-CAN:S2B-009#70:1:M> I can just envision the pressures that are going to build up
+
+and what you will have to face
+
+<$J> <ICE-CAN:S2B-009#71:1:J> Canadians don't yet know the specifics of what they'll face in
+
+further cutbacks
+<ICE-CAN:S2B-009#72:1:J> For details they'll have to wait until February <,> for the next
+
+budget
+<ICE-CAN:S2B-009#73:1:J> <@> Joanne Murphy </@> C B C News Ottawa
+
+<$A> <ICE-CAN:S2B-009#74:1:A> The investigation into the Airbus scandal has been stalled by
+
+a legal challange launched in Switzerland
+<ICE-CAN:S2B-009#75:1:A> A Canadian Justice Department official says someone has filed a
+
+case in Switzerland challenging Canada's efforts to obtain confidential
+
+banking records
+<ICE-CAN:S2B-009#76:1:A> It isn't known who filed the appeal or how long it will take to be
+
+heard
+<ICE-CAN:S2B-009#77:1:A> Canadian authorities asked Swiss police to help investigate
+
+allegations of kickbacks in the nineteen eighty-eight sale of Airbus jets to
+
+<}> <-> <.> th </.> </-> <+> the </+> </}> Air Canada
+<ICE-CAN:S2B-009#78:1:A> The Swiss agreed to freeze certain bank accounts but any account
+
+holder has the right to file an appeal
+
+<$B> <ICE-CAN:S2B-009#79:1:B> The country's major churches will unite today in an apology
+
+for the decades of abuse of native people in residential schools
+<ICE-CAN:S2B-009#80:1:B> For decades aboriginal children were taken from their parents
+<ICE-CAN:S2B-009#81:1:B> They were put into boarding schools where their own cultural and
+
+religious beliefs were banned
+<ICE-CAN:S2B-009#82:1:B> The church apology for those years of assimilation will be part of
+
+what's being called a sacred assembly in <}> <-> Hull </-> <=> Hull </=> </}>
+
+Quebec
+<ICE-CAN:S2B-009#83:1:B> <@> Corrine Johnson </@> has the story
+
+<$N> <ICE-CAN:S2B-009#84:1:N> I learned to be ashamed <,,> because I was an Indian
+<ICE-CAN:S2B-009#85:1:N> I learned to be ashamed of my language <,,> because I was told it
+
+belonged to the devil
+
+<$O> <ICE-CAN:S2B-009#86:1:O> <@> Colleen Stanley </@> is a seventy year-old elder from
+
+Saskatchewan
+<ICE-CAN:S2B-009#87:1:O> She remembers her years in a Catholic residential school as if they
+
+were yesterday
+<ICE-CAN:S2B-009#88:1:O> Especially a vivid picture painted in one hallway
+<ICE-CAN:S2B-009#89:1:O> A mural <,> that gave her nightmares as a little girl
+
+<$N> <ICE-CAN:S2B-009#90:1:N> Parents carrying their little children by the hand into hell
+
+<$N> <ICE-CAN:S2B-009#91:1:N> Because they're Indian
+
+<$O> <ICE-CAN:S2B-009#92:1:O> <@> Stanley </@> got kicked out of that residential school at
+
+sixteen <,> with a grade six education
+<ICE-CAN:S2B-009#93:1:O> She became an alcoholic before recovering and going to university
+<ICE-CAN:S2B-009#94:1:O> She says she doesn't blame the Roman Catholic Church
+<ICE-CAN:S2B-009#95:1:O> She blames the government for its policies of enforced assimilation
+<ICE-CAN:S2B-009#96:1:O> But six major churches including the Catholic United and Anglican
+
+<,> are expected to make an official apology for their role in the
+
+residential school system
+<ICE-CAN:S2B-009#97:1:O> Father <@> Matt Cosby </@> of the conference of Catholic bishops
+
+says it's an effort to heal the wounds of the past
+
+<$P> <ICE-CAN:S2B-009#98:1:P> All the churches that are working with the native people in
+
+terms of uhh justice issues <}> <-> and </-> <=> and </=> </}> <}> <-> <.>
+
+rec </.> </-> <+> reconciliation </+> </}> making efforts towards
+
+reconciliation
+<ICE-CAN:S2B-009#99:1:P> It's one of the reasons we're here
+
+<$O> <ICE-CAN:S2B-009#100:1:O> Some apologies have already been made by church groups
+
+involved in residential schools
+<ICE-CAN:S2B-009#101:1:O> But their words at this sacred assembly are designed to finally
+
+put the past to rest <,> and get on with building a new relationship with
+
+aboriginal people
+<ICE-CAN:S2B-009#102:1:O> <@> Corrine Johnson </@> C B C News Hull Quebec
+
+<$A> <ICE-CAN:S2B-009#103:1:A> The Saskatchewan Court of Appeal will hear arguments today on
+
+an unusual case in Regina
+<ICE-CAN:S2B-009#104:1:A> The Crown is appealing a decision by a lower court judge and a
+
+native sentencing circle to banish a <}> <-> convected six </-> <=> convicted
+
+sex </=> </}> offender to a remote island instead of sending him to jail
+<ICE-CAN:S2B-009#105:1:A> As we hear from <@> Jared Ericson </@> the offender <,> <@> Murray
+
+Teller </@> has already served half of his one year banishment
+
+<$Q> <ICE-CAN:S2B-009#106:1:Q> For the last six months twenty-nine year-old <@> Murray
+
+Teller </@> has been living by himself in a cabin on a remote island in
+
+northern Saskatchewan
+<ICE-CAN:S2B-009#107:1:Q> He has had few visitors but for those who've brought him supplies
+<ICE-CAN:S2B-009#108:1:Q> Last spring after he was convicted of sexually assaulting and
+
+beating his former common-law spouse <,> <@> Teller </@> <,> the trial judge
+
+<,> and members of the community of Lac L'Orange <,> agreed to try a
+
+sentencing circle as an alternative to a prison sentence
+<ICE-CAN:S2B-009#109:1:Q> The circle made up of about fifteen people from all walks of life
+
+in L'Orange <,> recommended <@> Teller </@> be banished for one year <,> to
+
+be followed by three years probation
+<ICE-CAN:S2B-009#110:1:Q> Traditionally banishment is the most serious form of punishment in
+
+aboriginal justice
+<ICE-CAN:S2B-009#111:1:Q> <@> Peter Denny </@> of L'Orange Justice Committee says the case
+
+demonstrates <,> that there is a place for aboriginal justice in Canada
+
+<$R> <ICE-CAN:S2B-009#112:1:R> We're trying to make the system work <,,> for <@> Murray
+
+Teller </@> <,> and for the community that will help our <,,> First Nations
+
+people <,,> straighten out their lives a little bit
+
+<$Q> <ICE-CAN:S2B-009#113:1:Q> But the Crown will argue today before the Saskatchewan Court
+
+of Appeal that banishment is an illegal court order <,> and amounts to an
+
+unfit sentence
+<ICE-CAN:S2B-009#114:1:Q> The Crown says <@> Teller </@> should spend some time in jail for
+
+his violent crimes
+<ICE-CAN:S2B-009#115:1:Q> <@> Teller </@> says the experiment in isolation has helped him to
+
+change to better control his anger
+<ICE-CAN:S2B-009#116:1:Q> And today his lawyers will ask the Appeal Court to let the
+
+experiment continue for another six months
+<ICE-CAN:S2B-009#117:1:Q> <@> Jared Ericson </@> C B C News Saskatoon
+
+<$A> <ICE-CAN:S2B-009#118:1:A> Friends and relatives will say goodbye today to one of the
+
+country's best known authors
+<ICE-CAN:S2B-009#119:1:A> A funeral is being held in Toronto for Robertson Davies who died
+
+Saturday of a stroke
+<ICE-CAN:S2B-009#120:1:A> He was eighty-two
+<ICE-CAN:S2B-009#121:1:A> C B C Stereo will broadcast the funeral service live this morning
+
+at eleven o'clock eastern
+
+<$B> <ICE-CAN:S2B-009#122:1:B> For a group of scientists in California it will mark the
+
+culmination of years of effort
+<ICE-CAN:S2B-009#123:1:B> The Galileo space probe will launch a probe into the atmosphere
+
+around the planet Jupiter this afternoon
+<ICE-CAN:S2B-009#124:1:B> That probe will have just minutes to sample the gaseous atmosphere
+
+and relay its information back to the Galileo craft
+<ICE-CAN:S2B-009#125:1:B> The angle has to be perfect <,> or the years of effort could
+
+literally burn up
+<ICE-CAN:S2B-009#126:1:B> <@> Doug Mckenzie </@> from C B C Radio's Quirks and Quarks
+
+explains
+
+<$S> <ICE-CAN:S2B-009#127:1:S> The Galileo mission is almost ten years late
+<ICE-CAN:S2B-009#128:1:S> It was originally supposed to be launched in nine <,> teen <,>
+
+eighty-two
+<ICE-CAN:S2B-009#129:1:S> Then there were delays in the program
+<ICE-CAN:S2B-009#130:1:S> It was supposed to then go in nineteen eighty-six
+<ICE-CAN:S2B-009#131:1:S> The Space Shuttle Challenger disaster happened
+<ICE-CAN:S2B-009#132:1:S> That put it back till nineteen eighty-nine
+<ICE-CAN:S2B-009#133:1:S> Then it took six years just to get there
+<ICE-CAN:S2B-009#134:1:S> So it's been a long wait for some of these scientists and <}> <->
+
+it all comes down in terms of this entry probe that's going to go in <,> </->
+
+<=> it all comes down </=> </}> to one hour of material that they hope uh is
+
+going to give them the information that they've been waiting so long for <O>
+
+Interview between speakers B and S </O>
+
+<$B> <ICE-CAN:S2B-009#135:1:B> <@> Doug Mckenzie </@> of the C B C Radio program Quirks and
+
+Quarks
+
+<$A> <ICE-CAN:S2B-009#136:1:A> Now summing up
+<ICE-CAN:S2B-009#137:1:A> The stand-off at the Ontario legislature continues
+<ICE-CAN:S2B-009#138:1:A> Opposition members stay all night in the Chamber to prevent the
+
+Sergeant-At-Arms from ejecting a Liberal member
+<ICE-CAN:S2B-009#139:1:A> The Opposition is trying to stop passage of a controversial bill
+<ICE-CAN:S2B-009#140:1:A> That's World Report
+<ICE-CAN:S2B-009#141:1:A> I'm <@> Gus Mcbain </@> with <@> Julie Maverins </@>
+<ICE-CAN:S2B-009#142:1:A> This is C B C Radio News </I>

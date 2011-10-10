@@ -1,0 +1,830 @@
+<I>
+
+<$A> <ICE-CAN:S1A-012#1:1:A> No we can't start tomorrow <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-012#2:1:B> <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-012#3:1:A> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-012#4:1:A> Uh I think the <,> Victoria Day weekend would be the time <{>
+
+<[> to start </[>
+
+<$B> <ICE-CAN:S1A-012#5:1:B> <[> Is that <unclear> multiple words </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1A-012#6:1:B> But I'll have everything already done there
+
+<$A> <ICE-CAN:S1A-012#7:1:A> I think we could probably get <,> from here to about here <,>
+
+done <1{> <[1> <,> <?> on </?> Monday <,> </[1> but
+<ICE-CAN:S1A-012#8:1:A> <2{> <[2> <,,> I'm thinking <unclear> two or three words </unclear>
+
+</[2>
+<ICE-CAN:S1A-012#9:1:A> <3{> <[3> <O> laugh </O> </[3>
+
+<$B> <ICE-CAN:S1A-012#10:1:B> <[1> You're such a good boy </[1> </{1>
+
+<$B> <ICE-CAN:S1A-012#11:1:B> <[2> Oh that's great <,>
+
+<$B> <ICE-CAN:S1A-012#12:1:B> That's fantastic </[2> </{2>
+
+<$B> <ICE-CAN:S1A-012#13:1:B> <[3> Oh
+<ICE-CAN:S1A-012#14:1:B> Thank you </[3> </{3> that's wonderful
+
+<$A> <ICE-CAN:S1A-012#15:1:A> Because it's straight <,> you <{1> <[1> know it's </[1> <,>
+
+and uh <}> <-> if </-> uh <=> if </=> </}> we are getting that nail gun <,>
+<ICE-CAN:S1A-012#16:1:A> <{2> <[2> well uhm </[2>
+
+<$B> <ICE-CAN:S1A-012#17:1:B> <[1> Yeah </[1> </{1>
+
+<$B> <ICE-CAN:S1A-012#18:1:B> <[2> Well </[2> </{2> he said that he was <}> <-> gonna </->
+
+<+> going to </+> </}> lend it to me <{> <[> so uh </[>
+
+<$A> <ICE-CAN:S1A-012#19:1:A> <[> <unclear> two or three words </unclear> </[> </{> really
+
+quickly
+
+<$B> <ICE-CAN:S1A-012#20:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-012#21:1:A> So <,> we can just use that for all the nailing
+
+<$B> <ICE-CAN:S1A-012#22:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-012#23:1:A> And you just go bang bang
+<ICE-CAN:S1A-012#24:1:A> <{> <[> bang bang </[> bang
+
+<$B> <ICE-CAN:S1A-012#25:1:B> <[> Yeah </[> </{>
+
+<$B> <ICE-CAN:S1A-012#26:1:B> Just like a stapler
+
+<$A> <ICE-CAN:S1A-012#27:1:A> Yeah
+
+<$B> <ICE-CAN:S1A-012#28:1:B> Oh boy
+
+<$A> <ICE-CAN:S1A-012#29:1:A> Yeah
+
+<$B> <ICE-CAN:S1A-012#30:1:B> <{> <[> <unclear> two or three words </unclear> </[>
+
+<$A> <ICE-CAN:S1A-012#31:1:A> <[> <?> Like do </?> you watch </[> </{> those <,> uh home
+
+improvement things <{> <[> on uh <,> P B S uh </[> <&> Television Station
+
+</&>
+
+<$B> <ICE-CAN:S1A-012#32:1:B> <[> Yeah
+<ICE-CAN:S1A-012#33:1:B> Yeah </[> </{> I do from time to time
+
+<$A> <ICE-CAN:S1A-012#34:1:A> They put up a whole building in a weekend <{> <[> you know <,>
+
+<?> with </?> those power tools </[>
+
+<$B> <ICE-CAN:S1A-012#35:1:B> <[> Yeah mm hmm yeah </[> </{>
+<ICE-CAN:S1A-012#36:1:B> Yes yeah
+<ICE-CAN:S1A-012#37:1:B> It's fun watching those
+<ICE-CAN:S1A-012#38:1:B> <{> <[> I like watching </[> <?> that programme </?>
+
+<$A> <ICE-CAN:S1A-012#39:1:A> <[> So let's <,>
+<ICE-CAN:S1A-012#40:1:A> Yeah </[> </{>
+
+<$B> <ICE-CAN:S1A-012#41:1:B> <O> long audible breath </O> <{1> <[1> Anyway </[1> <,> okay
+<ICE-CAN:S1A-012#42:1:B> <{2> <[2> so uh </[2>
+
+<$A> <ICE-CAN:S1A-012#43:1:A> <[1> <?> Have </?> </[1> </{1>
+
+<$A> <ICE-CAN:S1A-012#44:1:A> <[2> So have you <?> found </?> </[2> </{2> any pricing on the
+
+wood <,,> aside from calling <{> <[> <@> Dan </@> </[>
+
+<$B> <ICE-CAN:S1A-012#45:1:B> <[> No </[> </{> <{> <[> <,> I </[> accepted his word
+
+implicitly <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-012#46:1:A> <[> Ah </[> </{>
+<ICE-CAN:S1A-012#47:1:A> I see
+<ICE-CAN:S1A-012#48:1:A> <{> <[> <unclear> sentence </unclear> </[>
+
+<$B> <ICE-CAN:S1A-012#49:1:B> <[> Well he's got yeah yeah yeah yeah </[> </{> yeah I just
+<ICE-CAN:S1A-012#50:1:B> But <}> <-> I imagine that that's </-> sort of you know <=> I don't
+
+think that's </=> </}> probably unreasonable
+
+<$A> <ICE-CAN:S1A-012#51:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1A-012#52:1:B> <,> Cos he's pretty good within uh <,,>
+<ICE-CAN:S1A-012#53:1:B> You know cos he's I mean sort of a while since he's done much
+
+construction <{> <[> really </[> but <}> <-> he's </-> <,> you know <=> he's
+
+pretty good </=> </}> with <,> you know prices and stuff and he seems to <,>
+
+<$A> <ICE-CAN:S1A-012#54:1:A> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1A-012#55:1:A> Okay
+
+<$B> <ICE-CAN:S1A-012#56:1:B> So <,>
+<ICE-CAN:S1A-012#57:1:B> No actually it's true I haven't even
+
+<$A> <ICE-CAN:S1A-012#58:1:A> Now <}> <-> when you </-> </{> <=> when you </=> </}> get the
+
+wood <,> you should specify that <}> <-> you want </-> <,> <=> you don't want
+
+</=> </}> warped <,> wood
+
+<$B> <ICE-CAN:S1A-012#59:1:B> <{> <[> <?> Okay </?> </[>
+
+<$A> <ICE-CAN:S1A-012#60:1:A> <[> You want uh </[> </{> <,> ah nice uh <,> seasoned wood <,>
+
+that uh <,> is not twisted into all kinds of funny shapes <,,>
+
+<$B> <ICE-CAN:S1A-012#61:1:B> Okay cos uhm <,,>
+<ICE-CAN:S1A-012#62:1:B> That's right cos I'm <}> <-> gonna </-> <+> going to </+> </}>
+
+order it over the <{> <[> phone am I </[>
+
+<$A> <ICE-CAN:S1A-012#63:1:A> <[> Mm hmm </[> </{> that's right
+
+<$B> <ICE-CAN:S1A-012#64:1:B> Mmmm <,,>
+
+<$A> <ICE-CAN:S1A-012#65:1:A> And then whatever finishing pieces we need like mouldings and
+
+so on we can probably get at Rona <&> Hardware store </&>
+
+<$B> <ICE-CAN:S1A-012#66:1:B> Mm hmm
+<ICE-CAN:S1A-012#67:1:B> <,> Actually you know what I found downstairs was a piece of
+
+baseboard <,>
+
+<$A> <ICE-CAN:S1A-012#68:1:A> Oh is that baseboard
+
+<$B> <ICE-CAN:S1A-012#69:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-012#70:1:A> I think I've seen that down there
+
+<$B> <ICE-CAN:S1A-012#71:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-012#72:1:A> I don't think we're going to put <{> <[> baseboard <unclear> a
+
+few words </unclear> </[>
+
+<$B> <ICE-CAN:S1A-012#73:1:B> <[> Yeah <unclear> word </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1A-012#74:1:B> I don't think so <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-012#75:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-012#76:1:B> But I thought if we got <?> more </?> <,,> <}> <-> I'd </->
+
+<=> maybe I'd </=> </}> prop it up there against the wall anyway just for old
+
+<{> <[> time's sake </[>
+
+<$A> <ICE-CAN:S1A-012#77:1:A> <[> For effect </[> </{> <{> <[> <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-012#78:1:B> <[> Yeah </[> </{> <,>
+<ICE-CAN:S1A-012#79:1:B> Well we could put it on
+<ICE-CAN:S1A-012#80:1:B> <unclear> word </unclear> we don't have to put in on the uh <,>
+
+<$A> <ICE-CAN:S1A-012#81:1:A> Yeah
+
+<$B> <ICE-CAN:S1A-012#82:1:B> Yeah I just <}> <-> wanna </-> <+> want to </+> </}> get the
+
+wall up <{1> <[1> <,> and then they </[1> get their
+<ICE-CAN:S1A-012#83:1:B> <{2> <[2> privacy and they can have </[2> their privacy and they
+
+can bring whoever they want in and then I don't have to worry about
+<ICE-CAN:S1A-012#84:1:B> <{3> <[3> them </[3>
+
+<$A> <ICE-CAN:S1A-012#85:1:A> <[1> Mm mm hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1A-012#86:1:A> <[2> Mm hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1A-012#87:1:A> <[3> Yeah that's </[3> </{3> right
+
+<$B> <ICE-CAN:S1A-012#88:1:B> Who's going in there <,>
+
+<$B> <ICE-CAN:S1A-012#89:1:B> <}> <-> So </-> uhm <,> <=> So </=> </}> <,> do I have to
+
+worry about uh <,> cos there's uhm <,,> stuff like <,> you know <}> <-> it's
+
+</-> <,> <=> it's </=> </}> <}> <-> gonna </-> <+> going to </+> </}> have to
+
+be built in a little bit right because of the way the uh <{> <[> <,,> </[>
+
+the pipes and stuff
+
+<$A> <ICE-CAN:S1A-012#90:1:A> <[> Oh those pipes </[> </{>
+
+<$B> <ICE-CAN:S1A-012#91:1:B> Do I have to <{> <[> <,,> make </[> <unclear> word </unclear>
+
+what's it called a <?> shammy </?> or something
+
+<$A> <ICE-CAN:S1A-012#92:1:A> <[> Well maybe </[> </{>
+
+<$B> <ICE-CAN:S1A-012#93:1:B> Is that what it's called
+<ICE-CAN:S1A-012#94:1:B> Is that the word for <{> <[> that </[>
+
+<$A> <ICE-CAN:S1A-012#95:1:A> <[> Uhhh </[> </{> a <{1> <[1> <?> shem </?> or </[1> <,>
+<ICE-CAN:S1A-012#96:1:A> <{2> <[2> <unclear> word </unclear> </[2>
+
+<$B> <ICE-CAN:S1A-012#97:1:B> <[1> <?> Shim </?> </[1> </{1>
+
+<$B> <ICE-CAN:S1A-012#98:1:B> <[2> <{> <[> <O> laugh </O> </[> </[2> </{2>
+
+<$A> <ICE-CAN:S1A-012#99:1:A> <[> No a </[> </{> <?> shem </?> is more like just a <{> <[>
+
+thin uh </[> wedge
+
+<$B> <ICE-CAN:S1A-012#100:1:B> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-012#101:1:A> Ah <,> whatever
+<ICE-CAN:S1A-012#102:1:A> Yeah we should get something to put <}> <-> on the </-> uh <=>
+
+along that </=> </}> beam <,>
+<ICE-CAN:S1A-012#103:1:A> Ah so <,> ah <,> I guess some more two by four <,> that length <,>
+
+<$B> <ICE-CAN:S1A-012#104:1:B> Oh the two by four
+
+<$A> <ICE-CAN:S1A-012#105:1:A> Yeah <unclear> word </unclear> <{> <[> <unclear> word
+
+</unclear> </[> onto the beam
+
+<$B> <ICE-CAN:S1A-012#106:1:B> <[> Okay <?> then </?> </[> </{>
+
+<$A> <ICE-CAN:S1A-012#107:1:A> And <{> <[> then <unclear> word </unclear> <,> put it onto
+
+that <,> yeah </[>
+
+<$B> <ICE-CAN:S1A-012#108:1:B> <[> Oh I see <,> yes <,,> okay <,>
+<ICE-CAN:S1A-012#109:1:B> Alright </[> </{>
+<ICE-CAN:S1A-012#110:1:B> That's a good <{> <[> idea
+<ICE-CAN:S1A-012#111:1:B> Okay </[> so that means that uh <,,> we've got fifteen of them
+
+here right now
+
+<$A> <ICE-CAN:S1A-012#112:1:A> <[> <?> And </?> </[> </{>
+
+<$A> <ICE-CAN:S1A-012#113:1:A> <,,> Okay so <,>
+
+<$B> <ICE-CAN:S1A-012#114:1:B> A hundred and twenty one divided by
+<ICE-CAN:S1A-012#115:1:B> Cos you said that they're about eight <{> <[> feet </[>
+
+<$A> <ICE-CAN:S1A-012#116:1:A> <[> They're about </[> </{> eight feet long so eight feet is
+
+uh ninety-six inches so you <,> need two more
+
+<$B> <ICE-CAN:S1A-012#117:1:B> <,,> Okay two more
+
+<$A> <ICE-CAN:S1A-012#118:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-012#119:1:B> <[> Just </[> </{> here
+
+<$A> <ICE-CAN:S1A-012#120:1:A> Ya
+
+<$B> <ICE-CAN:S1A-012#121:1:B> This is the <?> only </?> place right
+
+<$A> <ICE-CAN:S1A-012#122:1:A> <{> <[> Yeah </[>
+
+<$B> <ICE-CAN:S1A-012#123:1:B> <[> It's not </[> </{> <}> <-> gonna </-> <+> going to </+>
+
+</}> be a problem there and it's not <}> <-> gonna </-> <+> going to </+>
+
+</}> be a problem there
+
+<$A> <ICE-CAN:S1A-012#124:1:A> I don't think so
+
+<$B> <ICE-CAN:S1A-012#125:1:B> Okay so seventeen <,,>
+<ICE-CAN:S1A-012#126:1:B> Seventeen two by four <?> equals </?> <{> <[> <unclear> word
+
+</unclear> </[> <,,>
+
+<$A> <ICE-CAN:S1A-012#127:1:A> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-012#128:1:B> <unclear> word </unclear>
+<ICE-CAN:S1A-012#129:1:B> What about nails and stuff like that
+<ICE-CAN:S1A-012#130:1:B> <{> <[> Don't <unclear> word </unclear> </[>
+
+<$A> <ICE-CAN:S1A-012#131:1:A> <[> Nails </[> </{>
+
+<$A> <ICE-CAN:S1A-012#132:1:A> Yeah you probably want <,> uh <,,> uh two inch <,,>
+<ICE-CAN:S1A-012#133:1:A> Oh no <,,> <}> <-> we </-> <=> we </=> </}> need some three inch
+
+because <,> we're using two by fours along the bottom <,>
+<ICE-CAN:S1A-012#134:1:A> Uh <,> three inch that bend
+<ICE-CAN:S1A-012#135:1:A> You'd better check that <@> Dan </@> 's gun will take <{> <[> uh
+
+<,> </[> three inch nails <,>
+
+<$B> <ICE-CAN:S1A-012#136:1:B> <[> Okay </[> </{>
+
+<$B> <ICE-CAN:S1A-012#137:1:B> Okay
+
+<$A> <ICE-CAN:S1A-012#138:1:A> And you want them that they'll go into cement through wood
+
+into cement <,,>
+<ICE-CAN:S1A-012#139:1:A> And then the rest can probably be two inch <,,> nails
+
+<$B> <ICE-CAN:S1A-012#140:1:B> Okay and they won't have to go through wood into cement
+
+<$A> <ICE-CAN:S1A-012#141:1:A> No they're going <,> through wood into wood
+
+<$B> <ICE-CAN:S1A-012#142:1:B> Mm hmm <,,>
+
+<$A> <ICE-CAN:S1A-012#143:1:A> And do you still have that wood glue
+<ICE-CAN:S1A-012#144:1:A> <,> <}> <-> Do you want to </-> <=> Do you want to </=> </}> glue
+
+the wood as well as nailing it <,,> the plywood
+
+<$B> <ICE-CAN:S1A-012#145:1:B> Just <?> all around </?> this </?> railing </?> down here but
+
+uh <,,>
+<ICE-CAN:S1A-012#146:1:B> Do I want to <}> <-> nail the </-> <=> uh glue it </=> </}> on as
+
+well as
+<ICE-CAN:S1A-012#147:1:B> <}> <-> Would that <{1> <[1> make it </-> <,> </[1> <=> would
+<ICE-CAN:S1A-012#148:1:B> <{2> <[2> that make it </=> </}> airtight </[2>
+
+<$A> <ICE-CAN:S1A-012#149:1:A> <[1> As well as nailing it </[1> </{1>
+
+<$A> <ICE-CAN:S1A-012#150:1:A> <[2> That will make it stronger </[2> </{2>
+
+<$A> <ICE-CAN:S1A-012#151:1:A> Yeah probably
+
+<$B> <ICE-CAN:S1A-012#152:1:B> Yeah <,> okay <,>
+<ICE-CAN:S1A-012#153:1:B> So maybe <}> <-> I should </-> <=> I should </=> </}> <,>
+<ICE-CAN:S1A-012#154:1:B> I guess I had some wood glue but I don't suppose that there'd be
+
+enough
+<ICE-CAN:S1A-012#155:1:B> <?> It doesn't </?>
+<ICE-CAN:S1A-012#156:1:B> <?> Like that yellow </?> bottle of glue <{> <[> hey </[>
+
+<$A> <ICE-CAN:S1A-012#157:1:A> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1A-012#158:1:A> Yeah <,> <{1> <[1> something like that </[1> maybe bigger
+<ICE-CAN:S1A-012#159:1:A> <{2> <[2> <,> cos </[2> you just want to put a bead
+<ICE-CAN:S1A-012#160:1:A> <{3> <[3> of glue </[3> around <,> and uh
+
+<$B> <ICE-CAN:S1A-012#161:1:B> <[1> Yeah </[1> </{1>
+
+<$B> <ICE-CAN:S1A-012#162:1:B> <[2> Yeah </[2> </{2>
+
+<$B> <ICE-CAN:S1A-012#163:1:B> <[3> Yeah </[3> </{3>
+
+<$B> <ICE-CAN:S1A-012#164:1:B> Okay <,> yeah
+<ICE-CAN:S1A-012#165:1:B> Okay <,,>
+<ICE-CAN:S1A-012#166:1:B> So uh what about uh
+<ICE-CAN:S1A-012#167:1:B> It's going to be <}> <-> two inch </-> <,> <=> two inch </=> </}>
+
+plywood right
+
+<$A> <ICE-CAN:S1A-012#168:1:A> Two <{> <[> by four </[>
+
+<$B> <ICE-CAN:S1A-012#169:1:B> <[> Half </[> </{> inch <,>
+
+<$A> <ICE-CAN:S1A-012#170:1:A> Oh <,> half inch <{> <[> plywood </[>
+
+<$B> <ICE-CAN:S1A-012#171:1:B> <[> Half </[> </{> inch plywood <{> <[> <,> yeah </[>
+
+<$A> <ICE-CAN:S1A-012#172:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1A-012#173:1:B> Okay <,>
+<ICE-CAN:S1A-012#174:1:B> And uh <}> <-> what <?> about </?> </-> <=> what are we </=> </}>
+
+<}> <-> gonna </-> <+> going to </+> </}> use to seal the uhm <,,> the seams
+
+<$A> <ICE-CAN:S1A-012#175:1:A> Well <,> uhm <,> what I thought we'd do <,> was to put the
+
+uprights <,> where the seams are <{1> <[1> so the big </[1> pieces of
+<ICE-CAN:S1A-012#176:1:A> <{2> <[2> wood get nailed </[2> to the
+<ICE-CAN:S1A-012#177:1:A> <{3> <[3> uh to the </[3>
+<ICE-CAN:S1A-012#178:1:A> <{4> <[4> uprights </[4>
+
+<$B> <ICE-CAN:S1A-012#179:1:B> <[1> Yeah </[1> </{1>
+
+<$B> <ICE-CAN:S1A-012#180:1:B> <[2> <unclear> word </unclear> </[2> </{2>
+
+<$B> <ICE-CAN:S1A-012#181:1:B> <[3> Right </[3> </{3>
+
+<$B> <ICE-CAN:S1A-012#182:1:B> <[4> Right
+<ICE-CAN:S1A-012#183:1:B> And </[4> </{4> that'll make it airtight too <{> <[> won't it </[>
+
+<$A> <ICE-CAN:S1A-012#184:1:A> <[> Ya <,> </[> </{>
+<ICE-CAN:S1A-012#185:1:A> <{> <[> Yeah </[>
+
+<$B> <ICE-CAN:S1A-012#186:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-012#187:1:A> <{> <[> And then uhm </[> <,,> ah if you want to <,> if you
+
+feel strongly about it they do have kind of flat <,> moulding that you can
+
+get to cover the seams
+
+<$B> <ICE-CAN:S1A-012#188:1:B> <[> Okay </[> </{>
+
+<$B> <ICE-CAN:S1A-012#189:1:B> <,> Well I just want to make sure it's airtight
+
+<$A> <ICE-CAN:S1A-012#190:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1A-012#191:1:B> <,> And they'll be nailed to the beams on this side won't
+
+they
+<ICE-CAN:S1A-012#192:1:B> The beams will be behind it
+
+<$A> <ICE-CAN:S1A-012#193:1:A> Well <}> <-> it </-> <=> it </=> </}> depends <,>
+<ICE-CAN:S1A-012#194:1:A> <}> <-> Not </-> <=> Not </=> </}> necessarily
+<ICE-CAN:S1A-012#195:1:A> <,> If you want <,> the possibility of putting up <{1> <[1>
+
+shelves </[1> on the
+<ICE-CAN:S1A-012#196:1:A> <{2> <[2> side </[2>
+
+<$B> <ICE-CAN:S1A-012#197:1:B> <[1> <-> <?> So </?> </-> </[1> </{1>
+
+<$B> <ICE-CAN:S1A-012#198:1:B> <[2> <}> <=> So </=> </}> </[2> </{2> it would be a good idea
+
+to keep the beams on this side <{1> <[1> <,> </[1> so that I could actually
+
+use it as support for the
+<ICE-CAN:S1A-012#199:1:B> <{2> <[2> shelves </[2>
+
+<$A> <ICE-CAN:S1A-012#200:1:A> <[1> Yeah </[1> </{1>
+
+<$A> <ICE-CAN:S1A-012#201:1:A> <[2> mm hmm mm hmm </[2> </{2>
+
+<$B> <ICE-CAN:S1A-012#202:1:B> Okay
+
+<$A> <ICE-CAN:S1A-012#203:1:A> <,> And then the uprights as well you can use <{> <[>
+
+<unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1A-012#204:1:B> <[> Yeah </[> </{>
+<ICE-CAN:S1A-012#205:1:B> <?> Well </?> <}> <-> <}> <-> if I </-> <=> if I'm </=> </}>
+
+making </-> <=> if I'm putting moulding </=> </}> on there it's for the
+
+people on the other side
+
+<$B> <ICE-CAN:S1A-012#206:1:B> <{> <[> <?> Did you </?> </[>
+
+<$A> <ICE-CAN:S1A-012#207:1:A> <[> So <?> they're </?> not putting </[> </{> moulding on <{>
+
+<[> obviously </[>
+
+<$B> <ICE-CAN:S1A-012#208:1:B> <[> <}> <-> <unclear> a few words </unclear> </-> <=>
+
+<unclear> a few words </unclear> </=> </}> </[> </{>
+
+<$B> <ICE-CAN:S1A-012#209:1:B> It will be airtight though
+<ICE-CAN:S1A-012#210:1:B> That's what I'm concerned <,>
+
+<$A> <ICE-CAN:S1A-012#211:1:A> But why does it have to be I <{> <[> mean <,> <?> why can't
+
+it be </?> </[> open here
+
+<$B> <ICE-CAN:S1A-012#212:1:B> <[> <unclear> word </unclear> I'd like it </[> </{>
+
+<$B> <ICE-CAN:S1A-012#213:1:B> <,> Yeah but this is where the garage door is you know <{>
+
+<[> <,> where all </[> the you know
+
+<$A> <ICE-CAN:S1A-012#214:1:A> <[> Oh right </[> </{>
+
+<$A> <ICE-CAN:S1A-012#215:1:A> Yeah but I mean <}> <-> it's <}> <-> gonna </-> <+> going to
+
+</+> </}> </-> <=> <,> air moves <}> <-> it's <}> <-> gonna </-> <+> going to
+
+</+> </}> </=> </}> get around
+
+<$B> <ICE-CAN:S1A-012#216:1:B> <,,> <O> laugh </O> Uh well <,> <}> <-> what </-> <=> <,> is
+
+there </=> </}> any way <,>
+<ICE-CAN:S1A-012#217:1:B> I <}> <-> spose </-> <+> suppose </+> </}> that would be really
+
+difficult to do would it
+
+<$A> <ICE-CAN:S1A-012#218:1:A> To put in a door
+
+<$B> <ICE-CAN:S1A-012#219:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-012#220:1:A> I don't think that's a good idea there <,> cos then we'd have
+
+to extend that wall to the front
+
+<$B> <ICE-CAN:S1A-012#221:1:B> <,,> But I would like to eventually wall that off you know
+<ICE-CAN:S1A-012#222:1:B> <}> <-> Is that </-> <=> Is that </=> </}> <{> <[> a big </[>
+
+<$A> <ICE-CAN:S1A-012#223:1:A> <[> That can be </[> </{> next year's project
+
+<$B> <ICE-CAN:S1A-012#224:1:B> <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-012#225:1:A> <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-012#226:1:B> Well maybe <@> Dan </@> could help me finish <{1> <[1> off
+
+that part <}> <-> if he uh </[1> </-> <=> cos that's </=> </}> a little bit
+
+more
+<ICE-CAN:S1A-012#227:1:B> <{2> <[2> complicated <,,> to </[2> make a door and
+<ICE-CAN:S1A-012#228:1:B> <{3> <[3> stuff </[3>
+
+<$A> <ICE-CAN:S1A-012#229:1:A> <[1> Mm hmm mm hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1A-012#230:1:A> <[2> Yeah it is <,>
+<ICE-CAN:S1A-012#231:1:A> To make a door </[2> </{2>
+
+<$A> <ICE-CAN:S1A-012#232:1:A> <[3> Uh huh </[3> </{3>
+
+<$B> <ICE-CAN:S1A-012#233:1:B> And he could maybe do that
+<ICE-CAN:S1A-012#234:1:B> <,,> And uh <,> I mean the wall would have to go up <,> <}> <->
+
+onto that piece of uh </-> <=> you know onto the cement </=> </}> <{> <[> <?>
+
+back there </?> </[>
+
+<$A> <ICE-CAN:S1A-012#235:1:A> <[> The cement there </[> </{>
+
+<$B> <ICE-CAN:S1A-012#236:1:B> Cos if it went down there it would just rot
+
+<$A> <ICE-CAN:S1A-012#237:1:A> Yeah
+
+<$B> <ICE-CAN:S1A-012#238:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-012#239:1:A> Well that wouldn't be too hard to do
+<ICE-CAN:S1A-012#240:1:A> I mean that's fairly simple cutting compared to what we're going
+
+to do around the <{> <[> stairs </[>
+
+<$B> <ICE-CAN:S1A-012#241:1:B> <[> Yeah </[> </{> <,>
+<ICE-CAN:S1A-012#242:1:B> <unclear> sentence </unclear> <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-012#243:1:A> <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-012#244:1:B> mm <,> mm
+
+<$A> <ICE-CAN:S1A-012#245:1:A> Uh yes <,> <{> <[> <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-012#246:1:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-012#247:1:A> But for now <}> <-> let's </-> <=> let's </=> </}> <{> <[>
+
+concentrate on what we have </[>
+
+<$B> <ICE-CAN:S1A-012#248:1:B> <[> Let's at least get this done </[> </{> <,> yeah
+
+<$B> <ICE-CAN:S1A-012#249:1:B> Yeah <,>
+<ICE-CAN:S1A-012#250:1:B> Well okay
+<ICE-CAN:S1A-012#251:1:B> Well let's see now what else do I have to remember to ask for <,>
+<ICE-CAN:S1A-012#252:1:B> They're <}> <-> gonna </-> <+> going to </+> </}> deliver all this
+
+stuff aren't they
+
+<$A> <ICE-CAN:S1A-012#253:1:A> Yeah
+
+<$B> <ICE-CAN:S1A-012#254:1:B> Yeah
+<ICE-CAN:S1A-012#255:1:B> That's right
+
+<$A> <ICE-CAN:S1A-012#256:1:A> <,,> Yeah you should probably have them deliver it to the
+
+<{1> <[1> garage </[1> so that we can just take it right down
+<ICE-CAN:S1A-012#257:1:A> <{2> <[2> to the </[2> basement
+
+<$B> <ICE-CAN:S1A-012#258:1:B> <[1> Uh huh </[1> </{1>
+
+<$B> <ICE-CAN:S1A-012#259:1:B> <[2> Yeah </[2> </{2>
+
+<$B> <ICE-CAN:S1A-012#260:1:B> I remember <}> <-> what I was <}> <-> gonna </-> <+> going to
+
+</+> </}> </-> <=> what I was <}> <-> gonna </-> <+> going to </+> </}> </=>
+
+</}> ask about cos
+<ICE-CAN:S1A-012#261:1:B> <,> Remember I told you that over here <{> <[> floods <,> </[>
+
+sometimes
+
+<$A> <ICE-CAN:S1A-012#262:1:A> <[> Yeah </[> </{>
+<ICE-CAN:S1A-012#263:1:A> Yeah
+
+<$B> <ICE-CAN:S1A-012#264:1:B> And I'm concerned about uh <,,>
+<ICE-CAN:S1A-012#265:1:B> <?> What it is </?> this is where the other uh cement uh shed you
+
+<{1> <[1> know <,> </[1>
+<ICE-CAN:S1A-012#266:1:B> <{2> <[2> things are and </[2> this is where the flooding is and
+
+it mostly stays along this side but
+
+<$A> <ICE-CAN:S1A-012#267:1:A> <[1> Mm hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1A-012#268:1:A> <[2> Mm hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1A-012#269:1:A> Oh that's right
+<ICE-CAN:S1A-012#270:1:A> Get some sealer some wood sealer
+
+<$B> <ICE-CAN:S1A-012#271:1:B> Some wood sealer <,>
+<ICE-CAN:S1A-012#272:1:B> Yeah
+<ICE-CAN:S1A-012#273:1:B> <,,> C E L E R <O> laugh </O>
+<ICE-CAN:S1A-012#274:1:B> <{> <[> <mention> wood sealer </mention> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-012#275:1:A> <[> S <,> E A L E R </[> </{>
+
+<$B> <ICE-CAN:S1A-012#276:1:B> I like my spelling better
+
+<$A> <ICE-CAN:S1A-012#277:1:A> It's more creative
+
+<$B> <ICE-CAN:S1A-012#278:1:B> It is isn't it <,> <O> laugh </O>
+<ICE-CAN:S1A-012#279:1:B> It's uh <,,> more along the line of uhm <,,> Esperanto isn't it
+
+<$A> <ICE-CAN:S1A-012#280:1:A> I don't know
+<ICE-CAN:S1A-012#281:1:A> I don't know <.> Es </.>
+<ICE-CAN:S1A-012#282:1:A> I thought Esperanto was <,> more based on Spanish
+
+<$B> <ICE-CAN:S1A-012#283:1:B> Oh I don't know
+
+<$A> <ICE-CAN:S1A-012#284:1:A> Neither do I
+
+<$B> <ICE-CAN:S1A-012#285:1:B> <O> laugh </O> <,>
+<ICE-CAN:S1A-012#286:1:B> Anyway <,> okay so wood sealer and a <,> nail gun and <{> <[>
+
+<unclear> word </unclear>
+<ICE-CAN:S1A-012#287:1:B> <?> So </?> </[> my goodness <unclear> two words </unclear>
+
+<$A> <ICE-CAN:S1A-012#288:1:A> <[> <}> <-> Now </-> </[> </{> <,,> <=> Now </=> </}> <,> ask
+
+<@> Dan </@> about the nail gun because he may have to get shells for it
+
+<$B> <ICE-CAN:S1A-012#289:1:B> Shells
+
+<$A> <ICE-CAN:S1A-012#290:1:A> Yeah it uses shells
+
+<$B> <ICE-CAN:S1A-012#291:1:B> Oh <,,>
+
+<$A> <ICE-CAN:S1A-012#292:1:A> Or cartridges or whatever they're called
+
+<$B> <ICE-CAN:S1A-012#293:1:B> <{> <[> Hmm </[>
+
+<$A> <ICE-CAN:S1A-012#294:1:A> <[> It fires </[> </{> the nails <{> <[> into the </[>
+
+<$B> <ICE-CAN:S1A-012#295:1:B> <[> Hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-012#296:1:A> That's why they go into <{> <[> the cement </[>
+
+<$B> <ICE-CAN:S1A-012#297:1:B> <[> Okay so </[> </{> I'll have to check with <?> you then
+
+</?> to see how thing works
+
+<$A> <ICE-CAN:S1A-012#298:1:A> Yeah <,,>
+<ICE-CAN:S1A-012#299:1:A> Now we had some renovations done at the office last year <,> as
+
+you know
+
+<$B> <ICE-CAN:S1A-012#300:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1A-012#301:1:A> And uh when they put up the walls <,> they used a nail gun
+
+<{> <[> <,> </[>
+
+<$B> <ICE-CAN:S1A-012#302:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1A-012#303:1:A> And afterwards we found all these shell casings all over the
+
+place <,> and <,>
+<ICE-CAN:S1A-012#304:1:A> It was a bit worrying <{1> <[1> till we realized what they <,> had
+
+come </[1>
+<ICE-CAN:S1A-012#305:1:A> <{2> <[2> from </[2>
+
+<$B> <ICE-CAN:S1A-012#306:1:B> <[1> <O> laugh </O> </[1> </{1>
+
+<$B> <ICE-CAN:S1A-012#307:1:B> <[2> Gosh </[2> </{2> I wonder if that's <unclear> a few
+
+words </unclear> <?> thinking </?>
+
+<$A> <ICE-CAN:S1A-012#308:1:A> I don't know <,>
+<ICE-CAN:S1A-012#309:1:A> But it saves so much <{> <[> time </[>
+
+<$B> <ICE-CAN:S1A-012#310:1:B> <[> Time </[> </{>
+
+<$A> <ICE-CAN:S1A-012#311:1:A> Yeah
+
+<$B> <ICE-CAN:S1A-012#312:1:B> And it's really been <?> in </?> <,> like it'd </?> be in
+
+</?> solid wall right
+
+<$A> <ICE-CAN:S1A-012#313:1:A> Well yeah
+
+<$B> <ICE-CAN:S1A-012#314:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-012#315:1:A> <,> Cos I'm not driving those nails into the cement with a
+
+hammer
+
+<$B> <ICE-CAN:S1A-012#316:1:B> No
+
+<$A> <ICE-CAN:S1A-012#317:1:A> No
+
+<$B> <ICE-CAN:S1A-012#318:1:B> <,> How would they do it otherwise <}> <-> without a </-> <=>
+
+<?> without a <?> </=> </}> nail gun what would </?> they </?> do <,,>
+
+<$A> <ICE-CAN:S1A-012#319:1:A> Hmm
+<ICE-CAN:S1A-012#320:1:A> <unclear> two or three words </unclear> lean it up against a
+
+<$A> <ICE-CAN:S1A-012#321:1:A> Well <,> uhm <,>
+<ICE-CAN:S1A-012#322:1:A> They'd have to find another way of attaching <}> <-> the </-> <=>
+
+the </=> </}> base <,> to the uh <,> floor
+<ICE-CAN:S1A-012#323:1:A> <{> <[> <unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1A-012#324:1:B> <[> <?> That'll </?> </[> </{> certainly make it a lot easier
+
+<$A> <ICE-CAN:S1A-012#325:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1A-012#326:1:B> It's a good thing <?> that I </?> found it
+
+<$A> <ICE-CAN:S1A-012#327:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1A-012#328:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-012#329:1:A> Ask him too just <,> in case <,> uh ask him if he has a chalk
+
+line
+
+<$B> <ICE-CAN:S1A-012#330:1:B> Okay <,,>
+<ICE-CAN:S1A-012#331:1:B> <O> loud breath out </O> I know he has all kinds of stuff and then
+
+<,> you know <,>
+
+<$A> <ICE-CAN:S1A-012#332:1:A> Yeah
+
+<$B> <ICE-CAN:S1A-012#333:1:B> But uh <,> tucked away in his basement or something <{1> <[1>
+
+cos </[1> he doesn't do this kind of stuff very much
+<ICE-CAN:S1A-012#334:1:B> <{2> <[2> anymore </[2>
+
+<$A> <ICE-CAN:S1A-012#335:1:A> <[1> <?> Mm hmm </?> </[1> </{1>
+
+<$A> <ICE-CAN:S1A-012#336:1:A> <[2> Yeah </[2> </{2>
+
+<$A> <ICE-CAN:S1A-012#337:1:A> <?> Well </?> and this uh chalk line would be handy cos then
+
+<{1> <[1> <,> you </[1> could put a couple of marks on the
+<ICE-CAN:S1A-012#338:1:A> <{2> <[2> floor <,> so </[2> you have the chalk line to <{3> <[3>
+
+<unclear> word </unclear> </[3>
+
+<$B> <ICE-CAN:S1A-012#339:1:B> <[1> Yeah </[1> </{1>
+
+<$B> <ICE-CAN:S1A-012#340:1:B> <[2> Yeah </[2> </{2>
+
+<$B> <ICE-CAN:S1A-012#341:1:B> <[3> Yeah </[3> </{3>
+<ICE-CAN:S1A-012#342:1:B> Yeah I know
+
+<$A> <ICE-CAN:S1A-012#343:1:A> All done
+
+<$B> <ICE-CAN:S1A-012#344:1:B> Then you have a nice straight line
+
+<$A> <ICE-CAN:S1A-012#345:1:A> Yeah
+
+<$B> <ICE-CAN:S1A-012#346:1:B> Yeah
+<ICE-CAN:S1A-012#347:1:B> Hmm <,,>
+<ICE-CAN:S1A-012#348:1:B> Well I'm very excited about this
+
+<$A> <ICE-CAN:S1A-012#349:1:A> Yeah you want to start tonight
+
+<$B> <ICE-CAN:S1A-012#350:1:B> Yes I do <,>
+
+<$A> <ICE-CAN:S1A-012#351:1:A> <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-012#352:1:B> I <}> <-> wanna </-> <+> want to </+> </}> go right down
+
+there and start working with those two <,> two by fours that I've got there
+
+cos uh <,>
+<ICE-CAN:S1A-012#353:1:B> Are <?> these </?> <}> <-> gonna </-> <+> going to </+> </}> fit
+
+here
+<ICE-CAN:S1A-012#354:1:B> Oh that <?> totally </?> will
+
+<$A> <ICE-CAN:S1A-012#355:1:A> No
+
+<$B> <ICE-CAN:S1A-012#356:1:B> <O> laugh </O> Oh no <,> <unclear> two or three words
+
+</unclear>
+
+<$A> <ICE-CAN:S1A-012#357:1:A> No
+
+<$B> <ICE-CAN:S1A-012#358:1:B> Oh <?>
+
+<$B> </?>
+<ICE-CAN:S1A-012#359:1:B> Oh well
+
+<$A> <ICE-CAN:S1A-012#360:1:A> Besides <,> it's <}> <-> kinda </-> <+> kind of </+> </}>
+
+late at night to start hammering things into the main beams that <{> <[>
+
+support the house </[> <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-012#361:1:B> <[> <}> <unclear> word </unclear> I know it </[> </{> is
+
+<$A> <ICE-CAN:S1A-012#362:1:A> Yeah right
+
+<$B> <ICE-CAN:S1A-012#363:1:B> <O> laugh </O> </I>

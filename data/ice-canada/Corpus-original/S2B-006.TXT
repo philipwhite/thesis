@@ -1,0 +1,400 @@
+<I>
+<ICE-CAN:S2B-006#1:1> <&> tape starts mid sentence </&> Out of that organization
+<ICE-CAN:S2B-006#2:1> That's coming up later this half hour
+<ICE-CAN:S2B-006#3:1> It is sixteen minutes now after eight o'clock
+<ICE-CAN:S2B-006#4:1> Canada's banks are turning in <,> billion dollar profits but several
+
+other economic indicators are gloomy
+<ICE-CAN:S2B-006#5:1> <@> Matt Sawyer </@> is a Calgary writer
+<ICE-CAN:S2B-006#6:1> On Commentary he suggests that huge bank profits are a sign of
+
+economic <,> sickness <O> monologue </O>
+<ICE-CAN:S2B-006#7:1> <@> Matt Sawyer </@> is a Calgary-based author
+<ICE-CAN:S2B-006#8:1> His most recent book is Hustling For A Buck The Adventure Of Living
+
+Self-Employed
+<ICE-CAN:S2B-006#9:1> It is <,> nineteen minutes now after eight
+<ICE-CAN:S2B-006#10:1> This is Daybreak
+<ICE-CAN:S2B-006#11:1> Yesterday <,> here in Montreal the world anti-fascist league and S O
+
+S fascism <&> French pronunciation </&> held a press conference to denounce
+
+the <foreign> Mouvemente du Lib&eacute;ration National du </foreign>
+
+Qu&eacute;bec
+<ICE-CAN:S2B-006#12:1> That's a group that came to light last week
+<ICE-CAN:S2B-006#13:1> Well last week we had a chance to speak with one man who was supposed
+
+to be part of a <,> founding public meeting for the movement this weekend
+<ICE-CAN:S2B-006#14:1> Now it appears he will not participate
+<ICE-CAN:S2B-006#15:1> <@> Roy Dufour </@> of the <foreign> mouvement imp&eacute;ratif
+
+fran&ccedille;ais </foreign> of <indig> Outaouais </indig> joins us now </I>
+
+
+<I>
+<ICE-CAN:S2B-006#16:2> Uh right now a couple of problems
+<ICE-CAN:S2B-006#17:2> A multi-vehicle accident on the Met westbound at Montigny in the left
+
+hand lane backing things up to <,> the <,> Anjou interchange
+<ICE-CAN:S2B-006#18:2> Highway Twenty westbound an accident just removed there but the
+
+damage done it's backing traffic up to the Mercier bridge and on the
+
+Ville-Marie westbound
+<ICE-CAN:S2B-006#19:2> Also an accident just removed on the Jacques-Cartier northbound a
+
+three vehicle accident on the span
+<ICE-CAN:S2B-006#20:2> Thirteen south of course another hard day there
+<ICE-CAN:S2B-006#21:2> Uh Laurentien autoroute not much better cos a lot of people are using
+
+that instead and that's backing to the Mille i&icircumflexle bridge </I>
+
+
+<I>
+<ICE-CAN:S2B-006#22:3> The sun is out <,,> and the uhh temperature is rising
+<ICE-CAN:S2B-006#23:3> It's up to minus five now throughout the day we'll have a nice mix of
+
+sun and cloud
+<ICE-CAN:S2B-006#24:3> A high maybe of upwards of minus two for midtown Montreal
+<ICE-CAN:S2B-006#25:3> Cold overnight tonight skies clearing down to minus fifteen we're
+
+heading for a sunny and cold Friday
+<ICE-CAN:S2B-006#26:3> A high of only minus eight
+<ICE-CAN:S2B-006#27:3> A little bit of snow on the way for Saturday </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-006#28:4:A> Good morning I'm <@> John Howard </@> with the C B C News for
+
+Quebec
+<ICE-CAN:S2B-006#29:4:A> The Wolverine anti-biker task force claims to have found evidence
+
+linking the Hells Angels to several violent crimes in its war with the Rock
+
+Machine motorcycle gang
+<ICE-CAN:S2B-006#30:4:A> The police say the evidence was found in a raid on a Hells chapter
+
+in Trois-Rivi&egrave;res last night
+<ICE-CAN:S2B-006#31:4:A> One man was arrested there
+<ICE-CAN:S2B-006#32:4:A> Other members of the task force raided the rowdy crew club house at
+
+the same time
+<ICE-CAN:S2B-006#33:4:A> They picked up three men and a women wanted by police
+<ICE-CAN:S2B-006#34:4:A> M U C <&> Montreal city police </&> police say they're questioning
+
+a twenty-one year-old man in connection with the firing of twenty shots
+
+through the window of the <mention> Ebony and Ivory </mention> Hair Salon in
+
+Montreal's Saint-Henri district
+<ICE-CAN:S2B-006#35:4:A> They say the shots came from a passing car
+<ICE-CAN:S2B-006#36:4:A> No one was injured in the incident at one twenty this morning
+<ICE-CAN:S2B-006#37:4:A> About seventy-five people who live in Montreal's N D G district
+
+turned out in support of their local library last night
+<ICE-CAN:S2B-006#38:4:A> The Benny Library is one of four scheduled to be closed next year
+
+because of the Bourque administration's budget cutting
+<ICE-CAN:S2B-006#39:4:A> <@> Mary Hailey </@> reports the people who use it are fighting
+
+hard to save it
+
+<$Z> <ICE-CAN:S2B-006#40:4:Z> <X> French </X>
+
+<$B> <ICE-CAN:S2B-006#41:4:B> <@> Marie Bourdain </@> could hardly get a word in edgewise
+<ICE-CAN:S2B-006#42:4:B> She's a councillor responsible for the City's cultural dossier <,>
+
+and the one who had to face the anger
+
+<$C> <ICE-CAN:S2B-006#43:4:C> <{> <[> <X> speech </X> </[>
+
+<$B> <ICE-CAN:S2B-006#44:4:B> <[> People here believe </[> </{> the Bourque administration
+
+lacks vision
+<ICE-CAN:S2B-006#45:4:B> It's a quick cut they say and not the long-term planning the City
+
+should be doing
+
+<$Z> <ICE-CAN:S2B-006#46:4:Z>
+<ICE-CAN:S2B-006#47:4:Z> <X> French </X>
+
+<$B> <ICE-CAN:S2B-006#48:4:B> <quote> It's easier to cut libraries than deal with real
+
+problems like the blue collars </quote> this man said
+<ICE-CAN:S2B-006#49:4:B> Many also worry that many children and senior citizens who live
+
+here won't be able to travel the longer distance <,> to another library
+
+<$D> <ICE-CAN:S2B-006#50:4:D> <X> speech </X>
+
+<$B> <ICE-CAN:S2B-006#51:4:B> But the City says it's not backing down
+<ICE-CAN:S2B-006#52:4:B> <@> Marie Bourdain </@> admits the public was not consulted before
+
+the decision but she insists people will have a say when the City tries to
+
+come up with ways to compensate for the library's loss
+<ICE-CAN:S2B-006#53:4:B> <@> Mary Hailey </@> C B C News Montreal
+
+<$A> <ICE-CAN:S2B-006#54:4:A> About forty parents met last night to try to come up with ways
+
+of keeping the Statacona Elementary school in Quebec City's Limoilou district
+
+open next year
+<ICE-CAN:S2B-006#55:4:A> Catholic School Commission officials say <quote> it's too expensive
+
+to keep open for eighty-five students </quote>
+<ICE-CAN:S2B-006#56:4:A> <@> Jorge Demichlin </@> the head of the <w> Parents' </w>
+
+Association of the school says Statacona is important to parents and children
+
+in the area
+
+<$E> <ICE-CAN:S2B-006#57:4:E> <X> speech </X>
+
+<$A> <ICE-CAN:S2B-006#58:4:A> <@> Demichlin </@> says the parents want to make their case to
+
+the Education Minister in person
+<ICE-CAN:S2B-006#59:4:A> He says they're worried other smaller schools would follow if
+
+Statacona were to close
+<ICE-CAN:S2B-006#60:4:A> Downtown Montreal is to get a thousand more parking meters next
+
+year
+<ICE-CAN:S2B-006#61:4:A> The announcement comes from Parking Montreal the firm that's taken
+
+over parking responsibilies from the City
+<ICE-CAN:S2B-006#62:4:A> The Chamber of Commerce in metropolitan Montreal runs Parking
+
+Montreal
+<ICE-CAN:S2B-006#63:4:A> They say the thousand meters are part of three thousand that are
+
+going to appear in the city over the next several years
+<ICE-CAN:S2B-006#64:4:A> An independant firm Arran Research has concluded the French
+
+networks of the C B C covered the referendum campaign fairly
+<ICE-CAN:S2B-006#65:4:A> Prime Minister Chretien and other Liberals were critical of Radio
+
+Canada's coverage
+<ICE-CAN:S2B-006#66:4:A> The Parizeau government has introduced a bill which will require
+
+people to use the Quebec Rental Board's standard lease
+<ICE-CAN:S2B-006#67:4:A> The form costs two dollars
+<ICE-CAN:S2B-006#68:4:A> The Quebec Court of Appeal is scheduled to hear <@> Ray
+
+Fran&ccedille;ois Brebeuf's </@> case today
+<ICE-CAN:S2B-006#69:4:A> <@> Brebeuf </@> is fighting his extradition to Florida <,> to
+
+stand trial on charges of importing and distributing drugs in the United
+
+States
+<ICE-CAN:S2B-006#70:4:A> He says Crown prosecutors broke their promise to him
+<ICE-CAN:S2B-006#71:4:A> <@> David Slobo </@> reports
+
+<$F> <ICE-CAN:S2B-006#72:4:F> Authorities on both sides of the border claim <@> Brebeuf </@>
+
+has been a drug trafficker for years
+<ICE-CAN:S2B-006#73:4:F> He was caught tried and sentenced in Montreal last year to seven
+
+years in prison
+<ICE-CAN:S2B-006#74:4:F> During the proceedings the United States requested his extradition
+<ICE-CAN:S2B-006#75:4:F> And <@> Brebeuf </@> says he made a deal with prosecutors he would
+
+be sent to Florida immediately
+<ICE-CAN:S2B-006#76:4:F> He says he <quote> wanted to go to trial quickly </quote>
+<ICE-CAN:S2B-006#77:4:F> Instead he says Canadian officals delayed his extradition until now
+<ICE-CAN:S2B-006#78:4:F> <@> Brebeuf </@> says that's not fair because two of his main
+
+witnesses have died
+<ICE-CAN:S2B-006#79:4:F> One of <@> Brebeuf's </@> supporters <@> Joanne Sleaman </@> of the
+
+Church Council for Justice in Corrections says it would be unfair to
+
+extradite now
+<ICE-CAN:S2B-006#80:4:F> <@> Sleaman </@> says Brebeuf faces a sentence of up to thirty
+
+years without parole
+
+<$G> <ICE-CAN:S2B-006#81:4:G> <X> speech </X>
+
+<$F> <ICE-CAN:S2B-006#82:4:F> <@> Sleaman </@> says <quote> <@> Brebeuf </@> should be
+
+allowed to serve out the rest of his sentence in Quebec </quote>
+<ICE-CAN:S2B-006#83:4:F> It's not known when the Court of Appeal will render a judgement
+<ICE-CAN:S2B-006#84:4:F> <@> Davis Slobo </@> C B C News at the Montreal Courthouse
+
+<$E> <ICE-CAN:S2B-006#85:4:E> The University of Montreal has adopted its Rector's plan to
+
+cut the university's budget by forty-five million dollars over the next two
+
+and a half years.
+<ICE-CAN:S2B-006#86:4:E> One hundred and ninety teaching positions are to be eliminated
+<ICE-CAN:S2B-006#87:4:E> Five hundred non-teaching positions will also go
+<ICE-CAN:S2B-006#88:4:E> <indig> Le Soleil </indig> say <quote> the coast gaurd may have
+
+difficulty staying within its budget for clearing ice in the Saint-Lawrence
+
+River </quote>
+<ICE-CAN:S2B-006#89:4:E> That's because ice has already formed in the river
+<ICE-CAN:S2B-006#90:4:E> The newspaper says <quote> it's three weeks earlier that normal
+
+</quote>
+<ICE-CAN:S2B-006#91:4:E> There's money buried in mudflats around the Gasp&eacute;
+<ICE-CAN:S2B-006#92:4:E> It's not in the form of cash
+<ICE-CAN:S2B-006#93:4:E> What we're talking about are clams
+<ICE-CAN:S2B-006#94:4:E> Local residents have been selling them for years
+<ICE-CAN:S2B-006#95:4:E> But now there's a debate about how much should be taken and how the
+
+wealth should be shared
+<ICE-CAN:S2B-006#96:4:E> <@> Don Lovelette </@> has the story
+
+<$H> <ICE-CAN:S2B-006#97:4:H> <O> groan </O>
+
+<$I> <ICE-CAN:S2B-006#98:4:I> It's ten below and <@> Guillaume Deneuve </@> is kneeling in
+
+the mud and sea water <,,> digging for clams with his hands
+<ICE-CAN:S2B-006#99:4:I> He does this <,> for fun
+<ICE-CAN:S2B-006#100:4:I> He's found enough for supper but he believes the clam stocks are
+
+declining
+<ICE-CAN:S2B-006#101:4:I> Many people think so
+<ICE-CAN:S2B-006#102:4:I> So a group of volunteers are on the mud flats of the Saint-Jean
+
+River to do a clam survey
+
+<$Z> <ICE-CAN:S2B-006#103:4:Z> <X> French </X>
+<ICE-CAN:S2B-006#104:4:Z> But it doesn't go well
+<ICE-CAN:S2B-006#105:4:Z> The water is unexpectedly high
+<ICE-CAN:S2B-006#106:4:Z> They'll have to come back next spring
+<ICE-CAN:S2B-006#107:4:Z> Biologist <@> Dave Frederick </@> is one of those who believe the
+
+flats can sustain a managed fishery
+<ICE-CAN:S2B-006#108:4:Z> But first you need some data
+
+<$J> <ICE-CAN:S2B-006#109:4:J> <X> speech </X>
+<ICE-CAN:S2B-006#110:4:J> It's been estimated clam beds around the Gasp&eacute; could yield
+
+four million dollars worth of clams per year
+<ICE-CAN:S2B-006#111:4:J> That's worth a few jobs so once the survey is done expect a debate
+
+between environmentalists local clam diggers <,,> and dealers
+<ICE-CAN:S2B-006#112:4:J> <@> Don Lovelette </@> C B C News Douglastown
+
+<$E> <ICE-CAN:S2B-006#113:4:E> That was the C B C News for Quebec
+
+<$K> <ICE-CAN:S2B-006#114:4:K> Thanks very much <@> Bill </@>
+<ICE-CAN:S2B-006#115:4:K> It is twenty-three minutes before nine
+<ICE-CAN:S2B-006#116:4:K> Good morning
+<ICE-CAN:S2B-006#117:4:K> I'm <unclear> Hoyle </unclear>
+<ICE-CAN:S2B-006#118:4:K> Thanks for being with us for our last half hour this morning
+<ICE-CAN:S2B-006#119:4:K> We had a little bit of sunshine there for a while but it slipped
+
+back behind the cloud
+<ICE-CAN:S2B-006#120:4:K> Throughout the day we're expecting a mixture of sun and cloud
+<ICE-CAN:S2B-006#121:4:K> Currently minus five
+<ICE-CAN:S2B-006#122:4:K> Tempuratures starting to rise
+<ICE-CAN:S2B-006#123:4:K> We could get as high as minus two <,> for midtown Montreal
+<ICE-CAN:S2B-006#124:4:K> Overnight tonight skies will be clearing out completely
+<ICE-CAN:S2B-006#125:4:K> Tempuratures dropping down uhh
+<ICE-CAN:S2B-006#126:4:K> Quite cold
+<ICE-CAN:S2B-006#127:4:K> Minus fifteen <,> and quite cold tomorrow
+<ICE-CAN:S2B-006#128:4:K> Although we'll have lots of sunshine and a high of minus eight
+<ICE-CAN:S2B-006#129:4:K> For the weekend there is a storm on the way for Saturday
+<ICE-CAN:S2B-006#130:4:K> At this point it's not looking like we'll get more than five
+
+centimeters or so
+<ICE-CAN:S2B-006#131:4:K> But we spoke to <@> Phil Boondocks </@> this morning from
+
+Environment Canada and he said <quote> they're keeping a close eye on it cos
+
+it could develop into more </quote>
+<ICE-CAN:S2B-006#132:4:K> At this point though the longer range forecast suggesting we'll be
+
+back into a mixture of sun and cloud <,,> for <,> Sunday
+<ICE-CAN:S2B-006#133:4:K> Tempuratures warming up quite a bit though <,> after minus eight
+
+for tomorrow
+<ICE-CAN:S2B-006#134:4:K> Well minus two for today minus eight for tomorrow uh up around
+
+minus three minus two degrees for the weekend
+<ICE-CAN:S2B-006#135:4:K> Twenty two minutes now before nine
+<ICE-CAN:S2B-006#136:4:K> <@> Hugo </@> is with us as well
+<ICE-CAN:S2B-006#137:4:K> Good morning <@> Hugo </@>
+
+<$L> <ICE-CAN:S2B-006#138:4:L> Yes well uh lots of pressure on <}> <-> the uh </-> <=> the
+
+</=> </}> D&eacute;carie interchange because of a stalled vehicle
+
+D&eacute;carie southbound at Jean-Talon
+<ICE-CAN:S2B-006#139:4:L> It's on the left side
+<ICE-CAN:S2B-006#140:4:L> Mais westbound right after the <indig> Anjou </indig> interchange
+
+we have a six car accident <,,> on the uhh left side
+<ICE-CAN:S2B-006#141:4:L> If you're coming in from the westbound we had an accident earlier
+
+Twenty east at Thirteen
+<ICE-CAN:S2B-006#142:4:L> They've just cleaned up that accident
+<ICE-CAN:S2B-006#143:4:L> Twenty west <,> after the Ville-Saint-Pi&egrave;rre interchange
+<ICE-CAN:S2B-006#144:4:L> And it effect <&> not " effects" </&> a great deal uhh on the uh
+
+the traffic on Mercier bridge right now so beware that accident's been
+
+cleared up but it remain <&> not " remains" </&> very slow
+<ICE-CAN:S2B-006#145:4:L> Mainly on the uhh Twenty west ah from the uhh Turcotte interchange
+<ICE-CAN:S2B-006#146:4:L> It's not any better on D&eacute;carie north
+<ICE-CAN:S2B-006#147:4:L> It's been a while since we had <}> <-> a </-> <=> an </=> </}>
+
+anecdote in traffic
+<ICE-CAN:S2B-006#148:4:L> I've got one <,> this morning
+<ICE-CAN:S2B-006#149:4:L> An uncomfirmed report that one motorist been arrested on highway
+
+Thirteen <,,> south in that reserve <&> not " reserved" </&> lane
+<ICE-CAN:S2B-006#150:4:L> He had <,> seated next to him <,> a mannequin
+<ICE-CAN:S2B-006#151:4:L> So he was sort of respecting the rules
+<ICE-CAN:S2B-006#152:4:L> Not exactly
+<ICE-CAN:S2B-006#153:4:L> But <O> laugh </O> <}> <-> the </-> <=> the </=> </}> police
+
+caught him over the last hour or so
+<ICE-CAN:S2B-006#154:4:L> That's maybe one suggestions <&> not 'suggestion' </&> for some
+
+that want to just go around the rule <&> not " rules" </&>
+
+<$K> <ICE-CAN:S2B-006#155:4:K> Thanks very much <@> Hugo </@>
+<ICE-CAN:S2B-006#156:4:K> We had that idea two days ago from uhh <@> Doug </@> right here in
+
+the studio
+<ICE-CAN:S2B-006#157:4:K> It's twenty-one minutes now before nine
+
+<$M> <ICE-CAN:S2B-006#158:4:M> Tens of thousands of Quebec families are getting up today and
+
+facing another hectic day with a hyperactive child
+<ICE-CAN:S2B-006#159:4:M> Tens of thousands of kids are getting out of bed to another day of
+
+yelling and frustration
+<ICE-CAN:S2B-006#160:4:M> It is tough on the family but it is also tough on the child being
+
+hyperactive
+<ICE-CAN:S2B-006#161:4:M> Hyperactivity is also known as attention defecit disorder
+<ICE-CAN:S2B-006#162:4:M> And today I'm going to be joined by a parent <,> a doctor <,> and
+
+a young woman who grew up hyperactive and continues to struggle with it
+<ICE-CAN:S2B-006#163:4:M> I'm <@> Jennie Denny </@>
+<ICE-CAN:S2B-006#164:4:M> We want to hear your experiences with hyperactivity
+
+<$K> <ICE-CAN:S2B-006#165:4:K> That's today on Radio Noon
+<ICE-CAN:S2B-006#166:4:K> Thanks very much <@> Jennie </@>
+<ICE-CAN:S2B-006#167:4:K> Twenty minutes now before nine
+<ICE-CAN:S2B-006#168:4:K> Coming up next <@> Samuel Derry </@> </I>
+
+
+<I>
+<ICE-CAN:S2B-006#169:5:K> Ten minutes now before nine here on Daybreak
+<ICE-CAN:S2B-006#170:5:K> You've been hearing on World Report throughout the morning about
+
+the Galileo space probe
+<ICE-CAN:S2B-006#171:5:K> We've been hearing from <@> Doug Mackenzie </@> who is of course
+
+the host of Quirks and Quarks <,> the National Science Program on C B C <&>
+
+canadian broadcasting corporation </&> Radio </I>

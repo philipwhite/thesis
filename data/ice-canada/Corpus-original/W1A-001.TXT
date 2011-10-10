@@ -1,0 +1,363 @@
+<I>
+<ICE-CAN:W1A-001#1:1> <h> The Critique of Fiction and Philosophy in <}> <-> Votaire's </->
+
+<+> Voltaire's </+> </}> <ul> Candide </ul> </h>
+
+<p> <ICE-CAN:W1A-001#2:1> The strong personal views of Voltaire can easily be found through
+
+his caricature of characters in his black comedy <ul> Candide </ul> .
+<ICE-CAN:W1A-001#3:1> These characters, through their obvious ridiculousness, critique many
+
+beliefs and poke fun at many people without openly attacking them in much the
+
+same way Dante did in his <ul> Inferno </ul> .
+<ICE-CAN:W1A-001#4:1> On the whole, however, <ul> Candide </ul> is a double-edged criticism:
+
+it mocks the artificial order of fiction, while ridiculing what Voltaire sees
+
+as the equally artificial order of philosophical optimism. </p>
+
+<p> <ICE-CAN:W1A-001#5:1> The first of these two criticisms, that of fiction in general,
+
+becomes evident immediately and gains power as the plot unfolds and grows
+
+more fantastic.
+<ICE-CAN:W1A-001#6:1> Voltaire parodies the seemingly " coincidental" occurrences that
+
+conveniently make up most fiction by making these coincidences so absurd that
+
+they become simply ludicrous.
+<ICE-CAN:W1A-001#7:1> Examples of this within the text are numerous: Cunegonde and her
+
+brother are supposedly dead, but appear at opportune times ( Cunegonde in
+
+time to see Candide flogged and to save him afterwards, her brother in time
+
+to gain favour with the Jesuits).
+<ICE-CAN:W1A-001#8:1> Her brother is supposedly killed again, this time by Candide himself,
+
+but even this is not permanent as he once again comes to life in time to
+
+forgive Candide and come to his aid once again.
+<ICE-CAN:W1A-001#9:1> The miraculous healing of <w> Pangloss' </w> syphilis and his
+
+seemingly permanent condition of having been hanged; the equally miraculous
+
+healing of Candide's back after being flogged within an inch of his life not
+
+once, but twice; the incredible story of the old woman whose traumatic
+
+experiences seem to continue endlessly - - all of these events occur one
+
+after another, and though they are considered fortunate by the characters,
+
+they are still seen as possible.
+<ICE-CAN:W1A-001#10:1> The occurrence of all these events in the same story, and the
+
+attitude the characters take towards them together make it impossible to view
+
+the book as anything but a mockery of fiction itself. </p>
+
+<p> <ICE-CAN:W1A-001#11:1> Another aspect of the story that implies a parody of standard
+
+fiction is the division of the book, and Candide's adventure, into three
+
+symmetrical parts of ten chapters each.
+<ICE-CAN:W1A-001#12:1> Candide's adventures in Europe are neatly fit into the first ten
+
+chapters, at which point he goes to sea to spend the next ten chapters in
+
+South America.
+<ICE-CAN:W1A-001#13:1> After the completion his adventures there, the story returns to
+
+Europe for the final ten chapters while Candide searches for Cunegonde, a
+
+search which is finally resolved and neatly concluded in chapter thirty.
+<ICE-CAN:W1A-001#14:1> This even division of the story is yet another parody of neatly
+
+ordered fiction which often seems to peak, trough and resolve conflicts at
+
+just the right times. </p>
+
+<p> <ICE-CAN:W1A-001#15:1> The second criticism Voltaire is making in <ul> Candide </ul> is
+
+of the philosophical optimism which was peaking in popularity at the time of
+
+its writing.
+<ICE-CAN:W1A-001#16:1> It is in this criticism that we see Voltaire's personal philosophical
+
+views reflected in the novel.
+<ICE-CAN:W1A-001#17:1> By abusing the optimistic philosophy and taking it to an extreme
+
+through the character of Pangloss, he ridicules and tries to discredit those
+
+philosophers who preached it.
+<ICE-CAN:W1A-001#18:1> But to understand the extreme Voltaire was taking this philosophy to,
+
+we must first examine what it was he was trying to discredit. </p>
+
+<p> <ICE-CAN:W1A-001#19:1> A major proponent of the philosophical optimism Voltaire
+
+disagreed with was Alexander Pope, and he expressed his views in question in
+
+his <ul> Essay on Man </ul> .
+<ICE-CAN:W1A-001#20:1> Pope's strongest assertion is best summed up in the last line of his
+
+first epistle, where he writes that <quote> " One thing is clear, WHATEVER
+
+IS, IS RIGHT." </quote> <fnr> 1 </fnr>
+<ICE-CAN:W1A-001#21:1> By this he does not mean that there is no evil in the world, but this
+
+evil is necessary for the general good, so that man may choose between good
+
+and evil. <fnr> 2 </fnr>
+<ICE-CAN:W1A-001#22:1> Another philosophy that Candide aims more directly at is that of <}>
+
+<-> Gottfrried </-> <+> Gottfried </+> </}> Leibnitz, who stated that <quote>
+
+" man and all nature is subject to law, order and uniformity." </quote> <fnr>
+
+3 </fnr>
+<ICE-CAN:W1A-001#23:1> It is this order that Voltaire attacks with scathing satire, and in
+
+particular Leibnitz's belief that <quote> " this world ... is the best
+
+possible world, but it is not perfect," </quote> <fnr> 4 </fnr> which
+
+Voltaire distorts into <w> Pangloss' </w> formula that <quote> " Everything
+
+is for the best in this best of all possible worlds." </quote> </p>
+
+<p> <ICE-CAN:W1A-001#24:1> One can now easily see the parallel and hear the mocking tone in
+
+his writing when Voltaire describes <w> Pangloss' </w> philosophy as <quote> "
+
+metaphysico-theologico-cosmo-loonig-ology," </quote> and when he explains it
+
+as thus: <quote> ... that there cannot possibly be an effect without a cause
+
+and that in this best of all possible worlds the Baron's castle was the best
+
+of all castles and his wife the best of all possible Baronesses ... <X>
+<ICE-CAN:W1A-001#X25:1> It is clear, said he, that things cannot be otherwise than they are,
+
+for since everything is made to serve an end, and everything necessarily
+
+serves the best end. </X> </quote> <fnr> 5 </fnr>
+<ICE-CAN:W1A-001#26:1> Pangloss then continues to abuse this last philosophy by suggesting
+
+that noses were made to support spectacles and stones to build castles.
+<ICE-CAN:W1A-001#27:1> It is <w> Pangloss' </w> support of his exaggerated philosophy under
+
+the unbelievable circumstances in the story that makes it seem as ludicrous
+
+as Voltaire intended it to.
+<ICE-CAN:W1A-001#28:1> An example of this is his defense of the philosophy after he had been
+
+disfigured by syphilis.
+<ICE-CAN:W1A-001#29:1> Having lost both an ear and an eye, he still states that <quote> " It
+
+was all indispensable ... since private misfortunes make for public welfare,
+
+and therefore the more private misfortunes there are, the better everything
+
+is." </quote> <fnr> 6/ <fnr> </p>
+
+<p> <ICE-CAN:W1A-001#30:1> In addition to this constant parody, Voltaire finds many
+
+opportunities to fit personal insults and jokes into the novel.
+<ICE-CAN:W1A-001#31:1> Only one of this is a mockery of the real situation that happened to
+
+a man named Wolff, a disciple of Leibnitz's.
+<ICE-CAN:W1A-001#32:1> Wolff's theory of pre-established harmony in reality prompted several
+
+men to desert from the army, surely the basis for the experience Candide
+
+himself has when he simply wanders off while serving in the Bulgar army.
+<ICE-CAN:W1A-001#33:1> Thus in the episode, we can see Voltaire making fun of both the
+
+philosophy and of Wolff himself, who had been expel <l> led from the country
+
+because of the scandal. </p>
+
+<p> <ICE-CAN:W1A-001#34:1> After examining these examples and the myriad others throughout
+
+the story, it should be obvious to any reader now where much of Voltaire's
+
+drive for writing <ul> Candide </ul> stemmed from - - from his concept for
+
+false order; both the order of fiction and the order of the optimistic
+
+philosophy of men such as Leibnitz.
+<ICE-CAN:W1A-001#35:1> However, his sense of man's need for this order is not entirely lost.
+<ICE-CAN:W1A-001#36:1> It is perhaps best described in the introduction to the book in the
+
+<ul> Norton Anthology </ul> how <quote> " one can feel his amused awareness
+
+of our human need to make order and our human desire to comfort ourselves by
+
+fictions." </quote> <fnr> 7 </fnr>
+<ICE-CAN:W1A-001#37:1> But for him, this is no excuse.
+<ICE-CAN:W1A-001#38:1> Perhaps the greatest lesson he is trying to teach us in <ul> Candide
+
+</ul> is <quote> " That we human beings have reason ... is no ground on which
+
+to flatter ourselves; rightly used, it exposes our insuf <l> ficiencies."
+
+</quote> <fnr> 8 </fnr> </p> </I>
+
+
+<I>
+<ICE-CAN:W1A-001#39:2> <h> THE CORRUPTNESS OF MAN'S VALUE SYSTEM IN <ul> THE APPRENTICESHIP
+
+OF DUDDY KRAVITZ </ul> & <ul> THE GREAT GATSBY </ul> </h>
+
+<p> <ICE-CAN:W1A-001#40:2> In Mordecai Richler's <ul> The Apprenticeship of Duddy Kravitz
+
+</ul> and F. Scott Fitzgerald's <ul> The Great Gatsby </ul> , the theme
+
+regarding the destructive nature of society's obsession with materialism
+
+emerges.
+<ICE-CAN:W1A-001#41:2> Fitzgerald and Richler offer a satirical view of materialism and how
+
+it corrupts society.
+<ICE-CAN:W1A-001#42:2> Throughout <ul> The Apprenticeship of Duddy Kravitz </ul> , Duddy
+
+climbs the ladder to material success, and it is apparent that along the way
+
+humanistic values are lost.
+<ICE-CAN:W1A-001#43:2> In <ul> The Great Gatsby </ul> , the protagonist, Jay Gatsby, is
+
+portrayed as a man with great status because of his exorbitant wealth.
+<ICE-CAN:W1A-001#44:2> However, as the <}> <-> storey </-> <+> story </+> </}> unfolds so do
+
+his shortcomings.
+<ICE-CAN:W1A-001#45:2> Both novels portray the insistent material urgings of society and the
+
+victory marked by the elimination of human values. </p>
+
+<p> <ICE-CAN:W1A-001#46:2> <ul> The Apprenticeship of Duddy Kravitz </ul> offers an insight
+
+into a young man's quest for material success.
+<ICE-CAN:W1A-001#47:2> Since he was a young boy Duddy was conditioned by his grandfather to
+
+believe that: <quote> " A man without land is nobody" </quote> ( Richler pg.
+
+11).
+<ICE-CAN:W1A-001#48:2> This conversation between Duddy and his grandfather, marks the
+
+beginning of Duddy's transition into a materialistic world.
+<ICE-CAN:W1A-001#49:2> Duddy's search for his identity becomes concentrated in getting
+
+rather than being, as he believes the self is to be found in external things.
+
+</p>
+
+<p> <ICE-CAN:W1A-001#50:2> Duddy becomes so obsessed with his pursuit for success, that he
+
+loses sight of all other dimensions of life: <quote> " You think I should be
+
+running after something besides money? <X> Good tell me what" </quote> </X> (
+
+pg.244).
+<ICE-CAN:W1A-001#51:2> Nothing matters to Duddy but his possession of land. </p>
+
+<p> <ICE-CAN:W1A-001#52:2> <ul> The Great Gatsby </ul> also examines a young man's quest for
+
+material success.
+<ICE-CAN:W1A-001#53:2> Like Duddy, Gatsby believes that one's happiness and success is found
+
+in the acquisition of material possessions.
+<ICE-CAN:W1A-001#54:2> When Jimmy Gatz met Daisy he came face to face with everything he
+
+ever dreamed of possessing.
+<ICE-CAN:W1A-001#55:2> She was wealth, power, and beauty.
+<ICE-CAN:W1A-001#56:2> From childhood Jimmy Gatz, maker of schedules and reader of Hopalong
+
+Cassidy, venerated Jay Gatsby, a promise of unlimited opportunities in a
+
+materialistic world.
+<ICE-CAN:W1A-001#57:2> Gatsby saw money as the creator of possibility and passage to
+
+freedom.
+<ICE-CAN:W1A-001#58:2> Gatsby believed that once he acquired all of his exuberant
+
+possessions, he could have Daisy.
+<ICE-CAN:W1A-001#59:2> He believed he could get everything he wanted <?> , </?> it was just
+
+a matter of the price he would have to pay.
+<ICE-CAN:W1A-001#60:2> Gatsby's obsession with materialism is demonstrated in the park
+
+incident, where Gatsby, Nick, Daisy, and her husband Tom are having a picnic
+
+together, and Gatsby takes it upon himself to tell Tom about his affair with
+
+Daisy: <quote> " She only married you because I was poor and she was tired of
+
+waiting for me" </quote> ( pg. 131).
+<ICE-CAN:W1A-001#61:2> Gatsby truly believes that the only way to get what you want out of
+
+life is to have money, which will provide the power. </p>
+
+<p> <ICE-CAN:W1A-001#62:2> Lost humanistic values are manifested in <ul> The Apprenticeship
+
+of Duddy Kravitz </ul> through the protagonist Duddy, and his treatment of
+
+people around him.
+<ICE-CAN:W1A-001#63:2> He turns to his family and friends, not for companionship or love,
+
+but for tools to help him get what he wants.
+<ICE-CAN:W1A-001#64:2> Duddy's lack of sensitivity towards his family is evident of his lack
+
+of respect towards his Uncle Benji's house.
+<ICE-CAN:W1A-001#65:2> Benji wills his house and possessions to Duddy when he passes away,
+
+hoping to give Duddy a chance to find the compassion he is capable of
+
+feeling.
+<ICE-CAN:W1A-001#66:2> But his attempt failed, as Duddy's response was to sell the houseful
+
+of furniture that Benji left.
+<ICE-CAN:W1A-001#67:2> Duddy's lack of compassion is further represented in his
+
+relationships with Yvette and Virgil.
+<ICE-CAN:W1A-001#68:2> After making love to Yvette for the first time by the lake, Duddy is
+
+overcome with excitement, not over Yvette, but the land he has just
+
+discovered around the lake.
+<ICE-CAN:W1A-001#69:2> He uses Yvette as an instrument to acquire all the land he wants.
+<ICE-CAN:W1A-001#70:2> Duddy's incapacity to feel compassion is also revealed in his
+
+exploitation of Virgil.
+<ICE-CAN:W1A-001#71:2> He swindles money from Virgil that he owed on the pinball machines;
+
+He hires Virgil as a driver, knowing he is an epileptic, and is consequently
+
+responsible for Virgil's paralyzing accident.
+<ICE-CAN:W1A-001#72:2> Duddy's insensitivities peak when he steals money from Virgil's bank
+
+account.
+<ICE-CAN:W1A-001#73:2> Duddy won't stop at anything to get the land he wants, as he is
+
+incapable of distinguishing between material things and human qualities.
+<ICE-CAN:W1A-001#74:2> At the end it is Simcha, Duddy's grandfather, who recognizes the
+
+human failure contained in the material success: <quote> I can see what you
+
+have planned for me Duddel. <X>
+<ICE-CAN:W1A-001#X75:2> You'll be good to me.
+<ICE-CAN:W1A-001#X76:2> You'd give me everything I wanted.
+<ICE-CAN:W1A-001#X77:2> And that would settle your conscience when you <}> <-> sindle </->
+
+<+> swindle </+> </}> others. </X> </quote> ( pg. 315) </p>
+
+<p> <ICE-CAN:W1A-001#78:2> <ul> The Great Gatsby </ul> also depicts the lost humanistic
+
+values which result from a society driven by materialistic passion.
+<ICE-CAN:W1A-001#79:2> Jay Gatsby, was a man in hurry to succeed materialistically in order
+
+to win the respect of his peers, particularly the woman he adored, Daisy, and
+
+therefore resorted to desperate measures. <O> end of paragraph </O> </p> </I>

@@ -1,0 +1,614 @@
+<I>
+
+<$A> <ICE-CAN:S1A-054#1:1:A> Headlights on
+
+<$B> <ICE-CAN:S1A-054#2:1:B> Ya
+
+<$A> <ICE-CAN:S1A-054#3:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-054#4:1:B> <[> <unclear> two words </unclear> </[> </{> I'm sure
+<ICE-CAN:S1A-054#5:1:B> So how did you get involved <}> <-> in the </-> <=> in the </=> </}>
+
+uhm Canada World Youth
+
+<$A> <ICE-CAN:S1A-054#6:1:A> Well <,> the first time <}> <-> I uh </-> <=> I </=> </}> went
+
+traveling overseas <,> on my own I guess was with Crossroads
+<ICE-CAN:S1A-054#7:1:A> Canadian Crossroads International
+<ICE-CAN:S1A-054#8:1:A> And uh <,> it's a volunteer organization
+<ICE-CAN:S1A-054#9:1:A> They send Canadians <}> <-> <.> any </.> </-> <=> anyone </=> </}>
+
+over the age of nineteen <,> to a developing country to do uh a short-term
+
+volunteer work placement
+
+<$B> <ICE-CAN:S1A-054#10:1:B> By short-term you're talking
+
+<$A> <ICE-CAN:S1A-054#11:1:A> Three to six months
+
+<$B> <ICE-CAN:S1A-054#12:1:B> Oh
+
+<$A> <ICE-CAN:S1A-054#13:1:A> So it's <{> <[> not </[> too long
+
+<$B> <ICE-CAN:S1A-054#14:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-054#15:1:A> It's <{1> <[1> not like </[1> one of those two year
+
+commitments
+<ICE-CAN:S1A-054#16:1:A> <{2> <[2> or anything </[2>
+
+<$B> <ICE-CAN:S1A-054#17:1:B> <[1> Uh huh </[1> </{1>
+
+<$B> <ICE-CAN:S1A-054#18:1:B> <[2> Mhh hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1A-054#19:1:A> Ya I went there and did my bit and got sick and <,> recovered
+
+<{> <[> and </[>
+
+<$B> <ICE-CAN:S1A-054#20:1:B> <[> Ya </[> </{>
+<ICE-CAN:S1A-054#21:1:B> Do you find that you get sick whenever you go to any of these
+
+countries
+
+<$A> <ICE-CAN:S1A-054#22:1:A> Well I find it's a great weight-loss program <{> <[> for me
+<ICE-CAN:S1A-054#23:1:A> <}> <-> I </-> <=> I </=> </}> usually drop </[> ten to fifteen
+
+pounds or so
+
+<$B> <ICE-CAN:S1A-054#24:1:B> <[> <O> laugh </O> <?> I see </?> </[> </{>
+
+<$A> <ICE-CAN:S1A-054#25:1:A> I come back I'm feeling <{> <[> trim </[>
+
+<$B> <ICE-CAN:S1A-054#26:1:B> <[> Ya </[> </{> and then you gain it back and then
+
+<$A> <ICE-CAN:S1A-054#27:1:A> Well this last time <}> <-> I </-> <=> I </=> </}> didn't lose
+
+much weight
+<ICE-CAN:S1A-054#28:1:A> <}> <-> In </-> <=> in </=> </}> Canada World Youth I had a really
+
+<,> good host family which was super cautious with me the group leader and
+
+<{> <[> uh <,,> </[> <}> <-> I </-> <=> I </=> </}> actually gained a bit of
+
+weight living with them
+
+<$B> <ICE-CAN:S1A-054#29:1:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-054#30:1:A> And uh it was too bad cos I was hoping to drop a few pounds
+
+<{> <[> <unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1A-054#31:1:B> <[> And that </[> </{> was in India was it
+
+<$A> <ICE-CAN:S1A-054#32:1:A> That was <{> <[> in India </[>
+
+<$B> <ICE-CAN:S1A-054#33:1:B> <[> Ya ya </[> </{>
+
+<$A> <ICE-CAN:S1A-054#34:1:A> And then I came back here and put on about thirty
+<ICE-CAN:S1A-054#35:1:A> <{> <[> So it </[> was like uh
+
+<$B> <ICE-CAN:S1A-054#36:1:B> <[> Ya </[> </{>
+<ICE-CAN:S1A-054#37:1:B> Some of their food is really interesting isn't it
+
+<$A> <ICE-CAN:S1A-054#38:1:A> Ya
+
+<$B> <ICE-CAN:S1A-054#39:1:B> It's uh like their <&> not 'they' </&> uh <,> uhm have a
+
+chicken that's red
+
+<$A> <ICE-CAN:S1A-054#40:1:A> Oh ya tandoori <{> <[> chicken </[>
+
+<$B> <ICE-CAN:S1A-054#41:1:B> <[> Tandoori </[> </{> chicken
+<ICE-CAN:S1A-054#42:1:B> Huh <{> <[> I love that </[>
+
+<$A> <ICE-CAN:S1A-054#43:1:A> <[> It's good eh </[> </{>
+
+<$B> <ICE-CAN:S1A-054#44:1:B> Ya ya
+<ICE-CAN:S1A-054#45:1:B> I came across uhm a marinade <,> that you can use <{> <[> to do
+
+that </[>
+
+<$A> <ICE-CAN:S1A-054#46:1:A> <[> Like the Patak's </[> </{> <,,> <{> <[> tandoori marinade
+
+</[>
+
+<$B> <ICE-CAN:S1A-054#47:1:B> <[> Uh <,> ya </[> </{> <{> <[> ya </[>
+
+<$A> <ICE-CAN:S1A-054#48:1:A> <[> The red </[> </{> paste stuff
+
+<$B> <ICE-CAN:S1A-054#49:1:B> And so
+<ICE-CAN:S1A-054#50:1:B> Well this is a powder
+<ICE-CAN:S1A-054#51:1:B> And so uh <,> I thought well <,,> there's nothing saying you <}>
+
+<-> have ta </-> <+> have to </+> </}> use it with chicken
+<ICE-CAN:S1A-054#52:1:B> You could probably use it with other <{> <[> things </[>
+
+<$A> <ICE-CAN:S1A-054#53:1:A> <[> Oh sure </[> </{>
+
+<$B> <ICE-CAN:S1A-054#54:1:B> So now <}> <-> when I </-> <=> sometimes when I </=> </}> cook
+
+rice I'll put some in so that <{> <[> the rice turns </[> out red <}> <-> and
+
+</-> <=> and </=> </}> has that flavour
+
+<$A> <ICE-CAN:S1A-054#55:1:A> <[> <}> <-> Awright </-> <+> Alright </+> </}> </[> </{>
+
+<$B> <ICE-CAN:S1A-054#56:1:B> Oh is it ever good
+
+<$A> <ICE-CAN:S1A-054#57:1:A> I've never thought of that
+
+<$B> <ICE-CAN:S1A-054#58:1:B> Ya it's really good
+<ICE-CAN:S1A-054#59:1:B> <{> <[> You should try it <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-054#60:1:A> <[> <O> laugh </O> Okay </[> </{>
+<ICE-CAN:S1A-054#61:1:A> Do you like spicy food
+
+<$B> <ICE-CAN:S1A-054#62:1:B> Not too <}> <-> <.> sp </.> </-> <+> spicy </+> </}>
+<ICE-CAN:S1A-054#63:1:B> <}> <-> I I </-> <=> I </=> </}> like the spice
+<ICE-CAN:S1A-054#64:1:B> I don't like <}> <-> the <}> <-> <.> hea </.> </-> <+> heat </+>
+
+</}> </-> <=> the hot </=> </}> <{> <[> spices </[>
+
+<$A> <ICE-CAN:S1A-054#65:1:A> <[> Okay </[> </{>
+
+<$B> <ICE-CAN:S1A-054#66:1:B> So uhm I have to sort of steer clear of it you know
+<ICE-CAN:S1A-054#67:1:B> It gives me a burning mouth <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-054#68:1:A> When I was in uh India the second time I met this professor
+
+there <}> <-> who was </-> <=> he was </=> </}> like over six feet tall which
+
+is really unusual <{> <[> for Indian men </[>
+
+<$B> <ICE-CAN:S1A-054#69:1:B> <[> For Indian men ya </[> </{>
+
+<$A> <ICE-CAN:S1A-054#70:1:A> And uh a very stately looking gentleman
+<ICE-CAN:S1A-054#71:1:A> <}> <-> And </-> <=> and </=> </}> he spoke English very well
+<ICE-CAN:S1A-054#72:1:A> But he said to me <,> you know <,> Americans are the best users of
+
+the English language he told me
+<ICE-CAN:S1A-054#73:1:A> And I said what
+
+<$B> <ICE-CAN:S1A-054#74:1:B> <{> <[> Really <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-054#75:1:A> <[> What are you talking about I said </[> </{>
+<ICE-CAN:S1A-054#76:1:A> He says <,,> well you know when Americans when they eat something
+
+spicy they say <quote> the food <,> will burn at both ends </quote>
+<ICE-CAN:S1A-054#77:1:A> <{> <[> He said <,,> only an American could come up with an
+
+expression like that <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-054#78:1:B> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-054#79:1:B> Isn't that
+<ICE-CAN:S1A-054#80:1:B> Ya they have some uh very neat uh uh things <{> <[> that they <?>
+
+get away with </?> </[>
+
+<$A> <ICE-CAN:S1A-054#81:1:A> <[> Ya <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-054#82:1:B> <?> You know </?> I'll agree with him there
+<ICE-CAN:S1A-054#83:1:B> But uh <,> but I found that <}> <-> their </-> <=> the </=> </}>
+
+food that I had
+<ICE-CAN:S1A-054#84:1:B> While we had <}> <-> a </-> <=> a </=> </}> student from Canada
+
+World Youth uhm <,,> what they cooked was really interesting
+
+<$A> <ICE-CAN:S1A-054#85:1:A> <{> <[> Hmm </[>
+
+<$B> <ICE-CAN:S1A-054#86:1:B> <[> I </[> </{> enjoyed it
+<ICE-CAN:S1A-054#87:1:B> They did <}> <-> some uhm </-> <=> a </=> </}> vegetable dish with
+
+cauliflower snd it was really good
+
+<$A> <ICE-CAN:S1A-054#88:1:A> Alright
+
+<$B> <ICE-CAN:S1A-054#89:1:B> And uhm <,> actually they did several dishes
+<ICE-CAN:S1A-054#90:1:B> The girls got together <}> <-> and </-> <=> and uh </=> </}> cooked
+
+a meal for us and
+
+<$A> <ICE-CAN:S1A-054#91:1:A> What <}> <-> did </-> <=> did </=> </}> you have girls with
+
+you or did you have <{> <[> guys </[>
+
+<$B> <ICE-CAN:S1A-054#92:1:B> <[> No </[> </{> I had boys
+<ICE-CAN:S1A-054#93:1:B> Ya boys with me
+<ICE-CAN:S1A-054#94:1:B> But uh I got to be quite friendly with some of the girls and they
+
+came over one night and I was <,> cutting uhm the uhm group leader's hair uh
+
+<{> <[> uh <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-054#95:1:A> <[> Really </[> </{>
+
+<$B> <ICE-CAN:S1A-054#96:1:B> Well I always cut my son's hair and my husband's so they asked
+
+me oh well that would be nice cos then it wouldn't cost us to have our hair
+
+cut
+
+<$A> <ICE-CAN:S1A-054#97:1:A> Right <{> <[> right </[>
+
+<$B> <ICE-CAN:S1A-054#98:1:B> <[> So </[> </{> <,> then you know you cut one and the you got
+
+another and another and pretty soon I got <{> <[> the group leader there too
+
+<O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-054#99:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-054#100:1:B> So we made an <{> <[> afternoon of hair cutting <,> </[> and
+
+the girls cooked up a storm there and <,> we had a lovely dinner
+
+<$A> <ICE-CAN:S1A-054#101:1:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-054#102:1:A> Well great
+
+<$B> <ICE-CAN:S1A-054#103:1:B> Ya it was fun
+<ICE-CAN:S1A-054#104:1:B> I enjoyed that
+
+<$A> <ICE-CAN:S1A-054#105:1:A> One of the Indians in my group decided <,> to <,> go to <}>
+
+<-> a </-> <=> a </=> </}> barber shop to get his hair cut just so he could
+
+tell his friends I paid <O> laugh </O> twelve dollars for a haircut
+
+<$B> <ICE-CAN:S1A-054#106:1:B> <O> laugh </O> That worth it
+
+<$A> <ICE-CAN:S1A-054#107:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-054#108:1:B> <[> <O> laugh </O> </[> </{> <{> <[> Oh boy </[>
+
+<$A> <ICE-CAN:S1A-054#109:1:A> <[> It's pretty </[> </{> funny
+<ICE-CAN:S1A-054#110:1:A> Especially when you can <,> pay twenty-five cents for one <O>
+
+laugh </O> back there
+<ICE-CAN:S1A-054#111:1:A> <{> <[> It's funny </[>
+
+<$B> <ICE-CAN:S1A-054#112:1:B> <[> Oh ya </[> </{>
+<ICE-CAN:S1A-054#113:1:B> Ya that's what they were saying
+<ICE-CAN:S1A-054#114:1:B> It's very inexpensive there
+<ICE-CAN:S1A-054#115:1:B> <}> <-> So they </-> <=> <,> I mean there </=> </}> would be no
+
+reason why anybody would do it at home
+<ICE-CAN:S1A-054#116:1:B> But uhm <,> with four sons ah and a husband I decided a long time
+
+ago I better learn to <,> cut <{> <[> hair </[>
+
+<$A> <ICE-CAN:S1A-054#117:1:A> <[> Ya </[> </{> for sure
+<ICE-CAN:S1A-054#118:1:A> <}> <-> I I try </-> <=> I keep </=> </}> asking <@> Rachelle </@>
+
+to cut my hair for me <{> <[> you know </[>
+
+<$B> <ICE-CAN:S1A-054#119:1:B> <[> Oh ya </[> </{>
+
+<$A> <ICE-CAN:S1A-054#120:1:A> So it would save us a bit of money
+
+<$B> <ICE-CAN:S1A-054#121:1:B> <{> <[> Sure </[>
+
+<$A> <ICE-CAN:S1A-054#122:1:A> <[> But </[> </{> she refuses
+<ICE-CAN:S1A-054#123:1:A> She says no way
+<ICE-CAN:S1A-054#124:1:A> <{> <[> I don't <}> <-> wanna </-> <+> want to </+> </}> look at
+
+<}> <-> ya </-> <+> you </+> </}> </[> <O> laugh </O> after I cut your hair
+
+<$B> <ICE-CAN:S1A-054#125:1:B> <[> Ya you might ah <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-054#126:1:B> Might make a mistake a few times but after a while you learn
+<ICE-CAN:S1A-054#127:1:B> You know
+<ICE-CAN:S1A-054#128:1:B> And there's guides on those things all the time
+<ICE-CAN:S1A-054#129:1:B> <}> <-> <.> Y </.> </-> <=> you </=> </}> know that you can put on
+<ICE-CAN:S1A-054#130:1:B> You don't even <,> think about it anymore
+
+<$A> <ICE-CAN:S1A-054#131:1:A> I've been going to this uh
+<ICE-CAN:S1A-054#132:1:A> The cheapest place I've found <}> <-> is <,> </-> <=> is </=> </}>
+
+just down the street
+<ICE-CAN:S1A-054#133:1:A> He charges just ten dollars but <,> <}> <-> I'll </-> <=>
+
+admittedly </=> </}> it's not the best haircut <O> laugh </O> I'll get <}>
+
+<-> in </-> <=> in </=> </}> <{> <[> my life </[>
+
+<$B> <ICE-CAN:S1A-054#134:1:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-054#135:1:A> <{> <[> But </[>
+
+<$B> <ICE-CAN:S1A-054#136:1:B> <[> Well </[> </{> you know now the kids have <,> the really
+
+short haircuts you know <{> <[> <unclear> maybe three words </unclear> </[>
+
+<$A> <ICE-CAN:S1A-054#137:1:A> <[> Ya ya on the side </[> </{>
+
+<$B> <ICE-CAN:S1A-054#138:1:B> <{> <[> Ya </[>
+
+<$A> <ICE-CAN:S1A-054#139:1:A> <[> Ya </[> </{> right
+
+<$B> <ICE-CAN:S1A-054#140:1:B> And uh so uh my grandsons they all come up to get their hair
+
+done now
+<ICE-CAN:S1A-054#141:1:B> They don't mind grandma giving them a haircut now because it's
+
+just a <}> <-> runnin </-> <+> running </+> </}> <}> <-> <{> <[> the </[>
+
+</-> <=> the </=> </}> razor all over their head with the guide on it <O>
+
+laugh </O>
+
+<$A> <ICE-CAN:S1A-054#142:1:A> <[> Right </[> </{>
+
+<$B> <ICE-CAN:S1A-054#143:1:B> Well uh <@> Harry </@> who is twelve decided that <,> he
+
+would come and get his hair cut <{> <[> <,> </[> and uh then his dad decided
+
+he wanted his hair done too
+
+<$A> <ICE-CAN:S1A-054#144:1:A> <[> Mhh </[> </{>
+
+<$B> <ICE-CAN:S1A-054#145:1:B> So I said okay
+<ICE-CAN:S1A-054#146:1:B> So when his dad sat down I said well <}> <-> how </-> <=> you know
+
+what </=> </}> do you want it done
+<ICE-CAN:S1A-054#147:1:B> He said oh I just want it cut a little shorter
+<ICE-CAN:S1A-054#148:1:B> Just trimmed up
+<ICE-CAN:S1A-054#149:1:B> I said well how short
+<ICE-CAN:S1A-054#150:1:B> Oh he said just use <}> <-> that long </-> <=> the longest guide
+
+</=> </}>
+
+<$A> <ICE-CAN:S1A-054#151:1:A> <{> <[> Mhh hmm </[>
+
+<$B> <ICE-CAN:S1A-054#152:1:B> <[> So I did </[> </{> <,> and I went right up the back of
+
+his head first of all and I said <,,> I hope you don't change your mind cos
+
+this is really quite short <{> <[> you know <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-054#153:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-054#154:1:B> At that time it was too late <{> <[> so he </[> ended up with
+
+a very short haircut all over him <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-054#155:1:A> <[> Right </[> </{>
+<ICE-CAN:S1A-054#156:1:A> What did he think of it afterwards
+
+<$B> <ICE-CAN:S1A-054#157:1:B> Uhm <,> well he said uh it'll grow in before winter <O> laugh
+
+</O>
+<ICE-CAN:S1A-054#158:1:B> He works out in the bush <O> laugh </O>
+<ICE-CAN:S1A-054#159:1:B> <}> <-> He's </-> <=> actually he's </=> </}> a mechanic and he
+
+<,> has been working for a logging company <{> <[> <,> and </[> uh has just
+
+been in the last six months transferred over to the B C <&> British Columbia
+
+</&> Highways Department ah uhm
+
+<$A> <ICE-CAN:S1A-054#160:1:A> <[> Alright </[> </{>
+
+<$B> <ICE-CAN:S1A-054#161:1:B> It's er <}> <-> a <,,> private <}> <-> <.> ent </.> </-> <+>
+
+enterprise </+> </}> </-> <=> a private company </=> </}> now though isn't it
+
+<$A> <ICE-CAN:S1A-054#162:1:A> I have <{> <[> no idea </[>
+
+<$B> <ICE-CAN:S1A-054#163:1:B> <[> Uhm </[> </{> ya but it's still Highways Department
+<ICE-CAN:S1A-054#164:1:B> And so he's uhm doing their mechanic work <,> out of North
+
+Vancouver
+<ICE-CAN:S1A-054#165:1:B> So he's uhm <,,> used to being outdoors in all kinds of weather
+<ICE-CAN:S1A-054#166:1:B> You know <{> <[> if a vehicle breaks </[> down they <}> <-> gotta
+
+</-> <+> have got to </+> </}> go to the vehicle eh
+
+<$A> <ICE-CAN:S1A-054#167:1:A> <[> Right right </[> </{>
+
+<$B> <ICE-CAN:S1A-054#168:1:B> So <,> uh <,> well it'll grow in
+<ICE-CAN:S1A-054#169:1:B> Because <}> <-> he's </-> <=> in the wintertime he </=> </}> grows
+
+his hair long and he grows a beard <{> <[> to keep </[> his face warm <O>
+
+laugh </O>
+
+<$A> <ICE-CAN:S1A-054#170:1:A> <[> <?> Wow </?> </[> </{>
+<ICE-CAN:S1A-054#171:1:A> <}> <-> I </-> <=> I </=> </}> used to hate driving <}> <-> in
+
+</-> <=> in </=> </}> B C in the wintertime
+<ICE-CAN:S1A-054#172:1:A> Those mountains
+
+<$B> <ICE-CAN:S1A-054#173:1:B> <{> <[> Oh ya </[>
+
+<$A> <ICE-CAN:S1A-054#174:1:A> <[> And uh </[> </{> in Nelson
+<ICE-CAN:S1A-054#175:1:A> In <{> <[> Nelson <?> a little bit </?> </[>
+
+<$B> <ICE-CAN:S1A-054#176:1:B> <[> Ya that's scary </[> </{>
+
+<$A> <ICE-CAN:S1A-054#177:1:A> The <?> way </?> that town's situated <}> <-> it's </-> <=>
+
+uhm it's </=> </}> <{> <[> pretty scary sometimes </[>
+
+<$B> <ICE-CAN:S1A-054#178:1:B> <[> Or going down that </[> </{> hill going <}> <-> in ta
+
+</-> <+> in to </+> </}> Trail <,,>
+
+<$A> <ICE-CAN:S1A-054#179:1:A> Oh ya
+
+<$B> <ICE-CAN:S1A-054#180:1:B> Isn't that a wild ride eh
+<ICE-CAN:S1A-054#181:1:B> <}> <-> I wouldn't </-> <=> I don't think </=> </}> people go down
+
+that in the wintertime do they
+
+<$A> <ICE-CAN:S1A-054#182:1:A> <}> <-> I never </-> <=> I never </=> </}> went to <O> laugh
+
+</O> Trail in the <{> <[> wintertime </[>
+
+<$B> <ICE-CAN:S1A-054#183:1:B> <[> Oh wow </[> </{>
+<ICE-CAN:S1A-054#184:1:B> If you want an experience go to Trail sometime
+<ICE-CAN:S1A-054#185:1:B> They have the very best Italian restaurant I've <{> <[> ever come
+
+</[> across
+
+<$A> <ICE-CAN:S1A-054#186:1:A> <[> Really </[> </{>
+
+<$B> <ICE-CAN:S1A-054#187:1:B> It's a huge old Safeway store <,> and they've converted it to
+
+a family restaurant
+
+<$A> <ICE-CAN:S1A-054#188:1:A> The whole Safeway
+
+<$B> <ICE-CAN:S1A-054#189:1:B> The whole Safeway
+<ICE-CAN:S1A-054#190:1:B> <{> <[> <,> The whole thing
+<ICE-CAN:S1A-054#191:1:B> <}> <-> And </-> <=> and </=> </}> it's </[> <,> got all these
+
+tables either family-style which will hold anywhere from uh <,> six to
+
+sixteen people
+
+<$A> <ICE-CAN:S1A-054#192:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-054#193:1:B> And they've got wine bottles with candles in <}> <-> em </->
+
+<+> them </+> </}> and <{> <[> red checkered </[> tablecloths
+
+<$A> <ICE-CAN:S1A-054#194:1:A> <[> <}> <-> Awright </-> <+> Alright </+> </}> / [ > </{>
+
+<$B> <ICE-CAN:S1A-054#195:1:B> The whole <{1> <[1> <?> deal </?>
+<ICE-CAN:S1A-054#196:1:B> And uh <,,> </[1> the Italian music playing and uh people singing
+
+and sometimes getting up for a
+<ICE-CAN:S1A-054#197:1:B> <{2> <[2> dance </[2>
+
+<$A> <ICE-CAN:S1A-054#198:1:A> <[1> <O> laugh </O> </[1> </{1>
+
+<$A> <ICE-CAN:S1A-054#199:1:A> <[2> Right </[2> </{2>
+
+<$B> <ICE-CAN:S1A-054#200:1:B> And it's just really an
+<ICE-CAN:S1A-054#201:1:B> All families
+<ICE-CAN:S1A-054#202:1:B> And when you go <}> <-> you uh you </-> <=> you </=> </}> give <}>
+
+<-> em </-> <+> them </+> </}> your order so you decide you want chicken <,>
+
+well it all comes <,> family-style
+<ICE-CAN:S1A-054#203:1:B> So it's in big bowls of spaghetti and sauce <}> <-> and </-> <=>
+
+and </=> </}> big dishes <}> <-> of </-> <=> of </=> </}> uh chicken and just
+
+everybody digs in and
+<ICE-CAN:S1A-054#204:1:B> <{> <[> Oh it was great
+<ICE-CAN:S1A-054#205:1:B> And it was </[> so tasty
+
+<$A> <ICE-CAN:S1A-054#206:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-054#207:1:B> Their sauce was delicious and <,>
+<ICE-CAN:S1A-054#208:1:B> Ya it was really good
+<ICE-CAN:S1A-054#209:1:B> And <}> <-> it's </-> <=> <,> it's </=> </}> like here <,> where
+
+uhm you get uh <,> or at least at home <}> <-> you </-> <=> you </=> </}> get
+
+ah your meal
+<ICE-CAN:S1A-054#210:1:B> It includes your dessert and <{1> <[1> everything
+<ICE-CAN:S1A-054#211:1:B> And same thing there </[1> but of course their dessert would be
+
+<,> <}> <-> their </-> <=> uhm <,> uh their </=> </}> ice cream uh <,>
+<ICE-CAN:S1A-054#212:1:B> <{2> <[2> it's called <,> spumoni </[2>
+
+<$A> <ICE-CAN:S1A-054#213:1:A> <[1> Right right right </[1> </{1>
+
+<$A> <ICE-CAN:S1A-054#214:1:A> <[2> <.> Su </.> <.> Su </.> Oh right </[2> </{2>
+
+<$B> <ICE-CAN:S1A-054#215:1:B> Oh <{> <[> <,,> boy </[>
+
+<$A> <ICE-CAN:S1A-054#216:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-054#217:1:B> I <}> <-> was </-> <=> said </=> </}> to <@> Bernie </@> well
+
+I'm sure glad I'm not on a diet while we're here <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-054#218:1:A> A lot of Italians in Trail
+
+<$B> <ICE-CAN:S1A-054#219:1:B> Yes
+
+<$A> <ICE-CAN:S1A-054#220:1:A> All over the <{> <[> place actually </[>
+
+<$B> <ICE-CAN:S1A-054#221:1:B> <[> Ya ya </[> </{>
+
+<$A> <ICE-CAN:S1A-054#222:1:A> Uh when I was in Revelstoke uh <}> <-> my </-> <=> my </=>
+
+</}> landlord
+<ICE-CAN:S1A-054#223:1:A> I lived in an apartmnent with my counterpart
+<ICE-CAN:S1A-054#224:1:A> And <}> <-> he </-> <=> uh <,,> he </=> </}> was an Italian
+<ICE-CAN:S1A-054#225:1:A> Came here forty years ago
+<ICE-CAN:S1A-054#226:1:A> Worked on the railroads you know
+<ICE-CAN:S1A-054#227:1:A> Got himself <,> started in a little business
+
+<$B> <ICE-CAN:S1A-054#228:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-054#229:1:A> Worked his way up you know to support a family and <,> did
+
+okay for himself
+<ICE-CAN:S1A-054#230:1:A> <{> <[> Owns </[> a few buildings as a landlord now
+
+<$B> <ICE-CAN:S1A-054#231:1:B> <[> Okay </[> </{>
+<ICE-CAN:S1A-054#232:1:B> It's neat talking to some of those old guys isn't it
+
+<$A> <ICE-CAN:S1A-054#233:1:A> Ya
+
+<$B> <ICE-CAN:S1A-054#234:1:B> Ya <,,>
+<ICE-CAN:S1A-054#235:1:B> Uhm <,,> we used to have one who lived in Squamish
+<ICE-CAN:S1A-054#236:1:B> He's passed away now but he uhm <,> came to Squamish <}> <-> on a
+
+</-> <=> on a </=> </}> boat and uh when he lived there it was just a one
+
+street <,> uh one hotel <,> type community
+<ICE-CAN:S1A-054#237:1:B> And uh if the barge didn't come up with the food <,> and the meat
+
+<,> then the guys would have to go out and <{> <[> hunt
+<ICE-CAN:S1A-054#238:1:B> And they'd </[> have to go where their high school is now
+
+<$A> <ICE-CAN:S1A-054#239:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-054#240:1:B> That was about where they went <}> <-> huntin </-> <+>
+
+hunting </+> </}> for deer <{> <[> and moose </[> and
+
+<$A> <ICE-CAN:S1A-054#241:1:A> <[> Uh huh </[> </{>
+
+<$B> <ICE-CAN:S1A-054#242:1:B> <{> <[> <}> <-> Lookin </-> <+> looking </+> </}> </[> to
+
+bring back all this meat <,> to cook at the hotel
+
+<$A> <ICE-CAN:S1A-054#243:1:A> <[> <O> cough </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-054#244:1:B> And uh <,> he married <}> <-> a </-> <=> an </=> </}> Indian
+
+princess
+
+<$A> <ICE-CAN:S1A-054#245:1:A> Oh really
+
+<$B> <ICE-CAN:S1A-054#246:1:B> Ya ya
+<ICE-CAN:S1A-054#247:1:B> Really nice <{> <[> family </[>
+
+<$A> <ICE-CAN:S1A-054#248:1:A> <[> Hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-054#249:1:B> Really nice family
+<ICE-CAN:S1A-054#250:1:B> <}> <-> It was a </-> <=> uh he was a </=> </}> really interesting
+<ICE-CAN:S1A-054#251:1:B> We took him to the Okanagan one time and uh <,> we were <}> <->
+
+sittin </-> <+> sitting </+> </}> down the beach and he said ya I think I
+
+could stay here
+<ICE-CAN:S1A-054#252:1:B> I like it here
+
+<$A> <ICE-CAN:S1A-054#253:1:A> <{> <[> Mhh </[>
+
+<$B> <ICE-CAN:S1A-054#254:1:B> <[> And I </[> </{> said oh <@> Chris </@> how come you like
+
+it here so much
+<ICE-CAN:S1A-054#255:1:B> Oh lots of pretty girls <{> <[> here
+<ICE-CAN:S1A-054#256:1:B> Lots of <}> <-> <.> pre </.> </-> <+> pretty </+> </}> <}> <-> <.>
+
+gir </.> </-> <+> girls </+> </}> </[>
+
+<$A> <ICE-CAN:S1A-054#257:1:A> <[> <O> laugh </O> </[> </{> </I>

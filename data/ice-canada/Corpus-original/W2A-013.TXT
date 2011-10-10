@@ -1,0 +1,405 @@
+<I>
+<ICE-CAN:W2A-013#1:1> <h> Preface </h>
+
+<p> <ICE-CAN:W2A-013#2:1> This book is about the political belief systems of new elites, the
+
+youth elites of the 1980s, in the Anglo-American democracies - the old
+
+states.
+<ICE-CAN:W2A-013#3:1> The similarities and differences among and between the political
+
+cultures of Australia, Britain, Canada, New Zealand, and the United States
+
+have been probed, debated, re-examined, and debated again for more than half
+
+a century.
+<ICE-CAN:W2A-013#4:1> In the 1960s, newly developed cross-national survey techniques
+
+produced evidence that added fuel to those speculations.
+<ICE-CAN:W2A-013#5:1> Remarkably, however, no cross-national attitudinal research comparing
+
+all five coun <l> tries followed the path-breaking studies of the 1960s.
+<ICE-CAN:W2A-013#6:1> This study aims to go some distance towards filling that gap, and the
+
+argument it proposes is a simple one.
+<ICE-CAN:W2A-013#7:1> Enormous changes swept across all advanced industrial states during
+
+the last two decades.
+<ICE-CAN:W2A-013#8:1> The Anglo-American democracies, like other countries, experienced the
+
+globalization of their economies, the information revolution, profound
+
+structural transformations, and dra <l> matic shifts in population
+
+replacement.
+<ICE-CAN:W2A-013#9:1> Long-standing patterns of politi <l> cal behaviour eroded, traditional
+
+alliances unravelled, and new issues forced their way onto political agendas.
+<ICE-CAN:W2A-013#10:1> The ideological climate of the 1980s, we suggest, bore little
+
+resemblance to the ideological climate of the 1960s and, for a variety of
+
+reasons, those shifts in ideology were disproportionately concentrated in the
+
+ranks of the new generations.
+<ICE-CAN:W2A-013#11:1> In what respects, then, are the political belief systems of new
+
+elites in the Anglo-American democracies similar?
+<ICE-CAN:W2A-013#12:1> In what respects are they dif <l> ferent?
+<ICE-CAN:W2A-013#13:1> These are the questions we ask, and we answer them with com <l>
+
+parative cross-national survey evidence from all five countries. </p>
+
+<p> <ICE-CAN:W2A-013#14:1> This book is written with a broad audience in mind.
+<ICE-CAN:W2A-013#15:1> Our aim is to make the results of the study accessible to those
+
+without formal training in quantitative methods and to those who are being
+
+introduced to, or who have a general interest in, the contemporary politics
+
+of the Anglo-American democracies.
+<ICE-CAN:W2A-013#16:1> Where possible, we present our findings by way of graphic
+
+illustrations.
+<ICE-CAN:W2A-013#17:1> Where we resort to summary statistical presenta <l> tion of evidence,
+
+we rely on relatively few simple measures, which are explained in the text.
+<ICE-CAN:W2A-013#18:1> Our hope is that this study will contribute to a revitalized debate
+
+about politics both in and between each of the five countries as well as
+
+about the transformation of advanced industrial states in general. </p>
+
+<p> <ICE-CAN:W2A-013#19:1> This project was truly a collaborative effort.
+<ICE-CAN:W2A-013#20:1> We drew heavily upon the goodwill of many colleagues and institutions
+
+in all of the five countries represented in the study.
+<ICE-CAN:W2A-013#21:1> We are happy to be able to acknowledge publicly our gratitude for
+
+their help. </p>
+
+<p> <ICE-CAN:W2A-013#22:1> The study was ten years in the making.
+<ICE-CAN:W2A-013#23:1> In the late 1970s, while orches <l> trating the Cross Naional Survey
+
+Project, Sidney Verba co-ordinated a number of brainstorming sessions at the
+
+Center for International Affairs, Harvard University, dealing with the
+
+opportunities, difficulties, and prac <l> ticalities of cross-national survey
+
+research.
+<ICE-CAN:W2A-013#24:1> It was during those stimulating meetings that the prospect of
+
+undertaking a comparative Anglo-American study was first discussed.
+<ICE-CAN:W2A-013#25:1> This project would never have been started, undertaken, or completed
+
+without the intellectual leadership and moral support of Sidney Verba.
+<ICE-CAN:W2A-013#26:1> We thank him for allowing us to use the Ameri <l> can data for this
+
+project.
+<ICE-CAN:W2A-013#27:1> More importantly, we are very grateful for his continual
+
+encouragement. </p>
+
+<p> <ICE-CAN:W2A-013#28:1> Several other institutions and individuals were also crucial to
+
+the project.
+<ICE-CAN:W2A-013#29:1> The Australian field work was conducted from the Australian National
+
+University at both Canberra and Darwin.
+<ICE-CAN:W2A-013#30:1> The University of Essex gave us work space from which we co-ordinated
+
+the British segment of the study.
+<ICE-CAN:W2A-013#31:1> Tony King, Ian Budge, and Ivor Crewe were very gracious hosts.
+<ICE-CAN:W2A-013#32:1> Nigel Roberts and Rod Alley made the New Zealand component of the
+
+study possible.
+<ICE-CAN:W2A-013#33:1> And in Canada we were willingly aided in a variety of ways by
+
+colleagues across the country.
+<ICE-CAN:W2A-013#34:1> We particularly appreciate the contributions of Herman Bakvis,
+
+Andr&eacute; Blais, Marsha Chandler, Jean Cr&ecircumflex;te, Barry Kay,
+
+Richard Johnston, and Richard Simeon.
+<ICE-CAN:W2A-013#35:1> Some of the analysis was undertaken at the Center for Political
+
+Studies, University of Michigan.
+<ICE-CAN:W2A-013#36:1> Sam Barnes and Ronald Inglehart made that workspace a home. </p>
+
+<p> <ICE-CAN:W2A-013#37:1> The project placed a unique burden on our own institution, the
+
+Univer <l> sity of Calgary. For steering us through a maze of computing
+
+related matters we are grateful to Thomas Huang and Ted Ziajka.
+<ICE-CAN:W2A-013#38:1> We were very lucky to have extremely able research assistants: Robert
+
+Burge got the project underway and Lori Galbraith held it together, carrying
+
+the bulk of the computational and graphics work through to its conclusion.
+<ICE-CAN:W2A-013#39:1> We are very appreciative of their efforts and abilities.
+<ICE-CAN:W2A-013#40:1> We also thank our colleagues in the department of political science
+
+for their congenial support. </p>
+
+<p> <ICE-CAN:W2A-013#41:1> The Social Sciences and Humanities Research Council of Canada
+
+provided the financial wherewithal for the project ( <smallcaps> SSHRC
+
+</smallcaps> grant
+#410-88-0221).
+<ICE-CAN:W2A-013#42:1> We thank them not only for underwriting the hard costs but also for
+
+providing sabbatical leave fellowships that enabled us to conduct the field
+
+work and to start attacking the analysis.
+<ICE-CAN:W2A-013#43:1> Several individu <l> als provided us with constructive criticism of
+
+the early drafts of various parts of the book.
+<ICE-CAN:W2A-013#44:1> Seymour Martin Lipset, Paul Sniderman, and Sylvia Bashevkin were
+
+particularly helpful.
+<ICE-CAN:W2A-013#45:1> Robert Boardman, Jon Pammett, and Campbell Sharman read the entire
+
+manuscript and provided both thoughtful commentary and a number of helpful
+
+suggestions.
+<ICE-CAN:W2A-013#46:1> We are very grateful to them, and to Richard Teleky, managing editor
+
+of Oxford University Press, who coaxed us along with the manuscript. </p>
+
+<p> <ICE-CAN:W2A-013#47:1> Both of us borrowed time from our families.
+<ICE-CAN:W2A-013#48:1> We extend a special thanks to Susan Bloch-Nevitte and Isabel Gibbins,
+
+who were understanding when we fell short on what we imagine to be the normal
+
+responsibilities of spouses in normal families.
+<ICE-CAN:W2A-013#49:1> Neil Nevitte
+<ICE-CAN:W2A-013#50:1> Roger Gibbins
+<ICE-CAN:W2A-013#51:1> Calgary, June 1990 </p>
+<ICE-CAN:W2A-013#52:1> <h> <smallcaps> CHAPTER ONE </smallcaps> </h>
+<ICE-CAN:W2A-013#53:1> <h> Ideological Change in the Anglo-American Democracies </h>
+<ICE-CAN:W2A-013#54:1> <h> Introduction </h>
+
+<p> <ICE-CAN:W2A-013#55:1> This study examines the nature of political belief systems <fnr>
+
+<sp> 1 </sp> </fnr> in the five Anglo-American democracies - Australia,
+
+Britain, Canada, New Zealand, and the United States.
+<ICE-CAN:W2A-013#56:1> Perhaps no other five countries in the industrialized world are more
+
+alike; they share not only roughly compara <l> ble economies, social
+
+structures, and cultural environments, but also the same political tradition.
+<ICE-CAN:W2A-013#57:1> Compared with other industrially advanced states, each of the
+
+Anglo-American democracies has a long history of open, stable, and liberal
+
+democratic style of government.
+<ICE-CAN:W2A-013#58:1> For the most part, citizens of the Anglo-American democracies view
+
+their systems of government as legitimate, and the transfer of power has
+
+rarely taken place in an atmosphere of crisis; it has been routine.
+<ICE-CAN:W2A-013#59:1> Throughout this century political contests have not been battles
+
+about the rules of the game; instead, the battles have been about ideas,
+
+policies, leaders, and parties. </p>
+
+<p> <ICE-CAN:W2A-013#60:1> It is not surprising, then, that comparative social scientists
+
+often regard the Anglo-American democracies as a special subset of advanced
+
+indus <l> trial states, a distinct analytic category.
+<ICE-CAN:W2A-013#61:1> This practice gained considerable momentum in the 1950s and early
+
+1960s with the publication of such landmark works as Louis Hartz's <it>
+
+Founding of New Societies </it> , Alexander Brady's <it> Democracy in the
+
+Dominions </it> , Gabriel Almond and Sidney Verba's <it> Civic Culture </it>
+
+, and Robert Alford's <it> Party and Society </it> .
+<ICE-CAN:W2A-013#62:1> These studies, along with a number of influential articles by Seymour
+
+Martin Lipset, Gabriel Almond, and others, all underscored the same point:
+
+Australia, Britain, Canada, New Zealand, and the United States were all
+
+<quote> 'different examples of the same type' </quote> .
+<ICE-CAN:W2A-013#63:1> Some scholars emphasized the remarkably similar <quote> 'climate'
+
+</quote> or <quote> 'spirit' </quote> of politics in the five states.
+<ICE-CAN:W2A-013#64:1> Others identified secular <l> ism and homogeneity as the unifying
+
+themes, while yet others pointed up similarities in styles of political
+
+combat and political values - pluralism, pragmatism, individualism, and the
+
+non-ideological sense of compromise.
+<ICE-CAN:W2A-013#65:1> The language differed but the message was the same - all five
+
+countries shared a common political culture beyond what one might expect from
+
+their similar status as Western industrialized states. </p>
+
+<p> <ICE-CAN:W2A-013#66:1> By the middle of the 1960s, however, the conceptual tide turned.
+<ICE-CAN:W2A-013#67:1> Armies of scholars drawing upon a variety of analytical traditions,
+
+and working from national rather than cross-national perspectives, challenged
+
+the notion that the Anglo-American democracies were <quote> 'essentially the
+
+same' </quote> .
+<ICE-CAN:W2A-013#68:1> The historical vineyards were re-worked to show that <quote> 'significant
+
+differ <l> ences' </quote> existed, and could be traced to variations in
+
+founding traditions.
+<ICE-CAN:W2A-013#69:1> Variations in political institutions, social structures, and literary
+
+traditions were probed to bolster the case for the essential differences
+
+between national political cultures.
+<ICE-CAN:W2A-013#70:1> Canadian scholars, for example, reacting per <l> haps to concerns
+
+about the <quote> 'Americanization' </quote> of Canadian culture, entered the
+
+fray contending that the differences between Canadian and American values
+
+were not <quote> 'mere nuances' </quote> , but fundamental.
+<ICE-CAN:W2A-013#71:1> American analysts, meanwhile, busily mounted a powerful and
+
+incidentally comple <l> mentary case for American exceptionalism.
+<ICE-CAN:W2A-013#72:1> Throughout the Anglo-Amer <l> ican democracies, the effort and
+
+conclusions focused on contrasts, not similarities. </p>
+
+<p> <ICE-CAN:W2A-013#73:1> Today the friction between these two visions persists, and in the
+
+final analysis it hinges on one central empirical question: Are there
+
+significant differences between and among the contemporary political cultures
+
+of the five Anglo-American democracies?
+<ICE-CAN:W2A-013#74:1> Certainly there are countless national arguments to support, for
+
+example, the expectation that the political culture of Australia will differ
+
+significantly from that of Britain, and that of Britain from the political
+
+culture of the United States.
+<ICE-CAN:W2A-013#75:1> For readers and scholars in those countries whose main concern is to
+
+explain national political cultures to domestic populations, idiosyncratic
+
+features are often to be treasured and vigorously defended.
+<ICE-CAN:W2A-013#76:1> At the same time, however, we have compelling reasons to expect
+
+cultural similarity.
+<ICE-CAN:W2A-013#77:1> The Anglo-American democracies not only share the structural
+
+characteristics com <l> mon to all industrial states; they also share a
+
+common political tradition.
+<ICE-CAN:W2A-013#78:1> Thus the expectation of similarity is driven not only by more general
+
+patterns of structural and ideological convergence within the Western world,
+
+but also by history.
+<ICE-CAN:W2A-013#79:1> At root, however, remains the basic empirical question: Are there
+
+significant national differences in political culture?
+<ICE-CAN:W2A-013#80:1> Until and unless such differences can be demonstrated, it is
+
+premature to speculate on the reasons why national differences might persist
+
+in an era of global ideological convergence. </p>
+<ICE-CAN:W2A-013#81:1> <h> <it> Methodological Overview </it> </h>
+
+<p> <ICE-CAN:W2A-013#82:1> Our entry into this debate about cross-national similarities and
+
+differ <l> ences in political values is shaped by three themes that regularly
+
+emerge in these disputes.
+<ICE-CAN:W2A-013#83:1> First, we accept, of course, that competing interpreta <l> tions of
+
+the same phenomena are a normal part of academic debate in all disciplines,
+
+as are attempts to resolve discrepancies of interpretation.
+<ICE-CAN:W2A-013#84:1> In this instance, for example, it might be argued that the
+
+differences between the two visions of the Anglo-American democracies can be
+
+squared away simply by acknowleging that each operates at a diferent level of
+
+generalization.
+<ICE-CAN:W2A-013#85:1> After all, what appears close up to be an <quote> 'important
+
+difference' </quote> easily fades into insignificance when global comparisons
+
+are entertained.
+<ICE-CAN:W2A-013#86:1> Australians and Canadians might be expected to be alert and sensitive
+
+to differences between the two countries, whereas an observer from Africa
+
+could be excused for emphasizing their similarities ( climatic differences
+
+notwithstanding!).
+<ICE-CAN:W2A-013#87:1> But that line of reasoning is not entirely convincing either, because
+
+it obscures the fact that much of the debate centres around the same unit of
+
+observation - national values - and that the empirical question still remains
+
+as to whether or not signifi <l> cant differences exist. </p>
+
+<p> <ICE-CAN:W2A-013#88:1> Second, most comparative judgements about values in the five
+
+Anglo-American democracies rely almost entirely upon indirect evidence.
+<ICE-CAN:W2A-013#89:1> National differences in crime rates, for example, might be used to
+
+specu <l> late on the importance of citizen deference to political elites in
+
+the civic cultures of the countries under examination.
+<ICE-CAN:W2A-013#90:1> However, forming conclu <l> sions about contemporary public attitudes
+
+on the basis of inherited politi <l> cal institutions and social patterns is
+
+risky and contentious.
+<ICE-CAN:W2A-013#91:1> It is equally hazardous to rely on a theory about founding traditions
+
+to make infer <l> ences about the national values of populations several
+
+generations removed from founding circumstances.
+<ICE-CAN:W2A-013#92:1> The problem is that to get from institutional, social structural,
+
+literary, and historical evidence to conclu <l> sions about national values
+
+in the 1980s and beyond requires a logical leap of faith.
+<ICE-CAN:W2A-013#93:1> Many of the existing studies that rely on these impressionistic
+
+sources are both imaginative and persuasive, but they do not escape the
+
+limitations of having to rely on inference.
+<ICE-CAN:W2A-013#94:1> This debate about comparative similarities and differences has raged
+
+now for more than twenty-five years, during which time comparative social
+
+scientists have continued to use the Anglo-American democracies as a major
+
+analytic category.
+<ICE-CAN:W2A-013#95:1> From that standpoint, it is remarkable that no single study has ever
+
+provided direct comparative evidence of national values in all five
+
+countries. </p>
+
+<p> <ICE-CAN:W2A-013#96:1> Third, and relatedly, if claims to the effect that the
+
+Anglo-American democracies share <quote> 'essentially the same political
+
+values' </quote> ring hollow in the absence of direct evidence of those
+
+similarities, then so do counterclaims about national uniqueness. </p> </I>

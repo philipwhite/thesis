@@ -1,0 +1,398 @@
+<I>
+<ICE-CAN:W2A-018#1:1> <h> CHAPTER 4 </h>
+<ICE-CAN:W2A-018#2:1> <h> Types of Groups </h> <sp> * </sp> <footnote> *An earlier version
+
+of this chapter was read and commented upon by Sandra Burt, Henry Jacek, and
+
+Leslie Pal.
+<ICE-CAN:W2A-018#3:1> I wish to thank them for their assistance and to absolve them of any
+
+blame for the shortcomings of the final product. </footnote>
+
+<p> <ICE-CAN:W2A-018#4:1> Political science assumes that sound analysis has to be built on
+
+categoriza <l> tion.
+<ICE-CAN:W2A-018#5:1> Without having defined what we are studying we cannot observe it,
+
+measure it, or describe it - and therefore we cannot make verifiable general
+
+statements about it.
+<ICE-CAN:W2A-018#6:1> This chapter will look at the progress - or lack of progress - that
+
+political scientists have made in building a system of categories to
+
+investigate the relationship between a country's general politi <l> cal
+
+system and the pressure groups that work within it.
+<ICE-CAN:W2A-018#7:1> We will also suggest a taxonomy of our own. </p>
+<ICE-CAN:W2A-018#8:1> <h> CATEGORIZING GROUPS </h>
+
+<p> <ICE-CAN:W2A-018#9:1> Pressure group studies boast remarkably few efforts to build
+
+systems for categorization ( also known as typologies or taxonomies).
+<ICE-CAN:W2A-018#10:1> Perhaps this is because it is quite easy to identify and to study
+
+formal interest groups that indisputably fit a broad definition, such as the
+
+one presented in the first chapter, once one has been agreed upon.
+<ICE-CAN:W2A-018#11:1> Pressure groups are clearly not political parties ( they seek
+
+influence, not power), not government agencies ( they make their own
+
+decisions and appoint their own officers), and not even interests ( they are
+
+defined as being formal associations).
+<ICE-CAN:W2A-018#12:1> Scholars may quarrel over marginal cases, but the broad category,
+
+pressure groups, is generally recognized.
+<ICE-CAN:W2A-018#13:1> Consequently the literature is full of case studies - many of them
+
+excellent - of particular groups and observations of groups engaged in
+
+various phases of pressure politics.
+<ICE-CAN:W2A-018#14:1> There is even a growing number of empirical studies of groups that
+
+are clearly alike, such as business interest associations. </p>
+
+<p> <ICE-CAN:W2A-018#15:1> These studies tell us a lot about how groups have adapted to
+
+different political systems and have exercised influence.
+<ICE-CAN:W2A-018#16:1> They are not, however, very helpful when we try to develop general
+
+theories of political life.
+<ICE-CAN:W2A-018#17:1> They do not help us make verifiable generalizations about the
+
+political behaviour of organized groups, about their relationship to the
+
+state, or about their role in political systems, and it is very hard to set
+
+out a grand theory that does not include such generalizations.
+<ICE-CAN:W2A-018#18:1> Of course, political scientists, myself included, have succumbed to
+
+the temptation to propose grand theories, but we all know that these theories
+
+are little more than informed speculation, flawed because the studies on
+
+which they are based are not comparable.
+<ICE-CAN:W2A-018#19:1> While such studies generally share a common definition of the term
+
+<quote> 'interest / pressure group' </quote> - although even here, as we have
+
+seen, differences persist - there is only rudimentary agreement about the
+
+kinds of interest groups that are to he found.
+<ICE-CAN:W2A-018#20:1> This prevents us from understanding why very different kinds of
+
+pressure groups emerge, why their behaviour varies, and why some groups
+
+appear to be more influential than others. <sp> * </sp> <footnote> *Two
+
+factors may be forcing us to become more rigorous.
+<ICE-CAN:W2A-018#21:1> First, the growth of empiricism in social science has fostered
+
+precision in definition and led to increasingly accurate observa <l> tion of
+
+pressure groups.
+<ICE-CAN:W2A-018#22:1> Second, the popularity of comparative studies has encouraged us to
+
+work out an analytical terminology that permits accurate <}> <-> comparision
+
+</-> <+> comparison </+> </}> .
+<ICE-CAN:W2A-018#23:1> The corporatists have contributed significantly to this effort.
+
+</footnote> </p>
+
+<p> <ICE-CAN:W2A-018#24:1> Before exploring these issues more fully, it is useful to review
+
+the principles that guide categorization.
+<ICE-CAN:W2A-018#25:1> We can apply those principles to some of the rudimentary typologies
+
+that have been used in studying pressure groups, and use them to build a
+
+system of categories of our own.
+<ICE-CAN:W2A-018#26:1> The principles we shall draw upon, which have been widely used in the
+
+social sciences, can he expressed as five rules: </p>
+<ICE-CAN:W2A-018#27:1> <h> <it> Rule l: Pertinence. </it> </h>
+
+<p> <ICE-CAN:W2A-018#28:1> The categories must be set up to address an explicitly defined
+
+research problem.
+<ICE-CAN:W2A-018#29:1> For example, John E. Chubb, in <it> Interest Groups and the
+
+Bureaucracy </it> , divides the groups in his study of California energy
+
+politics into two categories: cost-bearers and beneficiaries.
+<ICE-CAN:W2A-018#30:1> This approach is perti <l> nent to a case study that tries to explain
+
+group behaviour in a single policy dispute, but it would not help us classify
+
+interest groups in general because groups are seldom consistently
+
+cost-bearers or beneficiaries. <fnr> <sp> 1 </sp> </fnr>
+<ICE-CAN:W2A-018#31:1> In other words, the categories may vary a good deal according to our
+
+research interests, but it is important to ensure that they are appropriate
+
+to the research question being addressed. </p>
+<ICE-CAN:W2A-018#32:1> <h> <it> Rule 2: Exhaustiveness. </it> </h>
+
+<p> <ICE-CAN:W2A-018#33:1> The categories should take into account every type of group that
+
+exists in the system under study.
+<ICE-CAN:W2A-018#34:1> If we want to study the pressure group system in a country, we cannot
+
+be content with a typology that captures only business, women's, or religious
+
+groups. </p>
+<ICE-CAN:W2A-018#35:1> <h> <it> Rule 3: Exclusiveness. </it> </h>
+
+<p> <ICE-CAN:W2A-018#36:1> The categories should be mutually exclusive and independent.
+<ICE-CAN:W2A-018#37:1> This is a most difficult requirement, but it is essential since it
+
+forces us to discriminate between groups and allows us to explore their
+
+differences.
+<ICE-CAN:W2A-018#38:1> The distinction between 'public interest groups' and 'special
+
+interest groups' is popular because a public interest can be distinguished
+
+from a private, or special, interest. <sp> * </sp> <footnote> *Later we will
+
+show that this popular view can be misleading. </footnote>
+<ICE-CAN:W2A-018#39:1> On the other hand, even though a distinction between 'lobby' groups
+
+and 'protest' groups is equally popular because it evokes colourful images of
+
+the different behaviour of the 'ins' and the 'outs', the distinction is not
+
+helpful analytically.
+<ICE-CAN:W2A-018#40:1> This is because so-called 'protest' groups often lobby and
+
+occasionally even powerful lobby groups protest.
+<ICE-CAN:W2A-018#41:1> The activities of protesting and lobbying, in other words, do not
+
+consistently differentiate groups. </p>
+<ICE-CAN:W2A-018#42:1> <h> <it> Rule 4: One category / one principle. </it> </h>
+
+<p> <ICE-CAN:W2A-018#43:1> We cannot build individual categories by combining
+
+characteristics that have been established on the basis of different
+
+principles.
+<ICE-CAN:W2A-018#44:1> For example, when we refer to organizations as 'business', 'environmental',
+
+or 'civil rights' groups we are implicitly using a single principle to
+
+differentiate them.
+<ICE-CAN:W2A-018#45:1> In this case, we are sorting them out according to their central
+
+objectives, which we have concluded are to promote business, or environmental
+
+concerns, or the protection of civil rights.
+<ICE-CAN:W2A-018#46:1> Suppose that we tried to combine this principle with another one: the
+
+level of organizational complexity attained by each group.
+<ICE-CAN:W2A-018#47:1> How would we do it?
+<ICE-CAN:W2A-018#48:1> Would we say that all business groups are highly organized and all
+
+environmental groups not?
+<ICE-CAN:W2A-018#49:1> If we were to do so, how would we categorize Greenpeace, which, with
+
+its extensive international network, is a highly complex environmental group
+
+- probably more complex than most business interest associations.
+<ICE-CAN:W2A-018#50:1> Clearly, by combin <l> ing two different methods of distinguishing
+
+groups we make the task of sorting them out much more difficult, if not
+
+impossible.
+<ICE-CAN:W2A-018#51:1> We would be better off if we analysed one category in terms of
+
+another; we could look at protest groups, for example, to determine how many
+
+are highly organized, weakly organized, and so on. </p>
+<ICE-CAN:W2A-018#52:1> <h> <it> Rule 5: Respect the level of analysis. </it> </h>
+
+<p> <ICE-CAN:W2A-018#53:1> Each set of categories enables us to carry out analysis at a
+
+specific level.
+<ICE-CAN:W2A-018#54:1> A set of categories designed to study the pressure groups operating
+
+in a particular policy field will not help us examine the efforts made by
+
+political parties, lobbying firms, corporations, officials, and individuals
+
+to influence those policies.
+<ICE-CAN:W2A-018#55:1> To do that, we would have to move to the next level of analysis, the
+
+policy system, and to employ a new set of analytical tools. <fnr> <sp> 2
+
+</sp> </fnr> </p>
+
+<p> <ICE-CAN:W2A-018#56:1> How well do our categories for pressure groups adhere to these
+
+rules?
+<ICE-CAN:W2A-018#57:1> When we set out to distinguish pressure groups from other political
+
+actors we seem to be on firm ground.
+<ICE-CAN:W2A-018#58:1> The distinctions drawn between pressure groups, parties, government
+
+agencies, and so on in Chapter 1 have been generally accepted for a number of
+
+years and have helped keep us from violating the level of analysis precepts
+
+of Rule 5.
+<ICE-CAN:W2A-018#59:1> Similarly, we have learned to distinguish between the three types of
+
+interests - latent, solidary, and organized or formal - and to maintain a
+
+clear distinction in analysis between organized groups and the other two
+
+types. <fnr> <sp> 3 </sp> </fnr> </p>
+
+<p> <ICE-CAN:W2A-018#60:1> When we attempt to distinguish <it> between </it> organized
+
+pressure groups we run into trouble, largely because we tend to ignore our
+
+first rule of categori <l> zation.
+<ICE-CAN:W2A-018#61:1> We do not keep in mind the research questions that different methods
+
+of categorization are designed to address.
+<ICE-CAN:W2A-018#62:1> Consequently we often fall into the trap of using a category designed
+
+to explore one question to address others.
+<ICE-CAN:W2A-018#63:1> Equally, there is a danger of criticizing a typology developed for
+
+one purpose simply because it does not address another.
+<ICE-CAN:W2A-018#64:1> To ensure that the following critique avoids this trap, we will
+
+briefly consider the research question that a general typology should
+
+address. </p>
+
+<p> <ICE-CAN:W2A-018#65:1> The questions at the heart of political science have to do with
+
+power, specifically, the power of the state - what it consists of, how it is
+
+used, who gets to use it, when and where.
+<ICE-CAN:W2A-018#66:1> Pressure groups, by definition, do not seek to use state power
+
+directly, but rather to influence it.
+<ICE-CAN:W2A-018#67:1> Consequently, the broadest and central questions that political
+
+scientists ask when they study pressure groups have to do with how groups
+
+exert influence and how their efforts are received by the state.
+<ICE-CAN:W2A-018#68:1> In short, they are most concerned with the relationship between the
+
+state and pressure groups.
+<ICE-CAN:W2A-018#69:1> There are, of course, many other questions political scientists ask
+
+about pressure groups - questions about how groups determine which issues
+
+they will pursue and about the effect membership characteristics and opinions
+
+have on group behaviour, for example - but the core questions have to do with
+
+state / group relations and all others are subsidiary.
+<ICE-CAN:W2A-018#70:1> Any method of classification intended for general use in political
+
+analysis should be designed to address this central concern.
+<ICE-CAN:W2A-018#71:1> Guided by this conclusion, the critique that follows is intended to
+
+assess the capacity of widely used typologies to assist our explorations of
+
+the core questions of political science.
+<ICE-CAN:W2A-018#72:1> It should be remembered that typologies shown to be inadequate for
+
+this level of analysis may be extremely useful in addressing other questions.
+
+</p>
+
+<p> <ICE-CAN:W2A-018#73:1> Two methods of categorization are popular with academics,
+
+journalists, and interest group members themselves.
+<ICE-CAN:W2A-018#74:1> The first divides organized groups according to their objectives -
+
+protest, environmental, civil rights, and public interest groups, to name a
+
+few.
+<ICE-CAN:W2A-018#75:1> Collectively those groups that pursue public-regarding objectives are
+
+often referred to as 'public interest' groups, while those that attend to the
+
+exclusive and generally material benefits of their members are often labelled 'special
+
+interest' groups.
+<ICE-CAN:W2A-018#76:1> The second classifies by the character of the members - business,
+
+ethnic, or women's groups for example. </p>
+
+<p> <ICE-CAN:W2A-018#77:1> Research that applies this two-fold division of groups shows that
+
+it fails to conform to two of our five rules of categorization, and therefore
+
+fails as a typology.
+<ICE-CAN:W2A-018#78:1> It does not meet the requirement for exclusiveness or the require <l>
+
+ment that a category should be based on a single principle.
+<ICE-CAN:W2A-018#79:1> Some scholars assure us that despite the considerable overlap between
+
+groups that fall into the material benefit category and those designated as
+
+attitude groups, <quote> 'one is able to assign a group to one or the other
+
+category quite easily'. </quote> <fnr> <sp> 4 </fnr> </sp>
+<ICE-CAN:W2A-018#80:1> This is not in fact the case.
+<ICE-CAN:W2A-018#81:1> It is extremely difficult to show that there are characteristics
+
+unique to groups in each category. </p>
+
+<p> <ICE-CAN:W2A-018#82:1> A good illustration is found in Jeffrey Berry's survey of 83
+
+public interest groups based in Washington in the early 1970s and his case
+
+studies of two of them.
+<ICE-CAN:W2A-018#83:1> These studies show that when groups focus exclusively on public
+
+interest objectives, they tend to experience problems of organization,
+
+access, and resource mobilization, and that these circumstances generally
+
+lead them to use some pressure strategies - such as publicity, confrontation,
+
+and litigation - rather than others, like consultation and co-operation.
+<ICE-CAN:W2A-018#84:1> However, if we compare Berry's findings with research into material
+
+benefit groups, we discover similar characteristics.
+<ICE-CAN:W2A-018#85:1> Business interest associations are more likely to use consultation
+
+and co-operation rather than publicity and confrontation, but they may still
+
+use the latter techniques.
+<ICE-CAN:W2A-018#86:1> Organiza <l> tional characteristics are more likely to be distinct.
+<ICE-CAN:W2A-018#87:1> Business interest groups tend to be better developed organizationally
+
+and to have more extensive membership participation in policy-making than
+
+public interest groups, while public interest groups are more likely to have
+
+been created by individuals whose charisma and entrepreneurial skills keep
+
+them alive and draw media attention to their causes.
+<ICE-CAN:W2A-018#88:1> Even on this dimension, however, it is possible to find public
+
+interest groups that are more fully developed than many business groups and
+
+others that encourage membership participation. <fnr> <sp> 5 </fnr> </sp>
+<ICE-CAN:W2A-018#89:1> It is also possible to find business interest associations, such as
+
+the Canadian Federation of Independent Business, that have been established
+
+by chiaris <l> matic entrepreneurs. <fnr> <sp> 6 </fnr> </sp>
+<ICE-CAN:W2A-018#90:1> We have to conclude, then, that we cannot create water-tight
+
+divisions between groups by associating material benefit objec <l> tives with
+
+one category of group and altruisic objectives with the others. </p> </I>

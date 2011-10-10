@@ -1,0 +1,409 @@
+<I>
+<ICE-CAN:W2D-001#1:1> <h> UNEMPLOYMENT INSURANCE </h>
+<ICE-CAN:W2D-001#2:1> <h> <bold> General Information </bold> </h>
+<ICE-CAN:W2D-001#3:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2D-001#4:1> This booklet provides general information about regular Un <l>
+
+employment Insurance benefits.
+<ICE-CAN:W2D-001#5:1> However, it isn't the last word.
+<ICE-CAN:W2D-001#6:1> The Unemployment Insurance Act is. </p>
+
+<p> <ICE-CAN:W2D-001#7:1> If you are in doubt on any point, ask for explanations and more
+
+information at a Canada Employment Centre ( CEC).
+<ICE-CAN:W2D-001#8:1> The centres have UI agents and employment counsellors whose jobs are
+
+to make certain that you get all the benefits to which you are entitled,
+
+while helping you get back into the work force. </p>
+
+<p> <ICE-CAN:W2D-001#9:1> The CEC is a good place to start if you are looking for a job or
+
+planning to change jobs.
+<ICE-CAN:W2D-001#10:1> Each CEC has a job board which posts available jobs in the area and
+
+displays a collection of publications, most of which are free.
+<ICE-CAN:W2D-001#11:1> These include brochures on how to prepare r&eacute;sum&eacute;s, on
+
+how to look for jobs, on other UI benefits and on training programs. </p>
+
+<p> <ICE-CAN:W2D-001#12:1> Check the various programs offered by the Canada Employment
+
+Centre.
+<ICE-CAN:W2D-001#13:1> Don't be afraid to ask questions and seek assistance. </p>
+<ICE-CAN:W2D-001#14:1> <h> <bold> Section I: Regular Benefits </bold> </h>
+<ICE-CAN:W2D-001#15:1> <h> <bold> Where to apply </bold> </h>
+
+<p> <ICE-CAN:W2D-001#16:1> Go to your local Canada Employment Centre.
+<ICE-CAN:W2D-001#17:1> Check your local telephone directory for the one nearest you. </p>
+<ICE-CAN:W2D-001#18:1> <h> <bold> Who is eligible for regular UI benefits </bold> </h>
+
+<p> <ICE-CAN:W2D-001#19:1> You can receive UI regular benefits if you lose your job and you
+
+can't find work, provided that you meet certain requirements. </p>
+
+<p> <ICE-CAN:W2D-001#20:1> &bullet; You have paid into the UI account ( usually through
+
+deductions from your pay cheque when you were working). </p>
+
+<p> <ICE-CAN:W2D-001#21:1> &bullet; You have worked a minimum number of weeks within the
+
+last 52 weeks or since the start of your last UI claim, whichever is
+
+shortest.
+<ICE-CAN:W2D-001#22:1> That minimum varies depending on where you live because it is
+
+determined by the unemployment rate in your area.* </p>
+
+<p> <ICE-CAN:W2D-001#23:1> * Two exceptions: In your first job ever, or your first job after
+
+coming back into the work force after an absence of two years or more, you
+
+will need 20 weeks of work to qualify regardless of the local unemployment
+
+rate. </p>
+
+<p> <ICE-CAN:W2D-001#24:1> <bold> Regular UI benefits are paid to people who are available
+
+for and able to work, but who can't find work. </bold> </p>
+<ICE-CAN:W2D-001#25:1> <h> <bold> How and when to apply </bold> </h>
+
+<p> <ICE-CAN:W2D-001#26:1> Fill out an Unemployment Insurance application form which you can
+
+get at any Canada Employment Centre.
+<ICE-CAN:W2D-001#27:1> You need two pieces of information: <l>
+<ICE-CAN:W2D-001#28:1> &bullet; Your Social Insurance Number ( SIN).
+<ICE-CAN:W2D-001#29:1> ( If you have lost your card and don't know your number, you can
+
+apply for another at the CEC.
+<ICE-CAN:W2D-001#30:1> The replacement costs &dollar;10.)
+<ICE-CAN:W2D-001#31:1> &bullet; Your Record of Employment ( ROE).
+<ICE-CAN:W2D-001#32:1> This is a form your employer must give you.
+<ICE-CAN:W2D-001#33:1> It tells how long you worked and how much you earned with that
+
+employer.
+<ICE-CAN:W2D-001#34:1> If you have more than one ROE ( that is, if you have worked for more
+
+than one employer within the last 52 weeks), attach all your ROEs to your
+
+application because they could affect your benefits. </p>
+
+<p> <ICE-CAN:W2D-001#35:1> You should fill out your application even if you don't have all
+
+the information you need.
+<ICE-CAN:W2D-001#36:1> You can send the information later, and explain why you don't have it
+
+on the application form. </p>
+
+<p> <ICE-CAN:W2D-001#37:1> <bold> Fill out your application form as soon as you are out of
+
+work even if: </bold> <l>
+<ICE-CAN:W2D-001#38:1> &bullet; you receive money when you leave your job, or <l>
+<ICE-CAN:W2D-001#39:1> &bullet; you don't have all the information.
+<ICE-CAN:W2D-001#40:1> Otherwise, the delay could affect your benefits. </p>
+<ICE-CAN:W2D-001#41:1> <h> <bold> When you receive benefits </bold> </h>
+
+<p> <ICE-CAN:W2D-001#42:1> When you claim UI benefits, there is a two-week waiting period.
+<ICE-CAN:W2D-001#43:1> No benefits are paid for that period.
+<ICE-CAN:W2D-001#44:1> This is like a deductible for any kind of insurance. </p>
+
+<p> <ICE-CAN:W2D-001#45:1> If you qualify for benefits, you will then receive a claimant's
+
+report card by mail which you must fill out and return for every two-week
+
+period you are claiming UI benefits.
+<ICE-CAN:W2D-001#46:1> Make sure to return your report card <bold> in the envelope provided
+
+</bold> within three weeks of the date for which you are claiming benefits,
+
+otherwise you may not get your benefit. </p>
+
+<p> <ICE-CAN:W2D-001#47:1> A cheque cannot be issued to you without a completed claimant's
+
+report.
+<ICE-CAN:W2D-001#48:1> If everything is in order, it usually takes a few weeks for your
+
+first cheque to arrive.
+<ICE-CAN:W2D-001#49:1> After that you should receive your benefit cheque every two weeks as
+
+long as you have sent your report card in on time. </p>
+
+<p> <ICE-CAN:W2D-001#50:1> These cards are important.
+<ICE-CAN:W2D-001#51:1> You must send one in every two weeks <it> but </it> <bold> be careful
+
+not to date it before the date indicated on the card because that could delay
+
+your claim. </bold> </p>
+<ICE-CAN:W2D-001#52:1> <h> <bold> Telephone Access Code </bold> </h>
+
+<p> <ICE-CAN:W2D-001#53:1> On your first benefit cheque stub, you will find a special
+
+telephone access code ( TAC) which is yours alone and will help you make
+
+telephone enquiries about your claim.
+<ICE-CAN:W2D-001#54:1> The code identifies you to make certain that your privacy is kept
+
+safe.
+<ICE-CAN:W2D-001#55:1> Don't let others have it because they could get information or take
+
+action on your UI claim without you knowing. </p>
+
+<p> <ICE-CAN:W2D-001#56:1> Have the telephone access code and Social Insurance Number handy
+
+when you make a call - it will make it easier for everyone. </p>
+<ICE-CAN:W2D-001#57:1> <h> <bold> How long can you receive benefits </bold> </h>
+
+<p> <ICE-CAN:W2D-001#58:1> How long you can draw benefits depends on: <l>
+<ICE-CAN:W2D-001#59:1> &bullet; the unemployment rate in your region, and <l>
+<ICE-CAN:W2D-001#60:1> &bullet; how long you have worked. </p>
+
+<p> <ICE-CAN:W2D-001#61:1> UI benefits don't last forever.
+<ICE-CAN:W2D-001#62:1> The maximum you can get is 50 weeks. </p>
+<ICE-CAN:W2D-001#63:1> <h> <bold> How much do you receive </bold> </h>
+
+<p> <ICE-CAN:W2D-001#64:1> In most of the cases, you will receive 55% of your insurable
+
+earnings.
+<ICE-CAN:W2D-001#65:1> However, if you earn &dollar;408 a week or less and you have a
+
+dependent, you can receive 60%.
+<ICE-CAN:W2D-001#66:1> <}> <-> Hear </-> <+> Here </+> </}> are some examples: <l>
+
+<p> <h>
+<ICE-CAN:W2D-001#67:1> <bold> Example 1 </bold> </h>
+<ICE-CAN:W2D-001#68:1> You earn &dollar;408 or less per week and you have a dependent, you
+
+can receive 60% up to a maximum of &dollar;245 a week, ( 60% of &dollar;408 =
+
+&dollar;245) </p>
+
+<p> <h>
+<ICE-CAN:W2D-001#69:1> <bold> Example 2 </bold> </h>
+<ICE-CAN:W2D-001#70:1> You earn &dollar;408 or less per week and you do not have a
+
+dependent, you can receive 55% up to a maximum of &dollar;224 per week.
+<ICE-CAN:W2D-001#71:1> ( 55% of &dollar;408 = &dollar;224) </p>
+
+<p> <h>
+<ICE-CAN:W2D-001#72:1> <bold> Example 3 </bold> </h>
+<ICE-CAN:W2D-001#73:1> You earn more than &dollar;445 a week, you can receive 55% of your
+
+insurable earnings. </p>
+
+<p> <h>
+<ICE-CAN:W2D-001#74:1> <bold> Example 4 </bold> </h>
+<ICE-CAN:W2D-001#75:1> You earn between &dollar;408 and &dollar;445 a week and you have a
+
+dependent, you will automatically receive &dollar;245 a week in UI benefits.
+
+</p>
+
+<p> <h>
+<ICE-CAN:W2D-001#76:1> <bold> Example 5 </bold> </h>
+<ICE-CAN:W2D-001#77:1> You earn between &dollar;408 and &dollar;445 a week and you do not
+
+have a dependent, you can receive 55% of your insurable earnings. </p>
+<ICE-CAN:W2D-001#78:1> <h> <bold> Other sources of income </bold> </h>
+
+<p> <ICE-CAN:W2D-001#79:1> There are two types of earnings for the purposes of UI.
+<ICE-CAN:W2D-001#80:1> &bullet; Earnings on separation: money you get from your employer
+
+when you leave your job.
+<ICE-CAN:W2D-001#81:1> &bullet; Earnings while on UI: money you earn at the same time as you
+
+are collecting UI benefits. </p>
+
+<p> <ICE-CAN:W2D-001#82:1> <bold> Money you receive before your claim start: </bold> <l>
+<ICE-CAN:W2D-001#83:1> &bullet; severance pay <l>
+<ICE-CAN:W2D-001#84:1> &bullet; vacation pay <l>
+<ICE-CAN:W2D-001#85:1> &bullet; separation money paid into your RRSP. </p>
+
+<p> <ICE-CAN:W2D-001#86:1> This money will delay the payment of your UI benefit, but will
+
+not reduce the number of weeks you can collect UI.
+<ICE-CAN:W2D-001#87:1> You cannot draw UI benefits during the time covered by this pay, but
+
+you should apply as soon as you have officially left your job. </p>
+
+<p> <ICE-CAN:W2D-001#88:1> Payment of benefits can start when your separation payments have
+
+been used up. </p>
+
+<p> <h>
+<ICE-CAN:W2D-001#89:1> <bold> Example: </bold> </h>
+<ICE-CAN:W2D-001#90:1> If you receive 12 weeks of severance pay, whether in a lump sum or
+
+weekly, UI benefits would be delayed for 12 weeks. </p>
+
+<p> <ICE-CAN:W2D-001#91:1> <bold> Money you receive while on UI </bold> which could affect
+
+the amount of benefits you receive include: <l>
+<ICE-CAN:W2D-001#92:1> &bullet; damages for wrongful dismissal <l>
+<ICE-CAN:W2D-001#93:1> &bullet; return to work and call-back pay <l>
+<ICE-CAN:W2D-001#94:1> &bullet; retaining fees <l>
+<ICE-CAN:W2D-001#95:1> &bullet; self-employment earnings <l>
+<ICE-CAN:W2D-001#96:1> &bullet; retirement income from an employment pension, military or
+
+police pension, Canada or Quebec Pension Plans or provincial plans based on
+
+employment. </p>
+
+<p> <ICE-CAN:W2D-001#97:1> Pension income that does not affect your UI benefits includes:
+
+<l>
+<ICE-CAN:W2D-001#98:1> &bullet; pension payments received from RRSPs <l>
+<ICE-CAN:W2D-001#99:1> &bullet; disability pensions <l>
+<ICE-CAN:W2D-001#100:1> &bullet; survivor's or dependant's pensions. </p>
+
+<p> <ICE-CAN:W2D-001#101:1> If you are receiving regular UI benefits, you can earn up to 25
+
+percent of your weekly amount without it being affected. </p>
+
+<p> <ICE-CAN:W2D-001#102:1> All earnings above that limit will be deducted dollar for dollar
+
+from your weekly UI benefits. </p>
+
+<p> <ICE-CAN:W2D-001#103:1> If you are receiving maternity, parental or sickness UI
+
+benefits, any earnings at all are deducted dollar for dollar from your
+
+benefit.
+<ICE-CAN:W2D-001#104:1> There is no 25 percent allowance. </p>
+
+<p> <h>
+<ICE-CAN:W2D-001#105:1> <bold> Example: </bold> </h>
+<ICE-CAN:W2D-001#106:1> If you receive &dollar;200 in UI every week, you can earn up to
+
+&dollar;50 a week and still receive your full benefits. </p>
+
+<p> <ICE-CAN:W2D-001#107:1> In any case, you must declare all earnings. </p>
+
+<p> <h>
+<ICE-CAN:W2D-001#108:1> <bold> For further information </bold> </h>
+<ICE-CAN:W2D-001#109:1> Please contact your local Canada Employment Centre for more
+
+information. </p>
+<ICE-CAN:W2D-001#110:1> <h> <bold> Section II: Rights and responsibilities </bold> </h>
+
+<p> <ICE-CAN:W2D-001#111:1> Unemployment Insurance is a financial safety net for Canadians
+
+to protect them from hardship when they lose their jobs and while they are
+
+looking for another.
+<ICE-CAN:W2D-001#112:1> The right to receive benefits, however, is balanced by the
+
+responsibility of each person to abide by the requirements of the law. </p>
+
+<p> <ICE-CAN:W2D-001#113:1> <bold> You have the right to: </bold> <l>
+<ICE-CAN:W2D-001#114:1> &bullet; file a claim for Unemployment Insurance;
+<ICE-CAN:W2D-001#115:1> &bullet; have help making your claim;
+<ICE-CAN:W2D-001#116:1> &bullet; get help in looking for a job;
+<ICE-CAN:W2D-001#117:1> &bullet; receive benefits owing to you; and <l>
+<ICE-CAN:W2D-001#118:1> &bullet; appeal any decision about your benefits which you feel is
+
+unjust. </p>
+
+<p> <ICE-CAN:W2D-001#119:1> <bold> You have the responsibility to: </bold> <l>
+<ICE-CAN:W2D-001#120:1> &bullet; be willing and able to work;
+<ICE-CAN:W2D-001#121:1> &bullet; be looking for work;
+<ICE-CAN:W2D-001#122:1> &bullet; follow instructions from your UI agent or employment
+
+counsellor;
+<ICE-CAN:W2D-001#123:1> &bullet; report all money earned while on UI;
+<ICE-CAN:W2D-001#124:1> &bullet; report all work you do while on UI even though you have not
+
+yet been paid;
+<ICE-CAN:W2D-001#125:1> &bullet; report any absence from the country. </p>
+
+<p> <ICE-CAN:W2D-001#126:1> How you handle your responsibilities could affect your claim to
+
+benefits.
+<ICE-CAN:W2D-001#127:1> You have to look seriously for work, checking the job board, and
+
+scouting possible job opportunities in your area.
+<ICE-CAN:W2D-001#128:1> Keep a list of all employers you have contacted and dates since you
+
+might be asked to give their names. </p>
+
+<p> <ICE-CAN:W2D-001#129:1> The CEC counsellors can help you with your job search and may
+
+suggest special training to open new doors for you. </p>
+
+<p> <ICE-CAN:W2D-001#130:1> If you reject jobs that don't meet your specific desires or if
+
+you don't follow an instruction you are given by your employment counsellor
+
+or UI agent, such as not attending an interview or refusing to take certain
+
+training, your benefits could be stopped. </p>
+<ICE-CAN:W2D-001#131:1> <h> <bold> Fired for misconduct or just plain quit </bold> </h>
+
+<p> <ICE-CAN:W2D-001#132:1> If you quit your job without just cause or if you are fired for
+
+misconduct, you will not receive UI benefits.
+<ICE-CAN:W2D-001#133:1> These are 13 circum <l> stances for quitting which the Unemployment
+
+Insurance Commission considers just cause: <l> 1. sexual or other harassment;
+
+2. needing to move with a spouse or dependent child to another part of the
+
+country; 3. discrimination because of race, colour or religion; 4. working
+
+conditions that endanger your health or safety; 5. the necessity of caring
+
+for a child or another member of your immediate family; 6. reasonable
+
+assurance of another job in the immediate future; 7. major changes in the
+
+terms and conditions of your job affecting wages or salary; 8. excessive
+
+overtime or an employer's refusal to pay for overtime work; 9. major changes
+
+in work duties; 10. difficult relations with a supervisor, for which you are
+
+not primarily responsible; 11. your employer is doing things which break the
+
+law; 12. discrimination because of membership in an association, organization
+
+or union of workers; and <l> 13. pressure from your employer or fellow
+
+workers to make you quit.
+<ICE-CAN:W2D-001#134:1> Other reasonable circumstances could be considered as just cause to
+
+ensure fair treatment. </p>
+<ICE-CAN:W2D-001#135:1> <h> <bold> Downsizing </bold> </h>
+
+<p> <ICE-CAN:W2D-001#136:1> When companies reduce the size of their work force, Unemployment
+
+Insurance will help them and their employees get through the process.
+<ICE-CAN:W2D-001#137:1> If your employer is downsizing, you may leave your job without UI
+
+penalties providing that the company shows that the layoffs will be permanent
+
+and that, with you leaving, you are protecting another person's job. </p>
+
+<p> <ICE-CAN:W2D-001#138:1> When faced with downsizing, it is best to consult first with the
+
+CEC to make certain of all conditions which might affect you directly.
+<ICE-CAN:W2D-001#139:1> Don't take anything for granted. </p>
+<ICE-CAN:W2D-001#140:1> <h> <bold> Appeals </bold> </h>
+
+<p> <ICE-CAN:W2D-001#141:1> Many different circumstances surround UI applications and the
+
+rules on benefits.
+<ICE-CAN:W2D-001#142:1> Human Resources Development always tries to be fair but you might
+
+not agree with a decision.
+<ICE-CAN:W2D-001#143:1> You may want to talk about this to a UI agent, bringing in any new
+
+information you have and making sure that you understand why the decision was
+
+made. </p>
+
+<p> <ICE-CAN:W2D-001#144:1> If you still want to appeal, you must write to your local CEC
+
+stating clearly why you wish to appeal to the <bold> Board of Referees
+
+</bold> .
+<ICE-CAN:W2D-001#145:1> This must be done within 30 days of receiving the UI decision. </p>

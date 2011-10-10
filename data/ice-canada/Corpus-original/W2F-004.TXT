@@ -1,0 +1,431 @@
+<I> <X>
+<ICE-CAN:W2F-004#X1:1> <h> <it> Two Stories </it> </h> </X>
+<ICE-CAN:W2F-004#2:1> Carol Malyon
+<ICE-CAN:W2F-004#3:1> <h> <it> People Walk Off the Edge of the World </it> </h>
+
+<p> <ICE-CAN:W2F-004#4:1> Just a <}> <-> sec </-> <+> second </+> </}> , Charleen says, so I
+
+hang on, <}> <-> & </-> <+> and </+> </}> pretty soon she's back on the line.
+<ICE-CAN:W2F-004#5:1> We just get talking & it happens again.
+<ICE-CAN:W2F-004#6:1> Just a <}> <-> sec </-> <+> second </+> </}> , she says <}> <-> & </->
+
+<+> and </+> </}> she's gone.
+<ICE-CAN:W2F-004#7:1> The third time I ask her. </p>
+
+<p> <ICE-CAN:W2F-004#8:1> So, what's up?
+<ICE-CAN:W2F-004#9:1> I ask.
+<ICE-CAN:W2F-004#10:1> I thought there was no one in the store.
+<ICE-CAN:W2F-004#11:1> I thought you phoned because nothing was happening.
+<ICE-CAN:W2F-004#12:1> All those knick-knacks sit <l> ting around on their glass shelves
+
+getting dusty. </p>
+
+<p> <ICE-CAN:W2F-004#13:1> Yeah. </p>
+
+<p> <ICE-CAN:W2F-004#14:1> Well then, what's with all these <mention> just a <w> <}> <-> sec
+
+</-> <+> second </+> </}> s </w> </mention> ?
+<ICE-CAN:W2F-004#15:1> I don't hear you say one word to a customer.
+<ICE-CAN:W2F-004#16:1> I don't hear anything happen at all. </p>
+
+<p> <ICE-CAN:W2F-004#17:1> So? </p>
+
+<p> <ICE-CAN:W2F-004#18:1> I figure she doesn't want to tell me, but I say nothing <}> <-> &
+
+</-> <+> and </+> </}> just wait.
+<ICE-CAN:W2F-004#19:1> Silence always freaks Charleen right out. </p>
+
+<p> <ICE-CAN:W2F-004#20:1> I was watching something out the window, she says, finally. </p>
+
+<p> <ICE-CAN:W2F-004#21:1> Like what? </p>
+
+<p> <ICE-CAN:W2F-004#22:1> Nothing much, <}> <-> & </-> <+> and </+> </}> she tries to
+
+change the subject, tells me about the ani <l> mation series that's playing
+
+at the Revue. </p>
+
+<p> <ICE-CAN:W2F-004#23:1> Hey, I say, Don't tell me all about it <}> <-> & </-> <+> and
+
+</+> </}> spoil it before I see it.
+<ICE-CAN:W2F-004#24:1> Anyway, I want to know what you were watching out the window. </p>
+
+<p> <ICE-CAN:W2F-004#25:1> Finally she tells me. </p>
+
+<p> <ICE-CAN:W2F-004#26:1> People walk off the end of the world across the street.
+<ICE-CAN:W2F-004#27:1> Charleen stands still <}> <-> & </-> <+> and </+> </}> sees it
+
+happen. </p>
+
+<p> <ICE-CAN:W2F-004#28:1> She stands behind her cash desk at the front of the store <}> <->
+
+& </-> <+> and </+> </}> faces at an angle toward the street.
+<ICE-CAN:W2F-004#29:1> Somehow she sees people disappear.
+<ICE-CAN:W2F-004#30:1> Pedestri <l> ans step into nowhere.
+<ICE-CAN:W2F-004#31:1> Cars <}> <-> & </-> <+> and </+> </}> trucks <}> <-> & </-> <+> and
+
+</+> </}> streetcars do it too. </p>
+
+<p> <ICE-CAN:W2F-004#32:1> Our physics teacher in high school could have lots of fun with
+
+this. </p>
+
+<p> <ICE-CAN:W2F-004#33:1> Remember refraction?
+<ICE-CAN:W2F-004#34:1> I ask her.
+<ICE-CAN:W2F-004#35:1> That's all it is.
+<ICE-CAN:W2F-004#36:1> The way the glass store front <}> <-> & </-> <+> and </+> </}> glass
+
+door angle back <}> <-> & </-> <+> and </+> </}> forth.
+<ICE-CAN:W2F-004#37:1> That's why it tricks you. </p>
+
+<p> <ICE-CAN:W2F-004#38:1> But Charleen knows this.
+<ICE-CAN:W2F-004#39:1> She took physics too.
+<ICE-CAN:W2F-004#40:1> She remembers light refraction.
+<ICE-CAN:W2F-004#41:1> We had to draw pictures in our notebooks. </p>
+
+<p> <ICE-CAN:W2F-004#42:1> It doesn't matter about physics, she says.
+<ICE-CAN:W2F-004#43:1> I see them.
+<ICE-CAN:W2F-004#44:1> I see it happen.
+<ICE-CAN:W2F-004#45:1> These people are minding their own business.
+<ICE-CAN:W2F-004#46:1> They just walk along the sidewalk.
+<ICE-CAN:W2F-004#47:1> They could be carrying bags of groceries or walking a dog or pushing
+
+a stroller.
+<ICE-CAN:W2F-004#48:1> Sometimes <l> they're talking to a friend <}> <-> & </-> <+> and </+>
+
+</}> they're both laughing <}> <-> & </-> <+> and </+> </}> having fun <}>
+
+<-> & </-> <+> and </+> </}> then suddenly they're gone.
+<ICE-CAN:W2F-004#49:1> I can't stand it. </p>
+
+<p> <ICE-CAN:W2F-004#50:1> You'll get used to it, I tell her.
+<ICE-CAN:W2F-004#51:1> You've only been working there a couple of weeks. </p>
+
+<p> <ICE-CAN:W2F-004#52:1> But Charleen doesn't want to get used to it. </p>
+
+<p> <ICE-CAN:W2F-004#53:1> She says, This morning a man was reading a paperback <}> <-> &
+
+</-> <+> and </+> </}> not watching where he was going.
+<ICE-CAN:W2F-004#54:1> I almost yelled at him to look out.
+<ICE-CAN:W2F-004#55:1> But I didn't.
+<ICE-CAN:W2F-004#56:1> So he disappeared like all the rest <}> <-> & </-> <+> and </+> </}>
+
+now I can't get him out of my mind.
+<ICE-CAN:W2F-004#57:1> He reminded me of my father.
+<ICE-CAN:W2F-004#58:1> I feel responsible. </p>
+
+<p> <ICE-CAN:W2F-004#59:1> Don't be silly, I tell her.
+<ICE-CAN:W2F-004#60:1> You know that nothing really happens. </p>
+
+<p> <ICE-CAN:W2F-004#61:1> But Charleen's still talking.
+<ICE-CAN:W2F-004#62:1> Remember those old explorers who thought the world was flat?
+<ICE-CAN:W2F-004#63:1> They were afraid to sail too far for fear they fell off the edge.
+<ICE-CAN:W2F-004#64:1> It's like that, except these people don't believe it ahead of time.
+<ICE-CAN:W2F-004#65:1> They've seen globes <}> <-> & </-> <+> and </+> </}> believe them.
+<ICE-CAN:W2F-004#66:1> They learned about Christo <l> pher Columbus & how he proved the
+
+world was round.
+<ICE-CAN:W2F-004#67:1> They believe everything their geography teachers said in school, but
+
+then go falling off the edge.
+<ICE-CAN:W2F-004#68:1> It isn't fair. </p>
+
+<p> <ICE-CAN:W2F-004#69:1> There's a flat earth society, I say.
+<ICE-CAN:W2F-004#70:1> You ought to join it.
+<ICE-CAN:W2F-004#71:1> You're sounding weird. </p>
+
+<p> <ICE-CAN:W2F-004#72:1> Of course she can't really believe it.
+<ICE-CAN:W2F-004#73:1> She can't think there's some bot <l> tomless pit across the street
+
+that cars <}> <-> & </-> <+> and </+> </}> trucks <}> <-> & </-> <+> and </+>
+
+</}> people keep falling into.
+<ICE-CAN:W2F-004#74:1> Like a black hole.
+<ICE-CAN:W2F-004#75:1> Like a doorway into another dimension in a sci <l> ence fiction movie
+
+or TV show. </p>
+
+<p> <ICE-CAN:W2F-004#76:1> But she sees it happen. </p>
+
+<p> <ICE-CAN:W2F-004#77:1> It's not fake like a TV show, Charleen says.
+<ICE-CAN:W2F-004#78:1> In a movie or TV show you always know you're watching actors.
+<ICE-CAN:W2F-004#79:1> You know it's fake, but try to believe it.
+<ICE-CAN:W2F-004#80:1> This isn't like that.
+<ICE-CAN:W2F-004#81:1> They're real people.
+<ICE-CAN:W2F-004#82:1> They could be anyone.
+<ICE-CAN:W2F-004#83:1> I worry that sometime I'm going to glance across the street <}> <-> &
+
+</-> <+> and </+> </}> see some <l> one I know walk past the edge of the
+
+world.
+<ICE-CAN:W2F-004#84:1> I worry about it all the time.
+<ICE-CAN:W2F-004#85:1> It could be a person that I love.
+<ICE-CAN:W2F-004#86:1> Billy wants to come down <}> <-> & </-> <+> and </+> </}> meet me
+
+after work but I won't let him.
+<ICE-CAN:W2F-004#87:1> I won't even tell him where the store is in case he decides he's
+
+going to surprise me. </p>
+
+<p> <ICE-CAN:W2F-004#88:1> You'd better get a different job, I tell her, but she doesn't
+
+want to do that either. </p>
+
+<p> <ICE-CAN:W2F-004#89:1> Who'd pay attention then?
+<ICE-CAN:W2F-004#90:1> she asks.
+<ICE-CAN:W2F-004#91:1> Remember Death of a Salesman?
+<ICE-CAN:W2F-004#92:1> Someone has to pay attention.
+<ICE-CAN:W2F-004#93:1> What if they hire someone who never looks in that direction <}> <-> &
+
+</-> <+> and </+> </}> never sees it happen?
+<ICE-CAN:W2F-004#94:1> Or what <l> if the person sees it happening but doesn't care?
+<ICE-CAN:W2F-004#95:1> At least I care. </p>
+
+<p> <ICE-CAN:W2F-004#96:1> It turns out that Charleen has a moment of silence each time she
+
+sees someone disappear </p> .
+
+<p> <ICE-CAN:W2F-004#97:1> Do you pray?
+<ICE-CAN:W2F-004#98:1> I ask her. </p>
+
+<p> <ICE-CAN:W2F-004#99:1> She says she doesn't, because she doesn't believe in God.
+<ICE-CAN:W2F-004#100:1> She can't see God.
+<ICE-CAN:W2F-004#101:1> But she sees whatever's happening across the street.
+<ICE-CAN:W2F-004#102:1> I have to believe something when I see it, she tells me. </p>
+
+<p> <ICE-CAN:W2F-004#103:1> I don't know what to say when someone talks like this. </p>
+
+<p> <ICE-CAN:W2F-004#104:1> I just have a minute's silence, she says, like on Remembrance
+
+Day, to pay respect. </p>
+
+<p> <ICE-CAN:W2F-004#105:1> Charleen won't keep her job long.
+<ICE-CAN:W2F-004#106:1> Someday she'll be having a minute's silence <}> <-> & </-> <+> and
+
+</+> </}> keep a line-up of customers waiting, <}> <-> & </-> <+> and </+>
+
+</}> that'll be that.
+<ICE-CAN:W2F-004#107:1> It'll be just as well. </p>
+
+<p> <ICE-CAN:W2F-004#108:1> Anyway, she says, I've got to hang up now.
+<ICE-CAN:W2F-004#109:1> Some customers are coming in the door. </p>
+
+<p> <ICE-CAN:W2F-004#110:1> Tell them to watch out for black holes when they leave, I say,
+
+<}> <-> & </-> <+> and </+> </}> <l> I laugh. </p>
+
+<p> <ICE-CAN:W2F-004#111:1> Charleen doesn't. </p>
+
+<p> <ICE-CAN:W2F-004#112:1> Sometimes I think I'm missing something by being reasonable.
+<ICE-CAN:W2F-004#113:1> I wonder what it would be like to be Charleen.
+<ICE-CAN:W2F-004#114:1> Would I be worried all the time?
+<ICE-CAN:W2F-004#115:1> Charleen's not stupid.
+<ICE-CAN:W2F-004#116:1> She's never told me anything before that didn't make sense. </p>
+
+<p> <ICE-CAN:W2F-004#117:1> I want to phone her back <}> <-> & </-> <+> and </+> </}> tell
+
+her that I'm coming down to see it hap <l> pen, that I want to see what she
+
+sees.
+<ICE-CAN:W2F-004#118:1> I want to believe it.
+<ICE-CAN:W2F-004#119:1> I want to phone her but I don't.
+<ICE-CAN:W2F-004#120:1> What if I watched & couldn't believe it?
+<ICE-CAN:W2F-004#121:1> What if I kept thinking reasonable physics thoughts about
+
+refraction? </p>
+
+<p> <ICE-CAN:W2F-004#122:1> What if I spoiled it for Charleen? </p>
+
+<p> <ICE-CAN:W2F-004#123:1> People like Charleen don't know they're lucky.
+<ICE-CAN:W2F-004#124:1> Their world is weird <}> <-> & </-> <+> and </+> </}> fascinating.
+<ICE-CAN:W2F-004#125:1> It must be like living inside a dream. </p>
+
+<p> <ICE-CAN:W2F-004#126:1> Alice fell down a rabbit hole.
+<ICE-CAN:W2F-004#127:1> Maybe Lewis Carroll saw the same kind of things as Charleen.
+<ICE-CAN:W2F-004#128:1> Maybe Charleen's pedestrians fall down into Alice's rabbit hole.
+
+</p>
+
+<p> <ICE-CAN:W2F-004#129:1> A man who looks like Charleen's father reads a paperback <}> <->
+
+& </-> <+> and </+> </}> lands in another world.
+<ICE-CAN:W2F-004#130:1> Other pedestrians are already down there.
+<ICE-CAN:W2F-004#131:1> A babysitter pushes a stroller <}> <-> & </-> <+> and </+> </}>
+
+worries how she'll get the baby back to its mother.
+<ICE-CAN:W2F-004#132:1> She worries that the police are probably searching for them right
+
+now.
+<ICE-CAN:W2F-004#133:1> A woman keeps saying, We were just laughing about something, just
+
+walk <l> ing along <}> <-> & </-> <+> and </+> </}> laughing.
+<ICE-CAN:W2F-004#134:1> Minding our own business.
+<ICE-CAN:W2F-004#135:1> Isn't that right, Mary-lou?
+<ICE-CAN:W2F-004#136:1> Her friend agrees.
+<ICE-CAN:W2F-004#137:1> I'll never laugh again, the friend says. </p>
+
+<p> <ICE-CAN:W2F-004#138:1> They all eat pieces of cake <}> <-> & </-> <+> and </+> </}>
+
+grow taller or smaller.
+<ICE-CAN:W2F-004#139:1> A white rabbit hur <l> ries past.
+<ICE-CAN:W2F-004#140:1> The mock turtle sings them his melancholy song. </p>
+
+<p> <ICE-CAN:W2F-004#141:1> But when they wake up at the end, they're not in the same spot
+
+across the street or else Charleen would see them.
+<ICE-CAN:W2F-004#142:1> The man who looks like Charleen's father, where is he? </p>
+
+<p> <ICE-CAN:W2F-004#143:1> I want to go there but am afraid. </p>
+<ICE-CAN:W2F-004#144:1> <h> <it> Teen Romance </it> </h>
+
+<p> <ICE-CAN:W2F-004#145:1> This is how her true romance will start to happen thinks Velma
+
+as she sits with Gramps <}> <-> & </-> <+> and </+> </}> Grandma on the front
+
+porch.
+<ICE-CAN:W2F-004#146:1> They watch a puff of dust that scuds along the sideroad.
+<ICE-CAN:W2F-004#147:1> The stranger will slow down at their front gate <}> <-> & </-> <+>
+
+and </+> </}> hesitate a minute before getting out of his car.
+<ICE-CAN:W2F-004#148:1> Who's that fella?
+<ICE-CAN:W2F-004#149:1> Gramps will ask.
+<ICE-CAN:W2F-004#150:1> He looks a bit familiar.
+<ICE-CAN:W2F-004#151:1> I don't know, Grandma will say.
+<ICE-CAN:W2F-004#152:1> I never seen him before.
+<ICE-CAN:W2F-004#153:1> Then Velma looks up from her school book at the last minute as
+
+though she's been off in some other world <}> <-> & </-> <+> and </+> </}>
+
+doesn't bother to notice cars along the road, as though she doesn't notice
+
+strangers until they climb the steps to the verandah. </p>
+
+<p> <ICE-CAN:W2F-004#154:1> Or she'll be reading in the park.
+<ICE-CAN:W2F-004#155:1> Mind if I sit here?
+<ICE-CAN:W2F-004#156:1> a man will ask.
+<ICE-CAN:W2F-004#157:1> Free country, she'll reply & keep on reading.
+<ICE-CAN:W2F-004#158:1> He'll take his paperback out of his pocket <}> <-> & </-> <+> and
+
+</+> </}> read a little while <}> <-> & </-> <+> and </+> </}> not seem to
+
+pay any attention to Velma while she pays none to him.
+<ICE-CAN:W2F-004#159:1> Sooner or later they happen to glance up at the same moment.
+<ICE-CAN:W2F-004#160:1> Maybe a squirrel or bumblebee disturbs them.
+<ICE-CAN:W2F-004#161:1> Or a small child comes along & assumes that they're together <}> <->
+
+& </-> <+> and </+> </}> asks their names.
+<ICE-CAN:W2F-004#162:1> Velma says what her name is <}> <-> & </-> <+> and </+> </}> then
+
+the man says, That's such a pretty name, <}> <-> & </-> <+> and </+> </}> he
+
+tells his.
+<ICE-CAN:W2F-004#163:1> It's almost as though they've been intro <l> duced.
+<ICE-CAN:W2F-004#164:1> What're you reading?
+<ICE-CAN:W2F-004#165:1> he asks, <}> <-> & </-> <+> and </+> </}> perhaps it turns out to be
+
+a book that he's always wanted to read, or maybe he's already read it <}> <->
+
+& </-> <+> and </+> </}> thought that it was great & is flabbergasted to find
+
+someone on a park bench beside him who likes it too.
+<ICE-CAN:W2F-004#166:1> This is amazing, he says <}> <-> & </-> <+> and </+> </}> she
+
+agrees. </p>
+
+<p> <ICE-CAN:W2F-004#167:1> Velma is reading a teen romance.
+<ICE-CAN:W2F-004#168:1> She holds it inside her grade 9 note <l> book so Gramps <}> <-> &
+
+</-> <+> and </+> </}> Grandma will think she's studying for school.
+<ICE-CAN:W2F-004#169:1> The heroine has raven hair in this one; usually it's burnished
+
+auburn.
+<ICE-CAN:W2F-004#170:1> Her hair tumbles in loose curls.
+<ICE-CAN:W2F-004#171:1> No matter what clothes she wears they can't disguise her tiny waist,
+
+her breasts that swell gently above it, her hips that curve below.
+<ICE-CAN:W2F-004#172:1> The heroine also has sparkling eyes, milky complexion, tiny ears, a
+
+perfect chin.
+<ICE-CAN:W2F-004#173:1> She has a sprinkling of freckles on her cheeks in summer which she
+
+thinks makes her flawed <}> <-> & </-> <+> and </+> </}> unappealing. </p>
+
+<p> <ICE-CAN:W2F-004#174:1> Goodness Velma, says Grandma, You look so hot <}> <-> & </-> <+>
+
+and </+> </}> sweaty.
+<ICE-CAN:W2F-004#175:1> Why don't I make some lemonade.
+<ICE-CAN:W2F-004#176:1> You've got to get your hair cut so it's not so hot around your neck.
+
+</p>
+
+<p> <ICE-CAN:W2F-004#177:1> Velma notices that heroines never sweat or smell.
+<ICE-CAN:W2F-004#178:1> In times of great provocation ( maybe a death-bed scene with a
+
+parent, or a reunion with a boyfriend she'd thought was killed at war) a fine
+
+mist might appear upon the heroine's alabaster brow.
+<ICE-CAN:W2F-004#179:1> This makes her seem more beautiful than ever. </p>
+
+<p> <ICE-CAN:W2F-004#180:1> Velma has decided never to cut her hair again.
+<ICE-CAN:W2F-004#181:1> When it is long enough she'll sweep it off her face <}> <-> & </->
+
+<+> and </+> </}> into a french roll.
+<ICE-CAN:W2F-004#182:1> She'll always look cool <}> <-> & </-> <+> and </+> </}> serene.
+<ICE-CAN:W2F-004#183:1> One day when she meets the perfect person it will start to fall out
+
+of place a bit.
+<ICE-CAN:W2F-004#184:1> Perhaps she's riding horseback along some lonesome trail <}> <-> &
+
+</-> <+> and </+> </}> her horse shies at a falling leaf <}> <-> & </-> <+>
+
+and </+> </}> throws her.
+<ICE-CAN:W2F-004#185:1> When she comes to, a man is kneeling beside her looking worried.
+<ICE-CAN:W2F-004#186:1> He's already undone the button at her neck to give her air.
+<ICE-CAN:W2F-004#187:1> Thank heavens you're all right, he says fervently, as her eyelids
+
+begin to flutter open.
+<ICE-CAN:W2F-004#188:1> Velma tries to sit up but can't manage without help.
+<ICE-CAN:W2F-004#189:1> Her hair is falling out of place.
+<ICE-CAN:W2F-004#190:1> He asks to see what she looks like with her hair down.
+<ICE-CAN:W2F-004#191:1> Because of the concussion she's a bit confused <}> <-> & </-> <+>
+
+and </+> </}> lets him.
+<ICE-CAN:W2F-004#192:1> His hands are clumsy with the pins.
+<ICE-CAN:W2F-004#193:1> You're so beautiful, he tells her as her hair tumbles around her
+
+shoul <l> ders.
+<ICE-CAN:W2F-004#194:1> She's shy <}> <-> & </-> <+> and </+> </}> awkward, but he's patient
+
+<}> <-> & </-> <+> and </+> </}> just keeps kissing her gen <l> tly until she
+
+begins to kiss him back. </p>
+
+<p> <ICE-CAN:W2F-004#195:1> Velma <}> <-> & </-> <+> and </+> </}> Gramps <}> <-> & </-> <+>
+
+and </+> </}> Grandma sip lemonade on the porch.
+<ICE-CAN:W2F-004#196:1> I think I put in a tad too much sugar, says Grandma.
+<ICE-CAN:W2F-004#197:1> Gramps reassures her that it's absolutely right.
+<ICE-CAN:W2F-004#198:1> There's no use waiting for Velma to add her comment.
+<ICE-CAN:W2F-004#199:1> Her head's back inside her book. </p>
+
+<p> <ICE-CAN:W2F-004#200:1> I never seen anyone study like that Velma.
+<ICE-CAN:W2F-004#201:1> Grandma's always telling this to her friends in <w> Ladies' </w>
+
+Aid.
+<ICE-CAN:W2F-004#202:1> I tell you she's going to get scholarships some day <}> <-> & </->
+
+<+> and </+> </}> study something important <}> <-> & </-> <+> and </+> </}>
+
+get famous.
+<ICE-CAN:W2F-004#203:1> Just wait <}> <-> & </-> <+> and </+> </}> see, says Grandma to her
+
+friends <}> <-> & </-> <+> and </+> </}> everyone waits to see.
+<ICE-CAN:W2F-004#204:1> What will she study? they all wonder.
+<ICE-CAN:W2F-004#205:1> Maybe she'll be a famous scientist <}> <-> & </-> <+> and </+> </}>
+
+discover a cure for crop blight or cancer.
+<ICE-CAN:W2F-004#206:1> Maybe she'll be a woman evangelist like Aimee Semple McPherson. </I>
+
+<X>
+<ICE-CAN:W2F-004#X207:1> Or be the first female prime minister.
+<ICE-CAN:W2F-004#X208:1> With Velma no one knows. </p> </X>

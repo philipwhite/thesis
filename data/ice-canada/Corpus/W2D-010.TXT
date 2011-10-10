@@ -1,0 +1,396 @@
+<I>
+<ICE-CAN:W2D-010#1:1> <h> <bold> Agreement </bold> </h>
+
+<p> <ICE-CAN:W2D-010#2:1> Beneficial and Beneficial Credit Services are registered trade
+
+marks of Beneficial Canada Inc. </p>
+<ICE-CAN:W2D-010#3:1> <h> <X> <typeface:large> NAME & ADDRESS OF MERCHANT </typeface:large>
+
+</X> </h>
+
+<p> <ICE-CAN:W2D-010#4:1> <X> Beneficial Credit Services, a division of Beneficial Canada
+
+Inc. <l> 1850 rue Panama, Bureau 310 <l> Brossard, Quebec J4W 3C6 </X> </p>
+<ICE-CAN:W2D-010#5:1> <h> <bold> 1. Definition of parties: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#6:1> In this Agreement the words <mention> " you" </mention> ,
+
+<mention> " your", </mention> <mention> " yours" </mention> , <mention> "
+
+Consumer" </mention> , and <mention> " Other Consumer" </mention> mean the
+
+Consumer and persons authorized to use the account, and the words <mention> "
+
+we" </mention> , <mention> " our" </mention> , <mention> " us" </mention> and
+
+<mention> " Beneficial" </mention> mean Beneficial Credit Services ( a
+
+division of Beneficial Canada Inc.), the merchant hereunder.
+<ICE-CAN:W2D-010#7:1> Throughout this agreement, wherever the singular or masculine or
+
+neuter is used, the same shall be interpreted to mean the plural or feminine
+
+or body corporate wherever the context or the parties so require. </p>
+<ICE-CAN:W2D-010#8:1> <h> <bold> 2. Agreement: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#9:1> You are applying for a Beneficial Account ( <mention> " Account"
+
+</mention> ) .
+<ICE-CAN:W2D-010#10:1> This Account can be used to purchase goods and services from any
+
+Merchant who participates in the Beneficial program.
+<ICE-CAN:W2D-010#11:1> This Account can also be used to buy credit insurance associated with
+
+this Account.
+<ICE-CAN:W2D-010#12:1> By applying for this Account, you agree to the terms and conditions
+
+listed on the front and reverse side hereof.
+<ICE-CAN:W2D-010#13:1> In using this Account, you request Beneficial to make advances of
+
+money to you by discharging your obligation to make payment to the merchant
+
+in respect of goods and services purchased.
+<ICE-CAN:W2D-010#14:1> Once a Beneficial Account is opened for you, you will be responsible
+
+for any use of the Account unless the card is lost or stolen. </p>
+<ICE-CAN:W2D-010#15:1> <h> <bold> 3. Effective Date: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#16:1> The Agreement becomes effective after Beneficial issues your
+
+credit card ( the <mention> " Beneficial Card" </mention> ) , which shall be
+
+in lieu of its signature, and the use of the card by you or anyone authorized
+
+by you shall be in lieu of your signature. </p>
+<ICE-CAN:W2D-010#17:1> <h> <bold> 4. Credit Limit: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#18:1> We will establish a credit limit ( <mention> " Limit" </mention> )
+
+on your account which will appear on your monthly statement of account.
+<ICE-CAN:W2D-010#19:1> Your card may not be used for purchases which exceed the Limit. </p>
+<ICE-CAN:W2D-010#20:1> <h> <bold> 5. FINANCING PLANS: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#21:1> <bold> i) Standard Financing Plan: CREDIT CHARGES </bold> will be
+
+imposed on purchases from the date of purchase.
+<ICE-CAN:W2D-010#22:1> However if you pay your New Balance in full by the payment due date
+
+shown on your monthly statement covering the prior billing period ( which is
+
+25 days after the statement closing date), no <bold> CREDIT CHARGE </bold> is
+
+assessed in the current billing period.
+<ICE-CAN:W2D-010#23:1> <bold> ii) Special Financing Plans: </bold> In addition to our
+
+standard financing plan as set forth above, from time to time we may, at our
+
+option, offer special financing plans on purchases made under your account.
+<ICE-CAN:W2D-010#24:1> Specific terms of purchase under a special plan will be shown
+
+separately on your monthly statement.
+<ICE-CAN:W2D-010#25:1> We may, at our option, transfer the unpaid balance of a purchase
+
+under a special financing plan to our standard financing plan, any time you
+
+fail to make any required payment when due.
+<ICE-CAN:W2D-010#26:1> Explanations of some special plans are: <l>
+
+<p> <ICE-CAN:W2D-010#27:1> <bold> ( a) Deferred Payment and Interest: </bold> Your first
+
+payment is deferred for a specified time period and no <bold> CREDIT CHARGES
+
+</bold> are assessed during the deferral period.
+<ICE-CAN:W2D-010#28:1> <bold> ( b) Interest Free: </bold> You will not be assessed any
+
+<bold> CREDIT CHARGES </bold> on your purchase for a specified time period.
+<ICE-CAN:W2D-010#29:1> However our normal rules will apply in calculating your minimum
+
+monthly payments. <bold> ( c) Reduced Rate: </bold> A reduced <bold> ANNUAL
+
+CREDIT RATE </bold> and special repayment terms will apply to your purchase
+
+advance. </p>
+<ICE-CAN:W2D-010#30:1> <h> <bold> 6. Promise to Pay: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#31:1> You agree to pay the amount billed, including insurance ( if
+
+any), plus any credit charge applicable.
+<ICE-CAN:W2D-010#32:1> You must pay no less than the minimum payment indicated on each
+
+monthly billing statement calculated as explained under the <bold> " Payment"
+
+</bold> clause. </p>
+<ICE-CAN:W2D-010#33:1> <h> <bold> 7. Payment: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#34:1> You will pay Beneficial the amount of all sales in respect of
+
+which the Beneficial Card has been used and any <bold> CREDIT CHARGES </bold>
+
+and insurance ( if applicable), within twenty-five <bold> ( 25) </bold> days
+
+from the date of each Monthly Billing Statement sent by us to you as follows:
+
+( a) in full, in which case no further <bold> CREDIT CHARGES </bold> will be
+
+payable by you, <l> ( b) by a minimum monthly payment which is at least
+
+<bold> 1/36th </bold> ( rounded to the nearest dollar) of your balance on the
+
+last day of any billing period in which any purchase is posted to your
+
+Account, plus any amount over your Limit and past due amounts, or, <l> ( c)
+
+should your new balance, including unpaid <bold> CREDIT CHARGES </bold> , be
+
+less than <bold> &dollar;25.00 </bold> , your payment will be the amount of
+
+your new balance. </p>
+<ICE-CAN:W2D-010#35:1> <h> <bold> 8. Credit Charges: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#36:1> CREDIT CHARGES will be calculated at the date of each statement
+
+of account, using an <bold> ANNUAL CREDIT RATE </bold> of <bold> 27.75%
+
+</bold> .
+<ICE-CAN:W2D-010#37:1> The CREDIT CHARGES for each period covered by a statement of account
+
+will be determined by multiplying the Annual Credit Rate by the fraction
+
+represented by the number of days in the period in relation to 365 days, and
+
+by then multiplying the result of the multiplication by the average daily
+
+balance for the period.
+<ICE-CAN:W2D-010#38:1> The average daily balance is determined by dividing the sum of the
+
+daily balances for each day of the period by the number of days in the
+
+period.
+<ICE-CAN:W2D-010#39:1> The daily balance is determined at the end of each day by adding the
+
+value of any purchases made on the Account since the beginning of the period
+
+to the total balance of net capital at the end of the preceding period and,
+
+where applicable, to the credit charges outstanding at the end of the
+
+preceding period, and by subtracting payments received by the merchant since
+
+the beginning of the period.
+<ICE-CAN:W2D-010#40:1> The deemed reinvestment principle shall not be applied in this
+
+calculation.
+<ICE-CAN:W2D-010#41:1> A table of representative credit charges is set forth below. </p>
+<ICE-CAN:W2D-010#42:1> <h> <bold> 9. Pre-Payments: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#43:1> You have the right to pay the entire balance in full or more than
+
+the minimum monthly payment at any time.
+<ICE-CAN:W2D-010#44:1> By doing so, you will reduce your <bold> CREDIT CHARGES </bold> .
+
+</p>
+<ICE-CAN:W2D-010#45:1> <h> <bold> 10. Application of Payments Received: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#46:1> Payment is first applied to ( a) past due insurance costs, if
+
+any; ( b) past due Credit Charges; ( c) past due additional charges, such as
+
+Dishonoured Cheque charges, if any; ( d) past due net capital; ( e) current
+
+insurance costs; ( f) Current Credit charges; ( g) current additional
+
+charges, such as Dishonoured Cheque charges; and ( h) current net capital.
+
+</p>
+<ICE-CAN:W2D-010#47:1> <h> <bold> 11. Fees: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#48:1> You agree to pay administration fees, membership fees,
+
+transaction fees, or other similar fees as may be imposed from time to time
+
+by Beneficial as permitted by law ( <mention> " Other Fees" </mention> ) .
+<ICE-CAN:W2D-010#49:1> You will be notified of such fees as required by law. </p>
+<ICE-CAN:W2D-010#50:1> <h> <bold> 12. Dishonoured Cheques: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#51:1> You agree to pay us the amount of <bold> &dollar;20,00 </bold> as
+
+liquidated damages in respect of each payment of yours which is dishonoured.
+<ICE-CAN:W2D-010#52:1> This amount will be added to the Account balance. </p>
+<ICE-CAN:W2D-010#53:1> <h> <bold> 13. Liability of Beneficial: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#54:1> Beneficial will not be responsible if any merchant refuses to
+
+accept any purchase on your Account, or any merchandise purchased or service
+
+secured by any use of the card.
+<ICE-CAN:W2D-010#55:1> Any disputes between you and a merchant shall be settled by you or
+
+the user of the card and the merchant.
+<ICE-CAN:W2D-010#56:1> To the extent required by law, you will pay for the charged items
+
+even though a dispute exists. </p>
+<ICE-CAN:W2D-010#57:1> <h> <bold> 14. Default: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#58:1> You will be in default if you fail to pay any minimum monthly
+
+payment when due.
+<ICE-CAN:W2D-010#59:1> If your account goes into default, Beneficial may refer your Account
+
+for collection to a collection agency, a lawyer, or any other third party.
+<ICE-CAN:W2D-010#60:1> In that event, you agree to pay Beneficial's out of pocket expenses,
+
+including fees that Beneficial pays to such an agency for collection.
+<ICE-CAN:W2D-010#61:1> These fees will be automatically charged to your Account.
+<ICE-CAN:W2D-010#62:1> You also agree to pay interest on judgement at the <bold> ANNUAL
+
+CREDIT RATE </bold> in effect for your Beneficial Card at the time of
+
+default. </p>
+<ICE-CAN:W2D-010#63:1> <h> <bold> 15. Cancellation of Agreement: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#64:1> Should you breach any of your obligations under this Agreement we
+
+may, at our sole option, cancel it and demand the entire outstanding balance
+
+plus any accrued credit charges immediately.
+<ICE-CAN:W2D-010#65:1> In such case, you must immediately return your Beneficial Card upon
+
+request.
+<ICE-CAN:W2D-010#66:1> At all times, we continue to be the owner of any Beneficial Card
+
+which we issue and may ourselves, or through our agents, take possession of
+
+it. </p>
+
+<p> <ICE-CAN:W2D-010#67:1> <bold> " Clause required under the Consumer Protection Act." < 
+
+</bold>
+<ICE-CAN:W2D-010#68:1> ( Clause of forfeiture of benefit of the term).
+<ICE-CAN:W2D-010#69:1> Before availing himself of this clause, the Merchant must forward the
+
+consumer a notice in writing and unless he is exempted in accordance with
+
+section <bold> 69 </bold> of the General Regulation, he must forward him a
+
+statement of account.
+<ICE-CAN:W2D-010#70:1> Within <bold> 30 </bold> days following the receipt by the consumer
+
+of the notice and, where necessary, of the statement of account, the consumer
+
+may: <l> ( a) either remedy the fact that he is in default; ( b) or present a
+
+motion to the court to have the terms and conditions of payment prescribed in
+
+this contract changed. </p>
+
+<p> <ICE-CAN:W2D-010#71:1> It is in the consumer's interest to refer to sections <bold> 104
+
+</bold> to <bold> 110 </bold> of the Consumer Protection Act ( R.S.Q., c.
+
+<bold> P.-40.1 </bold> ) as well as to Section <bold> 69 </bold> of the
+
+General Regulation made under that Act and, where necessary, to communicate
+
+with the <indig> Office de la protection du consommateur. </indig> </p>
+<ICE-CAN:W2D-010#72:1> <h> <bold> 16. Changes in Terms: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#73:1> Beneficial may change the <bold> ANNUAL CREDIT RATE </bold> ,
+
+membership fees or renewal fees of your Agreement as permitted by law but
+
+must notify you in writing before doing so. </p>
+<ICE-CAN:W2D-010#74:1> <h> <bold> 17. Assignment: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#75:1> Beneficial may sell or assign all or part of the balance of your
+
+Account to another person or entity at any time without prior notice. </p>
+<ICE-CAN:W2D-010#76:1> <h> <bold> 18. Opt Out Clause: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#77:1> Beneficial Credit Services ( a Division of Beneficial Canada
+
+Inc.) provides a wide range of loan services to our customers.
+<ICE-CAN:W2D-010#78:1> From time to time, these services are offered to you through a direct
+
+mail program.
+<ICE-CAN:W2D-010#79:1> If you do not wish to receive these offers, please notify us
+
+accordingly. </p>
+<ICE-CAN:W2D-010#80:1> <h> <bold> 19. Table of Representative Credit Charges </bold> </h>
+
+<p> <ICE-CAN:W2D-010#81:1> Credit charges on representative balances at the <bold> ANNUAL
+
+CREDIT RATE </bold> <bold> ( 27.75%) </bold> , calculated according to the
+
+terms of the agreement, based on a 30 day period. </p> <O> Table 1 </O> <O>
+
+Table 2 </O>
+
+<p> <ICE-CAN:W2D-010#82:1> Note that the Minimum Payment is established in a billing period
+
+when there is purchase activity on the account.
+<ICE-CAN:W2D-010#83:1> The Minimum Payment amount is not affected by subsequent payments or
+
+credits.
+<ICE-CAN:W2D-010#84:1> The Minimum Payment remains the same in later billing periods unless
+
+additional purchase activity occurs, in which case a new Minimum Payment is
+
+calculated at the end of that period. </p>
+<ICE-CAN:W2D-010#85:1> <h> <bold> 20. Responsibility for Indebtedness: </bold> </h>
+
+<p> <ICE-CAN:W2D-010#86:1> In the event that more than one Consumer signs this contract, you
+
+are, each and every one of you, solidarily obligated to the Merchant pursuant
+
+to, and for the purposes of, this contract. </p>
+<ICE-CAN:W2D-010#87:1> <h> <bold> " Clause required under the Consumer Protection Act."
+
+</typeface:large> </bold> </h>
+<ICE-CAN:W2D-010#88:1> ( Contract extending variable credit for the use of a credit card).
+<ICE-CAN:W2D-010#89:1> For the purposes of this contract, the sole fact that the card has
+
+been issued replaces the merchant's signature and the sole use of the card by
+
+the consumer replaces the consumer's signature.
+<ICE-CAN:W2D-010#90:1> In the event of loss or theft of a credit card, the consumer incurs
+
+no liability for a debt resulting from the use of such card by a third person
+
+after the issuer of the card has been notified of the loss or theft by
+
+telephone, telegraph, notice in writing or by any other means.
+<ICE-CAN:W2D-010#91:1> Even where such notice is not given, the liability of the consumer
+
+whose credit card has been lost or stolen is limited to the sum of <bold>
+
+&dollar;50.00 </bold> . </p>
+
+<p> <ICE-CAN:W2D-010#92:1> At the end of each period, the merchant, if he has a claim with
+
+regard to a consumer, must furnish the latter with a statement of account
+
+mailed at least <bold> 21 </bold> days before the date on which he may exact
+
+credit charges if the consumer does not discharge his entire obligation;
+
+credit charges for advances of money may start as of the date of the advance
+
+up until the date of payment.
+<ICE-CAN:W2D-010#93:1> The consumer may require the merchant to forward him, without charge,
+
+a copy of the vouchers for each of the transactions described in the
+
+statement of account.
+<ICE-CAN:W2D-010#94:1> Until the consumer receives a statement of account at his address,
+
+the merchant must not exact credit charges on the unpaid balance, except on
+
+advances of money. </p>
+
+<p> <ICE-CAN:W2D-010#95:1> It is in the consumer's interest to refer to sections <bold> 29,
+
+123, 124, 126 </bold> and <bold> 127 </bold> of the Consumer Protection Act (
+
+R.S.Q., c. <bold> P.-40.1 </bold> ) and, where necessary, to communicate with
+
+the <indig> Office de la protection de consommateur. </indig> </p> </I>

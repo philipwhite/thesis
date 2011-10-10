@@ -1,0 +1,464 @@
+<I>
+<ICE-CAN:W2B-031#1:1> <h> <bold> S'ware vendor callbacks unsatisfactory, says IDC </bold>
+
+</h>
+
+<p> <ICE-CAN:W2B-031#2:1> TORONTO - International Data Corp. ( Canada) Ltd. ( IDC) has
+
+completed a survey of user operating system soft <l> ware support needs and
+
+expec <l> tations. </p>
+
+<p> <ICE-CAN:W2B-031#3:1> The purpose of the <it> 1990 Canadian User Satisfaction with
+
+Software Support </it> survey is to let vendors know how successful they are
+
+in the eyes of customers.
+<ICE-CAN:W2B-031#4:1> Vendors can compare customer satisfaction ratings in 1990 to those
+
+from the <it> 1989 Canadian User Satis <l> faction with Software Support
+
+</it> survey to discover where they have made progress and where they should
+
+concentrate their efforts in the upcoming year. </p>
+
+<p> <ICE-CAN:W2B-031#5:1> It is apparent customers still expect total service from a
+
+software service provider, based on average importance ratings of individual
+
+software support criteria.
+<ICE-CAN:W2B-031#6:1> According to the survey: <l>
+
+<p> <ICE-CAN:W2B-031#7:1> &bullet; Overall support and quality control of software received
+
+were deemed the most impor <l> tant initial support criteria. </p>
+
+<p> <ICE-CAN:W2B-031#8:1> &bullet; The ease of reporting a prob <l> lem and receiving
+
+ongoing feed <l> back on the status of a prob <l> lem / solution were rated
+
+the most significant criteria of tele <l> phone support. </p>
+
+<p> <ICE-CAN:W2B-031#9:1> &bullet; The ability to provide per <l> manent fixes, quality of
+
+up <l> dates / revisions and their ease of installation, and the ability to
+
+provide workarounds were all judged as equally important on <l> going support
+
+criteria. </p>
+
+<p> <ICE-CAN:W2B-031#10:1> &bullet; The ease of maintenance and quality of remote
+
+diagnostics were rated as the most signifi <l> cant additional services. </p>
+
+<p> <ICE-CAN:W2B-031#11:1> One industry trend observed is that vendors, for the most part,
+
+are not meeting customer expectations in regards to call <l> back times in
+
+both emergencies and under normal circumstances. </p>
+
+<p> <ICE-CAN:W2B-031#12:1> Hewlett-Packard is the only software support provider meeting its
+
+<w> customers' </w> average acceptable callback times in emergencies and
+
+under normal circumstances.
+<ICE-CAN:W2B-031#13:1> In fact, average callback times under normal circumstances have
+
+increased; only Hewlett-Packard and NCR achieved decreases in their average
+
+callback times under normal circumstances since 1989.
+<ICE-CAN:W2B-031#14:1> However, average call <l> back times in emergencies have decreased;
+
+only IBM and Bull achieved increases in their average callback times in
+
+emergencies since 1989.
+<ICE-CAN:W2B-031#15:1> Vendors are concentrating too much on quicker responses in emergen
+
+<l> cies to the neglect of their re <l> sponse time under normal cir <l>
+
+cumstances. </p>
+
+<p> <ICE-CAN:W2B-031#16:1> Customer ratings of in <l> dividual <w> vendors' </w> performance
+
+are included in the report.
+<ICE-CAN:W2B-031#17:1> Ven <l> dors assessed include Bull, Digital, Hewlett-Packard, IBM,
+
+NCR, and Unisys. </p>
+
+<p> <ICE-CAN:W2B-031#18:1> For more information about IDC's <it> 1990 Canadian User
+
+Satisfaction with Software Sup <l> port </it> survey, contact Mark Pel <l>
+
+lettier at ( 416) 369-0033. </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-031#19:2> <h> <bold> Win over friends, neighbors with community marketing
+
+</bold> </h>
+<ICE-CAN:W2B-031#20:2> <it> by Catherine Callaghan Special to CDN </it>
+
+<p> <ICE-CAN:W2B-031#21:2> Common sense dictates that some of your most important business
+
+comes from buyers in your area.
+<ICE-CAN:W2B-031#22:2> But according to Tracy Groves, marketing manager for Concord,
+
+Ont.-based Computer Brokers of Canada ( CBC), too many dealers overlook their
+
+own backyard when it comes to planning a marketing campaign.
+<ICE-CAN:W2B-031#23:2> <quote> " Community-based marketing is vastly underutilized,"
+
+</quote> she says. <X>
+<ICE-CAN:W2B-031#X24:2> <quote> " Dealers have to be shown just how cost-effective it can
+
+be." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-031#25:2> There are several good rea <l> sons to act locally when it comes
+
+to your overall market <l> ing strategy.
+<ICE-CAN:W2B-031#26:2> Cost is a major consideration. </p>
+
+<p> <ICE-CAN:W2B-031#27:2> <quote> " For anything other than a local campaign, the costs
+
+will just destroy you," </quote> says Robert Cohen, president of The Cohen
+
+Group, an integrated market <l> ing/advertising firm in Rich <l> mond Hill,
+
+Ont. </p>
+
+<p> <ICE-CAN:W2B-031#28:2> It's also a chance for you to differentiate yourself from the
+
+competition, using the home <l> team advantage, or " buy local" mentality to
+
+your benefit.
+<ICE-CAN:W2B-031#29:2> Over the long haul, it's a chance for you to generate goodwill - to
+
+establish that your firm is a good corporate citizen.
+<ICE-CAN:W2B-031#30:2> In a competitive marketplace, the dealer that earns the con <l>
+
+sumer's trust gets the sales. </p>
+
+<p> <ICE-CAN:W2B-031#31:2> Not all businesses can ap <l> proach community-based marketing
+
+the same way.
+<ICE-CAN:W2B-031#32:2> The vehicles you choose depend on who your customers are, says
+
+Groves.
+<ICE-CAN:W2B-031#33:2> <quote> " Community market <l> ing is especially important if you
+
+serve the retail customer," </quote> she says.
+<ICE-CAN:W2B-031#34:2> Buying a computer represents a big investment - and a major risk -
+
+for most, so building trust and credibility over time is important. </p>
+
+<p> <ICE-CAN:W2B-031#35:2> The scope of your campaign also depends on your size.
+<ICE-CAN:W2B-031#36:2> A dealer like ComputerLand can afford a major outdoor advertis <l>
+
+ing campaign, says Groves, but one-man shops may have to settle for
+
+bus-shelter ads out <l> side the store. </p>
+
+<p> <ICE-CAN:W2B-031#37:2> Finally, location plays a big part in how you stage your
+
+campaign.
+<ICE-CAN:W2B-031#38:2> In major centres, says Cohen, it's critical to es <l> tablish
+
+yourself as a specialist in some area - say, networking or peripherals.
+<ICE-CAN:W2B-031#39:2> In smaller com <l> munities, where you're up against a handful of
+
+competi <l> tors, you want to establish yourself as an expert in all areas.
+
+</p>
+
+<p> <ICE-CAN:W2B-031#40:2> The tools of the community-marketing trade will look famil <l>
+
+iar.
+<ICE-CAN:W2B-031#41:2> CBC's Groves points to local print and radio advertising as two of
+
+the most common ways dealers reach out to their neighbors.
+<ICE-CAN:W2B-031#42:2> <quote> " Community news <l> papers are extremely well-read outside
+
+major centres like Toronto," </quote> agrees Cohen.
+<ICE-CAN:W2B-031#43:2> And while TV advertising is often out of the question for compa <l>
+
+nies on tight budgets, he says, spots on local cable channels can be highly
+
+cost-effective. </p>
+
+<p> <ICE-CAN:W2B-031#44:2> Richard Dexter, co-owner of Basys Consulting Ltd. in Dart <l>
+
+mouth, N.S., is a firm believer in the power of local print media.
+<ICE-CAN:W2B-031#45:2> He and partner Roy Drinnan advertise regularly in the monthly paper
+
+that goes to the 2,000 neighbors in their in <l> dustrial park. </p>
+
+<p> <ICE-CAN:W2B-031#46:2> <quote> " One of our target markets is small and mid-sized busi
+
+<l> ness," </quote> says Dexter, <quote> " and the majority of them fit the
+
+profile." </quote>
+<ICE-CAN:W2B-031#47:2> Basys pays between &dollar;300 and &dollar;400 for an ad in the
+
+monthly <it> Burnside News </it> , and Dexter says the campaign plays an im
+
+<l> portant part in the firm's efforts to overcome price competition from
+
+dealers in Toronto. </p>
+
+<p> <ICE-CAN:W2B-031#48:2> Local business and commu <l> nity associations offer another way
+
+to reinforce your home <l> team advantage.
+<ICE-CAN:W2B-031#49:2> Time, of course, is a limiting factor, says Cohen, and the extent of
+
+your personal involvement has to balance against potential re <l> turns:
+
+<quote> " You need to get your name known in the community without taking up
+
+a lot of your time." </quote> </p>
+
+<p> <ICE-CAN:W2B-031#50:2> Membership in a local Chamber of Commerce is a good way to start.
+
+</p>
+
+<p> <ICE-CAN:W2B-031#51:2> Isaac Ehrlich, owner of Richmond Hill, Ont.-based lap <l> top and
+
+peripheral reseller Keysoft Network Inc., belongs to three local Chambers.
+<ICE-CAN:W2B-031#52:2> Listings <quote> " tell Chamber mem <l> bers who we are and what we
+
+are," </quote> says Keysoft general manager Barbara Smith, <quote> " and
+
+that's reinforced when we at <l> tend local functions.
+<ICE-CAN:W2B-031#53:2> Most of these people really make an ef <l> fort to buy local."
+
+</quote> </p>
+
+<p> <ICE-CAN:W2B-031#54:2> The networking paid off re <l> cently when Keysoft landed a deal
+
+to sell 10 laptops to the municipality of Vaughn, north of Toronto.
+<ICE-CAN:W2B-031#55:2> The deal came about when Ehrlich, who lives in Vaughn, met with a
+
+municipal representative at a recent Chamber meeting. </p>
+
+<p> <ICE-CAN:W2B-031#56:2> Event marketing - hosting events ranging from wine-and-cheese
+
+open houses to champagne-splashed product launches - has become increas <l>
+
+ingly popular in recent years, says CBC's Groves.
+<ICE-CAN:W2B-031#57:2> Event marketing can work very well, she says, particularly in the
+
+computer industry. <X>
+<ICE-CAN:W2B-031#X58:2> <quote> " Because it's a very technical business, you need to show
+
+people a human face when you get them in the door." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-031#59:2> But she warns that custom <l> ers have become more <w>
+
+blas&eacute;' </w> about events over the past couple of years, simply because
+
+there are so many of them.
+<ICE-CAN:W2B-031#60:2> As a result, businesses are having to go to even greater lengths to
+
+draw a crowd.
+<ICE-CAN:W2B-031#61:2> <quote> " You'll have <it> an event </it> and no one'll show up.
+<ICE-CAN:W2B-031#62:2> Then you find out that Joe down the street held one last week, and he
+
+had champagne and you only had beer - you get into that sort of competition,"
+
+</quote> she says. </p>
+
+<p> <ICE-CAN:W2B-031#63:2> One response, says Groves, has been for smaller firms to pool
+
+their resources and stage " mini trade shows."
+<ICE-CAN:W2B-031#64:2> Renting space in a local hotel or meet <l> ing hall, a group can set
+
+up booths and invite members of the local community to browse and partake of
+
+food and drink. <O> photograph </O> <O> Robert Cohen </O>
+<ICE-CAN:W2B-031#65:2> With the combined muscle - and budget - of a number of firms, says
+
+Groves, mini trade shows offer one way to get your name in front of local
+
+buyers. </p>
+
+<p> <ICE-CAN:W2B-031#66:2> Direct mail offers a very precise way to carry your mes <l> sage
+
+to the people who count.
+<ICE-CAN:W2B-031#67:2> You can buy lists from list brokers, local associations like your
+
+Chamber of Commerce, or even church and community groups. </p>
+
+<p> <ICE-CAN:W2B-031#68:2> Roland Lau, owner of Cal <l> gary's The Home Computing Centre
+
+Inc., used postal code data to send flyers to 40,000 households in his
+
+immediate area.
+<ICE-CAN:W2B-031#69:2> The effort cost him about &dollar;7,500, and while he can't at <l>
+
+tribute a specific increase in sales to the effort, he will say the mailing
+
+increased his visi <l> bility. </p>
+
+<p> <ICE-CAN:W2B-031#70:2> When it comes to competi <l> tion, says Lau, dealers have two
+
+choices: <quote> " You can be the biggest, or you can be closest to your
+
+community." </quote>
+<ICE-CAN:W2B-031#71:2> Lau esti <l> mates that more than 70 per cent of sales come from
+
+buyers within a 10-kilometre radius of his retail outlet. </p>
+
+<p> <ICE-CAN:W2B-031#72:2> Depending on the size of your company, outdoor adver <l> tising
+
+can be a good way to keep in touch with your com <l> munity.
+<ICE-CAN:W2B-031#73:2> But both Groves and Cohen warn that, like any advertising,
+
+billboards, bus shelters and taxi tops only work if the ads emphasize some
+
+unique selling point. </p>
+
+<p> <ICE-CAN:W2B-031#74:2> <quote> " There is a place for <it> outdoor advertising </it> if
+
+you can afford it, and can play up some unique selling feature - if you've
+
+got an exclusive on a product, for ex <l> ample," </quote> says Groves. <X>
+<ICE-CAN:W2B-031#X75:2> <quote> " Every <l> one's got basically the same bill of goods, so
+
+you have to focus on what you do better." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-031#76:2> Whether your community marketing campaign pays off in direct
+
+sales today, or paves the way for tomorrow's orders, the push to act locally
+
+remains the same: developing a relationship based on trust. </p>
+
+<p> <ICE-CAN:W2B-031#77:2> <quote> " Being a good corporate citi <l> zen is very important,
+
+espe <l> cially when you're talking about a technical business like
+
+computers," </quote> says Groves. <X>
+<ICE-CAN:W2B-031#X78:2> <quote> " When you build that association with the community, they (
+
+local buyers) get to know you and trust you.
+<ICE-CAN:W2B-031#X79:2> That's what IBM did - everyone trusts IBM, and look where they are
+
+today." </quote> </X> </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-031#80:3> <h> <bold> Quebec makes moves to boost s'ware profiles </bold> </h>
+<ICE-CAN:W2B-031#81:3> <it> by Nina Gilbert Special to CDN </it>
+
+<p> <ICE-CAN:W2B-031#82:3> How many software companies with an excellent product that meet a
+
+real demand remain vir <l> tually invisible despite their technical
+
+expertise? </p>
+
+<p> <ICE-CAN:W2B-031#83:3> In Quebec, the number is far too high, according to Yvon Blais,
+
+manager of the Quebec computer sector for the Minis <l> try of Industry,
+
+Science, and Technology. </p>
+
+<p> <ICE-CAN:W2B-031#84:3> The problem is lack of marketing expertise, and many, including
+
+Blais, hope that the recently established Centre de Promotion du Logi <l>
+
+ciel Qu&eacute;b&eacute;cois ( CPLQ) will address this concern. </p>
+
+<p> <ICE-CAN:W2B-031#85:3> The centre, which began operations in September 1990, is a
+
+non-profit organization funded by the federal Depart <l> ment of
+
+Communications and the provincial Ministry of Com <l> munications. </p>
+
+<p> <ICE-CAN:W2B-031#86:3> The ministries are contribut <l> ing &dollar;200,000 and
+
+&dollar;400,000 re <l> spectively over a period of two years, after which
+
+time the centre expects to be self supporting. </p>
+
+<p> <ICE-CAN:W2B-031#87:3> As the name implies, the centre aims to promote the
+
+commercialization of Quebec software. </p>
+
+<p> <ICE-CAN:W2B-031#88:3> Blais recently threw his sup <l> port behind the new organiza <l>
+
+tion by inviting the CPLQ to co-sponsor a fall workshop that prepared Quebec
+
+companies for Comdex. </p>
+
+<p> <ICE-CAN:W2B-031#89:3> According to Mich&egrave;le Guay, general director of the CPLQ,
+
+the Comdex workshop was the first of many that the centre plans to be
+
+involved in. </p>
+
+<p> <ICE-CAN:W2B-031#90:3> <quote> " Within a few months we expect to be hosting one work
+
+<l> shop per month and one show <l> case per week," </quote> said Guay. </p>
+
+<p> <ICE-CAN:W2B-031#91:3> Showcases, held in the centre's Montreal showroom, will allow
+
+software producers to present products to prospec <l> tive clients and
+
+distributors. </p>
+
+<p> <ICE-CAN:W2B-031#92:3> Guay's strategy for achiev <l> ing the centre's goal is two-fold.
+<ICE-CAN:W2B-031#93:3> On the home front, she in <l> tends to help Quebec software producers
+
+fully exploit their local markets.
+<ICE-CAN:W2B-031#94:3> As part of this effort, the CPLQ will try to get large Quebec
+
+companies to consider locally developed soft <l> ware before turning to the
+
+United States or elsewhere.
+<ICE-CAN:W2B-031#95:3> Guay believes a strong local base gives companies a real advantage in
+
+the international market. </p>
+
+<p> <ICE-CAN:W2B-031#96:3> The CPLQ also has projects underway for companies targeting
+
+markets outside of the province.
+<ICE-CAN:W2B-031#97:3> The centre plans to collaborate on a national marketing network for
+
+edu <l> cational and training software. </p>
+
+<p> <ICE-CAN:W2B-031#98:3> Will Dubitsky, an industry policy analyst with Communica <l>
+
+tions Canada, has organized a symposium for April in Vancou <l> ver.
+<ICE-CAN:W2B-031#99:3> At that time, groups from across Canada will meet with Dubitsky and
+
+B.C. Tel to dis <l> cuss implementation. </p>
+
+<p> <ICE-CAN:W2B-031#100:3> According to Dubitsky, the CPLQ is the only centre of its kind
+
+in Canada right now.
+<ICE-CAN:W2B-031#101:3> They were the obvious choice to rep <l> resent Quebec in the cour
+
+<l> seware network. </p>
+
+<p> <ICE-CAN:W2B-031#102:3> The CPLQ is also collaborat <l> ing on a plan to give 10 Quebec
+
+companies a boost into the in <l> ternational market.
+<ICE-CAN:W2B-031#103:3> The compa <l> nies will benefit from the ex <l> pertise of a
+
+marketing firm and the involvement of government agencies.
+<ICE-CAN:W2B-031#104:3> For the relatively low cost of &dollar;5,000, the firms will be
+
+helped to launch an inter <l> national campaign. </p>
+
+<p> <ICE-CAN:W2B-031#105:3> The CPLQ intends to play an important role as a focus for
+
+information about what is avail <l> able to software producers and
+
+distributors.
+<ICE-CAN:W2B-031#106:3> <quote> " We want to be the hub of a net work made up of producers,
+
+distributors, buy <l> ers, associations, and govern <l> ment agencies
+
+involved in the Quebec software industry," </quote> ex <l> plained Guay. </p>
+
+<p> <ICE-CAN:W2B-031#107:3> Many software producers feel a dire need for just such an
+
+information centre. </p> </I>

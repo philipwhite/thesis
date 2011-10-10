@@ -1,0 +1,694 @@
+<I>
+
+<$A> <ICE-CAN:S1B-004#1:1:A> Uhh the business tax
+
+<$B> <ICE-CAN:S1B-004#2:1:B> Right
+
+<$A> <ICE-CAN:S1B-004#3:1:A> So the city has told me that it's calculated uhm <indig> la
+
+valeur locative </indig> of the place
+
+<$B> <ICE-CAN:S1B-004#4:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-004#5:1:A> Depending on the square footage and everything
+
+<$B> <ICE-CAN:S1B-004#6:1:B> <}> <-> Kay </-> <+> Okay </+> </}>
+
+<$A> <ICE-CAN:S1B-004#7:1:A> And seeing as our office is <}> <-> gonna </-> <+> going to
+
+</+> </}> be very similar in square <,> footage to uhh the dentist's <,>
+<ICE-CAN:S1B-004#8:1:A> Except that it's like about <,> a third of the size
+
+<$B> <ICE-CAN:S1B-004#9:1:B> <}> <-> Kay </-> <+> Okay </+> </}>
+
+<$A> <ICE-CAN:S1B-004#10:1:A> I've used his business <,> tax as <{> <[> a ballpark and </[>
+
+prorated it
+
+<$B> <ICE-CAN:S1B-004#11:1:B> <[> And prorated it </[> </{>
+
+<$B> <ICE-CAN:S1B-004#12:1:B> Okay
+
+<$A> <ICE-CAN:S1B-004#13:1:A> <}> <-> N'I </-> <+> <?> And </?> <&> could be 'now'</&> I
+
+</+> </}> didn't know whether the business tax was actually <,> uhm variable
+
+like let's say a dentist would be charged more because his <{> <[> like
+
+income is astronomical </[>
+
+<$B> <ICE-CAN:S1B-004#14:1:B> <[> Well <unclear> two or three words </unclear> square
+
+footage </[> </{> <}> <-> is uh </-> <,> <=> is a </=> </}> good allocation
+
+basis
+
+<$A> <ICE-CAN:S1B-004#15:1:A> <{> <[> So that's </[> fine the way I do it
+
+<$B> <ICE-CAN:S1B-004#16:1:B> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-004#17:1:A> <{> <[> Okay </[>
+
+<$B> <ICE-CAN:S1B-004#18:1:B> <[> Yep </[> </{>
+
+<$A> <ICE-CAN:S1B-004#19:1:A> And that I understand is payable in February and June
+<ICE-CAN:S1B-004#20:1:A> We won't be starting until <,> July <,> so I just assume that we
+
+would pay it in July
+<ICE-CAN:S1B-004#21:1:A> Maybe half the year's portion
+
+<$B> <ICE-CAN:S1B-004#22:1:B> <unclear> two or three words </unclear> cash flow
+
+<$A> <ICE-CAN:S1B-004#23:1:A> Yes
+
+<$B> <ICE-CAN:S1B-004#24:1:B> I'll put that up in your cash flow as an <unclear> word
+
+</unclear> in June
+
+<$A> <ICE-CAN:S1B-004#25:1:A> Yeah
+
+<$B> <ICE-CAN:S1B-004#26:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-004#27:1:A> <}> <-> Kay </-> <+> Okay </+> </}> uhm alright that's done
+<ICE-CAN:S1B-004#28:1:A> Now <,> did the depreciation of assets do you need a specific table
+
+for that or I just put in <{> <[> our incomes to </[>
+
+<$B> <ICE-CAN:S1B-004#29:1:B> <[> <O> snort </O> Ihh depends on the extent of the assets
+
+</[> </{> <}> <-> whaddya </-> <+> what do you </+> </}> got a <{> <[> car or
+
+a computer </[>
+
+<$A> <ICE-CAN:S1B-004#30:1:A> <[> No it's just uhh </[> </{> the computer three thousand
+
+dollars and the printer three hundred at the <{> <[> <unclear> two words
+
+</unclear> </[>
+
+<$B> <ICE-CAN:S1B-004#31:1:B> <[> Well <unclear> two or three words </unclear> </[> </{>
+
+That's fine
+
+<$B> <ICE-CAN:S1B-004#32:1:B> Then you're using <}> <-> C </-> <=> uh C A </=> </}> <{> <[>
+
+uh </[> the total percent
+
+<$A> <ICE-CAN:S1B-004#33:1:A> <[> Yep </[> </{>
+
+<$B> <ICE-CAN:S1B-004#34:1:B> Actually uh contributed to a hundred percent in year one
+
+<$B> <ICE-CAN:S1B-004#35:1:B> That's the only <{> <[> uh <unclear> word </unclear> yeah </[>
+
+<$A> <ICE-CAN:S1B-004#36:1:A> <[> Yeah maybe they mentioned that in class </[> </{>
+
+<$A> <ICE-CAN:S1B-004#37:1:A> So <}> <-> maybe I <.> sh </.> </-> <=> I had done </=> </}>
+
+it as fifteen so it was carried over from year to year
+
+<$B> <ICE-CAN:S1B-004#38:1:B> Fifteen percent
+
+<$A> <ICE-CAN:S1B-004#39:1:A> Yeah
+<ICE-CAN:S1B-004#40:1:A> Think it's too low
+
+<$B> <ICE-CAN:S1B-004#41:1:B> Well sure because you <}> <-> gotta </-> <+> got to </+> </}>
+
+take advantage as early as possible
+<ICE-CAN:S1B-004#42:1:B> If they allow you <{> <[> a hundred </[> percent and you're
+
+<unclear> word </unclear> you might as well just go right at it
+
+<$A> <ICE-CAN:S1B-004#43:1:A> <[> Okay </[> </{>
+
+<$A> <ICE-CAN:S1B-004#44:1:A> Alright
+
+<$B> <ICE-CAN:S1B-004#45:1:B> And take it and go <unclear> <?> one </?> </unclear> because
+
+it's the only category that allows for a hundred percent uh in year one
+
+<$A> <ICE-CAN:S1B-004#46:1:A> Okay
+<ICE-CAN:S1B-004#47:1:A> Now the <unclear> word </unclear> analysis that I did is not an
+
+accounting for a <unclear> word </unclear> analysis
+<ICE-CAN:S1B-004#48:1:A> I didn't take into account <&> pronounced " accamp"</&> the
+
+depreciation
+<ICE-CAN:S1B-004#49:1:A> <}> <-> D'you </-> <+> do you </+> </}> want me to
+
+<$B> <ICE-CAN:S1B-004#50:1:B> <O> breath </O> No
+
+<$B> <ICE-CAN:S1B-004#51:1:B> The <{> <[> <.> finan </.> </[>
+
+<$A> <ICE-CAN:S1B-004#52:1:A> <[> The financial break-even </[> </{>
+
+<$B> <ICE-CAN:S1B-004#53:1:B> The financial break-even <}> <-> is more </-> uhm uh <=>
+
+reflects </=> </}> uh
+
+<$A> <ICE-CAN:S1B-004#54:1:A> The cash
+
+<$B> <ICE-CAN:S1B-004#55:1:B> Right mh hmm
+
+<$A> <ICE-CAN:S1B-004#56:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#57:1:B> So that'd be more important
+
+<$A> <ICE-CAN:S1B-004#58:1:A> Okay <,,>
+<ICE-CAN:S1B-004#59:1:A> Now <,> the flow of customers <,> doesn't seem relevant to my
+
+project <,,>
+<ICE-CAN:S1B-004#60:1:A> They come in the door <,> they get the appointment and they leave
+<ICE-CAN:S1B-004#61:1:A> Uhm am I misunderstanding what you want from <{> <[> this </[>
+
+<$B> <ICE-CAN:S1B-004#62:1:B> <[> Well </[> </{> the flow of customers is not necessarily
+
+why they're within <,> the confines of the building
+
+<$A> <ICE-CAN:S1B-004#63:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#64:1:B> Flow of customers from the point of view of uhh how do they uh
+
+<{> <[> <unclear> three or four words </unclear> </[>
+
+<$A> <ICE-CAN:S1B-004#65:1:A> <[> <unclear> three words </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1B-004#66:1:B> <}> <-> Do they </-> <=> Do they </=> </}> <unclear> two words
+
+</unclear> appointments <unclear> three words </unclear> uhh
+<ICE-CAN:S1B-004#67:1:B> You know what's the best sort of uh payment how do they <unclear>
+
+word </unclear> do they get uhh
+<ICE-CAN:S1B-004#68:1:B> And once they're in what's the procedure for uh processing <,> a
+
+client
+<ICE-CAN:S1B-004#69:1:B> Do they go in the waiting room <}> <-> do they </-> you know <,>
+
+<=> are they </=> </}> offered coffee
+
+<$A> <ICE-CAN:S1B-004#70:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#71:1:B> Just <}> <-> kinda </-> <+> kind of </+> </}> like the flow
+
+<}> <-> of the </-> <=> of the </=> </}> customer through your whole system
+
+<$A> <ICE-CAN:S1B-004#72:1:A> <}> <-> Mkay </-> <+> Okay </+> </}> <,>
+
+<$A> <ICE-CAN:S1B-004#73:1:A> <O> breath </O> Production plan system <,> not relevant cos
+
+I'm <{> <[> not producing </[> something right
+
+<$B> <ICE-CAN:S1B-004#74:1:B> <[> No </[> </{>
+
+<$B> <ICE-CAN:S1B-004#75:1:B> Cos you don't have any uh <,> <{> <[> any <unclear> two words
+
+</unclear> </[>
+
+<$A> <ICE-CAN:S1B-004#76:1:A> <[> <}> <-> Kay </-> <+> Okay </+> </}> </[> </{>
+<ICE-CAN:S1B-004#77:1:A> Now you mentioned that in the presentation not too much verbal
+
+detail that you only wanted a couple of overheads
+
+<$B> <ICE-CAN:S1B-004#78:1:B> <{> <[> Uhm for your presentation yeah <unclear> two words
+
+</unclear> ten minute <unclear> <?> hard earned </?> </unclear> presentation
+
+</[>
+
+<$A> <ICE-CAN:S1B-004#79:1:A> <[> So what am I doing with this presentation <unclear> <?>
+
+can't sit there and </?> </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1B-004#80:1:B> Uhh <}> <-> you you </-> <=> you see </=> </}> <O> sigh </O>
+
+overheads
+<ICE-CAN:S1B-004#81:1:B> There's a rule of thumb that says five minute <,> max per overhead
+<ICE-CAN:S1B-004#82:1:B> You know because when you put up <,> an overhead you can <{> <[>
+
+leave it </[> for five minutes
+
+<$A> <ICE-CAN:S1B-004#83:1:A> <[> Leave it there </[> </{>
+
+<$A> <ICE-CAN:S1B-004#84:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#85:1:B> But that's a rule of thumb
+<ICE-CAN:S1B-004#86:1:B> Some are less some are more <O> breath </O>
+<ICE-CAN:S1B-004#87:1:B> Uhh <unclear> <?> do </?> </unclear> a few overheads because you
+
+don't <}> <-> wanna </-> <+> want to </+> </}> clutter <}> <-> 'em </-> <+>
+
+them </+> </}>
+<ICE-CAN:S1B-004#88:1:B> You don't <}> <-> wanna </-> <+> want to </+> </}> have every
+<ICE-CAN:S1B-004#89:1:B> If you put up your uhm income statement
+
+<$A> <ICE-CAN:S1B-004#90:1:A> I'm not <}> <-> gonna </-> <+> going to </+> </}> put any
+
+financials up
+
+<$B> <ICE-CAN:S1B-004#91:1:B> Okay good <{> <[> because </[>
+
+<$A> <ICE-CAN:S1B-004#92:1:A> <[> Maybe a </[> </{> break-even chart
+
+<$B> <ICE-CAN:S1B-004#93:1:B> Okay <,> break-even chart's not bad
+<ICE-CAN:S1B-004#94:1:B> But anything where there's a <}> <-> lotta </-> <+> lot of </+>
+
+</}> clutter you're <}> <-> gonna </-> <+> going to </+> </}> find a problem
+
+<$A> <ICE-CAN:S1B-004#95:1:A> No they're <}> <-> gonna </-> <+> going to </+> </}> sleep
+
+<$B> <ICE-CAN:S1B-004#96:1:B> Exactly
+<ICE-CAN:S1B-004#97:1:B> So we <}> <-> wanna </-> <+> want to </+> </}> have a hard hitting
+
+visual or something that's really high impact
+
+<$A> <ICE-CAN:S1B-004#98:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#99:1:B> Low words <,> very uh <,> you know even graphics if necessary
+
+but uh just a few <,> uh <{> <[> to highlight </[> what you <}> <-> wanna
+
+</-> <+> want to </+> </}> do
+
+<$A> <ICE-CAN:S1B-004#100:1:A> <[> Okay </[> </{>
+
+<$B> <ICE-CAN:S1B-004#101:1:B> And go ahead with <}> <-> the </-> uh <,> <=> the </=> </}>
+
+presentation is you <}> <-> wanna </-> <+> want to </+> </}> do uh if you <}>
+
+<-> read an <.> o </.> </-> <=> read an overview </=> </}> of the opportunity
+
+<,> and then go right into your industry research
+
+<$A> <ICE-CAN:S1B-004#102:1:A> Yeah that's what I was <}> <-> gonna </-> <+> going to </+>
+
+</}> <{> <[> do then </[> the target market
+
+<$B> <ICE-CAN:S1B-004#103:1:B> <[> And then </[> </{> the marketing
+<ICE-CAN:S1B-004#104:1:B> Exactly
+
+<$B> <ICE-CAN:S1B-004#105:1:B> <{> <[> And then operations </[>
+
+<$A> <ICE-CAN:S1B-004#106:1:A> <[> And operations </[> </{>
+
+<$B> <ICE-CAN:S1B-004#107:1:B> Yes and finally finance and the highlights <{> <[> in
+
+financing </[>
+
+<$A> <ICE-CAN:S1B-004#108:1:A> <[> So it's almost like </[> </{> highlighting the point of
+
+the business plan
+
+<$B> <ICE-CAN:S1B-004#109:1:B> It has to be in highlights because especially when you come
+
+to financing there's no way you can do a <}> <-> coupleuh </-> <+> couple of
+
+</+> </}> minute presentation on financing without more or less looking at an
+
+overview
+<ICE-CAN:S1B-004#110:1:B> What people are interested in knowing is how much is it <}> <->
+
+gonna </-> <+> going to </+> </}> cost you to start where are you <}> <->
+
+gonna </-> <+> going to </+> </}> get the money and what are your projections
+
+for earnings
+
+<$A> <ICE-CAN:S1B-004#111:1:A> <}> <-> Kay </-> <+> Okay </+> </}>
+
+<$B> <ICE-CAN:S1B-004#112:1:B> So essentially that's the <,> key elements <}> <-> in </->
+
+<=> in </=> </}> financing from a superficial <{> <[> you know </[> high <,>
+
+<$A> <ICE-CAN:S1B-004#113:1:A> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-004#114:1:A> Okay cos you mentioned that you really want us just to <,>
+
+sell it <,>
+<ICE-CAN:S1B-004#115:1:A> I'm <}> <-> hopin </-> <+> hoping </+> </}> to <,> drum up some
+
+business
+
+<$B> <ICE-CAN:S1B-004#116:1:B> Right
+
+<$A> <ICE-CAN:S1B-004#117:1:A> But I'm not like looking at them as if they're potential
+
+shareholders
+
+<$B> <ICE-CAN:S1B-004#118:1:B> No <,>
+<ICE-CAN:S1B-004#119:1:B> You really <}> <-> wanna </-> <+> want to </+> </}> get them to
+
+see the excitement the opportunity to see that you really believe in it that
+
+you've done your homework and that <,> it could work it could fly
+<ICE-CAN:S1B-004#120:1:B> There's some feasibility to it and just like a resume creates the
+
+excitement for somebody to say why don't you come to an interview this would
+
+create the excitement for people to say I'd like to see your business plan
+
+because there's some details I'm not sure about but the idea <}> <-> seems uh
+
+<{> <[> <unclear> word </unclear> </[> </-> <,> <=> seems good on </=> </}>
+
+overview
+
+<$A> <ICE-CAN:S1B-004#121:1:A> <[> Good feedback </[> </{> yeah
+
+<$A> <ICE-CAN:S1B-004#122:1:A> <}> <-> Mkay </-> <+> okay </+> </}> <O> breath </O> uhm <,>
+
+now <,> my pessimistic <,>
+<ICE-CAN:S1B-004#123:1:A> I noticed in your notes that you reduced it by fifty percent like
+
+you just said what would happen if you had half as much volume as you're
+
+anticipating
+
+<$B> <ICE-CAN:S1B-004#124:1:B> Right
+
+<$A> <ICE-CAN:S1B-004#125:1:A> But seeing as our current operating level <,> is just below
+
+<,> no just above break-even
+
+<$B> <ICE-CAN:S1B-004#126:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-004#127:1:A> What I did was I reduced it by thirty <,> and I increased it
+
+by thirty for the probable either way <,>
+<ICE-CAN:S1B-004#128:1:A> And I didn't <}> <-> wanna </-> <+> want to </+> </}> get too
+
+ridiculous and chop them in half because then <,> we're done for the year
+
+type of thing
+<ICE-CAN:S1B-004#129:1:A> We've already done enough business in January February and March
+
+to <,> almost break even
+
+<$B> <ICE-CAN:S1B-004#130:1:B> Okay
+
+<$A> <ICE-CAN:S1B-004#131:1:A> We'd be totally unrealistic to say fifty percent less
+
+<$B> <ICE-CAN:S1B-004#132:1:B> <O> Exasperated sigh </O> Well how many clients is that based
+
+on
+<ICE-CAN:S1B-004#133:1:B> <}> <-> What are </-> <=> What are </=> </}> you using for the
+
+criteria
+<ICE-CAN:S1B-004#134:1:B> In other words like <,> given <}> <-> a </-> <=> a </=> </}>
+
+probable outcome how many people per week are you expecting
+
+<$B> <ICE-CAN:S1B-004#135:1:B> <{> <[> How many people per day </[>
+
+<$A> <ICE-CAN:S1B-004#136:1:A> <[> Okay so what I have now </[> </{>
+
+<$A> <ICE-CAN:S1B-004#137:1:A> This I had to sort of make some decisions without you
+<ICE-CAN:S1B-004#138:1:A> We have a present client base of seventy-five people
+
+<$B> <ICE-CAN:S1B-004#139:1:B> <}> <-> Kay </-> <+> Okay </+> </}>
+
+<$A> <ICE-CAN:S1B-004#140:1:A> Approximately forty percent of those are repeat customers so
+
+they come once a week
+
+<$B> <ICE-CAN:S1B-004#141:1:B> Okay
+
+<$A> <ICE-CAN:S1B-004#142:1:A> So what I've done is for my income statements I drew it up on
+
+a six month
+
+<$B> <ICE-CAN:S1B-004#143:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-004#144:1:A> Uhh like
+
+<$B> <ICE-CAN:S1B-004#145:1:B> Based on the <{> <[> seventy-five </[>
+
+<$A> <ICE-CAN:S1B-004#146:1:A> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-004#147:1:A> So that I could <,> <}> <-> see the </-> <=> determine the
+
+</=> </}> <}> <-> <.> feas </.> </-> <=> feasibility </=> </}> of moving it
+
+<}> <-> outta </-> <+> out of </+> </}> the house on July first
+<ICE-CAN:S1B-004#148:1:A> So I really <}> <-> wanna </-> <+> want to </+> </}> facilitate
+
+the comparison of those two six month periods
+
+<$B> <ICE-CAN:S1B-004#149:1:B> Okay
+
+<$A> <ICE-CAN:S1B-004#150:1:A> So I've put on my uh cash flow that January February March
+
+are actual figures
+
+<$B> <ICE-CAN:S1B-004#151:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-004#152:1:A> And the rest are projected
+
+<$B> <ICE-CAN:S1B-004#153:1:B> <}> <-> Aright </-> <+> Alright </+> </}> and projected on
+
+the basis of <{> <[> what the <unclear> word </unclear> that you have now
+
+</[>
+
+<$A> <ICE-CAN:S1B-004#154:1:A> <[> What we have now and </[> </{> maybe a little increase
+
+because we've already seen a twenty-five percent increase since January
+
+<$B> <ICE-CAN:S1B-004#155:1:B> Wow
+<ICE-CAN:S1B-004#156:1:B> So that's legit
+
+<$A> <ICE-CAN:S1B-004#157:1:A> <{> <[> Cos we just started </[> in October
+
+<$B> <ICE-CAN:S1B-004#158:1:B> <[> So in other </[> </{>
+
+<$B> <ICE-CAN:S1B-004#159:1:B> You see well when I'm talking about cutting by fifty percent
+
+your projections that's based on projections from zero
+
+<$A> <ICE-CAN:S1B-004#160:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#161:1:B> So in other words you're anticipating <.> w </.>
+<ICE-CAN:S1B-004#162:1:B> In your case you have some actual numbers
+
+<$A> <ICE-CAN:S1B-004#163:1:A> Right
+
+<$B> <ICE-CAN:S1B-004#164:1:B> So <}> <-> it'd be </-> <=> there is </=> </}> no point in
+
+cutting it in half because <}> <-> you </-> <=> you </=> </}> uh already got
+
+<,> present clients
+
+<$A> <ICE-CAN:S1B-004#165:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#166:1:B> So to work <,> with that as a starting base <{> <[> is very
+
+very </[> realistic
+
+<$A> <ICE-CAN:S1B-004#167:1:A> <[> That's fine </[> </{>
+
+<$A> <ICE-CAN:S1B-004#168:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#169:1:B> That's your top end <}> <-> what <.> di </.> I <.> m </.>
+
+what is the the <.> t </.> </-> <=> because </=> </}> again you're limited by
+
+<}> <-> how </-> <=> you know </=> </}> facilities and so on and <{> <[> how
+
+many </[> you can handle per day
+
+<$A> <ICE-CAN:S1B-004#170:1:A> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-004#171:1:A> I <{> <[> included </[> that in my maths and <{> <[> income
+
+statements </[> and then maybe year three we would take on another therapist
+
+<$B> <ICE-CAN:S1B-004#172:1:B> <[> So </[> </{>
+
+<$B> <ICE-CAN:S1B-004#173:1:B> <[> Oh <,> good </[> </{>
+
+<$B> <ICE-CAN:S1B-004#174:1:B> You'll have to be <{> <[> <unclear> two or three words
+
+</unclear> </[>
+
+<$A> <ICE-CAN:S1B-004#175:1:A> <[> We have one <,> </[> </{> person doing the massage
+
+<$B> <ICE-CAN:S1B-004#176:1:B> <{> <[> <unclear> three or four words </unclear> </[> you're
+
+limited by X amount of hours a day
+
+<$A> <ICE-CAN:S1B-004#177:1:A> <[> You can only do so many </[> </{>
+
+<$A> <ICE-CAN:S1B-004#178:1:A> Right
+
+<$B> <ICE-CAN:S1B-004#179:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-004#180:1:A> <{> <[> Okay </[>
+
+<$B> <ICE-CAN:S1B-004#181:1:B> <[> That's </[> </{> your point is to see like you know what
+
+would be <{> <[> your saturation level </[> when would you anticipate on
+
+hitting that level so that you can start projecting for that <,> <unclear>
+
+word </unclear> extra therapist other resources whatever
+
+<$A> <ICE-CAN:S1B-004#182:1:A> <[> How constrained </[> </{>
+
+<$A> <ICE-CAN:S1B-004#183:1:A> Right <,>
+<ICE-CAN:S1B-004#184:1:A> Okay <,>
+<ICE-CAN:S1B-004#185:1:A> So that's alright that I did it <,> six months at a time
+
+<$B> <ICE-CAN:S1B-004#186:1:B> Yeah that's perfect
+
+<$A> <ICE-CAN:S1B-004#187:1:A> Just so that <,> okay it is an academic exercise but the
+
+reason why I took the course <,> was to help me learn how to run a business
+
+and he started his business in October
+
+<$B> <ICE-CAN:S1B-004#188:1:B> Mm hmm right
+
+<$A> <ICE-CAN:S1B-004#189:1:A> And it's not working out great <,> <{> <[> at home </[> so I
+
+thought okay this is my opportunity to do the actual research and comparisons
+
+and <{> <[> come up with </[>
+
+<$B> <ICE-CAN:S1B-004#190:1:B> <[> Mind you </[> </{>
+
+<$B> <ICE-CAN:S1B-004#191:1:B> <[> So </[> </{> <unclear> word </unclear> there's a proper
+
+environment to it which means that <{> <[> <unclear> three words </unclear>
+
+</[>
+
+<$A> <ICE-CAN:S1B-004#192:1:A> <[> Cos I didn't <}> <-> wanna </-> <+> want to </+> </}>
+
+</[> </{> fake it and pretend that the business doesn't exist yet
+
+<$B> <ICE-CAN:S1B-004#193:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-004#194:1:A> I wasn't sure if it was <,> really considered a startup but I
+
+spoke to <@> Laura </@> and she said it's only three months old it's a
+
+startup business anyway
+
+<$B> <ICE-CAN:S1B-004#195:1:B> It's a startup anyway because basically uhh I mean what
+
+you're looking at here is taking it <}> <-> off </-> <=> off </=> </}> in a
+
+new direction
+
+<$A> <ICE-CAN:S1B-004#196:1:A> Right
+
+<$B> <ICE-CAN:S1B-004#197:1:B> It's not a continuation <{> <[> of a business </[> as it was
+
+in the past you actually really restarted
+
+<$A> <ICE-CAN:S1B-004#198:1:A> <[> Expanding </[> </{>
+
+<$A> <ICE-CAN:S1B-004#199:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#200:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-004#201:1:A> So we're fulfilling that requirement
+
+<$B> <ICE-CAN:S1B-004#202:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-004#203:1:A> Good <,> <O> breath </O>
+<ICE-CAN:S1B-004#204:1:A> Mmm do I <}> <-> hafta </-> <+> have to </+> </}> take into
+
+account his education <,> the costs or that's just a <?> sump </?> cost that
+
+was done like a year ago <,>
+
+<$B> <ICE-CAN:S1B-004#205:1:B> Education the uh <{> <[> courses <,> </[> to get the uh
+
+certification all that type of stuff
+
+<$A> <ICE-CAN:S1B-004#206:1:A> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-004#207:1:A> Mm hmm <,>
+
+<$B> <ICE-CAN:S1B-004#208:1:B> <O> sigh </O> <,,> That was done prior to the business
+
+<$A> <ICE-CAN:S1B-004#209:1:A> Prior to October
+
+<$B> <ICE-CAN:S1B-004#210:1:B> <,,> And the business wasn't registered until uh October
+
+<$A> <ICE-CAN:S1B-004#211:1:A> Didn't register it till <,> February
+
+<$B> <ICE-CAN:S1B-004#212:1:B> February ahh
+<ICE-CAN:S1B-004#213:1:B> And that is carried back within a year and then it would depend on
+
+your fiscal year
+<ICE-CAN:S1B-004#214:1:B> If you're
+
+<$A> <ICE-CAN:S1B-004#215:1:A> A fiscal year now has to be a calendar year <,> to move on
+
+<$B> <ICE-CAN:S1B-004#216:1:B> Oh it is eh
+
+<$A> <ICE-CAN:S1B-004#217:1:A> Yeah
+
+<$B> <ICE-CAN:S1B-004#218:1:B> Oh cos see you used to be able to set your own fiscal
+
+<$A> <ICE-CAN:S1B-004#219:1:A> Yeah they changed that this year
+
+<$B> <ICE-CAN:S1B-004#220:1:B> Oh they did oh okay <O> mumbling </O>
+<ICE-CAN:S1B-004#221:1:B>
+<ICE-CAN:S1B-004#222:1:B> Cos <}> <=> within the cabinet </=> <,> <-> within the the </->
+
+</}>
+<ICE-CAN:S1B-004#223:1:B> Say like for example if you didn't register a business <,> uh till
+
+October and and you'd done some activity in June you could actually carry it
+
+back as part of the business so <}> <-> you </-> <=> you'd </=> </}> be in
+
+that
+<ICE-CAN:S1B-004#224:1:B> The registration itself wouldn't <}> <-> hafta </-> <+> have to
+
+</+> </}> occur in sequence
+
+<$A> <ICE-CAN:S1B-004#225:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#226:1:B> <}> <-> You </-> <=> You </=> </}> carry back
+<ICE-CAN:S1B-004#227:1:B> In this case to be honest with you and especially given <}> <->
+
+the </-> <=> the </=> </}> new restrictions on the fiscal <,> year <}> <-> I
+
+don't <.> real </.> </-> <=> I can't really </=> </}> say
+
+<$A> <ICE-CAN:S1B-004#228:1:A> Okay
+
+<$B> <ICE-CAN:S1B-004#229:1:B> I would see it as a <?> sump </?> cost but in actuality it's
+
+part of doing the business
+<ICE-CAN:S1B-004#230:1:B> I mean you wouldn't be able to do the business unless you <}> <->
+
+hadda </-> <+> had to </+> </}> put out for
+
+<$A> <ICE-CAN:S1B-004#231:1:A> Well maybe I should put it in startup costs and uh have it
+
+asterisked <&> pronounced asterixed </&> as it's something that's already out
+
+of pocket
+
+<$B> <ICE-CAN:S1B-004#232:1:B> That's possible and also too <}> <-> you have to <.> c </.>
+
+</-> <=> you have to </=> </}> also project for it to be ongoing because you
+
+know there are upgrades and <{> <[> <,> courses and </[> learning new
+
+techniques and so on and so forth
+
+<$A> <ICE-CAN:S1B-004#233:1:A> <[> And courses yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-004#234:1:A> <}> <-> Kay </-> <+> Okay </+> </}>
+
+<$B> <ICE-CAN:S1B-004#235:1:B> So that should be part of your budget <,> each year <,> cos
+
+that's <unclear> two words </unclear> for training and and so on <,>
+
+<$A> <ICE-CAN:S1B-004#236:1:A> Alright <,>
+
+<$B> <ICE-CAN:S1B-004#237:1:B> Training expense I guess you could call it </I>

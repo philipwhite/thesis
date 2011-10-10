@@ -1,0 +1,483 @@
+<I>
+<ICE-CAN:W2A-033#1:1> <h> <bold> <it> CHANGE DETECTION USING PRINCIPAL COMPONENT ANALYSIS
+
+AND FUZZY SET THEORY </it> </bold> </h>
+<ICE-CAN:W2A-033#2:1> by P. GONG <X>
+<ICE-CAN:W2A-033#X3:1> <h> <indig> <bold> <it> R&Eacute;SUM&Eacute; </it> </bold> </indig>
+
+</h>
+
+<p> <ICE-CAN:W2A-033#X4:1> <indig> <it> Cet article pr&eacute;sente deux nouvelles
+
+m&eacute;thodes permettant de faire un meilleur usage de l'information
+
+multibande obtenue &agrave; partir de donn&eacute;es de
+
+t&eacute;l&eacute;d&eacute;tection pour la d&eacute;tection des changements
+<ICE-CAN:W2A-033#X5:1> Au lieu d'effectuer une analyse des composantes principales sur une
+
+combinaison d'images multibandes initiales, celle-ci a &eacute;t&eacute;
+
+effectu&eacute;e sur des donn&eacute;es r&eacute;sultant de
+
+diff&eacute;rences d'images
+<ICE-CAN:W2A-033#X6:1> Ainsi, la plupart des informations relatives aux changements ont
+
+&eacute;t&eacute; conserv&eacute;es sur les premi&egrave;res composantes
+
+principales
+<ICE-CAN:W2A-033#X7:1> Des op&eacute;rations fond&eacute;es sur la th&eacute;orie des
+
+ensembles flous ont &eacute;t&eacute; propos&eacute;es en vue de combiner les
+
+informations sur les changements provenant des diff&eacute;rents canaux en
+
+une seule image
+<ICE-CAN:W2A-033#X8:1> Les zones ayant subi des changements peuvent alors &ecircumflex;tre
+
+extraites de cette derni&egrave;re image
+<ICE-CAN:W2A-033#X9:1> Des images de Kitchener-Waterloo, en Ontario, acquises par le capteur
+
+th&eacute;matique de Landsat pendant deux ann&eacute;es successives sont
+
+utilis&eacute;es pour illustrer ces m&eacute;thodes
+<ICE-CAN:W2A-033#X10:1> Un certain nombre de strat&eacute;gies sur l'utilisation des
+
+op&eacute;rations fond&eacute;es sur la th&eacute;orie des ensembles flous
+
+sont &eacute;galement present&eacute;es. </it> </indig> </p> </X>
+<ICE-CAN:W2A-033#11:1> <h> <bold> <it> SUMMARY </it> </bold> </h>
+
+<p> <ICE-CAN:W2A-033#12:1> <it> In this paper two procedures that were developed to make
+
+better use of multispectral information from remotely sensed data for change
+
+detection are discussed.
+<ICE-CAN:W2A-033#13:1> Instead of applying principal component analysis ( PCA) to a combined
+
+data set of original multispectral images, PCA was applied to difference
+
+images.
+<ICE-CAN:W2A-033#14:1> Thus, most change information was preserved in the first few
+
+principal component images.
+<ICE-CAN:W2A-033#15:1> Operations based on fuzzy set theory were proposed to combine change
+
+information from different image channels into a single-image channel.
+<ICE-CAN:W2A-033#16:1> Changed areas could then be extracted from this single image.
+<ICE-CAN:W2A-033#17:1> Landsat Thematic Mapper ( TM) images acquired in two successive year
+
+over Kitchener-Waterloo, Ontario, are used to illustrate these methods.
+<ICE-CAN:W2A-033#18:1> Some strategies on the use of fuzzy set operations are discussed.
+
+</it> </p>
+<ICE-CAN:W2A-033#19:1> <h> <bold> INTRODUCTION </bold> </h>
+
+<p> <ICE-CAN:W2A-033#20:1> In remote sensing, changes can be deter <l> mined by comparing
+
+the spectral response differences at the same spatial location among a set of
+
+two or more multispectral images acquired at different times.
+<ICE-CAN:W2A-033#21:1> These images are first spatially registered.
+<ICE-CAN:W2A-033#22:1> A commonly used change detection procedure then follows in which
+
+changes are identified via thresholding a difference image that has been
+
+obtained by subtracting one band of image on one date from the same band of
+
+image on another date.
+<ICE-CAN:W2A-033#23:1> However, it is usually not possible to detect changes occurring in a
+
+region using only one spectral band because different types of changes may be
+
+captured in different bands.
+<ICE-CAN:W2A-033#24:1> Therefore, changes have to be enhanced and extracted from
+
+multispectral imagery. </p>
+
+<p> <ICE-CAN:W2A-033#25:1> Two types of procedures for using multi <l> spectral data in
+
+change component enhance <l> ment are commonly used.
+<ICE-CAN:W2A-033#26:1> The first type involves simple image arithmetic between images of the
+
+same spectral band for two dates.
+<ICE-CAN:W2A-033#27:1> For convenience, we define the two images obtained for two different
+
+dates of the same spectral band as band-pair images.
+<ICE-CAN:W2A-033#28:1> Image arithmetic includes rationing and differ <l> encing band-pair
+
+images.
+<ICE-CAN:W2A-033#29:1> Images so generated are referred to as change com <l> ponent images.
+<ICE-CAN:W2A-033#30:1> To locate and identify change automatically, change component images
+
+are thesholded or classified ( Jensen, 1986; Fung and LeDrew, 1988; Pilon
+
+<it> et al. </it> , 1988; Singh, 1989).
+<ICE-CAN:W2A-033#31:1> To detect changes visually, rationed or differenced band-pair images
+
+can be ana <l> lyzed based on their colour displays on a video monitor or
+
+photographic products ( Howarth and Wickware, 1981; Howarth and Boassan,
+
+1983).
+<ICE-CAN:W2A-033#32:1> Although logically straight <l> forward due to increased data
+
+redundancy and display difficulties, this type of procedure becomes
+
+inefficient to use when the image dimension ( that is, the number of spectral
+
+bands) exceeds three. </p>
+
+<p> <ICE-CAN:W2A-033#33:1> To overcome these difficulties, a second type of change component
+
+enhancement pro <l> cedure employs image transformation methods.
+<ICE-CAN:W2A-033#34:1> Transformation methods include vegetation indexing ( VI) ( Tucker,
+
+1979), tasseled cap analysis ( KT-Transform) ( Kauth and Thomas, 1976),
+
+change vector analysis ( CVA) ( Malila, 1980), and principal component
+
+analysis ( PCA) ( Lodwick, 1979; Byrne <it> et al. </it> , 1980; Ingebristen
+
+<it> et al. </it> , 1985; Fung and LeDrew, 1987).
+<ICE-CAN:W2A-033#35:1> By image transformation, the change information recorded in origi <l>
+
+nal multispectral data can be preserved in a relatively small number of
+
+components.
+<ICE-CAN:W2A-033#36:1> Rather than serving as general enhance <l> ment tools, the VI and
+
+KT-Transform methods were developed specifically for such purposes as
+
+enhancing the vegetation or the soil component.
+<ICE-CAN:W2A-033#37:1> While CVA has the potential of summarizing various types of change
+
+components and their magnitudes into separate image channels, it has rarely
+
+been applied since its introduction.
+<ICE-CAN:W2A-033#38:1> Among these transformation techniques, the PCA method has been most
+
+commonly used.
+<ICE-CAN:W2A-033#39:1> Researchers using PCA for change detection have reported that the
+
+minor component images are likely to contain most of the change information
+
+when multispectral images that have been obtained on two dates are applied as
+
+an integrated data set.
+<ICE-CAN:W2A-033#40:1> The amount of change informa <l> tion contained in each principal
+
+component image, however, may vary from image to image.
+<ICE-CAN:W2A-033#41:1> It may not be an easy task to determine which principal component
+
+image to work with.
+<ICE-CAN:W2A-033#42:1> In addition, the use of PCA in such a manner is subject to the
+
+condition that the areas of changes have to be a small proportion of the
+
+entire study area ( Richards, 1984; Fung and LeDrew, 1987). </p>
+
+<p> <ICE-CAN:W2A-033#43:1> It would be desirable to deal with only one image channel and to
+
+extract most, if not all, change information from this channel of image.
+<ICE-CAN:W2A-033#44:1> In this paper, a method is presented for transforming change
+
+information into one image channel from images of different spectral bands.
+<ICE-CAN:W2A-033#45:1> The main objectives are: &bullet; to introduce an alternative method
+
+on the use of PCA for change component enhancement with which change infor
+
+<l> mation is guaranteed to be preserved in the major comp <l> onent images
+
+regardless the proportion of changed area in a study area; and &bullet; to
+
+demonstrate the effectiveness of fuzzy set theory in com <l> bining change
+
+information from different image channels into a single-image channel. </p>
+<ICE-CAN:W2A-033#46:1> <h> <bold> METHOD </bold> </h>
+
+<p> <ICE-CAN:W2A-033#47:1> The change detection procedure proposed in this study can be
+
+divided into six steps: &bullet; spatially register images from two different
+
+dates; &bullet; undertake a band-pair image differencing for each spectral
+
+band and reduce registration noise; &bullet; apply PCA transformation to the
+
+multispectral difference image; &bullet; determine change membership
+
+functions for a number of selected change component images; &bullet; apply
+
+fuzzy operations to combine change information in different change component
+
+images into a single image; &bullet; determine changed areas based on the
+
+image generated at step five. </p>
+
+<p> <ICE-CAN:W2A-033#48:1> At step one, two images from different dates can be registered
+
+using a geometric correction program.
+<ICE-CAN:W2A-033#49:1> After the image-to-image registration, two images with the same
+
+coordinate system are obtained: X = { x <sb> i </sb> | i = 1, 2,
+
+&dotted-line;, n} of date one and Y = { y <sb> i </sb> | i = 1, 2,
+
+&dotted-line;, n} of date two, where x <sb> i </sb> ' = [ x <sb> i1 </sb> , x
+
+<sb> i2 </sb> , &dotted-line;, x <sb> ip </sb> ] and y <sb> i </sb> ' = [ y
+
+<sb> i1 </sb> , y <sb> i2 </sb> , &dotted-line;, y <sb> ip </sb> ] .
+<ICE-CAN:W2A-033#50:1> The parameter n denotes the number of pixels in an image and p the
+
+number of spectral bands. </p>
+
+<p> <ICE-CAN:W2A-033#51:1> At the second step, a difference image, DIF <sb> j </sb> , for
+
+each spectral band j, can be created, where DIF <sb> j </sb> = { &delta; <sb>
+
+<it> ij </it> </sb> =(x <sb> ij </sb> - y <sb> ij </sb> ) | i = 1, 2,
+
+&dotted-line;, n} and j = 1, 2, &dotted-line; p.
+<ICE-CAN:W2A-033#52:1> A grey-scale mapping can then be applied to every difference image,
+
+DIF <sb> j </sb> , j = 1, 2, &dotted-line; p.
+<ICE-CAN:W2A-033#53:1> This further reduces registration noise in each difference image (
+
+Gong <it> et al. </it> , 1992). </p>
+
+<p> <ICE-CAN:W2A-033#54:1> In traditional change detection, one difference image of a
+
+specific spectral band is selected among these difference images.
+<ICE-CAN:W2A-033#55:1> This difference image should contain more change information than the
+
+other difference images for a particular application.
+<ICE-CAN:W2A-033#56:1> An image thresholding technique is then applied to detect changes
+
+using the selected difference image ( Jensen, 1986; Fung and LeDrew, 1988).
+<ICE-CAN:W2A-033#57:1> For example, DIF <sb> 2 </sb> , the red spectral band differ <l> ence
+
+image of Landsat multispectral scanner ( MSS) data is usually considered to
+
+contain more information on rural to urban land-cover changes than the other
+
+three MSS bands.
+<ICE-CAN:W2A-033#58:1> Thresholds T <sb> 1 </sb> and T <sb> 2 </sb> can be determined on the
+
+histogram of DIF <sb> 2 </sb> using the mean ( ave) and standard deviation (
+
+std) ( <bold> Figure 1 </bold> ) .
+<ICE-CAN:W2A-033#59:1> Deciding whether a pixel has changed is simply a matter of testing
+
+whether &delta; <sb> <it> ij </it> </sb> falls outside of range [ T <sb> 1
+
+</sb> , T <sb> 2 </sb> ] . </p> <O> Chart </O> <O> Figure 1 caption </O>
+
+<p> <ICE-CAN:W2A-033#60:1> Two problems are associated with the above-mentioned traditional
+
+method, and they will be overcome by subsequent steps three to five.
+<ICE-CAN:W2A-033#61:1> As mentioned in the introduction, the first problem is that different
+
+types of change information are con <l> tained in different spectral bands;
+
+thus, the use of one spectral band usually does not allow every type of
+
+changes to be detected.
+<ICE-CAN:W2A-033#62:1> The second problem is that once thresholding is applied to a
+
+difference image, change information occurring at smaller mag <l> nitudes (
+
+that is, within range [ T <sb> 1 </sb> , T <sb> 2 </sb> ] ) will be lost.
+<ICE-CAN:W2A-033#63:1> Also, noise could be included as change if its magnitude falls
+
+outside range [ T <sb> 1 </sb> , T <sb> 2 </sb> ] . </p>
+
+<p> <ICE-CAN:W2A-033#64:1> At step three, the difference images are used to generate a
+
+variance-covariance matrix.
+<ICE-CAN:W2A-033#65:1> This is used to find a new set of axes according to the eigen
+
+structure of the feature space.
+<ICE-CAN:W2A-033#66:1> With the variance-covariance matrix, PCA can be applied to the
+
+difference images.
+<ICE-CAN:W2A-033#67:1> The resultant principal component images are called principal
+
+component difference images, denoted by PCD <sb> j </sb> = { &delta; <sb> eij
+
+</sb> | i = 1, 2, &dotted-line;, n} where j = 1, 2, &dotted-line;, p ;
+
+&delta; <sb> eij </sb> is a pixel value for pixel i in the jth principal
+
+component which results from a linear trans <l> formation of the difference
+
+images with the transformation coeffi <l> cients determined with PCA.
+<ICE-CAN:W2A-033#68:1> PCD images are obtained from a p-dimensional data set { x <sb> i
+
+</sb> - y <sb> i </sb> | i = 1, 2, &dotted-line;, n} instead of the
+
+traditional application of PCA in change detection where a com <l> bined
+
+two-date data set,{(x <sb> i </sb> ' y <sb> i' </sb> ' ) ' | i = 1, 2,
+
+&dotted-line;, n} of two p dimen <l> sions, is used.
+<ICE-CAN:W2A-033#69:1> Because the variance in a difference image represents primarily
+
+change information and the purpose of PCA is to preserve most variances into
+
+the first few principal com <l> ponents, the application of PCA to difference
+
+images will result in most change information preserved in the first few PCD
+
+images. </p>
+
+<p> <ICE-CAN:W2A-033#70:1> At step four, the first two or three PCD images containing change
+
+information are selected.
+<ICE-CAN:W2A-033#71:1> The exact number of PCDs is determined according to the eigenvalues
+
+and the correlation matrix of difference images.
+<ICE-CAN:W2A-033#72:1> Each selected PCD image and its histogram are analyzed, and a fuzzy
+
+membership function of change is empirically defined based on the analysis
+
+results.
+<ICE-CAN:W2A-033#73:1> From <bold> Figure 1 </bold> , it is reasonable to assume that the
+
+more distant a pixel value &delta; is from the average, ave, the more likely
+
+is that pixel to fall into the change class.
+<ICE-CAN:W2A-033#74:1> Based on the shape of the histogram of a PCD image, parameters of a
+
+fuzzy membership function of change can be determined.
+<ICE-CAN:W2A-033#75:1> While a fuzzy membership function may take a variety of forms (
+
+Zadeh, 1978), in the case of <bold> Figure 1 </bold> an inverse
+
+triangular-shaped function may be suitable.
+<ICE-CAN:W2A-033#76:1> A more sophisticated change membership function may be determined
+
+based on the knowledge of the various types of change in the study area.
+<ICE-CAN:W2A-033#77:1> For example, statistics on various change types can be estimated from
+
+selected training samples. </p>
+
+<p> <ICE-CAN:W2A-033#78:1> A fuzzy membership function of change, &mu;cj(&delta; <sb> e
+
+</sb> ) , can be defined as: <O> mathematical equation </O> where &mu; <sb>
+
+cj </sb> ( &delta; <sb> e </sb> ) represents the degree of pixel value
+
+&delta; <sb> e </sb> in image PCD <sb> j </sb> belonging to a fuzzy set of
+
+change, C.
+<ICE-CAN:W2A-033#79:1> L&delta; , ave, and H&delta; are the three parameters defining the
+
+inverse triangular-shaped func <l> tion.
+<ICE-CAN:W2A-033#80:1> L&delta; and H&delta; can be determined empirically by examining the
+
+histogram distribution of image PCD <sb> j </sb> , and ave is the average
+
+pixel value in image PCD <sb> j </sb> .
+<ICE-CAN:W2A-033#81:1> A graphical form of &mu; <sb> cj </sb> ( &delta; <sb> e </sb> ) is
+
+shown in <bold> Figure 2 </bold> .
+<ICE-CAN:W2A-033#82:1> After applying a fuzzy membership function, &mu; <sb> cj </sb> (
+
+&delta; <sb> e </sb> ) , to an image, PCD <sb> j </sb> a change membership (
+
+CM) image, CM <sb> j </sb> = { &mu; <sb> cj </sb> ( &delta; <sb> ei </sb> ) |
+
+i = 1, 2, &dotted-line;, n}, is obtained. </p>
+
+<p> <ICE-CAN:W2A-033#83:1> At the fifth step, various change information from different CM
+
+images can be combined into one image, CCM, by applying the fuzzy set theory
+
+( Zadeh, 1965).
+<ICE-CAN:W2A-033#84:1> Most operations based on the fuzzy set theory can be realized by
+
+using three basic types of fuzzy set operator: fuzzy union ( &square-root;),
+
+fuzzy intersection ( <O> mathematical symbol </O> ) , and fuzzy complement (
+
+<O> mathematical symbol </O> ) .
+<ICE-CAN:W2A-033#85:1> While there are a number of definitions for fuzzy union and fuzzy
+
+intersection, the maximum and minimum rule are used in this study.
+<ICE-CAN:W2A-033#86:1> Therefore, fuzzy union of &mu; <sb> 1 </sb> and &mu; <sb> 2 </sb> is
+
+equivalent to max ( &mu; <sb> 1 </sb> , &mu; <sb> 2 </sb> ) , and their fuzzy
+
+intersection is min( &mu; <sb> 1 </sb> , &mu; <sb> 2 </sb> ) .
+<ICE-CAN:W2A-033#87:1> A fuzzy complement of &mu; <sb> 1 </sb> is 1 - &mu; <sb> 1 </sb> .
+<ICE-CAN:W2A-033#88:1> For example, if one wishes to combine change information in three CM
+
+images in such a manner that both the subtle changes in CM <sb> 3 </sb> and
+
+changes in either CM <sb> 1 </sb> or CM <sb> 2 </sb> are included in the
+
+final resultant image, CCM = { &mu;(&delta; <sb> i </sb> ) | i = 1, 2,
+
+&dotted-line;, n}, the following operation can be used: <O> mathematical
+
+equation </O> where 1 - &mu; <sb> c </sb> 3(&delta; <sb> i </sb> ) represents
+
+the complement of &mu; <sb> c3 </sb> ( &delta; <sb> i </sb> ) because subtle
+
+changes have lower degrees of change membership in image CM <sb> 3 </sb> .
+<ICE-CAN:W2A-033#89:1> Fuzzy set operations should be defined according to the
+
+characteristics of changes. <O> Chart </O> <O> Figure 2 caption </O>
+<ICE-CAN:W2A-033#90:1> In most cases, successful change information extraction requires that
+
+knowledge about the study area and expert knowledge on various change types
+
+be properly represented with fuzzy membership functions and fuzzy set
+
+operations. </p>
+
+<p> <ICE-CAN:W2A-033#91:1> Once the desirable change information from different image
+
+channels has been combined into one image CCM, at the final step, the CCM
+
+itself can be stored in a database to represent change information.
+<ICE-CAN:W2A-033#92:1> One can also apply the thresholding or classification technique to
+
+determine and identify areas of change and to make a change map. </p>
+<ICE-CAN:W2A-033#93:1> <h> <bold> TEST AND RESULTS </bold> </h>
+
+<p> <ICE-CAN:W2A-033#94:1> In this section, steps one to five on the use of PCA and fuzzy
+
+set theory in change detection in the previous section are il <l> lustrated
+
+using an example.
+<ICE-CAN:W2A-033#95:1> However, no attempt was made for step six to undertake a thorough
+
+change detection of the study area.
+<ICE-CAN:W2A-033#96:1> Instead, the purpose is to combine change information from different
+
+image channels into a newly created image channel. </p>
+
+<p> <ICE-CAN:W2A-033#97:1> The principal component analysis module, PCA, image arith <l>
+
+metic, ARI, and image display programs in the EASI/PACE image analysis
+
+software package ( PCI Inc., 1991) were used in this study.
+<ICE-CAN:W2A-033#98:1> Programs implementing the grey-scale mapping, the fuzzy mem <l>
+
+bership functions, and the fuzzy set operations have been developed by the
+
+author as additional EASI/PACE modules. </p>
+<ICE-CAN:W2A-033#99:1> <h> The Study Area and Data Preparation </h> </I> <X>
+
+<p> <ICE-CAN:W2A-033#X100:1> The study area consists of a large sector of the twin cities of
+
+Kitchener-Waterloo, Ontario, and a small part of their surround <l> ing rural
+
+area.
+<ICE-CAN:W2A-033#X101:1> A number of change detection studies have been carried out for this
+
+area with both Landsat Multispectral Scanner and Thematic Mapper data ( Fung
+
+and LeDrew, 1987, 1988; Fung, 1990). </p> </X>

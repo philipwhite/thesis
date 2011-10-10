@@ -1,0 +1,395 @@
+<I>
+<ICE-CAN:W2A-021#1:1> <h> <it> Longevity and Infirmity: An Inevitable Relationship? </it>
+
+</h>
+<ICE-CAN:W2A-021#2:1> <h> V.J. KNOX AND W.L. GEKOSKI </h>
+
+<p> <ICE-CAN:W2A-021#3:1> The number of elderly people in our society is increasing.
+<ICE-CAN:W2A-021#4:1> This is, of course, a result of population growth.
+<ICE-CAN:W2A-021#5:1> The proportion of our population that is elderly is also increasing,
+
+both because of declines in the birth rate and because of increased life
+
+expectancy.
+<ICE-CAN:W2A-021#6:1> Demographers do not agree on the exact details of the shifts in the
+
+age composition of our population and disagree even more strongly regarding
+
+when and if the current trends will abate.
+<ICE-CAN:W2A-021#7:1> However, no matter which demographic calculations are used it is clear
+
+that, at least for the next 50 years, the proportion of elderly individuals
+
+in our society will be increasing ( Chappell, Strain, and Blandford). </p>
+
+<p> <ICE-CAN:W2A-021#8:1> These demographic projections have given rise to a variety of dire
+
+predic <l> tions.
+<ICE-CAN:W2A-021#9:1> It has been suggested that, as a result of longer life expectancy and
+
+dramatic improvement in life-extending technologies, elderly people of the
+
+future will experience longer periods of infirmity before death than today's
+
+elderly people ( Gruenberg; Simmons-Tropea and Osborn).
+<ICE-CAN:W2A-021#10:1> The sugges <l> tion that the price we will pay for longer life
+
+expectancy is a longer period of infirmity before death strikes dread to most
+
+hearts.
+<ICE-CAN:W2A-021#11:1> The constellation of loss of independence, being a burden on others,
+
+and pain or suffering for an extended period seems a high price for a few
+
+extra years of life.
+<ICE-CAN:W2A-021#12:1> In <l> deed, the greatest fear of elderly people is not death or
+
+poverty or loneliness, but incapacity ( Harris). </p>
+
+<p> <ICE-CAN:W2A-021#13:1> Also derived from demographic projections is the suggestion that
+
+health care costs will sky-rocket because resources are disproportionately
+
+expended for care of chronically ill elderly people ( Schulz).
+<ICE-CAN:W2A-021#14:1> In addition, because both increased health care and pension costs
+
+will have to be borne by a propor <l> tionately smaller number of workers,
+
+the financial burden of the elderly population will contribute to
+
+intergenerational conflict over expenditure of available resources (
+
+Neugarten; Tindale and Marshall).
+<ICE-CAN:W2A-021#15:1> Indeed, Callahan ( 1986) has argued that we will approach the point
+
+where the only sensible decision on the societal level will be to terminate
+
+expensive health care prac <l> tices for elderly individuals in favour of
+
+directing virtually all health care resources to younger more productive ( or
+
+potentially productive) in <l> dividuals.
+<ICE-CAN:W2A-021#16:1> Debates on the ethics of such a position have already begun (
+
+Summerville). </p>
+<ICE-CAN:W2A-021#17:1> <h> <it> An Alternative View: The Compression of Morbidity Hypothesis
+
+</it> </h>
+
+<p> <ICE-CAN:W2A-021#18:1> Some experts take issue with the bleak scenario of longer periods
+
+of infirmity occurring as average life expectancy increases and propose a
+
+very different view ( Fries; Maddox).
+<ICE-CAN:W2A-021#19:1> Most controversial among these is James Fries, who, in a 1981 book,
+
+<it> Vitality and Aging </it> ( with Lawrence Crapo), proposed that as more
+
+people live to old age they can live <it> less </it> of their old age with a
+
+serious infirmity.
+<ICE-CAN:W2A-021#20:1> This has been labelled the <quote> " compression of morbidity"
+
+</quote> hypothesis.
+<ICE-CAN:W2A-021#21:1> ( <mention> " Morbidity" </mention> refers to the presence of
+
+disease, <mention> " infirmity" </mention> to the debilitating effects of
+
+disease.
+<ICE-CAN:W2A-021#22:1> In writing about his hypothesis, Fries uses the terms morbidity,
+
+infirmity, and disease interchangeably, and in this respect we have followed
+
+his lead.) </p>
+
+<p> <ICE-CAN:W2A-021#23:1> The compression of morbidity hypothesis is stated in terms of two
+
+premises: that the maximum human life span is fixed at about 115 years and
+
+that with increased use of techniques of prevention and intervention the age
+
+at which infirmity first occurs will increase.
+<ICE-CAN:W2A-021#24:1> Taken together these two premises lead to the conclusion that the
+
+<it> duration </it> of infirmity will decrease.
+<ICE-CAN:W2A-021#25:1> Although the basic idea has been around for some time ( Pearl), Fries
+
+is cur <l> rently its most ardent and articulate proponent.
+<ICE-CAN:W2A-021#26:1> If the compression of morbidity hypothesis is correct, its
+
+implications are far-reaching, both to individuals and to society.
+<ICE-CAN:W2A-021#27:1> In this paper we will elaborate the hypothesis, evaluate criticisms
+
+of it, and discuss the implications both of accepting and rejecting it.
+<ICE-CAN:W2A-021#28:1> Let us consider each of its premises in turn. </p>
+<ICE-CAN:W2A-021#29:1> <h> <it> Maximum Human Life Span is Fixed at 115 Years </it> </h>
+
+<p> <ICE-CAN:W2A-021#30:1> This premise has two components, one specifying that the maximum
+
+life span is fixed and the other specifying the particular age at which it is
+
+fixed.
+<ICE-CAN:W2A-021#31:1> These two components differ both in terms of their contentiousness
+
+and in terms of the availability of supporting evidence. </p>
+
+<p> <ICE-CAN:W2A-021#32:1> Before proceeding, it is helpful to differentiate among average
+
+life ex <l> pectancy ( the statistically determined age to which an
+
+individual born at a particular time, in a particular place, is likely to
+
+live), normal life span ( the age to which the average human would live if
+
+environmental condi <l> tions were optimal), and maximum life span ( the
+
+maximum age to which an individual human being living under optimal
+
+environmental conditions could possibly live).
+<ICE-CAN:W2A-021#33:1> At the present time, average life expectancy in the developed
+
+countries is approaching 80 years for women and is only 5 - 7 years less for
+
+men ( Myers and Manton).
+<ICE-CAN:W2A-021#34:1> According to Fries the normal human life span is about 85 years and
+
+the maximum human life span is about 115 years. </p>
+
+<p> <ICE-CAN:W2A-021#35:1> Inherent in the concepts of a normal and a fixed maximum life
+
+span is the notion that there is such a thing as a normal process of aging.
+<ICE-CAN:W2A-021#36:1> Although not taking a strong position regarding the specifics, Fries
+
+holds that such a process is probably genetically controlled and determines
+
+that as we age: 1) the capacity of each of the body's organs to function
+
+declines; 2) because the body is composed of multiple organ systems, each of
+
+which is declining, there is an exponentially increasing probability that one
+
+of the systems will fail; 3) because the homeostatic processes of the body
+
+are very finely tuned and easily disrupted, as organ systems deteriorate, the
+
+ability of the body to recover from disruption lessens.
+<ICE-CAN:W2A-021#37:1> Thus, in old age, as a result of the normal process of aging and in
+
+the absence of pathology, the stage is set for death to occur reasonably
+
+quickly, as a result of what would have been a minor disruption earlier in
+
+life - for example, pneumonia, a minor infection, or a drug interaction
+
+effect.
+<ICE-CAN:W2A-021#38:1> From this perspective the normal process of ag <l> ing will lead to
+
+death if some pathological process does not do so first. </p>
+
+<p> <ICE-CAN:W2A-021#39:1> Most experts in the area of biological gerontology hold either
+
+that the body's cells and/or organs break down from regular use ( i.e., in
+
+the absence of pathology), or that there are intrinsic genetic factors which
+
+regulate, somehow, such breakdowns ( Sacher).
+<ICE-CAN:W2A-021#40:1> Despite much debate on the precise nature of the process controlling
+
+normal aging, there is widespread agree <l> ment that such a process exists
+
+and defines some upper limit on the human life span ( Perlmutter and Hall).
+<ICE-CAN:W2A-021#41:1> This is consistent with the fact that all other species seem to have
+
+a fixed maximum life span.
+<ICE-CAN:W2A-021#42:1> The majority position has not, however, gone unchallenged.
+<ICE-CAN:W2A-021#43:1> Because the biological changes that occur with increasing age involve
+
+decline and deterioration, it is extremely difficult to determine whether
+
+particular declines are the result of pathological pro <l> cesses or of
+
+intrinsic factors.
+<ICE-CAN:W2A-021#44:1> Indeed, some argue that there may be no such thing as normal aging,
+
+that all changes are the result of pathology ( Walford).
+<ICE-CAN:W2A-021#45:1> It follows from such a position that if the lethal chronic diseases
+
+afflicting humans could be eliminated, life could continue indefinitely. </p>
+
+<p> <ICE-CAN:W2A-021#46:1> Although most biological gerontologists agree that there are
+
+normal pro <l> cesses of aging and that a fixed maximum life span must
+
+follow, there is substantially less agreement about what this maximum might
+
+be ( Simmons-Tropea and Osborn).
+<ICE-CAN:W2A-021#47:1> Many do not see the question as particularly urgent or important.
+<ICE-CAN:W2A-021#48:1> It is, however, a point crucial to Fries's position.
+<ICE-CAN:W2A-021#49:1> For Fries to argue that compression of morbidity can be achieved in a
+
+foreseeable time frame requires that maximum life span be not very far from
+
+the cur <l> rently documented maximum age of about 115 years.
+<ICE-CAN:W2A-021#50:1> As he notes, although the proportion of individuals living to close
+
+to this apparent maximum has steadily increased from 1900 to 1980, there is
+
+no evidence to indicate that the maximum itself has shifted during this
+
+period. <sp> 1 </sp> <footnote> 1 Some have mistakenly concluded that the
+
+increase in average life expectancy since 1900 ( 47 years in Canada in 1900
+
+to 75 in 1981) may be taken as evidence either that there is no upper limit
+
+to the increase in average life expectancy ( i.e., no fixed maximum life
+
+span) or that the maximum human life span is greater than that which has been
+
+observed to date.
+<ICE-CAN:W2A-021#51:1> However, the increase in average life expec <l> tancy in this century
+
+in the developed countries is the result of reduction in in <l> fant
+
+mortality, the virtual elimination of death from acute infectious diseases,
+
+and increased attention to occupational safety.
+<ICE-CAN:W2A-021#52:1> This increase in average life expectancy cannot be taken as relevant
+
+to determination of the maximum human life span </footnote>
+<ICE-CAN:W2A-021#53:1> The fact that average life expectancy has increased but maximum life
+
+span has not is reflected in the increasing <quote> " rectangularization"
+
+</quote> of survival curves ( the percentage of individuals surviving to a
+
+given age in a given year) that has occurred during this century.
+<ICE-CAN:W2A-021#54:1> This rectangularization can be seen in Figure 1. </p> <O> diagram
+
+</O> <O> diagram caption </O>
+
+<p> <ICE-CAN:W2A-021#55:1> Among the additional arguments Fries cites in favour of the fixed
+
+max <l> imum human life span being about 115 years are: that despite many
+
+claims to extremely long life, the oldest individual whose age was documented
+
+( up to 1981 when the Fries and Crapo book was published) was a Canadian who
+
+died at age 113 years, 124 days; that maximum life span for mammalian species
+
+may be predicted by brain size / body weight ratio; and that there has been
+
+no evidence of change in the maximum human life span over the past 100,000
+
+years.
+<ICE-CAN:W2A-021#56:1> Let us turn now to examine the second premise of Fries's position.
+
+</p>
+<ICE-CAN:W2A-021#57:1> <h> <it> Age at First Infirmity Will Increase </it> </h>
+
+<p> <ICE-CAN:W2A-021#58:1> A model developed by the scientific advisory group of the World
+
+Health Organization ( WHO) is useful in conceptualizing the relationship
+
+between health and longevity.
+<ICE-CAN:W2A-021#59:1> This model distinguishes among morbidity-free life expectancy,
+
+disability-free life expectancy, and total life expectancy.
+<ICE-CAN:W2A-021#60:1> In the typical case there is some period of time between onset of
+
+morbidity and onset of disability, and between onset of disability and death.
+<ICE-CAN:W2A-021#61:1> The length of these two periods varies as a function of age of onset
+
+of morbidity and cause of morbidity.
+<ICE-CAN:W2A-021#62:1> Thus, in the case of relatively rapidly-lethal diseases ( e.g.,
+
+coronary heart disease, stroke, cancer) both the periods of disability-free
+
+morbidity and of disability preceding death tend to be relatively short (
+
+perhaps only two or three years each), whereas for degenerative diseases (
+
+e.g., osteoporosis, rheumatoid arthritis, senile dementia) each period can be
+
+much longer ( perhaps as long as 15 years).
+<ICE-CAN:W2A-021#63:1> For different causes of morbid <l> ity the length of time in each
+
+period will differ somewhat as a function of age of onset of morbidity. </p>
+
+<p> <ICE-CAN:W2A-021#64:1> The current thinking is that as average life expectancy converges
+
+on normal life expectancy for the species more individuals are likely to
+
+develop at least one chronic disease ( e.g., coronary heart disease,
+
+atherosclerosis, respiratory disease, cancer, osteoporosis, senile dementia,
+
+diabetes, etc.) that progresses to the point that he or she will experience a
+
+long period of increasing incapacity ( Schneider and Brody; Simmons-Tropea
+
+and Osborn).
+<ICE-CAN:W2A-021#65:1> Fries argues, however, that it is possible to postpone the onset of
+
+the common chronic diseases by a variety of measures, mostly preventive and
+
+mostly involving aspects of life-style such as weight control, nutrition,
+
+exercise, stress management, elimination of smoking, control of salt intake,
+
+moderation in consumption of alcohol, etc.
+<ICE-CAN:W2A-021#66:1> Timely and appropriate ap <l> plication of such measures would allow
+
+most individuals to remain vital into old age and postpone the onset of
+
+chronic disease, so that most would die as a result of the normal process of
+
+aging before becoming seriously incapacitated by a chronic disease. </p>
+<ICE-CAN:W2A-021#67:1> <h> <it> Argument and Counter-Argument </it> </h>
+
+<p> <ICE-CAN:W2A-021#68:1> Fries's compression of morbidity hypothesis has attracted an
+
+enormous amount of attention and controversy.
+<ICE-CAN:W2A-021#69:1> There have been countless scholarly and not so scholarly articles
+
+criticizing, supporting, or otherwise com <l> menting on his formulation.
+<ICE-CAN:W2A-021#70:1> Among gerontologists few issues have generated as much controversy in
+
+the past 20 or 30 years.
+<ICE-CAN:W2A-021#71:1> The responses have been varied.
+<ICE-CAN:W2A-021#72:1> Some have seemed motivated by an intensely personal, emotion-laden
+
+desire to believe that the life span is not finite or at least that it is
+
+longer than Fries's 115 years.
+<ICE-CAN:W2A-021#73:1> Such a desire may be fuelled by fears of death, wishes for
+
+immortality, or other aspects of individual psychodynamics.
+<ICE-CAN:W2A-021#74:1> Most responses, however, have been of one of two sorts: criticisms of
+
+Fries's interpretation of the data presented to support the com <l> pression
+
+of morbidity hypothesis, or warnings regarding the implications of accepting
+
+the compression of morbidity hypothesis.
+<ICE-CAN:W2A-021#75:1> We shall deal with these in turn. </p>
+
+<p> <ICE-CAN:W2A-021#76:1> Criticism of the compression of morbidity hypothesis is directed
+
+either to the premise of a fixed maximum life span of about 115 years or to
+
+the possibility of delaying the onset of chronic disease.
+<ICE-CAN:W2A-021#77:1> Given the reasonably compelling evidence across species that the
+
+maximum life span is fixed and that in humans it is in the vicinity of 115
+
+years, we find it surprising that most criticism focuses on whether the
+
+maximum life span is 115 years, rather than the seemingly more problematic
+
+suggestion that prevention programmes can succeed in altering life-styles
+
+<it> to the degree </it> necessary to significantly delay the onset of
+
+chronic disease. </p> </I>

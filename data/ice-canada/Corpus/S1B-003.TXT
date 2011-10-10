@@ -1,0 +1,632 @@
+<I>
+
+<$B> <ICE-CAN:S1B-003#1:1:B> December ninety-two <,> <{> <[> and </[>
+
+<$A> <ICE-CAN:S1B-003#2:1:A> <[> I might </[> </{> have that one
+<ICE-CAN:S1B-003#3:1:A> What's the title on it <,>
+
+<$B> <ICE-CAN:S1B-003#4:1:B> <{> <[> Ya so these ones </[> <,,> I don't have
+
+<$A> <ICE-CAN:S1B-003#5:1:A> <[> <quote> Beyond Duration </quote> <unclear> a couple words
+
+</unclear> </[> </{>
+
+<$B> <ICE-CAN:S1B-003#6:1:B> So <{1> <[1> maybe if </[1> you could sort of <}> <-> get </->
+
+<=> get </=> </}>
+<ICE-CAN:S1B-003#7:1:B> <{2> <[2> that one here </[2>
+
+<$A> <ICE-CAN:S1B-003#8:1:A> <[1> <}> <-> Kay </-> <+> okay/+> </}> </[1> </{1>
+
+<$A> <ICE-CAN:S1B-003#9:1:A> <[2> Ya
+<ICE-CAN:S1B-003#10:1:A> <}> <-> I'm </-> <=> I'm </=> </}> </[2> </{2> <{> <[> quite sure I
+
+do have that one then </[>
+
+<$B> <ICE-CAN:S1B-003#11:1:B> <[> So <}> <-> I'll </-> <=> I'll </=> </}> <,> </[> </{> make
+
+a star there
+<ICE-CAN:S1B-003#12:1:B> And also this uh <quote> Volatility and Yield Curve </quote>
+<ICE-CAN:S1B-003#13:1:B> It's a short piece by <?> Liverman </?> <,,>
+<ICE-CAN:S1B-003#14:1:B> Uh <,,> I went through this paper <,,> but <}> <-> I </-> <=> <,> I
+
+</=> </}> don't think that I <,,> <}> <-> made a </-> <=> <,,> made a </=>
+
+</}> copy of it and I guess it'd be <}> <-> worth </-> <=> worth </=> </}>
+
+having as well <{> <[> <?> which </?> <unclear> word </unclear> </[>
+
+<$A> <ICE-CAN:S1B-003#15:1:A> <[> <unclear> two or three words </unclear> </[> </{> <{> <[>
+
+<unclear> word </unclear> <?> which is </?> </[>
+
+<$B> <ICE-CAN:S1B-003#16:1:B> <[> This is the latest one </[> </{> <,>
+<ICE-CAN:S1B-003#17:1:B> It's also from the same journal
+<ICE-CAN:S1B-003#18:1:B> <{1> <[1> They're all from </[1> the same
+<ICE-CAN:S1B-003#19:1:B> <{2> <[2> journal </[2>
+
+<$A> <ICE-CAN:S1B-003#20:1:A> <[1> Okay ya </[1> </{1>
+
+<$A> <ICE-CAN:S1B-003#21:1:A> <[2> Ya I </[2> </{2> have two or three from the Journal of
+
+Fixed Income so I think I have this one as well <,>
+
+<$A> <ICE-CAN:S1B-003#22:1:A> So <}> <-> I <.> wa </.> I </-> <=> I </=> </}> can give you
+
+copies of both of those
+
+<$B> <ICE-CAN:S1B-003#23:1:B> Ya <,> ASAP as soon as possible
+
+<$A> <ICE-CAN:S1B-003#24:1:A> Certainly
+
+<$B> <ICE-CAN:S1B-003#25:1:B> Uhm <,,> like today if you can or if you can <{> <[> fax <}>
+
+<-> em </-> <+> them </+> </}> </[> if you've got <}> <-> em </-> <+> them
+
+</+> </}>
+
+<$A> <ICE-CAN:S1B-003#26:1:A> <[> Uhm </[> </{>
+<ICE-CAN:S1B-003#27:1:A> I think I can do that
+<ICE-CAN:S1B-003#28:1:A> Sure <,,>
+
+<$B> <ICE-CAN:S1B-003#29:1:B> And what other things <,,> uh <}> <-> can </-> <=> <,,> can
+
+</=> </}> we say <,,>
+<ICE-CAN:S1B-003#30:1:B> Uhm <,,> uh the bottom line is measuring <}> <-> the </-> <=> the
+
+</=> </}> performance
+<ICE-CAN:S1B-003#31:1:B> And how you can measure the performance you could say well <,,> you
+
+could look at the mean square error or the mean absolute error <,> of the
+
+forecasts <{> <[> <,,> </[> and uh <,,>
+
+<$A> <ICE-CAN:S1B-003#32:1:A> <[> Mh hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-003#33:1:B> You might <}> <-> wanna </-> <+> want to </+> </}> do a market
+
+timing test <,,>
+<ICE-CAN:S1B-003#34:1:B> Right
+<ICE-CAN:S1B-003#35:1:B> <}> <-> If you're <.> f </.> </-> <=> <,,> if you're forecasting
+
+</=> </}> this is what the duration is of this sample <{> <[> <,,> </[> uhm
+
+say well <,,> well that's the proportion that your <,> uhh duration model
+
+says you should take a position say that's long or that's short <,> and I can
+
+give you the program that I wrote <,,> for the Henrickson-Merton procedure
+
+<$A> <ICE-CAN:S1B-003#36:1:A> <[> Mh hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-003#37:1:B> And <{> <[> I </[> wrote a program in <unclear> word
+
+</unclear> that does it
+
+<$A> <ICE-CAN:S1B-003#38:1:A> <[> <}> <-> Kay </-> <+> okay/+> </}> </[> </{>
+
+<$B> <ICE-CAN:S1B-003#39:1:B> And <}> <-> that's </-> <=> that's </=> </}> in our new paper
+
+that's coming out in the <,> Journal of Futures Markets <,,>
+<ICE-CAN:S1B-003#40:1:B> I just got the gallies uh <,> yesterday <,,> and they said
+<ICE-CAN:S1B-003#41:1:B> <}> <-> I </-> <=> I </=> </}> took a look at the letter it says
+
+<O> laugh </O> <quote> please respond within forty-eight hours </quote>
+<ICE-CAN:S1B-003#42:1:B> <{1> <[1> It's one of these things </[1> that okay here you've got
+
+all this other <,,> nonsense that's going
+<ICE-CAN:S1B-003#43:1:B> <{2> <[2> on and </[2> then there's a deadline of forty-eight hours
+
+you know
+
+<$A> <ICE-CAN:S1B-003#44:1:A> <[1> <O> laugh </O> </[1> </{1>
+
+<$A> <ICE-CAN:S1B-003#45:1:A> <[2> Uh huh </[2> </{2>
+
+<$B> <ICE-CAN:S1B-003#46:1:B> That's why you <}> <-> gotta </-> <+> have got to </+> </}>
+
+pose deadlines cos that's how you get things done
+<ICE-CAN:S1B-003#47:1:B> So I dropped <{> <[> everything </[> and was here at midnight last
+
+night getting in <}> <-> the </-> <=> the </=> </}> proofs
+
+<$A> <ICE-CAN:S1B-003#48:1:A> <[> Right </[> </{>
+
+<$B> <ICE-CAN:S1B-003#49:1:B> But <,,> <O> cough </O> uh you've got a copy of this paper
+
+have you the <,> one we did on <?> mean reversion </?> cos I think you have
+
+an earlier version
+
+<$A> <ICE-CAN:S1B-003#50:1:A> Okay <{> <[> ya I do I do </[>
+
+<$B> <ICE-CAN:S1B-003#51:1:B> <[> <}> <-> The </-> <=> the </=> </}> latest version </[>
+
+</{> the version's that's going into the journal <{> <[> <,,> </[> does some
+
+Hendrickson-Merton tests <,> for market timing
+
+<$A> <ICE-CAN:S1B-003#52:1:A> <[> Mh hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-003#53:1:B> So we're saying <}> <-> we're </-> <=> we're </=> </}> <}> <->
+
+gonna </-> <+> going to </+> </}> forecast what it's going to be <}> <-> <{>
+
+<[> well let's </[> </-> <=> and it's </=> </}> <}> <-> gonna </-> <+> going
+
+to </+> </}> give us a decision rule right
+
+<$A> <ICE-CAN:S1B-003#54:1:A> <[> Mh hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-003#55:1:B> We go long or we go short <,>
+
+<$A> <ICE-CAN:S1B-003#56:1:A> <}> <-> How </-> <=> What </=> </}> do you use for your
+
+forecasting
+<ICE-CAN:S1B-003#57:1:A> Is it like ah ah an <unclear> word </unclear> <{> <[> <,,> or </[>
+
+<$B> <ICE-CAN:S1B-003#58:1:B> <[> No <}> <-> the </-> <=> the </=> </}> </[> </{> forecasts
+
+here are based on filter roles that say that well <}> <-> if we got </-> <=>
+
+uhh <{1> <[1> if we're </=> </}> outside the range </[1> then go long
+<ICE-CAN:S1B-003#59:1:B> <{2> <[2> <,,> <}> <-> if we're </-> <=> <,,> or go short </=> </}>
+
+</[2>
+
+<$A> <ICE-CAN:S1B-003#60:1:A> <[1> <O> cough </O> </[1> </{1>
+
+<$A> <ICE-CAN:S1B-003#61:1:A> <[2> Okay
+
+<$A> <ICE-CAN:S1B-003#62:1:A> <}> <-> Is it is that </-> <=> is that </=> </}> uhm a
+
+well-established decision rules </[2> </{2> or can we mess around in the
+
+decision rules
+
+<$B> <ICE-CAN:S1B-003#63:1:B> Well what <,> decision <{> <[> rule have you got in mind </[>
+
+<$A> <ICE-CAN:S1B-003#64:1:A> Cos <[> <}> <-> I cos I </-> <=> actually </[> </{> I did </=>
+
+</}> some research on sort of ah technical rules <{1> <[1> uhm </[1> and I
+
+used the moving average crossovers and trading rules like that <,> uhm <O>
+
+cough </O> versus naive uhm positions in uh a ten year
+<ICE-CAN:S1B-003#65:1:A> <{2> <[2> bond </[2> and I actually came up with ah a
+
+Hodrick-Prescott filter <,> uhm <,> which uh is a or which outperformed <}>
+
+<-> the </-> <=> the </=> </}> moving average technical trading rules uhm
+
+<$B> <ICE-CAN:S1B-003#66:1:B> <[1> Uh huh </[1> </{1>
+
+<$B> <ICE-CAN:S1B-003#67:1:B> <[2> Uh huh </[2> </{2>
+
+<$B> <ICE-CAN:S1B-003#68:1:B> Now does that fit into the duration estimation <,> or <{> <[>
+
+no </[>
+
+<$A> <ICE-CAN:S1B-003#69:1:A> <[> Uhm </[> </{> no <}> <-> it's <{> <[> only </-> <=> it's
+
+only <}> <-> a </-> <=> a </=> </}> </=> </}> </[>
+
+<$B> <ICE-CAN:S1B-003#70:1:B> <[> Well then <,> forget it </[> </{>
+
+<$A> <ICE-CAN:S1B-003#71:1:A> Okay
+
+<$B> <ICE-CAN:S1B-003#72:1:B> Ya so let's just focus on what we can do with the duration <{>
+
+<[> uhm </[> <,,> as opposed to a technical role cos we <}> <-> wanna </->
+
+<+> want to </+> </}> keep it narrow enough
+
+<$A> <ICE-CAN:S1B-003#73:1:A> <[> Okay </[> </{>
+
+<$B> <ICE-CAN:S1B-003#74:1:B> <}> <-> Go in too many directions </-> <=> Cos when you start
+
+<,,> going in too many directions </=> </}> you end up going no place
+
+<$A> <ICE-CAN:S1B-003#75:1:A> Right
+<ICE-CAN:S1B-003#76:1:A> Okay okay <,,>
+
+<$B> <ICE-CAN:S1B-003#77:1:B> Okay
+<ICE-CAN:S1B-003#78:1:B> <{> <[> So let's keep it </[> pure and simple
+
+<$A> <ICE-CAN:S1B-003#79:1:A> <[> Let's just </[> </{>
+<ICE-CAN:S1B-003#80:1:A> Okay
+<ICE-CAN:S1B-003#81:1:A> So <}> <-> I </-> <=> I </=> </}> can get a <{> <[> copy of this as
+
+well </[>
+
+<$B> <ICE-CAN:S1B-003#82:1:B> <[> You want a copy of this </[> </{> <{> <[> latest <unclear>
+
+word </unclear> </[>
+
+<$A> <ICE-CAN:S1B-003#83:1:A> <[> <O> laugh </O> <}> <-> I </-> <=> I </=> </}> do </[> </{>
+
+have the old one <{> <[> uhh somewhere </[>
+
+<$B> <ICE-CAN:S1B-003#84:1:B> <[> The old one </[> </{> the one that's coming out with the
+
+corrections I can give you a copy of as soon as we finish here
+
+<$A> <ICE-CAN:S1B-003#85:1:A> Okay <,,>
+
+<$B> <ICE-CAN:S1B-003#86:1:B> And the Breeden one you don't have so I'll give you the
+
+Breeden one
+<ICE-CAN:S1B-003#87:1:B> In exchange what you'll do is you'll go out and get me <}> <-> the
+
+</-> <=> <,> the </=> </}> missing pieces that I put stars on here
+
+<$A> <ICE-CAN:S1B-003#88:1:A> Right
+
+<$B> <ICE-CAN:S1B-003#89:1:B> Uh <,> so <,,> what else is cooking
+<ICE-CAN:S1B-003#90:1:B> <}> <-> You're </-> <=> you're </=> </}> taking a break from <@> G
+
+D A </@> to finish
+<ICE-CAN:S1B-003#91:1:B> <{> <[> They're going to give you the permission or </[>
+
+<$A> <ICE-CAN:S1B-003#92:1:A> <[> Uhm ya
+<ICE-CAN:S1B-003#93:1:A> <}> <-> My <,> we haven't </[> </{> </-> <=> basically my boss said
+
+</=> </}> uhm he'll give me two weeks off to go all out and try to finish the
+
+thesis
+<ICE-CAN:S1B-003#94:1:A> Uh so I said well it might be <{> <[> better off </[>
+
+<$B> <ICE-CAN:S1B-003#95:1:B> <[> Is this your </[> </{> vacation time
+
+<$A> <ICE-CAN:S1B-003#96:1:A> Uh no it seems to me it's going to be <,> sort of work time
+
+<$B> <ICE-CAN:S1B-003#97:1:B> <{> <[> Okay </[>
+
+<$A> <ICE-CAN:S1B-003#98:1:A> <[> So uh </[> </{> I mean cos <}> <-> he's </-> <=> the </=>
+
+</}> stuff that I'm going to be finishing is actually going to be of use when
+
+we <,,> run a new product
+
+<$B> <ICE-CAN:S1B-003#99:1:B> Uh huh
+
+<$A> <ICE-CAN:S1B-003#100:1:A> <{> <[> We'll probably </[> publish uh empirical durations or
+
+something like that
+
+<$B> <ICE-CAN:S1B-003#101:1:B> <[> Uh huh </[> </{>
+
+<$A> <ICE-CAN:S1B-003#102:1:A> <{> <[> Uhm </[> cos uh <@> C L K </@> <,> uses that
+
+<$B> <ICE-CAN:S1B-003#103:1:B> <[> Uh huh </[> </{>
+
+<$A> <ICE-CAN:S1B-003#104:1:A> <{> <[> <}> <-> They </-> </[> <=> <,> they </=> </}> publish
+
+empirical durations and they're sort of the street masters on empirical
+
+durations
+
+<$B> <ICE-CAN:S1B-003#105:1:B> <[> Uh huh </[> </{>
+
+<$A> <ICE-CAN:S1B-003#106:1:A> People listen to them
+<ICE-CAN:S1B-003#107:1:A> So we could probably do something better than <{> <[> <,,> </[>
+
+what they do obviously
+
+<$B> <ICE-CAN:S1B-003#108:1:B> <[> Uh huh </[> </{>
+
+<$A> <ICE-CAN:S1B-003#109:1:A> But <}> <-> the way I I what I <}> <-> <.> w </.> </-> <=>
+
+what </=> </}> I told him </-> <=> <,> or he told me </=> </}> I could have
+
+two weeks to do <,,> you know whatever
+<ICE-CAN:S1B-003#110:1:A> I said okay <,> I'm going to talk to Doctor <@> Fister </@> and
+
+see if it's better two weeks off or maybe three days <,> get you some stuff
+
+and get some feedback to you and then another three days later on <,,> uh
+
+things like that
+
+<$B> <ICE-CAN:S1B-003#111:1:B> Well <{> <[> you know the deadline </[> for graduation is
+
+when
+
+<$A> <ICE-CAN:S1B-003#112:1:A> <[> See what it takes </[> </{>
+<ICE-CAN:S1B-003#113:1:A> Uhm I've missed the application deadline
+<ICE-CAN:S1B-003#114:1:A> <}> <-> I'd still like to uh ya </-> <=> <}> <-> to me </-> <=> ya
+
+to me </=> </}> </=> </}> it's not important <}> <-> to </-> <=> which </=>
+
+</}> graduation date it is <,> uhm <{1> <[1> cos <}> <-> it </-> <=> taxwise
+
+</=> </}> <}> <-> I </-> <=> I'm </=> </}> better off </[1> <,> <O> cough
+
+</O> but I would definitely like to have it <}> <-> <.> fin </.> </-> <=>
+
+finished </=> </}> you know like <,> before <,> you know the
+<ICE-CAN:S1B-003#115:1:A> <{2> <[2> end of Spring </[2>
+
+<$B> <ICE-CAN:S1B-003#116:1:B> <[1> Ya <,> if it's June or whatever </[1> </{1>
+
+<$B> <ICE-CAN:S1B-003#117:1:B> <[2> April fifteenth </[2> </{2> that's what you're going to
+
+try to finish by
+
+<$B> <ICE-CAN:S1B-003#118:1:B> <{> <[> That's what <?> you were going to </?> say </[>
+
+<$A> <ICE-CAN:S1B-003#119:1:A> <[> That would be <,,> </[> </{> perfect by me <,> and even
+
+sooner if it's <,,> easier
+<ICE-CAN:S1B-003#120:1:A> But uhm
+
+<$B> <ICE-CAN:S1B-003#121:1:B> So you've got your lit review
+<ICE-CAN:S1B-003#122:1:B> Here's <,> <{> <[> what
+<ICE-CAN:S1B-003#123:1:B> You've got </[> your <,,> methodology
+
+<$A> <ICE-CAN:S1B-003#124:1:A> <[> <O> cough </O> </[> </{>
+
+<$B> <ICE-CAN:S1B-003#125:1:B> You're going to lay out methodolgy and data <,>
+<ICE-CAN:S1B-003#126:1:B> The data <,> and then results
+<ICE-CAN:S1B-003#127:1:B> Five the results
+
+<$A> <ICE-CAN:S1B-003#128:1:A> <{> <[> Is that </[>
+
+<$B> <ICE-CAN:S1B-003#129:1:B> <[> It involves </[> </{> something outperforms
+<ICE-CAN:S1B-003#130:1:B> Your <,> new empirical duration model works better
+
+<$A> <ICE-CAN:S1B-003#131:1:A> <{> <[> Okay right </[>
+
+<$B> <ICE-CAN:S1B-003#132:1:B> <[> Or <,> </[> </{> new empirical duration model with all
+
+the complications on it works worse
+<ICE-CAN:S1B-003#133:1:B> You know whatever <,,> <{1> <[1> <}> <-> the </-> <=> the </=>
+
+</}> </[1> data
+<ICE-CAN:S1B-003#134:1:B> <{2> <[2> shows </[2>
+
+<$A> <ICE-CAN:S1B-003#135:1:A> <[1> Mh hmm okay </[1> </{1>
+
+<$A> <ICE-CAN:S1B-003#136:1:A> <[2> Now <}> <-> how </[2> </{2> </-> <=> how </=> </}> <{>
+
+<[> uhm </[>
+
+<$B> <ICE-CAN:S1B-003#137:1:B> <[> It </[> </{> better work better actually <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-003#138:1:A> <O> laugh </O> <O> cough </O> <}> <-> As </-> <=> ya </=>
+
+</}> <O> cough </O> well <{> <[> the preliminary one said it worked better so
+
+</[>
+
+<$B> <ICE-CAN:S1B-003#139:1:B> <[> It comes down to
+<ICE-CAN:S1B-003#140:1:B> Well you can say </[> </{> it comes down to it
+<ICE-CAN:S1B-003#141:1:B> You know you report <}> <-> what's </-> <=> what's </=> </}>
+
+correct <{> <[> <,,> right </[>
+
+<$A> <ICE-CAN:S1B-003#142:1:A> <[> Ya okay
+<ICE-CAN:S1B-003#143:1:A> <}> <=> What </[> </{> </=> <-> what's </-> </}> would be sort of
+
+standard for adjusting hedge ratios and things like that
+<ICE-CAN:S1B-003#144:1:A> Like I'm using weekly data
+<ICE-CAN:S1B-003#145:1:A> The Salomon <,> data I have is weekly <,>
+<ICE-CAN:S1B-003#146:1:A> Uhm is there any reason I shouldn't adjust the hedge ratios weekly
+
+<,,>
+
+<$B> <ICE-CAN:S1B-003#147:1:B> Well that's the question
+<ICE-CAN:S1B-003#148:1:B> Are you looking at hedge ratios or are you looking at duration
+
+that's the basis of the hedge ratio
+
+<$A> <ICE-CAN:S1B-003#149:1:A> Or sorry
+<ICE-CAN:S1B-003#150:1:A> Well <,> like <}> <-> I </-> <=> I'm </=> </}> saying okay the
+
+duration say it's four years I take <}> <-> the <}> <-> <.> mor </.> </-> <+>
+
+mortgage </+> </}> </-> <=> or the uh treasury duration </=> </}> I hedge <,>
+
+appropriately to either <,> targeted duration or to neutralize my duration
+
+risk
+<ICE-CAN:S1B-003#151:1:A> Uhm the next week <,> say instead of the duration being four years
+
+it's three point eight do I readjust my <,,> treasury's hedge or do I just
+
+carry it to a specific horizon <,,>
+
+<$B> <ICE-CAN:S1B-003#152:1:B> Ya
+
+<$A> <ICE-CAN:S1B-003#153:1:A> <}> <-> That's <,,> <{1> <[1> uh </[1> <.> ki </.> </-> <=> I
+
+mean </=> </}> <}> <-> <.> a </.> </-> <=> and </=> </}> <}> <-> then </->
+
+<=> then </=> </}> it
+<ICE-CAN:S1B-003#154:1:A> <{2> <[2> gets in to minimizing your transaction costs </[2>
+
+<$B> <ICE-CAN:S1B-003#155:1:B> <[1> Uh </[1> </{1>
+
+<$B> <ICE-CAN:S1B-003#156:1:B> <[2> Cos if you roll over every day </[2> </{2> it's
+
+expensive
+
+<$B> <ICE-CAN:S1B-003#157:1:B> <{> <[> That's right </[>
+
+<$A> <ICE-CAN:S1B-003#158:1:A> <[> Right </[> </{> <{> <[> right </[>
+
+<$B> <ICE-CAN:S1B-003#159:1:B> <[> And </[> </{> what <}> <-> we </-> <=> we </=> </}> do in
+
+this paper is we say <}> <-> <.> h </.> </-> <+> here's </+> </}> the
+
+duration <,> <}> <-> that's </-> <=> <,,> whatever it is </=> </}>
+<ICE-CAN:S1B-003#160:1:B> Here's the ratio and we'll just run through it <{> <[> <,,> </[>
+
+fixed on this trading strategy
+
+<$A> <ICE-CAN:S1B-003#161:1:A> <[> Right </[> </{>
+
+<$B> <ICE-CAN:S1B-003#162:1:B> It may be different but it's uh <,> uh <,,> not <,,> <}> <->
+
+gonna </-> <+> going to </+> </}> be worth your while <{> <[> I don't think
+
+to go every </[> day
+
+<$A> <ICE-CAN:S1B-003#163:1:A> <[> Right <,>
+<ICE-CAN:S1B-003#164:1:A> Would it be </[> </{>
+
+<$B> <ICE-CAN:S1B-003#165:1:B> And it's just a question of
+<ICE-CAN:S1B-003#166:1:B> You know <}> <-> the </-> <=> the </=> </}> holding period in most
+
+of these studies is a week <,> right
+
+<$A> <ICE-CAN:S1B-003#167:1:A> Okay
+<ICE-CAN:S1B-003#168:1:A> <}> <-> So <}> <-> <.> act </.> </-> <+> actually </+> </}> </->
+
+<=> so that </=> </}> would work <,> just fine because uh we get new duration
+
+estimates each week <,,> uhm from the Salomon
+<ICE-CAN:S1B-003#169:1:A> Uhm some of the other stuff is monthly <,,> unfortunately
+<ICE-CAN:S1B-003#170:1:A> <}> <-> I </-> <=> I'm </=> </}> going to see if I can get some uh
+
+<.> b </.> weekly <,> duration estimates from uhm uh Morgan Stanley when I go
+
+down there maybe even Salomon <,,>
+<ICE-CAN:S1B-003#171:1:A> Uh but I'm <,> betting on weekly being about the best I can get
+<ICE-CAN:S1B-003#172:1:A> Uhm <O> cough </O> and I've got most of the data already in <?>
+
+RATS </?> <,> uh ready to run stuff
+<ICE-CAN:S1B-003#173:1:A> So that's <,,> <{> <[> a nice thing </[>
+
+<$A> <ICE-CAN:S1B-003#174:1:A> <[> Mh hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-003#175:1:A> I don't have to <}> <-> wait </-> <=> waste </=> </}> months
+
+working on data so
+<ICE-CAN:S1B-003#176:1:A> Uhm <,> but <}> <-> as </-> <=> as </=> </}> far as ahm <,,> sort
+
+of latitude <}> <-> of </-> <=> of </=> </}> empirical duration should I just
+
+stick with De Rosa and maybe one other empirical duration measure and then
+
+compare it with <,> my three or four <,> Wall Street duration estimates <{>
+
+<[> and then <unclear> a few words </unclear> </[>
+
+<$B> <ICE-CAN:S1B-003#177:1:B> <[> So <}> <-> you're going to get Wall </-> <=> you've </[>
+
+</{> got Wall Street </=> </}> duration estimates
+
+<$A> <ICE-CAN:S1B-003#178:1:A> <{> <[> Right </[>
+
+<$B> <ICE-CAN:S1B-003#179:1:B> <[> You see </[> </{> that's the thing is that Breeden's also
+
+got these new comparisons right with <}> <-> the </-> <=> <,> some </=> </}>
+
+empirical models
+
+<$A> <ICE-CAN:S1B-003#180:1:A> Uh <{> <[> okay </[>
+
+<$B> <ICE-CAN:S1B-003#181:1:B> <[> The question </[> </{> is <,,> uhm <,>
+<ICE-CAN:S1B-003#182:1:B> Now the easiest thing to do <{1> <[1> <,,> </[1> and <,,> a
+
+parsimonious way <,> of <,,> approaching the problem <,,> would be to <}> <->
+
+<.> re </.> </-> <=> refine </=> </}> <}> <-> the </-> <=> the </=> </}> De
+
+Rosa and I thought <}> <-> that </-> <=> that </=> </}> was what the strategy
+<ICE-CAN:S1B-003#183:1:B> <{2> <[2> <?> was going to </?> be </[2>
+
+<$A> <ICE-CAN:S1B-003#184:1:A> <[1> Mh hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1B-003#185:1:A> <[2> Right
+<ICE-CAN:S1B-003#186:1:A> Oh definitely </[2> </{2> definitely
+<ICE-CAN:S1B-003#187:1:A> And that's why I'm saying a <{> <[> <,,> uhm </[>
+
+<$B> <ICE-CAN:S1B-003#188:1:B> <[> Ya cos the Wall Street </[> </{>
+<ICE-CAN:S1B-003#189:1:B> Ya if you get the Wall Street estimates right he's done it <,>
+
+already
+<ICE-CAN:S1B-003#190:1:B> And he shows that while they have <}> <-> some </-> <=> <{1> <[1>
+
+<,> some </[1> </=> </}> value these <w> brokers' </w> forecasts but at the
+
+same time <,> right what goes into these things <,> is <,,> right survival
+
+curves uhm <,,> the P S A <,>
+<ICE-CAN:S1B-003#191:1:B> <{2> <[2> aging curves </[2>
+
+<$A> <ICE-CAN:S1B-003#192:1:A> <[1> Mh hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1B-003#193:1:A> <[2> Mh hmm </[2> </{2>
+
+<$B> <ICE-CAN:S1B-003#194:1:B> Right
+<ICE-CAN:S1B-003#195:1:B> So it's a lot of <,> uh assumptions about lifetime prepayment
+
+rates <{> <[> <,> that </[> are
+
+<$A> <ICE-CAN:S1B-003#196:1:A> <[> Right </[> </{>
+
+<$B> <ICE-CAN:S1B-003#197:1:B> You know everybody's got <}> <-> their </-> <=> their </=>
+
+</}> assumptions here and uh <,> you need ah a heck of a lot of information
+
+<,,> here to develop <,> just this one part <{> <[> <,,> </[> of <,> uh <,>
+
+the broker's approach <,> to getting the final number <}> <-> of </-> <=> <,>
+
+of </=> </}> the duration
+
+<$A> <ICE-CAN:S1B-003#198:1:A> <[> Mh hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-003#199:1:B> So <,,> uhm and we don't want to do that <,> <{> <[> because
+
+right </[>
+
+<$A> <ICE-CAN:S1B-003#200:1:A> <[> Well <}> <-> I've already </-> <=> I've </[> </{> already
+
+</=> </}> got their duration
+<ICE-CAN:S1B-003#201:1:A> <}> <-> I </-> <=> I </=> </}> was thinking of just you know using
+
+that as their <{> <[> black box </[>
+
+<$B> <ICE-CAN:S1B-003#202:1:B> <[> Ya you </[> </{> could use that <}> <-> as a <}> <-> <.>
+
+benchmar </.> </-> <+> benchmark </+> </}> </-> <=> as one of the benchmarks
+
+</=> </}> <}> <-> <{> <[> with the </[> </-> <=> with the </=> </}> De Rosa
+
+and that would be I think very good
+
+<$A> <ICE-CAN:S1B-003#203:1:A> <[> Right </[> </{>
+<ICE-CAN:S1B-003#204:1:A> Okay
+<ICE-CAN:S1B-003#205:1:A> Uhm so <}> <-> do you </-> <=> do you </=> </}> think it's a good
+
+idea then to sort of go the way <}> <-> you've </-> <=> you've </=> </}> done
+
+<,> on yours <}> <-> <}> <-> <.> whi </.> </-> <+> which </+> </}> is </->
+
+<=> which is </=> </}> just uh doing a splining <,,> finding of the uhm price
+
+yield <,,> <{> <[> ratio which </[>
+
+<$B> <ICE-CAN:S1B-003#206:1:B> <[> Ya well we just </[> </{> did it
+<ICE-CAN:S1B-003#207:1:B> <}> <-> That's </-> <=> that's </=> </}> <{> <[> what we did </[>
+
+and we can say <}> <-> what's </-> <=> what's </=> </}> the point of doing it
+
+<$A> <ICE-CAN:S1B-003#208:1:A> <[> That's <?> correct </?> </[> </{>
+
+<$B> <ICE-CAN:S1B-003#209:1:B> <}> <-> Is the </-> <=> The point </=> </}> to do is that it
+
+makes some sense although the
+<ICE-CAN:S1B-003#210:1:B> Though in <}> <-> that </-> <=> this/=> </}> book by <,> <@>
+
+Jayman </@> <,,> that just came out
+<ICE-CAN:S1B-003#211:1:B> This <{> <[> guy </[> used to be a teacher of mine <,,> at the
+
+University of Pennsylvania many years ago uhm <}> <-> he </-> <=> a </=> </}>
+
+really great econometrician but sort of <,> he disappeared
+
+<$A> <ICE-CAN:S1B-003#212:1:A> <[> Mh hmm </[> </{> </I>

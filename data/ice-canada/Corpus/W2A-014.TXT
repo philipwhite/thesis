@@ -1,0 +1,477 @@
+<I>
+<ICE-CAN:W2A-014#1:1> <h> <bold> EDUCATIONAL CHANGE </bold> </h>
+<ICE-CAN:W2A-014#2:1> <h> CAN WE MAKE SENSE OF REALITY? </h>
+<ICE-CAN:W2A-014#3:1> <h> by Rod A. Wickstrom </h>
+
+<p> <ICE-CAN:W2A-014#4:1> WARREN BENNIS, in his recent book,
+
+
+<I> Why Leaders Can't Lead </I> , has suggested that: <l> <X>
+<ICE-CAN:W2A-014#X5:2> <quote> <it> In the 1960s, we wanted to make the world better.
+<ICE-CAN:W2A-014#X6:2> In the 1970s, we wanted only to make ourselves better.
+<ICE-CAN:W2A-014#X7:2> Now, at the start of the 1990s, we seem to be uncertain about whether
+
+we can make anything better. </it> <sp> 1 </sp> <footnote> <it> 1. Warren
+
+Bennis, <bold> Why Leaders Can't Lead </bold> ( San Francisco, CA:
+
+Jossey-Bass Publishers, 1990), p. xiii. </it> </footnote> </quote> </X> </p>
+
+<p> <ICE-CAN:W2A-014#8:2> Clearly, such a negative view of pos <l> sibilities has not
+
+prevailed on the edu <l> cational scene over the past decade.
+<ICE-CAN:W2A-014#9:2> Indeed, education has been bombarded with a staggering variety of
+
+proposed changes in recent years.
+<ICE-CAN:W2A-014#10:2> Consider a few examples:
+<ICE-CAN:W2A-014#11:2> &bullet; One writer suggested that the way to correct the <quote> "
+
+dismal failure" </quote> of Canada's education system is to refuse anyone a
+
+driver's license until high school is completed.
+<ICE-CAN:W2A-014#12:2> &bullet; Several provinces have moved toward increased amalgamation
+
+of school districts as a means of improving effi <l> ciency.
+<ICE-CAN:W2A-014#13:2> &bullet; Singer Joni Michell is reported to have suggested at an arts
+
+education con <l> ference that the way to produce more artists is to
+
+discourage them.
+<ICE-CAN:W2A-014#14:2> &bullet; One of the restructuring initiatives undertaken in a U.S.
+
+school included the local decision to operate with no princi <l> pal, but
+
+instead have five management leaders and 17 committees.
+<ICE-CAN:W2A-014#15:2> &bullet; Japanese educational authorities, long characterized in this
+
+century as operating the <quote> " model" </quote> education system, are
+
+seriously reviewing North American education because they are concerned about
+
+the lack of creativity developed in Japanese schools.
+<ICE-CAN:W2A-014#16:2> &bullet; In South Carolina, the state has tried providing <quote> "
+
+bonuses" </quote> to schools exhibiting good standardized test scores.
+<ICE-CAN:W2A-014#17:2> &bullet; And in the United Kingdom, long considered a bastion of
+
+local school autonomy in curriculum, the central authority has moved toward a
+
+national curriculum. </p>
+
+<p> <ICE-CAN:W2A-014#18:2> Virtually every western nation and every Canadian province is
+
+undergoing some form of educational reform.
+<ICE-CAN:W2A-014#19:2> The real challenge for many becomes one of understanding these
+
+proposals, many of which seem contradictory and some simply ludicrous. </p>
+
+<p> <ICE-CAN:W2A-014#20:2> The way we make sense out of expe <l> rience is, of course, very
+
+individual.
+<ICE-CAN:W2A-014#21:2> The intent of this article is to share the writer's <quote> "
+
+cognitive maps," </quote> in the hope that readers might better understand
+
+current developments and inform themselves for more effective practice.
+<ICE-CAN:W2A-014#22:2> Any such attempt would seem to require an indica <l> tion of the
+
+reasons for action or change, the nature of proposed changes, and the methods
+
+of implementing change. </p>
+<ICE-CAN:W2A-014#23:2> <h> <bold> The reasons for change </bold> </h>
+
+<p> <ICE-CAN:W2A-014#24:2> The voices of demand for improve <l> ment in our schools are
+
+many, varied, and increasingly insistent, but they can probably be grouped
+
+under two main headings. </p>
+
+<p> <ICE-CAN:W2A-014#25:2> <it> Internal </it> - From within the educational establishment
+
+itself - classrooms, schools, districts, professional associa <l> tions,
+
+universities - come many of these pressures for change. </p>
+
+<p> <ICE-CAN:W2A-014#26:2> Partly, this relates to our knowledge base, which has been
+
+growing and deve <l> loping.
+<ICE-CAN:W2A-014#27:2> The practical realities that teachers face from day to day ( for
+
+example, the recognition of just how diffi <l> cult it is to motivate the
+
+unwilling learner or to make learning meaningful to students who are subject
+
+to so much stimuli) provide much cause for the search for better approaches.
+
+</p>
+
+<p> <ICE-CAN:W2A-014#28:2> Add to this the theoretical contribu <l> tions to our knowledge
+
+base.
+<ICE-CAN:W2A-014#29:2> The increas <l> ed understanding from cognitive psycho <l> logy of
+
+how we must place new learning into our own individual meaningful <quote> "
+
+whole" </quote> or context, or the recognition of Piagetian developmental
+
+stages, are examples of knowledge that place demands on us for change. </p>
+
+<p> <ICE-CAN:W2A-014#30:2> But we also deal constantly with the awareness of unrealized
+
+expectations in education.
+<ICE-CAN:W2A-014#31:2> For how many decades have we known that elementary school science
+
+should be a much richer experience for students, yet we've managed to change
+
+so little?
+<ICE-CAN:W2A-014#32:2> If critical thinking has been a goal of education for the past half
+
+century, why does there seem to be so little evidence of its presence in
+
+everyday life? </p>
+
+<p> <ICE-CAN:W2A-014#33:2> <it> External </it> - To these voices from within education must
+
+be added many external concerns. </p>
+
+<p> <ICE-CAN:W2A-014#34:2> Economic realities play a very important part in these external
+
+demands.
+<ICE-CAN:W2A-014#35:2> Not only do we face stress from dimishing public resources for
+
+education, but the economic environment has changed to the point where there
+
+is little place left for the unskilled in our society.
+<ICE-CAN:W2A-014#36:2> So we hear strident voices crying over a dropout rate that would have
+
+been consi <l> dered unimaginably good a few decades ago.
+<ICE-CAN:W2A-014#37:2> Can the schools actually develop in all students a level of skill and
+
+knowledge which not long ago was required only of the relatively few?
+<ICE-CAN:W2A-014#38:2> Or can we appro <l> priately increase our <w> graduates' </w>
+
+problem-solving ability as necessary in a com <l> plicated post-industrial
+
+society? </p>
+
+<p> <ICE-CAN:W2A-014#39:2> And then, of course, we have the pressures of social changes.
+<ICE-CAN:W2A-014#40:2> The list seems endless: sexually transmitted diseases, drugs,
+
+violence, family and community breakdown, a more scienti <l> fically and
+
+technically based workplace - all demand the school's attention. </p>
+<ICE-CAN:W2A-014#41:2> <h> <bold> The nature of proposed changes </bold> </h>
+
+<p> <ICE-CAN:W2A-014#42:2> The demands for change identified above do not lead to a single
+
+conclusion.
+<ICE-CAN:W2A-014#43:2> In fact, they not only become mixed, indistinct, and unclear, but
+
+often exist in some tension.
+<ICE-CAN:W2A-014#44:2> The need for the school to <O> Table Figure 1 </O> be a warm, caring
+
+place where students can find comfort from the fractured home or community in
+
+which they exist, for example, is not necessarily compatible with the need
+
+for more effort, and a more harshly competitive economic climate.
+<ICE-CAN:W2A-014#45:2> Similarly, the pressures for reduced drop-out rates may conflict with
+
+demands that all students have a higher level of tech <l> nical and
+
+scientific literacy.
+<ICE-CAN:W2A-014#46:2> And the diffe <l> rent <quote> " mixtures" </quote> of these demands
+
+can produce greatly variant conceptions of what the school should be. </p>
+
+<p> <ICE-CAN:W2A-014#47:2> One useful approach is to consider these different pictures of
+
+education metaphorically.
+<ICE-CAN:W2A-014#48:2> At least seven metaphors depicting the changed school as it <quote> "
+
+should be" </quote> seem common.
+<ICE-CAN:W2A-014#49:2> They are shown in Figure 1. </p>
+<ICE-CAN:W2A-014#50:2> <h> <it> <bold> The Factory </bold> </it> </h>
+
+<p> <ICE-CAN:W2A-014#51:2> One picture of the <quote> " new school" </quote> is presented as
+
+follows: <l> <X>
+<ICE-CAN:W2A-014#X52:2> <quote> <it> If we expect children to participate fully and equally
+
+in this democratic society, they must learn a <bold> common, shared
+
+foundation </bold> of knowledge, as well as certain <bold> common beliefs
+
+</bold> and standards of conduct </it> [ Emphasis added]. <sp> 2 </sp>
+
+<footnote> <it> 2.
+<ICE-CAN:W2A-014#X53:2> <bold> A Legacy for Leaners: The Report </bold> of the <bold> Royal
+
+Commission on Education </bold> ( Victoria, BC 1988), p. 94. </it>
+
+</footnote> </quote> </X> </p>
+
+<p> <ICE-CAN:W2A-014#54:2> Clearly, this is a picture of the Factory - a place where the
+
+emphasis is on pro <l> ductivity, uniformity and quality control.
+<ICE-CAN:W2A-014#55:2> And although educators may recoil at the coldness of that picture,
+
+they also would find it difficult to disagree with the need for common
+
+learning and a guarantee of success. </p>
+
+<p> <ICE-CAN:W2A-014#56:2> A modification of this metaphor is heard in the vision of a
+
+<quote> " technological laboratory". </quote>
+<ICE-CAN:W2A-014#57:2> This is still an uncommon view, but increasingly the school of the
+
+future is pictured as one dominated by computerized learning, with
+
+well-programmed software leading all students, on an individualized basis, to
+
+mastery of essential skills and knowledge. </p>
+<ICE-CAN:W2A-014#58:2> <h> <bold> <it> The Department Store </it> </bold> </h>
+
+<p> <ICE-CAN:W2A-014#59:2> In a department store, or a large con <l> vention, we can pick
+
+and choose accord <l> ing to our interests.
+<ICE-CAN:W2A-014#60:2> Another quote from the same source suggests that: <l> <X>
+<ICE-CAN:W2A-014#X61:2> <quote> <it> ...the larger challenge for the provincial system rests
+
+in attempting to establish what one scholar describes as <quote> " a system
+
+of plurality of excellence" </quote> ... a variety of career paths in formal
+
+schooling leading to different types of high level competence other than
+
+academic ability. <sp> 3 </sp> <footnote> <it> 3.
+<ICE-CAN:W2A-014#X62:2> <bold> A Legacy for Learners: The Report of the Royal Commission on
+
+Education </bold> ( Victoria, BC: 1988), p. 104. </it> </footnote> </quote>
+
+</X> </p>
+
+<p> <ICE-CAN:W2A-014#63:2> Clearly this metaphor places stress on variety and choice.
+<ICE-CAN:W2A-014#64:2> Indeed, in many cir <l> cles there are suggestions that the choice
+
+should be extended not only to students in school, but also to parents for a
+
+choice of the school their children attend. </p>
+<ICE-CAN:W2A-014#65:2> <h> <bold> <it> The Family </it> </bold> </h>
+
+<p> <ICE-CAN:W2A-014#66:2> There are few parents, when sending their first child off to the
+
+first day at school, who do not at heart wish that the school will, after
+
+all, be not that different from home - a kind of second family, where love,
+
+compassion, and co-opera <l> tion prevail.
+<ICE-CAN:W2A-014#67:2> And certainly that desire is echoed by many in society who see the
+
+school as too harsh, too unsuited to <w> students' </w> individual needs and
+
+aspira <l> tions. </p>
+<ICE-CAN:W2A-014#68:2> <h> <bold> <it> The Garden </it> </bold> </h>
+
+<p> <ICE-CAN:W2A-014#69:2> If the family metaphor comes primari <l> ly from parents, a
+
+closely allied picture comes mainly from educators - the view of the school
+
+as a garden ( or perhaps more correctly, an <quote> " untended meadow"
+
+</quote> ) , a place where beautiful things grow at their own rate and in
+
+their own manner, if only educators provide the right conditions.
+<ICE-CAN:W2A-014#70:2> The school, according to this conception, should be characterized by
+
+growth, beauty, diversity, and interest.
+<ICE-CAN:W2A-014#71:2> Consider, for example, the words of psychologist Carl Rogers: <l> <X>
+<ICE-CAN:W2A-014#X72:2> <quote> <it> ... I turn to an activity, a purpose, which really
+
+warms me - the facilitation of learn <l> ing.
+<ICE-CAN:W2A-014#X73:2> When I have been able to transform a group - and here I mean all the
+
+members of a group, myself included - into a community of <bold> learners
+
+</bold> , then the excitement has been almost beyond belief.
+<ICE-CAN:W2A-014#X74:2> To free curiosity; to permit individuals to go charging off in new
+
+directions dictated by their own questioning and exploration; to recognize
+
+that everything is in process of change - here is an experience I can never
+
+forget. <sp> 4 </sp> </it> <footnote> 4.
+<ICE-CAN:W2A-014#X75:2> <it> Carl Rogers, <bold> Freedom to Learn </bold> ( Columbus, OH.
+
+Charles E. Merrill Publishing, 1969). </it> </footnote> </quote> </X> </p>
+<ICE-CAN:W2A-014#76:2> <h> <bold> <it> The Olympics </it> </bold> </h>
+
+<p> <ICE-CAN:W2A-014#77:2> One only need imagine a sportscaster ludicrously commenting on a
+
+100-metre dash, <quote> " That was a wonderful race, with no winners,"
+
+</quote> to realize the nature of this image.
+<ICE-CAN:W2A-014#78:2> For the Olympics are meant, through competition, to bring out the
+
+best in competitors.
+<ICE-CAN:W2A-014#79:2> And while the stress on winners in this metaphor may seem
+
+inappropriate, with slight modification we can all see merit in a conception
+
+of school which sets hurdles and demands excellence. </p>
+<ICE-CAN:W2A-014#80:2> <h> <bold> <it> The Freedom March </it> </bold> </h>
+
+<p> <ICE-CAN:W2A-014#81:2> The vivid pictures we have seen in recent years of the masses
+
+marching for freedom in Eastern Europe or China call forth this metaphor - a
+
+picture of the school as a place for developing some passion over a
+
+worthwhile cause.
+<ICE-CAN:W2A-014#82:2> The voices raised for environmental educa <l> tion or Canadian
+
+identity have this common theme: school should instil in students, indeed
+
+indoctrinate them, with this intense desire to do something worth <l> while.
+
+</p>
+<ICE-CAN:W2A-014#83:2> <h> <bold> <it> The Clinic </it> </bold> </h>
+
+<p> <ICE-CAN:W2A-014#84:2> The medical model of a clinic, where the patient is referred for
+
+successively more sophisticated investigations and diagnostic procedures, has
+
+its reflection in an image of the school.
+<ICE-CAN:W2A-014#85:2> In this view, present in the <quote> " cascade" </quote> model of
+
+special education services, for example, the school should be characterized
+
+by much more precision, as we seek to find the problem in someone's inability
+
+to learn, and to fix it. </p>
+
+<p> <ICE-CAN:W2A-014#86:2> The purpose in describing these vary <l> ing concepts of the
+
+school is not to denigrate any.
+<ICE-CAN:W2A-014#87:2> Indeed, each has some validity in responding to some of the demands
+
+for change.
+<ICE-CAN:W2A-014#88:2> But we should note that these views are often in conflict.
+<ICE-CAN:W2A-014#89:2> The result, once again, is part of the tension faced in schools, at
+
+the board table, and in communities. </p>
+<ICE-CAN:W2A-014#90:2> <h> <bold> A framework </bold> </h>
+
+<p> <ICE-CAN:W2A-014#91:2> At this point, a digression is necessary to outline a framework
+
+presented by John Ingalls. <sp> 5 </sp> <footnote> <it> 5. J. D. Ingalls,
+
+<bold> Human Energy </bold> ( Don Mills, ON: Addison-Wesley, 1976), pp. 9-18.
+
+</footnote>
+<ICE-CAN:W2A-014#92:2> Ingalls has suggested that people have two major categories of needs,
+
+which in turn lead to two major types of behaviour.
+<ICE-CAN:W2A-014#93:2> Type A Behaviours he identi <l> fies as those which represent the
+
+basic human <it> need for certainty </it> , while Type B Behaviours are those
+
+representing a capacity for tolerating <it> ambiguity or uncer <l> tainty
+
+</it> .
+<ICE-CAN:W2A-014#94:2> A brief description of each is con <l> tained in Figure 2. </p>
+
+<p> <ICE-CAN:W2A-014#95:2> <w> Ingalls' </w> major point is that both types of behaviour are
+
+normal, natural, and universal and, in fact, are required in our society.
+<ICE-CAN:W2A-014#96:2> Type A Behaviours, which express our needs for certainty, are the
+
+basis for all rationality.
+<ICE-CAN:W2A-014#97:2> They are, in fact, behaviours of control which represent our efforts
+
+to <quote> " make sense of things," </quote> and hence they diminish the
+
+degree of free <l> dom and spontaneity which exists.
+<ICE-CAN:W2A-014#98:2> Type B Behaviours, on the other hand, tend to be very accepting, and
+
+hence reduce conflict; however, if they alone are present, they would make
+
+any concerted effort virtually impossible. </p>
+
+<p> <ICE-CAN:W2A-014#99:2> One can speculate that just as such behaviours are natural and
+
+necessary for individuals, so are they for organizations.
+<ICE-CAN:W2A-014#100:2> Both types of behaviour, for example, can be considered essential in
+
+school systems.
+<ICE-CAN:W2A-014#101:2> One type is ideally suited to obtaining maximum information which is
+
+a requir <l> ed condition for effective problem-solving.
+<ICE-CAN:W2A-014#102:2> The other enables some consis <l> tent and co-ordinated effort
+
+toward common goals. </p>
+
+<p> <ICE-CAN:W2A-014#103:2> This framework can be applied to the variant metaphors or
+
+conceptions of the school.
+<ICE-CAN:W2A-014#104:2> Certainly it seems reasonable to suggest that the concepts
+
+underlying metaphors of the Factory, Olympics, and Freedom March appeal to
+
+the need for certainty, control, and consistency. <O> Table Figure 2 </O>
+<ICE-CAN:W2A-014#105:2> The Department Store, Garden, Family metaphors, however, present
+
+concep <l> tions of education that provide for beha <l> viours leading to
+
+ambiguity, variety, and creativity.
+<ICE-CAN:W2A-014#106:2> The clinic can respond to the need for either kind of behaviour.
+
+</p>
+<ICE-CAN:W2A-014#107:2> <h> <bold> The implementation of change </bold> </h>
+
+<p> <ICE-CAN:W2A-014#108:2> Although most would probably accept the internal and external
+
+factors that demand change, reaching decisions on the desirable types of
+
+change is much more of a problem.
+<ICE-CAN:W2A-014#109:2> Even if such consen <l> sus is reached, we also face a variety of
+
+available approaches to implementing a model of the <quote> " new school."
+
+</quote> </p>
+
+<p> <ICE-CAN:W2A-014#110:2> Here again, the educational techni <l> ques and the leadership
+
+approaches at our disposal can be categorized under the two types of needed
+
+behaviours. </p>
+
+<p> <ICE-CAN:W2A-014#111:2> Some significant techniques fall under both headings.
+<ICE-CAN:W2A-014#112:2> In the interest of promot <l> ing greater consistency, certainty,
+
+and control, for example, we use core cur <l> riculum, objectives and
+
+directions, mastery learning, textbooks, and high student expectations.
+<ICE-CAN:W2A-014#113:2> Leadership ap <l> proaches that create a common vision, or depend
+
+upon centralized decision-making, tend to promote consistency types of
+
+behaviours as well. </p>
+
+<p> <ICE-CAN:W2A-014#114:2> In the interests of promoting variety, ambiguity and creativity,
+
+on the other hand, we use curricular electives, increased professional
+
+autonomy, indi <l> vidualization, a variety of learning materials, and
+
+student interest.
+<ICE-CAN:W2A-014#115:2> Leader <l> ship approaches that increase personal freedom or rely on
+
+human relations skills have similar purposes. </p>
+
+<p> <ICE-CAN:W2A-014#116:2> Once again, we observe a certain degree of conflict and tension
+
+between the behaviours or approaches we use to pro <l> mote consistency and
+
+control and those required to encourage variety and creati <l> vity. </p>
+<ICE-CAN:W2A-014#117:2> <h> <bold> Conclusions </bold> </h> </I>

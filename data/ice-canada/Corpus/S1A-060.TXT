@@ -1,0 +1,655 @@
+<I>
+
+<$A> <#1:1:A> How's life <{> <[> <O> laugh </O> </[>
+
+<$B> <#2:1:B> <[> Well so </[> </{> far actually pretty good
+
+<$A> <#3:1:A> <{> <[> Ya </[>
+
+<$B> <#4:1:B> <[> You </[> </{> know I've <{> <[> been <?> keeping </?> busy
+</[>
+
+<$A> <#5:1:A> <[> How are your courses going </[> </{>
+
+<$B> <#6:1:B> Not too bad <{> <[> actually </[>
+
+<$A> <#7:1:A> <[> Cos you're </[> </{> taking that Learning Disabilities <{>
+<[> right </[>
+
+<$B> <#8:1:B> <[> Yes </[> </{> ya
+<#9:1:B> And <}> <-> I'm </-> <=> I </=> </}> <{> <[> quite like it actually
+</[>
+
+<$A> <#10:1:A> <[> <}> <-> Ya </-> <+> you </+> </}> think it's <}> <-> gonna
+</-> <+> going to </+> </}> be </[> </{> okay
+
+<$B> <#11:1:B> So far
+<#12:1:B> Well so far it's been <,,> uh pretty easy
+<#13:1:B> Well <{> <[> the first </[> week we missed the class
+
+<$A> <#14:1:A> <[> Ya </[> </{>
+
+<$B> <#15:1:B> Because the class was on Tuesday <{> <[> <,,> </[> and the
+school didn't start till Wednesday
+
+<$A> <#16:1:A> <[> Uh huh </[> </{>
+
+<$B> <#17:1:B> <{> <[> Remember </[>
+
+<$A> <#18:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <#19:1:B> <{> <[> Well we had no class </[> that week
+
+<$A> <#20:1:A> <[> Ya ya ya </[> </{>
+
+<$B> <#21:1:B> Then the <{> <[> next week </[> uhm <,> we had a class the
+next two weeks
+
+<$A> <#22:1:A> <[> Uh huh </[> </{>
+
+<$B> <#23:1:B> And last Tuesday I had no school because it was a Jewish
+holiday <{> <[> <,,> </[> so the teacher didn't come
+
+<$A> <#24:1:A> <[> Right right </[> </{>
+
+<$B> <#25:1:B> And tonight I have a class <{> <[> <,,> </[> but it's a Jewish
+holiday also
+
+<$A> <#26:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <#27:1:B> But so he's not going to be there but he is sending a
+replacement
+
+<$A> <#28:1:A> You're kidding
+<#29:1:A> <{> <[> Wow </[>
+
+<$B> <#30:1:B> <[> So it's </[> </{> good
+<#31:1:B> There's no term paper
+
+<$A> <#32:1:A> Gee
+
+<$B> <#33:1:B> <}> <-> Gonna </-> <+> going to </+> </}> be <{> <[> <}> <->
+two <unclear> word </unclear> </-> <=> two tests </=> </}> </[>
+
+<$A> <#34:1:A> <[> Just two tests and that's it </[> </{>
+
+<$B> <#35:1:B> Fifty percent mid-term
+<#36:1:B> Fifty percent <.> wh </.>
+<#37:1:B> <{> <[> <}> <-> Which I I </-> <=> I </=> </}> <?> like that </?>
+you know </[>
+
+<$A> <#38:1:A> <[> <?> That's not too bad </?> </[> </{>
+
+<$B> <#39:1:B> <{> <[> I don't mind </[>
+
+<$A> <#40:1:A> <[> You just do the reading </[> </{>
+<#41:1:A> You go to the classes
+<#42:1:A> You <{> <[> learn the material </[>
+
+<$B> <#43:1:B> <[> It's easier </[> </{> <,>
+
+<$A> <#44:1:A> <{> <[> Ya </[>
+
+<$B> <#45:1:B> <[> I mean </[> </{> even though everybody at the <@> Bissel
+</@> Centre's <}> <-> gonna </-> <+> going to </+> </}> hear me say this <{>
+<[> <,> but uh </[>
+
+<$A> <#46:1:A> <[> Ya ya </[> </{>
+<#47:1:A> No I agree because sometimes you get so overloaded with projects
+<#48:1:A> Ya <{> <[> and <,> </[> if you've
+
+<$B> <#49:1:B> <[> <}> <-> <.> I </.> </-> <=> it's </=> </}> just </[> </{>
+
+<$A> <#50:1:A> Like right now I've got all of these group projects and it's
+so hard to get people together and you don't know the people that well and
+you get thrown into these groups and you're just running all around like a
+<{> <[> mad person </[>
+
+<$B> <#51:1:B> <[> <?> That's right </?> </[> </{>
+<#52:1:B> Sometimes you wonder what you're learning
+
+<$A> <#53:1:A> Ya <{> <[> exactly </[>
+
+<$B> <#54:1:B> <[> You know </[> </{> are you really learning more <{1> <[1>
+if you </[1> <,> do all those <,> things
+<#55:1:B> <{2> <[2> <,,> </[2> <}> <-> then </-> <=> then </=> </}> not
+
+<$A> <#56:1:A> <[1> Right </[1> </{1>
+
+<$A> <#57:1:A> <[2> Mhh hmm </[2> </{2>
+
+<$A> <#58:1:A> <{> <[> Ya </[>
+
+<$B> <#59:1:B> <[> So </[> </{> sometimes <}> <-> I <}> <-> <.> thi </.> </->
+<+> think </+> </}> </-> <=> I really think </=> </}> it's true
+<#60:1:B> <{> <[> It's too </[> much
+
+<$A> <#61:1:A> <[> Right </[> </{>
+
+<$B> <#62:1:B> It's almost like busy-work
+
+<$A> <#63:1:A> Well that's it
+<#64:1:A> That's it
+
+<$B> <#65:1:B> You know and once it becomes
+<#66:1:B> There's a fine line <{1> <[1> between </[1> busy-work and
+<#67:1:B> <{2> <[2> learning </[2>
+
+<$A> <#68:1:A> <[1> Ya </[1> </{1>
+
+<$A> <#69:1:A> <[2> And crazy </[2> </{2> - work
+
+<$B> <#70:1:B> Ya <{> <[> right
+<#71:1:B> And learning something </[>
+
+<$A> <#72:1:A> <[> You know when you're just going nuts </[> </{>
+<#73:1:A> Ya
+
+<$B> <#74:1:B> And there's a real reason for it
+<#75:1:B> <{> <[> Anyways so I like that </[>
+
+<$A> <#76:1:A> <[> Ya ya <,> good </[> </{>
+
+<$B> <#77:1:B> And the other course I'm taking <{> <[> is an Adult </[>
+
+<$A> <#78:1:A> <[> Which one's </[> </{> that <}> <-> <.> aga </.> </-> <+>
+again </+> </}>
+
+<$B> <#79:1:B> <}> <-> <.> A </.> </-> <{> <[> <=> Adult </=> </}> Ed </[>
+
+<$A> <#80:1:A> <[> Adult Ed </[> </{>
+<#81:1:A> Mhh
+
+<$B> <#82:1:B> We have a paper for that one
+
+<$A> <#83:1:A> Okay
+
+<$B> <#84:1:B> So I
+<#85:1:B> But not <,> due <,> yet
+
+<$A> <#86:1:A> <{> <[> Ahh </[>
+
+<$B> <#87:1:B> <[> And a </[> </{> presentation
+
+<$A> <#88:1:A> Oh ya
+
+<$B> <#89:1:B> So we can do it in a group
+<#90:1:B> We're doing it in a group of <{> <[> three </[>
+
+<$A> <#91:1:A> <[> A </[> </{> group presentation
+<#92:1:A> <{> <[> Okay </[>
+
+<$B> <#93:1:B> <}> <-> <[> Which I </[> </{> </-> <=> <,> for me I </=> </}>
+prefer it <{1> <[1> <,,> </[1> because there just seems
+<#94:1:B> <{2> <[2> to </[2>
+
+<$A> <#95:1:A> <[1> Mhh hmm </[1> </{1>
+
+<$A> <#96:1:A> <[2> Ya </[2> </{2>
+
+<$A> <#97:1:A> <{1> <[1> Well I found that group presentations aren't too
+</[1> <,,> bad
+<#98:1:A> <{2> <[2> <,> if you don't have to do a </[2> write-up <,> to go
+with it
+
+<$B> <#99:1:B> <[1> <unclear> word </unclear> I've never done a presentation
+</[1> </{1>
+
+<$B> <#100:1:B> <[2> I've never done a presentation </[2> </{2>
+
+<$A> <#101:1:A> Cos if you do a write-up <{1> <[1> <}> <-> it's </-> <=> it's
+</=> </}> really hard </[1> you
+<#102:1:A> <{2> <[2> know <,> </[2> to like get everybody to do an equal
+amount
+<#103:1:A> <{3> <[3> of work </[3>
+
+<$B> <#104:1:B> <[1> Then's it's a <unclear> word </unclear> </[1> </{1>
+
+<$B> <#105:1:B> <[2> Right </[2> </{2>
+
+<$B> <#106:1:B> <[3> That's true </[3> </{3>
+
+<$A> <#107:1:A> And then you know you have to <,> you know group edit it
+
+<$B> <#108:1:B> <{> <[> You're right </[>
+
+<$A> <#109:1:A> <[> You have to </[> </{> <{> <[> <}> <-> do uh </-> <=> make
+all </=> </}> </[> these meetings and ya
+
+<$B> <#110:1:B> <[> No <?> absolutely </?> </[> </{>
+
+<$A> <#111:1:A> <{> <[> So that's not too bad </[>
+
+<$B> <#112:1:B> <[> But I've never done a presentation </[> </{>
+<#113:1:B> Would you believe it
+
+<$A> <#114:1:A> Oh come on
+<#115:1:A> Really
+<#116:1:A> You do them <}> <-> every </-> <=> <,> well the other </=> </}>
+day <{> <[> <?> when you're </?> teaching </[>
+
+<$B> <#117:1:B> <[> Ya I know </[> </{>
+<#118:1:B> No that's <{> <[> right </[>
+
+<$A> <#119:1:A> <[> But </[> </{>
+
+<$B> <#120:1:B> I know <{> <[> that's why they send you to </[>
+
+<$A> <#121:1:A> <[> But not formally </[> </{>
+
+<$B> <#122:1:B> But not really
+<#123:1:B> I'm not sure how to you know <,> go about <{1> <[1> doing it </[1>
+or what I'm
+<#124:1:B> <{2> <[2> supposed </[2> to do
+
+<$A> <#125:1:A> <[1> Do it </[1> </{1>
+
+<$A> <#126:1:A> <[2> Ya </[2> </{2>
+
+<$B> <#127:1:B> You know they just <{1> <[1> say </[1> <,> do a presentation
+and
+<#128:1:B> <{2> <[2> and never say on what </[2>
+
+<$A> <#129:1:A> <[1> Ya </[1> </{1>
+
+<$A> <#130:1:A> <[2> Ya I'm sure you'll do fine </[2> </{2>
+
+<$A> <#131:1:A> <{> <[> Because <unclear> three words </unclear> with
+teaching experience </[>
+
+<$B> <#132:1:B> <[> <unclear> words </unclear> what I'll <?> find </?> </[>
+</{>
+<#133:1:B> I'm not worried about doing it <{> <[> <,> it's </[> just what I
+should <,> do it on you know
+
+<$A> <#134:1:A> <[> No </[> </{>
+<#135:1:A> No I <{> <[> know </[>
+
+<$B> <#136:1:B> <[> On </[> </{> what
+
+<$A> <#137:1:A> But the people with teaching experience are more natural <,>
+when they do it
+<#138:1:A> Because people who <,> don't have this <{1> <[1> experience </[1>
+of getting up and speaking in front of
+<#139:1:A> <{2> <[2> people </[2> what they do is they read their
+presentation
+
+<$B> <#140:1:B> <[1> Yes </[1> </{1>
+
+<$B> <#141:1:B> <[2> I know </[2> </{2>
+
+<$B> <#142:1:B> Oh really
+
+<$A> <#143:1:A> They have it on little cards and they <{> <[> read it </[>
+
+<$B> <#144:1:B> <[> Ahh </[> </{>
+
+<$A> <#145:1:A> And <}> <-> it's </-> <=> it's </=> </}> not that good
+<#146:1:A> Uhm well not only for your mark but also it doesn't flow and <}>
+<-> it </-> <=> it's </=> </}> hard to listen to as a listener in the
+audience
+<#147:1:A> You know if it's being read <{> <[> to you </[>
+
+<$B> <#148:1:B> <[> Mhh hmm </[> </{>
+<#149:1:B> Mhh
+
+<$A> <#150:1:A> Or even if it's <{1> <[1> memorized <,> </[1> too
+<#151:1:A> <{2> <[2> much or </[2>
+
+<$B> <#152:1:B> <[1> Right </[1> </{1>
+
+<$B> <#153:1:B> <[2> Oh boy </[2> </{2> it's hard to memorize a <{1> <[1>
+presentation that's a </[1> half an hour
+<#154:1:B> <{2> <[2> long </[2>
+
+<$A> <#155:1:A> <[1> You know <}> <-> it's </-> <=> it's </=> </}> hard to
+follow </[1> </{1>
+
+<$A> <#156:1:A> <[2> Well </[2> </{2> exactly <,> exactly
+
+<$B> <#157:1:B> So but mind you you
+<#158:1:B> Well I suppose you're right
+
+<$A> <#159:1:A> I think you have to memorize like certain parts but <,> <{>
+<[> not word for word </[>
+
+<$B> <#160:1:B> <[> Because when you're teaching <}> <-> it's not the </[>
+</{> </-> <=> it's not <{1> <[1> the </[1> </=> </}> same because <}> <-> I
+</-> <=> I </=> </}> don't you know
+<#161:1:B> <{2> <[2> <,,> </[2> it's much more natural
+
+<$A> <#162:1:A> <[1> No </[1> </{1>
+
+<$A> <#163:1:A> <[2> Mhh </[2> </{2>
+
+<$A> <#164:1:A> <{> <[> Well that's it </[>
+
+<$B> <#165:1:B> <[> But anyway <}> <-> I'll </[> </{> </-> <=> <{> <[> <,,>
+</[> that's </=> </}> what I have to do
+
+<$A> <#166:1:A> <[> Ya </[> </{>
+
+<$B> <#167:1:B> So <}> <-I've it's  <}> <-> <.> real </.> </-> <+> really
+</+> </}> </-> <=> I haven't </=> </}> been bogged down with projects and <,>
+things yet
+<#168:1:B> And <{> <[> <,,> </[> I'm quite happy
+
+<$A> <#169:1:A> <[> Ya </[> </{>
+
+<$B> <#170:1:B> I'll tell you the <{> <[> truth </[>
+
+<$A> <#171:1:A> <[> Good </[> </{>
+
+<$B> <#172:1:B> We've been going to the country every weekend
+
+<$A> <#173:1:A> <{> <[> Ohh wonderful </[>
+
+<$B> <#174:1:B> <[> The leaves </[> </{> <,,> are <{> <[> beautiful </[>
+
+<$A> <#175:1:A> <[> Oh I </[> </{> bet
+
+<$B> <#176:1:B> So I feel like I have a life
+
+<$A> <#177:1:A> <{> <[> Ohh great </[>
+
+<$B> <#178:1:B> <[> <O> laugh </O> </[> </{> <{> <[> <unclear> words
+</unclear> </[>
+
+<$A> <#179:1:A> <[> Ya that's </[> </{> what I'm looking forward to after
+this year <,> is getting a <{> <[> life back again <O> laugh </O> </[>
+
+<$B> <#180:1:B> <[> You'll be finished after this year </[> </{>
+
+<$A> <#181:1:A> Well I should be finished in April <,,>
+<#182:1:A> <{> <[> If everything goes well </[>
+
+<$B> <#183:1:B> <[> Ohh </[> </{>
+
+<$A> <#184:1:A> Because I've got my two practicums <,> and then uhm <{> <[>
+I've just got two other courses </[>
+
+<$B> <#185:1:B> <[> You <unclear> words </unclear> after Christmas </[> </{>
+
+<$A> <#186:1:A> No I'm doing one now
+
+<$B> <#187:1:B> Are you
+<#188:1:B> <{> <[> Now </[>
+
+<$A> <#189:1:A> <[> Ya </[> </{>
+
+<$B> <#190:1:B> Are you in a process of doing <{> <[> it </[> now
+
+<$A> <#191:1:A> <[> Ya </[> </{>
+<#192:1:A> Ya ya <,> <{> <[> ya </[>
+
+<$B> <#193:1:B> <[> You're </[> </{> actually doing it
+
+<$A> <#194:1:A> Well no no
+<#195:1:A> Uh well actually I'm teaching the Tyndale students now
+<#196:1:A> Beginners' class
+<#197:1:A> And this is to prepare us for going into the primary school
+<#198:1:A> For teaching beginners
+<#199:1:A> Like children huh
+
+<$B> <#200:1:B> Okay
+
+<$A> <#201:1:A> But we get the adults now because <{> <[> they're </[> so
+much easier to teach than little kids
+
+<$B> <#202:1:B> <[> Ya </[> </{>
+<#203:1:B> Ya
+
+<$A> <#204:1:A> And uhm so we're practising with them
+<#205:1:A> And uh <{> <[> I'm </[>
+
+<$B> <#206:1:B> <[> How are </[> </{> you feeling
+<#207:1:B> How are you finding <,,>
+
+<$A> <#208:1:A> Well it's interesting
+<#209:1:A> Again we're doing group teaching
+<#210:1:A> So this has been kind of <{> <[> difficult </[>
+
+<$B> <#211:1:B> <[> Okay </[> </{> group teaching meaning you do some and
+then they do some or <}> <-> <.> toge </.> </-> <+> together </+> </}> you do
+it
+<#212:1:B> You can't teach together
+
+<$A> <#213:1:A> We do a little bit
+<#214:1:A> Uhm you know <}> <-> <.> the </.> </-> <=> there </=> </}> is like
+one person in charge of each part more or less
+
+<$B> <#215:1:B> <{> <[> Ya </[>
+
+<$A> <#216:1:A> <[> But then </[> </{> uh we get like the other people in our
+groups <,> uh to interact with the <{1> <[1> students <,> </[1> in like the
+group work or the pair work and that's what it
+<#217:1:A> <{2> <[2> <unclear> word </unclear> </[2>
+
+<$B> <#218:1:B> <[1> Mhh hmm </[1> </{1>
+
+<$B> <#219:1:B> <[2> Right </[2> </{2> but generally how you do it usually is
+one gives a presentation perhaps and one might do
+
+<$B> <#220:1:B> No
+<#221:1:B> <{> <[> You <unclear> word </unclear> </[>
+
+<$A> <#222:1:A> <[> Uhhm </[> </{>
+
+<$B> <#223:1:B> You can't both give <{> <[> the presentation </[>
+
+<$A> <#224:1:A> <[> Well for example </[> </{> <{1> <[1> <,,> <}> <-> you
+</-> <=> you </=> </}> introduce </[1>
+<#225:1:A> <{2> <[2> something </[2> and then maybe I'll get <}> <-> one of
+the <}> <-> <.> stu </.> </-> <+> student </+> </}> </-> <=> like one of the
+student teachers </=> </}> to come and do the dialogue
+<#226:1:A> <{3> <[3> with me for example </[3>
+
+<$B> <#227:1:B> <[1> The introduction <?> to the </?> lesson no </[1> </{1>
+
+<$B> <#228:1:B> <[2> Right </[2> </{2>
+
+<$B> <#229:1:B> <[3> Okay okay right </[3> </{3>
+
+<$A> <#230:1:A> And then maybe I'll take half the class <{1> <[1> and </[1>
+you know get them to follow me and then the other class will follow the other
+person
+<#231:1:A> <{2> <[2> for example </[2>
+
+<$B> <#232:1:B> <[1> Right </[1> </{1>
+
+<$B> <#233:1:B> <[2> It has its good </[2> </{2> points and its bad points I
+guess
+
+<$B> <#234:1:B> <{> <[> You think </[>
+
+<$A> <#235:1:A> <[> Well ya </[> </{>
+<#236:1:A> The thing is we got put into groups with people that we hardly
+knew
+
+<$B> <#237:1:B> Okay
+
+<$A> <#238:1:A> So that it takes a little while till you get used to the
+other <,,> person's personality <}> <-> and </-> <=> and </=> </}> what we
+found was we were haggling over a bunch of <{1> <[1> <,> </[1> insignificant
+<#239:1:A> <{2> <[2> details </[2>
+
+<$B> <#240:1:B> <[1> Right </[1> </{1>
+
+<$B> <#241:1:B> <[2> Right </[2> </{2> right
+
+<$A> <#242:1:A> You know trying to decide you know the exact word that you
+want to put in you know at every little model sentence that you're going to
+give
+<#243:1:A> <}> <-> And </-> <=> and </=> </}> you know <}> <-> it </-> <=> it
+</=> </}> can take like ten twenty minutes sometimes
+<#244:1:A> One person wants to say it this way and the other person want to
+say it this way
+<#245:1:A> Like somebody wants to say <quote> how are you </quote> and
+somebody else wants to say <quote> how are you doing </quote>
+<#246:1:A> And then this gets argued about for <{> <[> you know fifteen or
+twenty minutes </[>
+
+<$B> <#247:1:B> <[> Right
+<#248:1:B> <}> <-> That's </-> <=> and you think a it's </=> </}> waste </[>
+</{> of <{> <[> time </[>
+
+<$A> <#249:1:A> <[> It's </[> </{> <{> <[> ridiculous </[> you know
+
+<$B> <#250:1:B> <[> Ya </[> </{>
+<#251:1:B> That is
+
+<$A> <#252:1:A> It is
+<#253:1:A> So these are the kinds <{> <[> of things that </[>
+
+<$B> <#254:1:B> <[> How often do you </[> </{> have to go
+
+<$A> <#255:1:A> Uhm well I've done uh two <,> sessions
+<#256:1:A> And I've got two more to do
+<#257:1:A> So I'm in a group of four people and we have to divide up
+eighty-five minutes between the four of us
+<#258:1:A> And we also have to follow this kind of pattern they have
+<#259:1:A> Probably you've heard about this
+<#260:1:A> The pre-activities the while-activities and the post-activities
+
+<$B> <#261:1:B> Ya
+
+<$A> <#262:1:A> And then we've hardly had any time like to meet <{1> <[1> and
+</[1> organize this
+<#263:1:A> <{2> <[2> stuff </[2>
+
+<$B> <#264:1:B> <[1> Okay </[1> </{1>
+
+<$B> <#265:1:B> <[2> Ya ya </[2> </{2>
+
+<$A> <#266:1:A> So what I'm finding <}> <-> is </-> <=> with our group is
+</=> </}> that one person does <,> something for twenty minutes and then the
+next person does something and it doesn't fit at all with the thing that came
+<{> <[> before it </[>
+
+<$B> <#267:1:B> <[> Right right </[> </{> <{> <[> right </[>
+
+<$A> <#268:1:A> <[> You know </[> </{> there's no <,> continuity
+<#269:1:A> So it seems like <}> <-> we're </-> <=> we're </=> </}> giving <}>
+<-> all </-> <=> <{> <[> lessons all </=> </}> over the place </[>
+
+<$B> <#270:1:B> <[> Is it happening in every group </[> </{>
+<#271:1:B> Or do you get to observe any other groups <{> <[> do it </[>
+
+<$A> <#272:1:A> <[> Well the </[> </{> thing is we were the first group so I
+think we were a little bit <{1> <[1> <,> </[1> you know
+<#273:1:A> <{2> <[2> uh penalized in a way </[2>
+
+<$B> <#274:1:B> <[1> Right </[1> </{1>
+
+<$B> <#275:1:B> <[2> <}> <-> What is </-> <=> who's your </=> </}> teacher
+</[2> </{2>
+
+<$A> <#276:1:A> <{> <[> We didn't have time to prepare </[>
+
+<$B> <#277:1:B> <[> <}> <-> Who's uh </-> <=> <,> who's the </=> </}> teacher
+</[> </{>
+<#278:1:B> Uh his name is <@> Charles Batard </@>
+<#279:1:B> He's a principal of an elementary school that does these intensive
+English <{> <[> courses </[>
+
+<$B> <#280:1:B> <[> Oh okay </[> </{>
+
+<$A> <#281:1:A> Or actually <}> <-> <.> in </.> </-> <=> intensive </=> </}>
+<}> <-> <.> E </.> </-> <=> English </=> </}> programs
+<#282:1:A> You know these kids that go for six months or something and they
+do only <{> <[> English </[>
+
+<$B> <#283:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <#284:1:A> And uh he has his own little school in <}> <-> St </-> <=> St
+</=> </}> Eustache
+<#285:1:A> And that's <}> <-> <}> <-> <.> wh </.> </-> <+> where </+> </}>
+</-> <=> actually where </=> </}> I'm hoping to do my practicum <,> because
+I've heard that it's supposed to be really <{> <[> an excellent excellent
+school </[>
+
+<$B> <#286:1:B> <[> Mhh really
+<#287:1:B> That particular </[> </{> school
+
+<$A> <#288:1:A> Ya
+
+<$B> <#289:1:B> And the C T's are supposed to be very very uh
+<#290:1:B> Not only very very nice but also very very helpful and
+knowledgeable and they have lots of resources
+<#291:1:B> And I know somebody who did the practicum there last year <{> <[>
+and she was </[>
+
+<$B> <#292:1:B> <[> Can you ask </[> </{> to go there
+
+<$A> <#293:1:A> I did <{> <[> already and I'm waiting to find out now <}> <->
+if </[> </-> <=> if </=> </}> <,> it will happen
+
+<$B> <#294:1:B> <[> <unclear> phrase </unclear> have <,> hmm </[> </{>
+<#295:1:B> Because you know they have to <,> look at everybody's situation
+where everybody lives and you know divide people out
+<#296:1:B> So I'm hoping that I'll go there
+
+<$B> <#297:1:B> It's far
+
+<$A> <#298:1:A> It's far <}> <-> I <}> <-> <.> don </.> </-> <+> don't </+>
+</}> </-> <=> I know but I don't </=> </}> <{> <[> mind if I get a good </[>
+
+<$B> <#299:1:B> <[> <unclear> three words </unclear> right </[> </{>
+<#300:1:B> I don't blame you
+
+<$A> <#301:1:A> If I get a good spot <}> <-> I </-> <=> I </=> </}> don't
+care if it takes me <{> <[> two hours </[> to get there
+
+<$B> <#302:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <#303:1:A> <{> <[> I'll do it </[>
+
+<$B> <#304:1:B> <[> And then when do you </[> </{> start uh <{> <[> to go
+</[>
+
+<$A> <#305:1:A> <[> That'll be </[> </{> in November
+<#306:1:A> The whole month of <{> <[> November </[>
+
+<$B> <#307:1:B> <[> Ya okay </[> </{>
+
+<$A> <#308:1:A> Every day
+
+<$B> <#309:1:B> Mhh hmm
+
+<$A> <#310:1:A> Ya
+<#311:1:A> So uhm ya <}> <-> that's what </-> <=> I'm looking <,> forward to
+that </=> </}>
+<#312:1:A> I'm really looking forward to it because I think uh <}> <-> of <,>
+</-> <=> if </=> <,> </}> especially if I get that position or something
+comparable
+
+<$B> <#313:1:B> You'll be doing primary
+<#314:1:B> Is that <{> <[> right </[>
+
+<$A> <#315:1:A> <[> Primary </[> </{> <{> <[> ya </[>
+
+<$B> <#316:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <#317:1:A> I think it'll be a really good <}> <-> <.> t </.> </-> <=>
+<{> <[> training </=> </}> program </[>
+
+<$B> <#318:1:B> <[> Oh ya </[> </{>
+<#319:1:B> I think you learn
+<#320:1:B> There's no question you learn more from that than you learn from
+all the <,,> you know courses you take <{1> <[1> on early </[1> <,> English
+history of language and
+<#321:1:B> <{2> <[2> <,,> Sounds and </[2> Phonetics and
+
+<$A> <#322:1:A> <[1> Right </[1> </{1>
+
+<$A> <#323:1:A> <[2> <O> laugh </O> Ya </[2> </{2>
+
+<$B> <#324:1:B> You know it's good to know but
+
+<$A> <#325:1:A> Well exactly
+
+<$B> <#326:1:B> Ya
+<#327:1:B> You certainly learn by doing
+
+<$A> <#328:1:A> Oh that's for sure
+<#329:1:A> And what I really want to do is learn techniques </I>

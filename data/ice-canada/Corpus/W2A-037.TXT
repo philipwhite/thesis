@@ -1,0 +1,641 @@
+<I>
+<ICE-CAN:W2A-037#1:1> <h> THEORY AND COMPUTATION OF TWO-METAL AND HIGHER ORDER PREDOMINANCE
+
+AREA DIAGRAMS </h>
+<ICE-CAN:W2A-037#2:1> <bold> CHRISTOPHER W. BALE </bold>
+
+<p> <ICE-CAN:W2A-037#3:1> <bold> Abstract </bold> - Algorithms which calculate the classical
+
+one-metal predominance area or phase stability diagram are briefly reviewed.
+<ICE-CAN:W2A-037#4:1> The <quote> " Constrained Chemical Potential Method" </quote> , which
+
+has been used to calculate one-metal predominance area diagrams, is adapted
+
+to calculate two-metal and higher order systems.
+<ICE-CAN:W2A-037#5:1> The topologies of the resulting diagrams are analyzed and general
+
+guidelines are proposed for constructing multi-metal predominance area
+
+diagrams.
+<ICE-CAN:W2A-037#6:1> Examples are presented for systems containing one metal, Fe-S-O,
+
+Ca-C-O-S-H, Cu-S-O, Zn-S-O, Al-S-O; two metals, Al-Zn-S-O, Al-Si-C-O,
+
+Cu-Fe-S-O ; and three metals, Al-Fe-Zn-S-O. </p> <X>
+
+<p> <ICE-CAN:W2A-037#X7:1> <indig> <bold> R&eacute;sum&eacute; </bold> - Les algorithmes
+
+calculant les diagrammes de stabilit&eacute; ou d'aires de
+
+pr&eacute;dominance d'un m&eacute;tal sont pr&eacute;sent&eacute;s
+
+bri&egrave;vement.
+<ICE-CAN:W2A-037#X8:1> La m&eacute;thode des potentials chimiques impos&eacute;s, qui a
+
+&eacute;t&eacute; utilis&eacute;e pour calculer de tels diagrammes, a
+
+&eacute;t&eacute; modifi&eacute;e pour permettre le calcul de syst&egrave;mes
+
+o&ugrave; plus d'un m&eacute;tal est pr&eacute;sent.
+<ICE-CAN:W2A-037#X9:1> La topologie des diagrammes r&eacute;sultant est analys&eacute;e et
+
+les principes de construction de tels diagrammes sont present&eacute;s.
+<ICE-CAN:W2A-037#X10:1> Des exemples de diagrammes sont donn&eacute;s pour des
+
+syst&egrave;mes contenant un m&eacute;tal, Fe-S-O, Ca-C-O-S-H, Cu-S-O,
+
+Zn-S-O, Al-S-O; deux m&eacute;taux, Al-Zn-S-O, Al-Si-C-O, Cu-Fe-S-O; et trois
+
+m&eacute;taux, Al-Fe-Zn-S-O. </indig> </p> </X>
+<ICE-CAN:W2A-037#11:1> <h> <bold> 1. INTRODUCTION </bold> </h>
+
+<p> <ICE-CAN:W2A-037#12:1> The predominance area or phase stability diagram provides a
+
+convenient means of assembling heterogeneous equilibria in various gaseous
+
+atmospheres.
+<ICE-CAN:W2A-037#13:1> For example, <}> <-> Fig. </-> <+> Figure </+> </}> 1 shows the
+
+classical one-metal predominance area diagram for the Fe-S-O system where the
+
+axes are log <sb> 10 </sb> <it> P </it> ( SO <sb> 2 </sb> ) and log <sb> 10
+
+</sb> <it> P </it> ( O <sb> 2 </sb> ) .
+<ICE-CAN:W2A-037#14:1> All the species are in their pure standard states and the diagram is
+
+calculated from the standard Gibbs energies of formation of these species.
+<ICE-CAN:W2A-037#15:1> Algorithms which calculate and plot this type of one-metal
+
+predominance diagram are well documented in the literature <fnr> [ 1-19]
+
+</fnr> <footnote> 1. H. H. Kellog and S. K. Basu, Trans. Metall. Soc. AIME
+
+218, 70 ( 1960). 2. T. R. Ingraham and H. H. Kellogg, Trans. Metall. Soc.
+
+AIME 227, 1419 ( 1963). 3. R. D. Pehlke, Unit Processes of Extractive
+
+Metallurgy, American Elsevier, New York ( 1965). 4. R. M. Garrels and C. L.
+
+Christ, Solutions Minerals and Equilibria, Harper and Row, New York ( 1965).
+
+5. T. R. Ingraham and R. Kerby, Can. metall. Q. 6, 89 ( 1967). 6. R. F.
+
+Pilgrim and T. R. Ingraham, Can. metall. Q. 6, 333 ( 1967). 7. E. A.
+
+Gulbransen and S. A. Jansson, High-Temperature Metallic Corrosion of Sulfur
+
+and its Compounds, Proc. Sympos. 1969, Electro. Soc. Fall Meeting, p. 3-51 (
+
+1970). 8. A. G. Turnbull, A General Computer Program for the Calculation and
+
+Plotting of Thermodynamic Stability Diagrams, Australasian Inst. Min.
+
+Metall./Univ. S. Wales Extract. Metall. Sympos., Nov. 1977. 9. S. R.
+
+Shatyuski, Ox. Metals, 11, 307 ( 1977). 10. P.J. Spencer and I. Barin, Mats.
+
+in Engng Appl. 1, 167 ( 1979). 11. W. F. Chu and A. Rahmel, Rev. on
+
+High-Temp. Mats., IV, 139 ( 1979). 12. J. Stringer and D. P. Whittle, Rev.
+
+Int. Htes Temp. et R&eacute;fract. 14, 6 ( 1977). 13. G. Harshe and S.
+
+Venkatachalam, J. Metals Oct., 34 ( 1985). 14. A. G. Turnbull and M. W.
+
+Wadesley, The CSIRO-SGTE Thermodata System ( prog. SYSTEM) CSIRO, Port
+
+Melbourne, Australia ( 1985). 15. C. W. Bale, A. D. Pelton and W. T.
+
+Thompson, Can. metall. Q. 25, 107 ( 1986). 16. F. R. A. Jorgensen, F. J.
+
+Moyle and M. W. Wadesley, The Ignition of Chalcopyrite and Pyrite During
+
+Flash Smelting, Proc. Conf. Center Pyro. Process., Univ. Missouri-Rolla, June
+
+( 1988). 17. M. Wadesley, Computation of Equilibria, 3rd Conf. & Workshop on
+
+Computer Software for Chem. and Extract. Metall. Calcs., Univ.
+
+Missouri-Rolla, June ( 1989). 18. H. S. Hsu, J. H. DeVan and M. Howell, J.
+
+Electrochem. Soc. 134, 3038 ( 1987). 19. G. Eriksson and W. T. Thompson,
+
+CALPHAD 13, 377 ( 1989). </footnote> . </p>
+
+<p> <ICE-CAN:W2A-037#16:1> The diagram provides a researcher with a wealth of infor <l>
+
+mation on the stability and reactivity of the iron-bearing species in oxygen
+
+and sulphur atmospheres.
+<ICE-CAN:W2A-037#17:1> Figure 1 shows the effect of temperature in the range 800 to 1000 K
+<ICE-CAN:W2A-037#18:1> The diagram shows which species coexist and which species react.
+<ICE-CAN:W2A-037#19:1> For example, at 900 K the mixture of FeS-FeO-Fe <sb> 3 </sb> O <sb> 4
+
+</sb> forms a stable invariant point.
+<ICE-CAN:W2A-037#20:1> On the other hand, the mixture Fe-FeS <sb> 2 </sb> is unstable and
+
+reacts to form FeS. </p>
+
+<p> <ICE-CAN:W2A-037#21:1> The phases are assumed to have fixed stoichiometry.
+<ICE-CAN:W2A-037#22:1> Vari <l> able compositions due to solution phases ( oxygen and sulfur
+
+dissolved in iron) or non-stoichiometry ( Fe <sb> 1- <it> x </it> </sb> O)
+
+are generally not taken into account.
+<ICE-CAN:W2A-037#23:1> For those systems where there are non-stoichiometric compounds or
+
+stable solution phases, the predominance area diagram is not the true phase
+
+diagram but rather a map of the relative stabilities or " domains of pre <l>
+
+dominance" of the one-component species. </p>
+
+<p> <ICE-CAN:W2A-037#24:1> The predominance area diagram is not limited to one metal with
+
+two elements.
+<ICE-CAN:W2A-037#25:1> For example, <}> <-> Fig. </-> <+> Figure </+> </}> 2 shows a
+
+Ca-based system at 1100, 1150 and 1200 K with four elements: C, O, S and H.
+<ICE-CAN:W2A-037#26:1> The axes are log <sb> 10 </sb> <it> P </it> ( SO <sb> 2 </sb> ) and
+
+log <sb> 10 </sb> <it> P </it> ( O <sb> 2 </sb> ) with the variables <it> P
+
+</it> ( H <sb> 2 </sb> 0) and <it> P </it> ( CO) <sp> 2 </sp> / <it> P </it>
+
+( CO <sb> 2 </sb> ) held constant.
+<ICE-CAN:W2A-037#27:1> Each domain in <}> <-> Fig. </-> <+> Figure </+> </}> 2 contains one
+
+Ca-bearing species. </p>
+
+<p> <ICE-CAN:W2A-037#28:1> If the system contains two metals, for example Cu and Fe, the
+
+result is a two-metal predominance area diagram ( <}> <-> Figs </-> <+>
+
+Figures </+> </}> 7b to 7e).
+<ICE-CAN:W2A-037#29:1> The chemical interactions become more complicated due to the
+
+formation of multi-metal compounds of the type Cu <sb> 5 </sb> FeS <sb> 4
+
+</sb> , Cu <sb> 2 </sb> O&dot;Fe <sb> 2 </sb> O <sb> 3 </sb> and CuO&dot;Fe
+
+<sb> 2 </sb> O <sb> 3 </sb> .
+<ICE-CAN:W2A-037#30:1> Certain domains in the two-metal diagram do not obey the same rules
+
+of construction as the one-metal diagram and so the complete diagram can not
+
+be calculated in the same manner.
+<ICE-CAN:W2A-037#31:1> The two-metal predominance area diagram is different because each
+
+domain contains two species and the relative stabilities of these species are
+
+determined by the overall metal composition ratio Fe/Cu.
+<ICE-CAN:W2A-037#32:1> That is, a given two-metal system may have several predominance area
+
+dia <l> grams, each corresponding to a particular metal composition range.
+
+</p>
+
+<p> <ICE-CAN:W2A-037#33:1> In the literature, two-metal and higher order predominance area
+
+diagrams are not well documented.
+<ICE-CAN:W2A-037#34:1> Unlike the one-metal diagram which, in principle, can be produced
+
+with the aid of a hand calculator, the two-metal predominance diagram is gen
+
+<l> erally not as easy to calculate.
+<ICE-CAN:W2A-037#35:1> Diagrams which are published have often been tediously generated and
+
+they may be limited to a single multi-metal compound.
+<ICE-CAN:W2A-037#36:1> It is possible to map all equi <l> libria by means of sophisticated
+
+Gibbs energy minimization algorithms, but this is not a simple approach and
+
+requires access to powerful software <fnr> [ 16-23] </fnr> <footnote> <O>
+
+reference [ 16]-[19] </O> 20. W. T. Thompson, A. D. Pelton and C. W. Bale,
+
+F*A*C*T- Facility for the Analysis of Chemical Thermodynamics, Users' Guides
+
+& suppl. McGill University/Ecole Polytechnique ( 1979, 1985). 21. C. W. Bale
+
+and G. Eriksson, Can. metall. Q. 29, 105 ( 1990). 22. G. Eriksson, Chem. Scr.
+
+8, 100 ( 1975). 23. W. T. Thompson, A. D. Pelton and C. W. Bale, CALPHAD 7,
+
+113 ( 1983). </footnote>
+<ICE-CAN:W2A-037#37:1> There appears to be no general simple methodology to calculate the
+
+multi-metal diagram and explain the rules of construction. </p>
+
+<p> <ICE-CAN:W2A-037#38:1> In this article, the <quote> " Constrained Chemical Potential
+
+Method" </quote> <fnr> [ 24] </fnr> for calculating one-metal predominance
+
+area diagrams is reviewed.
+<ICE-CAN:W2A-037#39:1> The algorithm is then extended to calculate two-metal and higher
+
+order predominance area diagrams <footnote> 24. C. W. Bale, J. Melancon and
+
+A. Pinho, Can. metall. Q. 19, 363 ( 1980). </footnote>
+<ICE-CAN:W2A-037#40:1> It will be shown that the algorithm offers a systematic method of
+
+computing multi-metal predominance area diagrams containing two or more
+
+ligands with the axes represented as logarithms of partial pressures ( or
+
+activities) or ratios thereof. <O> Diagram </O> <O> Figure 1 caption and
+
+legend </O> <O> Diagram </O> <O> Figure 2 caption and legend </O>
+<ICE-CAN:W2A-037#41:1> The geometries of the resulting diagrams are analyzed and general
+
+guidelines are proposed for constructing multi-metal predominance area dia
+
+<l> grams. </p>
+<ICE-CAN:W2A-037#42:1> <h> <bold> . CLASSICAL ONE-METAL PREDOMINANCE AREA DIAGRAM </bold>
+
+</h>
+<ICE-CAN:W2A-037#43:1> <h> 2.1. <it> Computing the one-metal predominance area diagram-
+
+standard algorithm </it> </h>
+
+<p> <ICE-CAN:W2A-037#44:1> Algorithms which calculate the one-metal predominance area
+
+diagrams are well documented in the literature <fnr> [ 1-19] </fnr>
+
+<footnote> <O> reference [ 1]-[19] </O> </footnote> .
+<ICE-CAN:W2A-037#45:1> In a previous publication [ 15] the merits of the predominance area
+
+diagram were outlined and the standard algorithms from the literature were
+
+reviewed. <footnote> <O> reference [ 15] </O> </footnote> </p>
+
+<p> <ICE-CAN:W2A-037#46:1> The standard algorithms for calculating a predominance area
+
+diagram generally consist of deriving expressions for the uni <l> variant
+
+lines of the diagram.
+<ICE-CAN:W2A-037#47:1> For example, in <}> <-> Fig. </-> <+> Figure </+> </}> 1 the FeS-Fe
+
+<sb> 3 </sb> - O <sb> 4 </sb> univariant line is defined by the following
+
+equilibrium: <O> Chemical formula </O> <marginalia> ( 1) </marginalia> <O>
+
+Chemical formula </O> <marginalia> ( 2) </marginalia> where <it> K </it> 1,
+
+is the equilibrium constant.
+<ICE-CAN:W2A-037#48:1> An invariant point among the three pure phases FeS-FeS <sb> 2 </sb> -
+
+Fe <sb> 3 </sb> O <sb> 4 </sb> , in <}> <-> Fig. </-> <+> Figure </+> </}> 1
+
+is determined by writing a chemical reaction involving the three species: <O>
+
+Chemical formula </O> <O> Chemical formula </O> <marginalia> ( 3)
+
+</marginalia> .
+<ICE-CAN:W2A-037#49:1> An analogous expression can be derived to express log <sb> 10 </sb>
+
+<it> P </it> ( O <sb> 2 </sb> ) . </p>
+
+<p> <ICE-CAN:W2A-037#50:1> By systematically computing the univariant lines or invariant
+
+points, the complete predominance area diagram can be cal <l> culated.
+<ICE-CAN:W2A-037#51:1> If all the phases in the diagram are stable, the meth <l> odology is
+
+simple and in principle a diagram such as <}> <-> Fig. </-> <+> Figure </+>
+
+</}> 1 is within the reach of a hand-calculator. </p>
+
+<p> <ICE-CAN:W2A-037#52:1> In cases where there are metastable equilibria ( for example, in
+
+<}> <-> Fig. </-> <+> Figure </+> </}> 1 FeO is metastable at low
+
+temperatures), it is necessary to verify that each calculated equilibrium is
+
+the most stable.
+<ICE-CAN:W2A-037#53:1> In complex systems, where there may be several elements, this not a
+
+simple task and it may require the use of a mass-constrained Gibbs energy
+
+minimization algorithm such as SOLGASMIX <fnr> [ 22] </fnr> . <footnote> <O>
+
+reference [ 22] </O> </footnote> </p>
+<ICE-CAN:W2A-037#54:1> <h> 2.2. <it> Computing the one-metal predominance area diagram - the
+
+Constrained Chemical Potential Method </it> </h>
+
+<p> <ICE-CAN:W2A-037#55:1> In the previous publication <fnr> [ 15] </fnr> , a new
+
+methodology was proposed which provides an efficient means of computing
+
+one-metal predominance area diagrams <footnote> <O> reference [ 15] </O>
+
+</footnote>
+<ICE-CAN:W2A-037#56:1> The methodology is an extension of the <quote> " Constrained Chemical
+
+Potential Method" </quote> <fnr> [ 24] </fnr> and is easily amenable to
+
+computer treatment <fnr> [ 20] </fnr> <footnote> <O> reference [ 24] </O>
+
+</footnote> <footnote> <O> reference [ 20] </O> </footnote>
+<ICE-CAN:W2A-037#57:1> The algorithm will be briefly presented here since the equations
+
+become the basis to treat two-metal and higher order systems. </p>
+
+<p> <ICE-CAN:W2A-037#58:1> Fe is the " one metal" present in all the phases and we refer to
+
+Fe as the " base element" of the predominance area diagram.
+<ICE-CAN:W2A-037#59:1> The other elements ( S and 0) may be referred to as ligands .<ICE-CAN:W2A-037#> The
+
+Gibbs energy of formation of each iron-bearing species from the standard
+
+state elements is expressed in terms of one mole of the pure base element (
+
+iron).
+<ICE-CAN:W2A-037#60:1> The general reaction is written as: <O> Chemical formula </O>
+
+<marginalia> ( 4) </marginalia> .
+<ICE-CAN:W2A-037#61:1> The stoichiometric factors <it> j </it> and <it> k </it> are greater
+
+than or equal to zero and <it> z </it> is always greater than zero.
+<ICE-CAN:W2A-037#62:1> Noting that the reactant Fe(s) is in its standard state, the Gibbs
+
+energy of reaction ( 4) is given by: <O> Chemical formula </O> <marginalia> (
+
+5) </marginalia> where &DELTA; <it> G </it> <sp> 0 </sp> is the standard
+
+Gibbs energy change of <}> <-> eqn </-> <+> equation </+> </}> ( 4) and where
+
+a(Fe <sb> <it> z </it> </sb> S <sb> <it> j </it> </sb> O <sb> <it> k </it>
+
+</sb> ) is the activity ( generally unity) of the iron-bearing species. </p>
+
+<p> <ICE-CAN:W2A-037#63:1> The equilibrium partial pressures of the standard state elements
+
+S <sb> 2 </sb> and O <sb> 2 </sb> at any point ( <it> x </it> , <it> y </it> )
+
+in <}> <-> Fig. </-> <+> Figure </+> </}> 1 are deduced from the equilibrium
+
+constant of the reaction: <O> Chemical formula </O> . <marginalia> ( 6)
+
+</marginalia> </p>
+
+<p> <ICE-CAN:W2A-037#64:1> The Gibbs energy of any Fe-bearing species ( <}> <-> eqn </-> <+>
+
+equation </+> </}> ( 5)) can now be calculated at that point.
+<ICE-CAN:W2A-037#65:1> Since In <it> P </it> ( O <sb> 2 </sb> ) and ln <it> P </it> ( SO
+
+<sb> 2 </sb> ) vary linearly across <}> <-> Fig. </-> <+> Figure </+> </}> 1,
+
+<}> <-> eqn </-> <+> equation </+> </}> ( 5) can be simplified to: <O>
+
+Chemical formula </O> <marginalia> ( 7) </marginalia> where <it> X </it> and
+
+<it> Y </it> are the coordinates ( log <sb> 10 </sb> <it> P </it> ( O <sb> 2
+
+</sb> ) , log <sb> 10 </sb> <it> P </it> ( SO <sb> 2 </sb> ) ) on the diagram
+
+and the constant coefficients <it> a <sb> i </sb> </it> , <it> b <sb> i </sb>
+
+</it> and <it> c <sb> i </sb> </it> are calculated from the linear dependence
+
+of the Gibbs energy.
+<ICE-CAN:W2A-037#66:1> For example, &DELTA; <it> G </it> ( <}> <-> eqn </-> <+> equation
+
+</+> </}> ( 5)) is calculated at any three arbitrary points on the diagram
+
+such as ( <it> X </it> <sb> min </sb> , <it> Y </it> <sb> min </sb> ) , (
+
+<it> X </it> <sb> max </sb> , <it> Y </it> <sb> min </sb> ) and ( <it> X
+
+</it> <sb> max </sb> , <it> Y </it> <sb> max </sb> ) .
+<ICE-CAN:W2A-037#67:1> The coefficients <it> a <sb> i </sb> </it> , <it> b <sb> i </sb>
+
+</it> and <it> c <sb> i </sb> </it> are then calculated from the three
+
+simultaneous equations. </p>
+
+<p> <ICE-CAN:W2A-037#68:1> Setting up the equations in this way enables us to directly
+
+identify the most stable species in any region of the diagram as well as to
+
+define the stable univariant lines and invariant points. </p>
+
+<p> <ICE-CAN:W2A-037#69:1> The most stable species at any point ( x, y) on the diagram is
+
+simply the one with the most negative Gibbs energy given by <}> <-> eqn </->
+
+<+> equation </+> </}> ( 7) at that point. </p>
+
+<p> <ICE-CAN:W2A-037#70:1> The univariant equilibrium between the two iron-bearing species
+
+<it> p </it> and <it> q </it> occurs when &DELTA; <it> G <sb> p </sb> </it> =
+
+&DELTA; <it> G <sb> q </sb> </it> .
+<ICE-CAN:W2A-037#71:1> From <}> <-> eqn </-> <+> equation </+> </}> ( 7) the equation of
+
+this univariant line in <}> <-> Fig. </-> <+> Figure </+> </}> 1 is given by:
+
+<O> Chemical formula </O> . <marginalia> ( 8) </marginalia> </p> </p>
+
+<p> <ICE-CAN:W2A-037#72:1> An invariant point ( <it> x </it> , <it> y </it> ) exists among
+
+the three species <it> p </it> , <it> q </it> and <it> r </it> when &DELTA;
+
+<it> G <sb> p </sb> </it> = &DELTA; <it> G <sb> q </sb> </it> = &DELTA; <it>
+
+G <sb> r </sb> </it> .
+<ICE-CAN:W2A-037#73:1> Resolving the three equations leads to the following coordinates for
+
+the invariant point: <O> Chemical formula </O> <marginalia> ( 9)
+
+</marginalia> <O> Chemical formula </O> . <marginalia> ( 10) </marginalia>
+
+</p> </p>
+
+<p> <ICE-CAN:W2A-037#74:1> The invariant point is stable if there are no other species with
+
+a more negative Gibbs energy ( <}> <-> eqn </-> <+> equation </+> </}> ( 7))
+
+at that point.
+<ICE-CAN:W2A-037#75:1> A univariant line is drawn between two stable invariant points if at
+
+both points all the species but one are common.
+<ICE-CAN:W2A-037#76:1> This is the basis of the construction of <}> <-> Fig. </-> <+> Figure
+
+</+> </}> 1. </p>
+
+<p> <ICE-CAN:W2A-037#77:1> The calculation of the equilibrium partial pressures of the
+
+elements S <sb> 2 </sb> and O <sb> 2 </sb> at three points on the diagram and
+
+the resulting linear equation ( <}> <-> eqn </-> <+> equation </+> </}> ( 7))
+
+is an essential feature of the algorithm and can be generalized.
+<ICE-CAN:W2A-037#78:1> The axes can be ratios of activities and/or partial pressures of any
+
+elements or com <l> pounds with S and / or O. </p>
+
+<p> <ICE-CAN:W2A-037#79:1> Additional ( non-metallic) elements can be added to the system.
+<ICE-CAN:W2A-037#80:1> For example, <}> <-> Fig. </-> <+> Figure </+> </}> 2 shows the
+
+quinary system Ca-C-O-S-H calculated at 1100, 1150, and 1200 K.
+<ICE-CAN:W2A-037#81:1> The axes are log <sb> 10 </sb> <it> P </it> ( SO <sb> 2 </sb> ) and
+
+log <sb> 10 </sb> <it> P </it> ( O <sb> 2 </sb> , with the following
+
+variables held constant: <it> P </it> ( H <sb> 2 </sb> O) = 10 <sp> - 4 </sp>
+
+atm. and <it> P </it> ( CO) <sp> 2 </sp> / <it> P </it> ( CO <sb> 2 </sb> ) =
+
+10 <sp> - 4 </sp> atm.
+<ICE-CAN:W2A-037#82:1> In this system, the equilibrium partial pressures ( or activi <l>
+
+ties) of the elements C(s), O <sb> 2 </sb> ( g), S <sb> 2 </sb> ( g) and H
+
+<sb> 2 </sb> ( g) are calculated at three ( corner) points on the diagram in
+
+order to determine the general <}> <-> eqn </-> <+> equation </+> </}> ( 7).
+
+</p>
+
+<p> <ICE-CAN:W2A-037#83:1> The algorithm offers a systematic method of computing one-metal
+
+predominance area diagrams containing two or more ligands with the axes
+
+represented as logarithms of partial pres <l> sures ( or activities) or
+
+ratios thereof. <O> Diagram </O> <O> Figure 3 caption and legend </O>
+<ICE-CAN:W2A-037#84:1> It is a general method and is directly amenable to computer treatment
+
+and automatic data retrieval <fnr> [ 20] </fnr> . <footnote> <O> reference [
+
+20] </O> </footnote> </p>
+
+<p> <ICE-CAN:W2A-037#85:1> Let us now extend the algorithm to systems containing more than
+
+one metallic ( base element) component.
+<ICE-CAN:W2A-037#86:1> We will first con <l> sider the situation where there are two metals
+
+in the pre <l> dominance area diagram. </p>
+<ICE-CAN:W2A-037#87:1> <h> <bold> 3. TWO-METAL PREDOMINANCE AREA DIAGRAM </bold> </h>
+<ICE-CAN:W2A-037#88:1> <h> 3.1. <it> Algorithm for computing two-metal predominance area
+
+diagrams </it> </h>
+
+<p> <ICE-CAN:W2A-037#89:1> Figure 3 shows the Fe-Al-S-0 system at 800 K.
+<ICE-CAN:W2A-037#90:1> The axes are log <sb> 10 </sb> <it> P </it> ( SO <sb> 2 </sb> ) and
+
+log <sb> 10 </sb> <it> P </it> ( O <sb> 2 </sb> ) .
+<ICE-CAN:W2A-037#91:1> The diagram was calculated by superimposing <}> <-> Fig. </-> <+>
+
+Figure </+> </}> 1 with the Al-S-O one-metal pre <l> dominance area diagram.
+<ICE-CAN:W2A-037#92:1> Any possible two-metal compounds formed between Fe- and Al-bearing
+
+species do not appear.
+<ICE-CAN:W2A-037#93:1> In <}> <-> Fig. </-> <+> Figure </+> </}> 3 there are two " base
+
+elements", Fe and Al.
+<ICE-CAN:W2A-037#94:1> Each domain contains two species, one Fe-bearing and one Al-bearing.
+
+</p>
+
+<p> <ICE-CAN:W2A-037#95:1> As with the one-metal diagram, there are " <it> Y </it> - type"
+
+invariant points formed by three intersecting univariant lines ( for exam <l>
+
+ple point 'a' in <}> <-> Fig. </-> <+> Figure </+> </}> 3).
+<ICE-CAN:W2A-037#96:1> The invariant point consists of four coexisting species, three of
+
+which are interacting with respect to one of the metals ( Fe:- FeS, FeS <sb>
+
+2 </sb> and Fe <sb> 3 </sb> O <sb> 4 </sb> ) and the fourth non-reacting
+
+species from the other metal ( Al:- Al <sb> 2 </sb> O <sb> 3 </sb> ) . </p>
+
+<p> <ICE-CAN:W2A-037#97:1> In <}> <-> Fig. </-> <+> Figure </+> </}> 3, there is a new type
+
+of invariant point formed by four domains ( point 'b')
+<ICE-CAN:W2A-037#98:1> This represents a reaction involving two Fe-bearing ( FeSO <sb> 4
+
+</sb> and <space> Fe <sb> 2 </sb> ( SO <sb> 4 </sb> ) <sb> 3 </sb> ) and two
+
+Al-bearing ( Al <sb> 2 </sb> ( SO <sb> 4 </sb> ) <sb> 3 </sb> and Al <sb> 2
+
+</sb> O <sb> 3 </sb> ) .
+<ICE-CAN:W2A-037#99:1> The invariant point is produced by two intersecting univariant lines
+
+from each one-metal diagram.
+<ICE-CAN:W2A-037#100:1> The domains at the point form the shape of a letter 'X' with two
+
+straight lines. </p>
+
+<p> <ICE-CAN:W2A-037#101:1> Figure 3 is a convenient way of combining and comparing two
+
+one-metal systems but it provides little new information. </p>
+
+<p> <ICE-CAN:W2A-037#102:1> Let us introduce a two-metal compound into the system.
+<ICE-CAN:W2A-037#103:1> Figure 4 shows the FeO-Al <sb> 2 </sb> O <sb> 3 </sb> binary phase
+
+diagram <fnr> [ 25] </fnr> <footnote> 25. W. A. Fisher and A. Hoffman, Arch.
+
+Eisenhuttenw. 27, 344 ( 1956) reported by E. M. Levin, C. R. Robbins and H.
+
+F. McMurdie, Phase Diagrams for Ceramists, Fig. 26, p. 43, The Am. Ceram.
+
+Soc., Columbus, Ohio. </footnote>
+<ICE-CAN:W2A-037#104:1> In the solid phases, FeO and Al <sb> 2 </sb> O <sb> 3 </sb> react to
+
+form an intermediate ( two-metal) phase FeO&dot;Al <sb> 2 </sb> O <sb> 3
+
+</sb> : <O> Chemical formula </O> . <marginalia> ( 11) </marginalia> </p>
+
+<p> <ICE-CAN:W2A-037#105:1> According to <}> <-> Fig. </-> <+> Figure </+> </}> 4, Al <sb> 2
+
+</sb> O <sb> 3 </sb> +FeO&dot;Al <sb> 2 </sb> O <sb> 3 </sb> coexist when the
+
+overall metallic fraction is 0.0 &lt; <it> R </it> &lt; 0.333 where <it> R
+
+</it> = Fe/(Fe+Al), and FeO&dot;Al <sb> 2 </sb> O <sb> 3 </sb> +FeO coexist
+
+when 0.333 &lt; <it> R </it> &lt; 1.0.
+<ICE-CAN:W2A-037#106:1> The range of <it> R </it> is simply given by the metallic
+
+stoichiometry of the coexisting compounds.
+<ICE-CAN:W2A-037#107:1> Hence it follows that a two-metal predominance area diagram is a
+
+function of the atomic ratio of the two metals, the limits of which can be
+
+deduced from the chemical formulae of the species containing the base
+
+elements. <O> Diagram </O> <O> Figure 4 caption </O> </p>
+
+<p> <ICE-CAN:W2A-037#108:1> In order to compute the true two-metal predominance area
+
+diagram, it is necessary to modify the strategy described in section 2.2 to
+
+include two base elements.
+<ICE-CAN:W2A-037#109:1> Each domain contains two stable species and from <}> <-> eqn </->
+
+<+> equation </+> </}> ( 5) general chemical reactions are formulated to
+
+produce the species from one mole of the pure base elements ( Fe and Al): <O>
+
+Chemical formula </O> <marginalia> ( 12) </marginalia> <O> Chemical formula
+
+</O> . <marginalia> ( 13) </marginalia> </p>
+
+<p> <ICE-CAN:W2A-037#110:1> As before, the stoichiometric factors <it> n </it> , <it> m
+
+</it> , <it> j </it> and <it> k </it> are greater than or equal to zero and
+
+<it> z </it> is always greater than zero.
+<ICE-CAN:W2A-037#111:1> Equa <l> tions ( 12) and ( 13) represent the reactions to form
+
+Fe-bearing and Al-bearing species respectively, but now they include both
+
+metals.
+<ICE-CAN:W2A-037#112:1> For simple systems without intermediate multi-metal compounds, <it>
+
+n </it> and <it> m </it> are zero and the reactions reduce to two one-metal
+
+systems. </p> </I>

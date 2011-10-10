@@ -1,0 +1,448 @@
+<I>
+<ICE-CAN:W2A-025#1:1> <h> <bold> Wetland vegetation near Old Crow, northern Yukon </bold>
+
+</h>
+<ICE-CAN:W2A-025#2:1> <h> LYNN OVENDEN </h>
+<ICE-CAN:W2A-025#3:1> <h> <it> Geological Survey of Canada, 601 Booth Street, Ottawa, Ont.,
+
+Canada K1A 0E8 </it> </h>
+<ICE-CAN:W2A-025#4:1> <h> AND </h>
+<ICE-CAN:W2A-025#5:1> <h> GUY R. BRASSARD </h>
+<ICE-CAN:W2A-025#6:1> <h> <it> Department of Biology, Memorial University, St. John's,
+
+Newfoundland, Canada A1B 3X9 </it> </h>
+<ICE-CAN:W2A-025#7:1> <h> Received March 11, 1988 </h>
+<ICE-CAN:W2A-025#8:1> <h> OVENDEN, L., and BRASSARD, G. R. 1989. Wetland vegetation near Old
+
+Crow, northern Yukon. Can. J. Bot. <bold> 67 </bold> : 954-960. </h>
+
+<p> <ICE-CAN:W2A-025#9:1> Wetland vegetation on lowlands of northern Yukon was related to
+
+gradients of pH, peat depth, and active-layer depth using detrended
+
+correspondence analysis.
+<ICE-CAN:W2A-025#10:1> Seven vegetation types were distinguished by two-way indicator
+
+species analysis: <foreign> <it> Arcto <l> phila </it> shoreline </foreign>
+
+marsh, <foreign> <it> Carex aquatilis - Sphagnum - Chamaedaphne </it>
+
+</foreign> wet meadow, <foreign> <it> Scorpidium </it> </foreign> - sedge
+
+carpet, <foreign> <it> Carer rotun <l> data - Andromeda - Sphagnum orientate
+
+</it> </foreign> lawn, <foreign> <it> Sphagnum </it> </foreign> - heath on
+
+firm peat, thickets and tussock tundra, and <foreign> <it> Calamagrostis
+
+canadensis </it> </foreign> meadow.
+<ICE-CAN:W2A-025#11:1> The <foreign> <it> Arctophila </it> </foreign> marshes and tussocky
+
+shrublands resemble other sites in the subarctic and low arctic wetland
+
+regions of North America while <foreign> <it> Sphagnum </it> </foreign> -
+
+heath on firm peat is typical of high boreal and subarctic wetlands.
+<ICE-CAN:W2A-025#12:1> The wet meadow, carpet. and lawn types of sedge - moss vegetation
+
+cannot be characterized as arctic or boreal because the geographic patterns
+
+of sedge - moss wetlands in northwestern North America remain unclear. </p>
+
+<O> French Abstract </O>
+<ICE-CAN:W2A-025#13:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-025#14:1> Vegetation associations and habitat gradients have been
+
+determined from a few wetland complexes in the Canadian Arctic ( Muc 1977;
+
+Vitt and Pakarinen 1977; Sheard and Geale 1983; Miller and Alpert 1984) and
+
+from several complexes in the low and mid-boreal ( see Kenkel 1987) wetland
+
+regions, as mapped by the National Wetlands Working Group ( 1986).
+<ICE-CAN:W2A-025#15:1> Comparable studies are rare in the subarctic and high boreal wetland
+
+regions, which include the most extensive peat deposits of North America.
+<ICE-CAN:W2A-025#16:1> Permafrost influences the develop <l> ment and morphology of wetlands
+
+( Zoltai and Tarnocai 1975) in these regions, which include the zone of
+
+discontinuous permafrost and the southern fringe of the continuous perma <l>
+
+frost zone ( Brown 1977).
+<ICE-CAN:W2A-025#17:1> Polygonal peat plateaux, peat plateaux, and patterned fens
+
+characterize subarctic wetlands.
+<ICE-CAN:W2A-025#18:1> Permafrost underlies all wetlands but shoreline fens in the high
+
+subarctic, but is absent from patterned fens in the low subarctic ( National
+
+Wetlands Working Group 1986). </p>
+
+<p> <ICE-CAN:W2A-025#19:1> A peatland project in northern Yukon Territory provided a chance
+
+to describe several sites in a large wetland complex of the high subarctic
+
+wetland region.
+<ICE-CAN:W2A-025#20:1> This paper provides a floristic and structural description of these
+
+wetlands and relates them to other reports of wetland vegetation in
+
+northwestern North America. </p>
+<ICE-CAN:W2A-025#21:1> <h> <bold> Study area </bold> </h>
+
+<p> <ICE-CAN:W2A-025#22:1> Two large old lake basins occur near the village of Old Crow,
+
+about 150 km south of the Beaufort Sea ( Fig. 1).
+<ICE-CAN:W2A-025#23:1> Glacial meltwater deposited a thick bed of grey clay during the Late
+
+Wisconsinan stadial and finally drained away by 12 000 years BP ( Matthews et
+
+al. 1987).
+<ICE-CAN:W2A-025#24:1> Today the basins are poorly drained expanses of patterned peatland
+
+and shallow thermokarst lakes.
+<ICE-CAN:W2A-025#25:1> Shoreline erosion is active in many lakes.
+<ICE-CAN:W2A-025#26:1> Regional treeline is just north of the Old Crow Flats.
+<ICE-CAN:W2A-025#27:1> Mean July and January temperatures at Old Crow are 14.2 and -
+
+33.1&degree;C, respectively, and mean annual temperature is - 10.1&degree;C.
+<ICE-CAN:W2A-025#28:1> Mean annual precipitation is 215 mm ( Environment Canada 1982).
+<ICE-CAN:W2A-025#29:1> The mean annual number of thawing degree-days is about 1900 ( Burns
+
+1973).
+<ICE-CAN:W2A-025#30:1> The area lies within the southernmost part of the continuous perma
+
+<l> frost zone ( Brown 1977). </p>
+<ICE-CAN:W2A-025#31:1> <h> <bold> Methods </bold> </h>
+
+<p> <ICE-CAN:W2A-025#32:1> In July of 1979 and 1981, field studies were carried out by the
+
+first author.
+<ICE-CAN:W2A-025#33:1> The second author identified most moss collections, except for
+
+<foreign> <it> Sphagnum </it> </foreign> specimens, which were identified by
+
+D. H. Vitt, Uni <l> versity of Alberta.
+<ICE-CAN:W2A-025#34:1> Voucher specimens of the mosses are deposited at Memorial University
+
+and the Univesity of Alberta. </p>
+
+<p> <ICE-CAN:W2A-025#35:1> At each vegetation site, the percent cover of each species was
+
+esti <l> mated within an area of 50 - 100 m <sp> 2 </sp> .
+<ICE-CAN:W2A-025#36:1> In fields of low-centre polygons, separate species lists were
+
+compiled for the wet centres and dry ridges of the polygons.
+<ICE-CAN:W2A-025#37:1> Mosses that could not be identified in the field were characterized
+
+and collected: as a check, several handfuls of moss were gathered at random
+
+throughout the site and later identified. </p>
+
+<p> <ICE-CAN:W2A-025#38:1> Three habitat variables at each site were measured: pH ( using
+
+narrow range dual strip test paper), depth to frost table, and depth of peat
+
+( defined as material with loss-on-ignition greater than 80%).
+<ICE-CAN:W2A-025#39:1> Water pH at each site was tested, either in a polygon trough, between
+
+tussocks, in an adjacent pool, or as seepage into a soil pit.
+<ICE-CAN:W2A-025#40:1> To convert depth to frost table to a less date-dependent estimate of
+
+active layer depth, 0.2 cm was added to the measurement for each day before
+
+August 1 that it was made.
+<ICE-CAN:W2A-025#41:1> Since rate of thaw is highly dependent on moisture conditions at a
+
+site ( Brown 1977: Ryden and Kostov 1980), this estimate of active-layer
+
+depth is an index of the relative wetness of each site.<O> map </O> <O> map
+
+caption </O> </p>
+
+<p> <ICE-CAN:W2A-025#42:1> Estimates of percent cover were obtained for 65 vascular and 70
+
+moss taxa noted from 74 vegetation sites.
+<ICE-CAN:W2A-025#43:1> This data set was condensed by removing taxa that occurred in two
+
+sites or less, and by grouping species within some genera.
+<ICE-CAN:W2A-025#44:1> Structure in the resulting data set, of 50 vascular and 39
+
+nonvascular taxa, was explored by ordination ( detrended correspondence
+
+analysis, DECORANA ) and classification ( two-way indicator species analysis,
+
+TWINSPAN ) procedures. </p>
+<ICE-CAN:W2A-025#45:1> <h> <bold> Results </bold> </h>
+
+<p> <ICE-CAN:W2A-025#46:1> The first axis of the ordination reflects a strong moisture gra
+
+<l> dient ( Fig. 2), indicated by a high correlation ( <it> r </it> = 0.79)
+
+of stand score on this axis with active-layer depth.
+<ICE-CAN:W2A-025#47:1> At all but two of the sites ( 27, 30) with scores over 100 on the
+
+first axis, the water table occurred at or above the vegetation surface. </p>
+
+<p> <ICE-CAN:W2A-025#48:1> The second axis is significantly correlated with peat depth (
+
+<it> r </it> = - 0.44, <it> p </it> &lt; 0.05).
+<ICE-CAN:W2A-025#49:1> Sites with a mineral substrate have high scores on this axis and
+
+include species that are early colonizers of drained lakebeds on the arctic
+
+coast ( Ovenden 1986): <foreign> <it> Arctophila fulva, Calamagrostis
+
+canadensis, Arcta <l> grostis latifolia, Equisetum arvense </it> </foreign> ,
+
+and <foreign> <it> Stellaria longipes </it> </foreign> .
+<ICE-CAN:W2A-025#50:1> The distribution of ice wedge polygons is also related to peat depth
+
+( all sites with &gt; 80 cm peat have polygonal patterns).
+<ICE-CAN:W2A-025#51:1> Consequently, most sites that lack distinct ice wedge polygons have
+
+high scores on the second axis. </p>
+
+<p> <ICE-CAN:W2A-025#52:1> Although pH is an imperfect index of dissolved nutrients in fen
+
+waters ( Sj&ouml;rs 1983), it is closely related to the vegetational gradient
+
+poor fen - rich fen ( Sj&ouml;rs 1983) and may be linked to trophic status (
+
+Pakarinen and Ruuhij&auml;rvi 1978).
+<ICE-CAN:W2A-025#53:1> The pH of the Old Crow sites varies from 4.2-5.8; this gradient is
+
+signifi <l> cantly correlated with both the first axis ( <it> r </it> = 0.46)
+
+and second axis ( <it> r </it> = 0.41) of the vegetation ordination.
+<ICE-CAN:W2A-025#54:1> Sites with low pH and species characteristic of poor fens and
+
+oligotrophic mires in Scandinavia ( Sj&ouml;rs 1983; Pakarinen and
+
+Ruuhij&auml;rvi 1978) have low scores on both the first and second axes,
+
+while sites with pH &gt; 5.0 and species typical of more minerotrophic mires
+
+have high scores. </p>
+
+<p> <ICE-CAN:W2A-025#55:1> In boreal regions, <foreign> <it> Scorpidium scorpioides,
+
+Calliergon tri <l> farium, Campylium stellatum </foreign> </it> , and
+
+<foreign> <it> Tomenthypnum nitens </foreign> </it> , are indicators of rich
+
+fens ( pH &gt; 5.8; Sj&ouml;rs 1950, 1983), but these species grow profusely
+
+and commonly in the study area at a pH of 5.0-5.6.
+<ICE-CAN:W2A-025#56:1> This phenomenon has also been observed on nutrient-deficient
+
+peatlands of the Soviet tundra zone ( Botch and Masing 1983). </p>
+
+<p> <ICE-CAN:W2A-025#57:1> TWINSPAN identified seven physiognomic vegetation types ( Table
+
+1).
+<ICE-CAN:W2A-025#58:1> Observations of aquatic vegetation in lakes of the region will be
+
+provided first, followed by descriptions of the seven vegetation types. </p>
+<ICE-CAN:W2A-025#59:1> <h> <it> Thermokarst lakes near Old Crow </it> </h>
+
+<p> <ICE-CAN:W2A-025#60:1> Most of these lakes are 2-3m deep ( Matthews et al. 1987) with a
+
+pH of 5.0-5.6.
+<ICE-CAN:W2A-025#61:1> Some support <foreign> <it> Nuphar polysepalum </it> </foreign> (
+
+especially in the Bluefish Basin and southern half of the Old Crow Flats) and
+
+more rarely, <foreign> <it> Ceratophyllum demersum </it> </foreign> ( Cwynar
+
+1983).
+<ICE-CAN:W2A-025#62:1> A large shallow lake in the western Old Crow Flats ( XV on Fig. 1) is
+
+mostly 65 cm deep with 5-40% cover of <foreign> <it> Potamogeton richardsonii
+
+</it> </foreign> .
+<ICE-CAN:W2A-025#63:1> Within 100 m of its shore, at the same depth, <foreign> <it>
+
+Potamogeton alpinus </it> </foreign> subsp. <foreign> <it> tenuifolius, Pota
+
+<l> mogeton cf. Berchtoldii, Hippuris vulgaris, Myriophyllum spicatum, and
+
+<foreign> <it> Callitriche hermaphroditica </it> </foreign> are abundant.
+<ICE-CAN:W2A-025#64:1> Oospores of <foreign> <it> Chara </it> </foreign> or <foreign> <it>
+
+Nitella </it> </foreign> occur in the surface sediment of some lakes (
+
+Ovenden 1985). </p>
+<ICE-CAN:W2A-025#65:1> <h> <it> Group 1: </it> <foreign> Arctophila fulva </foreign> <it>
+
+marsh </it> </h>
+
+<p> <ICE-CAN:W2A-025#66:1> Each of the three sites studied is a band of marshy vegetation
+
+growing in up to 65 cm of water in silty sediment.
+<ICE-CAN:W2A-025#67:1> <foreign> <it> Arctophila fulva </it> </foreign> and <foreign> <it>
+
+Carex aquatilis </it> </foreign> are the dominant vascular taxa. Loose,
+
+floating mats of <foreign> <it> Drepanocladus exannulatus, Poten <l> tilla
+
+palustris </it> </foreign> , and <foreign> <it> Myriophyllum spicatum </it>
+
+</foreign> are also important.
+<ICE-CAN:W2A-025#68:1> <foreign> <it> Ranunculus trichophyllus, R. gmelinii, Eleocharis
+
+acicularis </it> </foreign> , and <foreign> <it> Senecio congestus </it>
+
+</foreign> , which occur as seeds in nearshore sedi <l> ments of the lakes (
+
+Ovenden 1985), are probably present, in addition to other taxa listed in
+
+Table 1. </p>
+<ICE-CAN:W2A-025#69:1> <h> <it> Group 2: </it> <foreign> Carex aquatilis - Chamaedaphne -
+
+Sphagnum </foreign> <it> meadow </it> </h>
+
+<p> <ICE-CAN:W2A-025#70:1> These sites consist of scattered low shrubs in a moderately dense
+
+sward of rhizomatous sedges and cottongrass.
+<ICE-CAN:W2A-025#71:1> The moss cover is almost continuous and occurs in semisubmersed,
+
+floating, and soft cushion forms.
+<ICE-CAN:W2A-025#72:1> Four species were found at all five sites in this group: <foreign>
+
+<it> Andromedia polifolia, Chamaedaphne calyculata, Carex aquatilis </it>
+
+</foreign> , and <foreign> <it> Eriophorum russeolum </it> </foreign> .
+
+<foreign> <it> Drepanocladus </it> </foreign> and <foreign> <it> Sphagnum
+
+</it> </foreign> grew at each site, particularly <foreign> <it> D.
+
+lapponicus, D. exannulatus, S. squarrosum, S. rubellum, S. warnstorfii, and
+
+S. fuscum </it> </foreign> .
+<ICE-CAN:W2A-025#73:1> <foreign> <it> Betula glandulosa, Potentilla palustris, Oxycoccus,
+
+Carex chordorrhiza </it> </foreign> , and <foreign> <it> Meesia </it>
+
+</foreign> spp. are also characteristic.
+<ICE-CAN:W2A-025#74:1> Of the five sites in this group, two occurred in recent meander
+
+swales of the Old Crow River, one bordered a small pond, and two formed broad
+
+meadows in young thermokarst basins.
+<ICE-CAN:W2A-025#75:1> The pH was 5.0 at the two last sites.
+<ICE-CAN:W2A-025#76:1> None displayed obvious ice-wedge polygons or oriented peat ridges.
+
+</p> <O> Table 1 </O> <O> Table 1 Caption </O> <O> Table 1 footnote </O>
+<ICE-CAN:W2A-025#77:1> <h> <it> Group 3: </it> <foreign> Scorpidium </foreign> - <it> sedge
+
+carpet </it> </h>
+
+<p> <ICE-CAN:W2A-025#78:1> This distinctive assemblage usually contains the following taxa:
+
+<foreign> <it> Scorpidium scorpioides, Drepanocladus revolvens, Cal <l>
+
+liergon trifarium, Carex limosa, Carex rotundata, Carex chor <l> dorrhiza,
+
+Eriophorum russeolum, Eriophorum angustifolium, Utricularia intermedia </it>
+
+</foreign> , and <foreign> <it> Menyanthes trifoliata </it> </foreign> .
+<ICE-CAN:W2A-025#79:1> They form a loose mat that floats over flocculent organic mud.
+<ICE-CAN:W2A-025#80:1> <foreign> <it> Sphagnum </it> </foreign> is lacking or sparse except
+
+at site 54, where S. <it> jensenii </it> is dominant.
+<ICE-CAN:W2A-025#81:1> Five sites from group 3 border ponds or lakes and exhibit no peat
+
+ridges or evidence of polygons.
+<ICE-CAN:W2A-025#82:1> The remainder are enclosed by a polygonal or more irregular network
+
+of frost <l> cored peat ridges.
+<ICE-CAN:W2A-025#83:1> Frozen substrate occurred 39 - 58 cm beneath eight of the sites, but
+
+none was found ( within 80 cm) at the remaining three sites.
+<ICE-CAN:W2A-025#84:1> The pH ranged from 5.0 - 5.8 except at site 54, where it was 4.4.
+
+</p>
+<ICE-CAN:W2A-025#85:1> <h> <it> Group 4: </it> <foreign> Carex rotundata - Andromeda -
+
+Sphagnum orientale </foreign> <it> lawn </it> </h>
+
+<p> <ICE-CAN:W2A-025#86:1> All sites in this group are low-centre polygons.
+<ICE-CAN:W2A-025#87:1> At most, the vegetation is a diffuse lawn of sedges and dwarf shrubs
+
+in a floating moss mat, with an active layer of 46 - 56 cm.
+<ICE-CAN:W2A-025#88:1> Site 9 is firmer.
+<ICE-CAN:W2A-025#89:1> Common to all six sites are <foreign> <it> Carex rotundata, Andro <l>
+
+meda polifolia </it> </foreign> , and <foreign> <it> Sphagnum orientale </it>
+
+</foreign> .
+<ICE-CAN:W2A-025#90:1> Dwarf birch, <foreign> <it> Oxy <l> coccus, Eriophorum russeolum,
+
+Pedicularis, Trichophorum caespitosum, Sphagnum balticum </it> </foreign> ,
+
+and <foreign> <it> Drepanocladus </it> </foreign> are usually present.
+<ICE-CAN:W2A-025#91:1> Generally, peat depth exceeded 50 cm. </p>
+<ICE-CAN:W2A-025#92:1> <h> <it> Group 5: </it> <foreign> Sphagnum </foreign> - <it> heath on
+
+firm peat </it> </h>
+
+<p> <ICE-CAN:W2A-025#93:1> These sites are the ridges of low-centre polygons or poly <l>
+
+gonal peat plateaus with level or slightly concave polygons 20 - 30 m in
+
+diameter.
+<ICE-CAN:W2A-025#94:1> Most are acidic ( pH = 4.4), with a shallow active layer.
+<ICE-CAN:W2A-025#95:1> At some sites ( 39, 40, 49, 56, 60, 66), the peat is over 1.5 m deep
+
+and represents 5000 - 11 000 years accumulation ( Ovenden 1985).
+<ICE-CAN:W2A-025#96:1> The younger, shallower peat deposits are indistinctly polygonal or
+
+lack ice wedges.
+<ICE-CAN:W2A-025#97:1> Low shrubs and mosses generally predominate, although most of the
+
+ground cover is ericaceous litter and lichens at the drier sites.
+<ICE-CAN:W2A-025#98:1> The peat forms a firm, even ground surface and sedge tussocks are not
+
+important, as they are in group 6.
+<ICE-CAN:W2A-025#99:1> Several taxa are common in both groups 5 and 6: <foreign> <it> Ledum
+
+decumbens, Vac <l> cinium vitis - idaea, Andromeda, Rubus chamaemorus, Betula
+
+glandulosa, Eriophorum vaginatum, Polytrichum, Aulacom <l> nium turgidum,
+
+Dicranum angustum </it> </foreign> , and lichens. <O> figure </O> <O> figure
+
+caption </O>
+<ICE-CAN:W2A-025#100:1> Sites of group 5 are distinguished from those in group 6 by the
+
+presence of <foreign> <it> Sphagnum lenense, S. fuscum, S. balticum, </it>
+
+</foreign> and abundant <foreign> <it> Rubus chamaemorus </it> </foreign> .
+<ICE-CAN:W2A-025#101:1> Firm peat deposits are sparsely treed ( <foreign> <it> Picea </it>
+
+</foreign> spp.) throughout the Bluefish Basin and along the southern margin
+
+of the Old Crow Flats. </p>
+<ICE-CAN:W2A-025#102:1> <h> <it> Group 6: Tall shrub thickets, tussock tundra, and tussock
+
+woodlands </it> </h>
+
+<p> <ICE-CAN:W2A-025#103:1> These are 1.0 - 1.5 m tall thickets of <foreign> <it> Salix
+
+pulchra, Salix glauca, Betula glandulosa </it> </foreign> , and ( or)
+
+<foreign> <it> Alnus crispa </it> </foreign> , with a ground layer of sedge
+
+or cottongrass tussocks and dwarf shrubs.
+<ICE-CAN:W2A-025#104:1> <foreign> <it> Vaccinium uliginosum, Pyrola rotundifolia, Arcto <l>
+
+staphylos rubra, Carex lugens, Sphagnum fimbriatum, Hylocomium splendens,
+
+</it> </foreign> and <foreign> <it> Aulacomnium palustre </it> </foreign>
+
+distinguish this group.
+<ICE-CAN:W2A-025#105:1> The active layer is generally shallow ( &lt;35 cm). </p> </I>

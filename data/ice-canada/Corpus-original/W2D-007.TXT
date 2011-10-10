@@ -1,0 +1,403 @@
+<I>
+<ICE-CAN:W2D-007#1:1> <h> <bold> MOUNTAIN EQUIPMENT CO-OP <bold> </h>
+<ICE-CAN:W2D-007#2:1> <h> MEMBERSHIP INFORMATION BOOKLET </h>
+<ICE-CAN:W2D-007#3:1> <indig> ( &Eacute;galement disponible en Fran&ccedilla;ais) </indig>
+<ICE-CAN:W2D-007#4:1> <h> <bold> WELCOME TO MEC </bold> </h>
+
+<p> <ICE-CAN:W2D-007#5:1> This booklet contains information you may want or need to know
+
+about Mountain Equipment Co-coperative. </p>
+
+<p> <ICE-CAN:W2D-007#6:1> Over 700,000 members are pleased to welcome you into Canada's
+
+largest and most dynamic outdoor recreational equipment co-operative. </p>
+
+<p> <ICE-CAN:W2D-007#7:1> MOUNTAIN EQUIPMENT CO-OPERATIVE ( MEC) IS A MEMBER OWNED AND
+
+DIRECTED RETAIL CONSUMER CO-OPERATIVE WHICH PROVIDES PRODUCTS AND SERVICES
+
+FOR SELF-PROPELLED WILDERNESS ORIENTED RECREATIONAL ACTIVITIES, SUCH AS
+
+HIKING AND MOUNTAINEERING, AT THE LOWEST REASONABLE PRICE IN AN INFORMATIVE,
+
+HELPFUL AND ENVIRONMENTALLY RESPONSIBLE MANNER. </p>
+<ICE-CAN:W2D-007#8:1> <h> <bold> BRIEF HISTORY </bold> </h>
+
+<p> <ICE-CAN:W2D-007#9:1> Mountain Equipment Co-op ( MEC) was founded in 1971 by a small
+
+group of members of the University of British Columbia's Varsity Outdoors
+
+Club.
+<ICE-CAN:W2D-007#10:1> Initially, sales were on a pre-order basis only and took place in the
+
+basement of a member's home.
+<ICE-CAN:W2D-007#11:1> Due to interest and demand for good quality and reasonably priced
+
+outdoor gear, a store was opened and a small inventory carried.
+<ICE-CAN:W2D-007#12:1> In 1974, the first Co-op catalogue with photos was produced, allowing
+
+the creation of the Mail Order Store.
+<ICE-CAN:W2D-007#13:1> Sales to institutions, such as parks and rescue groups, steadily
+
+increased, giving rise to a separate Commercial Sales department.
+<ICE-CAN:W2D-007#14:1> As the membership base continued to grow, the Board of Directors
+
+approved expansion into other retail outlets.
+<ICE-CAN:W2D-007#15:1> In 1977, MEC opened a store in Calgary, and in 1985, another store in
+
+Toronto.
+<ICE-CAN:W2D-007#16:1> In the fall of 1992, we opened our fourth store in Ottawa.
+<ICE-CAN:W2D-007#17:1> And most recently in the spring of 1995, we opened our largest
+
+location, which houses the Vancouver store, Mail Order and Commercial Sales.
+
+</p>
+
+<p> <ICE-CAN:W2D-007#18:1> In 1987, the Distribution centre moved to an independent site in
+
+Richmond, B.C.
+<ICE-CAN:W2D-007#19:1> Although stores do receive occasional direct shipments from
+
+suppliers, most of our products are distributed through the Distribution
+
+Centre.
+<ICE-CAN:W2D-007#20:1> In 1990, our administrative offices moved from the Vancouver store
+
+into the present location. </p>
+
+<p> <ICE-CAN:W2D-007#21:1> MEC today has over 700,000 members including more than 20,000
+
+members in other countries.
+<ICE-CAN:W2D-007#22:1> Product lines have expanded and now include gear for hikers,
+
+climbers, skiers, backpackers, cyclists, and paddlers. </p>
+
+<p> <ICE-CAN:W2D-007#23:1> Despite our rapid growth, MEC remains dedicated to our primary
+
+goals, as stated in our Mission Statement. </p>
+<ICE-CAN:W2D-007#24:1> <h> <bold> MEMBERSHIP </bold> </h>
+
+<p> <ICE-CAN:W2D-007#25:1> Any person over the age of sixteen years may become a member of
+
+MEC by purchasing one share for &dollar;5.00.
+<ICE-CAN:W2D-007#26:1> Only members may purchase or rent from MEC.
+<ICE-CAN:W2D-007#27:1> All memberships are individual, not family. </p>
+
+<p> <ICE-CAN:W2D-007#28:1> The benefits of membership are quality products, broad selection,
+
+low prices, knowledgeable staff, reliable service, goods in stock, voting
+
+privileges, influence over the organization, and participation in the
+
+distribution of surplus. </p>
+
+<p> <ICE-CAN:W2D-007#29:1> Each member receives a membership card with a unique number.
+<ICE-CAN:W2D-007#30:1> The member number must be presented to make a purchase in person, by
+
+mail, or by phone.
+<ICE-CAN:W2D-007#31:1> A member is a part owner of MEC and as such, has the democratic
+
+right, and is encouraged to vote in the annual election of Directors. </p>
+<ICE-CAN:W2D-007#32:1> <h> <bold> SHARES </bold> </h>
+
+<p> <ICE-CAN:W2D-007#33:1> <bold> An individual must own at least one share to be a member,
+
+and must be a member to purchase from any MEC store across Canada.
+<ICE-CAN:W2D-007#34:1> Family and partners of members must have their own personal share to
+
+purchase from MEC. </bold>
+<ICE-CAN:W2D-007#35:1> A share may be purchased at any store or through the Mail Order
+
+store.
+<ICE-CAN:W2D-007#36:1> The price of a share is always &dollar;5.00.
+<ICE-CAN:W2D-007#37:1> Shares cannot be sold or traded, but represent a lifetime membership.
+<ICE-CAN:W2D-007#38:1> There are no additional fees or dues. </p>
+
+<p> <ICE-CAN:W2D-007#39:1> As a Co-operative, MEC does not seek to earn a profit.
+<ICE-CAN:W2D-007#40:1> We use <w> members' </w> share money plus bank loans to buy what the
+
+members want at the lowest possible cost from world markets.
+<ICE-CAN:W2D-007#41:1> We concentrate on good quality, and price the merchandise at the
+
+lowest reasonable level to offer good value and to cover our costs.
+<ICE-CAN:W2D-007#42:1> We also provide knowledgeable well trained and experienced staff.
+
+</p>
+
+<p> <ICE-CAN:W2D-007#43:1> If MEC has a surplus at year end, it is because our sales volume
+
+has been higher than we expected.
+<ICE-CAN:W2D-007#44:1> Any surplus in a year is returned to the owners based on the amount
+
+of the individual member's purchases for the year.
+<ICE-CAN:W2D-007#45:1> Purchases by each member are tracked through our computer.
+<ICE-CAN:W2D-007#46:1> The distribution of surplus is actually made in the form of
+
+additional patronage bonus shares in MEC, and the cash is retained to improve
+
+our service to members; i.e. by increasing level of inventory or improving
+
+stores.
+<ICE-CAN:W2D-007#47:1> For example, if we had a surplus of 1% of sales in a given year, and
+
+if you had purchased &dollar;500.00 from MEC during that year, you would
+
+receive a patronage bonus of &dollar;5.00, or one additional share.
+<ICE-CAN:W2D-007#48:1> From time to time, when the Board believes that MEC has sufficient
+
+capital to meet its future needs, some of these patronage bonus shares may be
+
+redeemed from members.
+<ICE-CAN:W2D-007#49:1> In 1987, 1989, and 1993, a total of approximately &dollar;2 million
+
+worth of patronage bonus shares were redeemed.
+<ICE-CAN:W2D-007#50:1> Redemption decisions are made by your Board of Directors. </p>
+
+<p> <ICE-CAN:W2D-007#51:1> A member can have more than one share by virtue of receiving
+
+patronage bonus shares; however, each member has only one vote, irrespective
+
+of the number of shares owned. </p>
+<ICE-CAN:W2D-007#52:1> <h> <bold> QUESTIONS ABOUT YOUR MEMBERSHIP & SHARES?
+<ICE-CAN:W2D-007#53:1> CALL 1-800-474-7704 </bold> </h>
+
+<p> <ICE-CAN:W2D-007#54:1> As part of our on-going commitment to better serve our members,
+
+MEC has created a MEMBERSHIP SERVICES DEPARTMENT which provides information
+
+and service concerning your membership.
+<ICE-CAN:W2D-007#55:1> We are available to answer questions any member may have regarding
+
+his or her membership such as: What is my member number?
+<ICE-CAN:W2D-007#56:1> I've got more than one member number, what are my options?
+<ICE-CAN:W2D-007#57:1> Why are memberships individual? <bold>
+<ICE-CAN:W2D-007#58:1> We are at your service Monday - Friday 8am - 6pm Pacific Time.
+
+</bold>
+<ICE-CAN:W2D-007#59:1> Call us or write directly to our head office in Vancouver.
+<ICE-CAN:W2D-007#60:1> We look forward to hearing from you! </p>
+<ICE-CAN:W2D-007#61:1> <h> <bold> CHANGE OF ADDRESS </bold> </h>
+
+<p> <ICE-CAN:W2D-007#62:1> When you move, please take a minute to keep us up-to-date on your
+
+new address.
+<ICE-CAN:W2D-007#63:1> Write to the Membership Services Department at Head Office, fill out
+
+a <mention> " Change of Address" </mention> form at a store or call
+
+Membership Services at 1-800 474-7704.
+<ICE-CAN:W2D-007#64:1> It is for your own benefit to provide your current address; if we
+
+have your address on file, you will receive annual election packages and
+
+catalogues ( see the following section).
+<ICE-CAN:W2D-007#65:1> Also, we will be able to contact you if there are any updates
+
+concerning an item you have purchased ( for example, an item that has been
+
+recalled). </p>
+<ICE-CAN:W2D-007#66:1> <h> <bold> CATALOGUE </bold> </h>
+
+<p> <ICE-CAN:W2D-007#67:1> We publish catalogues twice yearly, in Spring and Fall, and send
+
+them to members who have made a purchase any time in the past two years.
+<ICE-CAN:W2D-007#68:1> Upon request, we will mail a catalogue to anyone. </p>
+
+<p> <ICE-CAN:W2D-007#69:1> The catalogue contains valuable information on outdoor equipment
+
+and tips on choosing the most appropriate gear for various activities.
+<ICE-CAN:W2D-007#70:1> lt also provides information from our Board of Directors and about
+
+ordering by mail or phone.
+<ICE-CAN:W2D-007#71:1> As we cannot list all available items in our catalogue, please
+
+enquire from the sales staff about items you need which are not listed.
+<ICE-CAN:W2D-007#72:1> In any case, we encourage phone and mail order members to visit our
+
+stores to see what is new, whenever you are in Vancouver, Calgary, Toronto,
+
+or Ottawa. </p>
+<ICE-CAN:W2D-007#73:1> <h> <bold> SUGGESTIONS </bold> </h>
+
+<p> <ICE-CAN:W2D-007#74:1> As a member, you are part owner of MEC, and the reason for our
+
+existence; we welcome your input.
+<ICE-CAN:W2D-007#75:1> We appreciate any suggestions, comments, or criticisms on products
+
+and service.
+<ICE-CAN:W2D-007#76:1> Please use the suggestion boxes in each store or write directly to
+
+the office in Vancouver.
+<ICE-CAN:W2D-007#77:1> Members can obtain information such as audited financial statements,
+
+minutes of Annual General Meetings, and the Rules of MEC, from the Vancouver
+
+office.
+<ICE-CAN:W2D-007#78:1> You are urged to attend the Annual General Meetings, to vote in MEC's
+
+Election of Directors, and to consider running for the Board.
+<ICE-CAN:W2D-007#79:1> Please look in the catalogue or enquire through the office for
+
+information on nominations. </p>
+<ICE-CAN:W2D-007#80:1> <h> <bold> BOARD OF DIRECTORS </bold> </h>
+
+<p> <ICE-CAN:W2D-007#81:1> MEC is governed by a Board of Directors.
+<ICE-CAN:W2D-007#82:1> There are nine directors; each serves a three year term, and three
+
+are elected each year.
+<ICE-CAN:W2D-007#83:1> The Board establishes the overall policy of MEC, and is ultimately
+
+responsible for the operation of MEC.
+<ICE-CAN:W2D-007#84:1> The Board of Directors meets about 10 times per year, and each
+
+director additionally serves on several committees, which also meet 3 to 10
+
+times per year.
+<ICE-CAN:W2D-007#85:1> There are four Board officers ( President, Vice President, Secretary,
+
+Treasury).
+<ICE-CAN:W2D-007#86:1> Each officer receives a token stipend for their additional duties
+
+while all Directors are reimbursed for expenses, and receive a small
+
+honorarium for the time they spend preparing for and attending meetings. </p>
+
+<p> <ICE-CAN:W2D-007#87:1> Members 19 years and older, excluding employees, are eligible to
+
+become directors.
+<ICE-CAN:W2D-007#88:1> Elections are held each spring and new directors commence their term
+
+at the Annual General Meeting in April.
+<ICE-CAN:W2D-007#89:1> Persons wishing to serve must be nominated by at least five other
+
+members.
+<ICE-CAN:W2D-007#90:1> Nominations close in October of each year.
+<ICE-CAN:W2D-007#91:1> More information is available in our catalogue.
+<ICE-CAN:W2D-007#92:1> Complete details can be obtained by phoning 1-800 474-7704. </p>
+<ICE-CAN:W2D-007#93:1> <h> <bold> ENVIRONMENTALLY RESPONSIBLE </bold> </h>
+
+<p> <ICE-CAN:W2D-007#94:1> Mountain Equipment Co-op believes that in addition to providing
+
+goods and services, we should help preserve the quality of the environment,
+
+and educate our members and the public about environmentally responsible use
+
+of the outdoors. </p>
+
+<p> <ICE-CAN:W2D-007#95:1> The recreational activities of our members, and thus MEC's
+
+existence, are dependent on the preservation and wise management of outdoor
+
+areas which have important wilderness or recreational value.
+<ICE-CAN:W2D-007#96:1> We want to ensure that the environment in which our merchandise is
+
+used, is preserved.
+<ICE-CAN:W2D-007#97:1> To this end, our members have directed us to ensure that a
+
+significant amount of our advertising and promotional activities are devoted
+
+to sponsoring and promoting environmental projects in the areas our members
+
+use for recreation. </p>
+
+<p> <ICE-CAN:W2D-007#98:1> Following this direction, we established the MEC Endowment Fund
+
+for the Environment in 1993 as a vehicle to accept charitable contributions
+
+from the public for environmental preservation. </p>
+
+<p> <ICE-CAN:W2D-007#99:1> Our business procedures are constantly assessed.
+<ICE-CAN:W2D-007#100:1> We routinely recycle as much as possible; we use recycled paper,
+
+seek to reduce packaging waste, and endeavour to minimize the environmental
+
+impact of our commercial activities. </p>
+<ICE-CAN:W2D-007#101:1> <h> <bold> PRICE GUARANTEE </bold> </h>
+
+<p> <ICE-CAN:W2D-007#102:1> The Canadian dollar has faced unprecedented fluctuations on
+
+world currency markets over the past two years.
+<ICE-CAN:W2D-007#103:1> The price of much of our merchandise is affected by the value of the
+
+Canadian dollar.
+<ICE-CAN:W2D-007#104:1> We will make every effort to hold our retail prices throughout the
+
+life of each catalogue.
+<ICE-CAN:W2D-007#105:1> However, our
+#1 priority is to ensure the long term fiscal health of your co-operative.
+<ICE-CAN:W2D-007#106:1> Consequently we may have to adjust some prices in season to meet
+
+this priority. </p>
+
+<p> <ICE-CAN:W2D-007#107:1> We do not guarantee the lowest price in town on any specific
+
+item at any particular time, but we are committed to providing our members
+
+with the best overall value for their money year in and year out. </p>
+<ICE-CAN:W2D-007#108:1> <h> <bold> PRODUCT GUARANTEE </bold> </h>
+
+<p> <ICE-CAN:W2D-007#109:1> Our buyers shop the world for the best selection of MEC
+
+products.
+<ICE-CAN:W2D-007#110:1> They make the initial decisions, within the policy guidelines set by
+
+the Board, as to which items go into MEC stores and the catalogue.
+<ICE-CAN:W2D-007#111:1> By their purchases and comments, MEMBERS DECIDE which items CONTINUE
+
+to be stocked and catalogued. </p>
+
+<p> <ICE-CAN:W2D-007#112:1> Decisions to include items in the catalogue are made by the
+
+buyers, STRICTLY on the basis of which items are most appropriate.
+<ICE-CAN:W2D-007#113:1> This approach ensures the best and most informative catalogue for
+
+our members at the lowest cost, and is what differentiates us from most other
+
+catalogue retailers. </p>
+<ICE-CAN:W2D-007#114:1> <h> <bold> SERVICE GUARANTEE </bold> </h>
+
+<p> <ICE-CAN:W2D-007#115:1> We guarantee sound advice from our sales staff.
+<ICE-CAN:W2D-007#116:1> We devote a great deal of effort to product knowledge training, and
+
+sales staff can increase their earnings by successfully completing a series
+
+of training programs.
+<ICE-CAN:W2D-007#117:1> You will receive honest recommendations of products suitable to your
+
+needs.
+<ICE-CAN:W2D-007#118:1> Our staff are paid salaries, not commissions, and are active users
+
+of the products we offer.
+<ICE-CAN:W2D-007#119:1> Their advice is often based on personal experience. </p>
+
+<p> <ICE-CAN:W2D-007#120:1> Furthermore, each store is connected to a database of detailed
+
+product specifications and usage information.
+<ICE-CAN:W2D-007#121:1> All staff can access this information for any member. </p>
+
+<p> <ICE-CAN:W2D-007#122:1> We strive for quality, not quantity, in our service.
+<ICE-CAN:W2D-007#123:1> If you need detailed advice, we can provide it.
+<ICE-CAN:W2D-007#124:1> Please note: we can provide advice sooner during off-peak times in
+
+the stores. </p>
+<ICE-CAN:W2D-007#125:1> <h> <bold> OFFERING STATEMENT </bold> </h>
+
+<p> <ICE-CAN:W2D-007#126:1> <bold> 1. Name of co-operative: </bold> Mountain Equipment
+
+Co-operative
+<ICE-CAN:W2D-007#127:1> <bold> 2. Date of incorporation: </bold> August 2, 1971 ( British
+
+Columbia)
+<ICE-CAN:W2D-007#128:1> <bold> 3. Head office address: </bold> 1655 West 3rd Avenue <l>
+
+Vancouver, British Columbia <l> Canada V6J 1K1 </p>
+<ICE-CAN:W2D-007#129:1> <h> <bold> 4. Directors and officers: </bold> </h> <O> chart </O>
+<ICE-CAN:W2D-007#130:1> <h> <bold> 5. Description of the business or undertaking of the
+
+co-operative: </bold> </h>
+
+<p> <ICE-CAN:W2D-007#131:1> The Co-operative carries on the business of a retailer of
+
+outdoor equipment, clothing and related products and, through a subsidiary
+
+and an affiliated company, of a manufacturer of these products. </p> </I>

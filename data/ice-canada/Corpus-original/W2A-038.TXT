@@ -1,0 +1,565 @@
+<I>
+<ICE-CAN:W2A-038#1:1> <h> <bold> A procedure for estimating the overall system worth
+
+associated with generating unit refurbishment </bold> </h> <X>
+<ICE-CAN:W2A-038#X2:1> <h> <indig> <bold> Une m&eacute;thode pour estimer la valeur globale
+
+pour un syst&egrave;me de la remise en service d'unit&eacute;s
+
+g&eacute;n&eacute;ratrices </bold> </indig> </h> </X>
+<ICE-CAN:W2A-038#3:1> <bold> R. Billinton and L. Goel </bold>
+
+<p> <ICE-CAN:W2A-038#4:1> Quantitative reliability evaluation is an important element in
+
+power system planning and operation and the indices generated can be used to
+
+make a wide variety of planning decisions.
+<ICE-CAN:W2A-038#5:1> Quantitative reliability evaluation methodologies are now firmly
+
+established in the area of generating capacity adequacy assessment and are
+
+routinely used in planning new capacity additions.
+<ICE-CAN:W2A-038#6:1> Generating system adequacy is primarily governed by the
+
+unavailabilities of the units in the system and therefore one alternative to
+
+adding additional capacity is to consider improving the availabilities of
+
+existing units in the system. </p>
+
+<p> <ICE-CAN:W2A-038#7:1> Generating unit availability can be improved by unit and plant
+
+refurbishment, i.e. by investing capital to reduce the unit forced outage
+
+rate ( FOR).
+<ICE-CAN:W2A-038#8:1> Many electric power utilities are doing this rather than investing in
+
+new generation equipment.
+<ICE-CAN:W2A-038#9:1> Generating unit unavailability has a major impact in a number of
+
+overall system areas, most of which are not normally considered by power
+
+station designers, plant operators and managers responsible for actual power
+
+plant modifications.
+<ICE-CAN:W2A-038#10:1> This paper presents a comprehensive and basic approach to recognizing
+
+the impacts of generating unit unavailability on expected energy production
+
+costs, expected failure costs and capacity costs.
+<ICE-CAN:W2A-038#11:1> The procedure is energy-based and utilizes an interrupted energy
+
+assessment rate applicable to the consumers served by the system to
+
+incorporate the expected load curtailment costs.
+<ICE-CAN:W2A-038#12:1> The worth of generating unit refurbishment is assessed in terms of
+
+overall system costs.
+<ICE-CAN:W2A-038#13:1> The cost of any specific unit refurbishment can be compared with the
+
+resulting net benefits and used to make decisions. </p> <X>
+
+<p> <ICE-CAN:W2A-038#X14:1> <indig> Une &eacute;valuation quantitative de la
+
+fiabilit&eacute; est un &eacute;l&eacute;ment important dans la planification
+
+et l'op&eacute;ration d'un r&eacute;seau &eacute;lectrique et les indicateurs
+
+obtenus peuvent &ecircumflex;tre utilis&eacute;s dans un large
+
+&eacute;ventail de d&eacute;cisions associ&eacute;es &agrave; la
+
+planification.
+<ICE-CAN:W2A-038#X15:1> Les approches quantitatives pour l'&eacute;valuation de la
+
+fiabilit&eacute; de la capacit&eacute; de production sont maintenant
+
+solidement &eacute;tablies et sont utilis&eacute;es de fa&ccedille;on
+
+r&eacute;guli&egrave;re pour la planification des capacit&eacute;s
+
+additionnelles de production.
+<ICE-CAN:W2A-038#X16:1> La capacit&eacute; de production est r&eacute;gie principalement par
+
+la non-disponibilit&eacute; d'unit&eacute;s dans le r&eacute;seau et une
+
+fa&ccedille;on alternative pour l'ajout d'une capacit&eacute; additionnelle
+
+est d'am&eacute;liorer la disponibilit&eacute; d'unit&eacute;s existantes
+
+dans le r&eacute;seau. </indig> </p>
+
+<p> <ICE-CAN:W2A-038#X17:1> <indig> La capacit&eacute; de production peut &ecircumflex;tre
+
+am&eacute;lior&eacute;e par la remise en service des unit&eacute;s
+
+g&eacute;n&eacute;ratrices et du r&eacute;seau associ&eacute;, i.e. en
+
+investissant les sommes requises pour r&eacute;duire la mise hors-service
+
+forc&eacute;e ( MHSF) d'unit&eacute;s et plusieurs compagnies distributrices
+
+d'&eacute;lectricit&eacute; font ceci plut&ocircumflex;t que d'investir dans
+
+des unit&eacute;s neuves.
+<ICE-CAN:W2A-038#X18:1> La non-disponibilit&eacute; d'unit&eacute;s
+
+g&eacute;n&eacute;ratrices a un impact majeur sur plusieurs secteurs du
+
+r&eacute;seau et la majorit&eacute; de ceux-ci ne sont normalement pas
+
+consid&eacute;r&eacute;s par les concepteurs des sous-stations, les
+
+op&eacute;rateurs de ces stations et par les administrateurs responsables
+
+pour les modifications en cours dans les r&eacute;seaux.
+<ICE-CAN:W2A-038#X19:1> Cet article pr&eacute;sente une approche simple et pratique pour
+
+d&eacute;terminer l'impact de la non-disponibilit&eacute; d'une unit&eacute;
+
+g&eacute;n&eacute;ratrice sur les co&ucircumflex;ts de production
+
+esp&eacute;r&eacute;s de l'&eacute;nergie, les co&ucircumflex;ts des bris
+
+anticip&eacute;s et les co&ucircumflex;ts en capacit&eacute;
+<ICE-CAN:W2A-038#X20:1> La proc&eacute;dure, ax&eacute;e sur l'&eacute;nergie, utilise un
+
+taux intermittent d'allocation de l'&eacute;nergie applicable au consommateur
+
+desservi par le r&eacute;seau qui incorpore les co&ucircumflex;t de
+
+r&eacute;partitions de la charge.
+<ICE-CAN:W2A-038#X21:1> La valeur associ&eacute;e &agrave; la remise en service
+
+d'unit&eacute; g&eacute;n&eacute;ratrice est &eacute;tablie en termes des
+
+co&ucircumflex;ts globaux.
+<ICE-CAN:W2A-038#X22:1> Le co&ucircumflex;t de remise en service d'une unit&eacute;
+
+donn&eacute;e peut &ecircumflex;tre compar&eacute; avec les
+
+b&eacute;n&eacute;fices nets escompt&eacute;s et permet la prise de
+
+d&eacute;cision. </indig> </p> </X>
+<ICE-CAN:W2A-038#23:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-038#24:1> An electrical power system serves the basic function of supplying
+
+all types of customers with electrical energy as economically as possible and
+
+with an acceptable degree of continuity and quality
+<ICE-CAN:W2A-038#25:1> Reliability has, in recent years, become an important utility design
+
+criterion.
+<ICE-CAN:W2A-038#26:1> It is a highly complex quantity which is dependent on a wide range of
+
+factors.
+<ICE-CAN:W2A-038#27:1> Power system reliability <fnr> <sp> 1 </sp> </fnr> can be broadly
+
+classified into two basic and functional categories, namely system adequacy
+
+and system security <fnr> <sp> 2 </sp> </fnr> <footnote> 1. Billinton, R.,
+
+and Allan R.N., Power System Reliability Evaluation, Longman London (
+
+England)/Plenum Press, New York, 1983. </footnote> <footnote> 2. Billinton,
+
+R., and Allan R.N., " Power system reliability in perspective", IEE
+
+Electronics & Power, March 1984, pp 232-236. </footnote> .
+<ICE-CAN:W2A-038#28:1> System adequacy is governed by the existence of sufficient facilities
+
+within the system to satisfy the load requirements.
+<ICE-CAN:W2A-038#29:1> Such facilities include generation, transmission and distribution.
+<ICE-CAN:W2A-038#30:1> Adequacy assessment is, therefore, concerned with static system
+
+conditions and does not include disturbances in the system.
+<ICE-CAN:W2A-038#31:1> System security is concerned with the perturbations arising within
+
+the system, such as local and/or widespread disturbances, loss of any major
+
+facility, etc.
+<ICE-CAN:W2A-038#32:1> This paper is restricted to adequacy assessment. </p>
+
+<p> <ICE-CAN:W2A-038#33:1> Generating capacity adequacy assessment is an area in which
+
+extensive research has been done <fnr> <sp> 3 </sp> </fnr> <footnote> 3. IEEE
+
+Committee, " Bibliography of the application of method in power systems
+
+reliability evaluation", IEEE Transaction On Power Apparatus And Systems,
+
+PAS-103, Feb. 1984, pp 275-282. </footnote> .
+<ICE-CAN:W2A-038#34:1> The basic system adequacy indices are the loss of load expectation (
+
+LOLE) and the loss of energy expectation ( LOEE). <O> Table: List of symbols
+
+</O>
+<ICE-CAN:W2A-038#35:1> The calculated values are very dependent on the individual generating
+
+unit forced outage rate ( FOR) values.
+<ICE-CAN:W2A-038#36:1> The system peak load carrying capability ( PLCC), which is the peak
+
+load that a system can carry at a specified system risk index, is also very
+
+dependent on the generating unit FOR values.
+<ICE-CAN:W2A-038#37:1> In addition to the impacts on system reliability, generating unit
+
+forced outages have a substantial effect on system costs and therefore on the
+
+price consumers have to pay for electricity <fnr> <sp> 4 </sp> </fnr>
+
+<footnote> 4. Vardi J., and Avi-itzhak, B., Electric Energy Generation, The
+
+MIT Press, Cambridge, Massachusetts, 1981. </footnote>
+<ICE-CAN:W2A-038#38:1> This paper presents an overall energy-based approach which can be
+
+used to examine the system impact of generating unit forced unavail <l>
+
+ability on energy production costs, customer interruption costs and capacity
+
+costs.
+<ICE-CAN:W2A-038#39:1> In order to incorporate these considerations in a quantitative
+
+evaluation of the system benefits associated with reducing the forced
+
+unavailability of a particular generating unit, it is necessary to utilize an
+
+energy-based approach.
+<ICE-CAN:W2A-038#40:1> This cannot be accomplished using the standard loss of load
+
+expectation technique favoured by many utilities.
+<ICE-CAN:W2A-038#41:1> It is also necessary to utilize an overall approach which can, in
+
+addition to evaluating the overall system expected energy not supplied,
+
+provide the expected energy produced by each generating unit in the system.
+<ICE-CAN:W2A-038#42:1> There are several basic techniques available for this purpose <fnr>
+
+<sp> 1 </sp> </fnr> <footnote> <O> reference [ 1] </O> </footnote> .
+<ICE-CAN:W2A-038#43:1> It has been found, however, that a method known as the <it>
+
+segmentation </it> approach <fnr> <sp> 5 </sp> </fnr> provides a practical
+
+vehicle for this analysis, given that there are no energy-limited units in
+
+the system <fnr> <sp> 1 </sp> </fnr> . <footnote> 5. Schenk, K.F., and Misra,
+
+R.B., " A new method for the evaluation of expected energy generation and
+
+loss of load probability", IEEE Transactions On Power Apparatus And Systems,
+
+PAS-103, pp 294-303, Feb. 1984. </footnote> <footnote> <O> reference [ 1]
+
+</O> </footnote> </p>
+
+<p> <ICE-CAN:W2A-038#44:1> Many power utilities have recognized the implications of low unit
+
+availabilities and are actively engaged in unit refurbishment to improve
+
+these conditions.
+<ICE-CAN:W2A-038#45:1> The economic cost associated with a given unit FOR can be defined as
+
+the variation in the total system costs resulting from changing the unit FOR
+
+by an increment, while maintaining the same level of system reliability.
+<ICE-CAN:W2A-038#46:1> The total system costs include the three components of capacity cost,
+
+failure cost and production cost.
+<ICE-CAN:W2A-038#47:1> In this calculation, it is necessary to analyze the impact on the
+
+adequacy performance of the system of varying the FOR and to recognizing the
+
+variation in adequacy in terms of extra capacity. </p>
+
+<p> <ICE-CAN:W2A-038#48:1> Additional capacity which is required to compensate for the
+
+decreased level of system adequacy resulting from increased unit FOR can be
+
+obtained by adding peaking units in the form of gas turbines.
+<ICE-CAN:W2A-038#49:1> The simple addition of gas turbines may not, however, be the most
+
+effective method of adding capacity to a system over the long term.
+<ICE-CAN:W2A-038#50:1> It may be more appropriate in a particular system study to consider
+
+the actual long range plans of the utility which include specific unit sizes,
+
+types and locations.
+<ICE-CAN:W2A-038#51:1> The objective is to determine the average cost associated with the
+
+addition of an increment of generating capacity.
+<ICE-CAN:W2A-038#52:1> In order to do this, a present-worth analysis was conducted for an
+
+expansion period of thirty years.
+<ICE-CAN:W2A-038#53:1> The average cost associated with a unit increase in peak load
+
+carrying capability ( PLCC) was determined from these analyses.
+<ICE-CAN:W2A-038#54:1> Several sensitivity studies were conducted to study the impact on
+
+this capacity cost figure of load forecast uncertainty, unit size and type
+
+and annual load growth etc.
+<ICE-CAN:W2A-038#55:1> The worth of unit refurbishment is assessed using the capacity cost
+
+benefits due to increased system PLCC and the benefits/losses in the system
+
+production costs and failure costs.
+<ICE-CAN:W2A-038#56:1> The cost of refurbishment can be compared to its worth in order to
+
+make objective decisions.
+<ICE-CAN:W2A-038#57:1> The ability to accurately estimate the refurbishment worth associated
+
+with a given unit FOR is an important factor in deciding when to retire an
+
+old unit and to replace it with a new one.
+<ICE-CAN:W2A-038#58:1> The segmentation method <fnr> <sp> 5 </sp> </fnr> has been used in
+
+these studies to estimate the refurbishment worth associated with a unit FOR
+
+in terms of the capacity costs, energy production costs and the system
+
+failure costs. <footnote> <O> reference [ 5] </O> </footnote> </p>
+<ICE-CAN:W2A-038#59:1> <h> <bold> Basic system parameters </bold> </h>
+
+<p> <ICE-CAN:W2A-038#60:1> An adequacy index can be defined as a parameter that denotes a
+
+particular aspect of system reliability.
+<ICE-CAN:W2A-038#61:1> The main objective in generating capacity adequacy assessment is to
+
+estimate the necessary generating capacity to satisfy the system demand and
+
+to have sufficient capacity to perform corrective and preventive maintenance
+
+on the generation facilities.
+<ICE-CAN:W2A-038#62:1> The LOEE, which is a measure of the expected unsupplied energy due to
+
+the occasions when load demand exceeds the available generating capacity, is
+
+an intuitively appealing index as it relates directly to the system function
+
+of providing customers with electrical energy.
+<ICE-CAN:W2A-038#63:1> The LOEE is also known as the expected energy not supplied ( EENS).
+
+</p>
+
+<p> <ICE-CAN:W2A-038#64:1> Expected energy not supplied has been considered as the primary
+
+adequacy index in the studies described in this paper.
+<ICE-CAN:W2A-038#65:1> The determination of individual generating unit energy production is
+
+complicated by unit forced outages, maintenance requirements, the variability
+
+of hydro inflows, etc.
+<ICE-CAN:W2A-038#66:1> The earliest probabilistic production cost simulation which evaluated
+
+the expected energy generated by each unit and the EENS of the system was
+
+reported by Booth <fnr> <sp> 6 </sp> </fnr> in early 1972 and further
+
+developed by Wood et al <fnr> <sp> 7 </sp> </fnr> in the same year <footnote>
+
+6. Booth, R.R., " Power system simulation model based on probablity
+
+analysis", IEEE Transactions On Power Apparatus And Systems, PAS-91, pp
+
+62-69, 1972. </footnote> <footnote> 7. Wood, A.J., Ringlee, R.J., and Sager,
+
+M.A., " A new generation production cost program to recognize forced
+
+outages", IEEE Transactions On Power Apparatus And Systems, PAS-91, pp
+
+2114-24, 1972. </footnote> .
+<ICE-CAN:W2A-038#67:1> The evaluation of expected production costs, given that the expected
+
+energy output of each unit in the system has been predetermined, is a
+
+relatively straightforward task.
+<ICE-CAN:W2A-038#68:1> Under normal circumstances, a preferred synchronizing sequence or
+
+generating unit loading order is used to meet a specific load level.
+<ICE-CAN:W2A-038#69:1> The loading order of the units does not affect the system EENS
+
+provided that there are no energy-limited units in the system.
+<ICE-CAN:W2A-038#70:1> The loading order, however, can have a considerable impact on the
+
+system production costs.
+<ICE-CAN:W2A-038#71:1> In order to minimize the production costs, the units should be loaded
+
+in the order of their incremental variable costs, i.e. the generating unit
+
+with the lowest incremental variable cost should be loaded first as a base
+
+unit and the one with the highest variable cost loaded last or used as a
+
+peaking unit. </p>
+
+<p> <ICE-CAN:W2A-038#72:1> A major aspect in the justification and optimization of a
+
+specific system expansion is the cost-benefit assessment of the resulting
+
+power system adequacy
+<ICE-CAN:W2A-038#73:1> Conceptually, the benefits of having increased levels of electric
+
+service reliability can be related to the costs of providing that service.
+<ICE-CAN:W2A-038#74:1> Actual or perceived costs of interruption can be used to determine
+
+the benefits of increased system reliability.
+<ICE-CAN:W2A-038#75:1> The most practical method to establish reliability worth is to survey
+
+electrical consumers, sector by sector, to determine the losses incurred by
+
+each customer class due to power interruptions.
+<ICE-CAN:W2A-038#76:1> The data produced by this method can in turn be used to generate a
+
+composite customer damage function for a particular service area.
+<ICE-CAN:W2A-038#77:1> The customer damage function is an attempt to define the total
+
+customer interruption costs for that service area as a function of the
+
+interruption duration.
+<ICE-CAN:W2A-038#78:1> In order to create a practical tool for assessing reliability worth,
+
+these customer interruption costs must be related to the calculated adequacy
+
+indices such as the LOLE and EENS used in system planning and operation.
+<ICE-CAN:W2A-038#79:1> The EENS has been used in conjunction with the customer cost function
+
+to obtain a factor relating customer losses to the worth of electric service
+
+reliability.
+<ICE-CAN:W2A-038#80:1> This factor has been designated as the interrupted energy assessment
+
+rate ( IEAR) <fnr> <sp> 8 </sp> </fnr> <footnote> 8. Billinton, R.,
+
+Oteng-Adjei, J., and Ghajar, R., " Comparison of two alternate methods to
+
+establish an interrupted energy assessment rate", IEEE Transactions, PWRS-2,
+
+1987, pp 751-757. </footnote> .
+<ICE-CAN:W2A-038#81:1> As the name suggests, the IEAR relates to the loss of energy, or in
+
+other words, to the energy-oriented index EENS.
+<ICE-CAN:W2A-038#82:1> The EENS is a relatively simple factor that is closely related to
+
+customer losses and is, therefore, a good indicator of system adequacy.
+<ICE-CAN:W2A-038#83:1> When combined with a basic EENS index, the IEAR provides a
+
+fundamental tool for assessing adequacy worth in generating capacity adequacy
+
+evaluation <fnr> <sp> 9 </sp> </fnr> <footnote> 9. Billinton, R., and
+
+Oteng-Adjei, J., " Utilization of composite damage functions in the
+
+development of an interrupted energy assessment rate", Proceedings of the
+
+15th Inter-RAM for the Electric Power Industry, Portland, Oregon, June 1988.
+
+</footnote> .
+<ICE-CAN:W2A-038#84:1> The expected failure cost or customer cost is obtained from a
+
+combination of the system EENS and the system IEAR values.
+<ICE-CAN:W2A-038#85:1> The customer costs are an important component in assessing the
+
+implications associated with an inadequate supply or unreliable system
+<ICE-CAN:W2A-038#86:1> The individual generating unit energy outputs and the total system
+
+EENS are very dependent on the individual unit availabilities.
+<ICE-CAN:W2A-038#87:1> The customer monetary losses due to overall system inadequacy are
+
+therefore also very dependent on the individual unit availabilities.
+<ICE-CAN:W2A-038#88:1> This paper illustrates this phenomenon using the IEEE reliability
+
+test system ( RTS) <fnr> <sp> 10 </sp> </fnr> <footnote> 10. " IEEE
+
+reliability test system", IEEE Transactions On Power Apparatus And Systems,
+
+PAS-98, Vol. No. 6, Nov./Dec. 1979, pp 2047-2054. </footnote> . </p>
+
+<p> <ICE-CAN:W2A-038#89:1> The segmentation method <fnr> <sp> 5 </sp> </fnr> was used for
+
+performing all the system studies reported in this paper <footnote> <O>
+
+reference [ 5] </O> </footnote> .
+<ICE-CAN:W2A-038#90:1> This method consists of obtaining the frequency distribution of the
+
+equivalent loads by convolving the generating units in an economic merit
+
+loading order.
+<ICE-CAN:W2A-038#91:1> Convolution is achieved by suitable addition of the statistical
+
+moments of the hourly loads and the unit outages.
+<ICE-CAN:W2A-038#92:1> As each unit is committed, it is simulated by a convolution process
+
+which gives rise to an equivalent load curve that takes into account the
+
+effect of random failures of the committed units.
+<ICE-CAN:W2A-038#93:1> The equivalent load can be viewed as an augmented load caused by the
+
+forced outages of generating units.
+<ICE-CAN:W2A-038#94:1> The method is based on segmenting the unit capacities by a common
+
+factor and using these segments or blocks, in terms of the zeroth and first
+
+order moments, to obtain the expected energy generated by each unit in the
+
+system.
+<ICE-CAN:W2A-038#95:1> The IEAR value obtained from the composite customer damage function
+
+is 5.02 &dollar;/KWh <fnr> <sp> 8 </sp> </fnr> for the IEEE-RTS <footnote>
+
+<O> reference [ 8] </O> </footnote> .
+<ICE-CAN:W2A-038#96:1> The various indices for the RTS are as follows:
+<ICE-CAN:W2A-038#97:1> Energy required = 15297.444 GWh
+<ICE-CAN:W2A-038#98:1> Energy supplied = 15296.268 GWh
+<ICE-CAN:W2A-038#99:1> Unsupplied energy = 1.176 GWh
+<ICE-CAN:W2A-038#100:1> Expected production costs = &dollar;156.346 million
+<ICE-CAN:W2A-038#101:1> Expected failure costs = &dollar;5.91 million. </p>
+<ICE-CAN:W2A-038#102:1> <h> <bold> Impacts of generating unit unavailability </bold> </h>
+
+<p> <ICE-CAN:W2A-038#103:1> Given that the system contains a specific set of units with
+
+assigned forced outage rates and that there are no energy-limited units in
+
+the system, the system EENS and therefore the expected failure costs for a
+
+given load model are fixed.
+<ICE-CAN:W2A-038#104:1> In general, an increase in the FOR of a generating unit causes an
+
+increase in the system EENS, which in turn causes a corresponding increase in
+
+the expected failure costs.
+<ICE-CAN:W2A-038#105:1> The impacts of varying the unit FOR were studied using the IEEE-RTS.
+<ICE-CAN:W2A-038#106:1> The effect on the system EENS of changing the FOR of the 197 MW
+
+thermal units is shown in Figure 1.
+<ICE-CAN:W2A-038#107:1> The variation in the expected failure costs ( using an IEAR of 5.02
+
+&dollar;/KWh) is shown in Figure 2.
+<ICE-CAN:W2A-038#108:1> Figures 1 and 2 show that the system risk and failure costs
+
+respectively increase with an increase in the generating unit FOR
+<ICE-CAN:W2A-038#109:1> ( Figures 1 and 2 are directly related.
+<ICE-CAN:W2A-038#110:1> The difference in shape is due to the ordinate scales used in each
+
+case). </I> <X>
+<ICE-CAN:W2A-038#X111:1> In a similar way, the impacts on the system risk of changing the
+
+FOR of all the 20 MW peaking units, the 400 MW nuclear units and the base
+
+loaded 50 MW hydro units are shown in Figure 3.
+<ICE-CAN:W2A-038#X112:1> The 400 MW nuclear units have the highest FOR in the system and for
+
+this reason alone make a major contribution to the high system EENS and
+
+failure costs.
+<ICE-CAN:W2A-038#X113:1> The 50 MW hydro units have the lowest FOR and therefore a large
+
+variation in their FOR does not affect the system risk index to a large
+
+extent.
+<ICE-CAN:W2A-038#X114:1> The 20 MW thermal units are used for peaking purposes and hence do
+
+not contribute significantly towards the system inadequacy.
+<ICE-CAN:W2A-038#X115:1> A large variation in their FOR, therefore, does not affect the
+
+system EENS as is evident from Figure 3. </p> </X>

@@ -1,0 +1,402 @@
+<I>
+<ICE-CAN:S2B-018#1:1> But for a couple of hours in there it could come down as freezing rain
+
+ice pellets <,> and <,> snow
+<ICE-CAN:S2B-018#2:1> And that should be early tomorrow morning <,,> around dawn or so
+<ICE-CAN:S2B-018#3:1> Uh changing <}> <-> <.> t </.> </-> <=> to </=> </}> rain by noon
+
+tomorrow and winds diminishing when that happens
+<ICE-CAN:S2B-018#4:1> Highs tomorrow near plus four degrees
+<ICE-CAN:S2B-018#5:1> Now in the eastern parts of the province this afternoon sunny skies
+
+<,> with some cloudy periods
+<ICE-CAN:S2B-018#6:1> Clouding over tonight with ice pellets or freezing rain <,> overnight
+<ICE-CAN:S2B-018#7:1> Lows near minus three
+<ICE-CAN:S2B-018#8:1> Rain for tomorrow
+<ICE-CAN:S2B-018#9:1> Temperatures in the east getting up to plus ten degrees and that could
+
+be close to a record
+<ICE-CAN:S2B-018#10:1> Gale force wind though
+<ICE-CAN:S2B-018#11:1> <{> <[> <O> laugh </O> </[> <[> You see you're not going to get the
+
+snow </[> </{>
+<ICE-CAN:S2B-018#12:1> You're going to get nice warm temperatures but gale force winds
+<ICE-CAN:S2B-018#13:1> Up to eighty <,> kilometers an hour by tomorrow afternoon
+<ICE-CAN:S2B-018#14:1> It really is amazing
+<ICE-CAN:S2B-018#15:1> Uh in Montreal right now it's three degrees
+<ICE-CAN:S2B-018#16:1> <indig> Baie-comeau </indig> <&> town </&> sunny and zero
+<ICE-CAN:S2B-018#17:1> Sunny and plus two degrees is <indig> Gasp&eacute; </indig> <&> town
+
+</&>
+<ICE-CAN:S2B-018#18:1> On the <}> <-> <.> smar </.> </-> <=> stock </=> </}> markets the Dow
+
+Jones is up thirteen points at forty-eight <,> eighty-six
+<ICE-CAN:S2B-018#19:1> T S E <&> Toronto Stock Exchange </&> is up one point at forty-five
+
+ninety-three
+<ICE-CAN:S2B-018#20:1> Gold is down a dollar forty-five at three hundred and eight-five
+
+dollars <,> seventy-five cents U S an ounce
+<ICE-CAN:S2B-018#21:1> Silver is at five dollars and thirty-three cents
+<ICE-CAN:S2B-018#22:1> And <,> the <,> Canadian dollar is down <,,> twenty <,> one-hundred
+
+at seventy-three point <,> eight <,> three
+<ICE-CAN:S2B-018#23:1> It's now thirteen mintues past twelve o'clock </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-018#24:2:A> It's now five minutes to <,> one o'clock
+<ICE-CAN:S2B-018#25:2:A> The temperature in Montreal is <,> three degrees
+<ICE-CAN:S2B-018#26:2:A> overcast skies
+<ICE-CAN:S2B-018#27:2:A> Big storm expected tonight with fifteen centimeters <&> end of
+
+statement </&>
+<ICE-CAN:S2B-018#28:2:A> Winds up to seventy kilometers an hour </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-018#29:3:A> Good afternoon here's the C B C one o'clock news
+<ICE-CAN:S2B-018#30:3:A> The P Q <&> <indig> Parti Qu&eacute;b&eacute;cois </indig>
+
+political party </&> says the reversal of referendum vote results in the
+
+riding of Westmount is not electoral fraud
+<ICE-CAN:S2B-018#31:3:A> The vice-president of the party Monique Simard says the yes
+
+committee is not at fault
+<ICE-CAN:S2B-018#32:3:A> <@> Janet Macdonald </@> reports
+
+<$B> <ICE-CAN:S2B-018#33:3:B> Simard said it was the result of a stupid mistake that caused
+
+the yes <,> and no sides to be reversed in the Westmont riding
+<ICE-CAN:S2B-018#34:3:B> She says it wasn't the fault of the yes committee
+
+<$C> <ICE-CAN:S2B-018#35:3:C> But it was <}> <-> an </-> <=> a </=> </}> stupid inversion
+
+<,> that was even overlooked by the no side <,,> when it happened
+<ICE-CAN:S2B-018#36:3:C> But I presume <,> was corrected after by Mister Cote's <,> uh
+
+counts
+
+<$B> <ICE-CAN:S2B-018#37:3:B> Simard says she doesn't blame Cote for the discrepancies in
+
+the referendum results
+<ICE-CAN:S2B-018#38:3:B> She says Cote was ignored by airline companies and businesses <,>
+
+when he warned them they were violating the referendum budget laws
+<ICE-CAN:S2B-018#39:3:B> Simard says even yes officials had some serious problems the night
+
+of the referendum and the police were called in some instances
+
+<$C> <ICE-CAN:S2B-018#40:3:C> Many many complaints on irregularities concerning <}> <-> uh
+
+</-> <=> uh </=> </}> people that were impostors
+<ICE-CAN:S2B-018#41:3:C> That use another person's identity to vote
+<ICE-CAN:S2B-018#42:3:C> Uhm other people that would not <,,> uh respect a certain number of
+
+rules
+<ICE-CAN:S2B-018#43:3:C> So I think that ahh it's important that <,> people know <,,> that
+
+there are complaints everywhere <,,> on a certain number of things
+
+<$B> <ICE-CAN:S2B-018#44:3:B> Simard says Cote is the only one who can take any action in
+
+dealing with the discrepancies
+<ICE-CAN:S2B-018#45:3:B> She says some fifty complaints made by the national yes committee
+
+will be made public tomorrow
+<ICE-CAN:S2B-018#46:3:B> Today is the deadline for a recount of the referendum results by
+
+the Chief Electoral Officer Pierre F Cote
+<ICE-CAN:S2B-018#47:3:B> <@> Janet Macdonald </@> C B C News Montreal
+
+<$A> <ICE-CAN:S2B-018#48:3:A> The Liberal finance critic Andre Bourbeau says he's not
+
+surprised the P Q government is proceeding with a one percent increase in the
+
+provincial sales tax next year
+<ICE-CAN:S2B-018#49:3:A> Government officials are blaming cuts in federal transfer payments
+<ICE-CAN:S2B-018#50:3:A> But Bourbeau says the P Q knew cuts were coming
+
+<$D> <ICE-CAN:S2B-018#51:3:D> It's funny there all <}> <-> <unclear> word </unclear>
+
+provinces </-> <=> Canadian provinces </=> </}> were able to <,> uhm balance
+
+their budget inspite <,,> of the uh cuts in federal transfers and the uh
+
+Quebec uh P Q government uh doesn't seem <}> <-> to uhh uh </-> <=> to be
+
+</=> </}> willing to do the same there
+<ICE-CAN:S2B-018#52:3:D> Uh they want to <}> <-> uh </-> <=> uh </=> </}> you know to accuse
+
+the federal government of <,,> the whole responsibility for that
+
+<$A> <ICE-CAN:S2B-018#53:3:A> Bourbeau says the P Q government is reluctant to make the
+
+necessary cuts in the civil service because union leaders had supported the
+
+sovereignist cause
+<ICE-CAN:S2B-018#54:3:A> Government officials say the cuts amount to a billion dollar loss
+
+in revenues for Quebec's nineteen ninety-six ninety-seven budget
+<ICE-CAN:S2B-018#55:3:A> The Montreal Health Board is beginning to give details on how it
+
+will make up for the closure of seven hospitals
+<ICE-CAN:S2B-018#56:3:A> The board is announcing where it reallocate more than one hundred
+
+and fifty million dollars over the next three years
+<ICE-CAN:S2B-018#57:3:A> <@> John Peggoty </@> reports
+
+<$E> <ICE-CAN:S2B-018#58:3:E> The board has to find ways of offering elsewhere all the
+
+services from <&> end of tape </&> </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-018#59:4:A> <&> tape starts mid sentence </&> <?> Out who'll </?> join me
+
+<,> <@> Fred Sayers </@> on the Hill
+<ICE-CAN:S2B-018#60:4:A> Part of the World Today Weekend Edition Sunday at noon
+<ICE-CAN:S2B-018#61:4:A> Right here on Newstalk eight hundred C J A D where if you miss a
+
+little
+
+<$B> <ICE-CAN:S2B-018#62:4:B> I took him out
+
+<$A> <ICE-CAN:S2B-018#63:4:A> you miss a lot <&> Intro music plays overtop of speaker C </&>
+
+<$C> <ICE-CAN:S2B-018#64:4:C> Now from the most listened to newsroom in Quebec <,,> this is
+
+News from the Source
+<ICE-CAN:S2B-018#65:4:C> Newstalk eight hundred <,> C J A D <,> Montreal
+
+<$D> <ICE-CAN:S2B-018#66:4:D> The Liberian refugees <,> find <,> a <,> home
+<ICE-CAN:S2B-018#67:4:D> The <@> Micheal Como </@> inquest resumes
+<ICE-CAN:S2B-018#68:4:D> The weather <,> not <,> too <,> bad <,> and warming up a little bit
+<ICE-CAN:S2B-018#69:4:D> And we get the name <,,> of the car bomb <,> victim this morning
+
+<,,> in Chateauguay
+<ICE-CAN:S2B-018#70:4:D> Good afternoon
+<ICE-CAN:S2B-018#71:4:D> <@> George Fraser </@> with news and comments at high noon <,,> on
+
+a day that is really <,> not bad <,> not bad
+<ICE-CAN:S2B-018#72:4:D> It's not exactly hot yet <,> uh but it's getting there
+<ICE-CAN:S2B-018#73:4:D> It is warming up
+<ICE-CAN:S2B-018#74:4:D> It was below freezing in parts of the Laurentiens this morning
+<ICE-CAN:S2B-018#75:4:D> So it's uh mostly <,> sunny
+<ICE-CAN:S2B-018#76:4:D> There's a bit of cloud but mostly sunny downtown
+<ICE-CAN:S2B-018#77:4:D> A bit breezy but not like yesterday
+<ICE-CAN:S2B-018#78:4:D> And the tempurature has moved up to thirteen degrees downtown
+<ICE-CAN:S2B-018#79:4:D> <?> Be </?> a little cooler than that <,> where you are but uh not
+
+<,> bad <,> at all
+<ICE-CAN:S2B-018#80:4:D> However <,,> we will get some cloud <,> later on today <,> and
+
+Thursday doesn't look too good
+<ICE-CAN:S2B-018#81:4:D> Not a bad week though
+<ICE-CAN:S2B-018#82:4:D> Meantime <,,> the car bomb this morning
+<ICE-CAN:S2B-018#83:4:D> It happened at about six fifteen
+<ICE-CAN:S2B-018#84:4:D> A bomb exploded <,,> killing a man driving a car <,> around
+
+Saint-Francis street in Chateauguay
+<ICE-CAN:S2B-018#85:4:D> Right by the <,> Zellers store there
+<ICE-CAN:S2B-018#86:4:D> We now know his name
+<ICE-CAN:S2B-018#87:4:D> His name was <@> Gord Andrew </@>
+<ICE-CAN:S2B-018#88:4:D> A N D <,> R E W
+<ICE-CAN:S2B-018#89:4:D> He was thirty-five years old
+<ICE-CAN:S2B-018#90:4:D> But <,,> police say they know nothing about him
+<ICE-CAN:S2B-018#91:4:D> He had no record <,> whatsoever
+<ICE-CAN:S2B-018#92:4:D> He was not <,> known <,> to police
+<ICE-CAN:S2B-018#93:4:D> So the victim of the car bombing <,> in Chateauguay this morning
+
+<,> <@> Gord Andrew </@>
+<ICE-CAN:S2B-018#94:4:D> But all we know about him so far is that he's thirty-five or was
+
+thirty-five and did not have a police record
+<ICE-CAN:S2B-018#95:4:D> Meantime <,,> in the Laval Courthouse this morning the <,>
+
+resumption of the inquest into the death of <@> Micheal Como </@>
+<ICE-CAN:S2B-018#96:4:D> You may recall it was just about a year ago <,> May thirty-first
+
+last year that <@> Como </@> was shot <,> and killed by <,> a police officer
+
+in Montreal
+<ICE-CAN:S2B-018#97:4:D> He was suspect <,> in a shoplifting incident
+<ICE-CAN:S2B-018#98:4:D> And uhm the story is that the gun went off accidently <,> when <@>
+
+Como </@> was on the ground <,> uh being apprehended by <,> police
+<ICE-CAN:S2B-018#99:4:D> Uh the ambulance technician who was uh on the witness stand this
+
+morning <,> said that when he got there <@> Como </@> was <,> alive but had a
+
+very <,> weak pulse
+<ICE-CAN:S2B-018#100:4:D> And of course he died <,> shortly afterwards
+<ICE-CAN:S2B-018#101:4:D> And we have a new picture to look at <,> in connection with the
+
+murder of Police Constable <@> Raymond Gagnon </@> who as you know was
+
+murdered <,> in Senneville recently
+<ICE-CAN:S2B-018#102:4:D> The new picture is a picture of a man robbing a bank of Montreal
+<ICE-CAN:S2B-018#103:4:D> There's now some reason to believe that he escaped <,> in a car
+
+that may <,> have been the same car <,> that was the car that <@> Raymond
+
+Gagnon </@> stopped in Senneville when he was shot <,> and killed
+<ICE-CAN:S2B-018#104:4:D> So <,> that <,> picture is now being published and police are
+
+asking <,> all of our listeners and all Montrealers to take a look at the
+
+picture <,> and see if it might be <,,> somebody <,> that they recognize
+<ICE-CAN:S2B-018#105:4:D> Politics
+<ICE-CAN:S2B-018#106:4:D> Well <,,> would there ever be a day in Quebec where we didn't have
+
+politics I ask you
+<ICE-CAN:S2B-018#107:4:D> But of course of course of course
+<ICE-CAN:S2B-018#108:4:D> And so the politics continue
+<ICE-CAN:S2B-018#109:4:D> Jean Chr&eacute;tien saying that he's sorry that Lucien Bouchard
+
+has cancelled his meeting with the Prime Minister for next week but he hopes
+
+that they can get together soon <,> and that they can talk about working
+
+together to make <,> Canada <,> work
+<ICE-CAN:S2B-018#110:4:D> Not a whole lot of hope of that at the moment mind you
+<ICE-CAN:S2B-018#111:4:D> The census
+<ICE-CAN:S2B-018#112:4:D> This is a census day in Canada
+<ICE-CAN:S2B-018#113:4:D> Everybody in Canada <,,> eleven million housholds involved <,>
+
+supposed to fill out the form <,,> and send it in today to Ottawa
+<ICE-CAN:S2B-018#114:4:D> Uh most people got a short form that only takes a few minutes to
+
+fill out
+<ICE-CAN:S2B-018#115:4:D> Some <,,> got a longer form which takes quite a while to fill out
+
+as my wife and I found out last night
+<ICE-CAN:S2B-018#116:4:D> A lot of questions on that long form which we <,,> were unlucky
+
+enough to get <,> I guess
+<ICE-CAN:S2B-018#117:4:D> Conference Board of Canada <,> says the next twelve months uh the
+
+economy is going to weaken from west to east
+<ICE-CAN:S2B-018#118:4:D> In other words <,> very good in British Columbia not bad in the
+
+west fairly good in Ontario <,> not very good in Quebec and even less <,>
+
+good going east from Quebec with the worst place to be <,> being Newfoundland
+<ICE-CAN:S2B-018#119:4:D> And those <,> refugees <,> who have been on a boat <,,> a
+
+desperate terrible boat <,> about four thousand of them <,> from uh the
+
+Liberian capital finally have been <,> accepted as refugees <,> in Ghana
+<ICE-CAN:S2B-018#120:4:D> Many of them are so terribly sick <,> that they might not even
+
+survive
+<ICE-CAN:S2B-018#121:4:D> C J A D News time is uh twelve oh five
+<ICE-CAN:S2B-018#122:4:D> At ten o'clock this morning the coldest place in the country was
+
+Yellowknife
+<ICE-CAN:S2B-018#123:4:D> Uh it was minus <,> seven
+<ICE-CAN:S2B-018#124:4:D> The warmest was a tie <,> between Winnipeg and Portage La Prarie
+<ICE-CAN:S2B-018#125:4:D> They both had thirteen
+<ICE-CAN:S2B-018#126:4:D> Which is where we are now in downtown Montreal
+<ICE-CAN:S2B-018#127:4:D> But that was uh at ten o'clock our time
+<ICE-CAN:S2B-018#128:4:D> It was raining <,,> unusual eh <,> in Vancouver and Victoria
+<ICE-CAN:S2B-018#129:4:D> Snowing in Fort McMurray and Grande Prarie Alberta
+<ICE-CAN:S2B-018#130:4:D> Snowing also in Peace River
+<ICE-CAN:S2B-018#131:4:D> Raining in Prince Albert Saskatchewan
+<ICE-CAN:S2B-018#132:4:D> And that's it
+<ICE-CAN:S2B-018#133:4:D> Once you got uh east of Prince Albert there was no precipitation
+
+at all </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-018#134:5:A> <}> <-> And the White House </-> <=> you know we've had all
+
+the controversy here about the gay rights amendment </=> </}> well the White
+
+House <,> says ah <quote> President Clinton opposes same-sex marriage and may
+
+sign a bill to outlaw it </quote>
+<ICE-CAN:S2B-018#135:5:A> Uh Press Secretary Mike McCurry <,> says Clinton believes <quote>
+
+this is a time to strengthen the American family </quote>
+<ICE-CAN:S2B-018#136:5:A> The bill would make the definition of marriage as only a legal
+
+union between one man and one woman <,> and he would make that a part of
+
+federal law in the United States
+<ICE-CAN:S2B-018#137:5:A> The word <mention> spouse </mention> would be legally defined <,>
+
+as being a person of the opposite <,> sex <,> only
+<ICE-CAN:S2B-018#138:5:A> Clinton's on record since nineteen ninety-two as opposing same-sex
+
+marriage even as you know there has been a certain amount of pressure uh to
+
+allow it
+<ICE-CAN:S2B-018#139:5:A> Rosanne's final <,,> program of the season is on television
+
+tonight
+<ICE-CAN:S2B-018#140:5:A> Uh but <}> <-> it will </-> <=> it will </=> </}> not be the final
+
+program ever
+<ICE-CAN:S2B-018#141:5:A> <}> <-> It had been scheduled the end of the Rosanne program <,,>
+
+but now she has decided that ah </-> <=> she's a new woman she says and so
+
+next year uh the program will be back </=> </}>
+<ICE-CAN:S2B-018#142:5:A> <}> <-> But apparently it's a </-> <=> because they thought it was
+
+going to be the end of the series altogether it's a real heartstopper </=>
+
+</}>
+<ICE-CAN:S2B-018#143:5:A> You can pardon the expression
+<ICE-CAN:S2B-018#144:5:A> With the whole cast dealing <,> with uh Dan's heart attack on the
+
+Rosanne program
+<ICE-CAN:S2B-018#145:5:A> My medical story
+<ICE-CAN:S2B-018#146:5:A> Scientists are hailing <,> the result of a small trial <,> of an
+
+experimental text for Alzheimer's Disease
+<ICE-CAN:S2B-018#147:5:A> They say the results are accurate so far but hurdles have to be
+
+overcome before the test can go into wide <,> clinical use
+<ICE-CAN:S2B-018#148:5:A> Nevertheless the test <,> seems to have worked out very well
+<ICE-CAN:S2B-018#149:5:A> It uses skin and blood cultures <,> and measures D N A damage <,>
+
+in the body
+<ICE-CAN:S2B-018#150:5:A> It correctly pinpointed all twenty-seven Alzheimer's patient <,>
+
+in an initial study
+<ICE-CAN:S2B-018#151:5:A> Identifying both the early onset kind of Alzheimers and the more
+
+common form that comes later <,> in life
+<ICE-CAN:S2B-018#152:5:A> So far doctors can't do much for patients with Alzheimer's as
+
+probably you know <,> but a correct diagnosis helps rule out other causes of
+
+dementia that can be treated
+<ICE-CAN:S2B-018#153:5:A> So therefore <,> you narrow the danger down
+<ICE-CAN:S2B-018#154:5:A> <}> <-> And uh </-> <=> this is an aw-shucks story if ever there
+
+was one </=> </}>
+<ICE-CAN:S2B-018#155:5:A> A seven year-old girl <,,> in New Mexico <,> has agreed to get
+
+seven <,> painful <,> rabies shots <,,> to save the life of a little bear cub
+
+<,,> that bit her
+<ICE-CAN:S2B-018#156:5:A> The black <,> bear <,> cub <,> bit <@> Margaret <w> Marris' </w>
+
+</@> finger <,> as she was trying to lug it home as a pet not realizing that
+
+was kind of dangerous
+<ICE-CAN:S2B-018#157:5:A> She could have avoided the shots <,,> for rabies <,> but that
+
+would have meant having the bear killed <,> and tested for rabies
+<ICE-CAN:S2B-018#158:5:A> <@> Margaret </@> said no <,> you're not going to kill that bear
+<ICE-CAN:S2B-018#159:5:A> <quote> I'll take the shots </quote>
+<ICE-CAN:S2B-018#160:5:A> Aw-shucks </I>

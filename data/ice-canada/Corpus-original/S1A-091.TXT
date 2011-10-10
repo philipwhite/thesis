@@ -1,0 +1,702 @@
+<I> <O> Speaker Z answers phone and gets Speaker A </O>
+
+<$A> <ICE-CAN:S1A-091#1:1:A> Hello
+
+<$B> <ICE-CAN:S1A-091#2:1:B> Hello
+
+<$A> <ICE-CAN:S1A-091#3:1:A> Hey
+
+<$B> <ICE-CAN:S1A-091#4:1:B> How <}> <-> ya </-> <+> you </+> </}> doing
+
+<$A> <ICE-CAN:S1A-091#5:1:A> Not bad
+
+<$B> <ICE-CAN:S1A-091#6:1:B> Good <O> audible click </O>
+<ICE-CAN:S1A-091#7:1:B> How are your squirrels
+
+<$A> <ICE-CAN:S1A-091#8:1:A> What
+
+<$B> <ICE-CAN:S1A-091#9:1:B> How are your squirrels
+
+<$A> <ICE-CAN:S1A-091#10:1:A> <O> laugh </O> <}> <-> <.> No </.> </-> <+> Not bad </+> </}>
+
+<unclear> two words </unclear> really active this afternoon <,>
+<ICE-CAN:S1A-091#11:1:A> Saw the chipmunk
+
+<$B> <ICE-CAN:S1A-091#12:1:B> Uh huh
+
+<$A> <ICE-CAN:S1A-091#13:1:A> <O> laugh </O> <}> <-> He was uh </-> <=> it was just funny
+
+</=> </}> <}> <-> it was it's </-> <=> well I mean </=> </}> of course it's
+
+normal but it was just like <,> uh the same kind of like it was like <,>
+
+early evening and it's just like <unclear> word </unclear> remembered the
+
+same light <,> that they had the last time I spotted them I just happened to
+
+look out the window and I see two squirrels and the chipmunk that are out <,>
+
+<O> audible intake of breath </O> and they were collecting like the ten
+
+million acorns <{> <[> that are in our </[> backyard
+
+<$B> <ICE-CAN:S1A-091#14:1:B> <[> Ah okay </[> </{>
+
+<$A> <ICE-CAN:S1A-091#15:1:A> So cute
+
+<$B> <ICE-CAN:S1A-091#16:1:B> Huh
+
+<$A> <ICE-CAN:S1A-091#17:1:A> I <}> <-> dunno </-> <+> don't know </+> </}> at one point the
+
+squirrel they spazzed out for like no <.> reas </.> I don't know what
+
+happened one of them like <,> for absolutely no reason <}> <-> <.> s </.>
+
+</-> <+> was </+> </}> like nothing within like a hundred <,> anyway
+
+<$B> <ICE-CAN:S1A-091#18:1:B> <{> <[> There was nothing </[> at all and all of a sudden they
+
+just went nuts
+
+<$A> <ICE-CAN:S1A-091#19:1:A> <[> <unclear> word </unclear> </[> </{>
+<ICE-CAN:S1A-091#20:1:A> <}> <-> The </-> <=> one of them </=> </}> <,> runs on a tree and
+
+he's like you know when they hang upside down <unclear> word </unclear> tree
+
+and he's got his nut in his mouth and he's flicking his tail and he's really
+
+like pissed off at something but I didn't see anything
+
+<$B> <ICE-CAN:S1A-091#21:1:B> <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-091#22:1:A> <}> <-> <.> M </.> </-> <+> I'm </+> </}> like what's wrong
+
+with you
+<ICE-CAN:S1A-091#23:1:A> <unclear> word </unclear> So cute <,>
+<ICE-CAN:S1A-091#24:1:A> Oh it was just so cute <{> <[> watching </[>
+
+<$B> <ICE-CAN:S1A-091#25:1:B> <[> <O> laugh </O> </[> </{> <}> <-> He hurt his <.> mou </.>
+
+</-> <=> he hurt the inside of his </=> </}> mouth on an acorn or something
+
+and <,> <{1> <[1> got really </[1> ticked or
+<ICE-CAN:S1A-091#26:1:B> <{2> <[2> something </[2>
+
+<$A> <ICE-CAN:S1A-091#27:1:A> <[1> I know </[1> </{1>
+
+<$A> <ICE-CAN:S1A-091#28:1:A> <[2> He'd gotten all </[2> </{2> jumpy
+<ICE-CAN:S1A-091#29:1:A> <}> <-> <.> S </.> </-> <+> It's </+> </}> just like he'd been
+
+scared you know cos anyway cos I been watching him I did my ethogram there
+<ICE-CAN:S1A-091#30:1:A> Oh and of course right <,> now that I've done my ethogram <O>
+
+audible breath </O> what do I get to see <,> but I see one squirrel actually
+
+taking the time to kind of rest and self-groom himself
+<ICE-CAN:S1A-091#31:1:A> Anyway
+
+<$B> <ICE-CAN:S1A-091#32:1:B> <}> <-> And s </-> <=> what do you mean </=> </}> well
+
+<$A> <ICE-CAN:S1A-091#33:1:A> Like groom like
+
+<$B> <ICE-CAN:S1A-091#34:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-091#35:1:A> They groom <{> <[> themselves </[>
+
+<$B> <ICE-CAN:S1A-091#36:1:B> <[> Obviously </[> </{> it's self-groom well no it could <{>
+
+<[> be </[>
+
+<$A> <ICE-CAN:S1A-091#37:1:A> <[> No no </[> </{> they can <,> well for example you know
+
+<$B> <ICE-CAN:S1A-091#38:1:B> Like baboons or whatever <{> <[> groom each other </[>
+
+<$A> <ICE-CAN:S1A-091#39:1:A> <[> Yeah <unclear> two words </unclear> baboons </[> </{>
+
+would groom other people
+
+<$B> <ICE-CAN:S1A-091#40:1:B> <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-091#41:1:A> Well
+
+<$B> <ICE-CAN:S1A-091#42:1:B> <{> <[> Just wander up </[> to you and go hey what are you
+
+doing
+
+<$A> <ICE-CAN:S1A-091#43:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-091#44:1:B> It's a baboon behind you just <{> <[> grooming you you know
+
+</[>
+
+<$A> <ICE-CAN:S1A-091#45:1:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-091#46:1:A> Your hair <,> it must do <{> <[> something </[>
+
+<$B> <ICE-CAN:S1A-091#47:1:B> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-091#48:1:B> Get the whole paddy fingers you know on your hair and you're just
+
+like what's going on you know
+<ICE-CAN:S1A-091#49:1:B> <{> <[> Baboons just you know </[>
+
+<$A> <ICE-CAN:S1A-091#50:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-091#51:1:B> Baboon you groom <{> <[> <,> </[> get up there <,> five bucks
+
+an hour
+
+<$A> <ICE-CAN:S1A-091#52:1:A> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#53:1:A> Anyway so he's sitting there <,> and <}> <-> he's like he's
+
+</-> <=> you know I guess he </=> </}> had an itch or two and he starts like
+
+you know licking and scratching parts of his leg <,> which of course would
+
+have been great to include in my ethogram but I hadn't really seen <{1> <[1>
+
+it <}> <-> and I <.> cou </.> </-> </}> </[1> <=> and I couldn't </=> make it
+
+up cos I've never really seen
+<ICE-CAN:S1A-091#54:1:A> <{2> <[2> squirrels </[2>
+
+<$B> <ICE-CAN:S1A-091#55:1:B> <[1> Uh okay </[1> </{1>
+
+<$B> <ICE-CAN:S1A-091#56:1:B> <[2> <O> laugh </O> </[2> </{2>
+<ICE-CAN:S1A-091#57:1:B> <{> <[> Well you know </[> they're kind of a nervous sort so you
+
+<}> <-> coulda </-> <+> could have </+> </}> made some stuff up
+
+<$A> <ICE-CAN:S1A-091#58:1:A> <[> You know <unclear> word </unclear> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#59:1:A> <,,> Well <,> no cos the guy's an animal behaviourist right
+
+and like and they <}> <-> <.> sugge </.> </-> <=> on top of it they really
+
+suggested </=> </}> squirrels
+
+<$B> <ICE-CAN:S1A-091#60:1:B> Okay
+
+<$A> <ICE-CAN:S1A-091#61:1:A> So the guy's <}> <-> had a </-> <=> he probably knows </=>
+
+</}> the squirrel <,> set of behaviours off by heart you know <{1> <[1> he
+
+probably </[1> had to learn it for his degree
+<ICE-CAN:S1A-091#62:1:A> <{2> <[2> or something </[2>
+
+<$B> <ICE-CAN:S1A-091#63:1:B> <[1> Uh okay </[1> </{1>
+
+<$B> <ICE-CAN:S1A-091#64:1:B> <[2> <O> laugh </O> </[2> </{2>
+
+<$A> <ICE-CAN:S1A-091#65:1:A> <unclear> word </unclear> I popped up with this <{> <[> new
+
+</[> new behaviour should be like
+
+<$B> <ICE-CAN:S1A-091#66:1:B> <[> <O> cough </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#67:1:A> Oh that's very interesting I didn't know they could build huts
+
+<}> <-> <.> w </.> </-> <=> tell </=> </}> me more about it and I'd be like
+
+<{> <[> uhh </[>
+
+<$B> <ICE-CAN:S1A-091#68:1:B> <[> They can </[> </{> build <O> laugh starts </O> they can
+
+build huts <,> <O> laugh ends </O> squirrels building like <,> two split
+
+levels in your backyard you know
+
+<$A> <ICE-CAN:S1A-091#69:1:A> <O> laugh </O> ah hang on <unclear> word </unclear> the other
+
+line okay
+
+<$B> <ICE-CAN:S1A-091#70:1:B> <}> <-> Kay </-> <+> Okay </+> </}>
+
+<$A> <ICE-CAN:S1A-091#71:1:A> Hang on a sec <&> Pause while Speaker A answers the other
+
+line, approximately fifteen to twenty seconds. </&>
+
+<$A> <ICE-CAN:S1A-091#72:1:A> Hello
+
+<$B> <ICE-CAN:S1A-091#73:1:B> Hello
+
+<$A> <ICE-CAN:S1A-091#74:1:A> Anyway so I didn't <}> <-> wanna </-> <+> want to </+> </}>
+
+<,> like <}> <-> I <.> c </.> I </-> <=> I </=> </}> did make up <,> well
+
+didn't make up but I recalled some behaviours of my past which I kind of
+
+included but this <}> <-> woulda </-> <+> would have </+> </}> been great you
+
+know
+
+<$A> <ICE-CAN:S1A-091#75:1:A> All I got for grooming <}> <-> I </-> <=> that I </=> </}>
+
+could put in was I saw one like start scratching itself like just <,> had a
+
+spazzy itch there but this guy was like licking himself and <{> <[> all this
+
+</[>
+
+<$B> <ICE-CAN:S1A-091#76:1:B> <[> Hmm </[> </{>
+<ICE-CAN:S1A-091#77:1:B> Grooming
+
+<$A> <ICE-CAN:S1A-091#78:1:A> They seemed <,> and it was also it just they <}> <-> <.> li
+
+</.> </-> <+> like </+> </}> there was one of them <}> <-> <.> th </.> </->
+
+<=> I think he </=> </}> was a male
+
+<$B> <ICE-CAN:S1A-091#79:1:B> Uh huh
+
+<$A> <ICE-CAN:S1A-091#80:1:A> <,> Well <}> <-> I </-> <=> no I </=> </}> make that guess I
+
+didn't see really any teats there but <,> doesn't really <{> <[> matter </[>
+
+<$B> <ICE-CAN:S1A-091#81:1:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#82:1:A> Cos <}> <-> I saw a couple </-> <=> <,> I saw a couple </=>
+
+</}> which I knew were females because they had teats and <,> and obviously
+
+they had been like they had had kids this year or <{> <[> whatever </[>
+
+<$B> <ICE-CAN:S1A-091#83:1:B> <[> <O> Uh okay </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#84:1:A> But this guy didn't seem to have anything but I mean it could
+
+have been like a virgin female but anyway
+<ICE-CAN:S1A-091#85:1:A> <{> <[> He seemed </[> really calm though <,> like unusually calm
+
+<$B> <ICE-CAN:S1A-091#86:1:B> <[> Mhm </[> </{>
+<ICE-CAN:S1A-091#87:1:B> <O> snort </O>
+
+<$A> <ICE-CAN:S1A-091#88:1:A> Like he wasn't you know <}> <-> the way <}> <-> they </-> <=>
+
+they </=> </}> quickly </-> <=> the way they </=> </}> eat their nuts like
+
+they're <{> <[> <unclear> two or three words </unclear> </[> like <}> <-> <.>
+
+thr </.> </-> <=> they're </=> </}> <}> <-> gonna </-> <+> going to </+> </}>
+
+have indigestion like if we eat that fast <,>
+
+<$B> <ICE-CAN:S1A-091#89:1:B> <[> So it's sort of a slow day </[> </{>
+
+<$A> <ICE-CAN:S1A-091#90:1:A> <O> laugh </O>
+<ICE-CAN:S1A-091#91:1:A> But this guy was really taking his time <{> <[> <,> anyway </[> <}>
+
+<-> it was just sort of </-> <=> it was sort of </=> </}> unusual
+
+<$B> <ICE-CAN:S1A-091#92:1:B> <[> Alright </[> </{>
+
+<$A> <ICE-CAN:S1A-091#93:1:A> So cute
+
+<$B> <ICE-CAN:S1A-091#94:1:B> Huh
+
+<$A> <ICE-CAN:S1A-091#95:1:A> So that was it
+<ICE-CAN:S1A-091#96:1:A> And then the chipmunk was his usual <O> audible breath </O> <,> man
+
+that routine eh
+<ICE-CAN:S1A-091#97:1:A> He <}> <-> gets out of his </-> you know <,> <=> pops out of <}>
+
+<-> his </-> <=> uh you know his </=> </}> hole </=> </}>
+
+<$B> <ICE-CAN:S1A-091#98:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-091#99:1:A> Gets up <}> <-> on the </-> <=> on the </=> </}> little lawn
+
+chair that we have there <,> looks around
+<ICE-CAN:S1A-091#100:1:A> He's <O> audible click </O> completely immobile
+<ICE-CAN:S1A-091#101:1:A> Then he runs off <,> grabs the nut never goes too far eh
+
+<$B> <ICE-CAN:S1A-091#102:1:B> Okay
+
+<$A> <ICE-CAN:S1A-091#103:1:A> Couple yards couple <{> <[> meters <unclear> two words
+
+</unclear> </[>
+
+<$B> <ICE-CAN:S1A-091#104:1:B> <[> Well </[> </{> I mean chipmunks don't live in trees <,>
+
+<$A> <ICE-CAN:S1A-091#105:1:A> I don't know
+
+<$B> <ICE-CAN:S1A-091#106:1:B> <}> <-> Don't you </-> <=> I think you </=> </}> have like a
+
+<{> <[> ground dwelling </[> chipmunk or something
+
+<$A> <ICE-CAN:S1A-091#107:1:A> <[> I don't know </[> </{>
+<ICE-CAN:S1A-091#108:1:A> <{> <[> Well </[> I don't know no I got the impression they didn't
+
+live in trees
+
+<$B> <ICE-CAN:S1A-091#109:1:B> <[> <O> cough </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#110:1:A> I thought they'd live on the ground <,>
+<ICE-CAN:S1A-091#111:1:A> But I don't know <,> <}> <-> I </-> <=> I </=> </}> <,> <O> sigh
+
+</O> <&> sigh sounds like 'tfff' </&> I <}> <-> dunno </-> <+> don't know
+
+</+> </}>
+
+<$B> <ICE-CAN:S1A-091#112:1:B> Hm
+
+<$A> <ICE-CAN:S1A-091#113:1:A> Anyway <,> he never goes far from his hole
+
+<$B> <ICE-CAN:S1A-091#114:1:B> Okay
+
+<$A> <ICE-CAN:S1A-091#115:1:A> And he comes running back
+
+<$B> <ICE-CAN:S1A-091#116:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-091#117:1:A> And then uhh real nervous-like cos he pops back into his
+
+thing
+<ICE-CAN:S1A-091#118:1:A> I saw him shove a few nuts like I saw him like <,> he was
+
+definitely putting them in his pouches which was really cute
+
+<$B> <ICE-CAN:S1A-091#119:1:B> Okay
+
+<$A> <ICE-CAN:S1A-091#120:1:A> And they kind of put it in like they're doing something in
+
+their mouth and then suddenly <,> his <,> <}> <-> it </-> <=> it's not </=>
+
+</}> just his cheeks eh <,> it's like his cheek and lower neck <,> <{> <[>
+
+like his whole </[>
+
+<$B> <ICE-CAN:S1A-091#121:1:B> <[> Uh huh </[> </{>
+
+<$A> <ICE-CAN:S1A-091#122:1:A> Anyways it's sort of interesting to imagine how big the pouch
+
+is because he shoves in two good nuts there and then he runs for his den
+
+<$B> <ICE-CAN:S1A-091#123:1:B> <O> laugh </O> <{> <[> The biggest part is </[> getting the
+
+old cheeks through the doorway
+
+<$A> <ICE-CAN:S1A-091#124:1:A> <}> <-> <[> Like you think </[> </{> </->
+<ICE-CAN:S1A-091#125:1:A> <=> Like you think </=> </}> the squirrels are nervous but he's
+
+like a mess
+
+<$B> <ICE-CAN:S1A-091#126:1:B> Oh really <,> <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-091#127:1:A> <[> <O> laugh </O> </[> </{> like the <{> <[> squirrels they
+
+hang </[> out in your backyard
+
+<$B> <ICE-CAN:S1A-091#128:1:B> <[> A mess </[> </{>
+
+<$A> <ICE-CAN:S1A-091#129:1:A> This guy like he just emerges and goes back in and emerges
+
+and goes back in like you know
+
+<$B> <ICE-CAN:S1A-091#130:1:B> Hmm
+<ICE-CAN:S1A-091#131:1:B> <{> <[> <unclear> word </unclear> </[> That cat that cat you have
+
+next door that's you know
+
+<$A> <ICE-CAN:S1A-091#132:1:A> <[> Like he </[> </{>
+<ICE-CAN:S1A-091#133:1:A> <}> <-> That may </-> <=> that might </=> </}> do it <{> <[> <O>
+
+laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-091#134:1:B> <[> <}> <-> The </-> <=> that </=> </}> might be the </[>
+
+</{>
+
+<$A> <ICE-CAN:S1A-091#135:1:A> I thought maybe that was it a cat that'd uh <,,> you know
+
+that had somehow creeped into <}> <-> the uh </-> <=> <,> to the </=> </}>
+
+area but I didn't see anything
+
+<$B> <ICE-CAN:S1A-091#136:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1A-091#137:1:A> <,> <}> <-> <.> S </.> </-> <+> <?> It was </?> </+> </}>
+
+funny
+
+<$B> <ICE-CAN:S1A-091#138:1:B> Hmm
+
+<$A> <ICE-CAN:S1A-091#139:1:A> So that's it <,>
+<ICE-CAN:S1A-091#140:1:A> They're so sweet
+
+<$B> <ICE-CAN:S1A-091#141:1:B> <}> <-> Shoulda </-> <+> Should have </+> </}> had the <}>
+
+<-> one of those </-> <=> we need one of those </=> </}> paint guns <,> chase
+
+cats away with <,> er <,> not chase them away but
+
+<$A> <ICE-CAN:S1A-091#142:1:A> Not paint guns you mean uh Super Soakers
+
+<$B> <ICE-CAN:S1A-091#143:1:B> Hmm <.> d </.> yeah that's true they hate to get wet but a
+
+paint gun would be pretty effective too
+
+<$A> <ICE-CAN:S1A-091#144:1:A> <,> That would kill the cat I think <,> <{> <[> a paint gun
+
+</[>
+
+<$B> <ICE-CAN:S1A-091#145:1:B> <[> <O> Audible intake of breath Aarh </O> </[> </{> well not
+
+something really <.> t </.> not something <{> <[> that's <,> you know </[>
+
+<$A> <ICE-CAN:S1A-091#146:1:A> <[> I think </[> </{> Super Soakers my friend <.> ac </.> <,>
+
+my friend <,> a guy I <.> kn </.> in animal behaviour class we were <}> <->
+
+sposed </-> <+> supposed </+> </}> to get into a group and like we're
+
+supposed to discuss <}> <-> something </-> that <,> <O> audible breath </O>
+
+<=> something </=> </}> important <,>
+
+<$B> <ICE-CAN:S1A-091#147:1:B> <{> <[> Uh huh </[>
+
+<$A> <ICE-CAN:S1A-091#148:1:A> <[> But we </[> </{> didn't understand what it was so we
+
+ended up degenerating on animal <O> laugh starts </O> on animal topics <O>
+
+laugh ends </O> <{> <[> <,> </[>
+
+<$B> <ICE-CAN:S1A-091#149:1:B> <[> <O> snort </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#150:1:A> And when <@> Clark </@> was talking about the time he'd gone
+
+<O> audible intake of breath </O> uh cat bowling <{> <[> and <O> laugh </O>
+
+</[>
+
+<$B> <ICE-CAN:S1A-091#151:1:B> <[> <O> laugh </O> </[> </{> Oh I remember him telling about
+
+that <,>
+<ICE-CAN:S1A-091#152:1:B> <{> <[> <O> long laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-091#153:1:A> <[> And then <unclear> word </unclear> <O> laugh </O> </[>
+
+</{>
+
+<$A> <ICE-CAN:S1A-091#154:1:A> And um <,> oh and then <@> Jonathan </@> this other guy was
+
+like he heard him saying how the best way to train a cat was to get <,> was
+
+to get like a Super Soaker gun
+
+<$B> <ICE-CAN:S1A-091#155:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1A-091#156:1:A> And he says what you do is <,> he says it works for anything
+
+<}> <-> you just </-> <,> <=> you could just </=> </}> decide one day that
+
+there's one square foot of ground that you don't want your cat to stand in
+
+<{> <[> <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-091#157:1:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#158:1:A> For no reason at all
+<ICE-CAN:S1A-091#159:1:A> Cos this is what he did and he put like you can even mark it off
+
+if you want
+<ICE-CAN:S1A-091#160:1:A> There's this one square foot of ground that you just don't want
+
+<.> th </.> and everytime he gets there you squirt him with the uh <,> with
+
+the gun
+<ICE-CAN:S1A-091#161:1:A> And he goes and it works <,> <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-091#162:1:B> <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-091#163:1:A> <[> Then he goes </[> </{> <.> w j </.> well also and then
+
+they were suggesting things like yeah then every time you leave the house you
+
+have to put a cover over that piece of ground so he doesn't you know <,> so
+
+if he steps on it like it was different cos if you stepped on it
+<ICE-CAN:S1A-091#164:1:A> Anyway
+
+<$B> <ICE-CAN:S1A-091#165:1:B> <{> <[> Okay </[>
+
+<$A> <ICE-CAN:S1A-091#166:1:A> <[> <O> audible breath </O> He was just </[> </{> saying it
+
+really worked and then you get this cat that basically will not go near <,>
+
+one square <{> <[> foot of ground </[> for absolutely no reason you know
+
+<$B> <ICE-CAN:S1A-091#167:1:B> <[> <O> long laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#168:1:A> Cos he trained him with his <{> <[> <unclear> two words
+
+</unclear> </[>
+
+<$B> <ICE-CAN:S1A-091#169:1:B> <[> This was done <}> <-> ocourse </-> <+> of course </+>
+
+</}> </[> </{> all in the name of science <,>
+
+<$A> <ICE-CAN:S1A-091#170:1:A> Oh <.> ri </.> of course
+
+<$B> <ICE-CAN:S1A-091#171:1:B> <{> <[> Of course yeah </[>
+
+<$A> <ICE-CAN:S1A-091#172:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-091#173:1:B> Just wasn't because he didn't have anything better to do that
+
+day <{> <[> <.> s </.> </[>
+
+<$A> <ICE-CAN:S1A-091#174:1:A> <[> No </[> </{> <,>
+<ICE-CAN:S1A-091#175:1:A> Anyway
+
+<$B> <ICE-CAN:S1A-091#176:1:B> <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-091#177:1:A> <[> Works </[> </{> great
+
+<$B> <ICE-CAN:S1A-091#178:1:B> Huh
+<ICE-CAN:S1A-091#179:1:B> That's pretty cool <,> <.> s </.> pretty cool
+
+<$A> <ICE-CAN:S1A-091#180:1:A> Cos yeah cos <.> th </.> we were saying because the thing is
+
+you know when you don't want them standing on the table so like
+<ICE-CAN:S1A-091#181:1:A> See <}> <-> they don't </-> you know <=> they don't </=> </}>
+
+realise they're doing anything wrong they're just <{> <[> walking <unclear>
+
+word </unclear> </[>
+
+<$B> <ICE-CAN:S1A-091#182:1:B> <[> They're just cats </[> </{>
+
+<$A> <ICE-CAN:S1A-091#183:1:A> They're walking across your shelf they didn't realize that
+
+porcelain thing was valuable they just walked across it got in its way and
+
+pushed it out <{> <[> you know </[>
+
+<$B> <ICE-CAN:S1A-091#184:1:B> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-091#185:1:A> <O> sniff </O>
+
+<$B> <ICE-CAN:S1A-091#186:1:B> <{> <[> Across your what </[>
+
+<$A> <ICE-CAN:S1A-091#187:1:A> <[> <unclear> word or two </unclear> </[> </{>
+<ICE-CAN:S1A-091#188:1:A> And it pushed it out or pushed it <{> <[> <unclear> word
+
+</unclear> </[>
+
+<$B> <ICE-CAN:S1A-091#189:1:B> <[> No across your what </[> </{>
+
+<$A> <ICE-CAN:S1A-091#190:1:A> <,> Your <mention> shelves </mention> <,> or <{> <[>
+
+something <,> what did I </[> say
+
+<$B> <ICE-CAN:S1A-091#191:1:B> <[> Oh okay </[> </{>
+<ICE-CAN:S1A-091#192:1:B> You said <mention> <?> shehbin </?> </mention> or something <,>
+
+<$A> <ICE-CAN:S1A-091#193:1:A> <,> Oh I meant <mention> shelves </mention> I think
+
+<$B> <ICE-CAN:S1A-091#194:1:B> Okay
+
+<$A> <ICE-CAN:S1A-091#195:1:A> Anyway <,,>
+<ICE-CAN:S1A-091#196:1:A> So that's it
+
+<$B> <ICE-CAN:S1A-091#197:1:B> Cool
+
+<$A> <ICE-CAN:S1A-091#198:1:A> It was kind of funny
+<ICE-CAN:S1A-091#199:1:A> Ah I'm really <}> <-> oh two well I saw </-> <=> I saw </=> </}>
+
+The Simpsons <,> did you see it
+
+<$B> <ICE-CAN:S1A-091#200:1:B> Ohh was on tonight eh no I didn't
+
+<$A> <ICE-CAN:S1A-091#201:1:A> Ah I watched it for you
+
+<$B> <ICE-CAN:S1A-091#202:1:B> Yeah
+<ICE-CAN:S1A-091#203:1:B> Was <{1> <[1> <.> i </.> </[1> new one or an
+<ICE-CAN:S1A-091#204:1:B> <{2> <[2> old one </[2>
+
+<$A> <ICE-CAN:S1A-091#205:1:A> <[1> Uh <.> n </.> </[1> </{1>
+
+<$A> <ICE-CAN:S1A-091#206:1:A> <[2> I think </[2> </{2> it was a new one
+<ICE-CAN:S1A-091#207:1:A> Sideshow Bob gets elected mayor
+
+<$B> <ICE-CAN:S1A-091#208:1:B> <,> Sideshow Bob <{> <[> gets elected </[> mayor
+
+<$A> <ICE-CAN:S1A-091#209:1:A> <[> Yeah <}> <-> he gets out </-> </[> </{> <=> he gets out
+
+</=> </}> of prison and he gets elected mayor
+<ICE-CAN:S1A-091#210:1:A> And then they had this scene <,> from A Few Good Men <,>
+
+<$B> <ICE-CAN:S1A-091#211:1:B> Yeah
+
+<$A> <ICE-CAN:S1A-091#212:1:A> <,> <{> <[> Uhh oh </[>
+
+<$B> <ICE-CAN:S1A-091#213:1:B> <[> Which one </[> </{>
+
+<$A> <ICE-CAN:S1A-091#214:1:A> Because basically okay he gets elected mayor <{> <[> <,> it's
+
+<.> ou </.> Simpsons </[>
+
+<$B> <ICE-CAN:S1A-091#215:1:B> <[> Okay <,> does Homer vote for him </[> </{>
+
+<$A> <ICE-CAN:S1A-091#216:1:A> <,> <O> laugh </O> He got a hundred percent votes <{> <[>
+
+<unclear> two or three words </unclear> </[>
+
+<$B> <ICE-CAN:S1A-091#217:1:B> <[> laugh </[> </{> Really
+
+<$A> <ICE-CAN:S1A-091#218:1:A> And <}> <-> he's like </-> <=> it was like </=> </}> <}> <->
+
+the the </-> <=> the </=> </}> <.> vo </.> votes finally came in it was like
+
+Sideshow Bob one hundred percent and then <}> <-> Qu </-> <=> mayor Quimby
+
+</=> </}> one percent
+<ICE-CAN:S1A-091#219:1:A> And then the guy goes please note there's a one percent error <{>
+
+<[> <O> laugh </O> <unclear> two words </unclear> </[>
+
+<$B> <ICE-CAN:S1A-091#220:1:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-091#221:1:A> So then Lisa suspects <{> <[> that </[>
+
+<$B> <ICE-CAN:S1A-091#222:1:B> <[> You don't </[> </{> scare me <,> that could be anybody's
+
+ass
+
+<$A> <ICE-CAN:S1A-091#223:1:A> <,> What
+
+<$B> <ICE-CAN:S1A-091#224:1:B> That's one time uh <,> uh Chief Wiggum <}> <-> was uh </->
+
+<=> was </=> </}> threatening uh Quimby
+<ICE-CAN:S1A-091#225:1:B> He said hey watch what you say I got pictures of you
+<ICE-CAN:S1A-091#226:1:B> He goes you don't scare me in that like Ted Kennedy type of <{>
+
+<[> voice <,> </[>
+
+<$A> <ICE-CAN:S1A-091#227:1:A> <[> Ohh </[> </{>
+
+<$B> <ICE-CAN:S1A-091#228:1:B> You don't scare me <}> <-> those could be </-> <=> that could
+
+be </=> </}> anybody's ass
+
+<$A> <ICE-CAN:S1A-091#229:1:A> <{> <[> <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-091#230:1:B> <[> So </[> </{> <{> <[> <}> <-> <.> i </.> <.> ws </.> </->
+
+<+> it was </+> </}> pretty funny </[>
+
+<$A> <ICE-CAN:S1A-091#231:1:A> <[> Anyway so </[> </{> he gets elected mayor and then he's
+
+tries to uh <,> well he wants to build <}> <-> a <.> f </.> </-> <=> a
+
+freeway </=> </}> right across the Simpsons' house <,>
+
+<$B> <ICE-CAN:S1A-091#232:1:B> <{> <[> Really </[>
+
+<$A> <ICE-CAN:S1A-091#233:1:A> <[> And they have </[> </{> seventy-two hours to evacuate and
+
+<,> in seventy-two hours if they're not out they blow up the house and <}>
+
+<-> any remaining Barts </-> <=> any remaining Simpsons </=> </}> that are in
+
+there </I>

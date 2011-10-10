@@ -1,0 +1,442 @@
+<I>
+<ICE-CAN:W2A-005#1:1> <h> 1 </h>
+<ICE-CAN:W2A-005#2:1> <h> THE LONG GESTATION: </h>
+<ICE-CAN:W2A-005#3:1> <h> 1837-1937 </h>
+
+<p> <ICE-CAN:W2A-005#4:1> It is well known that mercantilist France did not permit the
+
+setting up of printing presses in its colony, New France, insisting that all
+
+publications of whatever kind be published in Paris.
+<ICE-CAN:W2A-005#5:1> Nevertheless much writing in a variety of genres was inspired by
+
+contacts with Canada and its aboriginal inhabitants, and some of these were
+
+printed soon after completion, while others had to wait for years or even
+
+decades.
+<ICE-CAN:W2A-005#6:1> Among the writings of New France were accounts of their voyages by
+
+Jacques Cartier and Samuel de Champlain, those of explorers Jolliet and
+
+d'Iberville, the annual Jesuit <w> missionaries' </w> reports to their
+
+superiors in the mother country issued under the name <it> Relations </it> (
+
+1632-1672), detailed eth <l> nographic descriptions of Amerindian life by
+
+Sagard and more fanciful ones by LaHontan, the massive correspondence of
+
+Marie de l'Incarnation and that of &Eacute;lisabeth B&eacute;gon, the annals
+
+of the <indig> H&ocircumflex;tel-Dieu de Montr&eacute;al </indig> by Marie
+
+Morin, Pierre Boucher's inven <l> tory of the colony's resources, and
+
+historical accounts by Lescar <l> bot, Dollier de Casson, and Charlevoix.
+<ICE-CAN:W2A-005#7:1> Cartier's texts are believed to have influenced the subsequent
+
+literary production of Rabelais and Montaigne. </p>
+
+<p> <ICE-CAN:W2A-005#8:1> No novels emerged during the French regime.
+<ICE-CAN:W2A-005#9:1> This genre had its beginnings in France as early as the sixteenth
+
+century, yet it would be some three hundred years before it made its
+
+appearance in French Canada.
+<ICE-CAN:W2A-005#10:1> As for <it> reading </it> fiction, the Catholic clergy, whose power
+
+actually increased following the British Conquest, <sp> * </sp> <footnote>
+
+*From the beginning of British rule, the francophones already began to
+
+differentiate themselves from the new rulers by referring to that event as
+
+<it> <indig> la Cession </indig> </it> ( the ceding, or surrender).
+
+</footnote> lost no time in denouncing such <quote> 'dangerous' </quote>
+
+books.
+<ICE-CAN:W2A-005#11:1> As early as 1771, for example, Mgr Briand, Bishop of Quebec, urged
+
+his parishioners to <quote> 'stop reading those impious works that are
+
+spreading through the diocese.' </quote>
+<ICE-CAN:W2A-005#12:1> In the 1840s, Bishop Bourget of Montreal led a campaign against
+
+<quote> 'the reading of immoral novels' </quote> , and in Chauveau's <it>
+
+Charles Gu&eacute;rin </it> ( 1853) there is a reference to an <indig>
+
+auto-da-f&eacute; </indig> that nearly destroyed the entire library of M.
+
+Gu&eacute;rin senior, and may have been based on fact.
+<ICE-CAN:W2A-005#13:1> In the postscript to another novel, published in serial form in 1846,
+
+Patrice Lacombe's <indig> <it> La Terre paternelle </it> </indig> , we read:
+
+<X> <quote> 'Let's leave their blood-soaked novels to the old countries
+
+spoiled by civilization, and paint the child of the land the way he really is ...'
+
+</quote> </X>
+<ICE-CAN:W2A-005#14:1> When Quebec novelists did begin to publish in the nineteenth century,
+
+they would write a preface denouncing their very genre, or disclaim their
+
+work's fictional nature.
+<ICE-CAN:W2A-005#15:1> Antoine G&eacute;rin-Lajoie writes about his <it> Jean Rivard </it> (
+
+1862, 1864): <quote> 'This is not a novel ...' </quote> , and a critic
+
+claimed that this influential work was a <quote> 'faithful sketch of ... a
+
+young Canadian pioneer ...' </quote> Jules-Paul Tardivel, in his futuristic
+
+<it> <indig> Pour la patrie </indig> </it> ( 1895)/ <it> For My Country </it>
+
+, prefaced the book by noting that <quote> 'the modern novel, and especially
+
+the French novel ... seems to be an arm forged by Satan to destroy the human
+
+race.' </quote>
+<ICE-CAN:W2A-005#16:1> R&eacute;jean Beaudoin has said that the call in 1861 by the leading
+
+literary ideologue, <indig> abb&eacute; </indig> Henri-Raymond Casgrain, for
+
+writers to draw on legends as major sources for literary creativity was a
+
+tactic for turning authors away from writing novels: <X> <quote> 'One of the
+
+essential functions of the legend seems to have been to build a dike against
+
+the popularity of the modern novel ... French-Canadian writers were urged to
+
+emulate the simplicity and purity of folk imagery, that direct reflection of
+
+the beauty of traditional folkways.' </quote> </X>
+<ICE-CAN:W2A-005#17:1> In 1866 Casgrain traced the main lines of a national and religious
+
+literature, which, he said, would be <X> <quote> 'chaste and pure like the
+
+virginal mantle of our long winters ...
+<ICE-CAN:W2A-005#X18:1> It will have none of the masks of modern realism, that manifestation
+
+of impious and materialist thought.' </quote> </X> </p>
+
+<p> <ICE-CAN:W2A-005#19:1> These factors explain the slow emergence of the novel form in
+
+Quebec, as well as the fact that the first novelist, the
+
+twenty-three-year-old <bold> Philippe Aubert de Gasp&eacute; </bold> <it>
+
+<indig> fils </indig> </it> ( 1814-41), and his more famous father - who, it
+
+is believed, authored parts of his son's novel, <it> <indig> L'Influence d'un
+
+livre </indig> </it> ( 1837), as well as his own classic, <it> <indig> Les
+
+Anciens Canadiens </indig> </it> ( 1863) - both made ample use of legends in
+
+these two works.
+<ICE-CAN:W2A-005#20:1> In fact, in both the central plot is interrupted by the insertion of
+
+legends and songs drawn from folk traditions.
+<ICE-CAN:W2A-005#21:1> Andr&eacute; Sen&eacute;cal has rightly stressed that from a generic
+
+point of view <it> <indig> L'Influence d'un livre </indig> </it> is nothing
+
+more than the outline of a novel. </p>
+
+<p> <ICE-CAN:W2A-005#22:1> Three narrative elements intertwine in this primitive text: the
+
+story of the search of an impoverished alchemist, Charles Amand, for the
+
+philosopher's stone that will make him rich, inspired by the manual of Albert
+
+le Petit; the murder of the peddler Guillemette by the hideous Lepage; and
+
+the romance between Eug&egrave;ne Saint-C&eacute;ran and Amand's daughter,
+
+Am&eacute;lie, which ends happily when the former graduates as a doctor and
+
+is able to bribe the previously obstinate father to consent to the marriage.
+<ICE-CAN:W2A-005#23:1> The murder, and the story of Amand's search for the elusive formula
+
+for gold, were both based on real people and events in the
+
+Saint-Jean-Port-Joli region south-east of Quebec City. </p>
+
+<p> <ICE-CAN:W2A-005#24:1> According to Andr&eacute; Sen&eacute;cal, this Gothic work
+
+achieves some unity <quote> 'at the level of its moral discourse' </quote> .
+<ICE-CAN:W2A-005#25:1> He sees de Gasp&eacute;, the son of a penurious aristocrat,
+
+reflecting the unease of his social stratum before the growing materialism of
+
+an emergent capitalism, but not without ambiguity.
+<ICE-CAN:W2A-005#26:1> Thus, for Sen&eacute;cal, what ties this loose work together is the
+
+thirst for gold.
+<ICE-CAN:W2A-005#27:1> Indeed, in addition to Amand, who dreams of gilded treasure, there is
+
+Lepage, who kills for a pittance, and the central figure of a folk legend,
+
+Rose Latulipe, who, enticed by luxury, abandons her fianc&eacute; for an
+
+elegant gentleman ( the devil in disguise).
+<ICE-CAN:W2A-005#28:1> According to the misogynist Saint-C&eacute;ran, the author's <it>
+
+alter ego </it> , women, those <quote> 'merchants of emotions' </quote> ,
+
+learn to flaunt their charms <quote> 'before those who have gold ... even if
+
+they are degenerates' </quote> .
+<ICE-CAN:W2A-005#29:1> Yet, having made money himself while seemingly condemning an
+
+acquisitive society, he says of his future father-in-law: <X> <quote> 'He
+
+must be as poor as a churchmouse.
+<ICE-CAN:W2A-005#X30:1> I'll offer him some money and he won't be able to resist' </quote>
+
+</X> , thus preparing the <quote> 'purchase' </quote> of his betrothed. </p>
+
+<p> <ICE-CAN:W2A-005#31:1> Unfortunately the version of <it> <indig> L'Influence d'un livre
+
+</indig> </it> that most Quebec readers would know was that of the <quote> 'edited'
+
+</quote> second edition of 1864, which was revised by Casgrain and reprinted
+
+several times subsequently, with the good <indig> abb&eacute; </indig> ,
+
+holder of the copyright, making a tidy sum, especially from the school market
+
+for which he was responsible.
+<ICE-CAN:W2A-005#32:1> The 1968 edition, the first since 1885, is a facsimile copy of
+
+Casgrain's expurgated text, in which the rather mild erotic references and
+
+the host of quotes of authors who, since the original edition, had incurred
+
+the wrath of the Church, were unceremoniously removed.
+<ICE-CAN:W2A-005#33:1> The title was also changed to give less weight to the alchemist's
+
+manual, and now became <it> <indig> Le Chercheur de tr&eacute;sors ou
+
+L'Influence d'un livre </indig> </it> .
+<ICE-CAN:W2A-005#34:1> ( Andr&eacute; Sen&eacute;cal's edition of 1984 is the first to
+
+reproduce the original text and title.) </p>
+
+<p> <ICE-CAN:W2A-005#35:1> The imitative Gothic form represented the first phase of the
+
+emergence of the novel genre in French Canada.
+<ICE-CAN:W2A-005#36:1> By the mid-1840s it gave way to the <it> <indig> roman de la
+
+fid&eacute;lit&eacute; </indig> </it> , which would be dominant for about a
+
+hundred years.
+<ICE-CAN:W2A-005#37:1> This principal mode imposed on writers the task of inspiring readers
+
+to safeguard the French language, and the customs, traditions, and faith of
+
+the French-Canadian nationality in accordance with the ideological drive for
+
+survival ( <it> <indig> survivance </indig> </it> ) .
+<ICE-CAN:W2A-005#38:1> Its main branch was the <indig> <it> roman du terroir </it> </indig>
+
+- the novel of the land.
+<ICE-CAN:W2A-005#39:1> The other branch, the historical novel, would appear later in the
+
+nineteenth century and also have a long life.
+<ICE-CAN:W2A-005#40:1> Its main thrust, as we shall see, was to turn its gaze backwards to
+
+the <quote> 'glories' </quote> of the French regime. </p>
+
+<p> <ICE-CAN:W2A-005#41:1> The <it> <indig> roman du terroir </indig> </it> was inaugurated
+
+by <it> <indig> La Terre paternelle </indig> </it> ( 1846), a short novel by
+
+<bold> Patrice Lacombe </bold> ( 1807-63), which preached the superior values
+
+of the agricultural vocation over life in the cities and in the lumber camps
+
+or in the fur trade.
+<ICE-CAN:W2A-005#42:1> Chauvin <indig> p&egrave;re </indig> deeds his land to his eldest
+
+son, who mismanages it; he then takes it back, rents it to Anglos, fails in
+
+business, loses his farm and is forced to lead a poverty-stricken existence,
+
+with his son, in Montreal.
+<ICE-CAN:W2A-005#43:1> Salvation comes, however, from a formerly wayward younger son who had
+
+escaped to the <it> <indig> pays <w> d' </w> en haut </indig> </it> ( the
+
+fur-trading areas upstream on the Ottawa River) and now returns with money
+
+enough to buy back the farm, <it> <indig> la terre paternelle </indig> </it> .
+
+</p>
+
+<p> <ICE-CAN:W2A-005#44:1> Both here and in <it> <indig> Charles Gu&eacute;rin: Roman de
+
+moeurs canadiennes </indig> </it> ( 1853), by <bold> P.-J.-O. Chauveau
+
+</bold> ( 1820-90), an inherited patrimony is in danger of falling into the
+
+hands of the <it> <indig> &eacute;trangers </indig> </it> - the <it> <indig>
+
+Anglais </indig> </it> , clearly named in Lacombe's work and referred to in a
+
+veiled way in <it> <indig> Charles Gu&eacute;rin </indig> </it> .
+<ICE-CAN:W2A-005#45:1> It is the story of a family, headed by the widow Gu&eacute;rin, that
+
+nearly loses its property in the St Lawrence valley, owing to the schemes of
+
+Wagna&euml;r, a Protestant from Guernsey, and his ( Balzacian) corrupt
+
+lawyer.
+<ICE-CAN:W2A-005#46:1> Their plot is thwarted by the return of one of the sons, Pierre, from
+
+Europe.
+<ICE-CAN:W2A-005#47:1> He retrieves the heritage ( as in <it> <indig> La Terre paternelle
+
+</indig> </it> ) and creates an agricultural-industrial enterprise to keep
+
+young people from emigrating.
+<ICE-CAN:W2A-005#48:1> Chauveau and Lacombe were the first novelists to transcribe
+
+phonetically many characteristic traits of <indig> Qu&eacute;b&eacute;cois
+
+</indig> popular speech ( unfortunately, regional vocabulary was set off by
+
+italics) and to introduce genre scenes of typical Quebec rural life that
+
+would be imitated in the years to come. </p>
+
+<p> <ICE-CAN:W2A-005#49:1> Like <it> Charles Gu&eacute;rin </it> , the two-volume <it> Jean
+
+Rivard </it> ( 1862, 1864) by <bold> Antoine G&eacute;rin-Lajoie </bold> (
+
+1824-82), aimed to stop the mass exodus of French Canadians to the industrial
+
+towns of New England by urging settlement in as yet uninhabited regions of
+
+Quebec.
+<ICE-CAN:W2A-005#50:1> Similarly to its predecessors but on a much larger scale, this epic
+
+<quote> 'novel' </quote> projected the establishment of networks of
+
+agricultural centres with seasonal, farm-related industries as an antidote to
+
+emigration and to the surplus of the so-called liberal professionals -
+
+priests, doctors, lawyers, and notaries.
+<ICE-CAN:W2A-005#51:1> Like Lacombe and Chauveau, but with much more emphasis,
+
+G&eacute;rin-L&aacute;joie counterpoised the rural and urban milieus,
+
+purporting to contrast the decadence of the city, which offered both
+
+superficial pleasures and profound misery, with the much simpler and
+
+healthier <quote> 'natural' </quote> environment of the countryside. </p>
+
+<p> <ICE-CAN:W2A-005#52:1> G&eacute;rin-Lajoie had already established a considerable
+
+reputation as the author of the song <quote> ' <indig> Un Canadien errant
+
+</indig> ' </quote> , about the exiled <it> Patriotes </it> of 1837, and of
+
+the historical play <it> <indig> Le Jeune Latour </indig> </it> , when his
+
+treatise-like <it> Jean Rivard </it> appeared in serial form for the first
+
+time ( with its statistics, quotes from government reports, and copious
+
+economic, ethnographic, and linguistic notes).
+<ICE-CAN:W2A-005#53:1> This, his one and only work of fiction - whose two volumes are
+
+subtitled <it> <indig> Le D&eacute;fricheur </it> </indig> ( The Pioneer),
+
+and <indig> <it> L'&Eacute;conomiste </it> </indig> ( The Economist) - would
+
+become the most popular novel of the nineteenth century after <it> <indig>
+
+Les Anciens Canadiens </indig> </it> .
+<ICE-CAN:W2A-005#54:1> Reprinted sixteen times up to 1958, it even ran in serial form in the
+
+Paris daily, <it> <indig> Le Monde </indig> </it> , some fifteen years after
+
+its first publication.
+<ICE-CAN:W2A-005#55:1> The work would be called <quote> ' <it> <indig> l' &eacute;vangile
+
+rustique de la race </indig> </it> ' </quote> ( rustic gospel of the race)
+
+because of its preaching of the ideology of <it> <indig> agricul <l> turisme
+
+</indig> </it> , the term coined by historian Michel Brunet for the doctrine
+
+of clerical and lay ideologues who mythified and glorified the forced retreat
+
+into the countryside of French-Canadian society following the Conquest.
+<ICE-CAN:W2A-005#56:1> In epic style, using a military vocabulary ( victory, conquest,
+
+siege, attack), G&eacute;rin-Lajoie tells the story of land-clearing in the
+
+Eastern Townships and the growth of his hero's <quote> ' <it> <indig> petite
+
+r&eacute;publique </indig> </it> ' </quote> , a nearly perfect utopian
+
+micro-society. </p>
+
+<p> <ICE-CAN:W2A-005#57:1> The first volume traces the herculean efforts of Jean Rivard and
+
+his loyal disciple, Pierre Gagnon, to clear the land and establish a foothold
+
+in the former wilderness.
+<ICE-CAN:W2A-005#58:1> The second deals with the development of the colony, its growth in
+
+population and prosperity and the meteoric rise of the hero from simple
+
+pioneer to mayor, justice of the peace, militia major, and a revered member
+
+of the legislature.
+<ICE-CAN:W2A-005#59:1> The colony grows into Rivardville, with its own parish and school
+
+board.
+<ICE-CAN:W2A-005#60:1> The city-country dichotomy is articulated through the correspondence
+
+between Rivard and his longtime friend Gustave Charmenil, who is obliged to
+
+eke out a living as copyist and translator in Montreal, all the while
+
+commenting on the striking contrasts between his dismal life and the heroic
+
+feats of Rivard and his followers.
+<ICE-CAN:W2A-005#61:1> Jean Rivard and the parish priest, Octave Doucet, whose name combines
+
+echoes of classical gran <l> deur with gentleness,are the pillars of the
+
+civil society in Rivardville.
+<ICE-CAN:W2A-005#62:1> They are often found past midnight in the presbytery discussing
+
+theology and philosophy, or planning the future of their community in the
+
+more unlikely location of the <w> Rivards' </w> bedroom where the hero's
+
+wife, the perfect Louise, had long been asleep.
+<ICE-CAN:W2A-005#63:1> Thus G&eacute;rin-Lajoie, a founding member and three-times president
+
+of the radical-liberal-nationalist <indig> Institut canadien de
+
+Montr&eacute;al </indig> - a sort of people's university that was to fight
+
+clerical hegemony for several decades - forsakes his earlier forward-looking
+
+ideas by conforming to the dominant Church-directed vision of the tradi <l>
+
+tional society and succumbs to the strong ideological pressures of his day.
+
+</p> </I>

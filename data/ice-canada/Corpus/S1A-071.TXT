@@ -1,0 +1,597 @@
+<I>
+
+<$A> <ICE-CAN:S1A-071#1:1:A> Well she lives down in Wychwood
+<ICE-CAN:S1A-071#2:1:A> She lives in Aylmer
+
+<$B> <ICE-CAN:S1A-071#3:1:B> <{> <[> Oh </[>
+
+<$A> <ICE-CAN:S1A-071#4:1:A> <[> And they </[> </{> settled there
+<ICE-CAN:S1A-071#5:1:A> <@> Paul </@> or <,> you know the husband is boring and bald and <{>
+
+<[> <,,> wealthy </[> and boring <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-071#6:1:B> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-071#7:1:B> <{> <[> And bald <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-071#8:1:A> <[> <O> laugh </O> Ya ya </[> </{> <{> <[> and he's had two
+
+different </[> companies
+
+<$B> <ICE-CAN:S1A-071#9:1:B> <[> Well that's quite funny </[> </{>
+
+<$A> <ICE-CAN:S1A-071#10:1:A> But <}> <-> she she just </-> <=> she amazes </=> </}> me
+
+because <{> <[> she said </[> to me <,> I was explaining to her that I was
+
+<}> <-> going </-> <=> coming </=> </}> here to have a conversation for an
+
+hour and she said <O> laugh </O> <?> what are you </?> nuts with <@> Violet
+
+</@>
+
+<$B> <ICE-CAN:S1A-071#11:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-071#12:1:A> She said I'll take <@> Violet </@> <{> <[> and I </[> was like
+
+god I wish I called you
+
+<$B> <ICE-CAN:S1A-071#13:1:B> <[> Ya </[> </{>
+<ICE-CAN:S1A-071#14:1:B> Ya
+
+<$A> <ICE-CAN:S1A-071#15:1:A> So <,,>
+
+<$B> <ICE-CAN:S1A-071#16:1:B> Wow <,,>
+<ICE-CAN:S1A-071#17:1:B> Hmm that's funny <,,>
+<ICE-CAN:S1A-071#18:1:B> No I think things are actually <,> plugging along in a very
+
+interesting way
+<ICE-CAN:S1A-071#19:1:B> I think it'll all <,> end up being
+<ICE-CAN:S1A-071#20:1:B> And I've got an appointment to go and see my doctor <,,> on
+
+Wednesday <{> <[> <,,> </[> at eleven thirty
+
+<$A> <ICE-CAN:S1A-071#21:1:A> <[> Ya </[> </{>
+<ICE-CAN:S1A-071#22:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-071#23:1:B> <[> I've </[> </{> just <}> <-> gotta </-> <+> got to </+>
+
+</}> <,> get a vehicle so I can get out there cos he's <{> <[> way out </[>
+
+<$A> <ICE-CAN:S1A-071#24:1:A> <[> Where is he </[> </{>
+
+<$B> <ICE-CAN:S1A-071#25:1:B> Oh he's in Barrhaven practically <,>
+
+<$A> <ICE-CAN:S1A-071#26:1:A> What is that <,> Barrhaven
+
+<$B> <ICE-CAN:S1A-071#27:1:B> It's like Woodroffe and Baseline and <,> <{> <[> far away </[>
+
+<$A> <ICE-CAN:S1A-071#28:1:A> <[> That Barrhaven </[> </{>
+
+<$B> <ICE-CAN:S1A-071#29:1:B> Well no but you know it's in that
+
+<$A> <ICE-CAN:S1A-071#30:1:A> It's towards Orleans
+
+<$B> <ICE-CAN:S1A-071#31:1:B> No no <}> <-> it's </-> <=> it's </=> </}> west
+
+<$A> <ICE-CAN:S1A-071#32:1:A> All my life I've heard about <}> <-> <.> Barr </.> </-> <=>
+
+Barrhaven </=> </}> and I
+
+<$B> <ICE-CAN:S1A-071#33:1:B> Oh it's gross
+<ICE-CAN:S1A-071#34:1:B> No <}> <-> it's uh it's </-> <=> <}> <-> you </-> <=> you </=> </}>
+
+</=> </}> cross Baseline or Knoxdale Road and <}> <-> it's </-> <=> it's </=>
+
+</}> like way out there
+
+<$A> <ICE-CAN:S1A-071#35:1:A> <{> <[> Ohh </[>
+
+<$B> <ICE-CAN:S1A-071#36:1:B> <[> And uh </[> </{> he's been my doctor for twenty years and
+
+I just sort of
+
+<$A> <ICE-CAN:S1A-071#37:1:A> Oh your medical doctor
+
+<$B> <ICE-CAN:S1A-071#38:1:B> Ya
+
+<$A> <ICE-CAN:S1A-071#39:1:A> <{> <[> Ohh </[>
+
+<$B> <ICE-CAN:S1A-071#40:1:B> <[> Because I'm not </[> </{> perpetually ill or a
+
+hypochondriac then <,,> once a year <,> traipsing out there hasn't been a
+
+real issue
+<ICE-CAN:S1A-071#41:1:B> Uhm <,,> but it is in a way <O> laugh </O> cos it's just too damn
+
+far
+
+<$A> <ICE-CAN:S1A-071#42:1:A> It's <{> <[> nice </[> to have a confident doctor
+
+<$B> <ICE-CAN:S1A-071#43:1:B> <[> So </[> </{>
+<ICE-CAN:S1A-071#44:1:B> Well ya
+<ICE-CAN:S1A-071#45:1:B> And so <,> I'm <}> <-> gonna </-> <+> going to </+> </}> go <}> <->
+
+and </-> <=> and </=> </}> talk to him about uhm <,,> I don't know whatever
+
+Prozac or whatever <}> <-> this </-> <=> they </=> </}> want to give me
+<ICE-CAN:S1A-071#46:1:B> <?> Any </?> kind of la-la pills <,,> <{> <[> <unclear> maybe two
+
+words </unclear> </[>
+
+<$A> <ICE-CAN:S1A-071#47:1:A> <[> Do you get a note </[> </{> from <@> Tom </@> for that or
+
+<$B> <ICE-CAN:S1A-071#48:1:B> I don't think so
+
+<$A> <ICE-CAN:S1A-071#49:1:A> Or does he call him or
+
+<$B> <ICE-CAN:S1A-071#50:1:B> Well <}> <-> I'm </-> <=> I </=> </}> don't know
+<ICE-CAN:S1A-071#51:1:B> <}> <-> I'm <}> <-> gonna </-> <+> going to </+> </}> </-> <=> ya
+
+I'm <}> <-> gonna </-> <+> going to </+> </}> </=> </}> give him <@> Tom </@> 's
+
+number and say you know you can confer with him if you want <,> uhm <,,> but
+
+this is the scoop and <}> <-> I'd </-> <=> I </=> </}> think that this could
+
+be beneficial for a short term and <,> you know I think <}> <-> it </-> <=>
+
+it </=> </}> would be fine
+<ICE-CAN:S1A-071#52:1:B> My father thinks it'd be fine
+<ICE-CAN:S1A-071#53:1:B> Everybody I talk to says ya go for it
+<ICE-CAN:S1A-071#54:1:B> Just to sort of break the cycle because this whole depression <,>
+
+that I've been going through it's not a real depression depression <,,>
+<ICE-CAN:S1A-071#55:1:B> Well I mean it is
+<ICE-CAN:S1A-071#56:1:B> It's just this constant <{> <[> <unclear> word </unclear> </[>
+
+<$A> <ICE-CAN:S1A-071#57:1:A> <[> I wouldn't </[> </{> want to see a worse one
+
+<$B> <ICE-CAN:S1A-071#58:1:B> No <,,> I guess not eh
+<ICE-CAN:S1A-071#59:1:B> Uhm ya it's been going on for like four months <{1> <[1> <,,> </[1>
+
+three or four months now <,,>
+<ICE-CAN:S1A-071#60:1:B> <{2> <[2> and </[2>
+
+<$A> <ICE-CAN:S1A-071#61:1:A> <[1> Ya </[1> </{1>
+
+<$A> <ICE-CAN:S1A-071#62:1:A> <[2> It's situation </[2> </{2> caused though
+<ICE-CAN:S1A-071#63:1:A> <}> <-> It's <{> <[> not it's </[> not something that </-> <=> <,>
+
+like if that situation <,,> <}> <-> hadn't've </-> <+> had not have </+> </}>
+
+happened </=> </}> I don't think you would be where you are
+
+<$B> <ICE-CAN:S1A-071#64:1:B> <[> Yes </[> </{>
+<ICE-CAN:S1A-071#65:1:B> No <,,> but
+
+<$A> <ICE-CAN:S1A-071#66:1:A> Which I don't know if that makes a difference or not
+
+<$B> <ICE-CAN:S1A-071#67:1:B> It's situation caused but it's always been under the surface
+<ICE-CAN:S1A-071#68:1:B> It's always there
+<ICE-CAN:S1A-071#69:1:B> It's always under the surface
+<ICE-CAN:S1A-071#70:1:B> It's not like <,> it just happened as a result of one incident and
+
+then it'll go away and I'll be <{> <[> <,,> bright and perky </[>
+
+<$A> <ICE-CAN:S1A-071#71:1:A> <[> No there's a term for that </[> </{>
+<ICE-CAN:S1A-071#72:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-071#73:1:B> <[> Uhm </[> </{> no I've been like this since <,,> I've been
+
+really little
+<ICE-CAN:S1A-071#74:1:B> And it turns out <}> <-> I've found out that when I was five and
+
+they took me </-> <=> <,,> the first time I ever saw a psychiatrist was when
+
+I was five </=> </}> and my parents took me because I was just right out of
+
+control apparently
+<ICE-CAN:S1A-071#75:1:B> <{> <[> I wouldn't <unclear> word </unclear> </[>
+
+<$A> <ICE-CAN:S1A-071#76:1:A> <[> And you didn't know </[> </{> this before
+
+<$B> <ICE-CAN:S1A-071#77:1:B> Ya ya I <{> <[> knew </[>
+
+<$A> <ICE-CAN:S1A-071#78:1:A> <[> Ohh </[> </{>
+
+<$B> <ICE-CAN:S1A-071#79:1:B> Well I knew because <,> I don't know I knew
+<ICE-CAN:S1A-071#80:1:B> But <{> <[> <,,> they put me on </[> some kind of drugs <,,> for
+
+about a month to break the pattern and uhm so it's
+
+<$A> <ICE-CAN:S1A-071#81:1:A> <[> <unclear> word </unclear> remember this </[> </{>
+
+<$B> <ICE-CAN:S1A-071#82:1:B> And this is what <@> Tom </@> said
+<ICE-CAN:S1A-071#83:1:B> He said <}> <-> you should I think </-> <=> I'm looking </=> </}>
+
+at something for you for a few months to help break this pattern <,> uhm or
+
+break <{> <[> out of <@> the </@> pattern </[>
+
+<$A> <ICE-CAN:S1A-071#84:1:A> <[> Well idealistically </[> </{> this is what Prozac is for
+<ICE-CAN:S1A-071#85:1:A> <{> <[> It's not </[> a lifestyle
+
+<$B> <ICE-CAN:S1A-071#86:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-071#87:1:A> <{> <[> I mean people <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-071#88:1:B> <[> <O> laugh </O> Well unless it gets really good </[> </{>
+<ICE-CAN:S1A-071#89:1:B> <{> <[> Who knows </[>
+
+<$A> <ICE-CAN:S1A-071#90:1:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-071#91:1:A> Methadone forever
+
+<$B> <ICE-CAN:S1A-071#92:1:B> <{> <[> Exactly
+<ICE-CAN:S1A-071#93:1:B> <?> We'll </?> just <,> create an entire </[> race of people and
+
+have mood-altering drugs
+
+<$A> <ICE-CAN:S1A-071#94:1:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-071#95:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-071#96:1:B> <[> Well </[> </{> anyway whatever
+<ICE-CAN:S1A-071#97:1:B> So <}> <-> I'm </-> <=> I'm </=> </}> sort of looking forward to
+
+that
+<ICE-CAN:S1A-071#98:1:B> I'm going to go to the group thing <{> <[> <,,> </[> uhm because I
+
+think what he wants to do is have it so that eventually <}> <-> I'm </-> <=>
+
+<,,> you know I'm </=> </}> not going to do the one on one with him
+
+<$A> <ICE-CAN:S1A-071#99:1:A> <[> Oh are you </[> </{>
+
+<$B> <ICE-CAN:S1A-071#100:1:B> Because anytime I've seen him we've done it for maybe six
+
+months or three months or you know and then not done it for a few years and
+
+then come back for a few months and then not done it for a few years
+<ICE-CAN:S1A-071#101:1:B> But this would be like a constant
+<ICE-CAN:S1A-071#102:1:B> And you come and you go <}> <-> and </-> <=> and </=> </}> you use
+
+it to touch base and <,> it <,> might just sort of be <,> a way of monitoring
+
+myself <{> <[> in a way </[> while I <,> learn how to do certain things and
+
+<$A> <ICE-CAN:S1A-071#103:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-071#104:1:B> And I have to do
+<ICE-CAN:S1A-071#105:1:B> Oh and <}> <-> I have </-> <=> <}> <-> <,> he said </-> <=> now
+
+you know <,> he said </=> </}> </=> </}> I don't want you to get into a
+
+relationship <O> laugh </O> for a while
+
+<$A> <ICE-CAN:S1A-071#106:1:A> He said that
+
+<$B> <ICE-CAN:S1A-071#107:1:B> Ya he said this would be a really foolish thing and I said
+
+ugh <}> <-> I am </-> <=> I have </=> </}> no energy <,> for a relationship
+
+<$A> <ICE-CAN:S1A-071#108:1:A> Oh but <{> <[> <}> <-> energy </-> <=> relationships </=>
+
+</}> give </[> you so much energy
+
+<$B> <ICE-CAN:S1A-071#109:1:B> <[> I have no relationships </[> </{>
+<ICE-CAN:S1A-071#110:1:B> Well <{> <[> exactly </[>
+
+<$A> <ICE-CAN:S1A-071#111:1:A> <[> I mean they're so </[> </{> fuelling
+<ICE-CAN:S1A-071#112:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-071#113:1:B> <[> Ya </[> </{> I know <,> but I have no energy
+<ICE-CAN:S1A-071#114:1:B> I have no time
+<ICE-CAN:S1A-071#115:1:B> <}> <-> I just </-> <=> <,,> the last thing </=> </}> I want to do
+
+is even <,>
+<ICE-CAN:S1A-071#116:1:B> I mean <{> <[> <,,> <unclear> word </unclear> </[>
+
+<$A> <ICE-CAN:S1A-071#117:1:A> <[> Well you're a fool </[> </{> if you don't use this period
+
+in your life <,> to really <,,> set up a foundation <{> <[> for the </[> next
+
+<$B> <ICE-CAN:S1A-071#118:1:B> <[> Yup </[> </{>
+<ICE-CAN:S1A-071#119:1:B> And this is like <&> no " a" </&> great opportunity
+<ICE-CAN:S1A-071#120:1:B> You've got <@> Tom </@>
+<ICE-CAN:S1A-071#121:1:B> You've got possibly group
+
+<$B> <ICE-CAN:S1A-071#122:1:B> Yup
+
+<$A> <ICE-CAN:S1A-071#123:1:A> You've got medication <{> <[> <,,> that's there </[>
+
+<$B> <ICE-CAN:S1A-071#124:1:B> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1A-071#125:1:A> I don't know <}> <-> I think </-> <=> <{> <[> <,,> I think
+
+</[> </=> </}> that's a really good chance
+
+<$B> <ICE-CAN:S1A-071#126:1:B> <[> Ya I think it'll be good </[> </{>
+<ICE-CAN:S1A-071#127:1:B> Ya <,,> I do too actually
+<ICE-CAN:S1A-071#128:1:B> I think it's quite positive <,,>
+<ICE-CAN:S1A-071#129:1:B> <}> <-> And then </-> <=> uh and then </=> </}> just sort of move
+
+on from there
+
+<$A> <ICE-CAN:S1A-071#130:1:A> Ya
+
+<$B> <ICE-CAN:S1A-071#131:1:B> But what I have to do also is start thinking about what I'm
+
+going to do
+<ICE-CAN:S1A-071#132:1:B> Because <}> <-> I'm I'm <.> s </.> becoming a little </-> <=> <,,>
+
+I have to do something else </=> </}> <,,> so <,,> <{> <[> that </[>
+
+<$A> <ICE-CAN:S1A-071#133:1:A> <[> Like </[> </{> life-wise activity-wise what
+
+<$B> <ICE-CAN:S1A-071#134:1:B> Career-wise
+
+<$A> <ICE-CAN:S1A-071#135:1:A> Career-wise
+
+<$B> <ICE-CAN:S1A-071#136:1:B> But something that incorporates what I've been doing <}> <->
+
+at the </-> <=> uh at the </=> </}> museum
+
+<$A> <ICE-CAN:S1A-071#137:1:A> Ya <,,>
+
+<$B> <ICE-CAN:S1A-071#138:1:B> Uhm and teaching <}> <-> <.> isn </.> </-> <+> isn't </+>
+
+</}> <}> <-> <.> look </.> </-> <+> looking </+> </}>
+<ICE-CAN:S1A-071#139:1:B> Teaching <?> is all </?>
+<ICE-CAN:S1A-071#140:1:B> It's funny when I was in high school and it was the okay well <,>
+
+<}> <-> <{> <[> now <}> <-> <.> y </.> </-> <+> you </+> </}> </-> <=> <,,>
+
+</[> now you </=> </}>
+
+<$A> <ICE-CAN:S1A-071#141:1:A> <[> Teacher or nurse </[> </{>
+<ICE-CAN:S1A-071#142:1:A>
+<ICE-CAN:S1A-071#143:1:A> Ya teacher or nurse what are you be when you grow up <,>
+<ICE-CAN:S1A-071#144:1:A> Uhm <,,> I wanted to either work in museums <,> or uhh <,> teach
+
+high school visual arts
+
+<$A> <ICE-CAN:S1A-071#145:1:A> Ya
+
+<$B> <ICE-CAN:S1A-071#146:1:B> <}> <-> And get a </-> <=> you know I was <}> <-> gonna </->
+
+<+> going to </+> </}> go </=> </}> and do the B F A and do the whole thing
+<ICE-CAN:S1A-071#147:1:B> And that was originally what I was <}> <-> gonna </-> <+> going to
+
+</+> </}> do until you know all hell broke loose and I didn't go
+<ICE-CAN:S1A-071#148:1:B> So <,,> I'm back at that point again <,> where <}> <-> that's
+
+really </-> <=> those are the things </=> </}> I'd really like to do <,> and
+
+I'm thinking well I'm doing the museum aspect of it <{> <[> </[> which is
+
+incorporating teaching
+
+<$A> <ICE-CAN:S1A-071#149:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1A-071#150:1:B> So <}> <-> maybe it wouldn't be </-> <=> I mean maybe I
+
+should just go and see if I could do <}> <-> a </-> <=> a </=> </}> B Ed </=>
+
+</}>
+<ICE-CAN:S1A-071#151:1:B> And <,> even if I were teaching part-time <,,> or supply teaching
+
+I've already proven that <,> with the type of lifestyle I have doing a whole
+
+bunch of different jobs <,> matters <{> <[> is fine </[>
+
+<$A> <ICE-CAN:S1A-071#152:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-071#153:1:B> Like I could work some shifts at the restaurant I can work at
+
+the <{1> <[1> museum </[1> I could go and supply teach at a school I can you
+
+know hop
+<ICE-CAN:S1A-071#154:1:B> <{2> <[2> around </[2>
+
+<$A> <ICE-CAN:S1A-071#155:1:A> <[1> Ya </[1> </{1>
+
+<$A> <ICE-CAN:S1A-071#156:1:A> <[2> Well </[2> </{2> you're in a nice <{1> <[1> position in
+
+a lot of </[1> different ways
+<ICE-CAN:S1A-071#157:1:A> <{2> <[2> man </[2>
+
+<$B> <ICE-CAN:S1A-071#158:1:B> <[1> So I mean I just </[1> </{1>
+
+<$B> <ICE-CAN:S1A-071#159:1:B> <[2> Well ya </[2> </{2> I have no kids I have no marital
+
+obligation I have no person that I <}> <-> <.> hafta </.> </-> <+> have to
+
+</+> </}> sort of
+
+<$A> <ICE-CAN:S1A-071#160:1:A> No you have to feed yourself and clothe yourself <,,> <{> <[>
+
+<unclear> two words </unclear> and that's </[> it
+
+<$B> <ICE-CAN:S1A-071#161:1:B> <[> Ya essentially <,,> </[> </{> ya
+<ICE-CAN:S1A-071#162:1:B> So I can do whatever I want
+
+<$A> <ICE-CAN:S1A-071#163:1:A> They say that you know yourself in terms of capability and
+
+what you <,> should with your life you know yourself better at fourteen <,>
+
+than any other
+<ICE-CAN:S1A-071#164:1:A> The theory is you announce at some point <,> in your adolescence
+
+what you want to be and it's generally <,> right on the target
+
+<$B> <ICE-CAN:S1A-071#165:1:B> Oh ya you told me this <{> <[> before </[>
+
+<$A> <ICE-CAN:S1A-071#166:1:A> <[> Ya </[> </{>
+<ICE-CAN:S1A-071#167:1:A> And <{> <[> depending on the reaction </[> you get
+
+<$B> <ICE-CAN:S1A-071#168:1:B> <[> I remember you said that </[> </{>
+
+<$A> <ICE-CAN:S1A-071#169:1:A> Cos I'm sure I <{1> <[1> said I don't </[1> know
+<ICE-CAN:S1A-071#170:1:A> <{2> <[2> <}> <-> you </-> <=> rocket scientist </=> </}> </[2>
+<ICE-CAN:S1A-071#171:1:A> <{3> <[3> or whatever and I was told I was a </[3> damn fool
+
+<$B> <ICE-CAN:S1A-071#172:1:B> <[1> That's right </[1> </{1>
+
+<$B> <ICE-CAN:S1A-071#173:1:B> <[2> I <}> <-> wanna </-> <+> want to </+> </}> be a </[2>
+
+</{2>
+
+<$B> <ICE-CAN:S1A-071#174:1:B> <[3> Ya <,> and somebody giggled </[3> </{3>
+<ICE-CAN:S1A-071#175:1:B> Ya
+
+<$A> <ICE-CAN:S1A-071#176:1:A> Ya and apparently even the strength you have when you're an
+
+adolescent you'd say it again and again <}> <-> and </-> <=> and </=> </}>
+
+you'd get whatever reaction but if not one person says okay well <}> <->
+
+let's look </-> <=> let's go </=> </}> meet a <,> <{> <[> rocket scientist
+
+</[> or whatever <,> it gets lost
+
+<$B> <ICE-CAN:S1A-071#177:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-071#178:1:A> And I <,> for the life of me cannot think of what I said but
+
+I'm sure I had something
+
+<$B> <ICE-CAN:S1A-071#179:1:B> Sounds interesting
+
+<$A> <ICE-CAN:S1A-071#180:1:A> And when you just said you know I thought when I was in high
+
+school I would be a teacher <{> <[> <,,> </[> visual arts teacher in high
+
+school
+
+<$B> <ICE-CAN:S1A-071#181:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-071#182:1:B> Mhh hmm
+<ICE-CAN:S1A-071#183:1:B> Ya <,> or <,,> ya <{> <[> probably </[>
+
+<$A> <ICE-CAN:S1A-071#184:1:A> <[> Like <}> <-> what is </[> </{> what </-> <=> what </=>
+
+</}> is that <{1> <[1> <,,> art history or is it actual </[1>
+<ICE-CAN:S1A-071#185:1:A> <{2> <[2> hands on </[2>
+
+<$B> <ICE-CAN:S1A-071#186:1:B> <[1> Oh that's like <,,> art history </[1> </{1>
+
+<$B> <ICE-CAN:S1A-071#187:1:B> <[2> Well ya <}> <-> it's </[2> </{2> </-> <=> it's </=> </}>
+
+studio and art history and photography and history of photography and <}> <->
+
+you know helping </-> <=> you know essentially working </=> </}> with
+
+students to <,> you know get them <}> <-> their </-> <=> well <{> <[> <,,> an
+
+O C </[> </=> </}>
+
+<$A> <ICE-CAN:S1A-071#188:1:A> <[> Did you have a class like that in high school </[> </{>
+
+<$B> <ICE-CAN:S1A-071#189:1:B> Ya when you do your O C As <&> perhaps a reference to the
+
+ONtario College of Art </&> and stuff you're helping them get their portfolio
+
+pulled together if they <}> <-> wanna </-> <+> want to </+> </}> go to art
+
+school <}> <-> or </-> <=> or </=> </}> go into the art field and <}> <-> you
+
+</-> <=> you know they </=> </}> learn about architecture and <,> design and
+
+stuff like that and they you know
+<ICE-CAN:S1A-071#190:1:B> But I had an art teacher that was completely ludicrous
+<ICE-CAN:S1A-071#191:1:B> She was like a <}> <-> <{> <[> right </[> </-> <=> right </=> </}>
+
+loony
+
+<$A> <ICE-CAN:S1A-071#192:1:A> <[> Mhh </[> </{>
+
+<$B> <ICE-CAN:S1A-071#193:1:B> We were doing <,> uh popsicle sculptures in <,> what was
+
+grade thirteen and I was <{> <[> trying to put together a portfolio </[> for
+
+university and I'm going <,> popsicle sculptures what the hell is this
+
+<$A> <ICE-CAN:S1A-071#194:1:A> <[> <?> That must have been quite weird </?> </[> </{>
+
+<$B> <ICE-CAN:S1A-071#195:1:B> We did a lot of crafts <,> and I just thought it was just
+
+really appalling <,> so <,,>
+<ICE-CAN:S1A-071#196:1:B> But <}> <-> I I would </-> <=> I'd really </=> </}> like to <,>
+
+work with that age group
+<ICE-CAN:S1A-071#197:1:B> They're annoying but they're also really really neat
+
+<$A> <ICE-CAN:S1A-071#198:1:A> Ya
+
+<$B> <ICE-CAN:S1A-071#199:1:B> Uhm <,,> really neat
+
+<$A> <ICE-CAN:S1A-071#200:1:A> But you don't want to do anything therapy-wise
+<ICE-CAN:S1A-071#201:1:A> You don't want to do art therapy or <{> <[> <,,> </[> learning
+
+disabled artwork or
+
+<$B> <ICE-CAN:S1A-071#202:1:B> <[> Well I don't know maybe </[> </{>
+
+<$A> <ICE-CAN:S1A-071#203:1:A> Cos that's <{> <[> quite cool </[>
+
+<$B> <ICE-CAN:S1A-071#204:1:B> <[> Painting for </[> </{> the blind <{> <[> <O> laugh </O>
+
+</[>
+
+<$A> <ICE-CAN:S1A-071#205:1:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-071#206:1:A> Blind photography
+
+<$B> <ICE-CAN:S1A-071#207:1:B> Exactly
+<ICE-CAN:S1A-071#208:1:B> I don't know
+<ICE-CAN:S1A-071#209:1:B> No <,> no
+<ICE-CAN:S1A-071#210:1:B> <{> <[> Uhm </[>
+
+<$A> <ICE-CAN:S1A-071#211:1:A> <[> That </[> </{> sounds amazing
+
+<$B> <ICE-CAN:S1A-071#212:1:B> Well maybe
+<ICE-CAN:S1A-071#213:1:B> I mean you never know because <}> <-> things </-> <=> things </=>
+
+</}> lead to another <{> <[> thing and <}> <-> <.> thin </.> </-> <+> things
+
+</+> </}> </[>
+
+<$A> <ICE-CAN:S1A-071#214:1:A> <[> I'm just thinking </[> </{> cos teachers' college
+
+mainstream teachers' college is really <,,> well I don't mean to say anything
+
+negative at all but it's just not that easy to get into <{1> <[1> <,,> </[1>
+
+and if you were to arm yourself with some type of
+<ICE-CAN:S1A-071#215:1:A> <{2> <[2> <,,> counsellor thing whatever but </[2>
+
+<$B> <ICE-CAN:S1A-071#216:1:B> <[1> No I know </[1> </{1>
+
+<$B> <ICE-CAN:S1A-071#217:1:B> <[2> I know
+<ICE-CAN:S1A-071#218:1:B> Well <}> <-> I've got </-> <=> I've </[2> </{2> got </=> </}> <,>
+
+visual arts <}> <-> and </-> <=> and </=> </}> English <,> so <,,> <}> <->
+
+I'd like to </-> <=> uh I'll just have to see </=> </}> what I <{> <[> can do
+
+</[>
+
+<$A> <ICE-CAN:S1A-071#219:1:A> <[> Oh let's </[> </{> go to Ottawa <}> <-> U </-> <+>
+
+University </+> </}> next week then
+
+<$B> <ICE-CAN:S1A-071#220:1:B> Ya
+
+<$A> <ICE-CAN:S1A-071#221:1:A> <{> <[> We'll go one morning </[>
+
+<$B> <ICE-CAN:S1A-071#222:1:B> <[> <unclear> word </unclear> go and find out what </[> </{>
+
+I have to do
+<ICE-CAN:S1A-071#223:1:B> And I may have to do a whole year <,> of upgrading before I can
+
+apply to teachers' college
+
+<$A> <ICE-CAN:S1A-071#224:1:A> And <{> <[> how many </[>
+
+<$B> <ICE-CAN:S1A-071#225:1:B> <[> And who knows </[> </{> <}> <-> I might have to go and
+
+</-> <=> I might have to go to </=> </}> like some teachers' college out in
+
+boonieville </I>

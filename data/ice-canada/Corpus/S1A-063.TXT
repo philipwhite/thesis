@@ -1,0 +1,764 @@
+<I>
+
+<$A> <ICE-CAN:S1A-063#1:1:A> You know <}> <-> it <}> <-> <.> w </.> </-> <+> was </+> </}>
+
+</-> <=> <{> <[> it's just </=> </}> not the same </[>
+
+<$B> <ICE-CAN:S1A-063#2:1:B> <[> I don't blame him </[> </{>
+<ICE-CAN:S1A-063#3:1:B> I think it was very nice of him to take her in the first place
+
+<$A> <ICE-CAN:S1A-063#4:1:A> Oh ya I <{> <[> think so too </[>
+
+<$B> <ICE-CAN:S1A-063#5:1:B> <[> <@> Freddy </@> wouldn't </[> </{> want to take my mother
+
+<$A> <ICE-CAN:S1A-063#6:1:A> No no
+<ICE-CAN:S1A-063#7:1:A> Well I mean we had never done ths before and I thought well you know
+
+we could <{> <[> try and see what it would be like </[>
+
+<$B> <ICE-CAN:S1A-063#8:1:B> <[> Well yes <,> you tried </[> </{>
+
+<$A> <ICE-CAN:S1A-063#9:1:A> <{> <[> You know <,> and <}> <-> why </-> <=> why </=> </}>
+
+couldn't </[>
+
+<$B> <ICE-CAN:S1A-063#10:1:B> <[> I brought you a cookie </[> </{>
+
+<$A> <ICE-CAN:S1A-063#11:1:A> Oh thank you
+<ICE-CAN:S1A-063#12:1:A> And you think why can't everybody enjoy themselves but somehow you
+
+know <,> <{1> <[1> the good dynamic </[1> is not
+<ICE-CAN:S1A-063#13:1:A> <{2> <[2> there <,> somehow </[2>
+
+<$B> <ICE-CAN:S1A-063#14:1:B> <[1> <}> <-> It </-> <=> it </=> </}> doesn't </[1> </{1>
+
+<$B> <ICE-CAN:S1A-063#15:1:B> <}> <-> <[2> That </-> <=> <,,> </[2> </{2> <{> <[> that must
+
+be it </=> </}> </[>
+
+<$A> <ICE-CAN:S1A-063#16:1:A> <[> <,,> Somehow </[> </{>
+
+<$B> <ICE-CAN:S1A-063#17:1:B> It doesn't work
+<ICE-CAN:S1A-063#18:1:B> Oh by the way talking about going
+<ICE-CAN:S1A-063#19:1:B> Guess where I'm going this weekend
+
+<$A> <ICE-CAN:S1A-063#20:1:A> Where
+
+<$B> <ICE-CAN:S1A-063#21:1:B> You'll never guess <,> so I'll have to tell you
+
+<$A> <ICE-CAN:S1A-063#22:1:A> Ya
+
+<$B> <ICE-CAN:S1A-063#23:1:B> Reno
+
+<$A> <ICE-CAN:S1A-063#24:1:A> You're kidding
+<ICE-CAN:S1A-063#25:1:A> Wow
+<ICE-CAN:S1A-063#26:1:A> <}> <-> With </-> <=> with </=> </}> <@> Freddy </@>
+<ICE-CAN:S1A-063#27:1:A> <{> <[> The two of you </[>
+
+<$B> <ICE-CAN:S1A-063#28:1:B> <}> <-> <[> His brother </-> <=> <,,> </[> </{> his brother's
+
+</=> </}> son <{1> <[1> <,,> my </[1> nephew
+<ICE-CAN:S1A-063#29:1:B> <{2> <[2> <,> is </[2> getting married
+
+<$A> <ICE-CAN:S1A-063#30:1:A> <[1> Uh huh </[1> </{1>
+
+<$A> <ICE-CAN:S1A-063#31:1:A> <[2> Ya </[2> </{2>
+
+<$B> <ICE-CAN:S1A-063#32:1:B> Now he moved to San Fransisco
+<ICE-CAN:S1A-063#33:1:B> He went to Law School in San Fransisco
+
+<$A> <ICE-CAN:S1A-063#34:1:A> <{> <[> Uh huh </[>
+
+<$B> <ICE-CAN:S1A-063#35:1:B> <[> You know he </[> </{> couldn't get into any other Law
+
+School except <,> that one
+
+<$A> <ICE-CAN:S1A-063#36:1:A> Is that right
+
+<$B> <ICE-CAN:S1A-063#37:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-063#38:1:A> Wow <}> <-> it </-> <=> pretty </=> </}> nice Law School
+<ICE-CAN:S1A-063#39:1:A> San Fransisco's a gorgeous city <{> <[> huh </[>
+
+<$B> <ICE-CAN:S1A-063#40:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-063#41:1:A> Hmm
+
+<$B> <ICE-CAN:S1A-063#42:1:B> But nevertheless that's why he ended up <,> in San Fransisco
+
+<$A> <ICE-CAN:S1A-063#43:1:A> Right
+
+<$B> <ICE-CAN:S1A-063#44:1:B> And he met this girl <,,> <{> <[> and <?> a year ago </?> </[>
+
+they decided to get married
+
+<$A> <ICE-CAN:S1A-063#45:1:A> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-063#46:1:A> In Reno
+
+<$B> <ICE-CAN:S1A-063#47:1:B> Well her <,> parents
+<ICE-CAN:S1A-063#48:1:B> She's from Reno
+
+<$A> <ICE-CAN:S1A-063#49:1:A> Oh <{> <[> she's from Reno </[>
+
+<$B> <ICE-CAN:S1A-063#50:1:B> <[> You know I guess </[> </{>
+<ICE-CAN:S1A-063#51:1:B> From Reno
+<ICE-CAN:S1A-063#52:1:B> I guess they were there
+<ICE-CAN:S1A-063#53:1:B> Isn't that amazing
+<ICE-CAN:S1A-063#54:1:B> So <,> <@> Freddy </@> said I think we should go to the wedding
+<ICE-CAN:S1A-063#55:1:B> I said what
+<ICE-CAN:S1A-063#56:1:B> Are you nuts
+<ICE-CAN:S1A-063#57:1:B> We're going for the weekend
+<ICE-CAN:S1A-063#58:1:B> <{> <[> It's <}> <-> gonna </-> <+> going to </+> </}> to cost us a
+
+</[> fortune
+
+<$A> <ICE-CAN:S1A-063#59:1:A> <[> Mhh </[> </{>
+
+<$B> <ICE-CAN:S1A-063#60:1:B> I said I don't think it's <O> laugh </O> such a good idea <,>
+<ICE-CAN:S1A-063#61:1:B> But <,> he says he only had one brother
+
+<$A> <ICE-CAN:S1A-063#62:1:A> Mhh hmm
+
+<$B> <ICE-CAN:S1A-063#63:1:B> Da da da da da
+<ICE-CAN:S1A-063#64:1:B> <?> Think </?>
+
+<$A> <ICE-CAN:S1A-063#65:1:A> Oh well <,> <{> <[> why not </[>
+
+<$B> <ICE-CAN:S1A-063#66:1:B> <[> So <,,> </[> </{> if you <}> <-> wanna </-> <+> want to
+
+</+> </}> give me a dollar to put in the slot machine for you
+<ICE-CAN:S1A-063#67:1:B> Everyone says <?> will you </?> <{> <[> <unclear> word </unclear>
+
+</[>
+
+<$A> <ICE-CAN:S1A-063#68:1:A> <[> Now's </[> </{> the <{> <[> time </[>
+
+<$B> <ICE-CAN:S1A-063#69:1:B> <[> But </[> </{>
+
+<$A> <ICE-CAN:S1A-063#70:1:A> Put my name on it
+
+<$B> <ICE-CAN:S1A-063#71:1:B> But
+<ICE-CAN:S1A-063#72:1:B> Right
+
+<$A> <ICE-CAN:S1A-063#73:1:A> <{> <[> <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-063#74:1:B> <[> But don't give it to </[> </{> me cos <}> <-> I'll </->
+
+<=> I </=> </}> already lost a dollar today
+<ICE-CAN:S1A-063#75:1:B> I bet with <@> Freddy </@> this morning that O J Simpson would be
+
+found guilty <,,>
+
+<$A> <ICE-CAN:S1A-063#76:1:A> I haven't heard yet
+
+<$B> <ICE-CAN:S1A-063#77:1:B> He's innocent
+<ICE-CAN:S1A-063#78:1:B> They <{> <[> found him innocent </[>
+
+<$A> <ICE-CAN:S1A-063#79:1:A> <[> <}> <-> They </-> <=> they </=> </}> acquitted him </[>
+
+</{>
+
+<$B> <ICE-CAN:S1A-063#80:1:B> They acquitted him
+<ICE-CAN:S1A-063#81:1:B> And <@> Freddy </@> said no he's <}> <-> gonna </-> <+> going to
+
+</+> </}> be innocent
+<ICE-CAN:S1A-063#82:1:B> I said no way
+<ICE-CAN:S1A-063#83:1:B> I bet a dollar
+<ICE-CAN:S1A-063#84:1:B> I already lost a dollar
+
+<$A> <ICE-CAN:S1A-063#85:1:A> Uh <O> laugh </O>
+<ICE-CAN:S1A-063#86:1:A> Uh huh
+
+<$B> <ICE-CAN:S1A-063#87:1:B> He's innocent
+
+<$A> <ICE-CAN:S1A-063#88:1:A> So <,> he's being let go then
+<ICE-CAN:S1A-063#89:1:A> Absolutely
+
+<$B> <ICE-CAN:S1A-063#90:1:B> I didn't hear the radio <O> conversation references taping, 5
+
+seconds </O>
+
+<$B> <ICE-CAN:S1A-063#91:1:B> I didn't hear the radio but <,> when I was at school <{> <[>
+
+<,,> </[> someone came into my classroom guess what <,,> innocent <,,> on
+
+both <,> counts or whatever
+
+<$A> <ICE-CAN:S1A-063#92:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-063#93:1:B> Whatever that means
+<ICE-CAN:S1A-063#94:1:B> I don't know what the counts were <,,>
+
+<$A> <ICE-CAN:S1A-063#95:1:A> Well I guess because <}> <-> he </-> <=> he </=> </}>
+
+supposedly killed two <{> <[> people </[>
+
+<$B> <ICE-CAN:S1A-063#96:1:B> <[> Mhh </[> </{> <,,>
+
+<$A> <ICE-CAN:S1A-063#97:1:A> Wow
+
+<$B> <ICE-CAN:S1A-063#98:1:B> You know a lot of people thought he was innocent
+
+<$A> <ICE-CAN:S1A-063#99:1:A> <{> <[> That's what I kept </[> <,,> hearing
+
+<$B> <ICE-CAN:S1A-063#100:1:B> <[> I was surprised </[> </{>
+<ICE-CAN:S1A-063#101:1:B> <}> <-> My </-> <=> my </=> </}> friends thought he was guilty
+
+<{1> <[1> <,,> </[1> but my students I was speaking to them today <}> <->
+<ICE-CAN:S1A-063#102:1:B> <{2> <[2> thought I </[2> don't think he's </-> <=> they don't
+
+think he's guilty </=> </}>
+
+<$A> <ICE-CAN:S1A-063#103:1:A> <[1> Ya </[1> </{1>
+
+<$A> <ICE-CAN:S1A-063#104:1:A> <[2> Mhh hmm </[2> </{2>
+
+<$B> <ICE-CAN:S1A-063#105:1:B> And I had one student said <?> I mean </?> <}> <-> maybe </->
+
+<=> maybe </=> </}> he's a little guilty
+<ICE-CAN:S1A-063#106:1:B> How could you be a little guilty
+
+<$A> <ICE-CAN:S1A-063#107:1:A> Ya <,,>
+
+<$B> <ICE-CAN:S1A-063#108:1:B> Well he made a mistake
+
+<$A> <ICE-CAN:S1A-063#109:1:A> I said <,> <{> <[> it's not a mistake </[>
+
+<$A> <ICE-CAN:S1A-063#110:1:A> <[> What kind of mistake </[> </{> <,,>
+
+<$B> <ICE-CAN:S1A-063#111:1:B> People just don't <,> <.> s </.> they don't <{> <[> get it
+
+</[>
+
+<$A> <ICE-CAN:S1A-063#112:1:A> <[> No </[> </{>
+
+<$B> <ICE-CAN:S1A-063#113:1:B> They don't get it
+<ICE-CAN:S1A-063#114:1:B> They think he's less guilty <{> <[> <,,> </[> because ah of who he
+
+is
+
+<$A> <ICE-CAN:S1A-063#115:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-063#116:1:B> I think that's a kind of a mentality thing
+
+<$A> <ICE-CAN:S1A-063#117:1:A> Ya because he's a big <}> <-> <.> s </.> </-> <+> star </+>
+
+</}> hero and star and
+
+<$B> <ICE-CAN:S1A-063#118:1:B> Boggles the mind
+
+<$A> <ICE-CAN:S1A-063#119:1:A> But I was thinking that he was guilty <{1> <[1> because </[1>
+
+<}> <-> of uh </-> <=>
+<ICE-CAN:S1A-063#120:1:A> <{2> <[2> you know </[2> of </=> </}> things that he was doing
+
+before
+
+<$B> <ICE-CAN:S1A-063#121:1:B> <[1> Mhh hmm </[1> </{1>
+
+<$B> <ICE-CAN:S1A-063#122:1:B> <[2> Mhh hmm </[2> </{2>
+
+<$B> <ICE-CAN:S1A-063#123:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-063#124:1:A> The things they said
+<ICE-CAN:S1A-063#125:1:A> > That he had been <,> abusive and he'd been stalking his <{> <[>
+
+ex-wife afterwards </[> and
+
+<$B> <ICE-CAN:S1A-063#126:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-063#127:1:B> <{> <[> I think he's guilty </[>
+
+<$A> <ICE-CAN:S1A-063#128:1:A> <[> Well <,,> </[> </{> <}> <-> that </-> <=> that </=> </}>
+
+made me <,> feel that he was guilty
+
+<$B> <ICE-CAN:S1A-063#129:1:B> Yup
+
+<$A> <ICE-CAN:S1A-063#130:1:A> And then also the way he reacted when the police chased him
+<ICE-CAN:S1A-063#131:1:A> <{1> <[1> Remember </[1> when he
+<ICE-CAN:S1A-063#132:1:A> <{2> <[2> was in </[2> his Bronco
+
+<$B> <ICE-CAN:S1A-063#133:1:B> <[1> Mhh hmm </[1> </{1>
+
+<$B> <ICE-CAN:S1A-063#134:1:B> <[2> Mhh hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1A-063#135:1:A> <{> <[> I mean </[> <}> <-> if </-> <=> <,> if </=> </}> he
+
+wasn't guilty why would he be <,> taking off like that
+
+<$B> <ICE-CAN:S1A-063#136:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-063#137:1:B> Mhh hmm <,,>
+
+<$A> <ICE-CAN:S1A-063#138:1:A> And it seemed like there was blood <{> <[> everywhere </[>
+
+<$B> <ICE-CAN:S1A-063#139:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-063#140:1:A> Even at his house <,,>
+<ICE-CAN:S1A-063#141:1:A> You know <{> <[> <?> it's like </?> </[>
+
+<$B> <ICE-CAN:S1A-063#142:1:B> <[> <unclear> word </unclear> <O> cough </O> </[> </{> <}>
+
+<-> and </-> <=> and </=> </}> if he didn't kill her <,> then who did
+
+<$A> <ICE-CAN:S1A-063#143:1:A> Ya and what's the motive
+
+<$B> <ICE-CAN:S1A-063#144:1:B> What's the motive
+
+<$A> <ICE-CAN:S1A-063#145:1:A> I mean <,,> it's amazing
+
+<$B> <ICE-CAN:S1A-063#146:1:B> Mhh hmm <,,>
+
+<$A> <ICE-CAN:S1A-063#147:1:A> It's just like <{1> <[1> uhm <,> </[1> there was this article
+
+in Time Magazine not that long ago and saying how <,> anybody who is not rich
+
+and
+<ICE-CAN:S1A-063#148:1:A> <{2> <[2> famous </[2> you know they would be locked up like
+
+nothing
+
+<$B> <ICE-CAN:S1A-063#149:1:B> <[1> <?> famous </?> </[1> </{1>
+
+<$B> <ICE-CAN:S1A-063#150:1:B> <[2> Mhh hmm </[2> </{2>
+
+<$B> <ICE-CAN:S1A-063#151:1:B> Ages ago
+
+<$A> <ICE-CAN:S1A-063#152:1:A> And the money <,,>
+<ICE-CAN:S1A-063#153:1:A> You know that's really what determines <,> whether <{> <[> you're
+
+going to be found <,,> guilty or innocent and it just proves it </[>
+
+<$B> <ICE-CAN:S1A-063#154:1:B> <[> Ya and this is a definite case that just proves it </[>
+
+</{>
+
+<$A> <ICE-CAN:S1A-063#155:1:A> Just proves it
+
+<$B> <ICE-CAN:S1A-063#156:1:B> Mhh hmm <,,>
+
+<$A> <ICE-CAN:S1A-063#157:1:A> Wow
+<ICE-CAN:S1A-063#158:1:A> Hmm
+
+<$B> <ICE-CAN:S1A-063#159:1:B> Isn't that something
+
+<$A> <ICE-CAN:S1A-063#160:1:A> Ya
+
+<$B> <ICE-CAN:S1A-063#161:1:B> And <}> <-> that </-> <=> I had </=> </}> <}> <-> a <}> <->
+
+<.> stu </.> </-> <+> student </+> </}> </-> <=> another student </=> </}>
+
+that we were talking about it today <{1> <[1> <,,> </[1> who said you know
+
+they read all these books all these trashy books
+<ICE-CAN:S1A-063#162:1:B> <{2> <[2> <,,> </[2> and she said that <,,> uhm <,,> I didn't know
+
+about it Nicole Simpson or whatever <}> <->
+<ICE-CAN:S1A-063#163:1:B> <{3> <[3> was </[3> </-> <=> <,,> had </=> </}> a friend who was
+
+into drugs <,,> and uhm <}> <-> them </-> <=> it's the mafia </=> </}> that
+
+probably killed her <,,>
+
+<$A> <ICE-CAN:S1A-063#164:1:A> <[1> Mhh hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1A-063#165:1:A> <[2> Mhh hmm </[2> </{2>
+
+<$AB> <ICE-CAN:S1A-063#166:1:A> <[3> Mhh hmm </[3> </{3>
+
+<$B> <ICE-CAN:S1A-063#167:1:B> I never heard of that
+<ICE-CAN:S1A-063#168:1:B> So they got it all figured out
+
+<$A> <ICE-CAN:S1A-063#169:1:A> Huh
+
+<$B> <ICE-CAN:S1A-063#170:1:B> <}> <-> And </-> <=> and </=> </}> Goldman just happened to
+
+be there
+
+<$A> <ICE-CAN:S1A-063#171:1:A> Oh ya
+
+<$B> <ICE-CAN:S1A-063#172:1:B> There's a new tactic for you
+
+<$A> <ICE-CAN:S1A-063#173:1:A> Well that's ya
+
+<$B> <ICE-CAN:S1A-063#174:1:B> Well
+
+<$A> <ICE-CAN:S1A-063#175:1:A> I don't know
+
+<$B> <ICE-CAN:S1A-063#176:1:B> Neither
+<ICE-CAN:S1A-063#177:1:B> Meanwhile I think that <,,> 's terrible
+
+<$A> <ICE-CAN:S1A-063#178:1:A> Oh <,,> it is
+
+<$B> <ICE-CAN:S1A-063#179:1:B> Mhh
+
+<$A> <ICE-CAN:S1A-063#180:1:A> It's amazing
+<ICE-CAN:S1A-063#181:1:A> Hmm
+
+<$B> <ICE-CAN:S1A-063#182:1:B> He's going to be laughing all the way to the bank
+
+<$A> <ICE-CAN:S1A-063#183:1:A> Ya <}> <-> I </-> <=> with </=> </}> <}> <-> this </-> <=>
+
+this </=> </}> book that he brought out
+
+<$B> <ICE-CAN:S1A-063#184:1:B> Did he
+<ICE-CAN:S1A-063#185:1:B> <{> <[> I didn't know <,> <unclear> word </unclear> </[>
+
+<$A> <ICE-CAN:S1A-063#186:1:A> <[> Yes there's a book he wrote </[> </{> <{> <[> while he's
+
+</[> been in prison
+
+<$B> <ICE-CAN:S1A-063#187:1:B> <[> Wow </[> </{>
+<ICE-CAN:S1A-063#188:1:B> Well there you go
+
+<$A> <ICE-CAN:S1A-063#189:1:A> It's called something like I Want To Tell You
+
+<$B> <ICE-CAN:S1A-063#190:1:B> Oh really
+
+<$A> <ICE-CAN:S1A-063#191:1:A> Uh huh
+
+<$B> <ICE-CAN:S1A-063#192:1:B> I was waiting for something to come out <{> <[> <unclear>
+
+maybe three words </unclear> </[>
+
+<$A> <ICE-CAN:S1A-063#193:1:A> <[> And I heard something </[> </{> else on T V the other day
+<ICE-CAN:S1A-063#194:1:A> What was it <,,>
+<ICE-CAN:S1A-063#195:1:A> That he has all of this stuff just ready <,> uh to <{> <[> sell
+
+<,,> </[> uh for after his acquittal
+
+<$B> <ICE-CAN:S1A-063#196:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-063#197:1:B> Really
+
+<$A> <ICE-CAN:S1A-063#198:1:A> Ya you know like t-shirts and you know all sorts of little
+
+knick-knacky <}> <-> kinda </-> <+> kind of </+> </}> things that people will
+
+buy and collect and
+
+<$B> <ICE-CAN:S1A-063#199:1:B> Even though <,,> it cost him all this money <,> for the
+
+lawyers <{> <[> <,,> </[> I mean
+
+<$A> <ICE-CAN:S1A-063#200:1:A> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-063#201:1:A> Well he'll make it all back again <,,>
+<ICE-CAN:S1A-063#202:1:A> Interviews on T V afterwards
+
+<$B> <ICE-CAN:S1A-063#203:1:B> Uh <,> for sure <,,>
+
+<$A> <ICE-CAN:S1A-063#204:1:A> Mhh hmm
+
+<$B> <ICE-CAN:S1A-063#205:1:B> Well <,,> it doesn't pay to be good
+
+<$A> <ICE-CAN:S1A-063#206:1:A> <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-063#207:1:B> There you go <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-063#208:1:A> <[> There you go </[> </{> <{> <[> there you go </[>
+
+<$B> <ICE-CAN:S1A-063#209:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-063#210:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-063#211:1:A> Mhh <,> I don't know
+
+<$B> <ICE-CAN:S1A-063#212:1:B> So what else is new <@> Mary </@>
+<ICE-CAN:S1A-063#213:1:B> What else <}> <-> are </-> <=> have </=> </}> you been doing
+
+<$A> <ICE-CAN:S1A-063#214:1:A> What else is new
+<ICE-CAN:S1A-063#215:1:A> Let's see <,,>
+
+<$B> <ICE-CAN:S1A-063#216:1:B> But it keeps you <{1> <[1> pretty </[1> busy doing all this
+<ICE-CAN:S1A-063#217:1:B> <{2> <[2> school stuff eh </[2>
+
+<$A> <ICE-CAN:S1A-063#218:1:A> <[1> Uhm </[1> </{1>
+
+<$A> <ICE-CAN:S1A-063#219:1:A> <[2> Well ya school </[2> </{2> has been really really busy
+
+<$A> <ICE-CAN:S1A-063#220:1:A> I haven't been doing much else out
+
+<$B> <ICE-CAN:S1A-063#221:1:B> <{> <[> I find </[>
+
+<$A> <ICE-CAN:S1A-063#222:1:A> <[> Actually I'm </[> </{> <,> hoping that this weekend <}>
+
+<-> will </-> <=> will </=> </}> be a free <{1> <[1> weekend just to </[1> do
+<ICE-CAN:S1A-063#223:1:A> <{2> <[2> <,,> something different </[2>
+
+<$B> <ICE-CAN:S1A-063#224:1:B> <[1> Ya <?> I heard </?> </[1> </{1>
+
+<$B> <ICE-CAN:S1A-063#225:1:B> <[2> In between projects and stuff </[2> </{2>
+
+<$A> <ICE-CAN:S1A-063#226:1:A> Ya
+
+<$B> <ICE-CAN:S1A-063#227:1:B> No I find when you have a <unclear> words </unclear>
+
+sometimes you take many more courses than I do <,,>
+
+<$A> <ICE-CAN:S1A-063#228:1:A> Ya
+
+<$B> <ICE-CAN:S1A-063#229:1:B> You know so if it's not one course that has something it's
+
+another
+
+<$A> <ICE-CAN:S1A-063#230:1:A> Right
+
+<$B> <ICE-CAN:S1A-063#231:1:B> And they give you so many things that
+<ICE-CAN:S1A-063#232:1:B> I find it <{> <[> really takes </[> up <?> all </?> of your time
+
+<$A> <ICE-CAN:S1A-063#233:1:A> <[> Mhh hmm </[> </{> >
+<ICE-CAN:S1A-063#234:1:A> > Oh it does <,>
+<ICE-CAN:S1A-063#235:1:A> Definitely <,>
+<ICE-CAN:S1A-063#236:1:A> Uhm <,,> ya <,>
+<ICE-CAN:S1A-063#237:1:A> But <}> <-> this </-> <=> this </=> </}> year
+<ICE-CAN:S1A-063#238:1:A> <}> <-> I </-> <=> I </=> </}> don't know
+<ICE-CAN:S1A-063#239:1:A> Uhm I'm finding <}> <-> it </-> <=> it's </=> </}> so different
+
+than last year
+
+<$B> <ICE-CAN:S1A-063#240:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-063#241:1:A> Like last year it was just <,,> so much <}> <-> in in </->
+
+<=> in </=> </}> the way of uhm individual work
+<ICE-CAN:S1A-063#242:1:A> You know lots of studying lots of papers and individual <{> <[>
+
+projects </[>
+
+<$B> <ICE-CAN:S1A-063#243:1:B> <[> Okay </[> </{>
+<ICE-CAN:S1A-063#244:1:B> <{> <[> Ya </[>
+
+<$A> <ICE-CAN:S1A-063#245:1:A> <[> But </[> </{> now it's just sort of <,,> changed
+<ICE-CAN:S1A-063#246:1:A> It's all of this group stuff
+<ICE-CAN:S1A-063#247:1:A> And <}> <-> I I </-> <=> I </=> </}> like working in groups if you
+
+don't have to
+
+<$B> <ICE-CAN:S1A-063#248:1:B> Meet
+
+<$A> <ICE-CAN:S1A-063#249:1:A> Ya
+<ICE-CAN:S1A-063#250:1:A> If you don't have to be meeting <{> <[> so much and </[> <,> you
+
+know uhm
+
+<$B> <ICE-CAN:S1A-063#251:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-063#252:1:A> If you have to do a group report I find that really difficult
+
+because uhm
+
+<$B> <ICE-CAN:S1A-063#253:1:B> I don't know why <}> <-> they </-> <=> they </=> </}>
+<ICE-CAN:S1A-063#254:1:B> I mean <}> <-> it's </-> <=> it's </=> </}> a good idea <,,>
+
+<$A> <ICE-CAN:S1A-063#255:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-063#256:1:B> <[> You know </[> </{> it's got its point but it really is
+
+hard to organize <{> <[> everyone </[>
+
+<$A> <ICE-CAN:S1A-063#257:1:A> <[> But it's not </[> </{> like <}> <-> the </-> <=> <}> <->
+
+that </-> <=> that </=> </}> </=> </}> you have a uhm computer desk <{1> <[1>
+
+somewhere on the university </[1> where you can all
+<ICE-CAN:S1A-063#258:1:A> <{2> <[2> <,> you know </[2> cram in there and you know
+<ICE-CAN:S1A-063#259:1:A> <{3> <[3> work on </[3> it or <,> you know something like this
+
+<$B> <ICE-CAN:S1A-063#260:1:B> <[1> Mhh hmm mhh hmm </[1> </{1>
+
+<$B> <ICE-CAN:S1A-063#261:1:B> <[2> Mhh hmm </[2> </{2>
+
+<$B> <ICE-CAN:S1A-063#262:1:B> <[3> Mhh </[3> </{3>
+
+<$A> <ICE-CAN:S1A-063#263:1:A> I mean everybody has to take their stuff home
+<ICE-CAN:S1A-063#264:1:A> Type up their stuff
+<ICE-CAN:S1A-063#265:1:A> Bring it back
+
+<$B> <ICE-CAN:S1A-063#266:1:B> Mhh
+
+<$A> <ICE-CAN:S1A-063#267:1:A> And then you know you have to sit there and haggle it out
+
+<$B> <ICE-CAN:S1A-063#268:1:B> I see
+
+<$A> <ICE-CAN:S1A-063#269:1:A> Which takes a lot of time <{> <[> because people don't agree
+
+<,> you know </[>
+
+<$B> <ICE-CAN:S1A-063#270:1:B> <[> It's a waste of time <,>
+<ICE-CAN:S1A-063#271:1:B> Mhh hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-063#272:1:A> One person wants to do it this way
+<ICE-CAN:S1A-063#273:1:A> One person wants to do it that way <,,>
+<ICE-CAN:S1A-063#274:1:A> So <,> this I find really quite difficult <,,>
+<ICE-CAN:S1A-063#275:1:A> The uhm
+
+<$B> <ICE-CAN:S1A-063#276:1:B> I wonder what you learn from that
+<ICE-CAN:S1A-063#277:1:B> You know you're supposed to
+<ICE-CAN:S1A-063#278:1:B> That's <,,>
+
+<$A> <ICE-CAN:S1A-063#279:1:A> Ya I think they want us to learn <,> how to collaborate and
+
+negotiate things
+
+<$B> <ICE-CAN:S1A-063#280:1:B> I hope that's what they'd like you to learn
+
+<$A> <ICE-CAN:S1A-063#281:1:A> But <}> <-> I'm </-> <=> I'm </=> </}> finding you know <}>
+
+<-> it's </-> <=> <,> I don't know it's </=> </}> just so rushed
+<ICE-CAN:S1A-063#282:1:A> You know you have like about a week to <{> <[> prepare something
+
+</[> together in a group
+
+<$B> <ICE-CAN:S1A-063#283:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-063#284:1:A> I mean you can't possibly <{> <[> do </[>
+
+<$B> <ICE-CAN:S1A-063#285:1:B> <[> Most </[> </{> of the time you're worrying about the
+
+logistics
+
+<$A> <ICE-CAN:S1A-063#286:1:A> That's right
+<ICE-CAN:S1A-063#287:1:A> That's right
+
+<$B> <ICE-CAN:S1A-063#288:1:B> Which is <,,> a waste of time
+
+<$A> <ICE-CAN:S1A-063#289:1:A> Ya
+<ICE-CAN:S1A-063#290:1:A> Ya
+
+<$B> <ICE-CAN:S1A-063#291:1:B> I mean <?> you can't </?> all the time just spend working on
+
+the thing
+
+<$A> <ICE-CAN:S1A-063#292:1:A> That's right
+
+<$B> <ICE-CAN:S1A-063#293:1:B> Have you heard anything about that computer <?> head </?>
+
+course we're taking next term
+
+<$A> <ICE-CAN:S1A-063#294:1:A> No <{> <[> no </[>
+
+<$B> <ICE-CAN:S1A-063#295:1:B> <[> I'm just </[> </{> <{> <[> curious </[>
+
+<$A> <ICE-CAN:S1A-063#296:1:A> <[> But I'm </[> </{> looking forward to it
+<ICE-CAN:S1A-063#297:1:A> I hope that it will be <{> <[> something <,,> really practical
+
+without group </[> work <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-063#298:1:B> <[> I don't know what
+<ICE-CAN:S1A-063#299:1:B> I hope it
+<ICE-CAN:S1A-063#300:1:B> No I don't I have no idea what it's about </[> </{>
+<ICE-CAN:S1A-063#301:1:B> Ya <,,>
+
+<$A> <ICE-CAN:S1A-063#302:1:A> But uh no I haven't heard anything about it
+
+<$B> <ICE-CAN:S1A-063#303:1:B> No
+
+<$A> <ICE-CAN:S1A-063#304:1:A> But <,> oh I know what I should tell you
+<ICE-CAN:S1A-063#305:1:A> We went to uhm <,> one of these vineyards <,> out in the eastern
+
+townships <{> <[> a few weeks </[> ago
+
+<$B> <ICE-CAN:S1A-063#306:1:B> <[> Ahh </[> </{>
+<ICE-CAN:S1A-063#307:1:B> <{> <[> Really </[>
+
+<$A> <ICE-CAN:S1A-063#308:1:A> <[> And </[> </{> that's actually what I would like to do
+
+again this weekend
+<ICE-CAN:S1A-063#309:1:A> I'd like to go out there
+<ICE-CAN:S1A-063#310:1:A> Especially if it's nice
+<ICE-CAN:S1A-063#311:1:A> Uhm this vineyard it's called uhm <,> Le Cep d'Argent
+<ICE-CAN:S1A-063#312:1:A> And they make uhm different kinds of <,> not only <{1> <[1> wine
+
+<,> </[1> but
+<ICE-CAN:S1A-063#313:1:A> <{2> <[2> also uhm </[2>
+
+<$B> <ICE-CAN:S1A-063#314:1:B> <[1> Mhh hmm </[1> </{1>
+
+<$B> <ICE-CAN:S1A-063#315:1:B> <[2> <O> cough </O> </[2> </{2>
+
+<$A> <ICE-CAN:S1A-063#316:1:A> Uh what do you call them like ah <,,> <mention> aparro
+
+</mention> <&> nonsense word </&>
+<ICE-CAN:S1A-063#317:1:A> Uh what do you call uh
+
+<$B> <ICE-CAN:S1A-063#318:1:B> A cider
+<ICE-CAN:S1A-063#319:1:B> No
+
+<$A> <ICE-CAN:S1A-063#320:1:A> Uhm you know like a Cinzano or port or something
+<ICE-CAN:S1A-063#321:1:A> What's that
+<ICE-CAN:S1A-063#322:1:A> You know like when you have a drink before dinner
+
+<$B> <ICE-CAN:S1A-063#323:1:B> Aperitif
+
+<$A> <ICE-CAN:S1A-063#324:1:A> Aperitif ya
+<ICE-CAN:S1A-063#325:1:A> And uhm <{> <[> <,,> </[> also champagne
+
+<$B> <ICE-CAN:S1A-063#326:1:B> <[> <O> cough </O> </[> </{>
+<ICE-CAN:S1A-063#327:1:B> And <{> <[> uhm </[>
+<ICE-CAN:S1A-063#328:1:B> <[> So they </[> </{> give you a tour
+
+<$A> <ICE-CAN:S1A-063#329:1:A> They give you <{> <[> a tour </[>
+
+<$B> <ICE-CAN:S1A-063#330:1:B> <[> And so </[> </{> just like they give you <}> <-> in </->
+
+<=> in </=> </}> California and <{> <[> France </[>
+
+<$A> <ICE-CAN:S1A-063#331:1:A> <[> That's right </[> </{>
+<ICE-CAN:S1A-063#332:1:A> I didn't know that they had <}> <-> a <}> <-> <{1> <[1> <.> w </.>
+
+</-> <+> winery </+> </}> </[1> </-> <=> a winery </=> </}>
+<ICE-CAN:S1A-063#333:1:A> <{2> <[2> here </[2>
+
+<$A> <ICE-CAN:S1A-063#334:1:A> <[1> And and </[1> </{1>
+
+<$A> <ICE-CAN:S1A-063#335:1:A> <[2> Ya </[2> </{2> <,> ya ya
+
+<$A> <ICE-CAN:S1A-063#336:1:A> They have a few of them <,> out there
+
+<$A> <ICE-CAN:S1A-063#337:1:A> And there quite new though
+
+<$B> <ICE-CAN:S1A-063#338:1:B> <{> <[> Oh okay </[>
+
+<$A> <ICE-CAN:S1A-063#339:1:A> <[> Uh mostly French </[> </{> people who have come over here
+
+<,> and uhh <,> clicked with some <,> Quebec <,> people <{> <[> <,> and then
+
+started that </[>
+
+<$B> <ICE-CAN:S1A-063#340:1:B> <[> <}> <-> I </-> <=> either it's </=> </}> not very well
+
+</[> </{> known or I just never heard of it
+
+<$A> <ICE-CAN:S1A-063#341:1:A> It's quite new
+
+<$B> <ICE-CAN:S1A-063#342:1:B> It's quite new
+
+<$A> <ICE-CAN:S1A-063#343:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-063#344:1:B> <[> Must </[> </{> be
+
+<$A> <ICE-CAN:S1A-063#345:1:A> <}> <-> They're </-> <=> they're </=> </}> quite new
+<ICE-CAN:S1A-063#346:1:A> <}> <-> There're </-> <=> <{> <[> there're </=> </}> probably
+
+about seven </[> of them out there and <,,>
+
+<$B> <ICE-CAN:S1A-063#347:1:B> <[> <O> cough </O> </[> </{>
+<ICE-CAN:S1A-063#348:1:B> Seven is a lot
+
+<$A> <ICE-CAN:S1A-063#349:1:A> <}> <-> They they're </-> <=> they've </=> </}> probably just
+
+<,> started up in about the <{> <[> last five or ten </[> years you know
+
+<$B> <ICE-CAN:S1A-063#350:1:B> <[> Have another cookie </[> </{>
+
+<$A> <ICE-CAN:S1A-063#351:1:A> So they're <}> <-> quite </-> <=> <{> <[> quite </=> </}> new
+
+</[>
+
+<$B> <ICE-CAN:S1A-063#352:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-063#353:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-063#354:1:A> So we went to this one and uhm <,> they took us out into the
+
+fields and showed us the grapes and told us you know like all about the
+
+climatic <{> <[> conditions </[> and all that kind of stuff
+
+<$B> <ICE-CAN:S1A-063#355:1:B> <[> Mhh hmm </[> </{> </I>

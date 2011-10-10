@@ -1,0 +1,782 @@
+<I>
+<ICE-CAN:W2A-040#1:1> <h> <bold> CHAOTIC VIBRATIONS AND RESONANCES IN A FLEXIBLE-ARM ROBOT
+
+</bold> </h>
+<ICE-CAN:W2A-040#2:1> M.F. Golnaraghi <X>
+<ICE-CAN:W2A-040#X3:1> Faculty of Engineering
+<ICE-CAN:W2A-040#X4:1> University of Waterloo
+<ICE-CAN:W2A-040#X5:1> Waterloo, Ontario
+<ICE-CAN:W2A-040#X6:1> N2L 3G1, Canada
+<ICE-CAN:W2A-040#X7:1> Received May, 1990, accepted April, 1991 No. 90-CSME-15, EIC
+
+Accession No. 2242 </X> <X>
+<ICE-CAN:W2A-040#X8:1> <h> <indig> RESUME </indig> </h>
+<ICE-CAN:W2A-040#X9:1> <h> <indig> Vibrations et r&eacute;sonances chaotiques dan un bras
+
+flexible <}> <-> robotise </-> <+> robotis&eacute; </+> </}> </indig> </h>
+
+<p> <ICE-CAN:W2A-040#X10:1> <indig> A partir du moment ou la notion de flexibilit&eacute;
+
+est introduite dans le bras d'un robot, il faut d'attendre &agrave; ce que de
+
+s&eacute;rieux probl&egrave;mes concernent la pr&eacute;cision et la
+
+stabilit&eacute; viennent rendre son contr&ocircumflex;le d&eacute;licat.
+<ICE-CAN:W2A-040#X11:1> Ces probl&egrave;mes ne peuvent &ecircumflex;tre
+
+&eacute;limin&eacute;s avec succ&egrave;s que si l'on prend en compte la
+
+dynamique non-lin&eacute;aire du syst&egrave;me.
+<ICE-CAN:W2A-040#X12:1> Les bras flexible robotis&eacute; qui nous int&eacute;resse est
+
+&agrave; grande vitesse de d&eacute;placement, comporte deux degr&eacute;s de
+
+libert&eacute; et consid&egrave;re des non-lin&eacute;arit&eacute;s
+
+quadratiques dont les fr&eacute;quences naturelles sont d&eacute;finies comme
+
+&eacute;tant <O> mathematical symbol </O> <sb> 1 </sb> et <O> mathematical
+
+symbol </O> <sb> 2 </sb> .
+<ICE-CAN:W2A-040#X13:1> Ce travail concerne l'etude du comportement de ce type de robot
+
+autour de la frequence de r&eacute;sonance interne <O> mathematical symbols
+
+</O> .
+<ICE-CAN:W2A-040#X14:1> Des simulations num&eacute;riques ainsi que des investigations
+
+analytiques ont &eacute;t&eacute; faites sur un mod&egrave;le
+
+math&eacute;matique simplifi&eacute; du syst&egrave;me soumis &agrave; une
+
+excitation p&eacute;riodique.
+<ICE-CAN:W2A-040#X15:1> L'utilisation de la m&eacute;thode des perturbations avec
+
+d&eacute;veloppement &agrave; deux variables &agrave; permis de montrer
+
+l'existence d'un ph&eacute;nom&egrave;ne de saut et de " saturation" quand
+
+les r&eacute;sonance forc&eacute;e et naturelle arrivent.
+<ICE-CAN:W2A-040#X16:1> Les &eacute;tudes num&eacute;riques montrent l'apparition de
+
+solution de type chaotique dans les r&eacute;gions de r&eacutesonance.
+<ICE-CAN:W2A-040#X17:1> Les routes vers le chaos contiennent des bifurcations
+
+subharmoniques. </indig> </p> </X>
+<ICE-CAN:W2A-040#18:1> <h> SUMMARY </h>
+
+<p> <ICE-CAN:W2A-040#19:1> Once flexibility is introduced into the arm of the robot, severe
+
+problems in the accuracy and stability are likely to occur which make control
+
+a critical issue.
+<ICE-CAN:W2A-040#20:1> These problems can successfully be eliminated only if the nonlinear
+
+dynamics associated with the flexible—arm is properly accounted for. </p>
+
+<p> <ICE-CAN:W2A-040#21:1> In this paper we study the behaviour of a two degree of freedom
+
+high speed robot with a flexible—arm, having quadratic nonlinearities with
+
+natural frequencies defined as <O> mathematical symbol </O> <sb> 1 </sb> and
+
+<O> mathematical symbol </O> <sb> 2 </sb> , at <O> mathematical equation </O>
+
+internal resonance.
+<ICE-CAN:W2A-040#22:1> We perform numerical simulations as well as analytical investigations
+
+on a simplified mathematical model of the system, subjected to periodic
+
+excitation.
+<ICE-CAN:W2A-040#23:1> The two variable expansion perturbation method is used to show the
+
+existence of jump phenomena and ` saturation' when both forced resonance and
+
+internal resonance occur.
+<ICE-CAN:W2A-040#24:1> Numerical studies indicate the existence of chaotic solutions in the
+
+resonance regions.
+<ICE-CAN:W2A-040#25:1> The routes to chaos contain subharmonic bifurcations. </p>
+<ICE-CAN:W2A-040#26:1> <h> INTRODUCTION </h>
+
+<p> <ICE-CAN:W2A-040#27:1> Flexible structures have been the subject of numerous recent
+
+investigations <fnr> [ 1—4] </fnr> <footnote> [ 1] Schaechter, D., Optimal
+
+Local Control of Flexible Structures, Journal of Guidance and Control, Vol.4,
+
+No. 1, 22-26, 1981. [ 2] Kida, T., I. Yamaguchi, and Y. Ohkami, An Approach
+
+to Local Decentralized Control for Large Flexible Space Structures,
+
+Proceedings of the AIAA Guidance, Navigation, and Control Conference, Snow
+
+mass, Colorado, August 1985. [ 3] Vadali, S.K., Variable Structure Control of
+
+Spacecraft Large—Angle Maneuvers, Journal of Guidance, Control and Dynamics,
+
+Vol. 9, No. 2, 235-239, March 1986. [ 4] Yurkovich, S., U. Ozguner and F.
+
+Al—Abbass, Model Reference, Sliding Mode Adaptive Control for Flexible <}>
+
+<-> Strcutures </-> <+> Structures </+> </}> , The Journal of the
+
+Astronautical Sciences, Vol. 36, No. 3, 285-310 July—September 1988.
+
+</footnote>
+<ICE-CAN:W2A-040#28:1> Included therein are the contributions in the field of robotics <fnr>
+
+[ 5-8] </fnr> <footnote> [ 5] Lee, J.D., L.S. Haynes, B.L. Wang and K.H.
+
+Tsai, Control of Flexible Robot Arm, presented at the ASME Winter Annual
+
+Meeting, 1987. [ 6] Shung, I.Y. and M. Vidyasagar, Control of a Flexible
+
+Robot Arm With Bounded Input: Optimum Step Responses, IEEE Proceedings,
+
+916-922, 1987. [ 7] Krishnamurthy, K. and T.D. Burton, Optimal Control of
+
+Flexible Robotic Arms, 24th Annual Technical Meeting, Society of Engineering
+
+Science, University of Utah, Spetember 1987. [ 8] Tang, S.C. and C.C. Wang,
+
+Computation of the Effects of Link Deflections and Joint Compliance on Robot
+
+Positioning, IEEE, 910-915, 1987. </footnote>
+<ICE-CAN:W2A-040#29:1> Majority of the papers on robotics are, however, aimed at the control
+
+aspects <}> <-> with out </-> <+> without </+> </}> considering the dynamics
+
+of linkages.
+<ICE-CAN:W2A-040#30:1> In general, once flexibility is introduced into the arm of the robot,
+
+severe problems in the accuracy, stability, and control are likely to occur.
+<ICE-CAN:W2A-040#31:1> A more successful control algorithm can be developed only if the
+
+effects of link dynamics is properly accounted for. </p>
+
+<p> <ICE-CAN:W2A-040#32:1> Robotic devices are usually modeled by coupled, nonlinear,
+
+differential equations which are impossible to solve exactly.
+<ICE-CAN:W2A-040#33:1> Addition of flexibility into the arm would further complicate the
+
+equations of motion <fnr> [ 9—12] </fnr> <footnote> [ 9] Low, K.H. and R.N.
+
+Dubey, Inverse Dynamic Analysis of Spatial Manipulators with Elastic Legs,
+
+Transactions of the CSME, Vol. 12, No. 2, 63-69, 1988 [ 10] Low, K.H. and
+
+R.N. Dubey, Computer—Aided Dynamic Analysis of a Flexible Robot Manipulator,
+
+Proceedings of the Ninth Symposium on Engineering Applications of Mechanics,
+
+1-12, May 1988. [ ll] Golnaraghi, M.F., W.L. Keith and F.C. Moon, Stability
+
+Analysis of a Robotic Mechanism Using Computer Algebra, Applications of
+
+Computer Algebra, ed. R. Pavelle, Kluwer, Boston, pp. 281-293, 1985. 12]
+
+Wang, D.W., Modeling and Control of Multi—Link Manipulators With One Flexible
+
+Link, PhD Dissertation, University of Waterloo, 1989. </footnote>
+<ICE-CAN:W2A-040#34:1> Studies by <fnr> [ 13, Golnaraghi 1988] </fnr> and <fnr> [ 14,
+
+Golnaraghi et al 1989] </fnr> on an experimental model of a high speed
+
+flexible—arm robot reveal complicated dynamical behaviour, including
+
+nonlinear resonances and chaotic oscillations <footnote> [ 13] Golnaraghi,
+
+M.F., Chaotic Dynamics and Control of a Nonlinear and Felxible—Arm Robot, PhD
+
+Dissertation, Cornell University, 1988. </footnote> <footnote> [ 14]
+
+Golnaraghi, M.F., F.C. Moon and R.H. Rand, Resonance in a High Speed
+
+Flexible-Arm Robot, The Int. J. of Dynamics and Stability of Systems, Oxford
+
+University, Vol. 4, No. 4, 1989. </footnote>
+<ICE-CAN:W2A-040#35:1> Furthermore, <fnr> [ 13,14] </fnr> show that these complex phenomena
+
+are due to quadratic nonlinearities including Coriolis, inertia, and
+
+centripetal forces <footnote> <O> references 13 and 14 </O> </footnote>
+<ICE-CAN:W2A-040#36:1> For a two degree of freedom system having quadratic nonlinearities
+
+with natural frequencies defined as <O> mathematical symbol </O> <sb> 1 </sb>
+
+and <O> mathematical symbol </O> <sb> 2 </sb> , <fnr> [ 15, Nayfeh and Mook
+
+1979] </fnr> , <fnr> [ 16, Nayfeh 1981] </fnr> , and <fnr> [ 17, Haddow et al
+
+1984] </fnr> show that internal resonance could occur when <O> mathematical
+
+equation </O> <footnote> [ 15] Nayfeh, A.H.and D.T. Mook, Nonlinear
+
+Oscillations, John Wiley and Sons Inc., New York, 1979. </footnote>
+
+<footnote> [ 16] Nayfeh, A.H., Introduction to Perturbation Techniques, John
+
+Wiley and Sons Inc., New York, 1981. </footnote> <footnote> [ 17] Haddow,
+
+A.G., A.D. Barr and D.T. Mook, Theoretical and Experimental Study of Modal
+
+Interaction in a Two-Degree of Freedom Stucture, Academic Press Inc., London,
+
+451-473, 1984. </footnote>
+<ICE-CAN:W2A-040#37:1> According to these studies, once periodic inputs with frequency <O>
+
+mathematical symbol </O> are included, primary forced resonances occur at <O>
+
+mathematical equation </O> and <O> mathematical equation </O> .
+<ICE-CAN:W2A-040#38:1> Moreover, in the case of forced resonance <O> mathematical equation
+
+</O> , these studies show that the system exhibits 'saturation' which is
+
+unique to systems with quadratic nonlinearities. </p>
+
+<p> <ICE-CAN:W2A-040#39:1> In this paper we perform analytical and numerical investigations
+
+of the dynamics of a high speed two degree of freedom flexible—arm robotic
+
+device, shown in Figure 1.
+<ICE-CAN:W2A-040#40:1> The arm is subjected to translational and rotational periodic inputs.
+<ICE-CAN:W2A-040#41:1> Because of the complexity of the actual system, a simple mathematical
+
+model is developed to ease the theoretical and numerical studies.
+<ICE-CAN:W2A-040#42:1> The two variable expansion perturbation method is used to analyze the
+
+stability of the system for <O> mathematical equation </O> and <O>
+
+mathematical equation </O> resonant cases.
+<ICE-CAN:W2A-040#43:1> Comparison of the numerical results with the perturbation solution
+
+indicate that the two variable expansion method provides a good approximation
+
+of the motion of the system when the amplitude of oscillation are
+
+sufficiently small. </p> <O> diagram </O> <O> Figure 1 caption </O> <O>
+
+diagram </O> <O> Figure 2 caption </O>
+
+<p> <ICE-CAN:W2A-040#44:1> Furthermore, we show that chaotic motions occur when forced and
+
+2:1 internal resonances exist, concurrently.
+<ICE-CAN:W2A-040#45:1> The chaotic solutions are determined upon using bifurcation diagrams,
+
+fast Fourier transforms, and Poincare maps. </p>
+<ICE-CAN:W2A-040#46:1> <h> DESCRIPTION OF THE MATHEMATICAL MODEL </h>
+
+<p> <ICE-CAN:W2A-040#47:1> We use the model developed by <fnr> [ 13, Golnaraghi 1988 <}> <-> )
+
+</-> <+> ] </+> </}> </fnr> <footnote> <O> reference 13 </O> </footnote> .
+<ICE-CAN:W2A-040#48:1> This model is a simple sliding pendulum mechanism as shown in Figure
+
+2.
+<ICE-CAN:W2A-040#49:1> Mass M <sb> 1 </sb> represents the mass of the dc motor magnet
+
+assembly.
+<ICE-CAN:W2A-040#50:1> Mass M <sb> 2 </sb> is the mass of the body transported by the arm,
+
+as well as the effective mass of the flexible—arm r <sb> 2 </sb> .
+<ICE-CAN:W2A-040#51:1> The flexibility of the arm is taken into account by using a torsional
+
+spring with spring stiffness K <sb> 2 </sb> .
+<ICE-CAN:W2A-040#52:1> K <sb> 1 </sb> represents the stiffness of the spring used to
+
+mechanically centre the position of mass M <sb> 1 </sb> .
+<ICE-CAN:W2A-040#53:1> C <sb> 1 </sb> and C <sb> 2 </sb> are the translational and
+
+rotational damping coefficients of the system, respectively. </p>
+
+<p> <ICE-CAN:W2A-040#54:1> The nondimensional equations of motion take the following form
+
+<O> mathematical equation </O> <marginalia> ( 1.1) </marginalia> <O>
+
+mathematical equation </O> , <marginalia> ( 1.2) </marginalia> where dots
+
+represent differentiation with respect to the nondimensional time <O>
+
+mathematical symbol </O> , defined as <O> mathematical equation </O>
+
+<marginalia> ( 2) </marginalia> .
+<ICE-CAN:W2A-040#55:1> In ( 2), <O> mathematical symbol </O> <sb> nd </sb> is the
+
+nondimensionalizing frequency.
+<ICE-CAN:W2A-040#56:1> The nondimensional variables are <O> mathematical symbol </O> and
+
+&theta;, with <O> mathematical equation </O> , <marginalia> ( 3)
+
+</marginalia> and &theta; = &theta; <sb> 2 </sb> representing the angular
+
+position of the arm.
+<ICE-CAN:W2A-040#57:1> The nondimensional mass is defined as <O> mathematical equation </O>
+
+<marginalia> ( 4) </marginalia> .
+<ICE-CAN:W2A-040#58:1> The natural frequencies of the uncoupled, unforced linear system are
+
+<O> mathematical equation </O> , <marginalia> ( 5.1) </marginalia> and <O>
+
+mathematical equation </O> <marginalia> ( 5.2) </marginalia>
+<ICE-CAN:W2A-040#59:1> The nondimensional damping parameters are defined as <O> mathematical
+
+equation </O> , <marginalia> ( 6.1) </marginalia> and <O> mathematical
+
+equation </O> <marginalia> ( 6.2) </marginalia> .
+<ICE-CAN:W2A-040#60:1> The normalized forcing frequencies are <O> mathematical equation </O>
+
+, <marginalia> ( 7.1) </marginalia> and <O> mathematical equation </O> ,
+
+<marginalia> ( 7.2) </marginalia> .
+<ICE-CAN:W2A-040#61:1> The base rotation is sinusoidal and takes the form <O> mathematical
+
+equation </O> <marginalia> ( 8) </marginalia> . </p>
+
+<p> <ICE-CAN:W2A-040#62:1> At this point we scale equations ( 1) by introducing a small
+
+dimensionless parameter, <O> mathematical symbol </O> &lt; &lt; 1, which
+
+represents the order of nonlinear terms.
+<ICE-CAN:W2A-040#63:1> Hence, we posit a change of variables such that <O> mathematical
+
+equation </O> , <marginalia> ( 9.1) </marginalia> <O> mathematical equation
+
+</O> , <marginalia> ( 9.2) </marginalia> <O> mathematical equation </O> ,
+
+<marginalia> ( 9.3) </marginalia> and <O> mathematical equation </O> ;
+
+<marginalia> ( 9.4) </marginalia> .
+<ICE-CAN:W2A-040#64:1> Note that ( 9.3) implies that F <sb> 2 </sb> be small too, i.e. F
+
+<sb> 2 </sb> = <O> mathematical symbol </O> f <sb> 2 </sb> . </p>
+
+<p> <ICE-CAN:W2A-040#65:1> In order to perturb off the undamped linear equations, we choose
+
+to scale the damping coefficients &gamma; <sb> 1 </sb> and &gamma; <sb> 2
+
+</sb> as <O> mathematical equation </O> , <marginalia> ( 10.1) </marginalia>
+
+<O> mathematical equation </O> <marginalia> ( 10.2) </marginalia> .
+<ICE-CAN:W2A-040#66:1> Then we substitute equations ( 9) and ( 10) into ( 1.1) and ( 1.2)
+
+and expand the resulting equations using Taylor series for small <O>
+
+mathematical symbol </O> , such that sin ( &theta;) and cos ( &theta;) are
+
+replaced by <O> mathematical symbol </O> &theta; + &dotted-line; and 1—
+
+&dotted-line;, respectively.
+<ICE-CAN:W2A-040#67:1> With these assumptions, the equations of motion take the following
+
+form
+<ICE-CAN:W2A-040#68:1> <O> mathematical equation </O> , <marginalia> ( 11.1) </marginalia>
+
+<O> mathematical equation </O> , <marginalia> ( 11.2) </marginalia> where <O>
+
+mathematical equation </O> <marginalia> ( 12) </marginalia> .
+<ICE-CAN:W2A-040#69:1> Note that the nonlinear terms in ( 11) are due to the effect of
+
+rotation on the geometry of the structure.
+<ICE-CAN:W2A-040#70:1> Note also that the unforced equations of motion have a stable
+
+equilibrium position at ( <O> mathematical symbol </O> = 0, <O> mathematical
+
+symbol </O> = 0, &theta; = 0, <O> mathematical symbol </O> = 0). </p>
+<ICE-CAN:W2A-040#71:1> <h> THE TWO VARIABLE EXPANSION PERTURBATION METHOD </h>
+
+<p> <ICE-CAN:W2A-040#72:1> Using the two variable expansion perturbation method <fnr> [
+
+18—21] </fnr> , we replace the independent variable <O> mathematical symbol
+
+</O> by two new variables, <O> mathematical symbol </O> and <O> mathematical
+
+symbol </O> , such that <O> mathematical equation </O> , <marginalia> ( 13.1)
+
+</marginalia> and <O> mathematical equation </O> ; <marginalia> ( 13.2)
+
+</marginalia> where <O> mathematical symbol </O> is just <O> mathematical
+
+symbol </O> and <O> mathematical symbol </O> is a slow time variable
+
+<footnote> [ 18] Cole, J.D. and J. Kevorkian, Uniformly Valid Asymptotic
+
+Approximations for Certain Nonlinear Differential Equations, Nonlinear
+
+Differential Equation's and Nonlinear Mechanics, ( J.P. LaSalle and S.
+
+Lefschetz, eds). Academi, New York, 113-120, 1968). [ 19] Nayfeh, A.H.,
+
+Perturbation Methods, Wiley, New York, 1973. [ 20] Rand, R.H., Computer
+
+Algebra in Applied Mathematics: An Introduction to MACSYMA, Pitman, Boston,
+
+1984 [ 21] Rand, H.H. and D.C. Armbruster, Perturbation Methods, Bifurcation
+
+Theory and Computer Algebra, Springer—Verlag, New York, 1987. </footnote>
+<ICE-CAN:W2A-040#73:1> The idea of the method is to permit the dependent variables <O>
+
+mathematical symbol </O> and &theta; to depend explicitly on two time scales,
+
+<O> mathematical symbol </O> and <O> mathematical symbol </O> .
+<ICE-CAN:W2A-040#74:1> For example, periodic steady state behaviour will occur in <O>
+
+mathematical symbol </O> , while approach to steady state will occur in <O>
+
+mathematical symbol </O> . </p>
+
+<p> <ICE-CAN:W2A-040#75:1> Using the chain rule, we can rewrite the time derivatives of <O>
+
+mathematical symbol </O> ( <O> mathematical symbol </O> , <O> mathematical
+
+symbol </O> ) and &theta;( <O> mathematical symbol </O> , <O> mathematical
+
+symbol </O> ) as <O> mathematical equation </O> , <marginalia> ( 14.1)
+
+</marginalia> <O> mathematical equation </O> <marginalia> ( 14.2)
+
+</marginalia> .
+<ICE-CAN:W2A-040#76:1> We also expand <O> mathematical symbol </O> and &theta; as <O>
+
+mathematical equation </O> , <marginalia> ( 15.1) </marginalia> <O>
+
+mathematical equation </O> . <marginalia> ( 15.2) </marginalia> .
+<ICE-CAN:W2A-040#77:1> In order to study resonance cases, we use detunning parameters <O>
+
+mathematical symbol </O> <sb> 1 </sb> and <O> mathematical symbol </O> <sb> 2
+
+</sb> such that <O> mathematical equation </O> <marginalia> ( 16.1)
+
+</marginalia> <O> mathematical equation </O> <marginalia> ( 16.2)
+
+</marginalia> .
+<ICE-CAN:W2A-040#78:1> Note that we select f <sb> l </sb> = <O> mathematical symbol </O> f
+
+<sb> 1 </sb> to avoid secular terms in the zeroth order equations. </p>
+
+<p> <ICE-CAN:W2A-040#79:1> Substituting ( 13) — ( 15) into ( 11) and collecting terms, we
+
+find the zeroth and first order equations to be Order <O> mathematical symbol
+
+</O> <sb> 0 </sb> <O> mathematical equation </O> , <marginalia> ( 17.1)
+
+</marginalia> <O> mathematical equation </O> ; <marginalia> ( 17.2)
+
+</marginalia> Order <O> mathematical symbol </O> <O> mathematical equation
+
+</O> , <marginalia> ( 18.1) </marginalia> <O> mathematical equation </O> ;
+
+<marginalia> ( 18.2) </marginalia> where the subscripts represent the partial
+
+derivatives.
+<ICE-CAN:W2A-040#80:1> The solution of ( 17.1) and ( 17.2) can be written in the form <O>
+
+mathematical equation </O> , <marginalia> ( 19.1) </marginalia> <O>
+
+mathematical equation </O> , <marginalia> ( 19.2) </marginalia> where <O>
+
+mathematical equation </O> <marginalia> ( 20) </marginalia> . </p>
+
+<p> <ICE-CAN:W2A-040#81:1> We now substitute ( 19.1) and ( 19.2) into equations ( 18),
+
+suppressing the secular terms sin( <O> mathematical symbol </O> <sb> 1 </sb>
+
+<O> mathematical symbol </O> ) and cos( <O> mathematical symbol </O> <sb> 1
+
+</sb> <O> mathematical symbol </O> ) in ( 18.1), and sin ( <O> mathematical
+
+symbol </O> <sb> 2 </sb> <O> mathematical symbol </O> ) and cos ( <O>
+
+mathematical symbol </O> <sb> 2 </sb> <O> mathematical symbol </O> ) in (
+
+18.2).
+<ICE-CAN:W2A-040#82:1> Note that we have written <O> mathematical equation </O> ,
+
+<marginalia> ( 21.1) </marginalia> <O> mathematical equation </O> ,
+
+<marginalia> ( 21.2) </marginalia> <O> mathematical equation </O>
+
+<marginalia> ( 21.3) </marginalia> .
+<ICE-CAN:W2A-040#83:1> Due to the length of the expressions, we will eliminate some of the
+
+intermediate steps.
+<ICE-CAN:W2A-040#84:1> Before writing the solvability conditions, we will introduce a polar
+
+transformation such that <O> mathematical equation </O> , <marginalia> (
+
+22.1) </marginalia> <O> mathematical equation </O> , <marginalia> ( 22.2)
+
+</marginalia> <O> mathematical equation </O> , <marginalia> ( 22.3)
+
+</marginalia> <O> mathematical equation </O> ; <marginalia> ( 22.4)
+
+</marginalia> where, a <sb> n </sb> and <O> mathematical symbol </O> <sb> n
+
+</sb> are real functions of <O> mathematical symbol </O> .
+<ICE-CAN:W2A-040#85:1> This enables us to obtain the secular term equations in a more
+
+convenient form, namely <O> mathematical equation </O> , <marginalia> ( 23.1)
+
+</marginalia> <O> mathematical equation </O> , <marginalia> ( 23.2)
+
+</marginalia> <O> mathematical equation </O> , <marginalia> ( 23.3)
+
+</marginalia> <O> mathematical equation </O> ; <marginalia> ( 23.4)
+
+</marginalia> where <O> mathematical equation </O> , <marginalia> ( 24)
+
+</marginalia> <O> mathematical equation </O> <marginalia> ( 25) </marginalia> .
+<ICE-CAN:W2A-040#86:1> The equilibrium solution is obtained when the right hand sides of (
+
+23.2—23.4) are set equal to zero.
+<ICE-CAN:W2A-040#87:1> There are two possibilities for these equilibrium solutions, a <sb>
+
+<it> i </it> <O> mathematical symbol </O> </sb> = <O> mathematical symbol
+
+</O> <sb> <it> i </it> <O> mathematical symbol </O> </sb> = 0.
+<ICE-CAN:W2A-040#88:1> The first case is <O> mathematical equation </O> , <marginalia> (
+
+26.1) </marginalia> <O> mathematical equation </O> , <marginalia> ( 26.2)
+
+</marginalia> <O> mathematical equation </O> , <marginalia> ( 26.3)
+
+</marginalia> <O> mathematical equation </O> , <marginalia> ( 26.4)
+
+</marginalia> which implies that the O( <O> mathematical symbol </O> )
+
+solution is essentially that of the linear system, as follows <O>
+
+mathematical equation </O> , <marginalia> ( 27.1) </marginalia> <O>
+
+mathematical equation </O> <marginalia> ( 27.2) </marginalia> .
+<ICE-CAN:W2A-040#89:1> The second case is <O> mathematical equation </O> , <marginalia> (
+
+28.1) </marginalia> <O> mathematical equation </O> , <marginalia> ( 28.2)
+
+</marginalia> <O> mathematical equation </O> , <marginalia> ( 28.3)
+
+</marginalia> <O> mathematical equation </O> , <marginalia> ( 28.4)
+
+</marginalia> where, <O> mathematical equation </O> , <marginalia> ( 29.1)
+
+</marginalia> <O> mathematical equation </O> <marginalia> ( 29.2)
+
+</marginalia> .
+<ICE-CAN:W2A-040#90:1> Hence, the steady state response for this case, with the use of
+
+equations ( 28), is <O> mathematical equation </O> , <marginalia> ( 30.1)
+
+</marginalia> <O> mathematical equation </O> . <marginalia> ( 30.2)
+
+</marginalia> . </p>
+
+<p> <ICE-CAN:W2A-040#91:1> Comparing these two possible responses, we can see that when the
+
+internal resonance holds, the solution &theta; has an extra term beyond that
+
+of the nonresonant solution.
+<ICE-CAN:W2A-040#92:1> This implies that &theta; will go through a subharmonic bifurcation
+
+and is excited by half the frequency of translation <O> mathematical symbol
+
+</O> <sb> 1 </sb> in addition to the rotational forcing frequency <O>
+
+mathematical symbol </O> <sb> 2 </sb> .
+<ICE-CAN:W2A-040#93:1> From the solution for <O> mathematical symbol </O> , we see major
+
+difference with respect to nonresonant solution.
+<ICE-CAN:W2A-040#94:1> That is, the amplitude of the <O> mathematical symbol </O> mode is
+
+independent of the forcing amplitude f <sb> 1 </sb> ( i.e. saturation
+
+phenomenon).
+<ICE-CAN:W2A-040#95:1> We can observe these facts clearly in Figures 3 and 4.
+<ICE-CAN:W2A-040#96:1> The amplitude response shown in Figure 3, describes the modal
+
+amplitudes of response as the forcing amplitude f <sb> 1 </sb> varies.
+<ICE-CAN:W2A-040#97:1> In this case, <O> mathematical symbol </O> <sb> 1 </sb> = - 2.0, <O>
+
+mathematical symbol </O> <sb> 2 </sb> = - 1.0, &mu; <sb> 1 </sb> = 9.9, &mu;
+
+<sb> 2 </sb> = 0.825, and <O> mathematical symbol </O> <sb> 1 </sb> = <O>
+
+mathematical symbol </O> <sb> 2 </sb> .
+<ICE-CAN:W2A-040#98:1> The stability of the equilibrium solutions was obtained by finding
+
+the eigenvalues of ( 23.1) - ( 23.4), evaluated at equilibrium values ( 26)
+
+and ( 28).
+<ICE-CAN:W2A-040#99:1> Hence, the solid lines in Figure 3 represents stable solutions while
+
+the dash lines indicate the unstable parts.
+<ICE-CAN:W2A-040#100:1> As we can see there exist two critical values of f <sb> 1 </sb> ,
+
+defined by ( 28.2) and ( 28.4) as <O> mathematical equation </O> ,
+
+<marginalia> ( 31.1) </marginalia> <O> mathematical equation </O> ,
+
+<marginalia> ( 31.2) </marginalia> where, for f <sb> c1 </sb> &lt; f <sb> 1
+
+</sb> &lt; f <sb> c2 </sb> , a <sb> 2 </sb> has two stable and an unstable
+
+solution, and a <sb> 1 </sb> has two stable possible states.
+<ICE-CAN:W2A-040#101:1> The values of a <sb> 1 </sb> and a <sb> 2 </sb> in this region
+
+depend upon the choice of the initial conditions.
+<ICE-CAN:W2A-040#102:1> The system at this region can go through a 'jump' phenomenon, based
+
+on the values of initial conditions.
+<ICE-CAN:W2A-040#103:1> The frequency response curves when <O> mathematical symbol </O> <sb>
+
+2 </sb> = - 2.0, &mu; <sb> 1 </sb> = 9.9, &mu; <sb> 2 </sb> = 0.825, f <sb> 1
+
+</sb> = 10.0 and <O> mathematical symbol </O> = <O> mathematical symbol </O>
+
+<sb> 1 </sb> = <O> mathematical symbol </O> <sb> 2 </sb> = <O> mathematical
+
+symbol </O> <sb> 1 </sb> + <O> mathematical symbol </O> <O> mathematical
+
+symbol </O> <sb> 1 </sb> , are shown in Figure 4.
+<ICE-CAN:W2A-040#104:1> In this case, <O> mathematical symbol </O> <sb> 1 </sb> corresponds
+
+to the detunning of the forcing frequency, so that when <O> mathematical
+
+symbol </O> <sb> 1 </sb> = 0, the frequencies are related by <O> mathematical
+
+symbol </O> = <O> mathematical symbol </O> <sb> 1 </sb> = <O> mathematical
+
+symbol </O> <sb> 2 </sb> = <O> mathematical symbol </O> <sb> 1 </sb> .
+<ICE-CAN:W2A-040#105:1> Again, there exists a jump between the resonant and nonresonant
+
+solutions.
+<ICE-CAN:W2A-040#106:1> The jump however, occurs only in one side of the resonance curve,
+
+and that is due to the fact that <O> mathematical symbol </O> <sb> 2 </sb>
+
+<O> mathematical symbol </O> 0; hence, the resonance curve is unsymmetrical.
+
+</p>
+
+<p> <ICE-CAN:W2A-040#107:1> In order to illustrate the validity of the perturbation
+
+solutions, we numerically integrate the governing equations for <O>
+
+mathematical symbol </O> and &theta;, ( 1.1) and ( 1.2), and compare the
+
+results with the solutions of ( 26) and ( 28) which are the equations
+
+defining the steady state values of response amplitudes.
+<ICE-CAN:W2A-040#108:1> The frequency response of equations of motion ( 1.l) and ( 1.2) is
+
+shown in Figure 5.
+<ICE-CAN:W2A-040#109:1> In this case, we have fixed <O> mathematical symbol </O> <sb> 1
+
+</sb> = 1.8, <O> mathematical symbol </O> <sb> 2 </sb> = 1, &gamma; <sb> 1
+
+</sb> = 0.99, &gamma; <sb> 2 </sb> = 0.0825, F <sb> 2 </sb> = 0.01, and F
+
+<sb> 1 </sb> = 0.1.
+<ICE-CAN:W2A-040#110:1> Note that the damping values have been selected to match those of
+
+the experimental system in <fnr> [ 13] </fnr> <footnote> <O> reference 13
+
+</O> </footnote> .
+<ICE-CAN:W2A-040#111:1> Comparing Figures 4 and 5 we can see that the perturbation solution
+
+provides a good approximation of the behaviour of the actual system.
+<ICE-CAN:W2A-040#112:1> Comparing the amplitude response of ( 1.1) and ( 1.2), shown in
+
+Figure 6, with the perturbation results in Figure 4, one can arrive at the
+
+same conclusion.
+<ICE-CAN:W2A-040#113:1> Note that in Figure 6, the system parameters are fixed at <O>
+
+mathematical symbol </O> = <O> mathematical symbol </O> <sb> 1 </sb> = <O>
+
+mathematical symbol </O> <sb> 2 </sb> = 1.5, <O> mathematical symbol </O>
+
+<sb> 1 </sb> = 1.8, <O> mathematical symbol </O> <sb> 2 </sb> = 1, &gamma;
+
+<sb> 1 </sb> = 0.99, &gamma; <sb> 2 </sb> = 0.0825, and F <sb> 2 </sb> =
+
+0.01, while F <sb> 1 </sb> is varied. </p>
+
+<p> <ICE-CAN:W2A-040#114:1> Figure 7 illustrates the phase portrait and the frequency
+
+spectra of the motion at <O> mathematical symbol </O> = 1.3 prior to the
+
+resonance.
+<ICE-CAN:W2A-040#115:1> Clearly, the response is following the driver, and the system
+
+behaves as a linear system.
+<ICE-CAN:W2A-040#116:1> However, at <O> mathematical symbol </O> = 1.8, the system is in
+
+resonance and exhibits a subharmonic response.
+<ICE-CAN:W2A-040#117:1> The frequencies of this response are shown in the frequency spectra
+
+of <O> mathematical symbol </O> and &theta;, in Figure 8. </p>
+<ICE-CAN:W2A-040#118:1> <h> EXISTENCE OF CHAOTIC SOLUTIONS </h>
+
+<p> <ICE-CAN:W2A-040#119:1> In the previous sections, we discussed the behaviour of the
+
+system for small oscillations, and obtained the possible solutions for the
+
+system response using the two variable expansion perturbation method.
+<ICE-CAN:W2A-040#120:1> In this section, we illustrate the behaviour of the numerical system
+
+at <O> mathematical equation </O> , for high forcing amplitudes, and show
+
+that the system exhibits chaotic solutions. </p> <O> diagram </O> <O> Figure
+
+3 caption </O> <O> diagram </O> <O> Figure 4 caption </O> <O> diagram </O>
+
+<O> Figure 5 caption </O> <O> diagram </O> <O> Figure 6 caption </O> <O>
+
+diagram </O> <O> Figure 7 caption </O> <O> diagram </O> <O> Figure 8 caption
+
+</O>
+
+<p> <ICE-CAN:W2A-040#121:1> In order to illustrate the transition to chaos as the forcing
+
+amplitude increases, we obtain the bifurcation diagram of the motion of
+
+&theta; for two cases, shown in Figures 9-a and 9-b.
+<ICE-CAN:W2A-040#122:1> Figure 9-a is obtained for the parameter values <O> mathematical
+
+symbol </O> = <O> mathematical symbol </O> <sb> 1 </sb> = <O> mathematical
+
+symbol </O> <sb> 2 </sb> = 1.8, <O> mathematical symbol </O> <sb> 1 </sb> =
+
+1.8 , <O> mathematical symbol </O> <sb> 2 </sb> = 1, &gamma; <sb> 1 </sb> =
+
+0.99, &gamma; <sb> 2 </sb> = 0.0825, and F <sb> 2 </sb> = 0.01, while F <sb>
+
+1 </sb> is varied from 0 to 0.6.
+<ICE-CAN:W2A-040#123:1> In this case we can see a very interesting phenomenon as F <sb> 1
+
+</sb> increases.
+<ICE-CAN:W2A-040#124:1> The system undergoes two period doubling bifurcations, and reaches a
+
+period four, before going back to a period two at F <sb> 2 </sb> <O>
+
+mathematical symbol </O> 0.3.
+<ICE-CAN:W2A-040#125:1> Chaotic solutions are observed upon further increase in the forcing
+
+amplitude.
+<ICE-CAN:W2A-040#126:1> This behaviour is not typical in systems exhibiting period doubling
+
+routes to chaos, and is has been seen in few other multi-dimensional systems
+
+( e.g. see <fnr> [ 22, Moon 1987]) </fnr> <footnote> [ 22] Moon, F.C.,
+
+Chaotic Vibrations, J.Wiley and Sons, 1987. </footnote> .
+<ICE-CAN:W2A-040#127:1> A more conventional response is shown in the bifurcation diagram of
+
+&theta;, for <O> mathematical symbol </O> = <O> mathematical symbol </O> <sb>
+
+1 </sb> = <O> mathematical symbol </O> <sb> 2 </sb> = 1.8, <O> mathematical
+
+symbol </O> <sb> 1 </sb> = 1.8, <O> mathematical symbol </O> <sb> 2 </sb> =
+
+1, &gamma; <sb> 1 </sb> = 0.99, &gamma; <sb> 2 </sb> = 0.0825, and F2 = 0.75,
+
+Figure 9-b. <O> rest of paragraph </O> </I>

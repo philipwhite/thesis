@@ -1,0 +1,706 @@
+<I>
+
+<$A> <ICE-CAN:S1B-072#1:1:A> Mm hmm
+
+<$A> <ICE-CAN:S1B-072#2:1:A> <{> <[> <unclear> utterance </unclear>
+<ICE-CAN:S1B-072#3:1:A> Mm hmm hmm </[>
+
+<$B> <ICE-CAN:S1B-072#4:1:B> <{> <[> I cannot <.> unders </.> yes <}> <-> and </-> <=> and
+
+</=> </}> </[> <}> <-> <.> th </.> the </-> <=> the </=> </}> parents <}> <->
+
+on the street </-> <=> on our street </=> </}> they speak <,> very slowly and
+
+very nicely to me so I can understand them and eventually we start talking in
+
+English because <{> <[> <O> laugh </O> </[> <?> just out of </?> trying to
+
+communicate <}> <-> <.> e </.> </-> <+> effectively </+> </}>
+
+<$A> <ICE-CAN:S1B-072#5:1:A> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1B-072#6:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-072#7:1:B> And I cannot understand <,> what the children say at all
+
+<$B> <ICE-CAN:S1B-072#8:1:B> <}> <-> I h </-> <=> I don't </=> </}> understand one thing
+
+that any child <}> <-> <.> o </.> </-> <+> on </+> </}> the street says and I
+
+don't understand why
+
+<$A> <ICE-CAN:S1B-072#9:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-072#10:1:B> But <}> <-> their </-> <=> their < /=> </}> voice is <,>
+
+different <,> <}> <-> it's it's </-> <=> it's </=> </}> <,> squeakier <{> <[>
+
+<}> <-> you </-> <=> you know </=> </}> </[>
+
+<$A> <ICE-CAN:S1B-072#11:1:A> <[> Mm hmm mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-072#12:1:B> And <.> th </.> they talk very <,> quickly <,> and uhm I don't
+
+understand <,> a word so I'm kind of <,> odd when <@> Martha </@> goes up and
+
+<}> <-> she can </-> <,> <=> she can </=> </}> understand and bat it back and
+
+forth with these kids
+
+<$A> <ICE-CAN:S1B-072#13:1:A> And I think <}> <-> as </-> <=> as </=> </}> uh <@> Marmaduke
+
+</@> said you know if I went to a lot of French courses <}> <-> I'd <.> s
+
+</.> </-> <=> I </=> </}> have <,> this feeling that I would still come back
+
+and still not understand all these kids <{> <[> <,> <unclear> word </unclear>
+
+</[>
+
+<$B> <ICE-CAN:S1B-072#14:1:B> <[> They have all that academic stuff </[> </{>
+
+<$A> <ICE-CAN:S1B-072#15:1:A> <{> <[> <unclear> word </unclear> mm hmm mm hmm </[>
+
+<$B> <ICE-CAN:S1B-072#16:1:B> <[> That's right yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-072#17:1:A> <}> <-> Is there </-> Uh just going back to <{1> <[1> the
+
+document for a few minutes </[1> <=> I'm just thinking is there </=> </}>
+
+something uhm <,> specific that you wanted me to do <}> <-> for </-> <.> y
+
+</.> <=> for </=> </}> the committee in terms of uhm <,> uhm <,,> <unclear>
+
+word </unclear> this school helping to uhm <{2> <[2> <,> put </[2> together a
+
+position paper in other words
+
+<$B> <ICE-CAN:S1B-072#18:1:B> <[1> Mm hmm sure </[1> </{1>
+
+<$B> <ICE-CAN:S1B-072#19:1:B> <[2> Mm hmm </[2> </{2>
+
+<$B> <ICE-CAN:S1B-072#20:1:B> <{> <[> <}> <-> Kay </-> <+> Okay </+> </}> </[>
+
+<$A> <ICE-CAN:S1B-072#21:1:A> <[> Uhm </[> </{> cos I understand that what you've done now
+
+is a draft <{> <[> <,> </[> uhm and it's out there for consultation at this
+
+point
+
+<$B> <ICE-CAN:S1B-072#22:1:B> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-072#23:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-072#24:1:A> And on the twelfth <,> <{1> <[1> we'll be </[1> getting back
+
+together <{2> <[2> again </[2>
+
+<$B> <ICE-CAN:S1B-072#25:1:B> <[1> Hmm </[1> </{1>
+
+<$B> <ICE-CAN:S1B-072#26:1:B> <[2> Mm hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1B-072#27:1:A> Uhm and we'll be expecting people to come forward with
+
+suggestions and <{> <[> submissions </[>
+
+<$B> <ICE-CAN:S1B-072#28:1:B> <[> Absolutely </[> </{>
+
+<$A> <ICE-CAN:S1B-072#29:1:A> Okay
+
+<$A> <ICE-CAN:S1B-072#30:1:A> And <,> do you have an idea what you're looking for what kind
+
+of feedback you're looking for from people
+
+<$B> <ICE-CAN:S1B-072#31:1:B> I want to know if what is on the paper <,> reflects <,> what
+
+you want to retain because really what this paper is about <,> we've already
+
+handed into the board <,> philosophically <{1> <[1> <,> what </[1> an <indig>
+
+&eacute;cole premi&egrave;re </indig> is and why we hold it so dear <{2> <[2>
+
+all of us </[2> hold it so dear
+
+<$A> <ICE-CAN:S1B-072#32:1:A> <[1> Mm hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1B-072#33:1:A> <[2> Mm hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1B-072#34:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-072#35:1:B> But when it comes to our school <,> if we are relocated <,>
+
+<}> <-> what is </-> <,> <=> what is </=> </}> near and dear to us
+<ICE-CAN:S1B-072#36:1:B> What do we want to tell the board <}> <-> that </-> <=> that </=>
+
+</}> we ask that <}> <-> you </-> <,> <=> you </=> </}> take into account
+
+<$A> <ICE-CAN:S1B-072#37:1:A> <{> <[> Mm hmm </[>
+
+<$B> <ICE-CAN:S1B-072#38:1:B> <[> And it's </[> </{> very important to us in trying not to
+
+alter <{> <[> <,> </[> for us
+
+<$A> <ICE-CAN:S1B-072#39:1:A> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-072#40:1:B> And so that list <,> what I would like you to do <,> uhm <,>
+
+<}> <-> <.> an </.> </-> <+> and </+> </}> you would be a wonderful help in
+
+this <,> is to look at that and to see if there's anything left out <,> or
+
+anything just <,> not said as effectively as it could
+
+<$B> <ICE-CAN:S1B-072#41:1:B> Do you know <}> <-> what I <{> <[> understand </-> </[> uh <=>
+
+what I mean </=> </}>
+
+<$A> <ICE-CAN:S1B-072#42:1:A> <[> Okay </[> </{>
+
+<$B> <ICE-CAN:S1B-072#43:1:B> And <}> <-> if </-> <=> if </=> </}> <}> <-> anything is </->
+
+uhm <,> <=> anything isn't </=> </}> right <,> if you would let me know
+
+before the meeting <,> <{> <[> that would be </[> great
+
+<$A> <ICE-CAN:S1B-072#44:1:A> <[> Okay </[> </{>
+
+<$A> <ICE-CAN:S1B-072#45:1:A> Do you <}> <-> wanna </-> <+> want to </+> </}> go through it
+
+now
+<ICE-CAN:S1B-072#46:1:A> We can if you want
+
+<$B> <ICE-CAN:S1B-072#47:1:B> I've got a rough draft upstairs <}> <-> if if </-> uhm <=> if
+
+</=> </}> I can just <,> <{> <[> unhook </[>
+
+<$A> <ICE-CAN:S1B-072#48:1:A> <[> Yeah </[> </{>
+
+<$B> <ICE-CAN:S1B-072#49:1:B> <{> <[> That okay </[>
+
+<$A> <ICE-CAN:S1B-072#50:1:A> <[> Yeah </[> </{>
+
+<$B> <ICE-CAN:S1B-072#51:1:B> Okay that would be great <&> Short tape break </&>
+
+<$B> <ICE-CAN:S1B-072#52:1:B> <}> <-> I'm <}> <-> gonna </-> <+> going to </+> </}> </-> <=>
+
+I'm <}> <-> gonna </-> <+> going to </+> </}> </=> </}> read it
+
+<$B> <ICE-CAN:S1B-072#53:1:B> <{> <[> Just <,> because </[> it's <,> <unclear> one or two
+
+words </unclear>
+
+<$A> <ICE-CAN:S1B-072#54:1:A> <[> Okay </[> </{>
+
+<$B> <ICE-CAN:S1B-072#55:1:B> Okay
+<ICE-CAN:S1B-072#56:1:B> <quote> We the <indig> &eacute;cole premi&egrave;re </indig> <@>
+
+Fatima </@> </quote> <,> hopefully <,> it'll be orientation <,> school and
+
+home and school committees
+
+<$A> <ICE-CAN:S1B-072#57:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-072#58:1:B> This is being sent out to members of all committees <,> so
+
+they all have a chance to see it
+
+<$A> <ICE-CAN:S1B-072#59:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-072#60:1:B> <quote> Have listed uhm the </quote> uhm <}> <-> I </-> <=> I
+
+</=> </}> changed that from basic requirements to <,> <X> primary
+
+requirements of our school in the event that relocation of our population is
+
+considered by the <@> Leedsman </@> school board
+<ICE-CAN:S1B-072#X61:1:B> We look forward to working closely with our board if our school is
+
+affected by relocation
+<ICE-CAN:S1B-072#X62:1:B> Point one <,> a building centrally located to our population
+<ICE-CAN:S1B-072#X63:1:B> A <@> Fatima </@> building situated between <@> Spruces </@> <,>
+
+Boulevard and <@> Churchill </@> Boulevard would be geographically and uhm
+
+we're also adding north of highway <@> thirty </@> <{> <[> <unclear> word
+
+</unclear> <,> </[> would be geographically appropriate for our clientele
+
+</X>
+
+<$A> <ICE-CAN:S1B-072#64:1:A> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-072#65:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-072#66:1:B> So <,> not <,> hitting them between the eyes with it <,> but
+
+just saying
+
+<$A> <ICE-CAN:S1B-072#67:1:A> <{> <[> Mm hmm </[>
+
+<$B> <ICE-CAN:S1B-072#68:1:B> <[> <unclear> word </unclear> </[> </{> for them
+
+<$B> <ICE-CAN:S1B-072#69:1:B> <X> Uhm <,> a relocation as a unit <,> of a current student
+
+body
+<ICE-CAN:S1B-072#X70:1:B> We would continue to be an <indig> &eacute;cole premi&egrave;re
+
+</indig> comprised of both eligible and non-eligible students </X>
+
+<$B> <ICE-CAN:S1B-072#71:1:B> We <}> <-> wanna </-> <+> want to </+> </}> be sure that <,>
+
+there is no problem with the eligible students continuing to go to the school
+
+<{1> <[1> especially </[1> <}> <-> if </-> <.> an </.> uhm <,> <=> if </=>
+
+</}> the neighbourhood school concept is brought in and there's uhm <,> early
+
+immersion <,> that we still are allowed to <,> uhm go and be bussed <{2> <[2>
+
+<,> to </[2> our school
+
+<$A> <ICE-CAN:S1B-072#72:1:A> <[1> Mm hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1B-072#73:1:A> <[2> Mm hmm </[2> </{2> mm hmm
+
+<$B> <ICE-CAN:S1B-072#74:1:B> <quote> Keeping our current <indig> &eacute;cole
+
+premi&egrave;re </indig> <@> Fatima </@> staff that includes teachers
+
+administrators support staff <unclear> word </unclear> </quote>
+<ICE-CAN:S1B-072#75:1:B> Uhm let's see
+<ICE-CAN:S1B-072#76:1:B> <quote> Keeping our school name as <indig> &eacute;cole
+
+premi&egrave;re </indig> <@> Fatima </@> </quote>
+
+<$A> <ICE-CAN:S1B-072#77:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-072#78:1:B> Uh facilities Miss <@> Elizabeth </@> helped out with which
+
+allow for extended kindergarten daycare music room specialist room classes
+
+with windows <,> and non-crowded environment
+<ICE-CAN:S1B-072#79:1:B> Something about taking into account the needs of <}> <-> our
+
+special </-> uhm <,> uh <=> all the children but especially the special needs
+
+students </=> </}> really need <,> breathing space
+
+<$A> <ICE-CAN:S1B-072#80:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-072#81:1:B> Okay
+
+<$A> <ICE-CAN:S1B-072#82:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-072#83:1:B> And then ha ha
+
+<$A> <ICE-CAN:S1B-072#84:1:A> Just uh uh <?> <.> et </.> </?> <{1> <[1> <,> </[1> if I could
+
+just <{2> <[2> interject </[2> here for a <{3> <[3> second </[3>
+
+<$B> <ICE-CAN:S1B-072#85:1:B> <[1> Mm hmm </[1> </{1>
+
+<$B> <ICE-CAN:S1B-072#86:1:B> <[2> Sure </[2> </{2>
+
+<$B> <ICE-CAN:S1B-072#87:1:B> <[3> Mm hmm </[3> </{3>
+
+<$A> <ICE-CAN:S1B-072#88:1:A> Uhm I'm just wondering uh <}> <-> how many </-> <,> <=> how
+
+many </=> </}> children in our school population have special needs and
+
+should we be <,> identifying that in this particular letter
+
+<$B> <ICE-CAN:S1B-072#89:1:B> <?> We've not </?>
+
+<$A> <ICE-CAN:S1B-072#90:1:A> No
+
+<$B> <ICE-CAN:S1B-072#91:1:B> <,> I don't know <,> and that's a good point
+
+<$B> <ICE-CAN:S1B-072#92:1:B> You know for attention deficit <,> which is <}> <-> a </-> <=>
+
+a </=> </}> specific need is just five <,,> and that's not a lot of the
+
+population
+<ICE-CAN:S1B-072#93:1:B> I don't know if there are other specific needs that are being
+
+addressed
+<ICE-CAN:S1B-072#94:1:B> I imagine oh I know they're not <{> <[> because </[> <}> <-> I've
+
+</-> <=> I've </=> </}> <}> <-> seen </-> <=> seen </=> </}> kids with
+
+different needs
+
+<$A> <ICE-CAN:S1B-072#95:1:A> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-072#96:1:B> But uhm <,> yes that's a good point <,>
+<ICE-CAN:S1B-072#97:1:B> That's a good point
+<ICE-CAN:S1B-072#98:1:B> <}> <-> You can see even </-> <=> You see </=> </}> <}> <-> this
+
+was </-> <=> this was </=> </}> uhm <.> o </.> <,> some of the old drafts
+<ICE-CAN:S1B-072#99:1:B> I'm not even sure if I may have even taken that off so you'll see
+
+<}> <-> in </-> <=> in </=> </}> whatever that comes out whether that's on
+
+<$B> <ICE-CAN:S1B-072#100:1:B> If it's <{> <[> on </[> <,> it's a good point to bring up
+
+<$A> <ICE-CAN:S1B-072#101:1:A> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-072#102:1:A> Mm hmm mm hmm
+
+<$B> <ICE-CAN:S1B-072#103:1:B> <}> <-> Kay </-> <+> Okay </+> </}>
+<ICE-CAN:S1B-072#104:1:B> Notification the last point <,> uhm and this was changed a little
+
+bit but this is the basic gist of it
+<ICE-CAN:S1B-072#105:1:B> <}> <-> Notification uhm of </-> <,> <=> If there is notification
+
+</=> </}> <}> <-> of </-> uhm <=> of </=> </}> <,> closure of our building
+
+<,> we want to know well before the time <,> that <,> the actual closure
+
+would take place <,> and at the same time that closure is notified we also
+
+want to know <,> which building we are being moved to
+<ICE-CAN:S1B-072#106:1:B> And that the reason for this is that we want to <,> give this
+
+information to our population and prepare everyone for their relocation
+
+without uhm <,> oh I don't know
+
+<$A> <ICE-CAN:S1B-072#107:1:A> To ensure for a smooth transition
+
+<$B> <ICE-CAN:S1B-072#108:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-072#109:1:A> Yeah
+
+<$B> <ICE-CAN:S1B-072#110:1:B> Yeah
+
+<$B> <ICE-CAN:S1B-072#111:1:B> <{> <[> Yeah </[>
+
+<$A> <ICE-CAN:S1B-072#112:1:A> <[> Yeah </[> </{>
+
+<$B> <ICE-CAN:S1B-072#113:1:B> <}> <-> And and </-> <=> And </=> </}> also I added something
+
+about uh this'll make sure that <}> <-> our E P P the </-> <=> our E P P </=>
+
+</}> parents <,> uh feel secure about the situation and part of the process
+<ICE-CAN:S1B-072#114:1:B> That type of thing
+<ICE-CAN:S1B-072#115:1:B> So that <}> <-> they're <,> you know they're </-> <=> they </=>
+
+</}> know what's going on all along
+
+<$B> <ICE-CAN:S1B-072#116:1:B> <,> It'll be very hard on people to <.> h </.> oh by the way
+
+we're closing your school and then <,> well the <{> <[> school </[> building
+
+which to people <}> <-> are their </-> <,> <=> is their </=> </}> school and
+
+uhm <.> i </.> <,> you're left hanging in mid-air <}> <-> so </-> <,> <=> so
+
+</=> </}> to uh not do that
+
+<$A> <ICE-CAN:S1B-072#117:1:A> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-072#118:1:B> And then <}> <-> a closing <,,> inviting uh <,> some </-> <=>
+
+some </=> </}> sort of closing to say again that <}> <-> we we wish to </->
+
+<,> <=> we wish to </=> </}> look forward to uhm <,> uhm <,,> <}> <-> a </->
+
+<=> a </=> </}> good uhm <,> resolution <}> <-> to </-> <=> to </=> </}> this
+
+type of situation with the board and we look forward to working with them <,>
+
+on it
+<ICE-CAN:S1B-072#119:1:B> Something to say that we're willing <}> <-> to </-> <,> <=> to
+
+</=> </}> go halfway on this
+<ICE-CAN:S1B-072#120:1:B> We just
+
+<$A> <ICE-CAN:S1B-072#121:1:A> We <}> <-> wanna </-> <+> want to </+> </}> cooperate <{1>
+
+<[1> <,> </[1> however give us our <?> needed </?> time <{2> <[2> <}> <-> and
+
+</-> <=> and </=> </}> </[2> you know <}> <-> keep us </-> <,> <=> keep us
+
+</=> </}> in the position where we feel that <}> <-> we can </-> <,> <=> we
+
+can </=> </}> help you to make a <{3> <[3> difference to </[3> make people
+
+happy
+
+<$B> <ICE-CAN:S1B-072#122:1:B> <[1> Yeah </[1> </{1>
+
+<$B> <ICE-CAN:S1B-072#123:1:B> <[2> Yeah </[2> </{2>
+
+<$B> <ICE-CAN:S1B-072#124:1:B> <[3> <?> <.> E </.> </?> </[3> </{3>
+
+<$B> <ICE-CAN:S1B-072#125:1:B> That's it
+
+<$A> <ICE-CAN:S1B-072#126:1:A> <{> <[> Uhm </[>
+
+<$B> <ICE-CAN:S1B-072#127:1:B> <[> Cos </[> </{> we're both winners if it comes out that way
+
+huh
+
+<$A> <ICE-CAN:S1B-072#128:1:A> Yeah <,>
+
+<$A> <ICE-CAN:S1B-072#129:1:A> There's something <}> <-> that </-> <=> that </=> </}> came
+
+up as you were talking about the advance notice
+
+<$A> <ICE-CAN:S1B-072#130:1:A> Uhm <,,> I've had some experience in this <{> <[> in that
+
+</[> the daycare that uhm <,> <@> Kathy </@> went to as a young child <,> uhm
+
+<,> relocated <,> uh <}> <-> and </-> <=> and </=> </}> <}> <-> it was <.> r
+
+</.> </-> <=> it was a really </=> </}> <,> tough <,> decision actually
+
+because the daycare <,> had only been in existence <,> for about two years
+
+<,> when <,> the building was slated for demolition
+
+<$B> <ICE-CAN:S1B-072#131:1:B> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-072#132:1:B> Oh my
+
+<$A> <ICE-CAN:S1B-072#133:1:A> And <,> uhm <}> <-> we were </-> uhm <,> <=> we were </=>
+
+</}> all a little saddened by it and yet we all saw it as a positive move <{>
+
+<[> because </[> <,> the location that we were now being offered was bigger
+
+and better
+
+<$B> <ICE-CAN:S1B-072#134:1:B> <[> Mm </[> </{>
+
+<$B> <ICE-CAN:S1B-072#135:1:B> Hmm
+
+<$A> <ICE-CAN:S1B-072#136:1:A> Uh bigger uhm <,,> in the sense of spacewise uh and also uhm
+
+outside the building <}> <-> the </-> uh <=> the </=> </}> playground area
+
+was much much bigger <,> so there were a lot of really <,> great plusses to
+
+it
+
+<$A> <ICE-CAN:S1B-072#137:1:A> Uhm <,,> better in the sense that uhm <,> we felt uhm <,> it
+
+was a more homey kind of atmosphere that <{1> <[1> we were going </[1> to be
+
+moving to <{2> <[2> <,> although </[2> it was uhm <,> <}> <-> a </-> <=> a
+
+</=> </}> duplex <,> uh that had been renovated
+
+<$B> <ICE-CAN:S1B-072#138:1:B> <[1> Uh huh </[1> </{1>
+
+<$B> <ICE-CAN:S1B-072#139:1:B> <[2> Mm </[2> </{2>
+
+<$A> <ICE-CAN:S1B-072#140:1:A> The other duplexes <,> in the area were all University
+
+buildings
+
+<$B> <ICE-CAN:S1B-072#141:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-072#142:1:A> And so there was a degree of <,,> not commercialism but I
+
+guess institutionalism <{1> <[1> <,> uhm </[1> on the street <{2> <[2> you
+
+know </[2>
+
+<$B> <ICE-CAN:S1B-072#143:1:B> <[1> Mm hmm </[1> </{1>
+
+<$B> <ICE-CAN:S1B-072#144:1:B> <[2> Mm hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1B-072#145:1:A> Uhm and it was a very short little space <,> so uhm <,> it
+
+didn't have that homey feeling
+
+<$B> <ICE-CAN:S1B-072#146:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-072#147:1:A> And then we went up against opposition of uhm our local
+
+residents of our new building <,> who did not want the daycare to be situated
+
+on their street
+
+<$B> <ICE-CAN:S1B-072#148:1:B> <{> <[> Mm hmm </[>
+
+<$A> <ICE-CAN:S1B-072#149:1:A> <[> Not </[> </{> In My Backyard syndrome <,> and uh
+
+<$B> <ICE-CAN:S1B-072#150:1:B> I just find that amazing <{> <[> for a daycare </[>
+
+<$A> <ICE-CAN:S1B-072#151:1:A> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-072#152:1:B> I mean <}> <-> it's </-> <=> it's </=> </}> <,,>
+
+<$B> <ICE-CAN:S1B-072#153:1:B> Well <}> <-> I </-> <=> I </=> </}> just find it surprising
+
+that people <}> <-> are </-> <=> are </=> </}> as uh <,> contrary to
+
+<unclear> word </unclear> <}> <-> this </-> <=> this </=> </}> whole idea
+
+<$B> <ICE-CAN:S1B-072#154:1:B> <{> <[> It's hard
+<ICE-CAN:S1B-072#155:1:B> It's </[>
+
+<$A> <ICE-CAN:S1B-072#156:1:A> <[> Mm hmm mm hmm it is </[> </{>
+
+<$B> <ICE-CAN:S1B-072#157:1:B> We just hear on the news now about what's going on about the
+
+daycare
+
+<$A> <ICE-CAN:S1B-072#158:1:A> Mm hmm
+
+<$A> <ICE-CAN:S1B-072#159:1:A> Yeah there's one right now that uh I think one of the
+
+Canadian uh <,> government officials wrote a letter on uh <,> government
+
+stationary <{> <[> <unclear> word </unclear> uhm </[>
+
+<$B> <ICE-CAN:S1B-072#160:1:B> <[> <O> laugh </O> yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-072#161:1:A> Yeah <}> <-> the </-> <=> the </=> </}> residents thought we
+
+were <}> <-> gonna </-> <+> going to </+> </}> be ripping up and down the
+
+streets with our cars dropping <{> <[> our children off </[> at all hours and
+
+<,> you know
+
+<$B> <ICE-CAN:S1B-072#162:1:B> <[> Hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-072#163:1:A> Ah <}> <-> in </-> <=> in </=> </}> reality I <?> mean </?>
+
+we've really blended <}> <-> into <{1> <[1> the </-> <=> into the </=> </}>
+
+community </[1> quite nicely <}> <-> and </-> uhm <,,> <=> and </=> </}> <}>
+
+<-> we've </-> <=> we've </=> </}> had some interesting uh <,> uh
+
+get-togethers with the community and invited them to come and visit and we
+
+had an open house and they could come in and <,> tour the <{2> <[2>
+
+facilities and what not </[2>
+
+<$B> <ICE-CAN:S1B-072#164:1:B> <[1> I would think so </[1> </{1>
+
+<$B> <ICE-CAN:S1B-072#165:1:B> <[2> Mm hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1B-072#166:1:A> And I think that was a very positive experience <}> <-> and
+
+</-> <=> and </=> </}> that might be something that we have to look <{> <[>
+
+at
+
+<$A> And </[> also uhm
+
+<$B> <ICE-CAN:S1B-072#167:1:B> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-072#168:1:B> That's a good idea
+
+<$A> <ICE-CAN:S1B-072#169:1:A> So <}> <-> we tried to </-> <=> we tried to </=> </}> look at
+
+it from the community's <{> <[> perspective </[>
+
+<$B> <ICE-CAN:S1B-072#170:1:B> <[> Mm </[> </{>
+
+<$A> <ICE-CAN:S1B-072#171:1:A> And we tried to look at it from the children's perspective
+
+<$A> <ICE-CAN:S1B-072#172:1:A> And then so well in advance we explained to the children that
+
+the building was going to be <,> taken down <,> uhm but it was for a positive
+
+step because they were going to be building a new high school and it was
+
+really important for <,> the boys of this particular school to have the space
+
+that they needed
+<ICE-CAN:S1B-072#173:1:A> And <,> so we tried to encourage them to understand <,> uhm the
+
+process a little bit more
+
+<$B> <ICE-CAN:S1B-072#174:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-072#175:1:A> So that when they saw <}> <-> the being </-> <=> the building
+
+being </=> </}> torn down <,> if <,> it came to that <,> that none of them
+
+would be frightened
+
+<$B> <ICE-CAN:S1B-072#176:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-072#177:1:A> And so we had to prepare the children <,> and we had to
+
+prepare the community that we were moving into and we had to prepare the
+
+parents <,> of the children <}> <-> who <,> were also </-> <=> whose lives
+
+were also </=> </}> being affected by <{> <[> all of this </[>
+
+<$B> <ICE-CAN:S1B-072#178:1:B> <[> How did you affect </[> </{> the community
+
+<$A> <ICE-CAN:S1B-072#179:1:A> How <{> <[> did we </[>
+
+<$B> <ICE-CAN:S1B-072#180:1:B> <[> How did you </[> </{> let them know to take away some of
+
+that <,> anxiety that they had
+
+<$A> <ICE-CAN:S1B-072#181:1:A> Uhm probably uhm <,> uh <}> <-> <.> th </.> the </-> uh <=>
+
+the </=> </}> most uhm <,> difficult thing to do actually was to have a
+
+meeting with the community
+<ICE-CAN:S1B-072#182:1:A> We invited <,> uhm everyone on the street <,> to come <,> and uh
+
+meet with us
+<ICE-CAN:S1B-072#183:1:A> And it was a somewhat antagonistic uh <,> meeting
+
+<$B> <ICE-CAN:S1B-072#184:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-072#185:1:A> Uhm a lot of people came <}> <-> with </-> <=> with </=> </}>
+
+uh padded agendas <{> <[> and </[> lists of complaints and <,> ideas
+
+<$B> <ICE-CAN:S1B-072#186:1:B> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-072#187:1:A> And <,> what we did was that we <,> basically just tried to
+
+handle the questions one on one <,> uhm <,,> gently <,,> uh and <}> <-> with
+
+a </-> <=> with uh a </=> <-> a </-> </}> <,> strong degree of tact <{> <[>
+
+<}> <-> and </-> <=> and </=> </}> </[>
+
+<$B> <ICE-CAN:S1B-072#188:1:B> <[> Mm hmm mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-072#189:1:A> Uh <.> e </.> <}> <-> we tried to </-> uhm <,,> <=> we tried
+
+to </=> </}> impress upon them that we were of a cooperative nature and so if
+
+there was something that <,> they were really opposed to that we didn't feel
+
+was something absolutely necessary then we <,> were <.> c </.> going to
+
+accommodate them
+
+<$B> <ICE-CAN:S1B-072#190:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-072#191:1:A> Uhm so <,> what we did was <,> they were very concerned about
+
+us driving up and down the street so we agreed that we would not use the
+
+front doors <,> of the building
+
+<$A> <ICE-CAN:S1B-072#192:1:A> And we designed the building so that people would have to
+
+come through the campus <,> and park on the campus <,> parking <{1> <[1> lot
+
+facilities <,> and come </[1> in through the back door <,> to eliminate <.> s
+
+</.> the additional stress on the street <{2> <[2> that they thought </[2>
+
+that they were going to have
+
+<$B> <ICE-CAN:S1B-072#193:1:B> <[1> Oh oh </[1> </{1>
+
+<$B> <ICE-CAN:S1B-072#194:1:B> <[2> Mm </[2> </{2> </I>

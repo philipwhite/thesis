@@ -1,0 +1,440 @@
+<I>
+<ICE-CAN:W2A-008#1:1> <h> <it> Enlightenment and Academe: </it> </h>
+<ICE-CAN:W2A-008#2:1> <h> <it> The University in the Eighteenth Century </it> </h>
+<ICE-CAN:W2A-008#3:1> P.B. WOOD
+
+<p> <ICE-CAN:W2A-008#4:1> Given the special relationship assiduously cultivated in recent
+
+years by Britain and the United States, it is hardly surprising that during
+
+the last decade Margaret Thatcher has done more for American universities
+
+than anyone since Hitler.
+<ICE-CAN:W2A-008#5:1> Having created a thoroughly unhealthy climate within the British
+
+university system and driven many talented academics into lucrative exile in
+
+the us, Mrs Thatcher can at least now rest content with the thought that the
+
+successful export of scholarly expertise helps to silence potential critics
+
+of her brave new world, to improve Britain's ailing balance of trade, and to
+
+trim public expenditure.
+<ICE-CAN:W2A-008#6:1> It is therefore highly ironic that amid the tribal chants of <quote> "
+
+Market Forces Rule <smallcaps> OK </smallcaps> " </quote> and the educational
+
+hooliganism of Thatcher's Tory supporters, there has been a veritable
+
+renaissance in Britain of the study of the history of universities, which has
+
+enriched and sometimes transformed our knowledge of European academic life
+
+since the foundation of the first universities in Salerno, Paris,
+
+Montpellier, and Bologna in the eleventh and twelfth centuries. </p>
+
+<p> <ICE-CAN:W2A-008#7:1> Prior to the late 1970s, the golden age of university history in
+
+Britain was unquestionably the nineteenth century.
+<ICE-CAN:W2A-008#8:1> One <}> <-> need </-> <+> needs </+> </}> only point to the volumes
+
+penned by Hastings Rashdall on the medieval European universities, those by
+
+J.B. Mulinger on Cambridge, those by Alexander Bower and Sir Alex <l> ander
+
+Grant on Edinburgh, or the series of Oxford college histories pub <l> lished
+
+between 1898 and 1903 to see that the Victorian era witnessed a remarkable
+
+flowering of British scholarship dedicated to the developmentof institutions
+
+of higher learning throughout western Europe.
+<ICE-CAN:W2A-008#9:1> But since then, the field has had a more chequered career.
+<ICE-CAN:W2A-008#10:1> For much of this century, a large proportion of the literature
+
+produced has been either anecdotal or anti <l> quarian in character, and
+
+often published to celebrate institutional milestones.
+<ICE-CAN:W2A-008#11:1> While it would be churlish to deny that at least some of this com <l>
+
+memorative work has been highly valuable, it would also be true to say that
+
+until recently comparatively little historical attention was paid to such
+
+topics as the prosopography of student bodies and of the professoriate, the
+
+changes in university curricula, or the frequently unedifying realm of
+
+academic politics; and it was only in the 1960s that the study of university
+
+history took on a more analytical edge.
+<ICE-CAN:W2A-008#12:1> Books edited or written by George Davie, Hugh Kearney, Sheldon
+
+Rothblatt, Lawrence Stone, and E.G.W. Bill signalled renewed vigour, and the
+
+subsequent appearance of important studies by Robert Anderson, Davie, and
+
+John Gascoigne among others has confirmed the scholarly health of the field.
+<ICE-CAN:W2A-008#13:1> As if to consolidate this revival, and mark the emergence of yet
+
+another academic sub-discipline, the annual <it> History of Universities
+
+</it> was launched in 1981 by the late Charles Schmitt, following a highly
+
+successful conference on the theme held at the Warburg Institute in London in
+
+1978, and the continued vitality of this journal attests to the flourishing
+
+state of university history ( as opposed to the universities themselves) in
+
+Britain. </p>
+
+<p> <ICE-CAN:W2A-008#14:1> So too in their different ways do the fifth volume of <it> The
+
+History of the Univer <l> sity of Oxford </it> , which covers the period c.
+
+1688-1800, and Laurence Brockliss's meticulously crafted <it> French Higher
+
+Education in the Seventeenth and Eighteenth Centuries </it> .
+<ICE-CAN:W2A-008#15:1> The Oxford <it> History </it> is something of a curate's egg, for it
+
+is made up of 32 essays of variable quality covering a wide variety of
+
+topics.
+<ICE-CAN:W2A-008#16:1> Historio <l> graphically, the volume is highly traditional in its
+
+focus, since the bulk of the contributions deal with such themes as religion
+
+and politics in the univer <l> sity, while the study of student life, for
+
+example, is conspicuous by its absence.
+<ICE-CAN:W2A-008#17:1> Nonetheless, a number of the chapters, like those by the late G.V.
+
+Bennett on the <quote> " rage of party" </quote> in Oxford in the period
+
+1688-1714, are of a high standard, and it must be said that the University -
+
+supported project from which the <it> History </it> derives reflects a
+
+refreshing and perhaps even en <l> lightened institutional sense of the value
+
+of university history.
+<ICE-CAN:W2A-008#18:1> Brockliss's monograph, on the other hand, is more in tune with recent
+
+historiographical trends, and hence deals with topics like student life and
+
+the wider cultural significance of the university curriculum in the <it>
+
+ancien r&eacute;gime </it> .
+<ICE-CAN:W2A-008#19:1> As befits a work dealing with France, there are even a number of maps
+
+illustrating the geographical distribution of universities and colleges drawn
+
+in typical <it> Annales </it> fashion.
+<ICE-CAN:W2A-008#20:1> While the Oxford volume is sometimes impressionistic and occa <l>
+
+sionally lacking in analytical rigour, Brockliss combines close archival
+
+research with a broad historical vision, and his book exemplifies the consi
+
+<l> derable virtues of the research on the development of European univer <l>
+
+sities currently being produced by British scholars. </p>
+<ICE-CAN:W2A-008#21:1> <h> I </h>
+
+<p> <ICE-CAN:W2A-008#22:1> Thanks in part to the memoirs of Edward Gibbon, the dominant
+
+image of eighteenth-century Oxford is one of professorial negligence and
+
+intellect <l> ual torpor.
+<ICE-CAN:W2A-008#23:1> Looking back on his brief sojourn at Magdalen College in 1752-53
+
+Gibbon condemned the <quote> " narrow, lazy, and oppressive" </quote> spirit
+
+prevalent in the two English universities, and affirmed in a memorable
+
+passage that <X> <quote> " [ t]o the University of Oxford <it> I </it>
+
+acknowledge no obligation; and she will as cheer <l> fully renounce me for a
+
+son, as I am willing to disclaim her for a mother.
+<ICE-CAN:W2A-008#X24:1> I spent fourteen months at Magdalen College; they proved ... the
+
+most idle and unprofitable of my whole life" </quote> </X> ( 29-30).
+<ICE-CAN:W2A-008#25:1> Adam Smith, who was a Snell Exhibitioner at Balliol from 1740 until
+
+1746, echoed Gibbon's harsh judg <l> ment.
+<ICE-CAN:W2A-008#26:1> In <it> The Wealth of Nations </it> , Smith contended that the system
+
+of class fees common in the Scottish universities encouraged professors to
+
+exert themselves in their teaching, and he contrasted the happy effects of
+
+com <l> petition in the academic market place with the dismal state of
+
+universities in which the professoriate was supported primarily by fixed
+
+salaries.
+<ICE-CAN:W2A-008#27:1> Such a method of payment, Smith argued, promoted idleness, and he
+
+observed that <X> <quote> " [ i]n the university of Oxford, the greater part
+
+of the public professors have, for these many years, given up altogether even
+
+the pretence of teaching" </quote> </X> ( I: 247; compare Reid, <quote> "
+
+Statistical Account" </quote> 1: 229-31).
+<ICE-CAN:W2A-008#28:1> Oxford also came in for some sharp criticism from another Glasgow
+
+academic, George Jardine, who lectured on logic at the University from 1774
+
+until his death in 1827.
+<ICE-CAN:W2A-008#29:1> In his <it> Outlines of Philosophical Education </it> , Jardine
+
+challenged the smug self-satisfaction of the apologists for the ancient seats
+
+of learning south of the Tweed, and argued that the tutorial system employed
+
+by the English and Irish universities stifled the intellectual development of
+
+the young.
+<ICE-CAN:W2A-008#30:1> Like Smith, Jardine underlined the beneficial effects of competition
+
+or " emula <l> tion," and insisted that <quote> " all the faculties of the
+
+mind are exerted, and powers unused before, are awakened into life and
+
+activity" </quote> in the atmosphere of the ( Scottish) lecture hall ( 464).
+
+</p> <fnr> <sp> 1 </sp> </fnr>
+
+<p> <ICE-CAN:W2A-008#31:1> The French universities did not fare much better in the eyes of
+
+the enlightened.
+<ICE-CAN:W2A-008#32:1> While residing at La Fleche in 1735, David Hume remarked to an
+
+English correspondent: <X> <quote> " As to a celebrated Professor, I do not
+
+know, if there is such to be met with at present in any part of France,
+
+especially for the Sciences, in which generally the French are much <}> <->
+
+inferiour </-> <=> inferior </=> </}> to our own <}> <-> Countreymen </-> <=>
+
+Countrymen </=> </}> " </quote> </X> ( Mossner 32).
+<ICE-CAN:W2A-008#33:1> Smith too was critical, claiming in <it> The Wealth of Nations </it>
+
+that the French universities illustrated the pernicious effects of
+
+ecclesiastical and political control over academic appointments ( 2: 247-48).
+<ICE-CAN:W2A-008#34:1> Predictably, Voltaire sniped at the universities as well.
+<ICE-CAN:W2A-008#35:1> Like Gibbon, he associated them with monkishness and barbarism, and
+
+Voltaire contrasted the professoriate ( as well as the Academicians of his
+
+time) with <quote> " the true scholars shut up in their studies ... [ who]
+
+have nearly all been persecuted" </quote> ( 274).
+<ICE-CAN:W2A-008#36:1> But perhaps the most damning attack on French higher education came
+
+in Jean D'Alembert's article <quote> " <indig> Coll&eacute;ge </indig> , "
+
+</quote> in the third volume of the <it> <indig> Encyclop&eacute;die </indig>
+
+</it> .
+<ICE-CAN:W2A-008#37:1> For D'Alembert there took a very dim view of the benefits of a
+
+college education: <X> <quote> <foreign> [ U]n jeune homme apr&egrave;s avoir
+
+pass&eacute; dans un coll&egrave;ge dix ann&eacute;es, qu'on doit mettre au
+
+nombre de plus pr&eacute;cieuses de sa vie, en sort, lorsqu'il a le mieux
+
+employ&eacute; son tems, avec la connoissance tr&egrave;s-imparfaite d'une
+
+langue morte, avec des pr&egrave;ceptes de Rh&egrave;torique & des principes
+
+de Philosophie qu'il doit t&acircumflex;cher d'oublier; souvent avec une
+
+corruption de moeurs dont l'alt&eacute;ration de la sant&eacute; est la
+
+moindre suite; quelquefois avec des principes d'une d&eacute;votion
+
+mal-entendue; mais plus ordinairement avec une connoissance de la Religion si
+
+superficielle, qu'elle succombe &agrave; la premiere conversation impie, ou
+
+&agrave; la premiere lecture dangereuse. </foreign> ( 635) </quote> </X> </p>
+
+<p> <ICE-CAN:W2A-008#38:1> The <foreign> <it> philosophes </it> </foreign> on both sides of
+
+the Channel were, therefore, largely hostile to traditional educational
+
+institutions like Oxford or the various French universities, but were their
+
+criticisms entirely just? </p>
+<ICE-CAN:W2A-008#39:1> <h> II </h>
+
+<p> <ICE-CAN:W2A-008#40:1> In order to answer this question, I want to juxtapose the
+
+intellectual record of Oxford and the French universities in the eighteenth
+
+century as presented in the volumes under review, with that of their
+
+counterparts in Scotland.
+<ICE-CAN:W2A-008#41:1> For the assessments of Oxford and the French schools quoted above con
+
+<l> trast markedly with contemporary perceptions of the Scottish colleges (
+
+and not just those of the Scots themselves).
+<ICE-CAN:W2A-008#42:1> Recent work on the cultural milieu of eighteenth-century Scotland has
+
+shown that the universities of North Britain helped nurture the Scottish
+
+Enlightenment, which is hardly sur <l> prising in view of the fact that such
+
+leading lights as Joseph Black, William Cullen, Adam Ferguson, John Millar,
+
+Thomas Reid, and Adam Smith were all members of the professoriate. <fnr> <sp>
+
+2 </sp> </fnr>
+<ICE-CAN:W2A-008#43:1> There is little question that the Scots were, on the whole, quick to
+
+assimilate new currents in the arts and sciences in <l> to their courses, and
+
+hence their universities provide us with a standard of academic enlightenment
+
+against which the developments in the cur <l> riculum in France and in Oxford
+
+can be compared. <fnr> <sp> 3 </sp> </fnr>
+<ICE-CAN:W2A-008#44:1> Brockliss himself draws attention to the need for such a comparative
+
+dimension when discussing the history of the curriculum, and in what follows
+
+I shall engage in mapping the kind of <quote> " curricular topography of the
+
+early-modern university" </quote> which he calls for ( Brockliss 448). </p>
+
+<p> <ICE-CAN:W2A-008#45:1> Let us consider first the cultivation of classical learning.
+<ICE-CAN:W2A-008#46:1> Although the <foreign> <it> philosophes </it> </foreign> are
+
+sometimes seen as championing the cause of the moderns rather than that of
+
+the ancients, they in fact generally subscribed to the common view that a
+
+knowledge of the classics was necessary in the republic of letters.
+<ICE-CAN:W2A-008#47:1> Gibbon, for example, went up to Oxford hoping to master Greek and
+
+Latin, only to have his hopes shattered by the indifference of his tutors,
+
+while D'Alembert claimed that Latin should be the language of philosophy (
+
+Gibbon 30, 34-37; D'Alembert, <it> Preliminary Discourse </it> 93).
+<ICE-CAN:W2A-008#48:1> Indeed, Peter Gay has argued that during the Enlightenment the
+
+<foreign> <it> philosophes </it> </foreign> drew a good deal of inspiration
+
+from the authors of pagan antiquity ( 2: 31-203).
+<ICE-CAN:W2A-008#49:1> Some of Gay's claims may be difficult to document, but Brockliss's
+
+findings at least corro <l> borate Gay's insistence on the centrality of the
+
+classics in the <foreign> <it> Weltanschauung </it> </foreign> of the age,
+
+for even though the teaching of Greek seems to have declined in France during
+
+the second half of the eighteenth century, in the <foreign> <it> ancien
+
+r&eacute;gime </it> </foreign> students spent a good deal of their six years
+
+at university studying Latin.
+<ICE-CAN:W2A-008#50:1> Furthermore, they were expected to become fluent speakers as well as
+
+stylish writers, because Latin continued to be used as the language of
+
+classroom instruction in virtually all of their courses.
+<ICE-CAN:W2A-008#51:1> Similarly, at Oxford the classics formed the core of the formal
+
+curriculum, though here too Greek became an increasingly marginal subject as
+
+the century wore on, and the extent to which English displaced Latin in
+
+lectures and tutorials is unclear ( Sutherland and Mitchell 513-33). </p>
+
+<fnr> <sp> 4 </sp> </fnr>
+
+<p> <ICE-CAN:W2A-008#52:1> The classics fared somewhat differently in Scotland, in so far as
+
+there was a revival of Greek scholarship in the early eighteenth century
+
+which was linked to the philosophical and mathematical interests of men such
+
+as Francis Hutcheson and his Glasgow colleague Robert Simson, and the study
+
+of Latin occupied a subsidiary, though nonetheless important, place in the
+
+curriculum of the Scottish universities. <fnr> <sp> 5 </sp> </fnr>
+<ICE-CAN:W2A-008#53:1> Thus students usually studied Latin and Greek most intensively at the
+
+beginning of their course, and after their second year they switched their
+
+attention primarily to mathematics, and to natural and moral philosophy.
+<ICE-CAN:W2A-008#54:1> Moreover, from roughly the 1740s onwards their lectures were largely
+
+in English, though Latin was often used on public occasions ( Reid, <it>
+
+Philosophical Orations </it> ) .
+<ICE-CAN:W2A-008#55:1> Of greater significance is the fact that the professors responsible
+
+for instruction in Greek and Latin indulged in philosophical or historical
+
+reflections on the materials they dealt with in their advanced classes, so
+
+that their students were introduced to topics in political theory or to
+
+conjectural history in the context of their classical studies ( Emerson
+
+69-70).
+<ICE-CAN:W2A-008#56:1> Consequently, the classical education received by students at the
+
+Scottish universities was closer in character to that given in France, and
+
+was probably more closely linked to the other branches of learning covered in
+
+the curriculum than was the case at Oxford.
+<ICE-CAN:W2A-008#57:1> Having completed their courses on the languages, literature, and
+
+culture of the ancient world, students in eighteenth-century Scotland
+
+normally proceeded to the heart of the curriculum, namely the study of moral
+
+and natural philosophy.
+<ICE-CAN:W2A-008#58:1> In <it> The Democratic Intellect </it> , George Davie contended that
+
+the distinctive feature of the Scottish university system prior to the
+
+Anglicising reforms of the nineteenth century was the philosophical focus of
+
+undegraduate education.
+<ICE-CAN:W2A-008#59:1> Subsquent research has largely confirmed Davie's intuitions, and
+
+Brockliss's work, along with the relevant essays in the Oxford <it> History
+
+</it> , serves to underline the contrast between the Scottish experience and
+
+the patterns of instruction in France and at Oxford.
+<ICE-CAN:W2A-008#60:1> In Scotland, the philosophy course typically encompassed what we
+
+would now call the natural sciences and the sciences of man and socirty, so
+
+that the arts student would commonly attend ( with minor variations) lectures
+
+on mechanics, pneumatics, electricity and magnetism, optics, astronomy, the
+
+philosophy of mind, logic, rhetoric, ethics, jurisprudence, and politics,
+
+which would be supplemented by prelections on mathematics, and in some cases
+
+on natural and civil history. </p> </I>

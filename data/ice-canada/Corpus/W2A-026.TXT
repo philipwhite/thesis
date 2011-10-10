@@ -1,0 +1,398 @@
+<I>
+<ICE-CAN:W2A-026#1:1> <h> <bold> Biogeography of island floras in the Great Lakes.
+<ICE-CAN:W2A-026#2:1> I. Species richness and composition in relation to gull nesting
+
+activities </bold> </h>
+<ICE-CAN:W2A-026#3:1> <h> E. H. Hogg </h>
+<ICE-CAN:W2A-026#4:1> <h> <it> Boreal Institute for Northern Studies, University of Alberta,
+
+Edmonton, Alta., Canada T6G 2E9 </it> </h>
+<ICE-CAN:W2A-026#5:1> <h> AND </h>
+<ICE-CAN:W2A-026#6:1> <h> J. K. Morton and Joan M. Venn </h>
+<ICE-CAN:W2A-026#7:1> <h> <it> Department of Biology, University of Waterloo, Waterloo,
+
+Ont., Canada N2L 3G1 </it> </h>
+<ICE-CAN:W2A-026#8:1> <h> Received March 15, 1988 </h>
+<ICE-CAN:W2A-026#9:1> <h> HOGG, E. H., MORTON, J. K., and VENN, J. M. 1989.
+<ICE-CAN:W2A-026#10:1> Biogeography of island floras in the Great Lakes.
+<ICE-CAN:W2A-026#11:1> I. Species richness and composition in relation to gull nesting
+
+activities. Can. J. Bot. 67: 961 - 969. </h>
+
+<p> <ICE-CAN:W2A-026#12:1> Species - area relations of vascular plants and the effect of
+
+nesting colonies of gulls on plant species composition were inves <l> tigated
+
+for 77 islands in Georgian Bay and Lake Huron in the Great Lakes region of
+
+Canada.
+<ICE-CAN:W2A-026#13:1> The percentage of plant species classed as alien, annual, or biennial
+
+was significantly greater on islands with gull colonies.
+<ICE-CAN:W2A-026#14:1> The slope of the species - area curve was significantly steeper on
+
+islands supporting gull colonies compared with islands lacking gull colonies.
+<ICE-CAN:W2A-026#15:1> The expected decline in species richness with increased island
+
+remoteness was not detected statistically using multiple regression analysis.
+<ICE-CAN:W2A-026#16:1> The difference in species - area slopes does not appear to reflect a
+
+lower propagule immigration rate to islands with gull colonies, because gulls
+
+are important in the dispersal of alien plant species to these islands.
+<ICE-CAN:W2A-026#17:1> Larger islands with gull colonies tended to have richer floras than
+
+islands of similar size without gull colonies.
+<ICE-CAN:W2A-026#18:1> It is suggested that on these larger islands the presence of gull
+
+colonies produces a gradient of soil nutrient and disturbance regimes, thus
+
+increasing habitat heterogeneity and species richness. </p> <O> French
+
+Abstract </O>
+<ICE-CAN:W2A-026#19:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-026#20:1> In the nesting colonies of gulls and other seabirds, vegeta <l>
+
+tion is often strongly affected by guano deposition and physical disturbance
+
+associated with nesting activity ( Gillham 1956; Sobey and Kenworthy 1979:
+
+Hogg and Morton 1983).
+<ICE-CAN:W2A-026#21:1> The tendency, in areas occupied by seabird colonies, is for peren <l>
+
+nials to be replaced by annuals, and for native species to be replaced by
+
+alien weeds ( Gillham 1961; Hogg and Morton 1983).
+<ICE-CAN:W2A-026#22:1> The severe conditions associated with active seabird nesting sites
+
+can also result in species-poor plant communities ( Gillham 1960, 1962;
+
+Weseloh and Brown 1971; McCain 1975; Sobey and Kenworthy 1979; Hogg and
+
+Morton 1983).
+<ICE-CAN:W2A-026#23:1> Small islands are frequently selected as nesting sites by sea <l>
+
+birds because of the protection that they offer against mamma <l> lian
+
+predators ( Southern et al. 1985; Timoney et al. 1985).
+<ICE-CAN:W2A-026#24:1> However, few studies of island biogeography have specifically
+
+investigated the impact of nesting seabirds on the composition and species
+
+richness of island floras. </p>
+
+<p> <ICE-CAN:W2A-026#25:1> In Georgian Bay and the Canadian part of Lake Huron, there are
+
+numerous small islands, many of which harbour large colonies of nesting
+
+Ring-billed and Herring Gulls ( <foreign> <it> Larus dela <l> warensis </it>
+
+</foreign> and <foreign> <it> Larus argentatus </it> </foreign> ) .
+<ICE-CAN:W2A-026#26:1> The population of nesting gulls in the region was estimated at 172
+
+000 pairs in 1980,which represents a major increase during the previous 20
+
+years ( Weseloh et al. 1986).
+<ICE-CAN:W2A-026#27:1> Human disturbance is minimal on most of the islands, thus providing
+
+an excellent opportunity for a phytogeographic study of island floras, some
+
+of which are being strongly affected by gull nesting activity.
+<ICE-CAN:W2A-026#28:1> The objective of this study was to examine the floras of these
+
+islands in rela <l> tion to their size, distance from the nearest mainland,
+
+and the presence or absence of nesting gulls. </p>
+
+<p> <ICE-CAN:W2A-026#29:1> The slope, <it> z </it> , of the power function relationship
+
+between species number and island size has received considerable atten <l>
+
+tion in the literature ( Gilbert 1980).
+<ICE-CAN:W2A-026#30:1> In the past, values of <it> z </it> were often used to test
+
+predictions arising from the MacArthur and Wilson ( 1963, 1967) equilibrium
+
+theory of island bio <l> geography, but this approach has recently been
+
+criticized for several reasons ( see Connor and McCoy 1979: Gilbert 1980;
+
+Martin 1981; Abbott 1983).
+<ICE-CAN:W2A-026#31:1> In the present study we deter <l> mined <it> z </it> for islands with
+
+and without gull colonies primarily as a tool to examine the influence of
+
+nesting gulls on plant species richness over a wide range of island size.
+<ICE-CAN:W2A-026#32:1> We also used mul <l> tiple regression analysis to factor out the
+
+effect of area on spe <l> cies diversity ( Connor and McCoy 1979) so that the
+
+effect of gull colonies and island remoteness on plant species number could
+
+be investigated. </p> <O> map </O> <O> map Caption </O>
+<ICE-CAN:W2A-026#33:1> <h> <bold> Study area </bold> </h>
+
+<p> <ICE-CAN:W2A-026#34:1> The islands selected for this study are limestone and dolomite
+
+islands of Lake Huron, Georgian Bay, and the North Channel ( Fig. I).
+<ICE-CAN:W2A-026#35:1> Most have a low relief, rising only a few metres above present-day
+
+lake levels.
+<ICE-CAN:W2A-026#36:1> During the Nipissing period, which lasted from about 6000 to 4000
+
+years ago, lake levels in the region were about 16 - 23 m higher relative to
+
+present-day shorelines ( Nichols 1972; Morton and Venn 1984, 1987).
+<ICE-CAN:W2A-026#37:1> Thus, nearly all of these islands have emerged as dry land since
+
+then, and many are probably no more than a few hundred years old.
+<ICE-CAN:W2A-026#38:1> As a result, their floras have been derived from the neighbouring
+
+mainland and islands by dispersal across the intervening expanses of fresh
+
+water.
+<ICE-CAN:W2A-026#39:1> Most of the species show clear adaptations for dispersal by water and
+
+birds, while a few appear to have been dispersed by wind or human activity (
+
+J. K. Morton and E. H. Hogg, unpublished). </p>
+
+<p> <ICE-CAN:W2A-026#40:1> Many of the islands have extensive, sparsely vegetated beaches of
+
+gravel, cobbles, and slabs pushed up by waves and winter ice.
+<ICE-CAN:W2A-026#41:1> On several, there are limestome pavements that support a rich
+
+herbaceous flora.
+<ICE-CAN:W2A-026#42:1> These beaches and limestone pavements provide nesting habitat for
+
+large colonies of Ring-billed and Herring Gulls that strongly affect the
+
+vegetation of their nesting sites ( Hogg and Morton 1983).
+<ICE-CAN:W2A-026#43:1> The larger islands are mainly wooded, usually with a dense scrub
+
+forest of <foreign> <it> Betula papyrifera, Populus tremuloides, Prunus
+
+virginiana, Thuja occidentalis, Abies balsamea, </it> </foreign> and
+
+<foreign> <it> Picea glauca </it> </foreign> with occasional <foreign> <it>
+
+Sor <l> bus decora, Populus balsamifera, Fraxinus pennsylvanica </it>
+
+</foreign> , and <foreign> <it> Ulmus americana </it> </foreign> .
+<ICE-CAN:W2A-026#44:1> Nomenclature follows Morton and Venn ( 1987). </p>
+<ICE-CAN:W2A-026#45:1> <h> <bold> Methods </bold> </h>
+
+<p> <ICE-CAN:W2A-026#46:1> The analysis is based on the vascular floras of 77 limestone and
+
+dolomite islands in Georgian Bay, Lake Huron, and the North Channel in
+
+Ontario, Canada.
+<ICE-CAN:W2A-026#47:1> Floristic data used in the analysis came from the following sources:
+
+Morton and Venn ( 1984) for the islands adjacent Manitoulin Island; Morton
+
+and Venn ( 1987) for the Tober <l> mory Islands off the northern tip of the
+
+Bruce Peninsula; J. K. Morton and E. H. Hogg ( unpublished) for Barrier
+
+Island near Cape Croker on the Bruce Peninsula; and J. K. Morton and J. M.
+
+Venn ( unpublished) for North and South Limestone Islands in eastern Georgian
+
+Bay ( Fig. 1).
+<ICE-CAN:W2A-026#48:1> The area of each island was determined from 1 : 50 000 scale
+
+topographic maps or, for the smaller islands, from nautical charts ( 1 : 40
+
+000 or 1 : 15 000 scale), based on the number of 1 - mm grid squares occupied
+
+by the island on graph paper overlaying the map or chart.
+<ICE-CAN:W2A-026#49:1> The distance of each island to the nearest mainland was also
+
+determined.
+<ICE-CAN:W2A-026#50:1> Manitoulin Island, being large ( 2766 km <sp> 2 </sp> ) and narrowly
+
+separated from the north shore of Georgian Bay and the North Channel, was
+
+considered to be <quote> " mainland" </quote> for the purposes of this study.
+
+</p>
+
+<p> <ICE-CAN:W2A-026#51:1> The islands were divided into the following two groups: ( <it> i
+
+</it> ) islands with a high density of nesting seabirds ( <quote> " gull
+
+islands" </quote> ) and ( <it> ii </it> ) islands lacking seabird nests or
+
+having a low nest density ( <quote> " non-gull islands" </quote> ) .
+<ICE-CAN:W2A-026#52:1> For most islands, the mean number of nests per hec <l> tare was
+
+calculated using the 1980 seabird census data provided by the Canadian
+
+Wildlife Service ( Weseloh et al. 1986).
+<ICE-CAN:W2A-026#53:1> However, because of variability in seabird colony size from year to
+
+year, we supplemen <l> ted this information with field observations made
+
+during the present study and from an earlier seabird census ( Ludwig 1962).
+<ICE-CAN:W2A-026#54:1> Of the 77 islands examined, 27 were designated as gull islands ( mean
+
+nest den <l> sity ranged from 35 - 4000 nests/ha) while the remaining 50 were
+
+classed as nongull islands ( 0 - 8 nests/ha).
+<ICE-CAN:W2A-026#55:1> Ring-billed and Herring Gulls were by far the most abundant seabird
+
+species, but there were also nesting populations of Common and Caspian Terns
+
+( <foreign> <it> Sterna hirundo </it> </foreign> and <foreign> <it> Sterna
+
+caspia </it> </foreign> ) and rookeries of the Great Blue Heron ( <foreign>
+
+<it> Ardea herodias </it> </foreign> ) on several of the islands. </p>
+
+<p> <ICE-CAN:W2A-026#56:1> Each vascular plant species recorded was categorized according to
+
+its probable origin ( i.e., native or alien) following Morton and Venn (
+
+1984, 1987); and its life history characteristic ( annual, biennial, or
+
+perennial) was categorized according to Fernald ( 1950), Gleason ( 1952), and
+
+McDonald ( 1937).
+<ICE-CAN:W2A-026#57:1> For each island, the number of species in each of the following
+
+categories was recorded: alien annual, alien biennial, alien perennial,
+
+native annual, native biennial, and native perennial.
+<ICE-CAN:W2A-026#58:1> The percentage of species in each category was then calcu <l> lated
+
+from the total flora of each island.
+<ICE-CAN:W2A-026#59:1> The aresine transformation ( Zar 1984) was applied to the percentage
+
+data and two-sample <it> t </it> - tests were used to compare the floras of
+
+gull and nongull islands.
+<ICE-CAN:W2A-026#60:1> Because of the influence of human activity on several of the larger
+
+islands, this portion of the analysis was restricted to small islands that
+
+are &lt;50 ha in size.
+<ICE-CAN:W2A-026#61:1> The small island category included all 27 of the gull islands and 35
+
+of the nongull islands.
+<ICE-CAN:W2A-026#62:1> One of the gull islands ( White Shingle) was omitted from the
+
+comparison because its flora contained only eight species. </p>
+
+<p> <ICE-CAN:W2A-026#63:1> The relationship between species number and island size was
+
+investigated for ( <it> i </it> ) gull islands, ( <it> ii </it> ) small
+
+nongull islands, and ( <it> iii </it> ) all nongull islands.
+<ICE-CAN:W2A-026#64:1> Linear regressions were conducted using several transformations of
+
+<it> S </it> ( number of species) and <it> A </it> ( island area in hec <l>
+
+tares), which gave equations of the following forms: <l> [ 1] log <it> S
+
+</it> = z log <it> A </it> + <it> k </it> <sb> 1 </sb> i.e., <it> S </it> =
+
+<it> c </it> <it> A <sp> z </sp> , and where <it> k </it> <sb> 1 </sb> = log
+
+<it> c </it> [ 2] <it> S </it> = <it> z </it> log <it> A </it> + <it> k </it>
+
+<sb> 1 </sb> [ 3] <it> S </it> = <it> z </it> log ( <it> A </it> + 1) + <it>
+
+k </it> <sb> 1 </sb> [ 4] <it> S </it> = <it> z </it> log ( <it> A </it> +
+
+10) + <it> k </it> <sb> 1 </sb> .
+<ICE-CAN:W2A-026#65:1> Equations 1 and 2 are the power function and exponential model,
+
+respectively, that have both been commonly used in regression analy <l> ses
+
+of species - area relationships ( Connor and McCoy 1979).
+<ICE-CAN:W2A-026#66:1> Equa <l> tions 3 and 4 were used in the attempt to more adequately
+
+linearize the relationship between species number and area in the exponential
+
+model. </p>
+
+<p> <ICE-CAN:W2A-026#67:1> The influence of island remoteness, <it> D </it> ( distance to
+
+mainland measured in kilometres), on species number was also examined by
+
+multiple linear regression.
+<ICE-CAN:W2A-026#68:1> Equations 1 - 4 above, modified by adding the term <it> k </it> <sb>
+
+2 </sb> x <it> D </it> , were used ( <it> k </it> <sb> 2 </sb> is a
+
+constant). </p>
+<ICE-CAN:W2A-026#69:1> <h> <bold> Results </bold> </h>
+<ICE-CAN:W2A-026#70:1> <h> <it> Composition of island floras </it> </h>
+
+<p> <ICE-CAN:W2A-026#71:1> The combined floras of the 62 small islands with areas of &lt;50
+
+ha consist of 591 species, including 115 aliens ( 19%), 68 annuals ( 12%),
+
+and 45 biennials ( 8%).
+<ICE-CAN:W2A-026#72:1> Of the alien species, 32 ( 28%) are annuals, 21 ( 18%) are biennials,
+
+while the remain <l> ing 62 ( 54%) are perennials.
+<ICE-CAN:W2A-026#73:1> Table 1 gives the number of spe <l> cies, area, distance to mainland,
+
+and percent composition of the floras ( divided into origin and life-history
+
+characteristic) for each of these small islands and also for the 15 larger
+
+islands. </p>
+
+<p> <ICE-CAN:W2A-026#74:1> The comparison of floras on the small islands ( Table 2) shows
+
+that species categorized as either alien or annual are more strongly
+
+represented on islands with nesting gull colonies.
+<ICE-CAN:W2A-026#75:1> Where these two features coincide the difference is most striking:
+
+the percentage composition of alien annuals is four times as high on gull
+
+islands ( 8.2%) than on nongull islands ( 2.0%).
+<ICE-CAN:W2A-026#76:1> Alien biennials are also strongly favoured on gull islands, but to a
+
+lesser extent ( ratio = 3.0) than alien annuals.
+<ICE-CAN:W2A-026#77:1> Alien perennials and native annuals, which each have only one
+
+characteristic favoured in gull colonies ( i.e., alien or annual) are both
+
+favoured on gull islands by a modest and approximately equal amount ( ratio =
+
+1.8).
+<ICE-CAN:W2A-026#78:1> The proportion of native biennials is about the same on gull and
+
+nongull islands.
+<ICE-CAN:W2A-026#79:1> The percentage of native perennials ( which lack both of the favoured
+
+characteristics for gull islands) was significantly greater on nongull
+
+islands ( 83%) than on gull islands ( 64%). </p>
+<ICE-CAN:W2A-026#80:1> <h> <it> Linear regressions of species number and island size </it>
+
+</h>
+
+<p> <ICE-CAN:W2A-026#81:1> Linear regressions of species richness in relation to island size
+
+are given in Table 3.
+<ICE-CAN:W2A-026#82:1> For each of the four equations used, the slope of the species - area
+
+curve ( <it> z </it> ) was significantly greater for gull islands ( size
+
+range of 0.2 - 39 ha) than for small nongull islands with a similar size
+
+range ( 0.4 - 44 ha) ( Fig. 2).
+<ICE-CAN:W2A-026#83:1> When the analysis was expanded to include large non <l> gull islands
+
+( up to 4970 ha), the difference in <it> z </it> between gull and nongull
+
+islands remained significant using [ 1] and [ 4], but was not significant
+
+using [ 2] and [ 3]. </p> </I>

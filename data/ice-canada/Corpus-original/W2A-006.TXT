@@ -1,0 +1,634 @@
+<I>
+<ICE-CAN:W2A-006#1:1> <h> <it> Hume's Extreme Skepticism in Treatise I IV 7 </it> </h> <sp>
+
+1 </sp> <footnote> 1 Earlier versions of this paper were presented at the
+
+University of Pennsylvania, Swarthmore College, William Paterson College of
+
+New Jersey, and Wake Forest University; I owe thanks to the audiences at
+
+those places for useful discussions.
+<ICE-CAN:W2A-006#2:1> I am grateful to John Carriero, Bob Fogelin, Ed Minar, Sam Scheffler,
+
+Barry Stroud, Mike Williams, and especially Janet Broughton, for helpful
+
+comments on and criticisms of various ancestral drafts. </footnote>
+<ICE-CAN:W2A-006#3:1> <h> IRA SINGER </h>
+<ICE-CAN:W2A-006#4:1> <h> Northwestern University Evanston, IL 60208-1315 USA </h>
+<ICE-CAN:W2A-006#5:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-006#6:1> Hume finds himself in an appalling state during <it> Treatise
+
+</it> I iv 7 ( the conclusion of Book I).
+<ICE-CAN:W2A-006#7:1> He is almost bereft of beliefs; he believes, for a short time, only
+
+that he cannot believe anything else.
+<ICE-CAN:W2A-006#8:1> But, being an assiduous student of human nature, Hume makes this
+
+extreme skeptical crisis into material for naturalistic study.
+<ICE-CAN:W2A-006#9:1> He carefully reports how extreme skepticism comes about, what it is
+
+like, and how it passes. <sp> 2 </sp> <footnote> 2 Here I follow Fogelin, who
+
+argues that the <it> Treatise </it> supplies a <quote> 'natural history of
+
+philosophy' </quote> - a narrative of the phenomenological and causal
+
+sequences of philo <l> sophical states of mind.
+<ICE-CAN:W2A-006#10:1> See <it> Hume's Skepticism in the Treatise of Human Nature </it> (
+
+London: Routledge & Kegan Paul 1985), Ch. 7.
+<ICE-CAN:W2A-006#11:1> See also Fogelin's discussions in <quote> 'The Tendency of Hume's
+
+Skepticism,' </quote> in Burnyeat, ed., <it> The Skeptical Tradition </it> (
+
+Berkeley: University of California Press 1983); and in <quote> 'Hume's
+
+Scepticism,' </quote> in <it> The Cambridge Companion to Hume </it> , David
+
+Fate Norton, ed. ( Cambridge: Cambridge University Press 1993).
+
+<p> <ICE-CAN:W2A-006#12:1> Part of my aim in this paper is to supplement Fogelin by
+
+exploring in detail the natural history in I iv 7.
+<ICE-CAN:W2A-006#13:1> But another part of my aim is to suggest, <it> contra </it> Fogelin,
+
+that extreme skepticism is a problem rather than a tool for Hume, and that
+
+Hume is better at developing extreme skepticism than he is at domesticating
+
+it. </footnote>
+<ICE-CAN:W2A-006#14:1> So I iv 7 has two aspects: involved personal experience of a
+
+skeptical crisis, and detached naturalistic reflection on that crisis.
+<ICE-CAN:W2A-006#15:1> Interpreting the text correctly requires taking both these aspects
+
+seriously. <sp> 3 </sp> <footnote> 3 These two aspects of the text are
+
+matched by two roles for Hume.
+<ICE-CAN:W2A-006#16:1> First, he is the subject of philosophical states of mind; second, he
+
+is the author writing about Hume the subject.
+<ICE-CAN:W2A-006#17:1> I try to make clear, either by context or more directly, which of
+
+these roles the word <quote> 'Hume' </quote> picks out in different parts of
+
+this paper. </footnote> </p>
+
+<p> <ICE-CAN:W2A-006#18:1> An old interpretive tradition ignores or downplays Hume's
+
+detached naturalistic reflections in I iv 7, and focuses only on his involved
+
+personal experience of skepticism.
+<ICE-CAN:W2A-006#19:1> Oddly enough, interpretations in this tradition tend to treat Hume's
+
+experience dismissively and derisively.
+<ICE-CAN:W2A-006#20:1> For in <l> stance, Thomas Reid notes that Hume philosophizes and is
+
+driven to skepticism <quote> 'only in solitude and retirement,' </quote>
+
+while in <quote> 'society' </quote> he yields <quote> 'to the dominion of
+
+common sense,' </quote> and remarks: <X> <quote> 'Surely if his friends
+
+apprehended this, they would have the charity never to leave him alone.'
+
+</quote> </X> <sp> 4 </sp> <footnote> 4 Reid, <it> Inquiry and Essays </it> (
+
+Indianapolis: Library of Liberal Arts 1975), 8-9 </footnote>
+<ICE-CAN:W2A-006#21:1> But this joke is an unfair response to Hume.
+<ICE-CAN:W2A-006#22:1> True, only solitude enables Hume to reflect, and so to experience
+
+extreme skepticism; but solitude also makes healthy non-skeptical reflection
+
+possible, so that the problem Hume presses on us is how to sustain reflection
+
+without invit <l> ing skepticism.
+<ICE-CAN:W2A-006#23:1> Moreover, Hume does not present himself as subject to a <it> special
+
+</it> malady, as Reid's joke implies; Hume presents himself as a
+
+representative philosopher, engaging in full and free reflection and for that
+
+reason alone menaced by extreme skepticism.
+<ICE-CAN:W2A-006#24:1> He then works hard to understand the character of extreme skepticism,
+
+and its entangle <l> ments with reflection in general.
+<ICE-CAN:W2A-006#25:1> So Reid's premature ridicule of skepti <l> cism only threatens our
+
+chance to understand both skepticism and reflection better. </p>
+
+<p> <ICE-CAN:W2A-006#26:1> It is more common these days to take Hume's naturalism seriously,
+
+but ignore or downplay ( or treat as a mere mask or stratagem) his personal
+
+experience of skepticism. <sp> 5 </sp> <footnote> 5 For a paradigm case of
+
+this sort of interpretation, see Chapter 1 of Strawson, <it> Skepticism and
+
+Naturalism: Some Varieties </it> ( New York: Columbia University Press 1985).
+
+</footnote>
+<ICE-CAN:W2A-006#27:1> But this treatment of the text, by focusing only on the fact that
+
+Hume the naturalist doesn't consider a permanent state of extreme skepticism
+
+to be a live ( or livable) option, tends toward a telescoped account of
+
+Hume's states of mind in I iv 7.
+<ICE-CAN:W2A-006#28:1> The generic telescoped account of I iv 7 is: <X> <quote> 'Hume draws
+
+skeptical conclu <l> sions, and can't think of any way to refute them.
+<ICE-CAN:W2A-006#X29:1> Then he immerses himself in everyday life and returns to everyday
+
+belief, and that's it.' </quote> </X>
+<ICE-CAN:W2A-006#30:1> But Hume really offers a far richer account of the skeptic's states
+
+of mind.
+<ICE-CAN:W2A-006#31:1> Attending to this rich account of skepticism helps us to appreciate
+
+more fully both Hume's naturalism, and his naturalism's problems. </p>
+
+<p> <ICE-CAN:W2A-006#32:1> So Hume's <it> detailed </it> description of his skeptical
+
+experiences deserves close and balanced attention.
+<ICE-CAN:W2A-006#33:1> As I read the description, it involves seven distinct phases. </p>
+<ICE-CAN:W2A-006#34:1> <h> <bold> I Psychological Stage-Setting </bold> </h>
+
+<p> <ICE-CAN:W2A-006#35:1> Hume begins I iv 7 in a doubly reflective mood: he has examined
+
+human cognition at length, is about to turn to other matters, and feels
+
+inclined to reflect on his results and his prospects.
+<ICE-CAN:W2A-006#36:1> But from the start his reflections are negative.
+<ICE-CAN:W2A-006#37:1> He remembers his <quote> 'past errors and perplexities,' </quote> and
+
+that memory convinces him that his faculties are weak, disordered, and
+
+altogether in a <quote> 'wretched condition' </quote> ( 264). <sp> 6 </sp>
+
+<footnote> 6 All parenthetical page references in the text are to the
+
+Selby-Bigge/Nidditch edition of the <it> Treatise </it> ( Oxford: Oxford
+
+University Press 1978). </footnote>
+<ICE-CAN:W2A-006#38:1> He sees that he cannot expect any support or comfort from other
+
+people; for his philosophy has placed him in a <quote> 'forlorn solitude'
+
+</quote> ( 264).
+<ICE-CAN:W2A-006#39:1> He cannot mix with <quote> 'the crowd,' </quote> for as a philosopher
+
+he sees their <quote> 'deformity' </quote> ( 264).
+<ICE-CAN:W2A-006#40:1> But no one will leave the crowd to join him in his unenviable
+
+position.
+<ICE-CAN:W2A-006#41:1> Finally, his solitude does not - as it <it> might </it> - increase
+
+his assurance and determination.
+<ICE-CAN:W2A-006#42:1> Without the <quote> 'approbation of others' </quote> ( 265), he has
+
+no confidence in his own reasoning, but instead dreads <quote> 'error and
+
+absurdity.' </quote> All these reflections flow from and reinforce Hume's
+
+<quote> 'melancholy' </quote> and <quote> 'despair' </quote> ( 264), and <it>
+
+predispose </it> him to skepticism. </p>
+
+<p> <ICE-CAN:W2A-006#43:1> This epistemological pessimism engulfs Hume suddenly, and fits
+
+badly with much of Book I.
+<ICE-CAN:W2A-006#44:1> Indeed, someone who has read all of Book I except for the Conclusion
+
+might reasonably put these words in Hume's mouth: <quote> 'having refuted
+
+metaphysical conceptions of the understanding and having sketched a proper
+
+scientific account of that phenomenon, I am eager to extend the science of
+
+human nature by examining the passions and morality.' </quote> How, then, are
+
+we to understand Hume's pessi <l> mistic turn?
+<ICE-CAN:W2A-006#45:1> Perhaps in this way: in Book I Part iv, he has seen skeptical
+
+arguments ( about reason, body, personal identity) triumph again and again.
+<ICE-CAN:W2A-006#46:1> Each time he has maintained his optimism about cognition by noting
+
+that the skeptic's triumph must be ephemeral.
+<ICE-CAN:W2A-006#47:1> But by I iv 7 Hume's <quote> 'sentiments' </quote> have been
+
+transformed; because of his extended study of skepticism triumphant, despair
+
+has displaced hope, and he is ready to think the worst about human cognition,
+
+even <it> before </it> reflecting on particular skeptical arguments.
+<ICE-CAN:W2A-006#48:1> Presently, I will suggest that this sort of pessimistic turn about
+
+cognition is not arbitrary; instead, it ( or, at least, its possibility)
+
+bears an internal relation to investigating cognition natu <l> ralistically.
+<ICE-CAN:W2A-006#49:1> For now, he important point is that Hume's description of extreme
+
+skepticism is itself naturalistic - causal - from the ground up: he sets the
+
+stage for reviewing extreme skeptical arguments by describ <l> ing the
+
+history and the states of mind that render him receptive to those arguments.
+
+</p>
+<ICE-CAN:W2A-006#50:1> <h> <bold> II The Triumph of Extreme Skepticism </bold> </h>
+
+<p> <ICE-CAN:W2A-006#51:1> In the second phase of Hume's skeptical progress, he roundly
+
+condemns the imagination, the human faculty that is crucial if we are to get
+
+and retain many beliefs, and so he plunges into extreme skepticism. </p>
+
+<p> <ICE-CAN:W2A-006#52:1> Hume reaches extreme skeptical conclusions by citing and
+
+reflecting on arguments from Parts iii and iv of <it> Treatise </it> Book I.
+<ICE-CAN:W2A-006#53:1> But before citing these arguments, he attacks human cognitive
+
+faculties in general ( not merely, as in the psychological stage-setting I
+
+have just discussed, his <it> own </it> cognitive faculties).
+<ICE-CAN:W2A-006#54:1> The attack is twofold: first, he laments his lack of any <quote> 'criterion'
+
+</quote> of truth ( 265).
+<ICE-CAN:W2A-006#55:1> Second, he laments what's left to him ( and to the rest of us),
+
+namely <quote> 'a <it> strong </it> propensity to consider objects <it>
+
+strongly </it> in that view, under which they appear to me' </quote> ( 265).
+<ICE-CAN:W2A-006#56:1> This propen <l> sity is the imagination's crucial feature; without
+
+the propensity we could have only beliefs about the uninterpreted contents of
+
+present conscious <l> ness. <sp> 7 </sp> <footnote> 7 See <it> Treatise </it>
+
+: <quote> 'the memory, senses, and understanding are, therefore, all of them
+
+founded on the imagination, or the vivacity of our ideas' </quote> ( 265).
+
+</footnote>
+<ICE-CAN:W2A-006#57:1> Yet Hume attacks the propensity as <quote> 'seemingly ... so trivial,
+
+and so little founded on reason' </quote> ( 265), at the same time that he
+
+emphasizes the crucial role it plays in ordinary belief. <sp> 8 </sp>
+
+<footnote> 8 Two readings of <quote> 'seemingly' </quote> are possible.
+<ICE-CAN:W2A-006#58:1> On one reading, Hume foreshadows a naturalistic refutation of
+
+skepticism even as he gives his skeptical arguments.
+<ICE-CAN:W2A-006#59:1> The imagination's tendency to enliven some ideas beyond others only
+
+<it> seems </it> trivial; rightly understood, the tendency is an original
+
+propensity of human nature, not subject to the skeptic's condemnation.
+<ICE-CAN:W2A-006#60:1> Cf. John Immerwahr, <quote> 'A Skeptic's Progress: Hume's Preference
+
+for the First <it> Enquiry </it> , ' </quote> in Norton, Capaldi, and
+
+Robison, eds., <it> McGill Hume Studies </it> ( San Diego: Austin Hill Press
+
+1979), 233.
+<ICE-CAN:W2A-006#61:1> But if that's what Hume means by <quote> 'seemingly,' </quote> why
+
+doesn't this naturalistic argument against skepticism ever become explicit in
+
+I iv 7?
+<ICE-CAN:W2A-006#62:1> Instead, the rest of I iv 7 <it> confirms </it> the negative
+
+epistemic assessment of the imagination ( though of course it also emphasizes
+
+that this negative assessment can have no durable practical effect).
+<ICE-CAN:W2A-006#63:1> Therefore, a different reading of <quote> 'seemingly' </quote> is in
+
+order.
+<ICE-CAN:W2A-006#64:1> On this second reading, that word points to: ( 1) the fact that the
+
+judgment of triviality is provisional, awaits confirmation ( which it
+
+receives); and ( 2) the discrepancy between the small role we feel such a
+
+propensity <it> should </it> play in determining our beliefs, and the large
+
+role it in fact plays. </footnote> </p>
+
+<p> <ICE-CAN:W2A-006#65:1> This attack on the imagination is curious, just as Hume's
+
+pessimistic turn at the start of I iv 7 was curious.
+<ICE-CAN:W2A-006#66:1> In the rest of Book I, Hume has shown that the imagination is a
+
+crucial faculty, without which human beings would have few beliefs.
+<ICE-CAN:W2A-006#67:1> He could now underscore this positive naturalistic result.
+<ICE-CAN:W2A-006#68:1> Instead, he suggests that the imagination is trivial, <it> before
+
+</it> citing any relevant arguments.
+<ICE-CAN:W2A-006#69:1> Why does Hume attack, rather than extol, the imagination? <sp> 9
+
+</sp> <footnote> 9 Note that Hume's derogation of the imagination in I iv 7
+
+has a precedent.
+<ICE-CAN:W2A-006#70:1> In I iv 2, on 217, he says that the qualities of imagination that
+
+lead us to believe in continued and distinct existence of objects ( a
+
+natural, indispensable belief on Hume's account) are <quote> 'trivial.'
+
+</quote> Still, it seems to me that Hume makes the charge of triviality
+
+abruptly in both contexts.
+<ICE-CAN:W2A-006#71:1> And in both contexts Hume might well have said: the imagination
+
+yields indispensable belief x, so is <foreign> ipso facto </foreign> not
+
+trivial. </footnote> </p>
+
+<p> <ICE-CAN:W2A-006#72:1> The simplest answer is that Hume has in mind the arguments that (
+
+he believes) force us to think of the imagination as trivial.
+<ICE-CAN:W2A-006#73:1> <it> Perhaps </it> that is the whole answer.
+<ICE-CAN:W2A-006#74:1> But I think that there is also at work here an unacknow <l> ledged
+
+shift of attitude, a sudden move from thinking of the human constitution as
+
+epistemically enabling to thinking of it as epistemically disabling.
+<ICE-CAN:W2A-006#75:1> To elaborate: once we have isolated and described any crucial,
+
+causally efficacious feature of human cognition, call it X, X will strike us
+
+in two different ways.
+<ICE-CAN:W2A-006#76:1> Sometimes we will be glad that we have X, because it makes possible
+
+so many beliefs ( or even so much knowledge).
+<ICE-CAN:W2A-006#77:1> At other times, though, all our beliefs will seem threatened just
+
+because they rest on X, and X seems incapable of bearing so much weight.
+<ICE-CAN:W2A-006#78:1> When X strikes us as thus insufficient or trivial, arguments against
+
+X will come to mind; the shift comes first, the arguments second.
+<ICE-CAN:W2A-006#79:1> The shift makes entertaining the arguments possible, and makes them
+
+seem obviously right.
+<ICE-CAN:W2A-006#80:1> Natural <l> istic epistemology will, then, make <it> possible </it> a
+
+pessimistic turn, which carries the seeds of extreme skepticism. <sp> 10
+
+</sp> <footnote> 10 To clarify two important points: ( 1)
+<ICE-CAN:W2A-006#81:1> I am not arguing that all naturalists are stuck with pessimism and
+
+skepticism, but only that a form of pessimism that makes skepticism
+
+psychologically possible, and perhaps also argumentatively plausible, has a
+
+non-arbitrary connection to naturalism. ( 2)
+<ICE-CAN:W2A-006#82:1> I do not try here to settle the issue how much of Hume's extreme
+
+skepticism flows only from his naturalistic commit <l> ments as deformed by
+
+the <quote> 'theory of ideas,' </quote> and how much of it flows from <it>
+
+other </it> features of his naturalistic commitments.
+<ICE-CAN:W2A-006#83:1> I <it> assume </it> that something other than the theory of ideas
+
+does some work in driving Hume to skepticism - partly because, of the three
+
+skeptical arguments Hume cites in I iv 7, only that broached in I iv 4 seems
+
+to me to depend irrevocably on the theory of ideas; and partly because Hume
+
+seems inclined to think that any <quote> 'anatomizing' </quote> can <quote> 'trivialize.'
+
+</quote>
+<ICE-CAN:W2A-006#84:1> On this last matter see ( a) <it> Treatise </it> III iii 6, 620-1;
+
+and ( b) Hume's letter of 17 September 1739, to Hutcheson, in Grieg, ed.,
+
+<it> The letters of David Hume </it> ( Oxford: Oxford University Press 1932),
+
+32-3. </p>
+
+<p> <ICE-CAN:W2A-006#85:1> For a forceful statement of the position that Hume's skepticism
+
+depends entirely on the thorough deformation of his naturalism by the theory
+
+of ideas, see Martin Bell and Marie McGinn, <quote> 'Naturalism and
+
+Skepticism,' </quote> <it> Philosophy </it> <bold> 65 </bold> ( 1990)
+
+399-418.
+<ICE-CAN:W2A-006#86:1> Despite my prima facie disagreement with Bell and McGinn about the
+
+role of the theory of ideas, I agree with them that Hume's extreme skepticism
+
+is the ruin rather than the helpmate of his naturalism.
+<ICE-CAN:W2A-006#87:1> I also find valuable their suggestion that the indispensable first
+
+step toward skepticism is a certain sort of open-mindedness: namey, the
+
+thought that it is after all <it> possible </it> , though unlikely, that
+
+fundamental parts of <quote> 'our ordinary outlook' </quote> are subject to a
+
+thoroughly negative theoretical assessment. </footnote> </p>
+
+<p> <ICE-CAN:W2A-006#88:1> Mapping this notion of a shift of attitude on to I iv 7 yields
+
+the following reading: Hume's pessimistic predisposition to think of the
+
+human constitution as an epistemic infirmity creates a tendency to lose all
+
+belief; that tendency is expressed and developed in slightly different forms
+
+in the different skeptical arguments.
+<ICE-CAN:W2A-006#89:1> Hume's resistance to these arguments is perfunctory, his progress to
+
+skepticism smooth, because he is antecedently inclined to reach skeptical
+
+conclusions.
+<ICE-CAN:W2A-006#90:1> According to this reading, then, Hume takes the crucial step in his
+
+skeptical progress at the margins of the text; so that, if we are to
+
+understand and criticize skepti <l> cism in a way that does justice to Hume,
+
+we must ultimately focus not on his detailed skeptical arguments, but on the
+
+character ( and aptness) of his initial pessimistic shift. <sp> 11 </sp>
+
+<footnote> 11 I say a bit more on this score in my concluding section; but my
+
+aim there is not to spell out an understanding of the pessimistic shift, but
+
+to add some support to the claim that the shift is what we need to
+
+understand. </footnote> </p>
+
+<p> <ICE-CAN:W2A-006#91:1> However, even if the detailed skeptical arguments Hume cites in I
+
+iv 7 play their role only after a pessimistic shift, still their role is
+
+essential: they turn epistemic pessimism into skeptical despair, they <it>
+
+cause </it> Hume's suspect beliefs to cease to be beliefs. <sp> 12 </sp>
+
+<footnote> 12 For an illuminating account of extreme skepticism as the
+
+natural causal product of reason, see Janet Broughton, <quote> 'Hume's
+
+Skepticism about Causal Inferences,' </quote> <it> Pacific Philosophical
+
+Quarterly </it> <bold> 64 </bold> ( 1983) 3-18. </footnote>
+<ICE-CAN:W2A-006#92:1> So, continuing the task of looking closely at Hume's narrative of his
+
+states of mind in I iv 7, we need to see what these arguments are and how
+
+they do their work. </p>
+
+<p> <ICE-CAN:W2A-006#93:1> Hume cites three skeptical arguments in I iv 7.
+<ICE-CAN:W2A-006#94:1> He arranges them so that the second argument removes hopes we are
+
+left with after the first, and the third removes hopes we are left with after
+
+the second, so that at the end we are deprived of all cognitive hopes. </p>
+
+<p> <ICE-CAN:W2A-006#95:1> The first argument, from I iv 4, says that the imagination is
+
+unreliable because its operation yields a manifest and irremediable
+
+contradiction.
+<ICE-CAN:W2A-006#96:1> The imagination produces causal beliefs, by enlivening certain ideas
+
+beyond others when certain impressions are present to the mind.
+<ICE-CAN:W2A-006#97:1> The imagination also, by following a convoluted and mistake-strewn
+
+path, produces the belief that objects continue to exist even when we do not
+
+perceive them, and exist distinct from our perception of them.
+<ICE-CAN:W2A-006#98:1> These two operations of the imagination are, Hume says, <quote> 'equally
+
+natural and necessary' </quote> ( 266).
+<ICE-CAN:W2A-006#99:1> And so far, so good, Hume suggests - even though the belief in
+
+continued and distinct existence has a dubious heritage, must bear the mark
+
+of the bar sinister. </p>
+
+<p> <ICE-CAN:W2A-006#100:1> But now an inescapably skeptical point emerges: <quote> 'in some
+
+circum <l> stances' </quote> these <quote> 'equally natural and necessary'
+
+</quote> operations <quote> 'are directly contrary.' </quote>
+<ICE-CAN:W2A-006#101:1> Why?
+<ICE-CAN:W2A-006#102:1> Roughly because good causal reasoning tells us not to believe that
+
+secondary qualities are anything in the objects themselves, but we cannot
+
+conceive of primary qualities being in the objects them <l> selves without
+
+conceiving of secondary qualities being in the objects themselves, so that
+
+good causal reasoning tells us that we cannot con <l> ceive of objects
+
+distinct from our perceptions.
+<ICE-CAN:W2A-006#103:1> That is to say, if we reason causally and carefully, we render the
+
+continued and distinct existence of objects inconceivable, and so <it>
+
+<foreign> a fortiori <it> </foreign> incredible; and if we can conceive of
+
+and believe in continued and distinct existence, that can only be because of
+
+a failure in causal reasoning.
+<ICE-CAN:W2A-006#104:1> The details here are obscure, and the argument might well tangle up
+
+conception and belief in fatally flawed ways.
+<ICE-CAN:W2A-006#105:1> But details and flaws aside, the gist of the argument is this: the
+
+imagination, by means of two natural and necessary operations, produces two
+
+natural and necessary beliefs.
+<ICE-CAN:W2A-006#106:1> We can have no grounds for preferring one belief to the other.
+<ICE-CAN:W2A-006#107:1> But the beliefs directly contradict each other.
+<ICE-CAN:W2A-006#108:1> This problem taints the faculty of the imagination in general, and
+
+so taints all its products ( our beliefs). </p>
+
+<p> <ICE-CAN:W2A-006#109:1> With this first argument, <it> if </it> it is sound, Hume has
+
+alredy dealt human cognition a devastating blow; but worse is in store.
+<ICE-CAN:W2A-006#110:1> For Hume's second argument destroys the fallback position we
+
+naturally take up after the first skeptical argument ( or at least the
+
+fallback position he <it> thinks </it> we naturally take up).
+<ICE-CAN:W2A-006#111:1> He describes that position in the following passage: <X> <quote>
+
+This contradiction in our reasoning would be more excusable, were it
+
+compensated by any degree of solidity and satisfaction in the other parts of
+
+our reasoning ....
+<ICE-CAN:W2A-006#X112:1> Nothing is more curiously <}> <-> esquir'd </-> <=> esquired </=>
+
+</}> after by the mind of man, than the causes of every <}> <-> phaenomenon
+
+</-> <=> phenomenon </=> </}> ; nor are we content with knowing the immediate
+
+causes, but push on our enquiries, till we arrive at the original and
+
+ultimate principle.
+<ICE-CAN:W2A-006#X113:1> We <}> <-> won'd </-> <=> would </=> </}> not willingly stop before
+
+we are acquainted with that energy in the cause, by which it operates on its
+
+effect; that tie, which connects them together; and that efficacious quality,
+
+on which the tie depends.
+<ICE-CAN:W2A-006#X114:1> This is our aim in all our studies and reflections .... ( 266) </X>
+
+</quote> </p>
+
+<p> <ICE-CAN:W2A-006#115:1> The suggestion is this: if causal reasoning informs us of
+
+necessary connections, that in some measure compensates or consoles us for
+
+the skeptical discovery that the imagination produces contradictory beliefs.
+<ICE-CAN:W2A-006#116:1> That skeptical discovery undercuts the rational status of our causal
+
+beliefs; but, if we can discover necessary connections, our causal inquir <l>
+
+ies still reach deeply satisfying resultes. <sp> 13 </sp> <footnote> 13 Hume
+
+presents his skeptical arguments as additive in this way, so that each
+
+destroys cognitive hopes that the previous one left intact.
+<ICE-CAN:W2A-006#117:1> But we might well think that <quote> 'knowledge' </quote> of <quote> 'necessary
+
+connections' </quote> wouldn't furnish <it> any </it> solace if the faculty
+
+from which all beliefs ( including beliefs about necessary connections) flow
+
+were irremediably unreliable.
+<ICE-CAN:W2A-006#118:1> That is, we might think that the argument against the imagination
+
+already leaves us as badly off as we can be.
+<ICE-CAN:W2A-006#119:1> So, Hume's presentation of the skeptical arguments aside, perhaps
+
+they are really best conceived of as assaults on cognition from different
+
+directions. </footnote> </p>
+
+<p> <ICE-CAN:W2A-006#120:1> Unfortunately, Hume notes, there are no necessary connections be
+
+<l> tween events ( as he has argued in I iii 14).
+<ICE-CAN:W2A-006#121:1> There is only a <it> feeling </it> of necessity that we experience
+
+when passing from a present impression to the idea of its customary
+
+attendant, a feeling that we mistakenly project onto events or <quote> 'objects.'
+
+</quote> </p> </I>

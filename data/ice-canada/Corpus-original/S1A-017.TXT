@@ -1,0 +1,668 @@
+<I>
+<ICE-CAN:S1A-017#1:1> Listen <,> you just buy the stuff and I'll decorate <,> okay
+
+<$A> <ICE-CAN:S1A-017#2:1:A> <{> <[> <O> laugh </O> Oh ya sure <,,> I spend the bucks <,>
+
+you enjoy it </[>
+
+<$B> <ICE-CAN:S1A-017#3:1:B> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-017#4:1:B> That's right dear
+<ICE-CAN:S1A-017#5:1:B> Now we both enjoy it
+<ICE-CAN:S1A-017#6:1:B> <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-017#7:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-017#8:1:B> I'm sharing
+<ICE-CAN:S1A-017#9:1:B> That's what you call sharing
+
+<$A> <ICE-CAN:S1A-017#10:1:A> Uh huh
+
+<$B> <ICE-CAN:S1A-017#11:1:B> <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-017#12:1:A> What's the Spanish hall chair look like
+
+<$B> <ICE-CAN:S1A-017#13:1:B> <}> <-> Spanish </-> <=> it looks like a Spanish chair </=>
+
+</}> <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-017#14:1:A> I don't know why I bothered asking <{> <[> you should </[>
+
+<$B> <ICE-CAN:S1A-017#15:1:B> <}> <-> <[> It's dark </[> </{> </-> <=> it's dark dark wood
+
+</=> </}> like uhm well <,> darker <,,> I think <}> <-> it's cherry </-> <=>
+
+it's cherry wood </=> </}> ya cos it's like a red <,,> <}> <-> and </-> <=>
+
+but not red-red it's like a <,> mahogany dark like <,> brownish red </=> </}>
+
+<$A> <ICE-CAN:S1A-017#16:1:A> Now <,> ah may I be so uh <,> <{> <[> ignorant as </[> to ask
+
+where it's going to go
+
+<$B> <ICE-CAN:S1A-017#17:1:B> <[> <unclear> word </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1A-017#18:1:B> No <,> <{> <[> <O> laugh </O> </[> <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-017#19:1:A> <[> Oh okay </[> </{>
+<ICE-CAN:S1A-017#20:1:A> Put it in the kitchen people walk in <,> isn't that supposed to be
+
+in the hall that's a Spanish hall chair
+
+<$B> <ICE-CAN:S1A-017#21:1:B> That's right honey
+
+<$A> <ICE-CAN:S1A-017#22:1:A> <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-017#23:1:B> <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-017#24:1:A> Ugh you know more than anything what I want to get is <}> <->
+
+a good </-> <=> a good dining room set </=> </}>
+<ICE-CAN:S1A-017#25:1:A> <}> <-> Like a uh uh </-> <=> there's no room for it now but <,>
+
+I'd like to <{> <[> <,> <unclear> words </unclear> </[> </=> </}>
+
+<$B> <ICE-CAN:S1A-017#26:1:B> <[> Do you like my mother's dining room set </[> </{>
+
+<$A> <ICE-CAN:S1A-017#27:1:A> I don't know what it looks like
+
+<$B> <ICE-CAN:S1A-017#28:1:B> Hmm <,> next time we're over check it out
+<ICE-CAN:S1A-017#29:1:B> She wants to get rid of it
+<ICE-CAN:S1A-017#30:1:B> She hates it
+
+<$A> <ICE-CAN:S1A-017#31:1:A> <}> <-> Oh that </-> <=> oh like that big dark thing </=> </}>
+
+<$B> <ICE-CAN:S1A-017#32:1:B> Ya <&> whispered </&>
+
+<$A> <ICE-CAN:S1A-017#33:1:A> Hmm <,> I'd have to <}> <-> get a </-> <=> take a </=> </}>
+
+closer look at it <,,> to really <,,>
+<ICE-CAN:S1A-017#34:1:A> I mean if she's going to give it to us uh
+
+<$B> <ICE-CAN:S1A-017#35:1:B> Well of course
+
+<$A> <ICE-CAN:S1A-017#36:1:A> Ya
+
+<$B> <ICE-CAN:S1A-017#37:1:B> She doesn't want it
+
+<$A> <ICE-CAN:S1A-017#38:1:A> But anyway there's no room for that right now
+
+<$B> <ICE-CAN:S1A-017#39:1:B> Ya cos once it's fixed up it's going to be
+
+<$A> <ICE-CAN:S1A-017#40:1:A> Oh <}> <-> it needs </-> <=> it needs </=> </}> repair
+
+<$B> <ICE-CAN:S1A-017#41:1:B> Well <}> <-> my </-> <=> my </=> </}> dad <}> <-> just did the
+
+uhm </-> <=> he just sanded <}> <-> the </-> <=> the </=> </}> top of it <{>
+
+<[> <,,> </[> last year and we uh varnished it and everything </=> </}>
+
+<$A> <ICE-CAN:S1A-017#42:1:A> <[> Uhhn </[> </{>
+
+<$B> <ICE-CAN:S1A-017#43:1:B> We finished it <,,> and just the chairs the chairs need
+
+re-gluing and <,>
+
+<$A> <ICE-CAN:S1A-017#44:1:A> Oh instant varnish stuff
+
+<$B> <ICE-CAN:S1A-017#45:1:B> Ya ya ya ya minor
+<ICE-CAN:S1A-017#46:1:B> Well <}> <-> you can </-> <=> you can't </=> </}> replace stuff
+
+like that </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1A-017#47:2:A> <&> starts mid-sentence </&> Four twenty-five twenty-four but
+
+uh <,> maybe it's her choice
+
+<$A> <ICE-CAN:S1A-017#48:2:A> You know <}> <-> maybe </-> <=> <{> <[> maybe </[> </=> </}>
+
+<$B> <ICE-CAN:S1A-017#49:2:B> <[> No no </[> </{> <,> no <,> no <,,> nope
+
+<$A> <ICE-CAN:S1A-017#50:2:A> What makes you think that
+
+<$B> <ICE-CAN:S1A-017#51:2:B> I can tell <,,>
+<ICE-CAN:S1A-017#52:2:B> He never talks about her either <,,>
+
+<$A> <ICE-CAN:S1A-017#53:2:A> No but then you don't get the opportunity to talk to him huch
+
+do you <,,>
+
+<$B> <ICE-CAN:S1A-017#54:2:B> Uhhm <,> no but men always end up talking to me about their
+
+girlfriends <,,>
+
+<$A> <ICE-CAN:S1A-017#55:2:A> I don't talk much uh about you <,,> to people
+
+<$B> <ICE-CAN:S1A-017#56:2:B> No cos I'm there
+<ICE-CAN:S1A-017#57:2:B> I'm everywhere
+<ICE-CAN:S1A-017#58:2:B> <{> <[> <O> laugh </O> <?> Hi </?> </[>
+
+<$A> <ICE-CAN:S1A-017#59:2:A> <[> What are you talking about </[> </{>
+
+<$B> <ICE-CAN:S1A-017#60:2:B> Everybody knows me
+
+<$A> <ICE-CAN:S1A-017#61:2:A> Oh ya that's true
+
+<$B> <ICE-CAN:S1A-017#62:2:B> <O> laugh </O> <{> <[> Everyone knows me </[>
+
+<$A> <ICE-CAN:S1A-017#63:2:A> <[> <O> laugh </O> </[> </{> <}> <-> <}> <-> I <}> <-> <.> c
+
+</.> </-> <+> could </+> </}> <O> laugh </O> </-> <=> I could </=> </}> </->
+
+<=> an interesting scenario </=> </}> <,,> I've a line about what we've been
+
+talking about <{1> <[1> <,> </[1> about you always
+<ICE-CAN:S1A-017#64:2:A> <{2> <[2> there </[2>
+
+<$B> <ICE-CAN:S1A-017#65:2:B> <[1> Hmm </[1> </{1>
+
+<$B> <ICE-CAN:S1A-017#66:2:B> <[2> Hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1A-017#67:2:A> So I'd be talking to somebody and then <}> <-> I </-> <=> I'd
+
+</=> </}> bring you into the conversation and I'd say <,> <quote> well <@>
+
+Mary </@> </quote> and then <quote> did I hear my name </quote>
+<ICE-CAN:S1A-017#68:2:A> <{> <[> <}> <-> You couldn't pop out of nowhere </-> <=> you
+
+couldn't pop out of nowhere cos you're always there </=> </}> <O> laugh </O>
+
+</[>
+
+<$B> <ICE-CAN:S1A-017#69:2:B> <[> <O> laugh </O> Uhhh <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-017#70:2:B> Pop like genie
+<ICE-CAN:S1A-017#71:2:B> Duh duh duh duh duh <&> " I Dream of Jeannie" theme </&>
+<ICE-CAN:S1A-017#72:2:B> <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-017#73:2:A> <[> You're pretty funny </[> </{>
+
+<$B> <ICE-CAN:S1A-017#74:2:B> Ya ya ya <,,> ya
+<ICE-CAN:S1A-017#75:2:B> Ya so the fortune teller was pretty pretty good today
+<ICE-CAN:S1A-017#76:2:B> She's like <{> <[> I can't believe it </[>
+
+<$A> <ICE-CAN:S1A-017#77:2:A> <[> <unclear> words </unclear> </[> </{> <unclear> words
+
+</unclear> <&> whisper </&>
+
+<$B> <ICE-CAN:S1A-017#78:2:B> Your cards cos <}> <-> I got </-> <=> I got like </=> </}> <,>
+
+luck and fulfillment or something like that <,,> <}> <-> and my </-> <=> but
+
+my </=> </}> first card was <O> puh </O> a <}> <-> sun </-> <=> <}> <-> <.>
+
+sh </.> </-> <=> sunshine </=> </}> </=> </}>
+
+<$A> <ICE-CAN:S1A-017#79:2:A> <{> <[> Right </[>
+
+<$B> <ICE-CAN:S1A-017#80:2:B> <[> And </[> </{> really good
+<ICE-CAN:S1A-017#81:2:B> She said I've never <,,> seen somebody pull out cards like this
+<ICE-CAN:S1A-017#82:2:B> Never
+
+<$A> <ICE-CAN:S1A-017#83:2:A> <{> <[> Never </[>
+
+<$B> <ICE-CAN:S1A-017#84:2:B> <[> She </[> </{> said everything everything everything that
+
+you hope for <,,> is <}> <-> gonna </-> <+> going to </+> </}> to happen
+
+<$A> <ICE-CAN:S1A-017#85:2:A> Amazing
+
+<$B> <ICE-CAN:S1A-017#86:2:B> Mhhm <,> ya
+<ICE-CAN:S1A-017#87:2:B> She said I'm in a high position right now
+<ICE-CAN:S1A-017#88:2:B> Uhhm <,,> what else <,> she said you really love me <,> more than I
+
+can even possibly know
+
+<$A> <ICE-CAN:S1A-017#89:2:A> She said that you love her
+
+<$B> <ICE-CAN:S1A-017#90:2:B> No you
+<ICE-CAN:S1A-017#91:2:B> <{> <[> You love me dear <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-017#92:2:A> <[> Oh oh okay I was saying boy she's pretty uh egocentric
+
+</[> </{>
+<ICE-CAN:S1A-017#93:2:A> You know <@> Mary </@> I am your fortune teller but I know that you
+
+love <{> <[> me <,,> more than you </[> can possibly know
+
+<$B> <ICE-CAN:S1A-017#94:2:B> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-017#95:2:B> <{> <[> Oh she knows I've hugged her and kiss her <O> laugh </O>
+
+</[>
+
+<$A> <ICE-CAN:S1A-017#96:2:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-017#97:2:A> It's true she's like my grandma
+<ICE-CAN:S1A-017#98:2:A> And she gives me her slippers when I go in there <,> she lets me
+
+wear her slippers
+
+<$A> <ICE-CAN:S1A-017#99:2:A> Does she do this regularly or does she do it
+
+<$B> <ICE-CAN:S1A-017#100:2:B> Ya pretty regularly
+<ICE-CAN:S1A-017#101:2:B> She has regular ah
+
+<$A> <ICE-CAN:S1A-017#102:2:A> Does she do anything else besides that
+
+<$B> <ICE-CAN:S1A-017#103:2:B> No
+
+<$A> <ICE-CAN:S1A-017#104:2:A> No
+
+<$B> <ICE-CAN:S1A-017#105:2:B> No
+
+<$A> <ICE-CAN:S1A-017#106:2:A> So she makes her living doing this
+
+<$B> <ICE-CAN:S1A-017#107:2:B> Mhhm <,,> three or four people in one day <{> <[> <,,> </[>
+
+times that by a week <,> fifty dollars each
+
+<$A> <ICE-CAN:S1A-017#108:2:A> <[> Oh ya </[> </{>
+<ICE-CAN:S1A-017#109:2:A> That's pretty good
+
+<$B> <ICE-CAN:S1A-017#110:2:B> That's pretty good
+
+<$A> <ICE-CAN:S1A-017#111:2:A> <}> <-> Four </-> <=> four </=> </}> people <,,> a day at
+
+fifty dollars each that's two hundred dollars times ah <O> puff </O> <,,>
+
+five
+<ICE-CAN:S1A-017#112:2:A> That's a thousand dollars a week
+
+<$B> <ICE-CAN:S1A-017#113:2:B> Yup
+
+<$A> <ICE-CAN:S1A-017#114:2:A> That's pretty darn good
+<ICE-CAN:S1A-017#115:2:A> She must have <}> <-> a </-> <=> a </=> </}> large clientele <,,>
+
+<$B> <ICE-CAN:S1A-017#116:2:B> Mhhm
+
+<$A> <ICE-CAN:S1A-017#117:2:A> <}> <-> If she's </-> <=> I mean does she have her own house
+
+does she live <{> <[> <unclear> word </unclear> in her own place <,,> ya </=>
+
+</}> </[>
+
+<$B> <ICE-CAN:S1A-017#118:2:B> <[> Oh ya ya ya </[> </{> ya <,,>
+<ICE-CAN:S1A-017#119:2:B> I think she's Hungarian <,,>
+
+<$A> <ICE-CAN:S1A-017#120:2:A> That stuff gets funny I don't want <}> <-> to </-> <=> to
+
+</=> </}> stereotype but the gypsy thing you know
+
+<$B> <ICE-CAN:S1A-017#121:2:B> Mhhm
+
+<$A> <ICE-CAN:S1A-017#122:2:A> Something you'd identify with <,,> with Hungarians and
+
+fortune telling <,,>
+<ICE-CAN:S1A-017#123:2:A> It's nice <,>
+
+<$B> <ICE-CAN:S1A-017#124:2:B> Ya <,,>
+<ICE-CAN:S1A-017#125:2:B> <}> <-> That's funny today cos I was telling her <,,> about <.> c
+
+</.> </-> <=> well actually yesterday when I phoned her <}> <-> I said ah <,>
+
+</-> <=> she goes </=> </}> you know I was just thinking about you yesterday
+
+</=> </}>
+<ICE-CAN:S1A-017#126:2:B> I said I know I know I've been thinking about you for about two
+
+weeks now <,>
+<ICE-CAN:S1A-017#127:2:B> <}> <-> So she goes uh </-> <=> I don't know she goes ya ya </=>
+
+</}>
+<ICE-CAN:S1A-017#128:2:B> Like cos she knows <,> she just knows <,,>
+<ICE-CAN:S1A-017#129:2:B> She undertands me
+<ICE-CAN:S1A-017#130:2:B> <{> <[> She understands me </[>
+
+<$A> <ICE-CAN:S1A-017#131:2:A> <[> When was the </[> </{>
+<ICE-CAN:S1A-017#132:2:A> <}> <-> <O> laugh </O> When was the last time </-> <=> <O> laugh
+
+</O> when was the last time you saw her </=> </}>
+
+<$B> <ICE-CAN:S1A-017#133:2:B> Mhh November
+
+<$A> <ICE-CAN:S1A-017#134:2:A> That's quite a ways back
+
+<$B> <ICE-CAN:S1A-017#135:2:B> Ya
+
+<$A> <ICE-CAN:S1A-017#136:2:A> You see her twice a year generally
+
+<$B> <ICE-CAN:S1A-017#137:2:B> No
+<ICE-CAN:S1A-017#138:2:B> Probably once a year probably
+
+<$A> <ICE-CAN:S1A-017#139:2:A> When you get the urge <{> <[> to go </[> see her
+
+<$B> <ICE-CAN:S1A-017#140:2:B> <[> Mhhm </[> </{>
+<ICE-CAN:S1A-017#141:2:B> After the <}> <-> <.> ter </.> </-> <=> turmoil </=> </}> of a
+
+year I've had this year <}> <-> I needed a </-> <=> <{> <[> I needed to </[>
+
+</=> </}> ah
+
+<$A> <ICE-CAN:S1A-017#142:2:A> <[> Uhhuh </[> </{>
+
+<$B> <ICE-CAN:S1A-017#143:2:B> Mind you I did get my signs <,>
+<ICE-CAN:S1A-017#144:2:B> I'm on the right track
+<ICE-CAN:S1A-017#145:2:B> Yesterday when <@> El </@> called and told me about my psychology
+
+exam <,,>
+<ICE-CAN:S1A-017#146:2:B> So that was a sign <,,> <{> <[> and then </[> uh <,,> everything
+
+going well
+
+<$A> <ICE-CAN:S1A-017#147:2:A> <[> <O> cough </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-017#148:2:B> Oh she also told me <}> <-> some older man </-> <=> <,,> I'm
+
+going to get money from some older man </=> </}> <,>
+<ICE-CAN:S1A-017#149:2:B> <@> Andy </@>
+
+<$A> <ICE-CAN:S1A-017#150:2:A> <O> laugh </O> Ya that makes sense
+
+<$B> <ICE-CAN:S1A-017#151:2:B> Yes <,> I figured
+<ICE-CAN:S1A-017#152:2:B> It just hit me today cos I'm like older man my father doesn't have
+
+any money <{> <[> <O> laugh </O> my </[> brother doesn't have any money I
+
+don't know anybody that has any money that's older
+
+<$A> <ICE-CAN:S1A-017#153:2:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-017#154:2:A> Huh <,,> could be
+
+<$B> <ICE-CAN:S1A-017#155:2:B> Mhhm <,,> ya and it's not you
+<ICE-CAN:S1A-017#156:2:B> Yup so I'm sure it's <@> Andy </@> <,,>
+
+<$A> <ICE-CAN:S1A-017#157:2:A> That's pretty funny
+<ICE-CAN:S1A-017#158:2:A> Oh well
+
+<$B> <ICE-CAN:S1A-017#159:2:B> Ya and she said uh lately you've been worried about having
+
+children <}> <-> because you don't want to </-> <=> she says because you
+
+don't feel that you would be a good mother </=> </}> <,> and uh uh duh duh
+
+duh but <}> <-> your </-> <=> your </=> </}> boyfriend he wants children
+
+someday and <,> he wants to settle down and <,> he thinks he's found the
+
+perfect mother and
+
+<$A> <ICE-CAN:S1A-017#160:2:A> Wait a minute <,> let's not pat oursleves on the back here
+
+<,> <O> laugh </O>
+<ICE-CAN:S1A-017#161:2:A> Perfection is a pretty high status
+
+<$B> <ICE-CAN:S1A-017#162:2:B> Okay name all the things that I can do <,> name all the
+
+things that I can't
+
+<$A> <ICE-CAN:S1A-017#163:2:A> Well I mean you can't
+
+<$B> <ICE-CAN:S1A-017#164:2:B> I cook well I clean well I'm an artist <,> I express myself
+
+well <,> I'm pretty <,,> and I'm smart and
+
+<$A> <ICE-CAN:S1A-017#165:2:A> And you're very modest
+
+<$B> <ICE-CAN:S1A-017#166:2:B> <{> <[> And I'm modest <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-017#167:2:A> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-017#168:2:A> That's true you do everything pretty well
+
+<$B> <ICE-CAN:S1A-017#169:2:B> And I sing
+
+<$A> <ICE-CAN:S1A-017#170:2:A> No you don't sing well <,> no no
+<ICE-CAN:S1A-017#171:2:A> You're pretty you cook <{> <[> well you're a good artist <,,> and
+
+<}> <-> you <}> <-> <.> s </.> </-> <+> sing </+> </}> you are you </-> <=>
+
+you're </=> </}> </[> articulate and so on and so forth but your singing <,>
+
+uh-un
+
+<$B> <ICE-CAN:S1A-017#172:2:B> <[> Everybody else has told me <,> everyone else has told me
+
+that <}> <-> I cook </-> <=> I sing </=> </}> well </[> </{>
+
+<$A> <ICE-CAN:S1A-017#173:2:A> <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-017#174:2:B> Do you think you sing well
+
+<$A> <ICE-CAN:S1A-017#175:2:A> I think I sing better than you do
+
+<$B> <ICE-CAN:S1A-017#176:2:B> No
+
+<$A> <ICE-CAN:S1A-017#177:2:A> Oh yes
+
+<$B> <ICE-CAN:S1A-017#178:2:B> Oh no
+
+<$A> <ICE-CAN:S1A-017#179:2:A> Yes
+
+<$B> <ICE-CAN:S1A-017#180:2:B> <{> <[> Oh <,> no </[>
+
+<$A> <ICE-CAN:S1A-017#181:2:A> <[> Yes </[> </{>
+
+<$B> <ICE-CAN:S1A-017#182:2:B> Uh-un
+
+<$A> <ICE-CAN:S1A-017#183:2:A> No I'm sorry <,> I don't think I sing better than you do but
+
+I think I have a better voice than you do <,,>
+<ICE-CAN:S1A-017#184:2:A> That's different
+
+<$B> <ICE-CAN:S1A-017#185:2:B> No
+
+<$A> <ICE-CAN:S1A-017#186:2:A> Yup
+
+<$B> <ICE-CAN:S1A-017#187:2:B> No <,,>
+<ICE-CAN:S1A-017#188:2:B> Well you have a better speaking voice ya
+
+<$A> <ICE-CAN:S1A-017#189:2:A> No not necassarily a better speaking voice
+
+<$B> <ICE-CAN:S1A-017#190:2:B> Ya you have a better speaking voice
+<ICE-CAN:S1A-017#191:2:B> You're more clearer but that's because you were in communications
+
+and stuff like that
+
+<$A> <ICE-CAN:S1A-017#192:2:A> It doesn't have anything to do with communications
+
+<$B> <ICE-CAN:S1A-017#193:2:B> Sure it does
+
+<$A> <ICE-CAN:S1A-017#194:2:A> No
+
+<$B> <ICE-CAN:S1A-017#195:2:B> Oh come on when you know you're being recorded and you're on
+
+the air you don't talk <,> differently
+<ICE-CAN:S1A-017#196:2:B> <{> <[> I do when I'm on <}> <-> that <.> s </.> </[> </-> <=>
+
+that </=> </}> hand radio thing
+
+<$A> <ICE-CAN:S1A-017#197:2:A> <[> Oh I see </[> </{>
+<ICE-CAN:S1A-017#198:2:A> Hand radio
+
+<$B> <ICE-CAN:S1A-017#199:2:B> Or ham
+
+<$A> <ICE-CAN:S1A-017#200:2:A> <O> laugh </O> <{> <[> <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-017#201:2:B> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-017#202:2:B> Easter ham radio <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-017#203:2:A> <{> <[> <O> laugh </O> Hand radio </[>
+
+<$B> <ICE-CAN:S1A-017#204:2:B> <[> Smoked ham radio </[> </{>
+
+<$A> <ICE-CAN:S1A-017#205:2:A> It's like when I was a kid I used to call this my <mention>
+
+thingger </mention> <,,> <{> <[> <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-017#206:2:B> <[> What </[> </{>
+
+<$A> <ICE-CAN:S1A-017#207:2:A> My <mention> thingger </mention>
+
+<$B> <ICE-CAN:S1A-017#208:2:B> <O> laugh </O>
+<ICE-CAN:S1A-017#209:2:B> <}> <-> Your </-> <=> your </=> </}> finger and your thumb <{> <[>
+
+<O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-017#210:2:A> <[> <O> laugh </O> My <unclear> word </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1A-017#211:2:B> <O> laugh </O> That's funny
+
+<$A> <ICE-CAN:S1A-017#212:2:A> Ya
+
+<$B> <ICE-CAN:S1A-017#213:2:B> This is funny ha
+<ICE-CAN:S1A-017#214:2:B> Haaa I have to go and pick a bath mat and then I have to buy some
+
+<unclear> word </unclear> soups and then I have to <,,> buy a baguette
+
+<$A> <ICE-CAN:S1A-017#215:2:A> Like a baguette
+
+<$B> <ICE-CAN:S1A-017#216:2:B> Baguette <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-017#217:2:A> <[> You sound </[> </{> like some kind of swamp frog
+<ICE-CAN:S1A-017#218:2:A> Baguette baguette
+<ICE-CAN:S1A-017#219:2:A> Don't you know those frogs <}> <-> that sounds like </-> <=> they
+
+sound like </=> </}> when you <,,> hear a tin can it's half full of water
+
+with a lock
+<ICE-CAN:S1A-017#220:2:A> <{> <[> Bahuuu </[> bahuuu
+
+<$B> <ICE-CAN:S1A-017#221:2:B> <[> Mhhm </[> </{>
+
+<$A> <ICE-CAN:S1A-017#222:2:A> That's <{> <[> what I used to think <,,> </[>
+
+<$B> <ICE-CAN:S1A-017#223:2:B> <[> You do that well <@> Huberto </@> </[> </{>
+
+<$A> <ICE-CAN:S1A-017#224:2:A> That's what I used to <{> <[> think when </[> I was young eh
+
+<$B> <ICE-CAN:S1A-017#225:2:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-017#226:2:A> I'd think it was somebody <}> <-> throwing </-> <=> <}> <->
+
+hitting </-> <=> hitting </=> </}> </=> </}> a can with a rock <{> <[> <,,>
+
+</[> a can of water <,> bahuuu <,,>
+
+<$B> <ICE-CAN:S1A-017#227:2:B> <[> Oh ya </[> </{>
+<ICE-CAN:S1A-017#228:2:B> God
+
+<$A> <ICE-CAN:S1A-017#229:2:A> <}> <-> <?> It's nice </?> </-> <=> you know I used to wonder
+
+<}> <-> <.> wha </.> </-> <=> <}> <-> how </-> <=> how </=> </}> </=> </}> do
+
+you do that how do you produce that sound <,> bahuuu <{> <[> bahuuu bahuuu
+
+</[> </=> </}>
+
+<$B> <ICE-CAN:S1A-017#230:2:B> <[> <O> laugh </O> </[> </{> <O> laugh </O> <{> <[> <O> laugh
+
+</O> oh god </[>
+
+<$A> <ICE-CAN:S1A-017#231:2:A> <[> It's true <,> bahuuu bahuuu </[> </{> <,,>
+
+<$B> <ICE-CAN:S1A-017#232:2:B> Ya ya ya anyways so my fortune teller's <&> sound of coin
+
+hitting the ground </&> see why do you interrupt me <,>
+
+<$A> <ICE-CAN:S1A-017#233:2:A> I just dropped some money
+<ICE-CAN:S1A-017#234:2:A> Ya no I wouldn't interrupt you <,,>
+
+<$A> <ICE-CAN:S1A-017#235:2:A> Anyways we're going to be very happy together <,,> as long as
+
+I don't <,> lose my temper so quickly
+<ICE-CAN:S1A-017#236:2:A> She said because I'm very changeable <,,> my temperament is very
+
+changeable
+
+<$A> <ICE-CAN:S1A-017#237:2:A> It's volatile
+
+<$B> <ICE-CAN:S1A-017#238:2:B> And I can <,,> fly off the handle for no reason whatsoever
+
+<$A> <ICE-CAN:S1A-017#239:2:A> Ya but I've never seen you really really </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1A-017#240:3:A> Give your observations on that photograph <,> that you took
+
+<,,> and then you can give the observations on the one <,,> I took <,> of you
+
+<$B> <ICE-CAN:S1A-017#241:3:B> Alright <,> let's start with <@> Amanda </@> then
+
+<$A> <ICE-CAN:S1A-017#242:3:A> Do you want me to start
+
+<$B> <ICE-CAN:S1A-017#243:3:B> Yes <,,>
+
+<$A> <ICE-CAN:S1A-017#244:3:A> I think it's an incredibly <,> beautiful photograph <,,> of a
+
+<,,> girl <,> just on the threshold of womanhood <,> sitting in <}> <-> a <,>
+
+</-> <=> a </=> </}> strange overgrown rock garden <,> wearing <}> <-> a <,>
+
+</-> <=> a </=> </}> wreath of <,> dandelions <,,> and she's so innocent and
+
+so beautiful and <,,> so unfolding
+<ICE-CAN:S1A-017#245:3:A> And what I'm going to do with this is I'm going to get an eight by
+
+ten blown up <,,> and use it and write a little <,,> story about it for <}>
+
+<-> that <,> </-> <=> this </=> </}> little half-book that I'm working on
+
+<,,>
+
+<$B> <ICE-CAN:S1A-017#246:3:B> Right right does she remind you a lot of <@> Chloe </@> there
+
+<$A> <ICE-CAN:S1A-017#247:3:A> No not in the least <,> absolutely
+<ICE-CAN:S1A-017#248:3:A> <}> <-> I know she's <,> more <}> <-> <.> impor </.> </-> <+>
+
+important> </}> I don't know </-> <=> really <}> <-> she's </-> <=> she </=>
+
+</}> doesn't resemble any other family member that I know </=> </}>
+<ICE-CAN:S1A-017#249:3:A> She doesn't resemble <@> Chloe </@> in the least <,,>
+
+<$B> <ICE-CAN:S1A-017#250:3:B> I always thought she did
+
+<$A> <ICE-CAN:S1A-017#251:3:A> So what do you think of my photograph <unclear> word
+
+</unclear>
+
+<$B> <ICE-CAN:S1A-017#252:3:B> I love it that's why I'm getting the triptych made <,> and
+
+uhm <}> <-> it's </-> <=> it's </=> </}> <}> <-> gonna </-> <+> going to </+>
+
+</}> look great
+<ICE-CAN:S1A-017#253:3:B> And uhh I still like the idea that it looks as though I'm falling
+
+<,> that I haven't hit the ground
+<ICE-CAN:S1A-017#254:3:B> I don't <,> quite know why that optical illusion happens but it
+
+does <,> although it took me a day <}> <-> to </-> <=> to </=> </}> see that
+<ICE-CAN:S1A-017#255:3:B> <}> <-> That uh </-> <=> that's </=> </}> I suppose is a little
+
+bit of a disturbing image the idea of still falling
+<ICE-CAN:S1A-017#256:3:B> But the body language in the photo <}> <-> I've </-> <=> I </=>
+
+</}> look very relaxed <,,> I think
+
+<$A> <ICE-CAN:S1A-017#257:3:A> <unclear> words </unclear> I just mention that uh in fact I
+
+showed it to <,,> the psychoanalyst yesterday that photograph and said <,>
+
+that I didn't have the <,,> technical skills to photograph myself <,,> lying
+
+face down in a field of <,> dandelions and cut grass <,>
+<ICE-CAN:S1A-017#258:3:A> But I should point the fact that <}> <-> it's </-> <=> it's </=>
+
+</}> symbolic it's myself <,>
+<ICE-CAN:S1A-017#259:3:A> It's what it is it's the Fall of Icarus <,,> flying too <,> close
+
+to the sun and becoming unglued and <,>
+<ICE-CAN:S1A-017#260:3:A> And that's my life <,,>
+<ICE-CAN:S1A-017#261:3:A> I tried to fly too close to the sun and <{> <[> <,,> became
+
+unglued </[>
+
+<$B> <ICE-CAN:S1A-017#262:3:B> <[> Came unglued <O> laugh </O> </[> </{> <{> <[> <O> laugh
+
+</O> </[>
+
+<$A> <ICE-CAN:S1A-017#263:3:A> <[> Ya that's it you read it you read it </[> </{> </I>

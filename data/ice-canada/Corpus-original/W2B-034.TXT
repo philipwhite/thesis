@@ -1,0 +1,514 @@
+<I>
+<ICE-CAN:W2B-034#1:1> <h> <bold> Gates vows to remain in OS/2 camp </bold> </h> <O>
+
+photograph </O> <O> Bill Gates </O>
+<ICE-CAN:W2B-034#2:1> <it> by Paul Barker </it>
+<ICE-CAN:W2B-034#3:1> <it> Contributing Editor </it>
+
+<p> <ICE-CAN:W2B-034#4:1> MISSISSAUGA, Ont. - Win <l> dows, multimedia and OS/2 will form
+
+the cornerstone of Micro <l> soft Corp.'s development ef <l> forts during the
+
+next decade, the company's co-founder and chairman says. </p>
+
+<p> <ICE-CAN:W2B-034#5:1> Bill <w> Gates' </w> commitment to OS/2 follows a published report
+
+stating that Microsoft planned to abandon an operating system which has
+
+generated little inter <l> est since its introduction four years ago. </p>
+
+<p> <ICE-CAN:W2B-034#6:1> <quote> " The article was as wrong as an article can be," </quote>
+
+said Gates. <X>
+<ICE-CAN:W2B-034#X7:1> <quote> " We've got more people focused on OS/2 than we ever have.
+<ICE-CAN:W2B-034#X8:1> Particularly when a product's in a position like this, we need to
+
+make it absolutely clear what our commitment is." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-034#9:1> He told reporters here prior to the opening of Microsoft Canada
+
+Inc.'s new headquar <l> ters, that OS/2 remains the <quote> " highest
+
+priority" </quote> for his com <l> pany. </p>
+
+<p> <quote> " The story with Windows from 1983 until just a year ago, was
+
+that people said, 'come on, give up, why are you working on that?
+<ICE-CAN:W2B-034#10:1> It's not important.'" </quote> </p>
+
+<p> <ICE-CAN:W2B-034#11:1> <quote> " We had to come back in every speech and say this will
+
+be important," </quote> he said. <X>
+<ICE-CAN:W2B-034#X12:1> <quote> " We find ourselves in exactly the same position with OS/2
+
+today." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-034#13:1> And the success of Windows 3.0, the graphical user inter <l> face
+
+( GUI) that burst onto the scene last May, has been noth <l> ing short of
+
+phenomenal. </p>
+
+<p> <ICE-CAN:W2B-034#14:1> More than two million copies have been sold worldwide since the
+
+introduction and the num <l> ber of Windows-based applica <l> tions has
+
+soared to 1,000. </p>
+
+<p> <ICE-CAN:W2B-034#15:1> That figure is expected to double by next year, Gates said. </p>
+
+<p> <ICE-CAN:W2B-034#16:1> When asked if Microsoft planned to go head-to-head with
+
+Cupertino, CA's Apple Computer Inc. as part of a GUI war, he responded by
+
+saying <quote> " there's no doubt that if they rest on their laurels life
+
+will get tough for them." </quote> </p>
+
+<p> <ICE-CAN:W2B-034#17:1> <quote> " Macintosh users are fiercely loyal to the Macin <l>
+
+tosh," </quote> he said. <X>
+<ICE-CAN:W2B-034#X18:1> <quote> " Windows on the other hand has the advan <l> tage of being
+
+compatible with the majority of PC hardware." </quote>
+<ICE-CAN:W2B-034#X19:1> <X> </p>
+
+<p> <quote> " If you want a portable machine, I can show you 20 that are
+
+great Windows machines.
+<ICE-CAN:W2B-034#X20:1> Arguably, there's one or zero great portable Macintoshes." </quote>
+
+</p>
+
+<p> <ICE-CAN:W2B-034#X21:1> Gates also denied that as custodian of the DOS operating system,
+
+Microsoft holds an un <l> fair advantage over other soft <l> ware developers.
+<ICE-CAN:W2B-034#X22:1> <quote> " We've been a developer of operating sys <l> tems and
+
+applications from the beginning of the company," </quote> he said. <X>
+
+<quote> " There's nothing new about this. </quote> </X> </p>
+
+<p> <quote> " If we get an advantage by offering MS-DOS, did it help us in
+
+our applications, did it help us versus Lotus 1-2-3, did it help us versus
+
+WordPerfect? <X>
+<ICE-CAN:W2B-034#X23:1> If it did, I didn't notice." </quote> </X>
+
+<p> <ICE-CAN:W2B-034#24:1> Each application, said Gates, has to <quote> " stand on its own."
+
+</quote> </p>
+
+<p> <ICE-CAN:W2B-034#25:1> <quote> " I really don't see any corre <l> lation," </quote> he
+
+said. <X>
+<ICE-CAN:W2B-034#X26:1> <quote> " I'm always curious for someone to provide some example
+
+where as the provider of DOS and Windows, we get some advantage." </quote>
+
+</X> </p> <X>
+<ICE-CAN:W2B-034#X27:1> <quote> " ...We went to Lotus and begged them to do Windows
+
+applications - actually signed a contract with Mitch Kapor which they later
+
+reneged on; we went to WordPerfect, Ashton-Tate and begged them to do it."
+
+</quote> </X>
+
+<p> <ICE-CAN:W2B-034#28:1> All three vendors, said Gates, will <quote> " recount how boring
+
+it was to have me come down year after year and say the Microsoft application
+
+strategy was to focus on Windows." </quote> </p> <X>
+<ICE-CAN:W2B-034#X29:1> <quote> " There were a lot of other people who listened to that
+
+story - people like Aldus, Corel and Micrografx. ...
+<ICE-CAN:W2B-034#X30:1> They are seeing the rewards of picking an environment that happened
+
+to succeed." </quote> </X>
+
+<p> <ICE-CAN:W2B-034#31:1> Of multimedia, he said, its greatest impact will come in <quote> "
+
+consumer-type applications.
+<ICE-CAN:W2B-034#32:1> Encyclopedias, sports, medi <l> cine, travel - all of this on a
+
+compact disc with sound and pictures and you get to choose what information
+
+you're inter <l> ested in." </quote> </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-034#33:2> <h> <bold> Industry not exempt from recession, say analysts <bold>
+
+</h>
+<ICE-CAN:W2B-034#34:2> <it> by Dianne Daniel </it>
+<ICE-CAN:W2B-034#35:2> <it> Contributing Editor </it>
+
+<p> <ICE-CAN:W2B-034#36:2> The 1990 recession has left its mark on the information
+
+technology industry despite strong financial showings from some companies for
+
+the period ended Dec. 31, 1990, say industry analysts. </p>
+
+<p> <ICE-CAN:W2B-034#37:2> According to Andrew Toller, a consultant with The DMR Group Inc.
+
+in Toronto, 1990 was <quote> " overall a bad year for the industry." </quote>
+<ICE-CAN:W2B-034#38:2> He says despite a few exceptions - relatively small specialized
+
+companies and those who made key announcements in 1990 - growth in the
+
+industry has slowed and he sees no signs of it bouncing back soon. </p>
+
+<p> <ICE-CAN:W2B-034#39:2> International Data Corp. ( Canada) Ltd. ( IDC) based in Toronto
+
+reports, <quote> " ... Demand for information technology is likely to be more
+
+directly affected by the general economic climate over the next few years
+
+than recent history might lead one to expect." </quote> </p>
+
+<p> <ICE-CAN:W2B-034#40:2> According to IDC, the belief that the IT industry is independent
+
+of the overall business cycle is a myth.
+<ICE-CAN:W2B-034#41:2> In <l> stead, the research firm re <l> ports that <w> users' </w>
+
+buying be <l> havior is highly influenced by the economic climate. <X>
+<ICE-CAN:W2B-034#X42:2> <quote> " Evi <l> dence indicates information technology is as much
+
+a tar-get of current cost reduction efforts as are other expenses in the
+
+organization...it is reasonable to expect the recession will be a damper on
+
+IT industry demand." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-034#43:2> Although Willowdale, Ont.-based Evans Research Corp. ( ERC)
+
+predicts IT will <quote> " ex <l> perience a slightly softer land <l> ing
+
+than the general business environment," </quote> it too projects slower
+
+growth for most seg <l> ments in 1990 and 1991. </p>
+
+<p> <ICE-CAN:W2B-034#44:2> In its report <it> Trends and Forecasts for the Information
+
+Technologies Industry </it> , 1990-1994, ERC expected the soft <l> ware
+
+segment to grow 15.6 per cent in <w> ' 90 </w> and 15.7 per cent in <w> ' 91
+
+</w> , down from 16.5 per cent in <w> ' 89 </w> .
+<ICE-CAN:W2B-034#45:2> The hardware segment was expected to show growth of only 6.3 per cent
+
+( including hardware maintenance) in 1990 compared to 7.5 per cent in 1989.
+<ICE-CAN:W2B-034#46:2> And the PC market was expected to slow from 19.8 per cent in <w> ' 89
+
+</w> to 16.9 per cent in <w> ' 90 </w> . </p>
+
+<p> <ICE-CAN:W2B-034#47:2> In addition to slowed growth, the industry also ex <l> perienced
+
+its share of losses.
+<ICE-CAN:W2B-034#48:2> Beginning with B.C.'s Mission Cyrus which stopped produc <l> tion and
+
+laid off all but a few employees late in the summer of 1990, there were five
+
+no-table failures.
+<ICE-CAN:W2B-034#49:2> Canada Remote Systems Inc. went into re <l> ceivership; Jonas &
+
+Erickson Software Technology Inc. was bought by Markham, Ont.'s Geac Computer
+
+Corp. Ltd. after filing an assignment in bankruptcy; Myrias Research Corp.
+
+laid off all of its staff and appointed a receiver; and, Tin <l> ton Falls,
+
+NJ-based Concurrent Computer Corp. ended the year by letting 90 employees go
+
+as it attempted to ward off a US&dollar;55-million debt. </p>
+
+<p> <ICE-CAN:W2B-034#50:2> Yet financial reports indi <l> cate that not all was gloom and
+
+doom in the industry for 1990. </p>
+
+<p> <ICE-CAN:W2B-034#51:2> Armonk, N.Y.-based IBM Corp. reported a 10.1 per cent increase in
+
+annual re <l> venue in 1990, reaching US&dollar;69 billion.
+<ICE-CAN:W2B-034#52:2> Toller at <l> tributes the financial success to IBM's launch of its
+
+390 ar <l> chitecture which he claims has boosted growth in the already
+
+saturated mainframe segment of the industry. </p>
+
+<p> <ICE-CAN:W2B-034#53:2> ERC's report echoed Toller's comments.
+<ICE-CAN:W2B-034#54:2> <quote> " While IBM is not the only mainframe manufacturer with new
+
+product introductions in 1990, it cer <l> tainly will have the most signifi
+
+<l> cant impact on the high end of the market," </quote> states Evans. </p>
+
+<p> <ICE-CAN:W2B-034#55:2> Microsoft Corp. of Red <l> mond, WA, also weathered 1990 well.
+<ICE-CAN:W2B-034#56:2> The PC software developer reported a 55 per cent increase in revenues
+
+for the six months ended Dec. 31, 1990, compared to the same period the year
+
+before. </p>
+
+<p> <ICE-CAN:W2B-034#57:2> The company's perform <l> ance isn't surprising consider <l> ing
+
+the increasing demand for Microsoft Windows 3.0.
+<ICE-CAN:W2B-034#58:2> A re <l> port from Computer Tech <l> nology Research based in
+
+Charleston, SC, has Windows 3.0 performing well in the short term although it
+
+ques <l> tions its long-term impact. </p>
+
+<p> <ICE-CAN:W2B-034#59:2> Riding the wave of the Win <l> dows 3.0 announcement was
+
+Ottawa-based Corel Systems Corp. with its popular PC pre <l> sentation
+
+package CorelDraw, version 2.0.
+<ICE-CAN:W2B-034#60:2> The company's fourth quarter, ended Nov. 30, 1990, was its best ever
+
+posted with net sales hitting &dollar;12.2 million, an increase of 56 per
+
+cent over 1989's fourth quarter.
+<ICE-CAN:W2B-034#61:2> Net income for the year was &dollar;7 million compared to &dollar;2.9
+
+million in <w> ' 89 </w> . </p>
+
+<p> <ICE-CAN:W2B-034#62:2> Toller claims the com <l> pany's success is largely due to the
+
+fact that it was pre <l> pared for Windows 3.0 and was able to ride the first
+
+wave of compatible products. </p>
+
+<p> <ICE-CAN:W2B-034#63:2> Houston's Compaq Com <l> puter Corp. and Cupertino, CA-based
+
+Apple Computer Inc. are two PC hardware vendors who performed well in <w> '
+
+90 </w> .
+<ICE-CAN:W2B-034#64:2> Compaq's net in <l> come increased 70 per cent to US&dollar;135
+
+million for the fourth quarter compared to US&dollar;79million in 1989.
+<ICE-CAN:W2B-034#65:2> Apple recently posted revenues of US&dollar;1.676 billion for its
+
+first quarter of fis <l> cal 1991 ended Dec. 28, 1990 - up 12 per cent from
+
+the year before. </p>
+
+<p> <ICE-CAN:W2B-034#66:2> Toller says Compaq ex <l> perienced about a 25 per cent growth,
+
+largely due to successful sales worldwide - specifically in Japan and
+
+Australia.
+<ICE-CAN:W2B-034#67:2> The company also introduced nine well-received products in <w> ' 90
+
+</w> in the areas of 386SX-based desktops, note <l> book PCs and PC systems.
+
+</p>
+
+<p> <ICE-CAN:W2B-034#68:2> Apple attributes its out <l> standing performance to the
+
+Macintosh Classic released this year with a reduced entry-level price.
+<ICE-CAN:W2B-034#69:2> The com <l> pany claims Macintosh unit shipments have increased by 50
+
+per cent as more first-time users are being attracted by the lower price.
+
+</p>
+
+<p> <ICE-CAN:W2B-034#70:2> And Silicon Graphics Inc. of Mountain View, CA, may have found
+
+its niche.
+<ICE-CAN:W2B-034#71:2> Net revenues for the workstation vendor totalled US&dollar;136
+
+million for the quarter ended Dec. 31, 1990, an in <l> crease of 32 per cent
+
+over re <l> venues for the same period a year earlier. </p>
+
+<p> <ICE-CAN:W2B-034#72:2> In its trends and forecasts report, ERC predicted 28 per cent
+
+growth in the technical workstation market for 1990 as awareness among users
+
+con <l> tinues to grow.
+<ICE-CAN:W2B-034#73:2> Silicon Graphics was also a notable ad <l> dition to ERC's <it> The
+
+Top 200 IT Companies </it> released last year. </p>
+
+<p> <ICE-CAN:W2B-034#74:2> In general, a survey of fi <l> nancial reports shows the
+
+strongest gains occurring in the hardware segment of the in <l> dustry:
+
+Conner Peripherals Inc. of San Jose, CA, reported a yearly net income of
+
+US&dollar;130.1 million, up 213 per cent from 1989; Mountain View, CA's Sun
+
+Microsystems Inc. reported second quarter revenues for the period ended Dec.
+
+28, 1990, of US&dollar;753 mil <l> lion which is 27 per cent higher than a
+
+year ago; and, Stratus Computer Inc. of Marlboro, MA, announced fourth
+
+quarter 1990 revenues of US&dollar;118.5 million, up 21 per cent from <w> '
+
+89 </w> . </p>
+
+<p> <ICE-CAN:W2B-034#75:2> Software companies sur <l> veyed recorded the lowest gains.
+<ICE-CAN:W2B-034#76:2> Legent Corp. of Vienna, VA, expects revenues of US&dollar;51.7
+
+million for the three months ended Dec. 31, 1990, compared to US&dollar;40.7
+
+million the year prior; El Segundo, CA-based Teradata Corp. re <l> ported
+
+revenues of US&dollar;111.2 for the six months ended Dec. 31, 1990, up from
+
+US&dollar;97.6 mil <l> lion a year earlier; and, In <l> formix Corp. of Menlo
+
+Park, CA, plans to restructure its operations after announcing an expected
+
+loss for the fourth quarter and year ended Dec. 31, 1990. </p>
+
+<p> <ICE-CAN:W2B-034#77:2> Restructuring and layoffs were prominent throughout 1990 as many
+
+IT companies struggled.
+<ICE-CAN:W2B-034#78:2> But Toller is quick to point out that restructuring isn't a response
+
+to recessionary times, but rather a response to a changing industry or
+
+market. </p>
+
+<p> <ICE-CAN:W2B-034#79:2> Wang Laboratories Inc. of Lowell, MA, has shown that sometimes
+
+it's not too late to turn around.
+<ICE-CAN:W2B-034#80:2> The company showed an operating profit of US&dollar;4.9 million for
+
+the six months ended Dec. 31, 1990, compared to a loss of US&dollar;38.4
+
+million the prior year.
+<ICE-CAN:W2B-034#81:2> Net loss for the same period was down from US&dollar;72.6 million in
+
+1989 to US&dollar;22.1 million in <w> ' 90 </w> . </p>
+
+<p> <ICE-CAN:W2B-034#82:2> The company's focus on imaging and related products can be
+
+credited for its financial gains.
+<ICE-CAN:W2B-034#83:2> Wang claims unit sales for its imaging line for the first five months
+
+of fiscal 1991 exceeded those for the entire 1990 fiscal year. </p>
+
+<p> <ICE-CAN:W2B-034#84:2> A stronger focus on niche markets has also helped Westborough,
+
+MA-based Data General Corp. weather the recession.
+<ICE-CAN:W2B-034#85:2> With a major pro <l> duct announcement scheduled for later this
+
+month, the com <l> pany has posted first quarter 1991 profits of
+
+US&dollar;12.5 mil <l> lion, up from a loss of US&dollar;20.5 million at the
+
+same time last year. </p>
+
+<p> <ICE-CAN:W2B-034#86:2> Data General says the turnaround is due to reduced costs, a
+
+reorganized sales force and a strengthening of focus on niche markets like
+
+health care, geographical in <l> formation systems and imaging. </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-034#87:3> <h> <bold> Gandalf unveils government LAN strategy </bold> </h>
+<ICE-CAN:W2B-034#88:3> <it> by Alison Eastwood </it>
+<ICE-CAN:W2B-034#89:3> <it> Contributing Editor <it>
+
+<p> <ICE-CAN:W2B-034#90:3> NEPEAN, Ont. - Gandalf Technologies Inc. is aiming to consolidate
+
+its share of the government market with a range of 10Base-T connectivity
+
+products. </p>
+
+<p> <ICE-CAN:W2B-034#91:3> The company has developed 10Base-T-compli <l> ant modular wiring
+
+hubs, called Access Hub 12, 48 and 132, that are designed to link up
+
+local-area network ( LAN) node devices such as PCs and fileservers.
+<ICE-CAN:W2B-034#92:3> The Access Hub series coexists with the 10Base-T-compliant mini media
+
+access unit ( MAU) transceiver, announced last October, and the network
+
+interface card LANLine/AT, introduced in January. </p>
+
+<p> <ICE-CAN:W2B-034#93:3> An Ethernet LAN wide- and local-area networking bridge,
+
+multi-protocol wide-area router and SNMP/OSI network man <l> agement product
+
+will be availa <l> ble in May. </p> <quote> " The 10Base-T ( wire trans <l>
+
+mission) standard has been issued as policy ... on the way the government
+
+wants to install structured wiring systems," </quote> said Paul Hession,
+
+Gandalf vice-president of Canadian sales. <X>
+<ICE-CAN:W2B-034#X94:3> <quote> " We're well-positioned to exploit that." </quote> </X>
+
+<p> <ICE-CAN:W2B-034#95:3> Gandalf already sells into federal government depart <l> ments
+
+such as Health and Welfare, Public Works, and Agriculture.
+<ICE-CAN:W2B-034#96:3> Hession also pre <l> dicts expansion in commercial sectors such as
+
+finance, in <l> surance and communications ( existing customers include Wood
+
+Gundy, Telecom Canada, and the CBC). </p>
+
+<p> <ICE-CAN:W2B-034#97:3> The 10Base-T line extends the company's terminal inter <l>
+
+connection and wide-area net <l> working product range based on its
+
+Starmaster network pro <l> cessor, which incorporates standards such as X.25,
+
+SNA and TCP/IP. </p>
+
+<p> <ICE-CAN:W2B-034#98:3> The difference with Access Hub is that users can have access to
+
+PC data via a LAN, whereas PCs only fulfilled a terminal emulation function
+
+under Starmaster. </p>
+
+<p> <ICE-CAN:W2B-034#99:3> Director of Gandalf's LAN business unit, Peter Burke, said
+
+customers had begun to demand PC support, <quote> " so we can't ignore it.
+<ICE-CAN:W2B-034#100:3> It bodes well for a good combination - if we get there in time."
+
+</quote> </p>
+
+<p> <ICE-CAN:W2B-034#101:3> On the 10Base-T side, Hes <l> sion sees an <quote> "
+
+opportunity" </quote> of &dollar;600 million worldwide, grow <l> ing to
+
+&dollar;2 billion within the next two years. <X>
+<ICE-CAN:W2B-034#X102:3> <quote> " It could very well represent, to the Canadian
+
+marketplace, 10 per cent of our revenues within 10 months of this launch.
+
+</X> " </quote> </p>
+
+<p> <ICE-CAN:W2B-034#103:3> Access Hub uses un <l> shielded twisted-pair wiring and Hession
+
+claims that, as technology has evolved, <quote> " the data rate we can
+
+support ... is 10 million bits per second, which was unheard of five or 10
+
+years ago." </quote> </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-034#104:4> <h> <bold> Crowntek picks ALR " alternative" </bold> </h>
+<ICE-CAN:W2B-034#105:4> <it> by David Tanaka </it>
+<ICE-CAN:W2B-034#106:4> <it> CDN Staff </it>
+
+<p> <ICE-CAN:W2B-034#107:4> Markham Ont.-based Ad <l> vanced Logic Research ( Canada) Ltd. (
+
+ALR) has signed a national reseller agreement in Mississauga, Ont.-based
+
+Crowntek Business Centres Inc. </p>
+
+<p> <ICE-CAN:W2B-034#108:4> Crowntek president and CEO Stewart Davis said the company has
+
+been looking for a third PC line for about a year, mainly in response to
+
+softening brand loyalty amongst cor <l> porate PC users. </p> </I>

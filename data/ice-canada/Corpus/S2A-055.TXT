@@ -1,0 +1,447 @@
+<I>
+<ICE-CAN:S2A-055#1:1> So that you know <,> all the possible mathematical angles you need to
+
+then collect
+<ICE-CAN:S2A-055#2:1> After that you take a measurement <,> and we'll use eight feet <,> as
+
+the distance from the <?> gate <?> <,> to the <?> shutter </?>
+<ICE-CAN:S2A-055#3:1> And at eight feet <,> you take a measurement say that's what the
+
+distance is
+<ICE-CAN:S2A-055#4:1> You put your camera at eight feet <,> and you take focus <,>
+<ICE-CAN:S2A-055#5:1> It should be in focus
+<ICE-CAN:S2A-055#6:1> If it's not in focus that means it's not calibrated properly <,> but
+
+you film it anyhow
+<ICE-CAN:S2A-055#7:1> Before you film you write on a piece of tape <&> aside starts </&>
+
+obviously not to ruin the chart <&> aside ends </&> eight feet <,,>
+<ICE-CAN:S2A-055#8:1> That way <,> when you watch the film <,> you'll know what the focus is
+<ICE-CAN:S2A-055#9:1> And if it's soft if it's off if it's completely correct <,> it'll be
+
+on the film
+<ICE-CAN:S2A-055#10:1> The next thing you do is you take that off
+<ICE-CAN:S2A-055#11:1> You readjust your focus so that it's out of focus <,>
+<ICE-CAN:S2A-055#12:1> At the same position that you were in without moving anything you
+
+redo the focus by eye <,> and you write on the chart or on the piece of tape
+
+<mention> by eye </mention> <,>
+<ICE-CAN:S2A-055#13:1> That way <,> you can then see on the film the difference between your
+
+eye and the measurement
+<ICE-CAN:S2A-055#14:1> If both of them are exactly the same <,> the lens is calibrated
+
+correctly <,> and you're not forced to take measurements <,> on set when
+
+you're running out of time
+<ICE-CAN:S2A-055#15:1> If you know the lens is right you can just do it by eye <,>
+<ICE-CAN:S2A-055#16:1> But
+
+<$ZA> <ICE-CAN:S2A-055#17:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#18:1:A> But if your eye's not calibrated <,> then you have to do the
+
+measurement
+<ICE-CAN:S2A-055#19:1:A> If the measurement's not calibrated you have to do it by eye
+<ICE-CAN:S2A-055#20:1:A> Hopefully both are <,>
+<ICE-CAN:S2A-055#21:1:A> Because that way when you have to do any kind of focus pulling <,>
+
+in a dolly shot or in a crane shot <,> you know that you can count on your
+
+measurements
+<ICE-CAN:S2A-055#22:1:A> Otherwise you have to take marks by eye and in no lighting
+
+situations <,> it's harder to tell your focus at F two than it is at F
+
+sixteen
+
+<$ZA> <ICE-CAN:S2A-055#23:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#24:1:A> So <,> if you know that the calibration's correct for both
+
+then that leaves it up to you as the camera assistant or the operator to make
+
+that decision
+
+<$ZA> <ICE-CAN:S2A-055#25:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#26:1:A> But if you know it's not
+
+<$ZA> <ICE-CAN:S2A-055#27:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#28:1:A> Then <,> you know <,> you're trapped in the situation of
+
+either by eye or by measurement <O> loud zipper being done up </O>
+<ICE-CAN:S2A-055#29:1:A> Preferably by eye <,> because <,> you can trust your eye
+
+<$ZA> <ICE-CAN:S2A-055#30:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#31:1:A> Yeah
+<ICE-CAN:S2A-055#32:1:A> So then <,> after you got those two measurements by eye and then
+
+<,> by the measuring tape the next step is to <,> test the latitude of your
+
+focus
+<ICE-CAN:S2A-055#33:1:A> So you would then place <,> the eight feet sign back on <,> and <?>
+
+write </?> <&> could be 'right' </&> next to it a plus
+<ICE-CAN:S2A-055#34:1:A> And go slightly <,> over the focus so you're at eight and a half
+
+feet and film it <,> for about five feet worth of film
+<ICE-CAN:S2A-055#35:1:A> Then stop <,> put another plus sign
+<ICE-CAN:S2A-055#36:1:A> Film it again <,> for another five feet <,>
+<ICE-CAN:S2A-055#37:1:A> This time maybe at nine feet
+<ICE-CAN:S2A-055#38:1:A> Knowing that <,> depth of focus is one third two thirds behind
+
+you're probably <}> <-> gonna </-> <+> going to </+> </}> have less focus in
+
+front <,> of the subject
+<ICE-CAN:S2A-055#39:1:A> But <,> let's say that it is in focus <,> then you know you've got
+
+a lot of latitude on the <?> slant </?> and it's better in real life
+
+situations
+<ICE-CAN:S2A-055#40:1:A> Then you do it with minus <,> which is the exact opposite and you
+
+go to seven and a half feet and then again to seven feet <,> with minus minus
+<ICE-CAN:S2A-055#41:1:A> Once that's done <,> you've tested the lens and you can put it away
+<ICE-CAN:S2A-055#42:1:A> But <,> you have to do that for each lens
+<ICE-CAN:S2A-055#43:1:A> The only part where this becomes more work is when you're working
+
+with the zoom lens <,> cos you have to test it at different points on the
+
+zoom
+<ICE-CAN:S2A-055#44:1:A> Test it wide <,> which means you're <}> <-> gonna </-> <+> going to
+
+</+> </}> have to move the camera in <,>
+<ICE-CAN:S2A-055#45:1:A> Do all your measurements at wide
+<ICE-CAN:S2A-055#46:1:A> Then <,> move the camera back out do it <unclear> word </unclear>
+
+the twenty-five thirty-five or fifty millimetres which are common lenses to
+
+be used
+<ICE-CAN:S2A-055#47:1:A> And then <,> move it back out further
+<ICE-CAN:S2A-055#48:1:A> Go telephoto and do it at either one hundred or ninety somewhere in
+
+there
+<ICE-CAN:S2A-055#49:1:A> So that you know that the entire range of the lens <,> and how the
+
+opticals are working so that you feel comfortable on set
+<ICE-CAN:S2A-055#50:1:A> Once that test is done you're finished with your lenses
+<ICE-CAN:S2A-055#51:1:A> And then the next test is your registration and <indig> <unclear>
+
+word </unclear> </indig>
+
+<$ZB> <ICE-CAN:S2A-055#52:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#53:1:A> Well what happens with the zoom lens
+
+<$ZB> <ICE-CAN:S2A-055#54:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#55:1:A> <}> <-> <.> We </.> you <.> ge </.> </-> <=> Only with </=>
+
+</}> the zoom
+<ICE-CAN:S2A-055#56:1:A> What happens when you go out <,> right <,> you're <}> <-> gonna
+
+</-> <+> going to </+> </}> have to change your distance for each lens
+<ICE-CAN:S2A-055#57:1:A> Because what happens is if I'm standing here and I have a wide <,>
+
+ten millimetre lens I'm <}> <-> gonna </-> <+> going to </+> </}> see the
+
+whole chart
+<ICE-CAN:S2A-055#58:1:A> So I'm not <}> <-> gonna </-> <+> going to </+> </}> be able to
+
+test my focus in here
+
+<$ZB> <ICE-CAN:S2A-055#59:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#60:1:A> So then <,> I would bring it into the closest point of focal
+
+distance that I have
+
+<$ZB> <ICE-CAN:S2A-055#61:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#62:1:A> Which may be two feet so maybe five feet
+
+<$ZB> <ICE-CAN:S2A-055#63:1:Z> <O> comments </O>
+<ICE-CAN:S2A-055#64:1:Z> And try to get my focus there
+<ICE-CAN:S2A-055#65:1:Z> And do it so that I have more smaller lines <,> in it so that I can
+
+see the clearness of the definition
+<ICE-CAN:S2A-055#66:1:Z> Because that's what tests <,> you definition how sharp the lens is
+<ICE-CAN:S2A-055#67:1:Z> The lens can be in focus but it could be very <,> dull focus right
+<ICE-CAN:S2A-055#68:1:Z> And you would prefer to have a sharp focus and a clear image
+<ICE-CAN:S2A-055#69:1:Z> So the idea being that you would bring it closer depending on what
+
+the lens is
+<ICE-CAN:S2A-055#70:1:Z> But when you're working with a zoom lens <,> what happens is when
+
+I'm at twenty-five I could be here
+<ICE-CAN:S2A-055#71:1:Z> But when I go wide <,> I see the whole <?> room </?> <,> so I have
+
+to move it in
+<ICE-CAN:S2A-055#72:1:Z> But when I go telephoto <,> I can't get focus <,> because it's just
+
+too close so I have to move back
+
+<$ZC> <ICE-CAN:S2A-055#73:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#74:1:A> Well <,> to have as much of <,> a variety of lines <,> and
+
+different images in it <,> like small and large
+<ICE-CAN:S2A-055#75:1:A> What happens is if you go to <unclear> word </unclear> or Michel
+
+Trudel <&> film production facility </&> <,> there they have a tripod that's
+
+bolted into the ground with a camera
+
+<$ZC> <ICE-CAN:S2A-055#76:1:Z> <O> comments </O>
+<ICE-CAN:S2A-055#77:1:Z> And it's just a flowing chart <,> on a pulley sytem <,>
+<ICE-CAN:S2A-055#78:1:Z> And it's got a box in it that lights itself <,> and then you just
+
+move the chart with the little rope <,> at the distance you need
+<ICE-CAN:S2A-055#79:1:Z> Wait for it to stop moving <,> do your test <,> and then send it
+
+out or bring it in
+<ICE-CAN:S2A-055#80:1:Z> So that <,> you aren't <}> <-> gonna </-> <+> going to </+> </}> do
+
+tests generally at the university you're <}> <-> gonna </-> <+> going to </+>
+
+</}> do them at <,> the rental houses
+<ICE-CAN:S2A-055#81:1:Z> And they have everything there for you
+
+<$ZD> <ICE-CAN:S2A-055#82:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#83:1:A> The prime
+<ICE-CAN:S2A-055#84:1:A> It depends <,> if I have a fifty millimetre prime <,> I can be <,>
+
+further away <,> and get the <,> image like that
+
+<$ZD> <ICE-CAN:S2A-055#85:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#86:1:A> Well it depends
+<ICE-CAN:S2A-055#87:1:A> If I'm a twenty-five <}> <-> mil </-> <+> millimetre </+> </}> lens
+
+I have to move closer to fill the screen <,> with the image
+<ICE-CAN:S2A-055#88:1:A> And the thirty-five <}> <-> mil </-> <+> millimetre </+> </}> lens
+
+it's roughly the same I don't have to move
+<ICE-CAN:S2A-055#89:1:A> But if I go to a fifty <,> all I'm <}> <-> gonna </-> <+> going to
+
+</+> </}> get is this
+
+<$ZD> <ICE-CAN:S2A-055#90:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#91:1:A> Well <,> one distance per lens
+<ICE-CAN:S2A-055#92:1:A> Depending on the lens right
+<ICE-CAN:S2A-055#93:1:A> Some lenses can be
+<ICE-CAN:S2A-055#94:1:A> Like twelve and ten are the same
+<ICE-CAN:S2A-055#95:1:A> Twenty-five twenty-six thirty-five they're the same
+<ICE-CAN:S2A-055#96:1:A> Fifty <,> is on it's own
+<ICE-CAN:S2A-055#97:1:A> Seventy-five you're <}> <-> gonna </-> <+> going to </+> </}> have
+
+to move back even further
+<ICE-CAN:S2A-055#98:1:A> One twenty even further
+<ICE-CAN:S2A-055#99:1:A> Two hundred you're <}> <-> gonna </-> <+> going to </+> </}> have
+
+to be <,> about <,> across the room
+
+<$ZD> <ICE-CAN:S2A-055#100:1:Z> <O> comments, asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#101:1:A> <}> <-> <.> Y </.> you </-> <=> You </=> </}> just <}> <->
+
+wanna </-> <+> want to </+> </}> take one corner
+
+<$ZD> <ICE-CAN:S2A-055#102:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#103:1:A> Or <,> in the centre
+<ICE-CAN:S2A-055#104:1:A> Cos it just repeats itself
+<ICE-CAN:S2A-055#105:1:A> The only time you ever hold chart is when you're at a <?> five
+
+point nine </?>
+
+<$ZD> <ICE-CAN:S2A-055#106:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#107:1:A> Which <,> is official and you're not <}> <-> gonna </-> <+>
+
+going to </+> </}> see anything anyhow <,>
+<ICE-CAN:S2A-055#108:1:A> Even just clean <,> then that's all <,> right
+
+<$ZD> <ICE-CAN:S2A-055#109:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#110:1:A> And so that's the uh lens
+<ICE-CAN:S2A-055#111:1:A> Any other questions <O> chair sliding on the floor </O> <,,>
+
+<$ZE> <ICE-CAN:S2A-055#112:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#113:1:A> That's the problem
+<ICE-CAN:S2A-055#114:1:A> You can only get <,> so close <,> right
+<ICE-CAN:S2A-055#115:1:A> I mean you can only get three feet
+<ICE-CAN:S2A-055#116:1:A> And at three feet I'm <}> <-> gonna </-> <+> going to </+> </}>
+
+have a whole chart
+<ICE-CAN:S2A-055#117:1:A> So you get as close as you can <,>
+
+<$ZF> <ICE-CAN:S2A-055#118:1:Z> <X> interrupts </X>
+
+<$A> <ICE-CAN:S2A-055#119:1:A> Yeah yeah
+
+<$ZF> <ICE-CAN:S2A-055#120:1:Z> <X> comments </X>
+
+<$A> <ICE-CAN:S2A-055#121:1:A> Sure
+<ICE-CAN:S2A-055#122:1:A> You have to get as close as possible <O> noises of trolley being
+
+moved start </O>
+<ICE-CAN:S2A-055#123:1:A> Like there's only a limited focus you have on that lens
+
+<$ZG> <ICE-CAN:S2A-055#124:1:Z> <O> comments </O>
+
+<$A> <ICE-CAN:S2A-055#125:1:A> Ah <,> depends
+<ICE-CAN:S2A-055#126:1:A> See what happens with a five point nine or a fisheyed lens is you
+
+need to have more light to have better focus <,>
+<ICE-CAN:S2A-055#127:1:A> Cos there is one focus point on it <,>
+<ICE-CAN:S2A-055#128:1:A> But that like the focus point could be two feet it could be five
+
+feet it could be one foot
+<ICE-CAN:S2A-055#129:1:A> But depending if you're shooting at an F sixteen <unclear> <O>
+
+about 12 seconds, due to trolley noises </O> </unclear>
+<ICE-CAN:S2A-055#130:1:A> But the more light you have the better focus you have <,>
+<ICE-CAN:S2A-055#131:1:A> The less light you have <,> the further away you're <}> <-> gonna
+
+</-> <+> going to </+> </}> be from the subject of focus <O> noises of
+
+trolley being moved end </O>
+<ICE-CAN:S2A-055#132:1:A> So we'll do it with
+<ICE-CAN:S2A-055#133:1:A> If you can get three or four one K lights <,> right on the chart
+
+<,> you could bring your lens really close <,> and do it
+<ICE-CAN:S2A-055#134:1:A> But generally the fisheye <,> the best way to test it is just to
+
+look through it
+<ICE-CAN:S2A-055#135:1:A> Run around the room with it <,> you'll be fine
+<ICE-CAN:S2A-055#136:1:A> But because I mean if it's in focus when you're <,> got it and you
+
+can see it it's the best you're <}> <-> gonna </-> <+> going to </+> </}> get
+
+cos
+
+<$ZH> <ICE-CAN:S2A-055#137:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#138:1:A> See that's the difference between the university and <,>
+
+outside
+<ICE-CAN:S2A-055#139:1:A> In the university <,> three other crews will use your lens <,> and
+
+maybe four other crews will use your camera
+
+<$ZG> <ICE-CAN:S2A-055#140:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#141:1:A> Because <,,> if you do the test <,> outside of university <,>
+
+right <,> where it really counts <,>
+<ICE-CAN:S2A-055#142:1:A> And you're paying two thousand a day for the camera gear
+<ICE-CAN:S2A-055#143:1:A> And a hundred and fifty dollars a day for a lens <,> to two
+
+hundred dollars a day for a lens
+<ICE-CAN:S2A-055#144:1:A> <unclear> word </unclear> The right stuff
+<ICE-CAN:S2A-055#145:1:A> But if you're the camera technician it's not even your money right
+<ICE-CAN:S2A-055#146:1:A> It's someone else's money <,>
+<ICE-CAN:S2A-055#147:1:A> Right
+
+<$ZH> <ICE-CAN:S2A-055#148:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#149:1:A> Why are you doing the tests here
+<ICE-CAN:S2A-055#150:1:A> Because if everybody does the test together <,> and you get a
+
+report on the equipment and you know what is good with the equipment and
+
+what's bad with the equipment
+<ICE-CAN:S2A-055#151:1:A> Then when you get the camera equipment <,> you can then make
+
+reference to the original test and test you do that day <,> and see what's on
+
+what's off
+<ICE-CAN:S2A-055#152:1:A> And then say well I decide not to use this
+<ICE-CAN:S2A-055#153:1:A> Or hey <,> <@> Marc-Pierre </@> <unclear> word </unclear> right
+<ICE-CAN:S2A-055#154:1:A> But if you go blind <,> because it's your own money coming out of
+
+this <,> you have a greater chance of losing
+<ICE-CAN:S2A-055#155:1:A> Like a friend of mine didn't do a camera test when I was here
+<ICE-CAN:S2A-055#156:1:A> He shot it with the Eclair <&> type of movie camera </&> <,>
+<ICE-CAN:S2A-055#157:1:A> He didn't have the gate adjusted and new black and white film
+
+stock came out
+<ICE-CAN:S2A-055#158:1:A> It shaved off the first layer of emulsion <,> throughout the
+
+entire gate <,,>
+<ICE-CAN:S2A-055#159:1:A> Five thousand dollars worth of film <,>
+<ICE-CAN:S2A-055#160:1:A> He spent two weeks shooting
+<ICE-CAN:S2A-055#161:1:A> It destroyed an entire film and the university said well he didn't
+
+test the equipment <,> sorry
+<ICE-CAN:S2A-055#162:1:A> So <,> basically it's for insurance
+<ICE-CAN:S2A-055#163:1:A> What happens is <,> on a production outside of the university you
+
+do the test you look at it
+<ICE-CAN:S2A-055#164:1:A> If everything's okay you give it to the production staff they give
+
+it to the insurance company right away
+<ICE-CAN:S2A-055#165:1:A> Then the insurance can then say to the lab hey something went
+
+wrong here but our cameras are okay
+<ICE-CAN:S2A-055#166:1:A> So the lab made a mistake you owe us
+<ICE-CAN:S2A-055#167:1:A> And one production day is something like forty thousand dollars a
+
+day in value
+<ICE-CAN:S2A-055#168:1:A> With all the staff all the equipment <,> set design transportation
+
+gas actors <unclear> word </unclear>
+<ICE-CAN:S2A-055#169:1:A> So that's why you do the test
+
+<$ZI> <ICE-CAN:S2A-055#170:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#171:1:A> Well this is the best way to do it
+<ICE-CAN:S2A-055#172:1:A> Watch their rushes
+<ICE-CAN:S2A-055#173:1:A> The last shoot that went out <,> watch their rushes
+<ICE-CAN:S2A-055#174:1:A> Look at their camera reports
+<ICE-CAN:S2A-055#175:1:A> If things are out of focus <,> possibly <,> or one mag keeps
+
+scratching <,> and making uhm just any kind of bizarre marks on the film that
+
+isn't <?> inherently </?> good
+<ICE-CAN:S2A-055#176:1:A> You know ask them
+<ICE-CAN:S2A-055#177:1:A> They should have made reports <,> labelled the mags know which
+
+one's doing it <,> right
+<ICE-CAN:S2A-055#178:1:A> And then you can benefit off their mistakes and have the camera
+
+test predone for you
+<ICE-CAN:S2A-055#179:1:A> But then again <,> a camera test is usually done twenty-four
+
+forty-eight hours before shooting
+
+<$ZJ> <ICE-CAN:S2A-055#180:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#181:1:A> It's done in colour
+<ICE-CAN:S2A-055#182:1:A> You don't print the film
+
+<$ZJ> <ICE-CAN:S2A-055#183:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#184:1:A> No you just watch the negative
+<ICE-CAN:S2A-055#185:1:A> And it's free
+
+<$ZJ> <ICE-CAN:S2A-055#186:1:Z> <O> asks a question </O>
+
+<$A> <ICE-CAN:S2A-055#187:1:A> Yeah you just go over to the lab and say I'd like my camera
+
+<,> test printed
+<ICE-CAN:S2A-055#188:1:A> In about two hours they'll print it you go back and you watch it
+
+on their projector
+<ICE-CAN:S2A-055#189:1:A> And you say thank you you take it and you leave
+<ICE-CAN:S2A-055#190:1:A> So I mean it's an hour and a half's work <,> in the industry it
+
+pays a hundred and fifty dollars and for you it could save a film </I>

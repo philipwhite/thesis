@@ -1,0 +1,475 @@
+<I>
+<ICE-CAN:W2A-032#1:1> <h> <bold> Seismic response of concentrically braced steel frames
+
+</bold> </h>
+<ICE-CAN:W2A-032#2:1> Richard G. Redwood AND Feng Lu
+<ICE-CAN:W2A-032#3:1> Gilles Bouchard and Patrick Paultre
+
+<p> <ICE-CAN:W2A-032#4:1> Braced frame structures designed according to the 1990 edition of
+
+the National Building Code of Canada and the CSA stan <l> dard for steel
+
+structures ( CAN/CSA-S16.1-M89) are analyzed under a number of different
+
+earthquake motions.
+<ICE-CAN:W2A-032#5:1> The nonlinear response is studied in the light of the design
+
+philosophy, and the validity of a number of design assumptions is examined.
+<ICE-CAN:W2A-032#6:1> The study is limited to a group of eight-storey frames, located either
+
+in Victoria, British Columbia, or Montreal, Quebec, all with the same bracing
+
+configuration.
+<ICE-CAN:W2A-032#7:1> A 20-storey frame in Montreal is also considered.
+<ICE-CAN:W2A-032#8:1> The results suggest a number of areas in which improved design
+
+provisions could be made. </p> <O>
+
+<p> <ICE-CAN:W2A-032#9:1> <it> Key words </it> : analysis, design, structural engineering,
+
+steel, earthquakes, braced frames. </p> </O> <X>
+
+<p> <ICE-CAN:W2A-032#X10:1> <indig> Les constructions avec charpente &agrave;
+
+&eacute;l&eacute;ments entretois&eacute;s con&ccedille;ues selon les
+
+exigences de l'edition 1990 du Code national du b&acircumflex;timent du
+
+Canada et de la norme CAN/CSA-S16
+<ICE-CAN:W2A-032#X11:1> 1-M89 sont analys&eacute;es en fonction de diff&eacute;rents
+
+mouvements du sol
+<ICE-CAN:W2A-032#X12:1> Le comportement non-lin&eacute;aire est &eacute;tudi&eacute;
+
+&agrave; la lumi&egrave;re de la philosophie de conception et la
+
+validit&eacute; d'un certain nombre d'hypoth&egrave;ses de conception est
+
+examin&eacute;e
+<ICE-CAN:W2A-032#X13:1> L'&eacute;tude est limit&eacute;e &agrave; un groupe de charpentes
+
+de huit &eacute;tages &eacute;rig&eacute;es soit &agrave; Victoria,
+
+Colombie-Britannique, ou &agrave; Montr&eacute;al, Quebec, pr&eacute;sentant
+
+la m&ecircumflex;me configuration de contreventement
+<ICE-CAN:W2A-032#X14:1> Une charpente de 20 &eacute;tages a &eacute;galement
+
+&eacute;t&eacute; prise en consid&eacute;ration &agrave; Montr&eacute;al
+<ICE-CAN:W2A-032#X15:1> Les r&eacute;sultats permettent d'identifier un certain nombre de
+
+domaines o&ugrave; des am&eacute;liorations pourraient &ecircumflex;tre
+
+apport&eacute;es. </p>
+
+<p> <ICE-CAN:W2A-032#X16:1> <it>
+<ICE-CAN:W2A-032#X17:1> Mots cl&eacute;s </it> : analyse, conception, g&eacute;nie des
+
+structures, acier, tremblements de terre, charpente &agrave;
+
+&eacute;l&eacute;ments entretois&eacute;s. </indig> </p> </X>
+<ICE-CAN:W2A-032#18:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-032#19:1> Detailing requirements for steel concentrically braced frames
+
+subjected to seismic design loads are incorporated in the 1989 edition of the
+
+CSA standard for limit states design of steel structures, CAN/CSA-S16.1-M89 (
+
+CSA 1989).
+<ICE-CAN:W2A-032#20:1> These provi <l> sions are coupled to those of the 1990 edition of the
+
+National Building Code of Canada ( NRC 1990), which identifies three
+
+categories of concentrically braced frame: ductile braced frames, braced
+
+frames with nominal ductility, and frames for which no special provision is
+
+made to ensure ductile behaviour. </p>
+
+<p> <ICE-CAN:W2A-032#21:1> The anticipated behaviour of these three categories is as
+
+follows: </p>
+
+<p> <ICE-CAN:W2A-032#22:1> ( <it> i </it> ) Ductile braced frame ( DBF): inelasticity will
+
+be largely confined to the braces, with beams also capable of some inelastic
+
+action
+<ICE-CAN:W2A-032#23:1> Large ductile deformations in the braces are provided for.
+<ICE-CAN:W2A-032#24:1> Columns are expected to remain essentially elas <l> tic under the
+
+loads induced by yielding braces.
+<ICE-CAN:W2A-032#25:1> The braces may yield in tension and compression.
+<ICE-CAN:W2A-032#26:1> Design provisions are directed at ( a) limiting framing
+
+configurations to those that can main <l> tain stability when some
+
+inelasticity occurs in the braces, ( b) providing some redundancy, ( <it> c
+
+</it> ) ensuring brace ductility by controlling overall and local buckling,
+
+and by providing for adequate connection resistance, and ( d) ensuring
+
+adequate resistances of beams and columns and their connections when braces
+
+yield. </p>
+
+<p> <ICE-CAN:W2A-032#27:1> ( <it> ii </it> ) Braced frames with nominal ductility ( NDBF):
+
+yielding of braces may occur, but large ductility demands need not be
+
+provided for
+<ICE-CAN:W2A-032#28:1> No significant yield is anticipated elsewhere in the frame.
+<ICE-CAN:W2A-032#29:1> Ductility design requirements are directed at provi <l> sion of brace
+
+sections that can undergo limited amounts of inelastic straining in
+
+compression or develop the yield load in tension, and at corresponding
+
+connection design.
+<ICE-CAN:W2A-032#30:1> Beams and columns and their connections must provide resistances ade
+
+<l> quate to support the brace-induced loads. </p>
+
+<p> <ICE-CAN:W2A-032#31:1> ( <it> iii </it> ) Braced frames with no special provision for
+
+ductility ( SBF): principally elastic response is anticipated.
+<ICE-CAN:W2A-032#32:1> Local inelas <l> ticity may occur, but complete cross-section
+
+yielding is unlikely.
+<ICE-CAN:W2A-032#33:1> The design of these frames is based on traditional require <l> ments
+
+for strength and stiffness.
+<ICE-CAN:W2A-032#34:1> Since these requirements do not exclude brittle details, for example,
+
+in brace connections or in column splices, the specified loading ( NRC 1990)
+
+is quite severe.
+<ICE-CAN:W2A-032#35:1> By eliminating the possibility of such details by com <l> plying with
+
+case ( <it> ii </it> ) , a significantly lower design load is decreed. </p>
+
+<p> <ICE-CAN:W2A-032#36:1> Three eight-storey braced frames, each corresponding to one of
+
+these categories, have been designed according to S16.1-M89 and the 1990
+
+National Building Code, and are described in some detail by Redwood and
+
+Channagiri ( 1991).
+<ICE-CAN:W2A-032#37:1> These and other designs are examined in this paper.
+<ICE-CAN:W2A-032#38:1> The struc <l> tures are subjected to a number of earthquake ground
+
+motion records, and the resulting responses are analyzed and com <l> pared
+
+with the expected behaviour. </p>
+<ICE-CAN:W2A-032#39:1> <h> <bold> Design procedures </bold> </h>
+
+<p> <ICE-CAN:W2A-032#40:1> The example building structure comprises two exterior moment
+
+resisting frames in one direction, and two braced bays in the other, these
+
+being located in the core area.
+<ICE-CAN:W2A-032#41:1> The building layout is shown in <}> <-> Fig. </-> <+> Figure </+>
+
+</}> 1 and is based on a study by Chien ( 1987) of a building not subjected
+
+to earthquake loads.
+<ICE-CAN:W2A-032#42:1> The design procedures for seismic loading are outlined in detail by
+
+Redwood and Channagiri ( 1991). </p>
+
+<p> <ICE-CAN:W2A-032#43:1> The ductile braced frame design, corresponding to category ( <it>
+
+i </it> ) , will be considered first and is shown in <}> <-> Fig. </-> <+>
+
+Figure </+> </}> 2 <it> a </it> .
+<ICE-CAN:W2A-032#44:1> Seismic load <l> ing corresponds to that for Victoria, B.C.
+<ICE-CAN:W2A-032#45:1> The frame was first designed for strength and stiffness in the usual
+
+way and was then modified to satisfy the requirements for ductile braced
+
+frames given in Clause 27.2 of CSA ( 1989).
+<ICE-CAN:W2A-032#46:1> In carrying out the design, a number of assumptions were made which
+
+will be examined in the light of the analytical results presented herein.
+<ICE-CAN:W2A-032#47:1> These assumptions were as follows: </p>
+
+<p> <ICE-CAN:W2A-032#48:1> ( a) Brace connections will usually be designed to carry the full
+
+tensile yield load of a brace; however, CSA ( 1989) per <l> mits lower loads
+
+in some cases.
+<ICE-CAN:W2A-032#49:1> These are intended to deal with overstrength members, selected to
+
+satisfy stiffness require <l> ments, for example.
+<ICE-CAN:W2A-032#50:1> Thus, for a ductile braced frame, when twice the seismic load, plus
+
+the specified gravity load, is less than the brace yield load, the lower load
+
+may be used for design.
+<ICE-CAN:W2A-032#51:1> This load is approximately equal to the load that the brace would
+
+carry if the frame was being designed as the third category of structure,
+
+that is, without special provisions for ductility.
+<ICE-CAN:W2A-032#52:1> For the braced frame with nominal ductility, the load is 1.33 times
+
+the seismic load, plus the gravity load, which also brings the load to
+
+approximately the same level as for the third category of structure. </p>
+
+<p> <ICE-CAN:W2A-032#53:1> In view of the importance of these connections for the struc <l>
+
+ture to perform as assumed, there may be some reluctance to design the
+
+connections for less than the brace yield load.
+<ICE-CAN:W2A-032#54:1> The brace connections for the frame shown in <}> <-> Fig. </-> <+>
+
+Figure </+> </}> 2 <it> a </it> were assumed to resist the full brace yield
+
+load.
+<ICE-CAN:W2A-032#55:1> The effect of using loads less than the tensile yield load will be
+
+examined in the light of the analytical results for another braced frame in
+
+which connec <l> tion resistance less than the full yield load was assumed.
+
+</p>
+
+<p> <ICE-CAN:W2A-032#56:1> ( b) Axial loads induced in the columns by the yielding of
+
+overloaded braces must be added to the specified gravity loads to obtain the
+
+design loads for columns under the severe seismic load condition.
+<ICE-CAN:W2A-032#57:1> Because of the low probability of all braces being overloaded
+
+simultaneously, a column in a lower floor need not be designed to carry the
+
+sum of the maximum brace loads induced at each higher floor.
+<ICE-CAN:W2A-032#58:1> For the subject designs, the loads in any column due to braces were
+
+taken as the maximum loads induced at any level above the column considered,
+
+plus the square root of the sum of the squares of all other brace-induced
+
+loads above that level.
+<ICE-CAN:W2A-032#59:1> The validity of this combina <l> tion rule will be examined herein.
+
+</p>
+
+<p> <ICE-CAN:W2A-032#60:1> ( c) Yielding of braces leads to redistribution of the horizon
+
+<l> tal shear carried by the braces, which then leads to a change in load
+
+carried by beams forming part of the lateral load resist <l> ing system.
+<ICE-CAN:W2A-032#61:1> Depending on the bracing configuration, some beams have no axial
+
+forces induced under lateral load until brace yielding occurs.
+<ICE-CAN:W2A-032#62:1> The assumptions used to estimate these loads for the beam design will
+
+also be examined.
+<ICE-CAN:W2A-032#63:1> These assumptions significantly influence the design of the short
+
+beams, i.e., those supported at their centre by the intersecting braces, and
+
+are described in detail by Redwood and Chan <l> nagiri ( 1991). </p> <O>
+
+Diagram </O> <O> Figure 1 caption </O>
+
+<p> <ICE-CAN:W2A-032#64:1> For comparative purposes, in addition to the DBF design shown in
+
+<}> <-> Fig. </-> <+> Figure </+> </}> 2 <it> a </it> , other designs were
+
+produced for the same structural configuration and also for the Victoria,
+
+B.C., loca <l> tion ( Channagiri 1990).
+<ICE-CAN:W2A-032#65:1> A braced frame with nominal ductility, NDBF, corresponding to
+
+category ( <it> ii </it> ) and designed according to Clause 27.5 of CSA (
+
+1989) is shown in <}> <-> Fig. </-> <+> Figure </+> </}> 2 <it> b </it> .
+<ICE-CAN:W2A-032#66:1> Again, it is assumed that brace yield loads are transmitted to the
+
+other members. </p>
+
+<p> <ICE-CAN:W2A-032#67:1> Figure 2 <it> c </it> shows a design based on category ( <it> iii
+
+</it> ) , that is, one for which no consideration of ductility has been
+
+given.
+<ICE-CAN:W2A-032#68:1> It should be recognized that, by virtue of Sentence 4.1.9.3(1) of NRC
+
+( 1990), the latter design would not in fact be permitted in Victoria, B.C.;
+
+nevertheless, it provides a useful compari <l> son, since it should
+
+correspond to very limited ductile behaviour. </p>
+
+<p> <ICE-CAN:W2A-032#69:1> Parallel to these designs, three braced frame designs were also
+
+generated for the location of Montreal, thus incorporating the effects of a
+
+significantly lower seismic-to-gravity load ratio.
+<ICE-CAN:W2A-032#70:1> These designs are shown in <}> <-> Fig. </-> <+> Figure </+> </}> 3.
+
+</p>
+<ICE-CAN:W2A-032#71:1> <h> <bold> Analysis </bold> </h>
+<ICE-CAN:W2A-032#72:1> <h> <it> Program and modelling </it> </h>
+
+<p> <ICE-CAN:W2A-032#73:1> The dynamic analysis was performed using the program DRAIN-2D (
+
+Kannan and Powell 1973), modified to include bracing elements ( Jain and Goel
+
+1978).
+<ICE-CAN:W2A-032#74:1> Assumptions made for the analysis corresponded to those on which the
+
+design was based, and may be summarized as follows: — columns and braces are
+
+pin-ended, and are without lateral support between floors; — effective length
+
+factors of 1.0 are used for all columns and braces; — beams are simply
+
+connected to the columns, and in those floors where they intersect the
+
+braces, the beam is continu <l> ous through the intersection point; beams are
+
+laterally sup <l> ported. </p> <O> Diagram </O> <O> Figure 2 caption </O> <O>
+
+Diagram </O> <O> Figure 3 caption </O> <O> Diagram </O> <O> Figure 4 caption
+
+</O>
+
+<p> <ICE-CAN:W2A-032#75:1> Gravity loading equal to the specified dead and live loads was
+
+applied to the structures throughout the imposed earth <l> quake excitation
+
+histories.
+<ICE-CAN:W2A-032#76:1> These loads impose initial compres <l> sions in columns and braces
+
+and tensions in some beams.
+<ICE-CAN:W2A-032#77:1> Specifics of the gravity loads are given by Redwood and Chan <l>
+
+nagiri ( 1991). </p>
+
+<p> <ICE-CAN:W2A-032#78:1> The DRAIN-2D program carries out nonlinear time-history analysis
+
+of two-dimensional frame structures.
+<ICE-CAN:W2A-032#79:1> Mass is lumped at nodes; viscous damping with both mass and stiffness
+
+depend <l> ence was incorporated, and was assumed to be 5% of critical for
+
+the highest and lowest modes.
+<ICE-CAN:W2A-032#80:1> Constant acceleration is assumed in each time-step, and equilibrium
+
+corrections are made by applying corrective loads in the succeeding
+
+time-step.
+<ICE-CAN:W2A-032#81:1> Fundamental periods of the structures analyzed lie in the range 1—1.7
+
+s ( the structure of <}> <-> Fig. </-> <+> Figure </+> </}> 2 <it> a </it>
+
+had periods of 1.47, 0.51 0.37, 0.28, and 0.22 s for the first five modes),
+
+and an integra <l> tion time-step of 0.02 s was therefore assumed.
+<ICE-CAN:W2A-032#82:1> The total integration time used in the analysis was 30 s for each
+
+earth <l> quake record.
+<ICE-CAN:W2A-032#83:1> P-&DELTA; effects were approximated by including a geometric
+
+stiffness based on the element axial force under static load ( Kannan and
+
+Powell 1973). </p>
+
+<p> <ICE-CAN:W2A-032#84:1> A primary purpose of the analysis was to determine if the
+
+structures could be expected to perform as assumed in their design.
+<ICE-CAN:W2A-032#85:1> For the DBF, the primary interest was to determine if the beams and
+
+columns would indeed remain elastic if the braces yielded.
+<ICE-CAN:W2A-032#86:1> Thus for this structure, beams and columns were modelled as elastic
+
+elements, and only braces were modelled as yielding elements.
+<ICE-CAN:W2A-032#87:1> If beams or columns then proved to be overloaded, the extent of
+
+overload would provide a guide to selection of a section with the necessary
+
+increased capacity.
+<ICE-CAN:W2A-032#88:1> The same modelling is appropriate for the NDBF, whereas for the SBF,
+
+a fully elastic model would be adequate if the basic design assumptions were
+
+valid.
+<ICE-CAN:W2A-032#89:1> However, the braces were modelled to exhibit nonlinear hysteretic
+
+behaviour for this structure also. </p>
+
+<p> <ICE-CAN:W2A-032#90:1> The resistance of yielding elements used in the analysis and the
+
+resistances of members used to compare with the analytical results were based
+
+on their most probable values, i.e., the nominal values with the resistance
+
+factor <O> mathematical symbol </O> = 1.0. </p>
+
+<p> <ICE-CAN:W2A-032#91:1> The brace members were modelled as " buckling elements," denoted
+
+EL9 by Jain and Goel ( 1978).
+<ICE-CAN:W2A-032#92:1> This is a multi-linear hysteretic model which may yield in tension or
+
+buckle in com <l> pression.
+<ICE-CAN:W2A-032#93:1> An example of the hysteretic behaviour modelled by this element is
+
+illustrated in <}> <-> Fig. </-> <+> Figure </+> </}> 4.
+<ICE-CAN:W2A-032#94:1> The buckling load in the first cycle, <it> C </it> <sb> u </sb> , is
+
+equal to the unfactored axial compressive resistance of CSA ( 1989).
+<ICE-CAN:W2A-032#95:1> In subsequent cycles, a reduced compression resistance, <it> C <sp> |
+
+</sp> </it> <sb> u </sb> , applies, the amount of reduction being based on
+
+empirical data ( Jain 1978).
+<ICE-CAN:W2A-032#96:1> The load versus deflection path followed as the brace compression is
+
+reduced and loading becomes tensile is a function of loading history, and is
+
+based on empirical results.
+<ICE-CAN:W2A-032#97:1> The point A ( Fig. 4) is deter <l> mined by <it> C <sp> | </sp> </it>
+
+<sb> u </sb> and the compressive displacement occurring since the last load
+
+reversal.
+<ICE-CAN:W2A-032#98:1> Point B indicates the degree of pinching and is related to the
+
+slenderness ratio, and point C is a function of residual displacements.
+<ICE-CAN:W2A-032#99:1> The element does not model local buckling, and thus the deformations
+
+predicted by the analysis must be critically examined in relation to the sec
+
+<l> tion width-to-thickness ratios provided. </p>
+
+<p> <ICE-CAN:W2A-032#100:1> Columns were modelled as elastic truss elements, and beams as
+
+elastic beam — column elements, in view of the large axial forces expected
+
+when braces yield
+<ICE-CAN:W2A-032#101:1> Because beams were considered to be laterally supported by floor
+
+slabs, only their yield behaviour, and not buckling, is modelled. <O> Table 1
+
+caption </O> <O> Table </O> <O> Table 2 caption </O> <O> Table </O>
+<ICE-CAN:W2A-032#102:1> Contribution of the slab in resisting axial or bending loads was
+
+ignored. </p>
+<ICE-CAN:W2A-032#103:1> <h> <it> Earthquake records </it> </h>
+
+<p> <ICE-CAN:W2A-032#104:1> For the structure located in Victoria, earthquake records from
+
+the western U.S.A. were used as input to the analysis </I> <X> Ten components
+
+of six recorded earthquakes were considered, as listed in Table 1.
+<ICE-CAN:W2A-032#X105:1> Some of these same records were used for the Montreal structures,
+
+in view of the lack of strong motion records for eastern Canada, and, in
+
+addition, the Saguenay earthquake of 1988 was also considered. </p> </X>

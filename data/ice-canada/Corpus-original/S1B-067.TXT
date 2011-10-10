@@ -1,0 +1,599 @@
+<I>
+
+<$A> <ICE-CAN:S1B-067#1:1:A> <O> cough </O> <,,> <?> When did you </?> first study to become
+
+a psychiatrist <,> Doctor <@> Featherstone </@>
+
+<$B> <ICE-CAN:S1B-067#2:1:B> Uh psychiatrist
+
+<$A> <ICE-CAN:S1B-067#3:1:A> Yes
+
+<$B> <ICE-CAN:S1B-067#4:1:B> Uh nineteen ninety- <,,> uhm <,,> three
+
+<$A> <ICE-CAN:S1B-067#5:1:A> Uh what month in nineteen ninety-three
+
+<$B> <ICE-CAN:S1B-067#6:1:B> June
+
+<$A> <ICE-CAN:S1B-067#7:1:A> So you've been a psychiatrist and qualified to practice as such
+
+in Canada for slightly over two years
+<ICE-CAN:S1B-067#8:1:A> Is that correct
+
+<$B> <ICE-CAN:S1B-067#9:1:B> Yes
+<ICE-CAN:S1B-067#10:1:B> Two and a quarter <,,>
+
+<$A> <ICE-CAN:S1B-067#11:1:A> <unclear> a few words </unclear> precise about it so <unclear>
+
+word </unclear> what day in June did you become a psychiatrist
+
+<$B> <ICE-CAN:S1B-067#12:1:B> Uh June thirtieth
+
+<$A> <ICE-CAN:S1B-067#13:1:A> June thirtieth
+<ICE-CAN:S1B-067#14:1:A> So <,,> uh you've been <unclear> word </unclear> practicing
+
+psychiatrist for two years two months
+<ICE-CAN:S1B-067#15:1:A> Correct
+
+<$B> <ICE-CAN:S1B-067#16:1:B> Correct
+
+<$A> <ICE-CAN:S1B-067#17:1:A> And uhm do you have any <?> other </?> teaching positions that
+
+you currently hold
+
+<$B> <ICE-CAN:S1B-067#18:1:B> Uh no
+<ICE-CAN:S1B-067#19:1:B> The
+<ICE-CAN:S1B-067#20:1:B> Uh well this is
+<ICE-CAN:S1B-067#21:1:B> Ya uh <,> kind of
+<ICE-CAN:S1B-067#22:1:B> I do do some teaching at <@> Tango Shoe </@> Hospital at <@> Salsa
+
+</@>
+<ICE-CAN:S1B-067#23:1:B> I used to do some teaching at the <@> Glengarry </@> General
+
+Hospital
+
+<$A> <ICE-CAN:S1B-067#24:1:A> What did you teach uh at the hospital in <@> Salsa </@>
+
+<$B> <ICE-CAN:S1B-067#25:1:B> In the hospital
+<ICE-CAN:S1B-067#26:1:B> Uh nursing students and uh the occasional family physician comes
+
+through
+
+<$A> <ICE-CAN:S1B-067#27:1:A> So you don't teach at the medical school in the Department of
+
+Psychiatry or in the medical college
+
+<$B> <ICE-CAN:S1B-067#28:1:B> Not at <@> Tango Shoe </@> Hospital <?> <@> Salsa </@> </?>
+<ICE-CAN:S1B-067#29:1:B> I have done <,> at the University of <@> Glengarry </@> in uh <@>
+
+Glengarry </@>
+
+<$A> <ICE-CAN:S1B-067#30:1:A> What specifically did you teach there
+<ICE-CAN:S1B-067#31:1:A> Uh medical <}> <-> skudent </-> <=> students </=> </}> psychiatry
+
+students nursing students
+
+<$A> <ICE-CAN:S1B-067#32:1:A> What did you teach them
+
+<$B> <ICE-CAN:S1B-067#33:1:B> Uh psychiatry and forensic psychiatry
+
+<$A> <ICE-CAN:S1B-067#34:1:A> <?> Do you </?> currently hold such a position
+
+<$B> <ICE-CAN:S1B-067#35:1:B> Sorry
+
+<$A> <ICE-CAN:S1B-067#36:1:A> Do you currently hold any teaching <{> <[> positions </[>
+
+<$B> <ICE-CAN:S1B-067#37:1:B> <[> No I </[> </{> do not
+
+<$A> <ICE-CAN:S1B-067#38:1:A> Have you published any articles
+
+<$B> <ICE-CAN:S1B-067#39:1:B> Uh none that are relevant to this area
+
+<$A> <ICE-CAN:S1B-067#40:1:A> <?> But </?> have you published any articles
+
+<$B> <ICE-CAN:S1B-067#41:1:B> Way back when in nineteen eighty-eight on <?> fertilization
+
+</?>
+
+<$A> <ICE-CAN:S1B-067#42:1:A> So in terms of <?> the <?> psychiatrist <?> you haven't </?>
+
+published any articles <}> <-> in the </-> <=> since you've </=> </}> uh been
+
+qualified as a psychiatrist
+
+<$B> <ICE-CAN:S1B-067#43:1:B> That's correct <,,>
+
+<$A> <ICE-CAN:S1B-067#44:1:A> <O> cough </O> And you currently uh work for a uh consulting
+
+company I gather
+<ICE-CAN:S1B-067#45:1:A> <?> Is that </?>
+
+<$B> <ICE-CAN:S1B-067#46:1:B> That's correct
+
+<$A> <ICE-CAN:S1B-067#47:1:A> That's your own business
+
+<$B> <ICE-CAN:S1B-067#48:1:B> Uh not mine but I <,> work for it
+
+<$A> <ICE-CAN:S1B-067#49:1:A> Okay so <}> <-> this is a </-> <=> <,,> you're one of the </=>
+
+</}> psychiatrists employed at this company
+
+<$B> <ICE-CAN:S1B-067#50:1:B> That's correct
+
+<$A> <ICE-CAN:S1B-067#51:1:A> And uh the prime uhh <,> part of your employment I guess as
+
+you've described already is to provide consulting <,> services and expert
+
+testimony in various areas
+<ICE-CAN:S1B-067#52:1:A> Is that what I understand that you're saying
+<ICE-CAN:S1B-067#53:1:A> You <{> <[> <unclear> maybe two words </unclear> </[>
+
+<$B> <ICE-CAN:S1B-067#54:1:B> <[> I wouldn't </[> </{> say my primary is to provide expert
+
+testimony
+<ICE-CAN:S1B-067#55:1:B> My primary area is <}> <-> to prevent </-> <=> uh to provide </=>
+
+</}> forensic services in the assessment and treatment <,> of uh individuals
+
+involved with <?> certain </?> criminal aspects of the justice system
+<ICE-CAN:S1B-067#56:1:B> Uh certainly some of that work does entail being an expert witness
+
+uh but I wouldn't say the main focus was to be an expert witness
+
+<$A> <ICE-CAN:S1B-067#57:1:A> <?> But you </?> have been an expert witness some two hundred
+
+<,> sixty to two hundred and seventy times as I understand
+
+<$B> <ICE-CAN:S1B-067#58:1:B> Uh that's correct
+<ICE-CAN:S1B-067#59:1:B> Uhm the vast majority of those were done <,> <}> <-> as I was </->
+
+<=> when I was </=> </}> with the University of <@> Glengarry </@> in a
+
+teaching position
+
+<$A> <ICE-CAN:S1B-067#60:1:A> Are you saying you testified in court two hundred sixty or two
+
+hundred and seventy times
+<ICE-CAN:S1B-067#61:1:A> Is that what <{> <[> <unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1B-067#62:1:B> <[> That's </[> </{> correct
+
+<$A> <ICE-CAN:S1B-067#63:1:A> And <,> over what period of time have you done that
+
+<$B> <ICE-CAN:S1B-067#64:1:B> Over the years nineteen <,,> ninety uh <,> two roughly
+
+ninety-one ninety-two
+<ICE-CAN:S1B-067#65:1:B> Somewhere in there <,> uh <unclear> word </unclear> time
+
+<$A> <ICE-CAN:S1B-067#66:1:A> Okay so some of that is prior to your becoming a qualified
+
+psychiatrist
+
+<$B> <ICE-CAN:S1B-067#67:1:B> That's correct
+
+<$A> <ICE-CAN:S1B-067#68:1:A> So how many times have you testified in court as a qualified
+
+psychiatrist
+
+<$B> <ICE-CAN:S1B-067#69:1:B> Oh <,> probably about half of that
+
+<$A> <ICE-CAN:S1B-067#70:1:A> A hundred and uh <,> forty a hundred and thirty times
+
+something like <{> <[> that </[>
+
+<$B> <ICE-CAN:S1B-067#71:1:B> <[> Approximately </[> </{>
+
+<$A> <ICE-CAN:S1B-067#72:1:A> So that's in the last uh two years two months
+
+<$B> <ICE-CAN:S1B-067#73:1:B> Yes <,,>
+
+<$A> <ICE-CAN:S1B-067#74:1:A> And uh <,,> so that strikes me <}> <-> as </-> <=> as </=>
+
+</}> taking up a fair bit of your time if you're testifying in court uh <,>
+
+that's almost every week
+<ICE-CAN:S1B-067#75:1:A> <{> <[> <unclear> a few words </unclear> </[>
+
+<$B> <ICE-CAN:S1B-067#76:1:B> <}> <-> <[> It does take </[> </{> </-> <=> it does take </=>
+
+</}> a lot of time
+<ICE-CAN:S1B-067#77:1:B> That's correct
+
+<$A> <ICE-CAN:S1B-067#78:1:A> And uh <,,> I understood you say seventy or eighty percent of
+
+your work then relates to that either providing a consulting service and
+
+you're actually testifying in court <,,>
+
+<$B> <ICE-CAN:S1B-067#79:1:B> <}> <-> Or </-> <=> or </=> </}> treating assessment and
+
+treating
+
+<$A> <ICE-CAN:S1B-067#80:1:A> Well do you actually treat any
+<ICE-CAN:S1B-067#81:1:A> Do you have any patients that you actually treat on an ongoing
+
+basis at this time
+
+<$B> <ICE-CAN:S1B-067#82:1:B> <}> <-> I </-> <=> I </=> </}> have a large caseload
+
+<$A> <ICE-CAN:S1B-067#83:1:A> And so you do that
+<ICE-CAN:S1B-067#84:1:A> You testify in court <,> more than once a week on average and you
+
+provide consulting services
+<ICE-CAN:S1B-067#85:1:A> <?> And that's </?> sort of <,> your practice
+
+<$B> <ICE-CAN:S1B-067#86:1:B> At the current time uh my <}> <-> <.> cor </.> </-> <=> court
+
+</=> </}> time is actually reduced from what it was and I'm probably
+
+testifying maybe once every <,> three or four weeks
+
+<$A> <ICE-CAN:S1B-067#87:1:A> Come on
+<ICE-CAN:S1B-067#88:1:A> Let's take this week for example
+<ICE-CAN:S1B-067#89:1:A> How many times have you been in court this week
+
+<$B> <ICE-CAN:S1B-067#90:1:B> It's been an exceptional week
+<ICE-CAN:S1B-067#91:1:B> <?> I've been </?> in court twice this week <,> including today
+
+<,,>
+
+<$A> <ICE-CAN:S1B-067#92:1:A> And in terms of uhm <,,> your background material you said
+
+that you uhm have outlined in your report
+<ICE-CAN:S1B-067#93:1:A> <unclear> a few words </unclear> second page or first page of it I
+
+<?> think </?>
+
+<$B> <ICE-CAN:S1B-067#94:1:B> Uh the database <,,>
+
+<$A> <ICE-CAN:S1B-067#95:1:A> Ya
+<ICE-CAN:S1B-067#96:1:A> The <?> chart <?> you looked at before you <,,> <?> met with <?>
+
+Mister <@> Rabbitfoot </@> <,,> or in connection with the <?> <@> Karen </@>
+
+Report </?>
+<ICE-CAN:S1B-067#97:1:A> That's outlined there <,>
+
+<$B> <ICE-CAN:S1B-067#98:1:B> Uhh I think so
+<ICE-CAN:S1B-067#99:1:B> Yes
+
+<$A> <ICE-CAN:S1B-067#100:1:A> Is there anything else that you did use or references that
+
+you did have that's not outlined in that database section
+
+<$B> <ICE-CAN:S1B-067#101:1:B> In regards to the written report itself
+
+<$A> <ICE-CAN:S1B-067#102:1:A> Yup
+
+<$B> <ICE-CAN:S1B-067#103:1:B> Uh other than my general knowledge and uh experience and uh
+
+uh I may have referred to a textbook uhm but I can't recall specifically <?>
+
+about </?> it or not
+
+<$A> <ICE-CAN:S1B-067#104:1:A> Okay
+<ICE-CAN:S1B-067#105:1:A> Did you review the <@> R T D </@> file on Mister <@> Rabbitfoot
+
+</@>
+
+<$B> <ICE-CAN:S1B-067#106:1:B> I believe I did
+
+<$A> <ICE-CAN:S1B-067#107:1:A> Okay
+<ICE-CAN:S1B-067#108:1:A> Uhm is that <?> referred to </?> the item <{> <[> <unclear> word
+
+</unclear> </[>
+
+<$B> <ICE-CAN:S1B-067#109:1:B> <[> R C </[> </{>
+<ICE-CAN:S1B-067#110:1:B> R C M P <@> Royal Canadian Mounted Police </@> identification
+
+sheet criminal record
+
+<$A> <ICE-CAN:S1B-067#111:1:A> Okay I'm talking about the <@> R T D </@>
+<ICE-CAN:S1B-067#112:1:A> Sorry
+<ICE-CAN:S1B-067#113:1:A> <}> <-> I must </-> <=> I must </=> </}>
+
+<$B> <ICE-CAN:S1B-067#114:1:B> I'm sorry
+
+<$A> <ICE-CAN:S1B-067#115:1:A> The <@> Regional Though-helping Depot </@> is what <,> we
+
+here call the <@> R T </@> or the <@> R T D </@>
+
+<$B> <ICE-CAN:S1B-067#116:1:B> <{> <[> Yes </[>
+
+<$A> <ICE-CAN:S1B-067#117:1:A> <}> <-> <[> They </[> </{> </-> <=> did you </=> </}> review
+
+their file
+
+<$B> <ICE-CAN:S1B-067#118:1:B> No I don't believe I did
+
+<$A> <ICE-CAN:S1B-067#119:1:A> And is there a reason you didn't do that
+
+<$B> <ICE-CAN:S1B-067#120:1:B> <}> <-> I couldn't </-> <=> I didn't </=> </}> have access to
+
+it
+
+<$A> <ICE-CAN:S1B-067#121:1:A> Did you contact Doctor <@> Ping </@> to get access to that
+
+file
+
+<$B> <ICE-CAN:S1B-067#122:1:B> Uhh no <}> <-> I </-> <=> I </=> </}> spoke with uh Mister
+
+<@> Bigman </@>
+
+<$A> <ICE-CAN:S1B-067#123:1:A> And he told you that you <}> <-> did </-> <=> could </=> </}>
+
+not have access to that file
+
+<$B> <ICE-CAN:S1B-067#124:1:B> I don't know if he told me I couldn't
+<ICE-CAN:S1B-067#125:1:B> We spoke and discussed the matter and I subsequently didn't see
+
+the file
+<ICE-CAN:S1B-067#126:1:B> Uh I don't know if it was a matter <}> <-> of </-> <=> of </=>
+
+</}> whether I couldn't or not
+<ICE-CAN:S1B-067#127:1:B> All I'm saying is that I didn't see it
+<ICE-CAN:S1B-067#128:1:B> I didn't have access to it
+
+<$A> <ICE-CAN:S1B-067#129:1:A> Okay
+<ICE-CAN:S1B-067#130:1:A> So whether you could have had access or not you don't know
+<ICE-CAN:S1B-067#131:1:A> You chose not to follow up on that
+
+<$B> <ICE-CAN:S1B-067#132:1:B> I left it with Mister <@> Bigman </@>
+
+<$A> <ICE-CAN:S1B-067#133:1:A> Okay
+<ICE-CAN:S1B-067#134:1:A> And he never at any time provided the <@> R T D </@> file
+
+<$B> <ICE-CAN:S1B-067#135:1:B> That's correct
+
+<$A> <ICE-CAN:S1B-067#136:1:A> Uh would you think that something like that would be helpful
+
+in trying to assess a patient
+
+<$B> <ICE-CAN:S1B-067#137:1:B> It would be
+
+<$A> <ICE-CAN:S1B-067#138:1:A> Uhm <,> did you review any other medical file aside from the
+
+one dealing with suicide attempts
+
+<$B> <ICE-CAN:S1B-067#139:1:B> Uhm <,,> uh uh I can't be sure
+<ICE-CAN:S1B-067#140:1:B> Uhh <,,> <}> <-> there <.> mi </.> <.> biz </.> </-> <=> there
+
+might have been </=> </}> <}> <-> a </-> <=> a </=> </}> file <}> <-> a </->
+
+<=> a </=> </}> record on <}> <-> the </-> <=> the </=> </}> nasal surgery he
+
+had but <}> <-> I </-> <=> I'd </=> </}> stick that under <}> <-> <@> Tango
+
+Shoe </@> Hospital </-> <=> <unclear> word </unclear> <@> Far Far Away </@>
+
+City Hospital </=> </}> records <{> <[> I think </[>
+
+<$A> <ICE-CAN:S1B-067#141:1:A> <[> <unclear> word </unclear> </[> </{>
+<ICE-CAN:S1B-067#142:1:A> That's really not <unclear> word </unclear> I guess <{> <[> then
+
+</[>
+
+<$B> <ICE-CAN:S1B-067#143:1:B> <[> Right </[> </{>
+
+<$A> <ICE-CAN:S1B-067#144:1:A> Uhm so in terms of what ah diagnosis or what assessment <,>
+
+was made by psychiatrists who were treating Mister <@> Rabbitfoot </@> back
+
+in February <,> uh when he was at the <@> R T D </@> you have no idea about
+
+that then
+
+<$B> <ICE-CAN:S1B-067#145:1:B> I wouldn't say I have no idea
+<ICE-CAN:S1B-067#146:1:B> Certainly I did not look at the records or hear what the records
+
+<{> <[> have to say </[>
+
+<$A> <ICE-CAN:S1B-067#147:1:A> <[> Well what assessment </[> </{> did they make of him at
+
+that time then
+
+<$B> <ICE-CAN:S1B-067#148:1:B> Well uhm uhm I haven't had access to the records
+
+<$A> <ICE-CAN:S1B-067#149:1:A> So I take it then <}> <-> it's </-> <=> it's </=> </}> fair
+
+to say you have no idea of what they assessed of him at that time
+
+<$B> <ICE-CAN:S1B-067#150:1:B> Well I'm saying Doctor <@> Tevees </@> commented on <,> uhh
+
+anti-social personality disorder and I can't remember if he commented on
+
+depression or not
+
+<$A> <ICE-CAN:S1B-067#151:1:A> Will you tell me what the doctors or the psychiatrists who
+
+treated <,> Mister <@> Rabbitfoot </@> in February of this year <?> assessed
+
+him </?> at according to what you know
+
+<$B> <ICE-CAN:S1B-067#152:1:B> Sorry
+<ICE-CAN:S1B-067#153:1:B> <unclear> two words </unclear> <{> <[> question </[>
+
+<$A> <ICE-CAN:S1B-067#154:1:A> <[> Can you </[> </{> tell the court what <,> the
+
+psychiatrists at the <@> Regional Though-helping Depot </@> <@> R T D </@> is
+
+what we call it <{1> <[1> so just so you </[1> know what we're talking about
+<ICE-CAN:S1B-067#155:1:A> <{2> <[2> <?> here </?> </[2>
+
+<$B> <ICE-CAN:S1B-067#156:1:B> <[1> Ya ya </[1> </{1>
+
+<$B> <ICE-CAN:S1B-067#157:1:B> <[2> Sure </[2> </{2>
+
+<$A> <ICE-CAN:S1B-067#158:1:A> What was their assessment of Mister <@> Rabbitfoot </@>
+
+February of this year
+
+<$B> <ICE-CAN:S1B-067#159:1:B> Other than what <,> Doctor <@> Tevees
+
+</@ cos I didn't have access to their rec ords I don't know <,,>
+
+<$A> <ICE-CAN:S1B-067#160:1:A> Uhm well what did Doctor <@> Tevees </@> say about that
+
+<$B> <ICE-CAN:S1B-067#161:1:B> I think he commented on uhh anti-social personality disorder
+
+and I can't recall <?> or not </?> if he
+
+<$A> <ICE-CAN:S1B-067#162:1:A> Can you show me in the report where he said that <,> Mister
+
+<@> Rabbitfoot </@> was diagnosed with having anti-social personality by <,,>
+
+<unclear> mumbles </unclear>
+<ICE-CAN:S1B-067#163:1:A> I didn't see that myself but <}> <-> I </-> <=> sometimes I </=>
+
+</}> miss things
+
+<$B> <ICE-CAN:S1B-067#164:1:B> I may have been mistaken
+<ICE-CAN:S1B-067#165:1:B> It may <?> have </?> <unclear> word </unclear> Doctor <@>
+
+Bondarychuk </@> that i spoke to of course the <unclear> a few words
+
+</unclear> <,,>
+
+<$A> <ICE-CAN:S1B-067#166:1:A> You haven't had a lot of time to study those two reports have
+
+you
+
+<$B> <ICE-CAN:S1B-067#167:1:B> I've read them both through
+
+<$A> <ICE-CAN:S1B-067#168:1:A> Just last night
+
+<$B> <ICE-CAN:S1B-067#169:1:B> Correct
+
+<$A> <ICE-CAN:S1B-067#170:1:A> So you haven't had a lot of time to look through them think
+
+about them or
+
+<$B> <ICE-CAN:S1B-067#171:1:B> These particular reports
+
+<$A> <ICE-CAN:S1B-067#172:1:A> Ya
+
+<$B> <ICE-CAN:S1B-067#173:1:B> They're fairly short uh but I honestly haven't memorized
+
+every word or every detail <{> <[> <}> <-> in </-> <=> in </=> </}> the two
+
+<?> reports </?> </[>
+
+<$A> <ICE-CAN:S1B-067#174:1:A> <[> Well <}> <-> you </-> <=> you </=> </}> </[> </{> show me
+
+<?> in their words </?> ah what <}> <-> <{> <[> the </[> </-> <=> the </=>
+
+</}> diagnosis was in February of this year
+
+<$B> <ICE-CAN:S1B-067#175:1:B> <[> <?> Sure </?> </[> </{>
+<ICE-CAN:S1B-067#176:1:B> <?> Sure </?> <,,> <&> long pause while reading </&>
+<ICE-CAN:S1B-067#177:1:B> Uh uhh page three paragraphs three and some <unclear> word
+
+</unclear> underneath that in actual fact that's incorrect
+<ICE-CAN:S1B-067#178:1:B> <}> <-> The word <.> depr </.> </-> <=> uh the word depression
+
+</=> </}> <unclear> word </unclear> is referring to the <@> Meyertown </@>
+
+<,> Remand Centre
+<ICE-CAN:S1B-067#179:1:B> However the <@> Regional Though-helping Depot </@> <,> uh
+
+specifies in regards to <,,> the diagnosis at that time which I presume is
+
+referring to <@> R T D </@> <unclear> two or three words </unclear> all the
+
+same paragraph uh uh comments on <unclear> word </unclear> <?> abuse </?>
+
+disorder adjustment disorder with depressive mood <}> <-> <.> an </.> </->
+
+<=> anti </=> </}> - social personality disorder
+
+<$A> <ICE-CAN:S1B-067#180:1:A> Okay
+<ICE-CAN:S1B-067#181:1:A> So there's no diagnosis of any major depression at that time
+
+<$B> <ICE-CAN:S1B-067#182:1:B> Right
+<ICE-CAN:S1B-067#183:1:B> There's a diagnosis <}> <-> of a </-> <=> of ah </=> </}>
+
+adjustment disorder with depressive <}> <-> mood </-> <=> mood </=> </}>
+<ICE-CAN:S1B-067#184:1:B> And I did state I wasn't sure whether a diagnosis of major
+
+depression had been made or not
+
+<$A> <ICE-CAN:S1B-067#185:1:A> Okay
+<ICE-CAN:S1B-067#186:1:A> I'll just ask you again
+<ICE-CAN:S1B-067#187:1:A> Based on what that report says you agree with me there's no
+
+diagnosis <,> of major depression at that time
+
+<$B> <ICE-CAN:S1B-067#188:1:B> Correct
+
+<$A> <ICE-CAN:S1B-067#189:1:A> Because that would show up under axis one and major
+
+depression is a particular diagnosis with criminal <unclear> two words
+
+</unclear>
+
+<$B> <ICE-CAN:S1B-067#190:1:B> Correct
+
+<$A> <ICE-CAN:S1B-067#191:1:A> And would you agree with me that uh psychiatrists who are
+
+actually dealing with a patient and treating him at that time are probably in
+
+a better position to uh <?> make an assessment </?> than someone who comes in
+
+several months after the fact
+
+<$B> <ICE-CAN:S1B-067#192:1:B> I would concur
+<ICE-CAN:S1B-067#193:1:B> What's kind of puzzling is that he remain on Elavil
+<ICE-CAN:S1B-067#194:1:B> Looks like a hundred and fifty milligrams which is a treatment for
+
+major depression <,>
+
+<$A> <ICE-CAN:S1B-067#195:1:A> Are you saying that's the only time that medication can be
+
+prescribed
+
+<$B> <ICE-CAN:S1B-067#196:1:B> At that sort of dose that would be the medical indication for
+
+prescribing such a medication
+
+<$A> <ICE-CAN:S1B-067#197:1:A> Well you're not saying that that's the only reason
+<ICE-CAN:S1B-067#198:1:A> The only thing you've ever prescribed Elavil for is major
+
+depression are you
+
+<$B> <ICE-CAN:S1B-067#199:1:B> I would prescribe it for uh chronic pain fibromyalgia
+<ICE-CAN:S1B-067#200:1:B> Uhm usually the dosage is fifty to seventy-five sometimes a
+
+hundred milligrams
+<ICE-CAN:S1B-067#201:1:B> Uh this would be an unusual dose to be used in anything but uh
+
+suspected major depression or for confirmed major depression
+
+<$A> <ICE-CAN:S1B-067#202:1:A> So I guess you agree with me that <,> that is not the only
+
+thing you can prescribe that medication for <?> would you </?>
+<ICE-CAN:S1B-067#203:1:A> There are other things besides major depression that it's used for
+
+<$B> <ICE-CAN:S1B-067#204:1:B> Certainly
+
+<$A> <ICE-CAN:S1B-067#205:1:A> So I think you said this morning you thought it would be
+
+unethical for a doctor to prescribe that medication <,> for anything other
+
+than major depression
+<ICE-CAN:S1B-067#206:1:A> Maybe I misunderstood you
+
+<$B> <ICE-CAN:S1B-067#207:1:B> <{> <[> I uh </[>
+
+<$A> <ICE-CAN:S1B-067#208:1:A> <[> Well <}> <-> that's </[> </{> </-> <=> that's </=> </}>
+
+not true then
+
+<$B> <ICE-CAN:S1B-067#209:1:B> You may have misunderstood me
+<ICE-CAN:S1B-067#210:1:B> <}> <-> I </-> <=> I </=> </}> believe I stated that I have
+
+serious concerns about a doctor prescribing that kind of medication to
+
+someone with a substance abuse problem who doesn't have major depression
+
+<$A> <ICE-CAN:S1B-067#211:1:A> That medication is also used to control symptoms like uh
+
+anxiety or aggressiveness or things of that sort is it not </I>

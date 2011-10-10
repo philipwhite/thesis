@@ -1,0 +1,421 @@
+<I>
+
+<$A> <ICE-CAN:S2B-016#1:1:A> Good afternoon
+<ICE-CAN:S2B-016#2:1:A> Here's the C B C <&> Canadian Broadcasting Corp. </&> twelve o'clock
+
+news
+<ICE-CAN:S2B-016#3:1:A> The city of Montreal is trying to smooth out its street cleaning and
+
+snow removal operations
+<ICE-CAN:S2B-016#4:1:A> The city's blue collar workers are refusing to work overtime
+<ICE-CAN:S2B-016#5:1:A> And the arrival of winter weather is making things difficult for
+
+motorists and pedestrians alike
+<ICE-CAN:S2B-016#6:1:A> <@> John Fogerty </@> reports
+
+<$B> <ICE-CAN:S2B-016#7:1:B> Most city sidewalks and streets have received at least one coat
+
+of salt and crushed stone
+<ICE-CAN:S2B-016#8:1:B> But yesterday blue collar workers were nowhere in sight for hours as
+
+motorists and pedestrians struggled to get around
+<ICE-CAN:S2B-016#9:1:B> The essential services council requires workers to clean streets and
+
+sidewalks <,> but during the overtime strike city officials must ask the
+
+union to schedule those workers
+<ICE-CAN:S2B-016#10:1:B> Workers report first to the union office in north Montreal before
+
+proceeding to city garages
+<ICE-CAN:S2B-016#11:1:B> Mayor Pierre Bourque is in Jakarta where Montreal was awarded the
+
+United <w> Nations' </w> biodiversity secretariat
+
+<$C> <ICE-CAN:S2B-016#12:1:C> They are doing fabulous job
+<ICE-CAN:S2B-016#13:1:C> Thank you <unclear> word </unclear>
+
+<$B> <ICE-CAN:S2B-016#14:1:B> Bourque commended the city's negotiating team for taking a
+
+tough stand with the blue collar workers
+<ICE-CAN:S2B-016#15:1:B> He says problems with streets and sidewalks will pass
+
+<$C> <ICE-CAN:S2B-016#16:1:C> You know <}> <-> the </-> <=> the </=> </}> snow will melt and
+
+the people will go back to work <}> <-> <.> to </.> </-> <=> today </=> </}>
+
+and uh environment will be there for many decades and in the future
+<ICE-CAN:S2B-016#17:1:C> We have to think in the long term <?> shot </?> and this was for us
+
+very important to be in Jakarta and in Asia
+
+<$B> <ICE-CAN:S2B-016#18:1:B> But Environment Canada says the snow won't melt until at least
+
+Wednesday
+<ICE-CAN:S2B-016#19:1:B> In fact Montreal could get more than five centimetres of new snow
+
+tomorrow
+<ICE-CAN:S2B-016#20:1:B> The city has invited workers to come back to the negotiating table
+<ICE-CAN:S2B-016#21:1:B> The union has refused
+<ICE-CAN:S2B-016#22:1:B> <@> John Fogerty </@> C B C news <,> Montreal
+
+<$A> <ICE-CAN:S2B-016#23:1:A> A crime scene technician says he found just one finger print
+
+in the home belonging to the Reverend Frank Toupe and his wife Jocelyn
+
+<$A> <ICE-CAN:S2B-016#24:1:A> <@> Jean Picard </@> is testifying at the murder trial of the
+
+youngest of the three boys charged with the murders
+<ICE-CAN:S2B-016#25:1:A> <@> Ian Slovak </@> reports
+
+<$D> <ICE-CAN:S2B-016#26:1:D> <@> Picard </@> says the attacker or attackers entered the
+
+Toupe house through an open window in back
+<ICE-CAN:S2B-016#27:1:D> He found no signs of forced entry
+<ICE-CAN:S2B-016#28:1:D> He says <quote> whoever committed the crimes ransacked the master
+
+bedroom </quote>
+<ICE-CAN:S2B-016#29:1:D> He found drawers pulled out of bureaus the contents everywhere
+<ICE-CAN:S2B-016#30:1:D> A drawer in another room was partially open
+<ICE-CAN:S2B-016#31:1:D> The telephone in the kitchen was disconnected at the handset
+<ICE-CAN:S2B-016#32:1:D> The phone in the Toupe's bedroom was also tampered with
+<ICE-CAN:S2B-016#33:1:D> <@> Picard </@> says he found one print in the house
+<ICE-CAN:S2B-016#34:1:D> He couldn't identify whom it belonged to
+<ICE-CAN:S2B-016#35:1:D> He couldn't find any other prints either even those of the Toupes
+
+themselves anywhere in the house
+<ICE-CAN:S2B-016#36:1:D> <@> Picard </@> was asked wasn't that odd
+<ICE-CAN:S2B-016#37:1:D> He said no
+<ICE-CAN:S2B-016#38:1:D> <@> Picard </@> says the skin on the finger tips of seniors is worn
+
+to the point where they don't leave fingerprints
+<ICE-CAN:S2B-016#39:1:D> <@> Ian Slovak </@> <,> C B C news <,> Montreal
+
+<$A> <ICE-CAN:S2B-016#40:1:A> The <indig> Parti Qu&eacute;b&eacute;cois </indig> is trying
+
+to mend fences with minority groups in the province
+<ICE-CAN:S2B-016#41:1:A> The P Q has come out with a position setting out its policies on
+
+ethnic groups
+<ICE-CAN:S2B-016#42:1:A> <@> Janine Daly </@> reports
+
+<$E> <ICE-CAN:S2B-016#43:1:E> The P Q is responding to accusations its platform is based on
+
+a very narrow nationalism <,> which some critics have even called racist
+<ICE-CAN:S2B-016#44:1:E> The accusations stem from comments made by Premier Parizeau on the
+
+night of the referendum <,> blaming the separatist loss on money and the
+
+ethnic vote
+<ICE-CAN:S2B-016#45:1:E> That criticism grew after reports the vice-premier Bernard Landry
+
+had harassed a hotel clerk <,> for being an immigrant and voting no
+<ICE-CAN:S2B-016#46:1:E> P Q vice-president Monique Simard says that kind of criticism is
+
+unfair
+<ICE-CAN:S2B-016#47:1:E> She insists the party is open to people of all races
+<ICE-CAN:S2B-016#48:1:E> And she says Quebec nationalism is territorial not racist
+
+<$Z> <ICE-CAN:S2B-016#49:1:Z> <X> Speech in French </X>
+
+<$E> <ICE-CAN:S2B-016#50:1:E> Simard has refused to dissociate the party from the premier's
+
+remarks
+<ICE-CAN:S2B-016#51:1:E> She says he was only stating an obvious fact
+<ICE-CAN:S2B-016#52:1:E> <quote> Though </quote> Simard says <quote> if people take his
+
+comment as blaming ethnic voters <,> then </quote> she says <quote> the party
+
+doesn't agree </quote>
+<ICE-CAN:S2B-016#53:1:E> <@> Janine Daly </@> C B C news Montreal
+
+<$A> <ICE-CAN:S2B-016#54:1:A> The Quebec chamber of notaries is facing a threat of being put
+
+under trusteeship
+<ICE-CAN:S2B-016#55:1:A> The chamber has prepared a report which is critical of its
+
+president and its operations
+<ICE-CAN:S2B-016#56:1:A> The <foreign> Office des professions </foreign> the provincial body
+
+responsible for governing professional associations says significant changes
+
+must be made to the chamber of notaries <,> or the government will step in
+<ICE-CAN:S2B-016#57:1:A> <@> Judith Piaskoski </@> reports
+
+<$F> <ICE-CAN:S2B-016#58:1:F> The report prepared by three members of the chamber focuses on
+
+what it calls the misplaced priorities of the president
+<ICE-CAN:S2B-016#59:1:F> Louise Belanger was elected president in nineteen ninety-three for
+
+a three year term
+<ICE-CAN:S2B-016#60:1:F> The report obtained by <indig> Le Devoir </indig> suggests there's
+
+been trouble at the chamber ever since
+<ICE-CAN:S2B-016#61:1:F> First a power struggle developed between Belanger and the chamber's
+
+director-general who ended up being fired
+<ICE-CAN:S2B-016#62:1:F> Then the organization fell into disarray and the public which the
+
+chamber is supposed to protect was left unserved
+<ICE-CAN:S2B-016#63:1:F> That's when the <indig> Office des professions </indig> demanded
+
+action
+<ICE-CAN:S2B-016#64:1:F> Robert Diamont its president says the situation was unacceptable
+
+<$G> <ICE-CAN:S2B-016#65:1:G> Sometimes <}> <-> it </-> <=> it </=> </}> could take uh six
+
+months before having <}> <-> a </-> <=> just an </=> </}> answer on what was
+
+happening <}> <-> in their uh </-> <=> of their </=> </}> complaint
+
+<$F> <ICE-CAN:S2B-016#66:1:F> Diamont found his own inquiries ignored
+
+<$G> <ICE-CAN:S2B-016#67:1:G> They took uh about twenty-six days <}> <-> to answer </-> <=>
+
+to give me an answer </=> </}>
+
+<$F> <ICE-CAN:S2B-016#68:1:F> Diamont says the Office is studying the chamber's report and
+
+will speak to the principal people involved
+<ICE-CAN:S2B-016#69:1:F> Then if changes aren't made the Office will request the power to
+
+put the chamber under trusteeship
+<ICE-CAN:S2B-016#70:1:F> Diamont says he hopes it never goes that far
+<ICE-CAN:S2B-016#71:1:F> <@> Judith Piaskoski </@> C B C news <,> Montreal
+
+<$A> <ICE-CAN:S2B-016#72:1:A> Montreal has been chose to house a United Nations agency that
+
+protects environmental resources
+<ICE-CAN:S2B-016#73:1:A> The Biodiversity Secretariat will employ twenty people
+<ICE-CAN:S2B-016#74:1:A> It beat bids from Geneva Nairobi and Madrid
+<ICE-CAN:S2B-016#75:1:A> <@> Sharon McAdam </@> reports
+
+<$H> <ICE-CAN:S2B-016#76:1:H> The provincial and federal governments have agreed to pay
+
+seven million dollars to locate the new secretariat in Montreal
+<ICE-CAN:S2B-016#77:1:H> Montreal's mayor Pierre Bourque says the secretariat will bring
+
+business to Montreal every two years when they have their conferences
+<ICE-CAN:S2B-016#78:1:H> Bourque says <quote> it's an honour to have the agency in this city
+
+</quote>
+
+<$C> <ICE-CAN:S2B-016#79:1:C> They asked <}> <-> to </-> <=> to </=> </}> look at cities or
+
+regions in the world where we believe in sustainable development and we have
+
+the experts on this
+<ICE-CAN:S2B-016#80:1:C> Montreal will be like <}> <-> the </-> <=> the </=> </}> heart of
+
+this <,> huge connection in the world on biodiversity protection of plants of
+
+animals in the world
+<ICE-CAN:S2B-016#81:1:C> So this is a major target for the world of tomorrow
+
+<$H> <ICE-CAN:S2B-016#82:1:H> Bourque says > the new agency will monitor resources from fish
+
+stocks and forests
+<ICE-CAN:S2B-016#83:1:H> The new agency should be in place by next year
+<ICE-CAN:S2B-016#84:1:H> It will create twenty new jobs and will be housed in the World
+
+Trade Centre in downtown Montreal
+<ICE-CAN:S2B-016#85:1:H> <@> Sharon McAdam </@> <,> C B C news <,> Montreal
+
+<$A> <ICE-CAN:S2B-016#86:1:A> Quebec's two biggest labour federations have agreed to stop
+
+raiding each other's memberships
+<ICE-CAN:S2B-016#87:1:A> The C S N <&> La Conf&eacute;d&eacute;ration des syndicats
+
+nationaux </&> and the F T Q <&> Federation des travailleurs et travailleuses
+
+du Qu&eacute;bec </&> signed an agreement this morning
+<ICE-CAN:S2B-016#88:1:A> <@> Stanley Barton </@> reports
+
+<$I> <ICE-CAN:S2B-016#89:1:I> For years the two federations have mounted campaigns to
+
+persuade unionized workers to switch unions
+<ICE-CAN:S2B-016#90:1:I> The campaigns are mounted in the months before collective
+
+agreements expire
+<ICE-CAN:S2B-016#91:1:I> Unions often accuse each other of using slander and misinformation
+
+to recruit a rival's members
+<ICE-CAN:S2B-016#92:1:I> The C S N and the F T Q had held discussions over the years on ways
+
+to reach a truce but until now the talks had led nowhere
+<ICE-CAN:S2B-016#93:1:I> Under the terms of the agreement <,> both federations agreed to ban
+
+membership raids
+<ICE-CAN:S2B-016#94:1:I> Workers are free to change unions or seek information about doing
+
+so <,> but union organizers won't bring pressure from the outside
+<ICE-CAN:S2B-016#95:1:I> The two parties also agreed to ban hostile or false information
+
+about their respective unions
+<ICE-CAN:S2B-016#96:1:I> The C S N and the F T Q will set up a committee that will meet at
+
+least once a year to rule on complaints
+<ICE-CAN:S2B-016#97:1:I> <@> Stanley Barton </@> <,> C B C news <,> Montreal
+
+<$A> <ICE-CAN:S2B-016#98:1:A> Authorities in Switzerland are investigating allegations of
+
+bribery concerning the sale of European aircraft in Canada
+<ICE-CAN:S2B-016#99:1:A> The case revolves around the sale of thirty-four Airbus planes to
+
+Air Canada in nineteen eighty-eight
+<ICE-CAN:S2B-016#100:1:A> The sale was for two billion dollars
+<ICE-CAN:S2B-016#101:1:A> Swiss-German television is reporting that some Canadian
+
+politicians received kickbacks for the sale <,> and the money was funnelled
+
+into Swiss bank accounts
+<ICE-CAN:S2B-016#102:1:A> And that's the news from the C B C news service </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-016#103:2:A> It is not going to be nice for the next few days
+<ICE-CAN:S2B-016#104:2:A> Uh in the west including Montreal this afternoon there's a thirty
+
+percent chance of some more snow
+<ICE-CAN:S2B-016#105:2:A> Flurries overnight
+<ICE-CAN:S2B-016#106:2:A> Lows near minus four
+<ICE-CAN:S2B-016#107:2:A> And tomorrow something of a storm <,> with light snow beginning in
+
+the morning and then heavy snow tomorrow afternoon
+<ICE-CAN:S2B-016#108:2:A> More than five centimetres expected and winds picking up tomorrow
+
+afternoon to thirty to fifty kilometres and hour
+<ICE-CAN:S2B-016#109:2:A> Highs tomorrow around freezing
+<ICE-CAN:S2B-016#110:2:A> The normal temperature is plus six degrees
+<ICE-CAN:S2B-016#111:2:A> And what was so odd over the weekend was that we went from a
+
+record high on Saturday to the snow storm on Sunday
+<ICE-CAN:S2B-016#112:2:A> Now uh in the eastern parts of the province <,> partly cloudy
+<ICE-CAN:S2B-016#113:2:A> Highs of around three degrees
+<ICE-CAN:S2B-016#114:2:A> Windy this afternoon
+<ICE-CAN:S2B-016#115:2:A> Partly cloudy overnight
+<ICE-CAN:S2B-016#116:2:A> Lows near minus nine and for tomorrow <,> cloudy with some clear
+
+periods
+<ICE-CAN:S2B-016#117:2:A> Brisk winds continuing <,> and highs tomorrow near zero
+<ICE-CAN:S2B-016#118:2:A> In Montreal right now it's zero
+<ICE-CAN:S2B-016#119:2:A> Partly cloudy skies
+<ICE-CAN:S2B-016#120:2:A> In Saint Jovite sunny and minus seven
+<ICE-CAN:S2B-016#121:2:A> Sunny and minus nine in Val d'Or
+<ICE-CAN:S2B-016#122:2:A> Some snow in Chicoutimi
+<ICE-CAN:S2B-016#123:2:A> Your temperature is minus five
+<ICE-CAN:S2B-016#124:2:A> And in Gasp&eacute; mainly sunny and two degrees
+<ICE-CAN:S2B-016#125:2:A> On the stock markets the Dow Jones is down six points at
+
+forty-eight sixty-four
+<ICE-CAN:S2B-016#126:2:A> T S E <&> Toronto Stock Exchange </&> is up twenty points at
+
+forty-five ninety-eight
+<ICE-CAN:S2B-016#127:2:A> Gold is down a dollar forty-five at three hundred and eighty-seven
+
+dollars eighty-five cents U S an ounce
+<ICE-CAN:S2B-016#128:2:A> <O> clears throat </O> Excuse me
+<ICE-CAN:S2B-016#129:2:A> Silver is down fourteen cents at five dollars and thirty cents
+<ICE-CAN:S2B-016#130:2:A> And the Canadian dollar is up seven one-hundredths
+<ICE-CAN:S2B-016#131:2:A> It's at seventy-four point zero two </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-016#132:3:A> Good afternoon
+<ICE-CAN:S2B-016#133:3:A> Here's the C B C one o'clock news
+<ICE-CAN:S2B-016#134:3:A> The city of Montreal is toughening its stand with blue collar
+
+workers
+<ICE-CAN:S2B-016#135:3:A> <@> Sue Parenteau </@> is the executive committee member
+
+responsible for negotiations with the union
+<ICE-CAN:S2B-016#136:3:A> She says the city can suspend the collective agreement with
+
+workers not involved in providing essential services
+
+<$B> <ICE-CAN:S2B-016#137:3:B> <}> <-> What </-> <=> What </=> </}> we're saying at the city
+
+here is that the convention agreement is suspended for employees not affected
+
+to essential services
+<ICE-CAN:S2B-016#138:3:B> And uh we're going to do everything in our power administratively
+
+speaking uh to go ahead with this interpretation as far as we're concerned
+
+<$A> <ICE-CAN:S2B-016#139:3:A> <@> Parenteau </@> says she blames blue collar workers for
+
+deliberately slowing street and sidewalk cleaning yesterday
+<ICE-CAN:S2B-016#140:3:A> She promises things will run smoothly for the next snowfall
+<ICE-CAN:S2B-016#141:3:A> The head of the Quebec chamber of notaries says she has no
+
+intention of resigning
+<ICE-CAN:S2B-016#142:3:A> A report prepared by the chamber is critical of her leadership
+<ICE-CAN:S2B-016#143:3:A> <@> Judith Piaskoski </@> reports
+
+<$C> <ICE-CAN:S2B-016#144:3:C> The report suggests Louise Belanger has misused her powers
+
+since being elected president two years ago
+<ICE-CAN:S2B-016#145:3:C> It blames her for firing the director-general and the slowdown in
+
+paperwork that followed
+<ICE-CAN:S2B-016#146:3:C> People have had to wait up to six months to get basic information
+
+from the chamber
+<ICE-CAN:S2B-016#147:3:C> Belanger acknowledges there have been problems
+<ICE-CAN:S2B-016#148:3:C> But she says she has the full support of the membership to carry
+
+out necessary changes
+<ICE-CAN:S2B-016#149:3:C> She doesn't say whether the problems were there before she arrived
+<ICE-CAN:S2B-016#150:3:C> Belanger also says people should maintain confidence in notaries
+
+and in the chamber
+<ICE-CAN:S2B-016#151:3:C> She says ninety-nine percent of the time things run smoothly
+<ICE-CAN:S2B-016#152:3:C> It's only on the rare occasions they don't work well that
+
+complaints make the headlines
+<ICE-CAN:S2B-016#153:3:C> <@> Judith Piaskoski </@> <,> C B C news <,> Montreal
+
+<$A> <ICE-CAN:S2B-016#154:3:A> Montreal lawyer Brent Tyler will find out this afternoon
+
+whether the Bloc Qu&eacute;b&eacute;cois will be charged with a criminal
+
+offence
+<ICE-CAN:S2B-016#155:3:A> Tyler has filed a complaint with a justice of the peace
+<ICE-CAN:S2B-016#156:3:A> The Bloc sent out a communiqu&eacute; before the referendum urging
+
+Quebec members of the armed forces to join the Quebec army if the Yes side
+
+one
+<ICE-CAN:S2B-016#157:3:A> Tyler says that is illegal
+
+<$D> <ICE-CAN:S2B-016#158:3:D> <X> <quote> That anyone who wilfully publishes edits issues
+
+circulates or distributes <,> a writing that advises counsels or urges
+
+insubordination disloyalty mutiny or refusal of duty by a member of the
+
+Canadian forces is guilty of an indictable offence punishable by five years
+
+of imprisonment </quote> </X>
+
+<$A> <ICE-CAN:S2B-016#159:3:A> Tyler says the provincial government promised to keep
+
+Canadian law in a sovereign Quebec
+<ICE-CAN:S2B-016#160:3:A> Tyler thinks defence minister David Collenette should get involved
+
+and challenge the Bloc's plans in court
+<ICE-CAN:S2B-016#161:3:A> Lucien Bouchard has yet to decide his future but one Bloc
+
+Qu&eacute;b&eacute;cois M P <&> Member of Parliament </&> has already
+
+declared her candidacy to replace him as party leader
+<ICE-CAN:S2B-016#162:3:A> Pierrette Venne <,> a fifty-year-old M P from Saint Hubert on
+
+Montreal's south shore <,> says she hopes Bouchard stays on as opposition
+
+leader
+<ICE-CAN:S2B-016#163:3:A> But adds <,> she's ready to take over if he decides to move on
+<ICE-CAN:S2B-016#164:3:A> Venne says the majority of women in Quebec don't support
+
+independence </I>

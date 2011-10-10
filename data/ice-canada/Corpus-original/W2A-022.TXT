@@ -1,0 +1,477 @@
+<I>
+<ICE-CAN:W2A-022#1:1> <h> Chapter 2 </h>
+<ICE-CAN:W2A-022#2:1> <h> <bold> THE PHYSICAL BASE </bold> </h>
+<ICE-CAN:W2A-022#3:1> <h> <bold> Arctic and Subarctic Environments </bold> </h>
+
+<p> <ICE-CAN:W2A-022#4:1> Across the northern half of North America, there are two natural
+
+regions - the Arctic and the Subarctic.
+<ICE-CAN:W2A-022#5:1> Climate has played a key role in forming these two biomes.
+<ICE-CAN:W2A-022#6:1> The arctic climate, for instance, is associated with a particular type
+
+of natural vegetation, soils, and biological life.
+<ICE-CAN:W2A-022#7:1> All these natural features are interrelated.
+<ICE-CAN:W2A-022#8:1> Their natural vegetation provides the most visible spatial pattern (
+
+Figure 2.1).
+<ICE-CAN:W2A-022#9:1> These same natural regions form the cultural homelands of the Inuit
+
+and Indian peoples. </p>
+
+<p> <ICE-CAN:W2A-022#10:1> The common denominator found in both regions, but particularly in
+
+the Arctic, is the presence of a cold environment, which results in slow
+
+growth of biological life, natural vegetation, and soil formation.
+<ICE-CAN:W2A-022#11:1> Because of the polar climate, the presence of permafrost, cold ocean
+
+bodies, and the chilling effect of the Labrador current, only the continental
+
+areas of the Subarctic experience warm weather for any length of time.
+<ICE-CAN:W2A-022#12:1> Besides being a cold environment, most of the North receives so
+
+little precipitation that it is termed a cold desert.
+<ICE-CAN:W2A-022#13:1> These two factors, low temperatures and low precipitation, make the
+
+North among the least productive biological areas of the world ( Figure 2.2).
+<ICE-CAN:W2A-022#14:1> At the same time, such a slow rate of plant and biological life means
+
+that the natural environment is slow to recover from natural or anthropogenic
+
+damage.
+<ICE-CAN:W2A-022#15:1> The fragile nature of the polar environments is indicated by the
+
+relationship of temperature and precipitation to plant growth ( Figure 2.2)
+
+<O> Figure 2.1 </O> <O> Figure 2.1 Caption </O> <O> Figure 2.2 </O> <O>
+
+Figure 2.2 Caption </O> . </p>
+
+<p> <ICE-CAN:W2A-022#16:1> The Arctic has the coldest environment in Canada.
+<ICE-CAN:W2A-022#17:1> It lies north of the treeline, found primarily in the Northwest
+
+Territories but also in Quebec, Newfoundland, Ontario, Yukon, and Manitoba.
+<ICE-CAN:W2A-022#18:1> It is characterized by a very cold climate where the warmest month
+
+has a mean monthly tempera <l> ture of less than 10&degree;C.
+<ICE-CAN:W2A-022#19:1> Under such climatic conditions, normal tree growth is not possible
+
+and a tundra vegetation is formed.
+<ICE-CAN:W2A-022#20:1> True zonal soils are not found in the Arctic.
+<ICE-CAN:W2A-022#21:1> In many places, rock and unconsolidated gravels and sands form the
+
+ground surface.
+<ICE-CAN:W2A-022#22:1> Where thin soils have formed in the continuous permafrost zone, they
+
+are often classified as cryosols ( soils which have an active or thawed layer
+
+of less than one metre in depth).
+<ICE-CAN:W2A-022#23:1> Under these conditions, soil-forming processes work extremely slowly
+
+because soil temperatures are often just above the freezing point.
+<ICE-CAN:W2A-022#24:1> Even when summer air temperatures thaw the top few centimetres of the
+
+ground, the presence of permafrost beneath this thin active layer acts not
+
+only as a cooling agent but also as a barrier to water. </p>
+
+<p> <ICE-CAN:W2A-022#25:1> Arctic vegetation is often divided into two zones - Low Arctic
+
+and High Arctic.
+<ICE-CAN:W2A-022#26:1> The Low Arctic occupies the mainland while the High Arctic is found
+
+in parts of Keewatin and the Arctic Archipelago.
+<ICE-CAN:W2A-022#27:1> The Low Arctic zone is characterized by nearly complete plant cover,
+
+including many shrubs, sedges, and scrub trees such as birch and willow.
+<ICE-CAN:W2A-022#28:1> Tussock sedge and low tundra shrubs are the summer grazing of barren
+
+ground caribou, which are still a major source of food for Native people.
+<ICE-CAN:W2A-022#29:1> Heath, herbs, and lichen are the typical plants.
+<ICE-CAN:W2A-022#30:1> While trees such as willows do grow, they reach a height of only a
+
+few centimetres. </p>
+
+<p> <ICE-CAN:W2A-022#31:1> In the High Arctic zone, freezing temperatures occur almost daily
+
+and permafrost is present near the surface throughout the year so that even
+
+tundra vegetation growth is inhibited.
+<ICE-CAN:W2A-022#32:1> Periglacial features - bare rock and a variety of unconsolidated
+
+materials - are commonly found.
+<ICE-CAN:W2A-022#33:1> Such barren arctic lowlands are called polar deserts ( Vignette 2.1).
+
+</p> <X>
+<ICE-CAN:W2A-022#X34:1> <h> <bold> Vignette 2.1 Polar Desert </bold> </h>
+
+<p> <ICE-CAN:W2A-022#X35:1> The term <quote> 'polar desert' </quote> usually describes
+
+barren areas of bare rock, shattered bedrock, and sterile gravel.
+<ICE-CAN:W2A-022#X36:1> These conditions are essentially an extreme form of fell field, with
+
+vegetation cover, at least of higher plants, reduced to near zero.
+<ICE-CAN:W2A-022#X37:1> Actually, this initial impression of barrenness is usually
+
+inaccurate.
+<ICE-CAN:W2A-022#X38:1> It is hard to find a square metre of polar desert that has no form
+
+of vegetation growing on it.
+<ICE-CAN:W2A-022#X39:1> By far the most important group of plants here are the lichens. </p>
+
+<p> <ICE-CAN:W2A-022#X40:1> Lichens ( pronounced like <it> ' - unz </it> ) are the foot
+
+soldiers or unsung heroes of the tundra environment.
+<ICE-CAN:W2A-022#X41:1> Lichens are in a sense a group of primitive plants, although it is
+
+more correct to think of them as a colony or association of two kinds of
+
+plants living together.
+<ICE-CAN:W2A-022#X42:1> The main body of a lichen is called a thallus; it consists of a
+
+dense, tangled mass of threadlike fungal material.
+<ICE-CAN:W2A-022#X43:1> This fungal matrix varies greatly in shape from one kind of lichen
+
+to another, but each kind has a characteristic form by which it can usually
+
+be identified.
+<ICE-CAN:W2A-022#X44:1> Encapsulated with the fungal strands are quantities of single-celled
+
+algae.
+<ICE-CAN:W2A-022#X45:1> These tiny green plants supply the colony with nutrients. </p>
+
+<p> <ICE-CAN:W2A-022#X46:1> SOURCE Young 1989: 198. </p> </X>
+
+<p> <ICE-CAN:W2A-022#47:1> The treeline often serves as the boundary between the Arctic and
+
+the Subarctic.
+<ICE-CAN:W2A-022#48:1> Ecologically, the treeline represents a major <quote> ` break'
+
+</quote> between the two regions, though in fact the <quote> 'break' </quote>
+
+is a gradual one consisting of a wooded tundra ( Vignette 2.2). <X>
+<ICE-CAN:W2A-022#X49:1> <h> <bold> Vignette 2.2 The Treeline </bold> </h>
+
+<p> <ICE-CAN:W2A-022#X50:1> The treeline represents a dividing zone between the Arctic and
+
+Subarctic regions.
+<ICE-CAN:W2A-022#X51:1> It closely corresponds to the 10&degree;C monthly mean temperature
+
+for July.
+<ICE-CAN:W2A-022#X52:1> Other natural factors, such as the depth of the active layer of
+
+permafrost, protection from wind, south slope radiation, and well drained
+
+land, may result in patches of trees growing north of this isotherm, or
+
+conversely, tundra occurring south of it.
+<ICE-CAN:W2A-022#X53:1> Then too, weather varies from year to year, causing the annual
+
+position of the isotherm to fluctuate somewhat.
+<ICE-CAN:W2A-022#X54:1> During the relatively warm decade of the 1980s, for instance, summer
+
+temperatures were much higher in high latitudes than in most previous
+
+decades.
+<ICE-CAN:W2A-022#X55:1> All of these factors have produced a transition zone of wooded
+
+tundra between the Arctic and Subarctic regions. </p>
+
+<p> <ICE-CAN:W2A-022#X56:1> Three centres close to this imaginary line are Aklavik (
+
+68&degree;12'N), Churchill ( 58&degree;48'N), and Cartwright (
+
+53&degree;36'N).
+<ICE-CAN:W2A-022#X57:1> Aklavik, located on a deltaic island at the mouth of the Mackenzie
+
+River, has a warmest-month average mean temperature of 14&degree;C;
+
+Churchill, situated near the shore of Hudson Bay, has an average July
+
+temperature of 11.8&degree;C; and Cartwright, lying along the Labrador Coast,
+
+has a mean July figure of 12&degree;.
+<ICE-CAN:W2A-022#X58:1> About 250 km inland from the coast, temperatures are much higher
+
+and, at Happy Valley-Goose Bay, the mean July temperature is 15.8&degree;.
+<ICE-CAN:W2A-022#X59:1> The continental effect of this large land mass coupled with the
+
+summer cooling caused by the ocean waters of Hudson Bay have resulted in a
+
+north-west to south-east trend to the 'treeline'. </p> </X>
+<ICE-CAN:W2A-022#60:1> The proportion of tundra to forest varies but, toward the Arctic
+
+zone, only a few stunted trees are found in the more protected areas of river
+
+valleys.
+<ICE-CAN:W2A-022#61:1> Spruce and larch are the predomi <l> nant species found in the wooded
+
+tundra.
+<ICE-CAN:W2A-022#62:1> This transition zone also repre <l> sents a biological and cultural
+
+boundary.
+<ICE-CAN:W2A-022#63:1> Many subarctic animals, including the beaver and moose, are not found
+
+in the Arctic and of the aboriginal peoples only the Inuit developed the
+
+technology permitting year-round life in the Arctic. </p>
+
+<p> <ICE-CAN:W2A-022#64:1> The Subarctic, the largest natural region in North America, is
+
+covered by the boreal forest in a continuous belt from Newfoundland to the
+
+Rocky Mountains.
+<ICE-CAN:W2A-022#65:1> Its summers are short but warm, allowing for a much richer vegetation
+
+cover than that found in the Arctic.
+<ICE-CAN:W2A-022#66:1> Coniferous trees predomi <l> nate.
+<ICE-CAN:W2A-022#67:1> Variation in this forest allows for the identification of four
+
+subzones: wooded tundra, lichen woodland, closed boreal forest, and forest
+
+park-land.
+<ICE-CAN:W2A-022#68:1> The wooded tundra forms the transition zone beyond which lies the
+
+tundra.
+<ICE-CAN:W2A-022#69:1> Patches of spruce and larch are found in sheltered, low-lying areas
+
+while high, more exposed lands are treeless.
+<ICE-CAN:W2A-022#70:1> The lichen woodland is a savannah-like area consisting of a thick
+
+groundcover of lichens inter <l> spersed with stands of spruce and pine.
+<ICE-CAN:W2A-022#71:1> The closed boreal forest, a dense forest of fir, spruce, and pine, is
+
+found in southern Yukon, a small part of the Northwest Territories (
+
+principally the upper Mackenzie Valley), and the seven provinces.
+<ICE-CAN:W2A-022#72:1> Within this zone, the forest cover, is broken by a variety of
+
+wetlands including muskeg and peat bogs.
+<ICE-CAN:W2A-022#73:1> In this wet environment, black spruce and larch are the most common
+
+species.
+<ICE-CAN:W2A-022#74:1> On the better drained land, species of spruce, fir, pine, and larch
+
+are common along with stands of poplar and birch.
+<ICE-CAN:W2A-022#75:1> Towards its southern limits, broad-leaf trees, particularly aspen and
+
+birch, are found.
+<ICE-CAN:W2A-022#76:1> The forest parkland, a narrow transition area adjacent to the
+
+Canadian Prairies, is a combina <l> tion of forest and mid-latitude
+
+grasslands.
+<ICE-CAN:W2A-022#77:1> Small bushes, including blue <l> berries, and grasses form the floor
+
+cover. </p>
+
+<p> <ICE-CAN:W2A-022#78:1> Infertile podzolic soils are common in the Subarctic.
+<ICE-CAN:W2A-022#79:1> These thin, acidic soils are best formed under cool, wet growing
+
+conditions where the princi <l> pal vegetative litter is derived from a
+
+coniferous forest.
+<ICE-CAN:W2A-022#80:1> A low evaporation rate, immature drainage, and permafrost ensure an
+
+excess of ground moisture, resulting in severely leached soils and the
+
+widespread occur <l> rence of marsh and bogs.
+<ICE-CAN:W2A-022#81:1> In spite of these environmental handicaps, soil formation is much
+
+more active in the Subarctic than it is in the Arctic.
+<ICE-CAN:W2A-022#82:1> One reason is that the longer summer temperatures allow the ground to
+
+thaw to a depth of several metres, promoting biological activity and chemical
+
+action.
+<ICE-CAN:W2A-022#83:1> Another is that the vegetation cover is much denser in the Subarctic
+
+than in the Arctic, thus providing much more plant litter for soil formation.
+
+</p>
+
+<p> <ICE-CAN:W2A-022#84:1> Subarctic lakes and forests provide an attractive environment for
+
+many animals and wildfowl.
+<ICE-CAN:W2A-022#85:1> Unlike animals in the Arctic, wildlife in the Subarc <l> tic often
+
+hibernates during the winter months.
+<ICE-CAN:W2A-022#86:1> Within this forested biome, a wide variety of animals make their
+
+home, including the beaver, moose, and grouse.
+<ICE-CAN:W2A-022#87:1> The abundance of lakes, marsh, and muskeg provides a favourable
+
+habitat for many waterfowl and big game animals such as moose which graze on
+
+shoreline vegetation.
+<ICE-CAN:W2A-022#88:1> In the winter, caribou herds migrate from the Arctic into the
+
+northern forest. </p>
+<ICE-CAN:W2A-022#89:1> <h> <bold> Polar Climate </bold> </h>
+
+<p> <ICE-CAN:W2A-022#90:1> The cold nature of the North has shaped the vegetation, soils,
+
+and biologi <l> cal life found in Arctic and Subarctic.
+<ICE-CAN:W2A-022#91:1> This cold environment - the polar climate - results primarily from
+
+low receipts of solar energy.
+<ICE-CAN:W2A-022#92:1> It is this limited solar energy entering the northern hemisphere
+
+which creates the two types of polar climate: the arctic and the subarctic.
+
+</p>
+
+<p> <ICE-CAN:W2A-022#93:1> Polar climates lie in high latitudes.
+<ICE-CAN:W2A-022#94:1> They are characterized by low levels of solar energy and
+
+precipitation.
+<ICE-CAN:W2A-022#95:1> On average, the earth's poles receive 40% less radiation than the
+
+equator ( Lawford 1988: 144).
+<ICE-CAN:W2A-022#96:1> At the Arctic Circle, solar radiation is reduced to zero for one day
+
+and, at higher latitudes, for longer periods of times, reaching six months at
+
+the North Pole.
+<ICE-CAN:W2A-022#97:1> Such low levels of radiation result in continuous cooling of the land
+
+and the build-up of masses of frigid arctic air which are associated with
+
+daily high temperatures of - 40&degree;C or lower.
+<ICE-CAN:W2A-022#98:1> These frigid arctic air masses often surge southwards, causing
+
+blizzard conditions in the Canadian Prai <l> ries, subzero temperatures in
+
+eastern Canada and freezing temperatures in the southern United States.
+<ICE-CAN:W2A-022#99:1> In the spring, solar radiation increases but, because of the
+
+reflective snow-cover, much of its effect is lost, with up to 80% of the
+
+solar radiation being reflected.
+<ICE-CAN:W2A-022#100:1> Until the snow cover melts, the breaking of winter's grip is slowed.
+<ICE-CAN:W2A-022#101:1> Once the snow is gone, temperatures recover rapidly and the ensuing
+
+warm weather quickly melts the ice from lakes, rivers, and the sea coast.
+<ICE-CAN:W2A-022#102:1> By early July, sea ice has disappeared from Hudson Bay and, a few
+
+weeks later, from along the edge of the arctic sea coast.
+<ICE-CAN:W2A-022#103:1> Polar Pack Ice, of course, continues to occupy most of the Arctic
+
+Ocean.
+<ICE-CAN:W2A-022#104:1> During the short summer, massive amounts of solar radiation reach
+
+the northern lands and waters.
+<ICE-CAN:W2A-022#105:1> With long daylight hours, the landscape warms and plants quickly
+
+appear and flower.
+<ICE-CAN:W2A-022#106:1> Daily summer temperatures in the Mackenzie Valley and southern Yukon
+
+can reach into the low 30&degree;C.
+<ICE-CAN:W2A-022#107:1> By September, however, cooling begins and winter soon regains its
+
+grip on the polar lands and waters. </p>
+
+<p> <ICE-CAN:W2A-022#108:1> The seasonal pattern of air temperatures is illustrated in
+
+Figure 2.3.
+<ICE-CAN:W2A-022#109:1> The winter regime is shown by the mean daily temperature for
+
+January, demonstrating its cold continental nature.
+<ICE-CAN:W2A-022#110:1> The coldest January tempera <l> tures are found in two places - the
+
+north end of Ellesmere and Axel Heiberg islands and just south of Boothia
+
+Peninsula.
+<ICE-CAN:W2A-022#111:1> On the other hand, the mean daily temperature for July demonstrates
+
+both the warming effect of the northern land mass and the cooling effect of
+
+the Arctic Ocean ( both open water and permanent ice pack), Hudson Bay, and
+
+the Labrador Current.
+<ICE-CAN:W2A-022#112:1> There is a marked northwest to southeast trend in the July isotherms
+
+with a warm 'corridor' extending down the Mackenzie Valley. </p>
+
+<p> <ICE-CAN:W2A-022#113:1> Precipitation in the North is generally light with the least
+
+amount falling in the Arctic ( Figure 2.4).
+<ICE-CAN:W2A-022#114:1> The main reasons are the inability of cold air to absorb moisture
+
+and the existence of ice on northern lakes, Hudson Bay, and the Arctic Ocean
+
+for much of the year.
+<ICE-CAN:W2A-022#115:1> For these reasons, it is not surprising that the lowest annual
+
+precipitation occurs in the ice-locked islands situated in the Arctic
+
+Archipelago.
+<ICE-CAN:W2A-022#116:1> Victoria Island, for example, has such scant rain and snowfall (
+
+often less than 140 mm annually) that it is described as an 'arctic desert'.
+<ICE-CAN:W2A-022#117:1> Resolute Bay, which is located just 16&degree; south of the North
+
+Pole, receives less than 140 mm per year. <O> Map </O> <O> Map Caption </O>
+<ICE-CAN:W2A-022#118:1> Further south, at the northern edge of the Subarctic, precipitation
+
+is heavier.
+<ICE-CAN:W2A-022#119:1> At Yellowknife, the annual precipitation is around 250 mm.
+<ICE-CAN:W2A-022#120:1> The Subarctic, on the other hand, generally receives more
+
+precipitation, usually over 300 mm annually.
+<ICE-CAN:W2A-022#121:1> Precipitation does vary, however.
+<ICE-CAN:W2A-022#122:1> A few areas do receive much greater precipitation.
+<ICE-CAN:W2A-022#123:1> The greatest amount of precipitation occurs in the Cordillera and
+
+along the Atlantic coast.
+<ICE-CAN:W2A-022#124:1> In these two areas, the high terrain results in orographic
+
+precipitation ( rain or snow caused when warm, moisture-laden air is forced
+
+to rise over hills or mountains and is cooled in the process).
+<ICE-CAN:W2A-022#125:1> The south coast of Baffin Island receives around 400 mm annually
+
+while the figures for the southern coast of Labrador and the mid-North of
+
+Quebec exceed 800 mm.
+<ICE-CAN:W2A-022#126:1> Most precipitation falls as snow.
+<ICE-CAN:W2A-022#127:1> In the spring, rivers and streams are swollen by melting snow and
+
+ice.
+<ICE-CAN:W2A-022#128:1> Some communities along the Mackenizie River are subject to spring
+
+flooding.
+<ICE-CAN:W2A-022#129:1> Fort Simpson, situated on an island at the confluence of the Liard
+
+and Mackenzie Rivers, has been inundated a number of times, and Aklavik,
+
+located in the delta of the Mackenzie River, is threatened by spring flood
+
+waters almost every year. <O> Map </O> <O> Map Caption </O>
+<ICE-CAN:W2A-022#130:1> The occurrence of spring flooding at Aklavik is so regular that, in
+
+the late 1950s, the federal government decided to create the new town of
+
+Inuvik rather than expand the commu <l> nity of Aklavik. </p>
+
+<p> <ICE-CAN:W2A-022#131:1> In addition to the Arctic and Subarctic climatic types, most
+
+climatic maps also depict a Cordillera climate, a composite of several
+
+climates.
+<ICE-CAN:W2A-022#132:1> In this text, the mountainous area of northern British Columbia,
+
+Yukon, and Northwest Territories is treated as part of the Subarctic.
+<ICE-CAN:W2A-022#133:1> Elevation and topography have important roles in determining the
+
+nature of the Cordillera climate.
+<ICE-CAN:W2A-022#134:1> Another climatic type found in the North, the Ice Cap climate, is
+
+associated with large glaciers, ice caps, and icefields, and has a mean
+
+temperature below freezing for all months. <O> Table 2.1 </O> <O> Table 2.1
+
+Caption <O>
+<ICE-CAN:W2A-022#135:1> Figure 2.1 shows the distribution of arctic and subarctic climate
+
+types. </p> </I>

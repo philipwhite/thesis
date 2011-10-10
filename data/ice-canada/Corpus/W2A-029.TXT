@@ -1,0 +1,431 @@
+<I>
+<ICE-CAN:W2A-029#1:1> <h> <bold> Comparative arboreal behaviors of wild-caught and
+
+captive-born deer mice, <foreign> <it> Peromyscus maniculatus </it>
+
+</foreign> Wagner, from Isle Haute and mainland Nova Scotia </bold> </h>
+<ICE-CAN:W2A-029#2:1> <h> M. D. PULSIFER <sp> 1 </sp> <footnote> 1 Present address: Nova
+
+Scotia Department of Lands and Forests, Antigonish, N.S., Canada B2G 1R6.
+
+</footnote> AND T. B. HERMAN <sp> 2 </sp> <footnote> Author to whom requests
+
+for reprints should be addressed. </footnote> </h>
+<ICE-CAN:W2A-029#3:1> <h> <it> Biology Department, Acadia University, Wolfville, N. S. ,
+
+Canada B0P 1X0 </it> </h>
+<ICE-CAN:W2A-029#4:1> <h> Received May 6, 1988 </h>
+<ICE-CAN:W2A-029#5:1> <h> PULSIFER, M. D., et HERMAN, T. B. 1989.
+<ICE-CAN:W2A-029#6:1> Comparative arboreal behaviors of wild-caught and captive-born deer
+
+mice, <foreign> <it> Peromyscus maniculatus </it> </foreign> Wagner, from
+
+Isle Haute and mainland Nova Scotia.
+<ICE-CAN:W2A-029#7:1> Can. J. Zool. <bold> 67 </bold> : 789 - 794. </h>
+
+<p> <ICE-CAN:W2A-029#8:1> Locomotor, climbing, and nesting behaviors of wild-caught and
+
+captive-born deer mice ( <foreign> <it> Peromyscus maniculatus </it>
+
+</foreign> Wagner) from mainland Nova Scotia and from an isolated predator-
+
+and competitor-free island were compared in a laboratory observa <l> tion
+
+room.
+<ICE-CAN:W2A-029#9:1> Locomotor activity did not differ consistently between populations,
+
+but wall-seeking was significantly greater in mainland mice.
+<ICE-CAN:W2A-029#10:1> When exposed to an artificial tree, insular mice made more climbs
+
+than mainland mice, but mainland mice climbed for longer periods.
+<ICE-CAN:W2A-029#11:1> Climbing behavior differed little between males and females in any
+
+group.
+<ICE-CAN:W2A-029#12:1> In a choice experiment, mainland mice selected elevated nest sites
+
+significantly more often than ground-level nest sites, while insular mice
+
+exhibited no preference. </p> <O> French Abstract </O>
+<ICE-CAN:W2A-029#13:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-029#14:1> The deer mouse <foreign> <it> Peromyscus maniculatus </it>
+
+</foreign> occurs throughout North America in a variety of habitats.
+<ICE-CAN:W2A-029#15:1> The species is morpho <l> logically and behaviorally diverse, with
+
+some of the most divergent forms occurring on islands.
+<ICE-CAN:W2A-029#16:1> The behavioral reper <l> toire of <foreign> <it> Peromyscus </it>
+
+</foreign> is well documented ( Eisenberg 1968) and numerous interspecific
+
+comparisons exist ( Horner 1954; King <it> et al </it> . 1968; Layne 1969;
+
+Layne and Ehrhart 1970; Wolff <it> et al </it> . 1983; Wolff 1985; Wolff and
+
+Durr 1986), but only a few behavioral studies ( Sullivan 1977; Halpin and
+
+Sullivan 1978; Halpin 1981) have compared adjacent insular and mainland
+
+conspecific populations. </p>
+
+<p> <ICE-CAN:W2A-029#17:1> In the laboratory, we compared activity and climbing behavior,
+
+including nest height preference, in <foreign> <it> P. maniculatus </it>
+
+</foreign> from Isle Haute in the Bay of Fundy and from adjacent main <l>
+
+land Nova Scotia.
+<ICE-CAN:W2A-029#18:1> Several <foreign> <it> Peromyscus </it> </foreign> species, including
+
+<foreign> <it> P. maniculatus </it> </foreign> , appear morphologically and
+
+behaviorally adapted to a semiarboreal existence ( Horner 1954; Taylor and
+
+McCarley 1963; King <it> et al </it> . 1968; Klein and Layne 1978; Tadlock
+
+and Klein 1979; Dewsbury <it> et al </it> . 1980; Newton <it> et al </it> .
+
+1980; Stah 1980; Harney 1983).
+<ICE-CAN:W2A-029#19:1> These adaptations are usually related to habitat structure ( Meserve
+
+1976) or to selective pres <l> sures from ground-dwelling predators ( Foster
+
+1965) or com <l> petitors ( M'Closkey 1976; Holbrook 1978, 1979; Newton <it>
+
+et al </it> . 1980; Harney 1983).
+<ICE-CAN:W2A-029#20:1> Since habitats of the mainland and island populations in our study
+
+were structurally similar, differences in arboreality or locomotor behavior
+
+between the two groups would likely reflect differences in predation or
+
+interspecific competition, or random change, between the two locations. </p>
+
+<p> <ICE-CAN:W2A-029#21:1> In general, behavioral differences between island and main <l>
+
+land populations could reflect genetic differences ( selection pressures,
+
+origin, or drift) or differences in experience.
+<ICE-CAN:W2A-029#22:1> To separate the evolutionary and genetic components of these
+
+behaviors, we compared the behavior of wild-caught and captive-born mice from
+
+the two populations.
+<ICE-CAN:W2A-029#23:1> We predicted that island mice, relative to mainland mice, would be (
+
+<it> i </it> ) more active and less evasive of open space, ( <it> ii </it> )
+
+less arboreal, and ( <it> iii </it> ) less likely to construct aboveground
+
+nests. </p>
+<ICE-CAN:W2A-029#24:1> <h> <bold> Materials and methods </bold> </h>
+
+<p> <ICE-CAN:W2A-029#25:1> Deer mice were collected from Isle Haute, an isolated island
+
+plateau in the upper Bay of Fundy ( 45&degree;15'N, 65&degree;00'W), and on
+
+the mainland in Cumberland and Colchester counties, Nova Scotia (
+
+45&degree;20' - 45&degree;50'N, 63&degree;50' - 64&degree;55'W).
+<ICE-CAN:W2A-029#26:1> Isle Haute is similar topo <l> graphically and vegetatively to the
+
+mainland study areas ( Rowe 1972), but lacks the mainland complement of
+
+terrestrial quadrupedal predators and interspecific competitors.
+<ICE-CAN:W2A-029#27:1> In fact, <foreign> <it> P. maniculatus </it> </fpreign> is the only
+
+terrestrial mammal resident on the island.
+<ICE-CAN:W2A-029#28:1> Extensive divergence in cranial morphometry between Isle Haute and
+
+mainland populations indicates long-term isolation of the island populations
+
+( Colquohoun 1983). </p>
+
+<p> <ICE-CAN:W2A-029#29:1> The laboratory colony of <foreign> <it> P. maniculatus </it>
+
+</foreign> at Acadia University included wild-caught and first-generation
+
+captive-born mice from both study areas.
+<ICE-CAN:W2A-029#30:1> The colony was established in 1980 and until 1984 was supplemented
+
+annually with wild-caught mice.
+<ICE-CAN:W2A-029#31:1> Few litters were conceived in the laboratory.
+<ICE-CAN:W2A-029#32:1> Rather, females that were pregnant when captured bore their young in
+
+captivity. </p>
+
+<p> <ICE-CAN:W2A-029#33:1> Mice were housed in male-female pairs in 28 x 17 x 13 cm poly <l>
+
+styrene cages with stainless steel lids.
+<ICE-CAN:W2A-029#34:1> Cage floors were covered with wood shavings, and nonabsorbent cotton
+
+was supplied for nesting material.
+<ICE-CAN:W2A-029#35:1> Laboratory chow, sunflower seeds, and water were pro <l> vided
+
+<foreign> <it> ad libitum </it> </foreign> .
+<ICE-CAN:W2A-029#36:1> Cages were kept in a vivarium at 17&degree;C with photo-period set at
+
+16L:8D. </p>
+
+<p> <ICE-CAN:W2A-029#37:1> Two sets of experiments, climbing trials and nest height
+
+selection, were conducted within an indoor observation room measuring 2.8 x
+
+1.6 x 2.4 m. <O> graph </O> <O> graph caption </O>
+<ICE-CAN:W2A-029#38:1> The observation room floor was gridded into 28 ( 4 x 7) 40-cm squares
+
+and was lightly covered with moistened leaves or wood shavings.
+<ICE-CAN:W2A-029#39:1> Individuals were observed through a 58 x 44 cm window of one-way
+
+glass.
+<ICE-CAN:W2A-029#40:1> The observation area was illuminated by three 40-W incandescent red
+
+lights.
+<ICE-CAN:W2A-029#41:1> During each trial, fresh water and sunflower seeds were provided
+
+<foreign> <it> ad libitum </it> </foreign> .
+<ICE-CAN:W2A-029#42:1> After each trial, the observation room and furnishings were cleaned
+
+with soap and hot water ( 70&degree;C) before new litter was applied to the
+
+floor. </p>
+
+<p> <ICE-CAN:W2A-029#43:1> In each group ( i.e., Isle Haute wild-caught and captive-born,
+
+main <l> land wild-caught and captive-born), adult mice were randomly chosen
+
+for both experiments from a pool in which most males were nonscrotal and
+
+females were not pregnant or lactating.
+<ICE-CAN:W2A-029#44:1> In each experi <l> ment mice were used only once; however, most mice
+
+were used for both experiments. </p>
+
+<p> <ICE-CAN:W2A-029#45:1> Climbing trials were conducted at least 2 h after " sunset" and
+
+not later than 2 h before " sunrise."
+<ICE-CAN:W2A-029#46:1> An expanding wooden clothes rack was placed in the center of the
+
+observation area to serve as a climbing structure ( Fig. 1).
+<ICE-CAN:W2A-029#47:1> This " tree" ( 64 x 50 x 100 cm, outside dimen <l> sions) consisted
+
+of a series of horizontal and diagonal rungs that progressed vertically.
+<ICE-CAN:W2A-029#48:1> Horizontals occurred at levels 25, 47, 73, and 100 cm above the
+
+floor.
+<ICE-CAN:W2A-029#49:1> The tree was sealed with Varathane <sp> ( R) </sp> , a waterproof
+
+preservative, for ease of cleaning.
+<ICE-CAN:W2A-029#50:1> Mice were placed singly inside the observation room and were observed
+
+for 30 min ( three consecutive 10-min periods).
+<ICE-CAN:W2A-029#51:1> Total ground locomotor activity, i.e., number of squares travelled
+
+per unit time ( ACT ) , number of climbing encounters, i.e., all physical
+
+contacts with the tree that resulted in a climb ( CLIMB ) , total climbing
+
+time ( seconds) on tree ( TIME ) , and number of nonclimbing encounters,
+
+i.e., olfactory encounters or physical contacts not resulting in a climb (
+
+NCLIMB) were recorded on audio tape and later transcribed.
+<ICE-CAN:W2A-029#52:1> Total number of encounters ( ENCT = CLIMB + NCLIMB), climbing time
+
+per climbing encounter ( T / CLIMB), ratio of climbing encounters to
+
+nonclimbing encounters ( CLRAT ) , and thigmotaxis or wall-seeking tendency (
+
+WSEEK = ACT / ENCT ) were then calculated. </p>
+
+<p> <ICE-CAN:W2A-029#53:1> For the nest height selection experiment, three equally spaced
+
+nest boxes were set on a raised platform ( 135 x 14 x 2 cm) located in the
+
+tree 90 cm above the floor.
+<ICE-CAN:W2A-029#54:1> Three additional nest boxes were placed on the floor directly below
+
+the elevated nest sites, with a seventh box placed away from the tree in the
+
+middle of the floor.
+<ICE-CAN:W2A-029#55:1> The modified tree was placed at one end of the observation room
+
+opposite the food and water ( Fig. 2). </p>
+
+<p> <ICE-CAN:W2A-029#56:1> Nest boxes were constructed from 13-mm plywood and measured 10 x
+
+10 x 10 cm inside, with a removable lid and a 2.5-cm entrance-exit hole in a
+
+lower right quadrant of one of the sides. <O> graph </O> <O> graph caption
+
+</O>
+<ICE-CAN:W2A-029#57:1> The platform and all nest boxes were sealed with Varathane <sp> ( R)
+
+</sp> .
+<ICE-CAN:W2A-029#58:1> Before each trial, all nest boxes contained an equal amount of fresh
+
+nonabsorbent cotton for bedding. </p>
+
+<p> <ICE-CAN:W2A-029#59:1> To reduce the chances of deer mice selecting specific nest boxes
+
+because of cues other than nest location, the seven nest boxes for each trial
+
+were randomly chosen from a pool of nine and were randomly positioned on the
+
+tree. </p>
+
+<p> <ICE-CAN:W2A-029#60:1> Mice were chosen randomly and placed singly inside the observa
+
+<l> tion room approximately 2 h before " sunrise" and left for 6 - 8 hours.
+<ICE-CAN:W2A-029#61:1> Each nest box was then examined for disturbance and presence or
+
+absence of a nest and ( or) mouse.
+<ICE-CAN:W2A-029#62:1> All materials, including the tree, were thoroughly cleaned before the
+
+next trial. </p>
+
+<p> <ICE-CAN:W2A-029#63:1> Results were analyzed nonparametrically.
+<ICE-CAN:W2A-029#64:1> Spearman rank order correlations between each behavioral variable and
+
+the number of days in captivity were computed to test for the effects of
+
+prolonged cap <l> tivity on behavior.
+<ICE-CAN:W2A-029#65:1> Friedman two-way analysis of variance ( 10-min blocks) was used to
+
+detect any changes in behavior over the 30-min period.
+<ICE-CAN:W2A-029#66:1> Nesting preferences were analyzed with single classification goodness
+
+of fit tests ( Sokal and Rohlf 1969).
+<ICE-CAN:W2A-029#67:1> All other comparisons within and between groups were made with
+
+Mann-Whitney <it> U </it> - tests. </p>
+<ICE-CAN:W2A-029#68:1> <h> <bold> Results </bold> </h>
+<ICE-CAN:W2A-029#69:1> <h> <it> Climbing trials </it> </h>
+
+<p> <ICE-CAN:W2A-029#70:1> One hundred and four ( with 21 mainland wild-caught, 32 island
+
+wild-caught, 32 mainland captive-born, and 19 island captive-born mice)
+
+30-min climbing trials were performed.
+<ICE-CAN:W2A-029#71:1> Although the median number of captive days for wild-caught mice was
+
+significantly greater in island ( <it> M </it> = 59.5) than in mainland (
+
+<it> M </it> = 24.5) groups ( <it> U </it> = 230, <it> p </it> = 0.04), the
+
+fre <l> quency distributions of time in captivity were similar for both areas
+
+( <it> G </it> = 1.56, <it> p </it> &gt; 0.1).
+<ICE-CAN:W2A-029#72:1> Total number of tree encounters ( ENCT ) , total climbing time ( TIME )
+
+, wall-seeking tendency ( WSEEK ) , and climbing time per climbing encounter
+
+( T / CLIMB ) were not significantly affected by prolonged captivity in mice
+
+from either location.
+<ICE-CAN:W2A-029#73:1> Ground locomotor activity ( ACT ) , ratio of climbing encounters to
+
+nonclimbing encounters ( CLRAT ) , and total number of climbing encounters (
+
+CLIMB ) decreased signifi <l> cantly with extended captivity in the island
+
+population.
+<ICE-CAN:W2A-029#74:1> In mainland wild-caught deer mice, only the number of non-climbing
+
+encounters ( NCLIMB ) decreased significantly over a 270-day period ( Table
+
+1).
+<ICE-CAN:W2A-029#75:1> With the exception of nonclimbing encounters ( Table 2), no
+
+significant differences between sexes were found within groups. </p>
+
+<p> <ICE-CAN:W2A-029#76:1> Both wild-caught and captive-born deer mice from Isle Haute
+
+encountered and climbed the tree significantly more often than did their
+
+mainland counterparts.
+<ICE-CAN:W2A-029#77:1> However, both mainland groups spent significantly more time on the
+
+tree per climbing encounter ( Table 2).
+<ICE-CAN:W2A-029#78:1> Ground locomotor activity did not differ in the two wild-caught
+
+groups, but in captive-born groups it was significantly higher in island mice
+
+than in main <l> land mice ( Table 2).
+<ICE-CAN:W2A-029#79:1> As well, mainland groups engaged in wall-seeking behavior
+
+significantly more than did island groups ( Table 2).
+<ICE-CAN:W2A-029#80:1> The number of nonclimbing encounters was significantly higher in Isle
+
+Haute mice ( males and females) than in mainland males, but not females (
+
+Table 2).
+<ICE-CAN:W2A-029#81:1> Total climbing time and the ratio of climbing to nonclimbing
+
+encounters were similar in island and mainland wild-caught groups. </p>
+
+<p> <ICE-CAN:W2A-029#82:1> In Isle Haute mice, ground locomotor activity and number of
+
+nonclimbing tree encounters were significantly greater in captive-born than
+
+in wild-caught animals ( Table 3).
+<ICE-CAN:W2A-029#83:1> The num <l> ber of climbing encounters and the ratio of climbing to
+
+non-climbing encounters were significantly greater in wild-caught mice.
+<ICE-CAN:W2A-029#84:1> However, total climbing time and climbing time per climbing encounter
+
+did not differ significantly between these groups.
+<ICE-CAN:W2A-029#85:1> The tendency to seek the wall was also similar in the two groups (
+
+Table 3). </p>
+
+<p> <ICE-CAN:W2A-029#86:1> In mainland deer mice as well, the number of climbs and ratio of
+
+climbing to nonclimbing encounters were significantly greater in wild-caught
+
+than in captive-born animals, but the time per climb was significantly less (
+
+Table 3). </p>
+
+<p> <ICE-CAN:W2A-029#87:1> Although the pattern of change in behaviors during the 30-min
+
+trials varied slightly, for most behaviors it was similar in mice from both
+
+locations ( Table 4).
+<ICE-CAN:W2A-029#88:1> Birthplace had less effect on the pattern of responses of mainland
+
+deer mice dur <l> ing the 30-min trial than on the pattern in island deer
+
+mice.
+<ICE-CAN:W2A-029#89:1> Although wall-seeking tendency remained constant, ground locomotor
+
+activity decreased significantly for all groups dur <l> ing the 30-min trial.
+<ICE-CAN:W2A-029#90:1> Total number of encounters and total non-climbing encounters
+
+decreased significantly during the trials in all wild-caught groups.
+<ICE-CAN:W2A-029#91:1> In captive-born groups total number of encounters decreased in island
+
+animals but not in mainland animals; nonclimbing encounters decreased in
+
+mainland ani <l> mals and island females but not island males.
+<ICE-CAN:W2A-029#92:1> Total climbing encounters and the ratio of climbing to nonclimbing
+
+encoun <l> ters remained constant within all groups except wild-caught island
+
+mice, which experienced significant decreases in both of these behaviors.
+<ICE-CAN:W2A-029#93:1> Total climbing time increased significantly in wild-caught island and
+
+captive-born mainland mice.
+<ICE-CAN:W2A-029#94:1> As well, climbing time per climbing encounter increased in all groups
+
+except captive-born island mice ( Table 4). </p>
+<ICE-CAN:W2A-029#95:1> <h> <it> Nest height selection </it> </h>
+
+<p> <ICE-CAN:W2A-029#96:1> One hundred and thirty-nine wild-caught ( 19 mainland, 34 Isle
+
+Haute) and captive-born ( 56 mainland, 30 Isle Haute) adult deer mice were
+
+tested for preference for elevated or ground-level nest sites.
+<ICE-CAN:W2A-029#97:1> In every trial all nest boxes were explored, as evidenced by soiled
+
+or disturbed cotton. </p> </I>

@@ -1,0 +1,406 @@
+<I>
+<ICE-CAN:W2A-015#1:1> <h> Introduction </h>
+<ICE-CAN:W2A-015#2:1> <h> SOCIOLOGY: ITS SCOPE AND CENTRAL CONCERNS </h>
+
+<p> <ICE-CAN:W2A-015#3:1> If one were to ask the majority of sociologists to define the
+
+scope and substance of sociology in a few sentences, they most likely would
+
+reply in something like the following terms. <X> <quote>
+<ICE-CAN:W2A-015#X4:1> Sociology is a social science devoted to the study of human groups of
+
+all kinds and all sizes.
+<ICE-CAN:W2A-015#X5:1> A group may be defined as two or more interacting individuals.
+<ICE-CAN:W2A-015#X6:1> The interaction of individuals gives rise to a variety of social
+
+relations and social processes such as cooperation, competition, conflict,
+
+and domination.
+<ICE-CAN:W2A-015#X7:1> The full range of human behavior and relations is the subject matter
+
+of sociology. </p>
+
+<p> <ICE-CAN:W2A-015#X8:1> We call sociology a <it> science </it> because our main
+
+intellectual aim is to comprehend and explain the workings of the social
+
+world.
+<ICE-CAN:W2A-015#X9:1> Like all sciences, sociology pursues truth and knowledge by employing
+
+methods of inquiry based on logic and evidence and by subjecting theories and
+
+findings to an ongoing critical examination. </p> </quote> </X>
+
+<p> <ICE-CAN:W2A-015#10:1> However, the statement we have placed in the mouths of our
+
+colleagues tends to exaggerate their unity of outlook.
+<ICE-CAN:W2A-015#11:1> The differences among sociologists are often as significant as their
+
+common ground.
+<ICE-CAN:W2A-015#12:1> Some sociologists imitate the methods of the natural sciences and see
+
+themselves working in close parallel with physicists and chemists; other
+
+sociologists believe they share the aims of novelists and poets.
+<ICE-CAN:W2A-015#13:1> Between those extremes there is a wide range of research methods,
+
+techniques, ideas, and just plain notions.
+<ICE-CAN:W2A-015#14:1> Nevertheless, the several different sociologies do have something in
+
+common that may be called the sociological <it> perspective </it> or <it>
+
+approach </it> . </p>
+
+<p> <ICE-CAN:W2A-015#15:1> The essentials of the sociological approach are best conveyed by
+
+introducing the student to the pioneers of sociological theory and analysis
+
+who wrote in the late nineteenth and early twentieth centuries.
+<ICE-CAN:W2A-015#16:1> Their works are now regarded as the classic tradition of sociological
+
+thinking because they have stood the test of time.
+<ICE-CAN:W2A-015#17:1> We refer to these writings again and again; we rely on <w> pioneers'
+
+</w> theoretical ideas; we employ their concepts; we continue to investigate
+
+questions they raised; and, finally, we emulate their intellectual
+
+craftsmanship.
+<ICE-CAN:W2A-015#18:1> In a word, the classic tradition provides the theoretical foundations
+
+of the sociological perspective. </p>
+
+<p> <ICE-CAN:W2A-015#19:1> In this introduction we cannot fully convey the intellectual
+
+riches of that tradition, nor can we dwell on the specific works and ideas of
+
+the thinkers who contributed to it.
+<ICE-CAN:W2A-015#20:1> Those are among the tasks of this book as a whole.
+<ICE-CAN:W2A-015#21:1> All we can do here is to provide a general idea of the tradition's
+
+significance. </p>
+
+<p> <ICE-CAN:W2A-015#22:1> Not all sociologists would agree on the thinkers to be included
+
+in the classic tradition.
+<ICE-CAN:W2A-015#23:1> Some of our colleagues would have longer lists than others.
+<ICE-CAN:W2A-015#24:1> However, most lists would have to include at least three of the
+
+masters who receive detailed consideration in this book: Emile Durkheim, Karl
+
+Marx, and Max Weber.
+<ICE-CAN:W2A-015#25:1> Although the names of these men are not likely to mean anything to
+
+the beginning student, we mention them here and post <l> pone introducing
+
+them until the appropriate contexts in the follow <l> ing chapters. </p>
+
+<p> <ICE-CAN:W2A-015#26:1> The founders of the discipline which we today call sociology did
+
+not necessarily look upon themselves as professional sociologists.
+<ICE-CAN:W2A-015#27:1> One finds in their writings an exploration of the full scope of the
+
+human condition.
+<ICE-CAN:W2A-015#28:1> They freely availed themselves of the intellectual resources of
+
+anthro <l> pology, psychology, history, economics, and philosophy.
+<ICE-CAN:W2A-015#29:1> Today those fields of study are distinct academic disciplines with
+
+jealously guarded borders.
+<ICE-CAN:W2A-015#30:1> But for the classical sociological thinkers, academic boundaries were
+
+either nonexistent or quite fluid.
+<ICE-CAN:W2A-015#31:1> They were more interested in addressing significant questions than in
+
+remaining faithful to this or that academic area. </p>
+
+<p> <ICE-CAN:W2A-015#32:1> It is therefore in the spirit of the classical tradition that
+
+sociology is conceived of and introduced in this book.
+<ICE-CAN:W2A-015#33:1> Following in the footsteps of the pioneering masters, we shall try to
+
+focus attention on key questions.
+<ICE-CAN:W2A-015#34:1> In the remainder of this introduction, we merely raise some of those
+
+questions in the hope that the student will agree on their importance and
+
+look forward to addressing them. </p>
+<ICE-CAN:W2A-015#35:1> <h> QUESTIONS ADDRESSED SOCIOLOGICALLY IN THIS BOOK </h>
+
+<p> <ICE-CAN:W2A-015#36:1> What are the similarities and differences between humans and
+
+other living creatures?
+<ICE-CAN:W2A-015#37:1> It is true that human beings share many physiological characteristics
+
+with some other members of the animal kingdom.
+<ICE-CAN:W2A-015#38:1> But is it not also true that the human possesses something more than
+
+they do?
+<ICE-CAN:W2A-015#39:1> What does that <quote> " more" </quote> consist of? </p>
+
+<p> <ICE-CAN:W2A-015#40:1> A related issue is the nature of human nature.
+<ICE-CAN:W2A-015#41:1> Is the human being driven by instincts, by internal, genetically
+
+determined biopsychic forces?
+<ICE-CAN:W2A-015#42:1> Are humans innately aggressive, as Konrad Lorenz and other
+
+prestigious students of animal behavior have alleged?
+<ICE-CAN:W2A-015#43:1> Or to take an opposing but equally influential view, are humans
+
+wholly determined by external, environmental factors?
+<ICE-CAN:W2A-015#44:1> The psychologist B. F. Skinner, for example, has claimed that human
+
+beings are passive entities totally shaped by external stimuli.
+<ICE-CAN:W2A-015#45:1> For Skinner and his followers, <quote> " autonomy," </quote> <quote>
+
+" will," </quote> <quote> " mind," </quote> <quote> " self," </quote> and
+
+other forms of consciousness are just so many illusions.
+<ICE-CAN:W2A-015#46:1> Finally, there is the question raised anew in recent years by
+
+sociobiologists: How do the principles of human social organization compare
+
+with those on which animal societies are based? </p>
+
+<p> <ICE-CAN:W2A-015#47:1> As one shifts attention to large human organizations and
+
+societies, new theoretical problems emerge.
+<ICE-CAN:W2A-015#48:1> How does a society establish and maintain order; that is, ensure a
+
+measure of internal peace that will enable its members to attend to their
+
+vital affairs?
+<ICE-CAN:W2A-015#49:1> What is the connection between order and justice?
+<ICE-CAN:W2A-015#50:1> That question was skillfully explored by the renowned French
+
+sociologist Emile Durkheim, who noted that modern industrial society is
+
+largely based on formal contractual relations.
+<ICE-CAN:W2A-015#51:1> Contracts are often made between social unequals, where one party
+
+dominates and the other has no choice but to serve or to suffer worse
+
+consequences.
+<ICE-CAN:W2A-015#52:1> Durkheim's reply, as we shall see, raises the critical question of
+
+whether a social order resting on basic social inequalities can be stable.
+
+</p>
+
+<p> <ICE-CAN:W2A-015#53:1> However, the social theorist who raised that question most
+
+dramatically was Karl Marx, the well-known nineteenth-century writer whose
+
+ideas have had so much political influence in the present century.
+<ICE-CAN:W2A-015#54:1> Sociologists have increasingly recognized that Marx made significant
+
+contributions to sociological theory and analysis, especially for the study
+
+of social classes and social change.
+<ICE-CAN:W2A-015#55:1> Though Marx and Marxism are highly controversial subjects, we shall
+
+try to discuss his work objectively, with the aim of highlighting his
+
+sociological contributions. </p>
+
+<p> <ICE-CAN:W2A-015#56:1> <it> Social stratification </it> is the term sociologists employ
+
+to describe the study of inequalities based on wealth, power, prestige, and
+
+other social conditions.
+<ICE-CAN:W2A-015#57:1> Key questions are: How do basic social inequalities come about?
+<ICE-CAN:W2A-015#58:1> How are they perpetuated?
+<ICE-CAN:W2A-015#59:1> Are modern societies still structured along social-class lines?
+<ICE-CAN:W2A-015#60:1> Some sociologists favor a social-class type of analysis; others do
+
+not.
+<ICE-CAN:W2A-015#61:1> Some sociologists believe that basic social inequalities can be
+
+reduced and even eliminated.
+<ICE-CAN:W2A-015#62:1> Others insist on the necessity of social inequality, arguing that a
+
+society's social positions must be stratified and that the rights and duties
+
+associated with those positions must be unequal.
+<ICE-CAN:W2A-015#63:1> Similarly, some theorists hold that throughout history, from the dawn
+
+of civilization to the present, two classes of people have been evident: One
+
+that rules and another that is ruled.
+<ICE-CAN:W2A-015#64:1> That state of affairs has prevailed whether government has been
+
+despotic, aristocratic, democratic, or what have you.
+<ICE-CAN:W2A-015#65:1> Moreover, the division of society into rulers and ruled, those
+
+theorists maintain, is inevitable and bound to persist so long as there are
+
+human societies on earth.
+<ICE-CAN:W2A-015#66:1> We shall subject several such theories to close scrutiny.
+<ICE-CAN:W2A-015#67:1> We argue that inequalities can be reduced to a degree, although they
+
+are without doubt stubbornly persistent.
+<ICE-CAN:W2A-015#68:1> We also sketch some of the main changes that have taken place in the
+
+class structures of Canada and other societies, especially during the
+
+twentieth century, and outline some of the forces likely to cause more change
+
+in the near future. </p>
+
+<p> <ICE-CAN:W2A-015#69:1> One very clear manifestation of social inequality is the status
+
+of ethnic and racial minorities.
+<ICE-CAN:W2A-015#70:1> Ethnic and racial minorities the world over have continued to suffer
+
+from a variety of disabilities, including prejudice, discrimination,
+
+segregation, exploitation, and persecution.
+<ICE-CAN:W2A-015#71:1> The vastness of the subject constrains us to focus attention on
+
+minorities in Canada.
+<ICE-CAN:W2A-015#72:1> We demonstrate that race and ethnicity have roots that are more
+
+social than biological or purely cultural.
+<ICE-CAN:W2A-015#73:1> We show, moreover, that while most immigrant groups experience
+
+considerable upward mobility in Canada, certain groups, notably French and
+
+aboriginal Canadians, experience persistent inequality as conquered peoples.
+<ICE-CAN:W2A-015#74:1> Thus, we agree only in part with John Porter, one of the founding
+
+fathers of Canadian sociology, who saw Canada as a country of fewer mobility
+
+opportunities. </p>
+
+<p> <ICE-CAN:W2A-015#75:1> <it> Social institutions </it> have been central to the concerns
+
+of sociology from its very inception.
+<ICE-CAN:W2A-015#76:1> In the language of sociology, an institution is a firmly established
+
+social practice together with its accompanying form of organization.
+<ICE-CAN:W2A-015#77:1> Examples of major institutions are the family and religion.
+<ICE-CAN:W2A-015#78:1> In our discussion of the family, we shall concern ourselves mainly
+
+with the question of whether the family is in a state of decline.
+<ICE-CAN:W2A-015#79:1> We demonstrate that nuclear families ( composed of a married man and
+
+woman living with children) are becoming less common all the time and now
+
+comprise only a fifth of Canadian households.
+<ICE-CAN:W2A-015#80:1> We examine a variety of factors that help account for the
+
+proliferation of family forms: the increased participation of women in the
+
+paid labor force, the increased use of various means of birth control, the
+
+increased acceptability of homosexuality, and so forth.
+<ICE-CAN:W2A-015#81:1> Paradoxically, we conclude that the family is not in a state of
+
+crisis; in our judgment the growth of various family forms yields increased
+
+freedom for family members. </p>
+
+<p> <ICE-CAN:W2A-015#82:1> In studying the institutions of religion, sociologists concern
+
+themselves with the connections between religious phenomena and other facets
+
+of social life.
+<ICE-CAN:W2A-015#83:1> What are the social roots of the idea of the divine?
+<ICE-CAN:W2A-015#84:1> Why is a belief in the divine found in all societies?
+<ICE-CAN:W2A-015#85:1> Why is the sacred everywhere sharply distinguished from the profane?
+<ICE-CAN:W2A-015#86:1> Is religion a positive phenomenon in that it meets certain basic
+
+social and individual needs?
+<ICE-CAN:W2A-015#87:1> Or is it injurious to humans, blinding them to reality and
+
+forestalling a rational understanding of their actual circumstances?
+<ICE-CAN:W2A-015#88:1> Is the influence of religion declining in modern society?
+<ICE-CAN:W2A-015#89:1> To shed light on those and other intriguing questions, we employ the
+
+classical writings of William James, Emile Durkheim, Bronislaw Malinowski,
+
+Sigmund Freud, Karl Marx, and Max Weber. </p>
+
+<p> <ICE-CAN:W2A-015#90:1> Besides institutions, another central concern of sociology is to
+
+understand social movements and other forms of collective behavior.
+<ICE-CAN:W2A-015#91:1> Why and how do some small groups become mass movements?
+<ICE-CAN:W2A-015#92:1> Throughout history we see evidence of concerted social action on the
+
+part of large numbers of people.
+<ICE-CAN:W2A-015#93:1> Religious, political, and other social movements appear again and
+
+again.
+<ICE-CAN:W2A-015#94:1> We analyze the rise of Naziism in Germany in the 1930s, and the
+
+growth of the <w> farmers' </w> and <w> workers' </w> movements in Canada in
+
+the twentieth century.
+<ICE-CAN:W2A-015#95:1> These case studies demonstrate how a variety of social factors -
+
+discontent, ideology, leadership, and power resources - shapes the success or
+
+failure of collective attempts to change society. </p>
+
+<p> <ICE-CAN:W2A-015#96:1> Another major area of sociological concern is deviant behavior or
+
+the question of why some people deviate from the norms ( rules, standards,
+
+and laws) of society.
+<ICE-CAN:W2A-015#97:1> Crime is an example of deviant behavior.
+<ICE-CAN:W2A-015#98:1> What makes a person become a criminal?
+<ICE-CAN:W2A-015#99:1> Traditional <it> nonsociological </it> replies to that question are
+
+that a criminal is an abnormal human being afflicted with some defect that
+
+accounts for his or her deviance or that a criminal is an atavism, a kind of
+
+throwback to an earlier evolutionary stage who possesses ferocious instincts.
+<ICE-CAN:W2A-015#100:1> This last view was in fact the doctrine promoted by a well-known
+
+nineteenth-century criminologist, C&eacute;sare Lombroso. </p>
+
+<p> <ICE-CAN:W2A-015#101:1> However, Lombroso's younger contemporary, Durkheim, had a quite
+
+different view of the matter.
+<ICE-CAN:W2A-015#102:1> In his pioneering sociological analysis, he put forth the
+
+proposition that deviance, like conformity, is firmly rooted in social
+
+conditions.
+<ICE-CAN:W2A-015#103:1> Building on the work of Durkheim, we address such matters as how an
+
+individual becomes a criminal, the nature of lower-class criminal
+
+subcultures, the higher incidence of certain types of law violations in the
+
+American ghettos and among aboriginal Canadians, white-collar and corporate
+
+crime, and, finally, the gender distribution of crime.
+<ICE-CAN:W2A-015#104:1> How do societies change?
+<ICE-CAN:W2A-015#105:1> What processes account for the transformation of society and
+
+culture?
+<ICE-CAN:W2A-015#106:1> Urbanization, for instance, had a beginning and can be traced to the
+
+ancient Near East.
+<ICE-CAN:W2A-015#107:1> On the site of biblical Jericho, archeologists have uncovered in the
+
+oldest strata the remains of a community dating back to the eighth millennium
+
+B.C.
+<ICE-CAN:W2A-015#108:1> Those strata appear to be evidence of the earliest human settlement
+
+on record.
+<ICE-CAN:W2A-015#109:1> Another of the earliest human settlements is Jarmo, located on the
+
+foothills running along the Tigris-Euphrates plain between Iraq and Iran.
+<ICE-CAN:W2A-015#110:1> Archeological methods ( carbon-14 tests) indicate that farming
+
+communities existed in that region by about 6750 B.C.
+<ICE-CAN:W2A-015#111:1> However, neither of those ancient settlements, though large and
+
+proto-urban in some respects, were true cities.
+<ICE-CAN:W2A-015#112:1> Rather, they were tangible evidence of the Neolithic Revolution,
+
+which prepared the way for genuine urbanization. </p> </I>

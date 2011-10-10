@@ -1,0 +1,472 @@
+<I> <h>
+<ICE-CAN:W1B-026#1:1> Dear Sirs: </h>
+
+<p> <ICE-CAN:W1B-026#2:1> This is a letter of support for the Centre of Innovation proposal
+
+of the Coll&egrave;ge de <@> Belleville </@> ( CEGEP), currently being
+
+submitted by <@> Nathalie P. Dion </@> . </p>
+
+<p> <ICE-CAN:W1B-026#3:1> The project proposed is unique in <w> its' </w> approach to the
+
+use of LAN & WAN linked computers for collegial education using the French
+
+language to foster: study skills, meta-cognition, French language skills, and
+
+mathematical problem definition skills, by peer interaction - as well as
+
+teacher guidance. </p>
+
+<p> <ICE-CAN:W1B-026#4:1> The project should be of appreciable benefit to the francophone
+
+educational community in Canada, and also to the wider educational community.
+<ICE-CAN:W1B-026#5:1> ( In particular Ms. <@> Dion </@> is currently pursuing doctoral
+
+studies at <@> Collegial </@> in this area, and is in touch with Mr. <@>
+
+Marcus Jasper </@> another doctoral student here who is using a MAC
+
+laboratory at <@> Lonsdale </@> University in <@> Lothersdale </@> for a
+
+related CSCL ( Computer Supported Collaborative Learning) project involving
+
+francophone students.
+<ICE-CAN:W1B-026#6:1> Also, my most recent doctoral graduate Dr. <@> Michelle Duval </@> of
+
+the <@> Universit&eacute; d'Ontario </@> did her work using CoSy computer
+
+conferencing to train financial counsellors at scattered branches of the
+
+Caisse Desjardins so that we have a base of recent research in CSCL to share
+
+with Ms. <@> Dion </@> and the Coll&egrave;ge de <@> Belleville </@> .
+<ICE-CAN:W1B-026#7:1> In short there is a network of support and diffusion ( which also of
+
+course will involve <@> Maurice LaFleur </@> 's CECM A.I.S. Centre) to ensure
+
+the transfer of educational benefits from this new <@> Belleville </@> Apple
+
+Centre for Innovation. </p>
+
+<p> <ICE-CAN:W1B-026#8:1> Although some interesting collaborative learning support software
+
+for Appletalk and WAN network use does exist ( such as <@> Gertrude Hall </@> 's
+
+REP GRIDS, and <@> Tremblay </@> 's TIMBUKTU) nothing made to order for the
+
+francophone collegial environment is yet available.
+<ICE-CAN:W1B-026#9:1> However, constructing suitable CSCL tools, possibly with the new
+
+version of Hypercard, should be well within the capabilities of the <@>
+
+Belleville </@> group. </p>
+
+<p> <ICE-CAN:W1B-026#10:1> The aspect of the work that I find to be theoretically most
+
+interesting relates to the collaborative, or even in a sense collective,
+
+learning of cohorts.
+<ICE-CAN:W1B-026#11:1> It is not merely that you learn what you are are well enough prepared
+
+to almost know already as <@> Dagneau </@> pointed out, but also that you
+
+learn what your cohort of peers almost already knows.
+<ICE-CAN:W1B-026#12:1> Collaborative learning in this sense is as much a psycho-social
+
+identity re-creation based motivational process as a cognitive one.
+<ICE-CAN:W1B-026#13:1> The work of Dr. <@> Ellen Harvey </@> at OISE with transformative
+
+adult learning through computer mediated conferencing is perhaps most
+
+relevant in this respect.) </p>
+
+<p> <ICE-CAN:W1B-026#14:1> <@> Nathalie Dion </@> has already conducted preliminary
+
+experiments using PCs on a LAN with e-mail software to support group problem
+
+definition and solving processes in mathematics which have produced some
+
+interesting insights.
+<ICE-CAN:W1B-026#15:1> However, the PC e-mail system is too clumsy and too bereft of
+
+graphics to be adequate for this kind of CSCL research and development
+
+endeavour. </p>
+
+<p> <ICE-CAN:W1B-026#16:1> In summary I think that the proposed centre if created will be
+
+well used by Ms. <@> Dion </@> and her colleagues, and that the knowledge,
+
+and software proto-types that they develop will be made widely available to
+
+the educational community. </p>
+
+<p> <ICE-CAN:W1B-026#17:1> Hence I strongly endorse this proposal, and will provide whatever
+
+knowledge, contacts, and advice are at my disposal to help them succeed with
+
+it. </p>
+
+<p> <ICE-CAN:W1B-026#18:1> Yours truly, </p> </I>
+
+
+<I> <h>
+<ICE-CAN:W1B-026#19:2> Dear Ms. <del> <unclear> name </unclear> </del> </h>
+
+<p> <ICE-CAN:W1B-026#20:2> This letter concerns our, as it were somewhat belated 'beta-test',
+
+work with AmigaVision. </p>
+
+<p> <ICE-CAN:W1B-026#21:2> During the summer we put one <}> <-> studenet </-> <+> student
+
+</+> </}> programmer to work with it part time to try out various features
+
+and techniques.
+<ICE-CAN:W1B-026#22:2> the results, after about forty hours work spread over two months,
+
+were very encouraging.
+<ICE-CAN:W1B-026#23:2> Our next undertaking will be to produce some lessons for actual use
+
+in various courses. </p>
+
+<p> <ICE-CAN:W1B-026#24:2> With this letter I am sending nine disks which constitute the
+
+demo-reel we produced for introducing teachers and others to some of the
+
+possibilities of Amiga-vision.
+<ICE-CAN:W1B-026#25:2> ( It may be used by your company for any educational or promotional
+
+purpose you see fit.) </p>
+
+<p> <ICE-CAN:W1B-026#26:2> I am also including a letter from our system administrator with
+
+some short but I think important notes from our student programmers
+
+concerning difficulties, and added features that they would like in order to
+
+make AmigaVision authoring more efficient. </p>
+
+<p> <ICE-CAN:W1B-026#27:2> It is becoming clear to us that AmigaVision is not just an
+
+authoring system, but rather a 4GL ( fourth generation language) with
+
+wide-ranging programming capabilities. </p>
+
+<p> <ICE-CAN:W1B-026#28:2> I was thinking of linking in some dynamic simulations by using
+
+ARex but it begins to look as though perhaps we can do the whole job in
+
+AmigaVision, although it would mean creating a lot of new subroutines. </p>
+
+<p> <ICE-CAN:W1B-026#29:2> My own suggestion for an added capability would be the ability to
+
+nest sub-routines within sub-routines.
+<ICE-CAN:W1B-026#30:2> Such nesting, or even might one dream: a recursion, capability with
+
+respect to subroutines would be quite helpful for programming simulations and
+
+games. </p>
+
+<p> <ICE-CAN:W1B-026#31:2> I have thought of trying to emulate some of the capabilities of
+
+the simulation program STELLA which we use on Macs, but that may be too
+
+difficult.
+<ICE-CAN:W1B-026#32:2> Also, I am curious to try MAc-ACCESS with AmigaVision's execute icon;
+
+has anyone done that?
+<ICE-CAN:W1B-026#33:2> There is also the question of controlling Bridge-board <}> <-> MSdos
+
+</-> <+> MS-dos </+> </}> software such as Electronic Workbench via
+
+Amiga-Vision / execute.
+<ICE-CAN:W1B-026#34:2> This could be a way of training and / or providing job-aids for users
+
+of an immense variety of software.
+<ICE-CAN:W1B-026#35:2> I hope to get a student to do a comparison with Course of Action on
+
+the Mac as a class project, but have no volunteers yet. </p>
+
+<p> <ICE-CAN:W1B-026#36:2> Overall our initial impression is very favorable ( especially in
+
+comparison with VIVA) and simple authoring languages such as Pilot. </p>
+
+<p> <ICE-CAN:W1B-026#37:2> We will send you further reports as work progresses. </p>
+
+<p> <ICE-CAN:W1B-026#38:2> <del> <unclear> unclear words </unclear> </del> </p>
+
+<p> <ICE-CAN:W1B-026#39:2> Yours truly, </p> </I>
+
+
+<I> <h>
+<ICE-CAN:W1B-026#40:3> Dear Dr <del> <unclear> name </unclear> </del> </h>
+
+<p> <ICE-CAN:W1B-026#41:3> Your Intelligent Instruction Tutor project is of considerable
+
+interest to us, and we can see a number of possibilities for contributing to
+
+the project.
+<ICE-CAN:W1B-026#42:3> Consequently please keep us on your mailing list, and on the list for
+
+any forthcoming RFPs. </p>
+
+<p> <ICE-CAN:W1B-026#43:3> The <@> Collegial </@> university graduate programme in
+
+Educational Technology, and <w> its' </w> associated Centre for Knowledge
+
+Engineering and System research is very directly involved in the development
+
+of strategies for developing interactive instruction and evaluating learning
+
+outcomes, and in the use of expert-assistant systems for instructional
+
+purposes. </p>
+
+<p> <ICE-CAN:W1B-026#44:3> The faculty members most directly concerned are: Dr. <@> Donald
+
+Smith </@> - an expert in needs assessment and instructional design for
+
+industry, Prof. <@> J. Stephen Francis </@> , an expert on knowledge
+
+representations and conversational computer-based systems, Dr. <@> Scott
+
+Mills </@> - an expert in logic and knowledge representation, Prof. <@> Brad
+
+Bailey </@> an expert in computer assisted learning and in instructional
+
+systems modelling as a case study teaching and innovation strategy
+
+techniques.
+<ICE-CAN:W1B-026#45:3> Also our associates in the Centre for Knowledge Engineering, Dr. <@>
+
+Tyler Arojo </@> ( Computer Science <}> <-> Dept. </-> <+> Department </+>
+
+</}> ) and Prof. <@> Alexei Putin </@> ( Philosophy department), as experts
+
+in formal logic and AI systems, might have something to contribute to such a
+
+project. </p>
+
+<p> <ICE-CAN:W1B-026#46:3> Our main relevant achievements have been my cybersystemic
+
+modelling methodology for case studies, and various prototype intelligent
+
+tutoring systems constructed by graduate students: <@> Gallant </@> 's
+
+Comma-converser, <@> Jorge Fernando </@> 's Experimental design expert
+
+system, <@> Huiyin Chen </@> 's Fuzzy logic Instructional Planner, and <@>
+
+Wang Peng </@> 's test-design aid expert system.
+<ICE-CAN:W1B-026#47:3> There have also been a large number of conventional CBT and
+
+Instructional systems projects which have proved themselves practically in
+
+government and commercial organizations. </p>
+
+<p> <ICE-CAN:W1B-026#48:3> At first encounter your proposed IIT looks like an interesting
+
+solution, but it is not quite so clear what the real problems it is intended
+
+to solve are.
+<ICE-CAN:W1B-026#49:3> It worries me a little that at this stage there is not a call for a
+
+needs analysis, and some systemic models of client organizations, rather than
+
+a fairly complete description of a very specific Intelligent Instruction
+
+Tutor configuration.
+<ICE-CAN:W1B-026#50:3> Are we being asked to come in at the last moment to curry-comb a
+
+cameleopard which has already been designed by a committee without benefit of
+
+outcomes analysis?
+<ICE-CAN:W1B-026#51:3> I hope not.
+<ICE-CAN:W1B-026#52:3> Much of what we can do is to help to configure this creature so that
+
+it will be readily and permanently implanted in various government ( and
+
+commercial) training departments, and be readily transferred from one context
+
+to another. </p> </I>
+
+
+<I> <h>
+<ICE-CAN:W1B-026#53:4> Dear Dr. <@> Yokohama </@> ; </h>
+
+<p> <ICE-CAN:W1B-026#54:4> <}> <-> Thankyou </-> <+> Thank you </+> </}> very much for the
+
+copy of your paper on the Sense of Self among the Japanese. </p>
+
+<p> <ICE-CAN:W1B-026#55:4> You are very polite in not pointing out more <}> <-> forcefuly
+
+</-> <+> forcefully </+> </}> that the pathological failure to develop
+
+adequately symbiotic collective selves in the USA and the modern West in
+
+general, is a terrible plague threatening the survival of life on our planet.
+
+</p>
+
+<p> <ICE-CAN:W1B-026#56:4> I was very close to my mother, and grandmother, and great aunt,
+
+in childhood and think that this indeed does give me more sense of our
+
+collective self than most North American boys possess.
+<ICE-CAN:W1B-026#57:4> In general, girls seem to have more understanding of our collective
+
+self than boys.
+<ICE-CAN:W1B-026#58:4> However, I also found my teddy-bear a very important transition
+
+companion ( in the sense that Winnecott describes).
+<ICE-CAN:W1B-026#59:4> I think that it is important to be able to hold internal
+
+conversations among our various personae as well as with our internal portion
+
+of the collective self, and that dolls <}> <-> etc. </-> <+> et cetera </+>
+
+</}> used in dramatic storytelling play facilitate both.
+<ICE-CAN:W1B-026#60:4> ( as do NO theatre masks <}> <-> etc. </-> <+> et cetera </+> </}> )
+
+</p>
+
+<p> <ICE-CAN:W1B-026#61:4> The cybersystemic/cybersextemic selves-in-system modelling which
+
+I get my students to do together is closely related to the types of therapy
+
+you discuss, but has one important additional aspect in that it develops a
+
+real understanding of how the physical system structures and especially the
+
+communication / control media and messages ( orders, evaluations, feedbacks
+
+money <}> <-> etc. </-> <+> et cetera </+> </}> ) steer the development of
+
+collective and individual, and sub-individual selves. </p>
+
+<p> <ICE-CAN:W1B-026#62:4> It is interesting that you point out the dangers of individual
+
+computer-game playing ( also individualized computer aided instruction)
+
+distorting or blocking the development of the collective self.
+<ICE-CAN:W1B-026#63:4> Sharry Turkle <&> actually Sherry </&> in her book The SEcond Self:
+
+Computers <}> <-> & </-> <+> and </+> </}> the Human Spirit, N.Y. Simon &
+
+Schuster( 1984) gives nice examples of this although without such a clear
+
+understanding of what the underlying processes are. </p>
+
+<p> <ICE-CAN:W1B-026#64:4> I am interested in developing a computer / video theatre tool
+
+system to help people play out visionary <}> <-> & </-> <+> and </+> </}>
+
+historical life dramas together, to facilitate better selves development and
+
+integration. </p>
+
+<p> <ICE-CAN:W1B-026#65:4> My Uncle <}> <-> Prof. </-> <+> Professor </+> </}> <@> S.J.
+
+Bailey </@> has <}> <-> fone </-> <+> done </+> </}> a lot of work in Jungian
+
+transformative adult education with groups of people who tell each other
+
+their stories and re-interpret those, until greater personal and social
+
+integration occurs.
+<ICE-CAN:W1B-026#66:4> See <@> Bailey <}> <-> & </-> <+> and </+> </}> Oscar </@> ( 198x).
+
+</p>
+
+<p> <ICE-CAN:W1B-026#67:4> I enclose a paper which I did recently as an extension of <@>
+
+Herbert Hall </@> 's <@> " ABC" </@> theory into my own AVVO / DAVVO theory.
+
+</p>
+
+<p> <ICE-CAN:W1B-026#68:4> The sources I have found most helpful include <@> Hall </@> and
+
+Jung, but also:
+<ICE-CAN:W1B-026#69:4> Rom Harre's recent three volume work published by Basil Blackwell in
+
+Oxford: vol. 1 <ul> Social Being </ul> vol. 2. <ul> Personal Being </ul> ,
+
+vol. 3. <ul> Physical Being </ul> . ( 1991) ISBN 0-631-13421-2.
+<ICE-CAN:W1B-026#70:4> - also his earlier <}> <-> colaborative </-> <+> collaborative </+>
+
+</}> work: Harre', Clarke, & DeCarlo ( 1985) <ul> Motives and Mechanisms
+
+</ul> London, Methuen. is very readable and useful. </p>
+
+<p> <ICE-CAN:W1B-026#71:4> When it comes to the problematicity of individuality Amelie
+
+Oksenbverg Rorty's various papers and her edited <}> <-> colection </-> <+>
+
+collection </+> </}> of others work: <ul> The Identity of Persons </ul> (
+
+1989), Berkeley, <}> <-> <.> Univ. </.> </-> <=> University </=> </}> of
+
+California Press) are good, and John Elster(1986) ( ed.) <ul> The Multiple
+
+Self </ul> , Cambridge <}> <-> <.> Univ. </.> </-> <=> University </=> </}>
+
+press is very good, it includes a chapter on the Buddhist theory of 'no
+
+self'. </p>
+
+<p> <ICE-CAN:W1B-026#72:4> The political / economic leverage available through the
+
+re-education of self-concept is illuminated by: Berry, Christopher J.(1986)
+
+<ul> Human Nature </ul> Atlantic Highlands New Jersey, Humanities Press
+
+International. ISBN 0-391-03433-2. </p>
+
+<p> <ICE-CAN:W1B-026#73:4> I wish I could easily and quickly learn Japanese, then I would do
+
+a sabbatical in your country to study how better to help people learn to
+
+appreciate and develop their collective selves.
+<ICE-CAN:W1B-026#74:4> This, not micro-electronics, is the great gift which Japan has to
+
+offer mankind.
+<ICE-CAN:W1B-026#75:4> But the real progress will come through combining the two:
+
+video-computer mediated human group process. </p>
+
+<p> <ICE-CAN:W1B-026#76:4> I will write to my friend Professor <@> Kojiya Masanabe </@> head
+
+of the Educational Technology <}> <-> <.> Dept. </.> </-> <=> Department </=>
+
+</}> of the <@> Miyaza </@> Education university ( <@> Miyaza-ku </@> ) ( who
+
+was an author of a paper which was supposed to have been given at Baden Baden
+
+but was not) and will mention the relevance of your work to the Japan
+
+Educational Technology initiative. </p>
+
+<p> <ICE-CAN:W1B-026#77:4> <}> <-> Thankyou </-> <+> Thank you </+> </}> again for your
+
+paper. </p> </I>
+
+
+<I> <h>
+<ICE-CAN:W1B-026#78:5> Dear Mr. <@> Lancelot </@> , </h>
+
+<p> <ICE-CAN:W1B-026#79:5> It was with much pride and delight that I read in the December
+
+issue of the <@> Collegial </@> University Magazine of your recent
+
+appointment as Chancellor of the University of <@> Province </@> at <@>
+
+Granville </@> . </p>
+
+<p> <ICE-CAN:W1B-026#80:5> On behalf of the Board of Directors of the Association of Alumni
+
+of Sir <@> John Miller </@> University I would like to take this opportunity
+
+to express to you the congratulations of your fellow alumni. </p>
+
+<p> <ICE-CAN:W1B-026#81:5> With best wishes, I am,
+<ICE-CAN:W1B-026#82:5> Yours sincerely </p> </I>

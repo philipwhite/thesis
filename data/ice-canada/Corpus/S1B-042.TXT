@@ -1,0 +1,513 @@
+<I>
+
+<$A> <ICE-CAN:S1B-042#1:1:A> Hi
+
+<$B> <ICE-CAN:S1B-042#2:1:B> Hi <@> Mikee </@> how are you <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-042#3:1:A> Fine
+<ICE-CAN:S1B-042#4:1:A> Let's go back twenty-nine years <}> <-> if you </-> <=> if you </=>
+
+</}> don't mind and talk about nineteen sixty-five and what made you decide
+
+to become a volunteer at the Queen E
+
+<$B> <ICE-CAN:S1B-042#5:1:B> Well <}> <-> I </-> <=> I </=> </}> told the other day and I
+
+said I had three teenagers at the time and I wanted to get out and do
+
+something that was <,> <}> <-> for me for my </-> <=> just personally for me
+
+</=> </}> <O> laugh </O>
+<ICE-CAN:S1B-042#6:1:B> Not involved with <,> anybody else
+<ICE-CAN:S1B-042#7:1:B> I <}> <-> <.> wa </.> </-> <=> didn't want </=> </}> to be
+
+somebody's mother <,> sister <,> brother <,> mother anything <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-042#8:1:A> You wanted to be <@> Jerry Anderson </@>
+
+<$B> <ICE-CAN:S1B-042#9:1:B> That's it
+<ICE-CAN:S1B-042#10:1:B> So that was my chance
+
+<$A> <ICE-CAN:S1B-042#11:1:A> Now uh <}> <-> <.> bu </.> </-> <=> but </=> </}> <}> <-> why
+
+a </-> <=> why a </=> </}> hospital
+<ICE-CAN:S1B-042#12:1:A> Some people <}> <-> would </-> <=> would </=> </}> cringe at the
+
+thought
+<ICE-CAN:S1B-042#13:1:A> There's so much work to be done but uh there are a lot of things
+
+you might not want to see
+
+<$B> <ICE-CAN:S1B-042#14:1:B> Oh well I think uh
+<ICE-CAN:S1B-042#15:1:B> I like people very much and uh uh I worked first of all in five
+
+east which was a medical floor with many older people and uh
+<ICE-CAN:S1B-042#16:1:B> I was pretty good with older people at <?> this </?>
+<ICE-CAN:S1B-042#17:1:B> And uh uh now that I'm older I have to
+<ICE-CAN:S1B-042#18:1:B> <}> <-> I </-> <=> I'm </=> </}> glad because <O> laugh </O> maybe
+
+somebody's going to be good to me
+
+<$A> <ICE-CAN:S1B-042#19:1:A> <}> <-> Now </-> <=> Now </=> </}> <}> <-> what what </-> <=>
+
+what </=> </}> are your duties
+
+<$B> <ICE-CAN:S1B-042#20:1:B> <}> <-> I </-> uh <=> I </=> </}> work uh two shifts two days
+<ICE-CAN:S1B-042#21:1:B> I work at the information desk <,> uh which I have been at for
+
+twenty-four years
+
+<$A> <ICE-CAN:S1B-042#22:1:A> Mhm
+
+<$B> <ICE-CAN:S1B-042#23:1:B> And I work in the admitting office <,> on Mondays
+<ICE-CAN:S1B-042#24:1:B> And I've been working there for about ten twelve years
+<ICE-CAN:S1B-042#25:1:B> Before that <}> <-> I </-> <=> I </=> </}> only gave them one day
+
+and I was teaching helping in a school
+<ICE-CAN:S1B-042#26:1:B> I was teaching children to read
+<ICE-CAN:S1B-042#27:1:B> And when that school closed I <,> decided to give the other day
+
+back to it
+
+<$A> <ICE-CAN:S1B-042#28:1:A> You get another day for them
+
+<$B> <ICE-CAN:S1B-042#29:1:B> Sure
+
+<$A> <ICE-CAN:S1B-042#30:1:A> Now you've been around twenty-nine years and I know there are
+
+many of your uh colleagues there volunteers who've been there for a number of
+
+years too
+<ICE-CAN:S1B-042#31:1:A> Why do you think people stay around the Queen E so much
+
+<$B> <ICE-CAN:S1B-042#32:1:B> Because it's the best hospital in the city
+
+<$A> <ICE-CAN:S1B-042#33:1:A> Well that's a simple answer <O> laugh </O>
+
+<$B> <ICE-CAN:S1B-042#34:1:B> <}> <-> They have uh it's the community is uh <,,> it needs
+
+</-> <=> The community needs it </=> </}>
+<ICE-CAN:S1B-042#35:1:B> And uh people are treated like people there
+<ICE-CAN:S1B-042#36:1:B> You're not a number
+
+<$A> <ICE-CAN:S1B-042#37:1:A> Mhm
+
+<$B> <ICE-CAN:S1B-042#38:1:B> You're a person
+
+<$B> <ICE-CAN:S1B-042#39:1:B> Everybody is your friend there
+
+<$A> <ICE-CAN:S1B-042#40:1:A> Yeah so I guess neighbourhood hospital is a good way to
+
+describe it isn't it
+
+<$B> <ICE-CAN:S1B-042#41:1:B> Oh I think so
+
+<$A> <ICE-CAN:S1B-042#42:1:A> Yeah in attitude as well
+
+<$B> <ICE-CAN:S1B-042#43:1:B> Uh you know in there they treat everybody uh the same and uh
+
+from the highest uh doctor down to the lowest person everybody is equal uhm
+<ICE-CAN:S1B-042#44:1:B> They greet one another like friends and uh
+
+<$A> <ICE-CAN:S1B-042#45:1:A> Do you know everybody <}> <-> by </-> <=> by </=> </}> their
+
+first name
+
+<$B> <ICE-CAN:S1B-042#46:1:B> I know a lot <O> laugh </O>
+<ICE-CAN:S1B-042#47:1:B> I know a lot <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-042#48:1:A> It's a hundred years old
+<ICE-CAN:S1B-042#49:1:A> Is it it's this year the hundredth anniversary right
+
+<$B> <ICE-CAN:S1B-042#50:1:B> That's right
+<ICE-CAN:S1B-042#51:1:B> <}> <-> We </-> <=> We've </=> </}> been having celebrations
+<ICE-CAN:S1B-042#52:1:B> Our volunteer <,> week we had three days of <,> wonderful
+
+celebrations
+<ICE-CAN:S1B-042#53:1:B> And uh it was uh really uh inspiring to see that we have three
+
+hundred volunteers now
+
+<$A> <ICE-CAN:S1B-042#54:1:A> Boy that is quite a size
+
+<$B> <ICE-CAN:S1B-042#55:1:B> And <}> <-> <.> the </.> </-> <=> they </=> </}> do all kinds
+
+of jobs <}> <-> which </-> <=> which </=> </}> is saving the government money
+
+<$A> <ICE-CAN:S1B-042#56:1:A> Mhm <O> laugh </O> get your pitch in there <@> Jerry </@>
+
+<$B> <ICE-CAN:S1B-042#57:1:B> Yeah sure
+
+<$A> <ICE-CAN:S1B-042#58:1:A> You're going to have to do a lot of this
+<ICE-CAN:S1B-042#59:1:A> Uh now you've been around for almost a third of that time
+
+<$B> <ICE-CAN:S1B-042#60:1:B> That's right
+
+<$A> <ICE-CAN:S1B-042#61:1:A> <}> <-> You must </-> <=> You must </=> </}> know just about
+
+well <}> <-> I we </-> <=> we've </=> </}> talked about you knowing everybody
+<ICE-CAN:S1B-042#62:1:A> You must about know about everything that goes on in the hospital
+<ICE-CAN:S1B-042#63:1:A> All the secrets
+
+<$B> <ICE-CAN:S1B-042#64:1:B> Well I know
+<ICE-CAN:S1B-042#65:1:B> Yeah <O> laugh </O> all the secrets yeah
+<ICE-CAN:S1B-042#66:1:B> Well uhm we're very proud of our hospital and like especially like
+
+we have our new emergency which is only eighteen months old and it's just
+
+state of the art
+<ICE-CAN:S1B-042#67:1:B> It's a wonderful place with a wonderful triage centre
+<ICE-CAN:S1B-042#68:1:B> And uh it doesn't uh lose anything to any of the big hospitals
+<ICE-CAN:S1B-042#69:1:B> I think we have the best emergency in the city
+
+<$A> <ICE-CAN:S1B-042#70:1:A> Hmmm
+<ICE-CAN:S1B-042#71:1:A> Is everybody like you uh over there <@> Jerry </@>
+
+<$B> <ICE-CAN:S1B-042#72:1:B> Oh yes we're all very uh
+
+<$A> <ICE-CAN:S1B-042#73:1:A> <{> <[> Enthusiastic </[>
+
+<$B> <ICE-CAN:S1B-042#74:1:B> <[> Up very </[> </{> very up on hospital because it's <,,>
+<ICE-CAN:S1B-042#75:1:B> We think that it really does a good job in the community
+<ICE-CAN:S1B-042#76:1:B> And uh it would be a shame to close it
+<ICE-CAN:S1B-042#77:1:B> After all <}> <-> we are </-> <,> <=> the government has </=> </}>
+
+just given us money uh and the go-ahead to have a CAT scan
+<ICE-CAN:S1B-042#78:1:B> As we speak <}> <-> the </-> uh <=> this </=> </}> construction is
+
+going on
+<ICE-CAN:S1B-042#79:1:B> And now this is going to go by the boards
+<ICE-CAN:S1B-042#80:1:B> I can't see it
+
+<$A> <ICE-CAN:S1B-042#81:1:A> Well tell me about morale then when you heard about this
+
+<$B> <ICE-CAN:S1B-042#82:1:B> First of all I guess it was a kind of a stunned uh more a
+
+silence
+<ICE-CAN:S1B-042#83:1:B> Everybody was like it can't be <{> <[> you know </[> because <,>
+
+they've just remodelled all the hospital and uh <}> <-> it's </-> uh <=> it's
+
+</=> </}> beautiful
+
+<$A> <ICE-CAN:S1B-042#84:1:A> <[> Yeah </[> </{>
+
+<$B> <ICE-CAN:S1B-042#85:1:B> And uh we know that we do such great work in the community
+
+that you just couldn't figure we'd be one of the ones that were slated
+<ICE-CAN:S1B-042#86:1:B> And especially too we need an English <.> speak </.>
+<ICE-CAN:S1B-042#87:1:B> Although we have many many French people now
+<ICE-CAN:S1B-042#88:1:B> I think <}> <-> I </-> uh <=> I'm </=> </}> using my French
+<ICE-CAN:S1B-042#89:1:B> I'm not perfectly bilingual by any means but <,> I have as many
+
+French people coming as English now
+<ICE-CAN:S1B-042#90:1:B> And uh it's very much needed in the west end you know <{> <[and uh 
+
+</[>
+
+<$A> <ICE-CAN:S1B-042#91:1:A> <[> That's right yeah </[> </{>
+
+<$B> <ICE-CAN:S1B-042#92:1:B> And uh closing all the west end ones seems to me uhm I think
+
+maybe uh the government might listen
+<ICE-CAN:S1B-042#93:1:B> <{> <[> Uh </[>
+
+<$A> <ICE-CAN:S1B-042#94:1:A> <[> So <}> <-> are people </-> </}> </[> </{> <=> are people
+
+</=> uh ready for uh to get a little frisky about this and
+
+<$B> <ICE-CAN:S1B-042#95:1:B> Oh I think so
+<ICE-CAN:S1B-042#96:1:B> I think we'll get lots of
+<ICE-CAN:S1B-042#97:1:B> We have three hundred volunteers that could be out there with
+
+petitions and we have all our wonderful staff <,,> that will be out there
+
+<,,> because they all love the place
+<ICE-CAN:S1B-042#98:1:B> And uh <}> <-> your </-> <=> it's </=> </}> really <,,> uh I can't
+
+say enough about it how the care that they give
+
+<$A> <ICE-CAN:S1B-042#99:1:A> Now you want to keep the hospital open for another reason <,>
+
+right
+
+<$B> <ICE-CAN:S1B-042#100:1:B> Oh sure <,> for <@> Jerry Anderson </@> <}> <-> to </-> <=>
+
+to </=> </}> have a place to go to work <O> laugh </O> uh
+
+<$A> <ICE-CAN:S1B-042#101:1:A> <O> laugh </O> But also what happens next year
+<ICE-CAN:S1B-042#102:1:A> You get thirty years right
+
+<$B> <ICE-CAN:S1B-042#103:1:B> Yeah well <}> <-> I </-> <=> if they </=> </}> close it
+
+before the spring I won't get my thirty year plaque and I mean <}> <-> I'll
+
+be </-> <=> I'll be </=> </}> billing the government for that I guess
+
+<$A> <ICE-CAN:S1B-042#104:1:A> Well they should tell the premier that
+
+<$B> <ICE-CAN:S1B-042#105:1:B> <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-042#106:1:A> I'm sure that'll he'll take that into account
+<ICE-CAN:S1B-042#107:1:A> Your enthusiasm is absolutely infectious
+<ICE-CAN:S1B-042#108:1:A> <}> <-> I </-> <=> I </=> </}> gather uh uh each volunteer passes
+
+that along <}> <-> to </-> <=> to </=> </}> the others working with them
+
+<$B> <ICE-CAN:S1B-042#109:1:B> Yeah well I think the government <.> i </.> they should take
+
+into consideration we have a wonderful cancer care program
+<ICE-CAN:S1B-042#110:1:B> Our family medicine unit has a <.> in </.>
+<ICE-CAN:S1B-042#111:1:B> Well the people from the General came to our hospital for it <,>
+
+to join our family medicine
+<ICE-CAN:S1B-042#112:1:B> And uh we have a
+<ICE-CAN:S1B-042#113:1:B> People can even get appointments in the evening there
+<ICE-CAN:S1B-042#114:1:B> It doesn't have to be if you're a worker that can't get away in
+
+the day to see the doctor
+<ICE-CAN:S1B-042#115:1:B> There's doctors in the evening there
+
+<$A> <ICE-CAN:S1B-042#116:1:A> Well <@> Jerry </@> I hope it works out for you
+
+<$B> <ICE-CAN:S1B-042#117:1:B> Oh I hope so too <@> Mike </@> <{> <[> <}> <-> and </-> <=>
+
+and </=> </}> </[>
+
+<$A> <ICE-CAN:S1B-042#118:1:A> <[> <}> <-> And </-> <=> And </=> </}> </[> </{> maybe we
+
+will call you next year and we'll talk to you sitting beside your plaque
+<ICE-CAN:S1B-042#119:1:A> Who knows
+
+<$B> <ICE-CAN:S1B-042#120:1:B> Oh good good I hope so
+
+<$A> <ICE-CAN:S1B-042#121:1:A> Good luck
+
+<$B> <ICE-CAN:S1B-042#122:1:B> And thanks for calling
+
+<$A> <ICE-CAN:S1B-042#123:1:A> Okay
+<ICE-CAN:S1B-042#124:1:A> <}> <-> Keep your </-> <=> Keep up your </=> </}> optismism
+
+<$B> <ICE-CAN:S1B-042#125:1:B> Oh I will </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1B-042#126:2:A> Hi how <}> <-> ya </-> <+> you </+> </}> holding up
+
+<$B> <ICE-CAN:S1B-042#127:2:B> Hi I'm doing great
+
+<$A> <ICE-CAN:S1B-042#128:2:A> You are
+
+<$B> <ICE-CAN:S1B-042#129:2:B> You're bang on
+<ICE-CAN:S1B-042#130:2:B> The flowers <,> the rings <,> <{> <[> the photography </[>
+
+<$A> <ICE-CAN:S1B-042#131:2:A> <[> Have you got the pattern yet </[> </{> <{> <[> <}> <->
+
+for the </-> <=> for the </=> </}> </[>
+
+<$B> <ICE-CAN:S1B-042#132:2:B> <[> Uh I have the dress </[> </{>
+
+<$A> <ICE-CAN:S1B-042#133:2:A> Yeah
+
+<$B> <ICE-CAN:S1B-042#134:2:B> So at least I have that done
+<ICE-CAN:S1B-042#135:2:B> I have to get a veil
+
+<$A> <ICE-CAN:S1B-042#136:2:A>
+<ICE-CAN:S1B-042#137:2:A> Mmm hmm
+
+<$B> <ICE-CAN:S1B-042#138:2:B> Uhm and I have to get in touch with <}> <-> the </-> <=> the
+
+</=> </}> uh
+<ICE-CAN:S1B-042#139:2:B> We have <,> a photographer in mind but we have to meet with him
+
+next week
+<ICE-CAN:S1B-042#140:2:B> And we're meeting with the person for the video next week as well
+
+<$A> <ICE-CAN:S1B-042#141:2:A> Oh yeah that's right
+<ICE-CAN:S1B-042#142:2:A> It's a video <}> <-> <.> th </.> </-> <=> uh thing </=> </}> now
+
+isn't it
+
+<$B> <ICE-CAN:S1B-042#143:2:B> We're doing a little bit of everything actually
+<ICE-CAN:S1B-042#144:2:B> We want to have the photographs and the video
+<ICE-CAN:S1B-042#145:2:B> Cos we have a lot of uh people in the family who are a little bit
+
+older
+<ICE-CAN:S1B-042#146:2:B> And it'd be nice to get them on video and <{> <[> <,> </[> maybe
+
+even make one for them
+
+<$A> <ICE-CAN:S1B-042#147:2:A> <[> Yeah </[> </{>
+<ICE-CAN:S1B-042#148:2:A> Now have you got patterns for cutlery and plates and things like
+
+that for gifts <}> <-> that uh that you </-> <=> that you want </=> </}>
+
+<$B> <ICE-CAN:S1B-042#149:2:B> Oh no we're not there yet <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-042#150:2:A> Oh <,> sorry I just
+<ICE-CAN:S1B-042#151:2:A> I just brought something up I shouldn't have <{> <[> right </[>
+
+<O> laugh </O>
+
+<$B> <ICE-CAN:S1B-042#152:2:B> <[> Oh please </[> </{>
+
+<$A> <ICE-CAN:S1B-042#153:2:A> You've got enough details
+
+<$B> <ICE-CAN:S1B-042#154:2:B> <}> <-> That's </-> uh <=> That's </=> </}> something that
+
+we're going to be looking at I'd say within the next week and a half or so
+<ICE-CAN:S1B-042#155:2:B> Right now basically what we've done is we've gotten out the
+
+invitations
+<ICE-CAN:S1B-042#156:2:B> And I've managed to <,> uh <,> handwrite them with calligraphy for
+
+a
+<ICE-CAN:S1B-042#157:2:B> I've written about sixty-five so far
+<ICE-CAN:S1B-042#158:2:B> Cos <}> <-> we have </-> <=> uh I have </=> </}> a fairly big
+
+family on my side
+<ICE-CAN:S1B-042#159:2:B> And <}> <-> I've there </-> <=> <,> it's </=> </}> half Scottish
+
+and half French and uh
+<ICE-CAN:S1B-042#160:2:B> So getting out the invitations was something else because it's a
+
+huge family
+
+<$A> <ICE-CAN:S1B-042#161:2:A> How many more have you got
+
+<$B> <ICE-CAN:S1B-042#162:2:B> Uhm we're <}> gonna </-> <+> going to </+> </}> end up with
+
+about a hundred and fifty people at about nine o'clock
+<ICE-CAN:S1B-042#163:2:B> <{> <[> Cos </[> what we're doing is we're having people over for
+
+the reception
+
+<$A> <ICE-CAN:S1B-042#164:2:A> <}> <-> <[> You </[> </{> you </-> <=> You're </=> </}>
+
+making out a hundred and fifty invitations by hand
+
+<$B> <ICE-CAN:S1B-042#165:2:B> No I'm making out sixty-five by hand
+
+<$A> <ICE-CAN:S1B-042#166:2:A> Yeah
+
+<$B> <ICE-CAN:S1B-042#167:2:B> Which are for the people showing up at the reception
+<ICE-CAN:S1B-042#168:2:B> And then I'm making out uh invitations where actually I've been
+
+putting sticky labels on uh
+
+<$A> <ICE-CAN:S1B-042#169:2:A> <O> laugh </O>
+
+<$B> <ICE-CAN:S1B-042#170:2:B> <}> <-> For </-> <=> For </=> </}> our friends that will be
+
+showing up at nine o'clock
+
+<$A> <ICE-CAN:S1B-042#171:2:A> <}> <-> Why </-> <=> Why </=> </}> would you want to do it by
+
+hand
+<ICE-CAN:S1B-042#172:2:A> Haven't you got enough to do
+
+<$B> <ICE-CAN:S1B-042#173:2:B> I have a lot to do but it's
+<ICE-CAN:S1B-042#174:2:B> The invitations themselves are very special
+
+<$A> <ICE-CAN:S1B-042#175:2:A> Yeah <{> <[> I realize yeah </[>
+
+<$B> <ICE-CAN:S1B-042#176:2:B> <[> We went </[> </{>
+<ICE-CAN:S1B-042#177:2:B> We went to Vermont and we found a man who makes handmade paper
+
+<$A> <ICE-CAN:S1B-042#178:2:A> Mmm hmm
+
+<$B> <ICE-CAN:S1B-042#179:2:B> And we bought the handmade paper <}> <-> for </-> <=> from
+
+</=> </}> him and uh <,,> made the insides ourselves
+<ICE-CAN:S1B-042#180:2:B> Actually my fiance made <}> <-> the </-> <=> the </=> </}> <,> you
+
+know where it has <}> <-> the </-> <=> the </=> </}> description of the
+
+wedding and where it is and the reception at the bottom
+
+<$A> <ICE-CAN:S1B-042#181:2:A> But are you up all night writing this stuff
+
+<$B> <ICE-CAN:S1B-042#182:2:B> Pretty much yes
+
+<$A> <ICE-CAN:S1B-042#183:2:A> And thinking <,> I don't even like this person
+<ICE-CAN:S1B-042#184:2:A> Why am Iinviting him or her
+
+<$B> <ICE-CAN:S1B-042#185:2:B> Wrong
+
+<$A> <ICE-CAN:S1B-042#186:2:A> <{> <[> No </[>
+
+<$B> <ICE-CAN:S1B-042#187:2:B> <[> I'm inviting the people I want to invite </[> </{>
+
+<$A> <ICE-CAN:S1B-042#188:2:A> <{> <[> Oh good for you </[>
+
+<$B> <ICE-CAN:S1B-042#189:2:B> <[> Oh yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-042#190:2:A> Cos that doesn't often happen you know
+
+<$B> <ICE-CAN:S1B-042#191:2:B> I know
+<ICE-CAN:S1B-042#192:2:B> That's true
+<ICE-CAN:S1B-042#193:2:B> Actually <}> <-> I'm </-> <=> I'm </=> </}> lucky
+<ICE-CAN:S1B-042#194:2:B> We've decided it's our wedding
+<ICE-CAN:S1B-042#195:2:B> And it's nice for people to have their say and we'll listen to
+
+them
+<ICE-CAN:S1B-042#196:2:B> But it is our wedding so
+
+<$A> <ICE-CAN:S1B-042#197:2:A> But <}> <-> the </-> <=> the </=> </}> list has expanded
+<ICE-CAN:S1B-042#198:2:A> <}> <-> You said </-> <=> You said </=> </}> before you originally
+
+had thirty-five right
+
+<$B> <ICE-CAN:S1B-042#199:2:B> Yes actually
+<ICE-CAN:S1B-042#200:2:B> It was all planned out for thirty-five
+<ICE-CAN:S1B-042#201:2:B> We had chosen the uh
+<ICE-CAN:S1B-042#202:2:B> It was going to be in a restaurant
+<ICE-CAN:S1B-042#203:2:B> It was going to be something very small
+
+<$A> <ICE-CAN:S1B-042#204:2:A> Um hum
+
+<$B> <ICE-CAN:S1B-042#205:2:B> And then what happened was uhm <,,> we actually told
+
+everybody
+<ICE-CAN:S1B-042#206:2:B> Well told my grandmother and <@> Henry's </@> mom and my <.> gran
+
+</.> my great-aunt <,> at Easter
+
+<$A> <ICE-CAN:S1B-042#207:2:A> Mmm hmm
+
+<$B> <ICE-CAN:S1B-042#208:2:B> That's when we started announcing it
+<ICE-CAN:S1B-042#209:2:B> And uh my grandmother said oh well you have aunts and uncles that
+
+you need to invite because they invited you to their wedding
+<ICE-CAN:S1B-042#210:2:B> And she's right and it would be nice to have them there so
+<ICE-CAN:S1B-042#211:2:B> We said well Granny this is our budget <O> laugh </O>
+<ICE-CAN:S1B-042#212:2:B> We're doing this on this budget
+<ICE-CAN:S1B-042#213:2:B> So Granny said well okay let me help you out a little bit and that
+
+way we can invite them
+
+<$A> <ICE-CAN:S1B-042#214:2:A> Okay so you're happy for that <}> <-> helth </-> <=> help
+
+</=> </}>
+<ICE-CAN:S1B-042#215:2:A> You don't find it an intrusion
+
+<$B> <ICE-CAN:S1B-042#216:2:B> No not at all not at all
+<ICE-CAN:S1B-042#217:2:B> Uhm <{> <[> at one point </[>
+
+<$A> <ICE-CAN:S1B-042#218:2:A> <[> Or granny's listening on the radio </[> </{> <O> laugh
+
+</O> and you can't tell me right now <O> laugh </O>
+
+<$B> <ICE-CAN:S1B-042#219:2:B> I
+<ICE-CAN:S1B-042#220:2:B> Uhm it wasn't an intrusion at all <{> <[> <,> </[>
+<ICE-CAN:S1B-042#221:2:B> Actually it's nice to have my uncles and aunts there because you
+
+know you only see them so often
+
+<$A> <ICE-CAN:S1B-042#222:2:A> <[> Yeah </[> </{>
+<ICE-CAN:S1B-042#223:2:A> Now <}> <-> I don't <}> <-> wanna </-> <+> want to </+> </}> be
+
+</-> <=> I don't <}> <-> wanna </-> <+> want to </+> </}> be </=> </}> a
+
+trouble maker but have there been tensions </I>

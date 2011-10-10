@@ -1,0 +1,391 @@
+<I>
+<ICE-CAN:W2A-027#1:1> <h> <bold> Late Quaternary volcanic ash in the peatlands of central
+
+Alberta </bold> </h>
+<ICE-CAN:W2A-027#2:1> <h> S. C. ZOLTAI </h>
+<ICE-CAN:W2A-027#3:1> <h> <it> Canadian Forestry Service, Northern Forestry Centre. 5320-122
+
+St., Edmonton, Alta. Canada T6H 3S5 </it> </h>
+<ICE-CAN:W2A-027#4:1> <h> Received February 16, 1988 </h>
+<ICE-CAN:W2A-027#5:1> <h> Revision accepted May 17, 1988 </h>
+
+<p> <ICE-CAN:W2A-027#6:1> Three distinct volcanic-ash layers were identified in peat
+
+deposits through visual, microscopic, and chemical means.
+<ICE-CAN:W2A-027#7:1> These layers were related to known volcanic events through the <sp> 14
+
+</sp> C dating of 34 peat samples.
+<ICE-CAN:W2A-027#8:1> The upper layer was probably Bridge River ash, deposited about 2350
+
+years BP.
+<ICE-CAN:W2A-027#9:1> The middle layer was possibly St. Helens Y tephra, deposited around
+
+3400 years BP.
+<ICE-CAN:W2A-027#10:1> The lower ash was related to Mazama tephra, deposited about 6600
+
+years BP.
+<ICE-CAN:W2A-027#11:1> Ash-enriched layers were formed in the accumulating peat as aerial
+
+deposition of tephra occurred, often for several hundred years before and
+
+after the presumed main eruption, as shown by <sp> 14 </sp> C dates and peat
+
+accumulation rates.
+<ICE-CAN:W2A-027#12:1> This implies periodic eruptions by the volcanoes, not all of which
+
+produced distinct ash layers in areas distant from the source.
+<ICE-CAN:W2A-027#13:1> Redeposition from wind-eroded beds of Mazama ash during the dry
+
+postglacial climatic maximum is a possibility. </p> <O> French Abstract </O>
+<ICE-CAN:W2A-027#14:1> <h> Can. J. Earth Sci. <bold> 26 </bold> . 207 - 214 ( 1989) </h>
+<ICE-CAN:W2A-027#15:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-027#16:1> The widespread occurrence of volcanic ash in western North
+
+America is well documented ( Powers and Wilcox 1964: West <l> gate and
+
+Dreimanis 1967).
+<ICE-CAN:W2A-027#17:1> Late Quaternary volcanic-ash beds have been associated with Glacier
+
+Peak in Washington, Mount Mazama in Oregon ( Powers and Wilcox 1964), Mount
+
+St. Helens in Washington, Plinth-Meager Mountain area near Bridge River in
+
+British Columbia ( Valentine <it> et al <it> . 1987), and Mount Bona in the
+
+St. Elias Range in Alaska ( Lerbekmo and Campbell 1969). </p>
+
+<p> <ICE-CAN:W2A-027#18:1> The particle size and abundance of tephra diminish with distance
+
+from the source volcano.
+<ICE-CAN:W2A-027#19:1> Alberta is hundreds of kilometres from the sources; hence only
+
+limited amounts of fine-grained tephra can be found.
+<ICE-CAN:W2A-027#20:1> The distribution of the tephra is often limited to narrow plumes,
+
+determined by the prevailing winds at the time of the eruptions.
+<ICE-CAN:W2A-027#21:1> Close to the source continuous volcanic ash mantles the entire
+
+landscape, but in Alberta the ash layers are discontinuous, often concen <l>
+
+trated by secondary deposition in areas sheltered from the wind.
+<ICE-CAN:W2A-027#22:1> Peatlands are particularly suited for the study of volcanic-ash
+
+deposition.
+<ICE-CAN:W2A-027#23:1> The peatland surfaces are wet and well vegetated, trapping the
+
+atmospherically deposited tephra.
+<ICE-CAN:W2A-027#24:1> Furthermore, light amounts of volcanic ashfall do not kill the
+
+vegetation and a continuous record of ash enrichment is pre <l> served in the
+
+accumulating peat. </p>
+
+<p> <ICE-CAN:W2A-027#25:1> Peat bogs have long been used by researchers to reveal the
+
+presence of one or more volcanic-ash layers ( Hansen 1949; Fryxell 1965;
+
+Westgate <it> et al </it> . 1969).
+<ICE-CAN:W2A-027#26:1> Not only are the ash layers well preserved in this quiescent
+
+depositional environ <l> ment ( Westgate <it> et al <it> . 1970), but also
+
+the peat enveloping the tephra layers provides a ready source of carbon for
+
+<sp> 14 </sp> C analyses. </p>
+
+<p> <ICE-CAN:W2A-027#27:1> In central Alberta, over 500 km from the nearest of the tephra
+
+sources, the volcanic-ash layers can be very thin ( 1-2 mm) and barely
+
+visible with the naked eye ( Westgate <it> et al <it> . 1969;
+
+Lichti-Federovich 1970).
+<ICE-CAN:W2A-027#28:1> Under the microscope, however, additional volcanic-ash-enriched
+
+layers that are otherwise invisible to the unaided eye may become evident.
+<ICE-CAN:W2A-027#29:1> In this paper the occurrences of both visible and nonvisible
+
+volcanic-ash layers are presented and their possible source is discussed on
+
+the basis of radiocarbon dates. </p>
+<ICE-CAN:W2A-027#30:1> <h> <bold> Methods </bold> </h>
+
+<p> <ICE-CAN:W2A-027#31:1> During 1981, 1984, and 1986 a total of 76 peatlands were cored in
+
+Alberta and adjoining Saskatchewan, generally north of the North Saskatchewan
+
+River.
+<ICE-CAN:W2A-027#32:1> A modified Macaulay peat corer with an inside diameter of 34 mm was
+
+used and samples were collected at the surface and at 15 cm intervals.
+<ICE-CAN:W2A-027#33:1> In many peatlands more than one core was taken to determine the
+
+physical, chemical, and floristic variability of the peat deposits.
+<ICE-CAN:W2A-027#34:1> A number of samples were taken with a peat profile cutter ( Wardenaar
+
+1987), which extracted 170 cm x 10 cm x 10 cm peat columns.
+<ICE-CAN:W2A-027#35:1> The peatlands were both fens and bogs ( Zoltai <it> et al <it> .
+
+1975), the main difference being that bogs receive only atmospheric water but
+
+the fens also receive seepage water. </p>
+
+<p> <ICE-CAN:W2A-027#36:1> In the laboratory the samples were oven dried and then ashed at
+
+480&degree;C.
+<ICE-CAN:W2A-027#37:1> The ash was treated with hot nitric and hydro <l> chloric acid, and
+
+the residue was extracted with hydrochloric acid and filtered.
+<ICE-CAN:W2A-027#38:1> The filter paper was burned, and the weight of the residual
+
+acid-insoluble ash was expressed as a percen <l> tage of the dry sample.
+<ICE-CAN:W2A-027#39:1> The filtrate was analyzed with an inductively coupled argon plasma
+
+spectrometer for Ca, Mg, K, Al, S, P, Mn, Fe, Zn, Cu. Ni, Pb, Ti, and Na.
+<ICE-CAN:W2A-027#40:1> Details on <O> figure </O> <O> figure caption </O> the instrument and
+
+sample preparation were reported else <l> where ( Ali <it> et al <it> .
+
+1988). </p>
+
+<p> <ICE-CAN:W2A-027#41:1> The volcanic-glass content was determined under a polariz <l> ing
+
+microscope.
+<ICE-CAN:W2A-027#42:1> A small amount of acid-insoluble ash was examined by counting 200
+
+grains of soil particles, including crystalline and tephra grains.
+<ICE-CAN:W2A-027#43:1> The volcanic-glass content was expressed as a percentage of all
+
+counted particles.
+<ICE-CAN:W2A-027#44:1> The mor <l> phology of individual tephra grains and the abundance of
+
+vari <l> ous forms were noted.
+<ICE-CAN:W2A-027#45:1> Selected peat samples were submitted for <sp> 14 </sp> C dating to
+
+Brock University ( BGS) and to Alberta Environmental Centre Vegreville (
+
+AECV). </p>
+<ICE-CAN:W2A-027#46:1> <h> <bold> Results </bold> </h>
+<ICE-CAN:W2A-027#47:1> <h> <it> Volcanic-ash layers </it> </h>
+
+<p> <ICE-CAN:W2A-027#48:1> Volcanic ash was found in 24 of the investigated peatlands.
+<ICE-CAN:W2A-027#49:1> The ash deposits can be identified visually where they occur as
+
+distinct layers, microscopically where the ash is dispersed in a peaty zone,
+
+and chemically through the analysis of some elements. </p>
+
+<p> <ICE-CAN:W2A-027#50:1> Visible volcanic-ash layers occur as distinct white- to
+
+buff-coloured layers.
+<ICE-CAN:W2A-027#51:1> They can be straight and even, or they can be contorted by
+
+differential movements in the peat after deposi <l> tion.
+<ICE-CAN:W2A-027#52:1> In many cases the ash layers are discontinuous and have variable
+
+thickness, possibly reflecting the contour of deposi <l> tional surfaces.
+<ICE-CAN:W2A-027#53:1> At an intensively studied site ( site 7) the peat-land was cored on a
+
+200 m grid.
+<ICE-CAN:W2A-027#54:1> A visible ash layer was found between 1.5 and 2 m depth at only 6 of
+
+the 21 cored sites.
+<ICE-CAN:W2A-027#55:1> Attempts to relocate an ash layer for further sampling often failed
+
+even when cores were taken only a few centimetres from a core that showed a
+
+clearly visible ash layer.
+<ICE-CAN:W2A-027#56:1> On the other hand, at many sites in the western part of the study
+
+area there are two or three parallel volcanic ash layers, separated by up to
+
+10 cm of peat ( Fig. 1). </p>
+
+<p> <ICE-CAN:W2A-027#57:1> Identification of nonvisible volcanic-ash-enriched zones can be
+
+accomplished by the examination of the acid-insoluble peat residue under a
+
+polarizing microscope.
+<ICE-CAN:W2A-027#58:1> The individual volcanic-glass shards are usually &lt;20 &mu;m in
+
+diameter and can be recog <l> nized by their noncrystalline structure.
+<ICE-CAN:W2A-027#59:1> Their irregular shape distinguishes them from biogenic silicate
+
+materials.
+<ICE-CAN:W2A-027#60:1> The ash-enriched zones are invariably thicker than the visible ash
+
+layers, extending both above and below the visible ash.
+<ICE-CAN:W2A-027#61:1> Some of these zones are 80 cm thick.
+<ICE-CAN:W2A-027#62:1> Nonvisible ash zones could be found more consistently at different
+
+locations in the same peat-land than visible ash layers.
+<ICE-CAN:W2A-027#63:1> At the intensively surveyed site 7 all 21 cores had an ash-enriched
+
+layer between 1.5 and 2 m. </p>
+
+<p> <ICE-CAN:W2A-027#64:1> The morphology of individual tephra grains consists of three
+
+distinct types.
+<ICE-CAN:W2A-027#65:1> The most common form is thin polygonal plates with straight edges,
+
+often associated with elongated three-sided prisms.
+<ICE-CAN:W2A-027#66:1> Such prisms often contain inclusions of minerals or gas.
+<ICE-CAN:W2A-027#67:1> This type is informally identified as bubble-wall material.
+<ICE-CAN:W2A-027#68:1> The second type is thick, irregular to somewhat elon <l> gated grains
+
+that have large amounts of gas and mineral inclu <l> sions.
+<ICE-CAN:W2A-027#69:1> This material resembles comminuted pumice.
+<ICE-CAN:W2A-027#70:1> The third type is elongated cylindrical shapes that have an oval
+
+cross section ( needles).
+<ICE-CAN:W2A-027#71:1> Enclosures of gas are often present as bubble trains elongated along
+
+the long axis. </p>
+
+<p> <ICE-CAN:W2A-027#72:1> The treatment of ached peat residue with hydrochloric and nitric
+
+acid ( <foreign> aqua regia </foreign> ) removes the readily acid-soluble
+
+minerals leaving resistant minerals, such as quartz and feld <l> <O> diagram
+
+</O> <O> diagram caption </O> spar, in the residue ( Jackson <it> et al <it> .
+
+1986).
+<ICE-CAN:W2A-027#73:1> Volcanic glass, com <l> posed mainly of SiO <sb> 2 </sb> ( silica),
+
+is not dissolved in the acid treatment, as shown by the close relationship
+
+between amounts of acid-insoluble ash and volcanic ash ( Fig. 2). </p>
+
+<p> <ICE-CAN:W2A-027#74:1> Volcanic ash is composed of elements that are considerably
+
+different from the components of the peat.
+<ICE-CAN:W2A-027#75:1> The bulk of the ash is SiO <sb> 2 </sb> and Al <sb> 2 </sb> O <sb> 3
+
+</sb> , with significant amounts of FeO, Na <sb> 2 </sb> 0, CaO, and K <sb> 2
+
+</sb> O ( Westgate <it> et al <it> . 1970).
+<ICE-CAN:W2A-027#76:1> Among the minor con <l> stituents, TiO <sb> 2 </sb> is noteworthy.
+<ICE-CAN:W2A-027#77:1> It probably originates from high-TiO <sb> 2 </sb> magnetites present
+
+in the tephra ( King <it> et al <it> . 1982).
+<ICE-CAN:W2A-027#78:1> Most of the major elemental constituents occur commonly in peat,
+
+originating from airborne dust and from water-soluble and biologically
+
+generated sources.
+<ICE-CAN:W2A-027#79:1> However, it was found that Ti and Al are associated with high levels
+
+of volcanic ash ( Si was not determined) ( Fig. 2).
+<ICE-CAN:W2A-027#80:1> Titanium is particularly use <l> ful as an indicator because
+
+background levels of Ti are low in the study area and the main source is the
+
+volcanic aerosol. </p>
+
+<p> <ICE-CAN:W2A-027#81:1> The advantage of using microscopic and chemical means to identify
+
+the nonvisible ash layers is demonstrated in Fig. 2.
+<ICE-CAN:W2A-027#82:1> In the upper and middle zone the ash grain count and the Ti and Al
+
+analyses show distinct peaks, although the acid-insoluble ash is low,
+
+possibly because of the small size and low weight of the volcanic-ash grains.
+<ICE-CAN:W2A-027#83:1> At the base of the lower ash zone all indicators show high values,
+
+but the underlying mineral soil is distinguished by the absence of
+
+volcanic-ash grains and low Ti values. </p>
+
+<p> <ICE-CAN:W2A-027#84:1> The examination of peat through radiocarbon dating and through
+
+visual, microscopic, and chemical methods resulted in the identification of
+
+three distinct volcanic-ash layers and ash-enriched zones.
+<ICE-CAN:W2A-027#85:1> In cases where radiocarbon control was not available the tephra was
+
+assigned to an ash zone on the basis of stratigraphic position and tephra
+
+morphology. </p>
+
+<p> <ICE-CAN:W2A-027#86:1> The depth at which the ash-enriched zones and ash layers occur is
+
+not constant because of different rates of peat accumu <l> lation in
+
+different kinds of wetlands.
+<ICE-CAN:W2A-027#87:1> The relative position of the ash-enriched zones within the peat
+
+deposit is, however, relatively constant, except in anomalous, eroding peat
+
+deposits such as site 11.
+<ICE-CAN:W2A-027#88:1> The base of the upper ash-enriched zone is about a third of the way
+
+down the peat column, the middle zone is at about the middle of the peat
+
+column, and the lower zone is near the base of the peat column ( Table 1).
+
+</p>
+
+<p> <ICE-CAN:W2A-027#89:1> The upper ash-enriched zone was found at 13 locations in peat
+
+deposits in the western part of central Alberta ( Fig. 3).
+<ICE-CAN:W2A-027#90:1> It had an average thickness of 13 cm ( Table 1).
+<ICE-CAN:W2A-027#91:1> Visible ash was relatively rare in this area ( sites 5, 6, and 11;
+
+Fig. 3); where present, it was thin and discontinuous ( Kearney and Luckman
+
+1983).
+<ICE-CAN:W2A-027#92:1> The ash consists of about equal proportions of pumice and bubble-wall
+
+materials, with rare but constant vesicular needle grains. </p>
+
+<p> <ICE-CAN:W2A-027#93:1> At 12 sites in the peatlands of central Alberta the middle
+
+ash-enriched zone was found in about the same areas as the upper zone ( Fig.
+
+4).
+<ICE-CAN:W2A-027#94:1> The middle zone had an average thickness of 11 cm ( Table 1).
+<ICE-CAN:W2A-027#95:1> Visible ash layers were common ( sites 2, 7, 8, 9, and 11; Fig. 4).
+<ICE-CAN:W2A-027#96:1> At site 7 three distinct layers could be discerned ( Fig. 1), but the
+
+ash generally occurred in a single layer.
+<ICE-CAN:W2A-027#97:1> The ash consists primarily of pumice, with much lower proportions of
+
+bubble-wall material. </p>
+
+<p> <ICE-CAN:W2A-027#98:1> The lower ash-enriched zone had the widest distribution in the
+
+peatlands of central Alberta ( Fig. 5).
+<ICE-CAN:W2A-027#99:1> It contained one or two visible ash layers in the sites west of
+
+Edmonton, but visible volcanic ash was not detected in the peat to the
+
+north-east.
+<ICE-CAN:W2A-027#100:1> The ash-enriched zone was thick, averaging 23 cm ( Table 1).
+<ICE-CAN:W2A-027#101:1> The ash consists almost exclusively of bubble-wall materials. </p>
+<ICE-CAN:W2A-027#102:1> <h> <it> Radiocarbon dating </it> </h>
+
+<p> <ICE-CAN:W2A-027#103:1> A total of 33 <sp> 14 </sp> C dates are available for samples
+
+from 10 peatlands and one lake in central Alberta where the organic deposits
+
+were directly relevant to the volcanic-ash layers and ash-enriched zones (
+
+Table 2). <O> table </O> <O> map </O> <O> Fig.3. caption </O>
+<ICE-CAN:W2A-027#104:1> These dates provide an approxi <l> mation of the time of visible ash
+
+deposition and the period during which the ash-enriched layer was deposited.
+<ICE-CAN:W2A-027#105:1> However, most of the dates are some centimetres above or below the
+
+ash layer, necessitating a projection of the date on the basis of the rate of
+
+peat accumulation.
+<ICE-CAN:W2A-027#106:1> By assuming a uniform rate of peat formation, one can calculate the
+
+rate of peat accumulation between a dated section and the surface ( 0 years)
+
+or between two dated sections.
+<ICE-CAN:W2A-027#107:1> This rate can then be used to estimate the projected age of any
+
+point within the peat section. </p> </I>

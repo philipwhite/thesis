@@ -1,0 +1,644 @@
+<I>
+
+<$A> <ICE-CAN:S1B-061#1:1:A> I gather <}> <-> it </-> <=> it </=> </}> is correct <}> <->
+
+that </-> <=> that </=> </}> you weren't married <}> <-> at </-> <=> at </=>
+
+</}> the time of this incident
+
+<$B> <ICE-CAN:S1B-061#2:1:B> I was engaged yeah
+
+<$A> <ICE-CAN:S1B-061#3:1:A> You were engaged
+<ICE-CAN:S1B-061#4:1:A> So it was your fiancee that you were <unclear> two words </unclear>
+
+<$B> <ICE-CAN:S1B-061#5:1:B> That's right
+
+<$A> <ICE-CAN:S1B-061#6:1:A> And uh <,> uh what does your father do
+<ICE-CAN:S1B-061#7:1:A> <?> What's his name </?> what does he do
+
+<$B> <ICE-CAN:S1B-061#8:1:B> <}> <-> My dad's </-> Uh <=> his name </=> </}> is <@> George
+
+Harrison </@> and uh <}> <-> he has </-> <=> he works </=> </}> for <unclear>
+
+two words </unclear>
+
+<$A> <ICE-CAN:S1B-061#9:1:A> And is that what he's always done
+
+<$B> <ICE-CAN:S1B-061#10:1:B> Farmer before that <,> and crop insurance
+
+<$A> <ICE-CAN:S1B-061#11:1:A> And uh so uhm would there be <}> <-> in any </-> <=> any
+
+connection </=> </}> in which you would be called the boss's son
+
+<$B> <ICE-CAN:S1B-061#12:1:B> No <O> confused sigh </O> no
+
+<$A> <ICE-CAN:S1B-061#13:1:A> Do you have some sort of connection uh <,>
+<ICE-CAN:S1B-061#14:1:A> What is your relationship with <@> Frank Lawson </@>
+<ICE-CAN:S1B-061#15:1:A> Is he a supervisor of yours or
+
+<$B> <ICE-CAN:S1B-061#16:1:B> No
+<ICE-CAN:S1B-061#17:1:B> No he owns <@> Bob's Realty </@> in <@> Wonderland </@>
+
+<$A> <ICE-CAN:S1B-061#18:1:A> So he is an owner separate <}> <-> from </-> <{> <[> <=> from
+
+</=> </}> your business </[>
+
+<$B> <ICE-CAN:S1B-061#19:1:B> <[> That's right </[> </{>
+<ICE-CAN:S1B-061#20:1:B> That's right
+
+<$A> <ICE-CAN:S1B-061#21:1:A> And who owns <}> <-> your <.> bus </.> </-> <=> the one </=>
+
+</}> that you work for
+
+<$B> <ICE-CAN:S1B-061#22:1:B> <}> <-> <@> Harry Harley </@> </-> <=> <@> Harley </@> </=>
+
+</}> <,> <@> Li </@>
+
+<$A> <ICE-CAN:S1B-061#23:1:A> <@> Harley Li </@>
+
+<$B> <ICE-CAN:S1B-061#24:1:B> <@> Harley Li </@>
+
+<$A> <ICE-CAN:S1B-061#25:1:A> And uh do you have some personal connection with that person
+
+<$B> <ICE-CAN:S1B-061#26:1:B> No
+
+<$A> <ICE-CAN:S1B-061#27:1:A> Okay
+<ICE-CAN:S1B-061#28:1:A> Uh <}> <-> what </-> <=> what </=> </}> is your position in the
+
+company that you work for
+
+<$B> <ICE-CAN:S1B-061#29:1:B> Realtor
+
+<$A> <ICE-CAN:S1B-061#30:1:A> Okay uhm <,> is there a hierarchy
+<ICE-CAN:S1B-061#31:1:A> Do you have someone that supervises you or do you just <{> <[> <?>
+
+go in and </?> </[>
+
+<$B> <ICE-CAN:S1B-061#32:1:B> <[> No </[> </{>
+<ICE-CAN:S1B-061#33:1:B> It's just the owner and then uh agents
+
+<$A> <ICE-CAN:S1B-061#34:1:A> Okay and <}> <-> that's </-> <=> you've </=> </}> been here
+
+doing that same position for five and half years <unclear> two or three words
+
+</unclear>
+
+<$B> <ICE-CAN:S1B-061#35:1:B> With <@> Bob's Realty </@> yes
+
+<$A> <ICE-CAN:S1B-061#36:1:A> Now uhm how often do they have these kind of golf tournaments
+
+<?> really </?>
+
+<$B> <ICE-CAN:S1B-061#37:1:B> Once a year
+
+<$A> <ICE-CAN:S1B-061#38:1:A> <}> <-> Is it </-> <=> Is it </=> </}> an annual event
+
+<$B> <ICE-CAN:S1B-061#39:1:B> Uhm
+
+<$A> <ICE-CAN:S1B-061#40:1:A> Like <}> <-> do they do they <.> ha </.> is it </-> <=> is it
+
+</=> </}> the same event every year <,>
+<ICE-CAN:S1B-061#41:1:A> Like <?> always </?>
+
+<$B> <ICE-CAN:S1B-061#42:1:B> Uhm not necessarily always at <@> Jack's </@>
+
+<$A> <ICE-CAN:S1B-061#43:1:A> They move around
+
+<$B> <ICE-CAN:S1B-061#44:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#45:1:A> How often have you gone before
+<ICE-CAN:S1B-061#46:1:A> How many times
+
+<$B> <ICE-CAN:S1B-061#47:1:B> Uhm <,> maybe twice
+
+<$A> <ICE-CAN:S1B-061#48:1:A> Does everybody go
+
+<$B> <ICE-CAN:S1B-061#49:1:B> Uhm not always
+
+<$A> <ICE-CAN:S1B-061#50:1:A> Uh do you have any of your expenses paid or is there <}> <->
+
+any </-> <,> <=> anything </=> </}> <}> <-> that </-> <=> that </=> </}> sort
+
+of <unclear> two words </unclear>
+
+<$B> <ICE-CAN:S1B-061#51:1:B> No we pay <,> all
+
+<$A> <ICE-CAN:S1B-061#52:1:A> You pay for the golfing
+
+<$B> <ICE-CAN:S1B-061#53:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#54:1:A> And you pay for the food
+
+<$B> <ICE-CAN:S1B-061#55:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-061#56:1:A> Is there anything that's offered by <@> Bob's Realty </@>
+
+<$B> <ICE-CAN:S1B-061#57:1:B> <O> laugh </O> No we're a hundred percent <?> each </?>
+
+<$A> <ICE-CAN:S1B-061#58:1:A> Now uhm <,,> I gather that uh you were going to be uhm with
+
+the men that you were golfing with uhm
+<ICE-CAN:S1B-061#59:1:A> Hadn't you known them from before
+
+<$B> <ICE-CAN:S1B-061#60:1:B> Uh yes <,> through business yeah
+
+<$A> <ICE-CAN:S1B-061#61:1:A> Would you call them friends of yours
+
+<$B> <ICE-CAN:S1B-061#62:1:B> Uhm <,> <unclear> word </unclear> associates mostly
+<ICE-CAN:S1B-061#63:1:B> Like <}> <-> I didn't </-> <,> <=> I'd </=> </}> see them at
+
+conventions
+
+<$A> <ICE-CAN:S1B-061#64:1:A> <}> <-> Had you uh </-> <=> Had you </=> </}> decided as a
+
+group that you would golf together at this tournament
+
+<$B> <ICE-CAN:S1B-061#65:1:B> Uhm I don't know how they decided that cos I was late
+<ICE-CAN:S1B-061#66:1:B> Cos I was working that morning
+
+<$A> <ICE-CAN:S1B-061#67:1:A> And so you just <.> we </.>
+<ICE-CAN:S1B-061#68:1:A> How did you find out who you were signed up to play with
+
+<$B> <ICE-CAN:S1B-061#69:1:B> When I got there
+
+<$A> <ICE-CAN:S1B-061#70:1:A> Like they had <&> could be have </&> a list up that you read
+
+<$B> <ICE-CAN:S1B-061#71:1:B> Yeah yeah
+<ICE-CAN:S1B-061#72:1:B> The <unclear> word </unclear> secretary yeah
+
+<$A> <ICE-CAN:S1B-061#73:1:A> And it so happened that you knew the people <{> <[> that you
+
+</[> were <}> <-> gonna </-> <+> going to </+> </}> be golfing with
+
+<$B> <ICE-CAN:S1B-061#74:1:B> <[> Yeah </[> </{>
+
+<$B> <ICE-CAN:S1B-061#75:1:B> Yeah I know most of them
+<ICE-CAN:S1B-061#76:1:B> <{> <[> Cos I been in the business </[>
+
+<$A> <ICE-CAN:S1B-061#77:1:A> <[> You know most of the </[> </{> realtors
+
+<$B> <ICE-CAN:S1B-061#78:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#79:1:A> Okay
+<ICE-CAN:S1B-061#80:1:A> And uhm <,> did you start with lunch <,> at <@> Jack's </@>
+
+<$B> <ICE-CAN:S1B-061#81:1:B> That's right
+
+<$A> <ICE-CAN:S1B-061#82:1:A> <unclear> Three words </unclear> Lunch with the person
+
+<$B> <ICE-CAN:S1B-061#83:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#84:1:A> Were you meeting some people there or did they have a buffet
+
+of some kind
+
+<$B> <ICE-CAN:S1B-061#85:1:B> No they didn't have a buffet for lunch <,> uh <}> <-> but uh
+
+everybody </-> lunch was on your own <=> but everybody </=> </}> was having
+
+lunch
+
+<$A> <ICE-CAN:S1B-061#86:1:A> So who did you join
+<ICE-CAN:S1B-061#87:1:A> Like you <?> were saying </?> that you were late
+
+<$B> <ICE-CAN:S1B-061#88:1:B> Uhm I was with some <@> Metropolis </@> people and also the
+
+table next to ours was uh <,> my foursome
+
+<$A> <ICE-CAN:S1B-061#89:1:A> <}> <-> Kay </-> <+> Okay </+> </}> and uhm did you consume
+
+some alcohol at lunch
+
+<$B> <ICE-CAN:S1B-061#90:1:B> Yeah we had a <}> <-> coupla </-> <+> couple of </+> </}> beer
+
+<,> cos the rest of the day was done
+
+<$A> <ICE-CAN:S1B-061#91:1:A> What do you mean the rest of the day was done
+
+<$B> <ICE-CAN:S1B-061#92:1:B> Well <}> <-> for </-> <,> <=> for </=> </}> work
+
+<$A> <ICE-CAN:S1B-061#93:1:A> Oh I see <}> <-> you weren't </-> <=> you weren't </=> </}>
+
+working anymore so you were now socializing is that what you mean
+
+<$B> <ICE-CAN:S1B-061#94:1:B> Sure
+
+<$A> <ICE-CAN:S1B-061#95:1:A> And so you had a couple of beer
+
+<$B> <ICE-CAN:S1B-061#96:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-061#97:1:A> Do you know exactly how much you had to drink at
+
+<$B> <ICE-CAN:S1B-061#98:1:B> Two beers
+
+<$A> <ICE-CAN:S1B-061#99:1:A> Two beers
+
+<$B> <ICE-CAN:S1B-061#100:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#101:1:A> And uh did the rest of your party that you would be golfing
+
+with later do you know whether they had anything to drink as well
+
+<$B> <ICE-CAN:S1B-061#102:1:B> I'm not sure
+
+<$A> <ICE-CAN:S1B-061#103:1:A> You were not sitting with them
+
+<$B> <ICE-CAN:S1B-061#104:1:B> No
+
+<$A> <ICE-CAN:S1B-061#105:1:A> Okay
+<ICE-CAN:S1B-061#106:1:A> Uh did you have any other alcohol to drink over the course of the
+
+afternoon
+
+<$B> <ICE-CAN:S1B-061#107:1:B> Uhm a <}> <-> coupla </-> <+> couple of </+> </}> beer
+
+throughout <}> <-> the </-> <=> the </=> </}> game
+
+<$A> <ICE-CAN:S1B-061#108:1:A> And uh under what circumstances did you do that
+<ICE-CAN:S1B-061#109:1:A> Are you able to drink while you're actually golfing
+
+<$B> <ICE-CAN:S1B-061#110:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#111:1:A> And how does that work
+<ICE-CAN:S1B-061#112:1:A> Does somebody come around serving alcohol
+
+<$B> <ICE-CAN:S1B-061#113:1:B> Uh then they didn't
+<ICE-CAN:S1B-061#114:1:B> <}> <-> We had to We went to </-> <=> uh once we went around </=>
+
+</}> the first time <,> uh we stopped at the <,> little <}> <-> <.> confe
+
+</.> </-> <=> confectionery </=> </}> and we picked up some beer from there
+
+<$A> <ICE-CAN:S1B-061#115:1:A> And uh so when you were close enough <}> <-> you would </->
+
+<=> you would </=> </}> get
+
+<$B> <ICE-CAN:S1B-061#116:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#117:1:A> Do you know how many times you did that
+
+<$B> <ICE-CAN:S1B-061#118:1:B> Uh well I had a <}> <-> coupla </-> <+> couple of </+> </}>
+
+beer throughout the game so <,> maybe twice
+
+<$A> <ICE-CAN:S1B-061#119:1:A> And uh so and yeah what time were you planning to be finished
+
+your game
+<ICE-CAN:S1B-061#120:1:A> What time did you guys think you'd be done
+
+<$B> <ICE-CAN:S1B-061#121:1:B> Well usually it's uh uh eighteen holes but Texas Scramble is
+
+a little faster than an ordinary game because you bring up the balls to the
+
+best shot <,> and uh probably anywhere from four to <,> five hours <,> five
+
+and half hours
+
+<$A> <ICE-CAN:S1B-061#122:1:A> But so you played the game
+<ICE-CAN:S1B-061#123:1:A> I'm asking you you know what time was it that you got done
+<ICE-CAN:S1B-061#124:1:A> When did you finish at
+
+<$B> <ICE-CAN:S1B-061#125:1:B> Five thirty
+
+<$A> <ICE-CAN:S1B-061#126:1:A> <O> cough </O> So at the time that this whole incident
+
+happened within the <unclear> word </unclear> you had been drinking <?> all
+
+through it </?>
+
+<$B> <ICE-CAN:S1B-061#127:1:B> Yeah well yeah I think so
+
+<$A> <ICE-CAN:S1B-061#128:1:A> And uh <}> <-> did you uhm </-> <=> did anybody </=> </}>
+
+approach you or advise you <}> <-> that the the the problems or </-> <=> that
+
+<@> Jane </@> </=> </}> had felt there was a problem
+
+<$B> <ICE-CAN:S1B-061#129:1:B> Actually <}> <-> when </-> after the game <=> when I </=>
+
+</}> put my <,> equipment away and I changed my shoes and so on I went back
+
+<}> <-> to </-> <=> for </=> </}> the banquet <,> which started at six <,>
+
+six thirty
+<ICE-CAN:S1B-061#130:1:B> That's when <}> <-> Harley </-> <=> Harley Li </=> </}> came up to
+
+me and says you know uh there's been a complaint about you on the golf course
+
+<,> and uh that's where he says you know just <,> and I said well <}> <->
+
+let's </-> you know <=> let's </=> </}> talk about it and he says no let's
+
+just <,> forget it and uh <,> uh <,,> better leave he said <,>
+<ICE-CAN:S1B-061#131:1:B> <?> That would be for the </?>
+
+<$A> <ICE-CAN:S1B-061#132:1:A> So that's what you did
+
+<$B> <ICE-CAN:S1B-061#133:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#134:1:A> So I gather that you must have been quite confused at that
+
+point
+
+<$B> <ICE-CAN:S1B-061#135:1:B> I was uhm <,> embarrassed <,> yeah
+
+<$A> <ICE-CAN:S1B-061#136:1:A> So the other people <}> <-> who </-> <=> that </=> </}> you
+
+were golfing with did they know what had happened <}> <-> that you were <.>
+
+ha </.> </-> <=> that you were </=> </}> <,> were they nearby or did you tell
+
+them
+
+<$B> <ICE-CAN:S1B-061#137:1:B> I didn't have a chance to talk to them
+<ICE-CAN:S1B-061#138:1:B> I was actually embarrassed
+
+<$A> <ICE-CAN:S1B-061#139:1:A> And you left
+
+<$B> <ICE-CAN:S1B-061#140:1:B> That's right
+
+<$A> <ICE-CAN:S1B-061#141:1:A> So you don't know whether the rest of your uh group found out
+
+<$B> <ICE-CAN:S1B-061#142:1:B> No
+
+<$A> <ICE-CAN:S1B-061#143:1:A> <}> <-> About </-> <=> You </=> </}> don't know anything
+
+about that
+
+<$B> <ICE-CAN:S1B-061#144:1:B> No
+
+<$A> <ICE-CAN:S1B-061#145:1:A> Now uhm <,> during the course of <}> <-> the </-> uhm <=> the
+
+day </=> </}> <}> <-> that </-> <,> <=> that </=> </}> you described uhm are
+
+you able to tell us whether or not at that point the people that you were
+
+golfing with whether or not they were drinking
+<ICE-CAN:S1B-061#146:1:A> Were they also
+
+<$B> <ICE-CAN:S1B-061#147:1:B> Well <}> <-> we had a </-> <,> again <=> we had a </=> </}>
+
+<}> <-> coupla </-> <+> couple of </+> </}> drinks <,> yeah
+
+<$A> <ICE-CAN:S1B-061#148:1:A> They were
+<ICE-CAN:S1B-061#149:1:A> I'm asking you if you <{> <[> <unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1B-061#150:1:B> <[> Same </[> </{> <,> same <,> same yeah
+
+<$A> <ICE-CAN:S1B-061#151:1:A> Okay <&> pause about 15 seconds </&>
+<ICE-CAN:S1B-061#152:1:A> Now uh you say <}> <-> that you uh </-> <,> <=> that you uh </=>
+
+</}> <,> are good with faces but I gather <,> the first time that uh <@> Jane
+
+</@> came round you didn't recognize her
+
+<$B> <ICE-CAN:S1B-061#153:1:B> No
+
+<$A> <ICE-CAN:S1B-061#154:1:A> <}> <-> And uh </-> <,> <=> And </=> </}> the second time <}>
+
+<-> that </-> <=> that </=> </}> she came by or the time <}> <-> that </->
+
+<=> that </=> </}> <unclear> two or three words </unclear> are talking about
+
+uh again you didn't recognize her <,> after she'd used your name
+
+<$B> <ICE-CAN:S1B-061#155:1:B> After she said <@> Pierre </@> then <}> <-> I I </-> <=> I
+
+</=> </}> looked at her and I thought oh <}> <-> I </-> <=> I </=> </}> <}>
+
+<-> kinda </-> <+> kind of </+> </}> know her maybe and so I went up to her
+
+and we started talking and that's where <,> it all came back to me
+
+<$A> <ICE-CAN:S1B-061#156:1:A> Okay <,> now when you went up to her and started talking to
+
+her uhh exactly what did you talk about
+
+<$B> <ICE-CAN:S1B-061#157:1:B> Basically <@> Whoville </@> <,> about the <@> Whoville </@>
+
+and I told her I was engaged <,> uh talked to her <}> <-> to see if <.> sh
+
+</.> </-> <=> to see if she </=> </}> was still going out with uh <,> <@> <.>
+
+Mi </.> </@> uh his name is <,> <}> <-> <@> <.> Mi </.> </@> <@> Mike </@>
+
+<,> </-> <=> <@> Mike </@> </=> </}> uh I <}> <-> dunno </-> <+> don't know
+
+</+> </}> his last name <,> <@> Simpson </@>
+
+<$A> <ICE-CAN:S1B-061#158:1:A> And uh uhm <,> when you were you were standing by her cart
+
+while she was sitting in it and you were <?> drinking </?> with her
+
+<$B> <ICE-CAN:S1B-061#159:1:B> That's right
+
+<$A> <ICE-CAN:S1B-061#160:1:A> She didn't get out of her cart at that <?> point </?>
+
+<$B> <ICE-CAN:S1B-061#161:1:B> No
+
+<$A> <ICE-CAN:S1B-061#162:1:A> And you say <}> <-> the other </-> <=> the other </=> </}>
+
+people that you were golfing with were also there
+
+<$B> <ICE-CAN:S1B-061#163:1:B> Yes
+<ICE-CAN:S1B-061#164:1:B> <@> Frank </@> and <@> Mark </@> and <{> <[> <,> </[> <@> Steve
+
+</@> were nearby as well
+
+<$B> <ICE-CAN:S1B-061#165:1:B> <[> Yeah </[> </{>
+<ICE-CAN:S1B-061#166:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-061#167:1:A> <}> <-> Was </-> <=> Is </=> </}> it possible that someone
+
+was purchasing something from her <,> something to drink <,> at that time
+<ICE-CAN:S1B-061#168:1:A> <}> <-> Or </-> <=> Or </=> </}> you just didn't see anything like
+
+that happen
+
+<$B> <ICE-CAN:S1B-061#169:1:B> No
+<ICE-CAN:S1B-061#170:1:B> No
+
+<$A> <ICE-CAN:S1B-061#171:1:A> You don't know
+
+<$B> <ICE-CAN:S1B-061#172:1:B> No I don't know
+
+<$A> <ICE-CAN:S1B-061#173:1:A> Okay
+<ICE-CAN:S1B-061#174:1:A> Uh so the other people that you were with would have been around
+
+for the <?> rest of </?> that conversation
+
+<$B> <ICE-CAN:S1B-061#175:1:B> Yes <&> pause about 12 seconds </&>
+
+<$A> <ICE-CAN:S1B-061#176:1:A> And uh uhm how much time did you actually spend talking to
+
+her <,>
+
+<$B> <ICE-CAN:S1B-061#177:1:B> Not very long because <}> <-> <}> <-> we had just </-> like I
+
+said <=> we had just </=> </}> shot <,> uhm our </-> <=> we just drove our
+
+balls </=> </}> and that's putting the club away then I went and talked to
+
+her and then those guys finished putting their clubs away and then <}> <->
+
+that's </-> <=> they </=> </}> took off and then that's when I asked her for
+
+a ride
+
+<$A> <ICE-CAN:S1B-061#178:1:A> Did they tell you that they were leaving
+
+<$B> <ICE-CAN:S1B-061#179:1:B> Yeah we're <}> <-> outta </-> <+> out of </+> </}> here
+
+<$A> <ICE-CAN:S1B-061#180:1:A> Is there a reason why <,> they left without you
+
+<$B> <ICE-CAN:S1B-061#181:1:B> They were probably <,> bugging <,>
+<ICE-CAN:S1B-061#182:1:B> I <}> <-> dunno </-> <+> don't know </+> </}> <,>
+<ICE-CAN:S1B-061#183:1:B> They left <,>
+
+<$A> <ICE-CAN:S1B-061#184:1:A> <}> <-> You're </-> <=> And </=> </}> uh it's your evidence
+
+<}> <-> that </-> uh <,,> <=> that </=> </}> <@> Jane </@> agreed to give you
+
+a ride
+
+<$B> <ICE-CAN:S1B-061#185:1:B> That's right
+<ICE-CAN:S1B-061#186:1:B> I <}> <-> wouldna </-> <+> wouldn't have </+> </}> went on the
+
+cart if she <}> <-> woulda </-> <+> would have </+> </}> told me no <&> pause
+
+about 15 seconds </&>
+
+<$A> <ICE-CAN:S1B-061#187:1:A> <}> <-> I gather that during the once that you </-> <=> You
+
+say you </=> </}> drove to this other spot I gather that once you were there
+
+you were close to where <@> Jane </@> was the whole time that she was at that
+
+location
+
+<$B> <ICE-CAN:S1B-061#188:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#189:1:A> Is that right
+
+<$B> <ICE-CAN:S1B-061#190:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#191:1:A> So anything that happened in relation to her you would have
+
+observed
+
+<$B> <ICE-CAN:S1B-061#192:1:B> I thought I did
+
+<$A> <ICE-CAN:S1B-061#193:1:A> Well perhaps <}> <-> you could </-> <=> you could </=> </}>
+
+just be clear for us
+<ICE-CAN:S1B-061#194:1:A> Is there some way you could have missed something that happened
+
+<$B> <ICE-CAN:S1B-061#195:1:B> Well mind you <}> <-> there's </-> <,> <=> we </=> </}>
+
+weren't concentrating on her
+<ICE-CAN:S1B-061#196:1:B> Like we were golfing uhm
+<ICE-CAN:S1B-061#197:1:B> <}> <-> <.> May </.> </-> <=> Like </=> </}> the conversation with
+
+<@> Frank Lawson </@> <}> <-> I didn't </-> uh <=> I didn't </=> </}> hear or
+
+overhear anything of that kind so
+
+<$A> <ICE-CAN:S1B-061#198:1:A> <}> <-> So uhm <,,> </-> <=> So I guess </=> </}> <}> <->
+
+what uh is </-> <=> what you're saying is </=> </}> that when you got to the
+
+spot you got up and left and went to actually golf <,> on the course
+
+<$B> <ICE-CAN:S1B-061#199:1:B> Well I went back to <,> my cart wasn't far <,> like it was
+
+right beside basically on the right hand side so I just basically went there
+
+uhm <,> check my club which club I'm <}> <-> gonna </-> <+> going to </+>
+
+</}> use <,>
+<ICE-CAN:S1B-061#200:1:B> That's what we do when we golf
+
+<$A> <ICE-CAN:S1B-061#201:1:A> So <}> <-> you left <.> whe </.> </-> <=> you got off of </=>
+
+</}> her cart went over <}> <-> to </-> <=> to </=> </}> your cart
+
+<$B> <ICE-CAN:S1B-061#202:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-061#203:1:A> And you were looking at your golf equipment
+
+<$B> <ICE-CAN:S1B-061#204:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-061#205:1:A> And <}> <-> that </-> you say it's during <=> that </=> </}>
+
+time frame <}> <-> that </-> <=> that </=> </}> <@> Frank </@> had some sort
+
+of a conversation with <@> Jane </@>
+
+<$B> <ICE-CAN:S1B-061#206:1:B> I yeah
+
+<$A> <ICE-CAN:S1B-061#207:1:A> And you're saying that you were unable to hear that
+
+<$B> <ICE-CAN:S1B-061#208:1:B> No
+
+<$A> <ICE-CAN:S1B-061#209:1:A> Now was there a reason why you couldn't hear what the
+
+conversation was about
+
+<$B> <ICE-CAN:S1B-061#210:1:B> I wasn't paying attention
+
+<$A> <ICE-CAN:S1B-061#211:1:A> What were you paying attention to
+
+<$B> <ICE-CAN:S1B-061#212:1:B> <,,> Golfing
+
+<$A> <ICE-CAN:S1B-061#213:1:A> Well what do you mean by that <unclear> word </unclear>
+
+<$B> <ICE-CAN:S1B-061#214:1:B> Well <,> I was thinking of what my next shot and what my next
+
+uh club I'm <}> <-> gonna </-> <+> going to </+> </}> use <,>
+<ICE-CAN:S1B-061#215:1:B> There's fifteen other clubs so I was trying to figure out which
+
+club I was <}> <-> gonna </-> <+> going to </+> </}> use
+
+<$A> <ICE-CAN:S1B-061#216:1:A> So you were standing looking at your golf cart <,> clubs and
+
+thinking
+<ICE-CAN:S1B-061#217:1:A> Is that what you're saying
+
+<$B> <ICE-CAN:S1B-061#218:1:B> Yeah
+
+<$A> <ICE-CAN:S1B-061#219:1:A> And that's why you couldn't hear <}> <-> what </-> <{> <[>
+
+<,,> </[> <=> what </=> </}> was going on
+
+<$B> <ICE-CAN:S1B-061#220:1:B> <[> That's right </[> </{> <&> pause about 10 seconds </&>
+
+<$A> <ICE-CAN:S1B-061#221:1:A> And then you say you went back to where <@> Jane </@> was
+
+<$B> <ICE-CAN:S1B-061#222:1:B> That's right
+
+<$A> <ICE-CAN:S1B-061#223:1:A> Back to her cart
+<ICE-CAN:S1B-061#224:1:A> Why did you do that <,>
+
+<$B> <ICE-CAN:S1B-061#225:1:B> To see what was going on
+<ICE-CAN:S1B-061#226:1:B> I don't know I just went back <O> clears throat </O>
+
+<$A> <ICE-CAN:S1B-061#227:1:A> Well <}> <-> when you looked </-> <=> when you looked </=>
+
+</}> at her cart what was going on
+<ICE-CAN:S1B-061#228:1:A> Who was there
+<ICE-CAN:S1B-061#229:1:A> What was happening
+
+<$B> <ICE-CAN:S1B-061#230:1:B> When I got there she was standing <,> and that's where <}>
+
+<-> I </-> <=> I </=> </}> said oh <,> another hug
+<ICE-CAN:S1B-061#231:1:B> So I gave another hug and that's when I hugged her again
+
+<$A> <ICE-CAN:S1B-061#232:1:A> Okay well I'll just stop you there
+<ICE-CAN:S1B-061#233:1:A> <?> If you look back </?> she was standing
+<ICE-CAN:S1B-061#234:1:A> Where was <@> Frank </@>
+
+<$B> <ICE-CAN:S1B-061#235:1:B> Right by his cart
+
+<$A> <ICE-CAN:S1B-061#236:1:A> So he was no longer talking to her
+
+<$B> <ICE-CAN:S1B-061#237:1:B> Uhh no <,> </I>

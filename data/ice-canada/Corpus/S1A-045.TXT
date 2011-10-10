@@ -1,0 +1,746 @@
+<I>
+
+<$C> <ICE-CAN:S1A-045#1:1:C> It's fine <,,>
+
+<$A> <ICE-CAN:S1A-045#2:1:A> Ya <,,>
+
+<$C> <ICE-CAN:S1A-045#3:1:C> It doesn't have the bite
+
+<$A> <ICE-CAN:S1A-045#4:1:A> Ya it cuts down the vinegar <,,>
+
+<$C> <ICE-CAN:S1A-045#5:1:C> It's almost room temperature
+
+<$B> <ICE-CAN:S1A-045#6:1:B> So did the guy at uhm
+<ICE-CAN:S1A-045#7:1:B> <}> <-> What's </-> <=> what's </=> </}> the fish store's name
+
+<$C> <ICE-CAN:S1A-045#8:1:C> <@> Goldman </@> 's
+
+<$B> <ICE-CAN:S1A-045#9:1:B> <@> Goldman </@> 's
+<ICE-CAN:S1A-045#10:1:B> Did the guy at <@> Goldman </@> 's know <@> Nari </@>
+
+<$C> <ICE-CAN:S1A-045#11:1:C> Oh ya he walked in he said hi to everyone
+
+<$B> <ICE-CAN:S1A-045#12:1:B> <O> laugh </O>
+
+<$C> <ICE-CAN:S1A-045#13:1:C> Let's see
+<ICE-CAN:S1A-045#14:1:C> Should we cover it
+
+<$A> <ICE-CAN:S1A-045#15:1:A> No cos you want no steam right <,,>
+
+<$C> <ICE-CAN:S1A-045#16:1:C> <}> <-> Kay </-> <+> okay </+> </}> two covers ready
+
+<$B> <ICE-CAN:S1A-045#17:1:B> How do you think that we should do this
+
+<$C> <ICE-CAN:S1A-045#18:1:C> Uhm just <,> thin slices <,,>
+<ICE-CAN:S1A-045#19:1:C> <unclear> word </unclear> tear it like as long as like lengthwise
+
+<$B> <ICE-CAN:S1A-045#20:1:B> Okay
+<ICE-CAN:S1A-045#21:1:B> Let's just do one for now
+<ICE-CAN:S1A-045#22:1:B> Actually
+
+<$C> <ICE-CAN:S1A-045#23:1:C> This is going to be so delicious <,,>
+<ICE-CAN:S1A-045#24:1:C> <O> Whee </O> <,> It's so spicy
+<ICE-CAN:S1A-045#25:1:C> That stuff just burnt my nostrils off <,,>
+
+<$A> <ICE-CAN:S1A-045#26:1:A> I'm just <}> <-> gonna </-> <+> going to </+> </}> try <,>
+
+spooning it out <,> first <,,>
+
+<$B> <ICE-CAN:S1A-045#27:1:B> Are they ripe
+
+<$A> <ICE-CAN:S1A-045#28:1:A> I tried to get <{> <[> really ripe ones </[>
+
+<$C> <ICE-CAN:S1A-045#29:1:C> <[> <unclear> three or four words </unclear> </[> </{> they're
+
+perfect
+
+<$A> <ICE-CAN:S1A-045#30:1:A> Ya
+
+<$C> <ICE-CAN:S1A-045#31:1:C> Really soft
+
+<$A> <ICE-CAN:S1A-045#32:1:A> Oops
+
+<$B> <ICE-CAN:S1A-045#33:1:B> You did that on purpose
+
+<$A> <ICE-CAN:S1A-045#34:1:A> No I didn't <O> laugh </O>
+
+<$C> <ICE-CAN:S1A-045#35:1:C> Should I run and get cigarettes now
+
+<$A> <ICE-CAN:S1A-045#36:1:A> Sure <,,>
+
+<$C> <ICE-CAN:S1A-045#37:1:C> Sure of course you're saying sure you don't want me <unclear>
+
+phrase </unclear>
+
+<$B> <ICE-CAN:S1A-045#38:1:B> I'll wait for you
+
+<$C> <ICE-CAN:S1A-045#39:1:C> No just kidding
+<ICE-CAN:S1A-045#40:1:C> You guys can start
+
+<$B> <ICE-CAN:S1A-045#41:1:B> What else do we have to cook <,,>
+
+<$A> <ICE-CAN:S1A-045#42:1:A> Uhm <,> I think we've got everything <,,> <&> 10 seconds
+
+cooking noises </&>
+
+<$A> <ICE-CAN:S1A-045#43:1:A> Okay I'll take this piece
+
+<$B> <ICE-CAN:S1A-045#44:1:B> Mhh
+
+<$A> <ICE-CAN:S1A-045#45:1:A> Mhh hmm hmm hmm <,,>
+<ICE-CAN:S1A-045#46:1:A> Yummy
+<ICE-CAN:S1A-045#47:1:A> <O> cough </O>
+<ICE-CAN:S1A-045#48:1:A> Okay so that's
+<ICE-CAN:S1A-045#49:1:A> Wow <,,>
+<ICE-CAN:S1A-045#50:1:A> It's getting pretty warm in here <,,>
+
+<$B> <ICE-CAN:S1A-045#51:1:B> What should we roll on
+<ICE-CAN:S1A-045#52:1:B> Should we roll right on the table surface
+
+<$A> <ICE-CAN:S1A-045#53:1:A> We've got a roller
+
+<$B> <ICE-CAN:S1A-045#54:1:B> Oh we do
+
+<$A> <ICE-CAN:S1A-045#55:1:A> Mhh hmm
+<ICE-CAN:S1A-045#56:1:A> Where the chopsticks are
+
+<$B> <ICE-CAN:S1A-045#57:1:B> Great <,,> <&> 10 seconds cooking noises </&>
+
+<$A> <ICE-CAN:S1A-045#58:1:A> Oops that didn't work so well <&> 7 seconds cooking noises
+
+</&>
+
+<$B> <ICE-CAN:S1A-045#59:1:B> I'm just putting your keys on top of the water
+
+<$A> <ICE-CAN:S1A-045#60:1:A> Okay <,,>
+<ICE-CAN:S1A-045#61:1:A> That's all of our <}> <-> <.> fixins </.> </-> <+> fixings </+>
+
+</}> are here
+
+<$B> <ICE-CAN:S1A-045#62:1:B> Woo hoo
+
+<$A> <ICE-CAN:S1A-045#63:1:A> So that's it
+
+<$B> <ICE-CAN:S1A-045#64:1:B> Oh really <,,>
+
+<$A> <ICE-CAN:S1A-045#65:1:A> We could use that wooden board as one surface
+
+<$B> <ICE-CAN:S1A-045#66:1:B> Well you'll have to put that on
+<ICE-CAN:S1A-045#67:1:B> We don't need to use these <,> or this
+
+<$A> <ICE-CAN:S1A-045#68:1:A> It makes for a tighter roll
+
+<$B> <ICE-CAN:S1A-045#69:1:B> I know <,> cos you go like and then you like
+
+<$A> <ICE-CAN:S1A-045#70:1:A> Mhh hmm
+<ICE-CAN:S1A-045#71:1:A> Scrunch it up
+
+<$B> <ICE-CAN:S1A-045#72:1:B> Ya
+
+<$A> <ICE-CAN:S1A-045#73:1:A> It's fun
+<ICE-CAN:S1A-045#74:1:A> Just use that
+
+<$B> <ICE-CAN:S1A-045#75:1:B> Okay
+
+<$A> <ICE-CAN:S1A-045#76:1:A> <}> <-> We don't </-> <=> I mean we could do two </=> </}>
+<ICE-CAN:S1A-045#77:1:A> We can roll at the same time <,,> and you can use that for a part
+
+of the time and then switch
+
+<$B> <ICE-CAN:S1A-045#78:1:B> And then as soon as I got the first roll give it to you and
+
+then roll it up
+
+<$A> <ICE-CAN:S1A-045#79:1:A> Sure
+
+<$B> <ICE-CAN:S1A-045#80:1:B> Okay <,,> <?>
+
+<$A> </?>
+<ICE-CAN:S1A-045#81:1:A> <unclear> phrase </unclear>
+
+<$B> <ICE-CAN:S1A-045#82:1:B> I think we need to eat some of this
+
+<$A> <ICE-CAN:S1A-045#83:1:A> <O> laugh </O> <,,>
+<ICE-CAN:S1A-045#84:1:A> So what are you going to do about the Mirror <&> Montreal newspaper
+
+</&> tomorrow
+
+<$B> <ICE-CAN:S1A-045#85:1:B> Fuck I'm going to call
+<ICE-CAN:S1A-045#86:1:B> Like <,> I don't know I'm <}> <-> gonna </-> <+> going to </+> </}>
+
+give <{> <[> her <unclear> word </unclear> </[>
+
+<$A> <ICE-CAN:S1A-045#87:1:A> <[> So this woman </[> </{> is never in
+<ICE-CAN:S1A-045#88:1:A> Like you call <{> <[> her and </[> just leave messages
+
+<$B> <ICE-CAN:S1A-045#89:1:B> <[> Mhh hmm </[> </{> <,,>
+<ICE-CAN:S1A-045#90:1:B> I left a message on Thursday <,,> and I didn't get a call back on
+
+Thursday or on Friday <,,>
+
+<$A> <ICE-CAN:S1A-045#91:1:A> What's her name
+
+<$B> <ICE-CAN:S1A-045#92:1:B> <@> Angie Shrewsbury </@>
+<ICE-CAN:S1A-045#93:1:B> She's a publisher
+
+<$A> <ICE-CAN:S1A-045#94:1:A> So <@> Tiff </@> knows her eh
+
+<$B> <ICE-CAN:S1A-045#95:1:B> Yup
+
+<$A> <ICE-CAN:S1A-045#96:1:A> <O> cough </O> Would it help if you mentioned <,> anything
+<ICE-CAN:S1A-045#97:1:A> Like <{> <[> if you said </[>
+
+<$B> <ICE-CAN:S1A-045#98:1:B> <[> Well <,,> </[> </{> I mean <,> she's the one that
+
+interviewed me <,> you know and she's the one that said I'll be calling you
+
+back for a second interview
+
+<$A> <ICE-CAN:S1A-045#99:1:A> Mhh hmm
+
+<$B> <ICE-CAN:S1A-045#100:1:B> So <,,> she knows who I am and she knows why I'm calling <,>
+
+and I don't think that I <}> <-> wanna </-> <+> want to </+> </}> like be too
+
+much of a pest
+<ICE-CAN:S1A-045#101:1:B> I called twice
+<ICE-CAN:S1A-045#102:1:B> I left my name and number <,,>
+<ICE-CAN:S1A-045#103:1:B> <}> <-> I should </-> <=> maybe I should give her </=> </}>
+
+tomorrow <,> and then if she doesn't call me by tomorrow then I'm like
+<ICE-CAN:S1A-045#104:1:B> Cos tomorrow I think I'm just going to go out all day and just do
+
+bar
+
+<$A> <ICE-CAN:S1A-045#105:1:A> Bar resumes
+
+<$B> <ICE-CAN:S1A-045#106:1:B> Do bar resumes
+<ICE-CAN:S1A-045#107:1:B> And do like all Crescent Street <,,>
+<ICE-CAN:S1A-045#108:1:B> And <{> <[> uhm </[>
+
+<$A> <ICE-CAN:S1A-045#109:1:A> <[> You're </[> </{> <}> <-> gonna </-> <+> going to </+>
+
+</}> start there
+<ICE-CAN:S1A-045#110:1:A> I would do Crescent Street last
+
+<$B> <ICE-CAN:S1A-045#111:1:B> Why
+
+<$A> <ICE-CAN:S1A-045#112:1:A> Because it's like last resort
+<ICE-CAN:S1A-045#113:1:A> Ya <,,> like why don't you do the ones
+
+<$B> <ICE-CAN:S1A-045#114:1:B> I'll do Miami Double Deuce <,> Foof <,,> uhm <,,>
+
+<$A> <ICE-CAN:S1A-045#115:1:A> I think it'd be a better idea to wait until <@> Sean </@> 's
+
+working to go in <,> to Miami
+
+<$B> <ICE-CAN:S1A-045#116:1:B> Ya <}> <-> but he might </-> <=> do you think he might be
+
+working tomorrow </=> </}>
+
+<$A> <ICE-CAN:S1A-045#117:1:A> No he works <,,> Wednesday Thursday Friday <,,> Wednesday
+
+Thursday Friday night
+
+<$B> <ICE-CAN:S1A-045#118:1:B> Okay <,> ya I'll definitely wait until he comes
+
+<$A> <ICE-CAN:S1A-045#119:1:A> Wait til Wednesday night <,,>
+<ICE-CAN:S1A-045#120:1:A> It's only one extra day
+
+<$B> <ICE-CAN:S1A-045#121:1:B> I mean even if I <{> <[> got like </[> two nights at the <}>
+
+<-> <.> Mia </.> </-> <+> Miami </+> </}> <?>
+
+<$A> </?>
+<ICE-CAN:S1A-045#122:1:A> <[> <unclear> word </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1A-045#123:1:B> I don't know if I'll make any money there though
+
+<$A> <ICE-CAN:S1A-045#124:1:A> You make money in the evenings
+
+<$B> <ICE-CAN:S1A-045#125:1:B> You do
+
+<$A> <ICE-CAN:S1A-045#126:1:A> Ya cos <}> <-> the people </-> <=> the regulars </=> </}> I
+
+think tip fairly well <,,>
+<ICE-CAN:S1A-045#127:1:A> <}> <-> There's </-> <=> there's </=> </}> a fair amount of <{>
+
+<[> students </[>
+
+<$B> <ICE-CAN:S1A-045#128:1:B> <}> <-> <[> How much </[> </{> </-> <=> how much </=> </}>
+
+did you make like on <,> a regular night <{> <[> <,> at <,> </[> the <?>
+
+Bifteck </?> ya
+
+<$A> <ICE-CAN:S1A-045#129:1:A> <[> A night </[> </{>
+<ICE-CAN:S1A-045#130:1:A> At least <}> <-> sixty </-> <=> <,> sixty </=> </}> bucks in tips
+
+<,,>
+<ICE-CAN:S1A-045#131:1:A> Monday <{> <[> <unclear> three words </unclear> </[> <,> would be
+
+about
+
+<$B> <ICE-CAN:S1A-045#132:1:B> <[> Including your wages </[> </{>
+
+<$A> <ICE-CAN:S1A-045#133:1:A> Well you get five dollars an hour basically so for <}> <->
+
+four </-> <=> about four or five hours </=> </}> twenty <,,> make about
+
+eighty dollars a night <,> in four hours <,,>
+
+<$B> <ICE-CAN:S1A-045#134:1:B> That's not bad
+<ICE-CAN:S1A-045#135:1:B> Four hours
+<ICE-CAN:S1A-045#136:1:B> <}> <-> You wouldn't leave </-> <=> you would leave here </=> </}>
+
+at eight thirty and not get back until four
+
+<$A> <ICE-CAN:S1A-045#137:1:A> Hmm <,,> I guess I'm thinking of Saturday nights
+<ICE-CAN:S1A-045#138:1:A> On Monday night <,> well Thursday to Saturday you work four hour
+
+shifts and then on a Monday night <,,> a lot changed
+<ICE-CAN:S1A-045#139:1:A> Nine ten eleven twelve one two three sometimes six hours
+
+<$B> <ICE-CAN:S1A-045#140:1:B> So you made about three hundred <,> bucks <}> <-> a month
+
+</-> <=> or a week </=> </}> <,>
+
+<$A> <ICE-CAN:S1A-045#141:1:A> I didn't really keep track but probably between three hundred
+
+and <}> <-> four </-> <=> four hundred </=> </}> <,,>
+<ICE-CAN:S1A-045#142:1:A> And more if you work extra shifts
+<ICE-CAN:S1A-045#143:1:A> All I know is that I had extra money <,> and I never had to worry
+
+about it
+
+<$B> <ICE-CAN:S1A-045#144:1:B> Ya
+
+<$A> <ICE-CAN:S1A-045#145:1:A> You could save money <,> if you worked in a bar
+
+<$B> <ICE-CAN:S1A-045#146:1:B> Think <?> Foofoon's </?> would be a good option
+<ICE-CAN:S1A-045#147:1:B> They may be hiring
+
+<$B> <ICE-CAN:S1A-045#148:1:B> Ya
+<ICE-CAN:S1A-045#149:1:B> I'll try <?> Foofoon </?> and Miami
+<ICE-CAN:S1A-045#150:1:B> Double Deuce is a total loaded bar
+<ICE-CAN:S1A-045#151:1:B> I <{> <[> know that </[> but <,> it's consistent
+
+<$A> <ICE-CAN:S1A-045#152:1:A> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-045#153:1:A> It's consistent and I think people there make money
+<ICE-CAN:S1A-045#154:1:A> Mhh hmm
+<ICE-CAN:S1A-045#155:1:A> Ya without a doubt
+
+<$B> <ICE-CAN:S1A-045#156:1:B> And I'm <}> <-> gonna </-> <+> going to </+> </}> try The
+
+Madhatter <,> and I'm <}> <-> gonna </-> <+> going to </+> </}> try The
+
+Upstairs
+
+<$A> <ICE-CAN:S1A-045#157:1:A> Are you going to wear your wig <,,> when you go to apply
+
+<$B> <ICE-CAN:S1A-045#158:1:B> I didn't think about it
+<ICE-CAN:S1A-045#159:1:B> <{> <[> I didn't think about it
+<ICE-CAN:S1A-045#160:1:B> I don't think I should </[>
+
+<$A> <ICE-CAN:S1A-045#161:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-045#162:1:B> <{> <[> Do you </[>
+
+<$A> <ICE-CAN:S1A-045#163:1:A> <[> No well </[> </{> you
+<ICE-CAN:S1A-045#164:1:A> I don't know
+
+<$B> <ICE-CAN:S1A-045#165:1:B> I mean I'd rather be hired for you know the way I look
+
+<$A> <ICE-CAN:S1A-045#166:1:A> Ya then you wouldn't have to wear it every night
+
+<$B> <ICE-CAN:S1A-045#167:1:B> Ya and I could just wear it sometimes
+
+<$A> <ICE-CAN:S1A-045#168:1:A> On rare occasions
+
+<$B> <ICE-CAN:S1A-045#169:1:B> On special occasions when I want to be truly tarty
+
+<$A> <ICE-CAN:S1A-045#170:1:A> <{> <[> <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-045#171:1:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-045#172:1:A> Oops <,,>
+
+<$B> <ICE-CAN:S1A-045#173:1:B> Ya I'm clearing space
+
+<$A> <ICE-CAN:S1A-045#174:1:A> I think that's a good rolling surface
+
+<$B> <ICE-CAN:S1A-045#175:1:B> I <}> <-> wanna </-> <+> want to </+> </}> get to the rolling
+<ICE-CAN:S1A-045#176:1:B> Oh she's back <,,>
+
+<$A> <ICE-CAN:S1A-045#177:1:A> You're too quick <,,>
+<ICE-CAN:S1A-045#178:1:A> Didn't start yet <,,>
+
+<$B> <ICE-CAN:S1A-045#179:1:B> We haven't even begun
+
+<$C> <ICE-CAN:S1A-045#180:1:C> Okay <,,>
+
+<$B> <ICE-CAN:S1A-045#181:1:B> Do you want more wine
+
+<$C> <ICE-CAN:S1A-045#182:1:C> Yes please <,,>
+<ICE-CAN:S1A-045#183:1:C> That was nice
+
+<$A> <ICE-CAN:S1A-045#184:1:A> Right on
+
+<$B> <ICE-CAN:S1A-045#185:1:B> Do you <}> <-> wanna </-> <+> want to </+> </}> start one
+
+<$C> <ICE-CAN:S1A-045#186:1:C> Go for it
+
+<$B> <ICE-CAN:S1A-045#187:1:B> You go first
+
+<$C> <ICE-CAN:S1A-045#188:1:C> Can I borrow the knife
+
+<$B> <ICE-CAN:S1A-045#189:1:B> Where did we get that thing
+
+<$A> <ICE-CAN:S1A-045#190:1:A> I got this from <@> Tommy Finkelman </@>
+
+<$B> <ICE-CAN:S1A-045#191:1:B> <O> laugh </O>
+
+<$C> <ICE-CAN:S1A-045#192:1:C> <{> <[> You guys both went out with him </[>
+
+<$A> <ICE-CAN:S1A-045#193:1:A> <[> <O> laugh </O> </[> </{> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-045#194:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-045#195:1:A> I bought him a sushi roller <,> and I never gave it to him
+
+<$C> <ICE-CAN:S1A-045#196:1:C> <O> laugh </O> Is that a good thing
+
+<$B> <ICE-CAN:S1A-045#197:1:B> <{> <[> Yes </[>
+
+<$A> <ICE-CAN:S1A-045#198:1:A> <[> <}> <-> I </-> <=> I </=> </}> </[> </{> can't remember
+
+why
+
+<$C> <ICE-CAN:S1A-045#199:1:C> <}> <-> Is he </-> <=> well what's wrong with him </=> </}>
+<ICE-CAN:S1A-045#200:1:C> Tell me about this man
+<ICE-CAN:S1A-045#201:1:C> Tell me about your past lovers <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-045#202:1:B> I went out with <@> Tommy Finkelman </@> when I was in
+
+twelfth grade <{> <[> <,,> </[> and <}> <-> he was </-> <=> <,> he was </=>
+
+</}> like my
+
+<$C> <ICE-CAN:S1A-045#203:1:C> <[> <O> laugh </O> </[> </{>
+<ICE-CAN:S1A-045#204:1:C> Your first big love
+
+<$B> <ICE-CAN:S1A-045#205:1:B> No
+<ICE-CAN:S1A-045#206:1:B> <}> <-> He was </-> <=> but he was </=> </}> about three years
+
+older than I was
+
+<$C> <ICE-CAN:S1A-045#207:1:C> So he was in university
+
+<$B> <ICE-CAN:S1A-045#208:1:B> He was in university
+<ICE-CAN:S1A-045#209:1:B> He was in you know his third year or something <,> and I was in
+
+twelfth grade and I thought that he was just the most fabulous wonderful
+
+thing ever
+<ICE-CAN:S1A-045#210:1:B> And he
+
+<$C> <ICE-CAN:S1A-045#211:1:C> Did your parents like him
+<ICE-CAN:S1A-045#212:1:C> Like did he meet the parents and shit <{> <[> like that </[>
+
+<$B> <ICE-CAN:S1A-045#213:1:B> <[> Oh ya </[> </{> like <}> <-> it was no </-> <=> it was
+
+<,> no </=> </}> big deal
+<ICE-CAN:S1A-045#214:1:B> <}> <-> He was <.> a </.> </-> <=> he was a </=> </}> friend of my
+
+brother's
+<ICE-CAN:S1A-045#215:1:B> He was a contemporary of <@> Steven </@> 's <?>
+
+<$A> </?>
+<ICE-CAN:S1A-045#216:1:A> <{> <[> <O> cough </O> </[>
+
+<$B> <ICE-CAN:S1A-045#217:1:B> <[> And uh </[> </{> <,,> but we
+<ICE-CAN:S1A-045#218:1:B> It was so strange
+<ICE-CAN:S1A-045#219:1:B> We had this relationship where <,> you know like one night on the
+
+weekend he would go out with his friends from university and then <,> I would
+
+go out with him the other night
+<ICE-CAN:S1A-045#220:1:B> We never went out together
+<ICE-CAN:S1A-045#221:1:B> I couldn't get into bars
+
+<$C> <ICE-CAN:S1A-045#222:1:C> Oh <}> <-> <.> kay </.> </-> <+> okay </+> </}>
+
+<$B> <ICE-CAN:S1A-045#223:1:B> And <}> <-> I </-> <=> I </=> </}> looked young <{> <[> <,,>
+
+</[> and I didn't have fake I D <,> and so we would just like <,> stay in <,>
+
+or go to a movie or go out for dinner or something or go see a band or
+
+something like that
+
+<$C> <ICE-CAN:S1A-045#224:1:C> <[> Right </[> </{>
+
+<$B> <ICE-CAN:S1A-045#225:1:B> And <}> <-> he was just </-> <=> I don't know I just thought
+
+he was wonderful </=> </}>
+<ICE-CAN:S1A-045#226:1:B> <}> <-> And then <,,> </-> <=> and then </=> </}> he told me he
+
+loved me about six months into the relationship and then two weeks later he
+
+broke up with me and I was <,> devastated
+
+<$C> <ICE-CAN:S1A-045#227:1:C> Oh no
+<ICE-CAN:S1A-045#228:1:C> Two weeks after he said he loved you he broke up with you
+
+<$B> <ICE-CAN:S1A-045#229:1:B> Ya
+<ICE-CAN:S1A-045#230:1:B> And then I met him about what three years later
+
+<$A> <ICE-CAN:S1A-045#231:1:A> Ya
+
+<$B> <ICE-CAN:S1A-045#232:1:B> And he was in Law school <,> and I was convinced he was like
+
+the exception to the rule
+<ICE-CAN:S1A-045#233:1:B> <{> <[> I was convinced </[>
+
+<$C> <ICE-CAN:S1A-045#234:1:C> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1A-045#235:1:B> <{> <[> He was a total <,,> </[> total sweetheart
+
+<$A> <ICE-CAN:S1A-045#236:1:A> <[> He's an excellent excellent actor </[> </{>
+
+<$B> <ICE-CAN:S1A-045#237:1:B> Just you know like <,> <?> in <{> <[> this system said </?>
+
+he's <}> <-> gonna </-> <+> going to </+> </}> change </[>
+
+<$C> <ICE-CAN:S1A-045#238:1:C> <[> <}> <-> Is he </-> <=> Is he </=> </}> attractive </[>
+
+</{>
+
+<$B> <ICE-CAN:S1A-045#239:1:B> I think he's handsome
+
+<$A> <ICE-CAN:S1A-045#240:1:A> He thinks he's <{> <[> very attractive and it makes him </[>
+
+very attractive <}> <-> on </-> <=> <}> <-> <.> pon </.> </-> <+> upon </+>
+
+</}> </=> </}> like your first few impressions of him
+
+<$B> <ICE-CAN:S1A-045#241:1:B> <[> He thinks he's really attractive </[> </{>
+
+<$C> <ICE-CAN:S1A-045#242:1:C> Right
+
+<$A> <ICE-CAN:S1A-045#243:1:A> He's very muscular uhm
+
+<$C> <ICE-CAN:S1A-045#244:1:C> Did I ever meet <{> <[> him
+<ICE-CAN:S1A-045#245:1:C> Was he the guy </[> that came here
+
+<$B> <ICE-CAN:S1A-045#246:1:B> <[> He's very sporty </[> </{>
+
+<$C> <ICE-CAN:S1A-045#247:1:C> No that was <@> Zef </@> or something
+
+<$B> <ICE-CAN:S1A-045#248:1:B> <@> Zef </@> <@> Maxwell Zef </@>
+
+<$C> <ICE-CAN:S1A-045#249:1:C> Is he a friend of <@> Tommy </@> 's
+
+<$A> <ICE-CAN:S1A-045#250:1:A> Hmm hmm
+<ICE-CAN:S1A-045#251:1:A> Well they know each other
+<ICE-CAN:S1A-045#252:1:A> Ya I don't think they're very good friends but
+
+<$B> <ICE-CAN:S1A-045#253:1:B> Do you roll the rice <,> all the way across
+
+<$A> <ICE-CAN:S1A-045#254:1:A> Just up to about there <,> and that's what you wet to close
+
+it
+
+<$B> <ICE-CAN:S1A-045#255:1:B> Okay <,,>
+<ICE-CAN:S1A-045#256:1:B> Anyways
+
+<$A> <ICE-CAN:S1A-045#257:1:A> Ya so I dated him before I went to Africa
+
+<$C> <ICE-CAN:S1A-045#258:1:C> I did him
+
+<$A> <ICE-CAN:S1A-045#259:1:A> Dated him
+
+<$C> <ICE-CAN:S1A-045#260:1:C> I thought <{> <[> you said I did him <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-045#261:1:B> <[> <O> laugh </O>
+
+<$A> <ICE-CAN:S1A-045#262:1:A> <O> laugh </O> </[> </{>
+
+<$C> <ICE-CAN:S1A-045#263:1:C> So how long <,> did you see him for
+
+<$A> <ICE-CAN:S1A-045#264:1:A> Maybe <,,> three four months
+
+<$B> <ICE-CAN:S1A-045#265:1:B> But it was really intense
+
+<$A> <ICE-CAN:S1A-045#266:1:A> About three months
+
+<$B> <ICE-CAN:S1A-045#267:1:B> Ya
+<ICE-CAN:S1A-045#268:1:B> Ya I was in love
+<ICE-CAN:S1A-045#269:1:B> Think I thought I was
+
+<$A> <ICE-CAN:S1A-045#270:1:A> Well ya
+<ICE-CAN:S1A-045#271:1:A> For sure
+<ICE-CAN:S1A-045#272:1:A> And then I left
+<ICE-CAN:S1A-045#273:1:A> Went to Africa
+<ICE-CAN:S1A-045#274:1:A> Then it sort of ended
+
+<$B> <ICE-CAN:S1A-045#275:1:B> Ya
+<ICE-CAN:S1A-045#276:1:B> He's engaged
+
+<$A> <ICE-CAN:S1A-045#277:1:A> That's right <,> he's engaged
+
+<$C> <ICE-CAN:S1A-045#278:1:C> I have so many ex <,> - boyfriends and ex-lovers who are
+
+engaged <,,>
+
+<$B> <ICE-CAN:S1A-045#279:1:B> You set <{> <[> <}> <-> <.> em </.> </-> <+> them </+> </}>
+
+up <@> Tammy </@> </[>
+
+<$A> <ICE-CAN:S1A-045#280:1:A> <[> I haven't kept </[> </{> track of any of them <,>
+<ICE-CAN:S1A-045#281:1:A> I really haven't
+
+<$B> <ICE-CAN:S1A-045#282:1:B> No
+
+<$A> <ICE-CAN:S1A-045#283:1:A> No <{> <[> not really </[>
+
+<$C> <ICE-CAN:S1A-045#284:1:C> <[> I have so </[> </{> many and they're all engaged
+<ICE-CAN:S1A-045#285:1:C> I was the wrong one <{> <[> <,,> </[> for all of them
+
+<$A> <ICE-CAN:S1A-045#286:1:A> <[> <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-045#287:1:B> <O> laugh </O> </[> </{>
+
+<$C> <ICE-CAN:S1A-045#288:1:C> Or they were all the wrong one
+
+<$B> <ICE-CAN:S1A-045#289:1:B> But do you remember like <,>
+
+<$A> <ICE-CAN:S1A-045#290:1:A> Oh oh we <{> <[> have to </[> stop and help <@> Katie </@>
+
+<$B> <ICE-CAN:S1A-045#291:1:B> <[> Okay </[> </{> <,,> we have to assemble
+<ICE-CAN:S1A-045#292:1:B> What should we put on it
+
+<$A> <ICE-CAN:S1A-045#293:1:A> Uhm <{> <[> I would say ya </[>
+
+<$C> <ICE-CAN:S1A-045#294:1:C> <[> I think I <}> <-> wanna </-> <+> want to </+> </}> try
+
+the tuna </[> </{>
+
+<$A> <ICE-CAN:S1A-045#295:1:A> Try <{> <[> the fish </[>
+
+<$B> <ICE-CAN:S1A-045#296:1:B> <[> Salmon </[> </{>
+
+<$A> <ICE-CAN:S1A-045#297:1:A> Salmon
+
+<$C> <ICE-CAN:S1A-045#298:1:C> Try the salmon
+<ICE-CAN:S1A-045#299:1:C> What colour is tuna
+
+<$A> <ICE-CAN:S1A-045#300:1:A> <{> <[> Tuna's <,> </[> like a deeper purple
+
+<$B> <ICE-CAN:S1A-045#301:1:B> <[> It's like </[> </{>
+
+<$A> <ICE-CAN:S1A-045#302:1:A> It's almost white <}> <-> it's <}> <-> <.> pur </.> </-> <+>
+
+purple </+> </}> </-> <=> like in it's purpleness </=> </}>
+
+<$C> <ICE-CAN:S1A-045#303:1:C> <}> <-> Kay </-> <+> okay </+> </}> <{> <[> and <,,> how
+
+about </[> some red pepper
+
+<$B> <ICE-CAN:S1A-045#304:1:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1A-045#305:1:A> Red pepper
+
+<$B> <ICE-CAN:S1A-045#306:1:B> And sesame seeds
+
+<$C> <ICE-CAN:S1A-045#307:1:C> <{> <[> Oh ya </[>
+
+<$A> <ICE-CAN:S1A-045#308:1:A> <[> Oh </[> </{> that's what we need <,,>
+
+<$C> <ICE-CAN:S1A-045#309:1:C> Are they roasted
+
+<$B> <ICE-CAN:S1A-045#310:1:B> No I don't think we should roast them
+
+<$C> <ICE-CAN:S1A-045#311:1:C> Ya I think these ones are
+
+<$B> <ICE-CAN:S1A-045#312:1:B> Oh but they're not like
+<ICE-CAN:S1A-045#313:1:B> Like <@> Stephanie </@> cooked them in uhm
+
+<$C> <ICE-CAN:S1A-045#314:1:C> Oh that's right
+
+<$B> <ICE-CAN:S1A-045#315:1:B> I thought it was really greasy
+
+<$C> <ICE-CAN:S1A-045#316:1:C> In the sesame oil
+
+<$B> <ICE-CAN:S1A-045#317:1:B> Ya
+
+<$C> <ICE-CAN:S1A-045#318:1:C> <{> <[> Ya </[>
+
+<$A> <ICE-CAN:S1A-045#319:1:A> <[> Ya </[> </{> I <{> <[> liked that </[>
+
+<$B> <ICE-CAN:S1A-045#320:1:B> <[> It was gross </[> </{>
+
+<$C> <ICE-CAN:S1A-045#321:1:C> <{> <[> <O> laugh </O> you <unclear> two word </unclear> </[>
+
+<$A> <ICE-CAN:S1A-045#322:1:A> <[> <O> laugh </O> I liked the sesame oil </[> </{>
+<ICE-CAN:S1A-045#323:1:A> <?> That was </?> gross
+
+<$C> <ICE-CAN:S1A-045#324:1:C> Okay
+<ICE-CAN:S1A-045#325:1:C> How's that
+
+<$B> <ICE-CAN:S1A-045#326:1:B> Right <{> <[> on </[>
+
+<$A> <ICE-CAN:S1A-045#327:1:A> <[> Roll </[> </{> it up
+
+<$B> <ICE-CAN:S1A-045#328:1:B> Roll it up
+
+<$A> <ICE-CAN:S1A-045#329:1:A> Okay let's see if I remember how to do this <,,>
+
+<$B> <ICE-CAN:S1A-045#330:1:B> <}> <-> Kinda </-> <+> kind of </+> </}> like that
+
+<$A> <ICE-CAN:S1A-045#331:1:A> Ya <,> and then you <,>
+
+<$B> <ICE-CAN:S1A-045#332:1:B> Just keep on <,,>
+
+<$A> <ICE-CAN:S1A-045#333:1:A> For some reason the seam's backwards
+<ICE-CAN:S1A-045#334:1:A> Oh I forgot to wet it <,,>
+
+<$C> <ICE-CAN:S1A-045#335:1:C> Can I do the next one
+
+<$A> <ICE-CAN:S1A-045#336:1:A> <{> <[> Mhh hmm </[>
+
+<$B> <ICE-CAN:S1A-045#337:1:B> <[> Mhh hmm </[> </{>
+
+<$C> <ICE-CAN:S1A-045#338:1:C> I'm just like <,,>
+
+<$B> <ICE-CAN:S1A-045#339:1:B> <}> <-> <.> Itchen </.> </-> <+> itching </+> </}> <,> to
+
+roll
+
+<$C> <ICE-CAN:S1A-045#340:1:C> <}> <-> <.> Itchen </.> </-> <+> itching </+> </}>
+<ICE-CAN:S1A-045#341:1:C> <}> <-> <.> Itchen </.> </-> <+> itching </+> </}> to roll <,,>
+
+<$A> <ICE-CAN:S1A-045#342:1:A> We've been doing a lot of really sort of adventurous <{> <[>
+
+<,,> </[> gourmet cooking
+
+<$B> <ICE-CAN:S1A-045#343:1:B> <[> Mhh hmm </[> </{>
+
+<$C> <ICE-CAN:S1A-045#344:1:C> <{> <[> Ya </[>
+
+<$A> <ICE-CAN:S1A-045#345:1:A> <[> Whoops </[> </{>
+
+<$B> <ICE-CAN:S1A-045#346:1:B> Couple cracks
+<ICE-CAN:S1A-045#347:1:B> I <{> <[> think it's </[> okay though
+
+<$A> <ICE-CAN:S1A-045#348:1:A> <[> Sorry </[> </{>
+
+<$C> <ICE-CAN:S1A-045#349:1:C> I think it's perfect
+
+<$B> <ICE-CAN:S1A-045#350:1:B> Oh right <{> <[> on </[>
+
+<$A> <ICE-CAN:S1A-045#351:1:A> <[> Okay </[> </{> <{> <[> we need </[> a <,> sushi plate
+
+<$B> <ICE-CAN:S1A-045#352:1:B> <[> Here </[> </{>
+
+<$C> <ICE-CAN:S1A-045#353:1:C> Sushi plate sushi plate </I>

@@ -1,0 +1,415 @@
+<I>
+
+<$A> <ICE-CAN:S2B-012#1:1:A> Good morning I'm <@> Jenny Goode </@>
+<ICE-CAN:S2B-012#2:1:A> Welcome to Daybreak on C B C nine forty in Montreal
+<ICE-CAN:S2B-012#3:1:A> It's mild out there right now <,> two degrees
+<ICE-CAN:S2B-012#4:1:A> And it's Thursday <,> November sixteenth
+<ICE-CAN:S2B-012#5:1:A> It's three minutes before six <O> Theme music </O>
+
+<$A> <ICE-CAN:S2B-012#6:1:A> Environment Canada forecasting a cloudy day with a few clear
+
+periods though and a sixty percent probability of flurries
+
+<$A> <ICE-CAN:S2B-012#7:1:A> Our high near two
+<ICE-CAN:S2B-012#8:1:A> Which is exactly where the thermometer is right now
+<ICE-CAN:S2B-012#9:1:A> Winds up to forty kilometers and hour but they will be dying down
+
+later in the day <O> theme music </O>
+<ICE-CAN:S2B-012#10:1:A> And we're starting to get a look at the weekend in our forecasts
+<ICE-CAN:S2B-012#11:1:A> On Friday uh <}> <-> we should </-> <=> that's tomorrow </=> </}>
+
+skies should becoming variable in the morning
+<ICE-CAN:S2B-012#12:1:A> A high of near zero
+<ICE-CAN:S2B-012#13:1:A> Saturday <,> mostly sunny
+<ICE-CAN:S2B-012#14:1:A> Wouldn't that be nice
+<ICE-CAN:S2B-012#15:1:A> A nice weekend
+<ICE-CAN:S2B-012#16:1:A> Low near minus five
+<ICE-CAN:S2B-012#17:1:A> High near plus two
+<ICE-CAN:S2B-012#18:1:A> And a thirty percent chance of precipitation
+<ICE-CAN:S2B-012#19:1:A> On Sunday variable cloudiness
+<ICE-CAN:S2B-012#20:1:A> A thirty percent probability of flurries or showers
+<ICE-CAN:S2B-012#21:1:A> A low near minus two
+<ICE-CAN:S2B-012#22:1:A> A high near four
+<ICE-CAN:S2B-012#23:1:A> And then by Monday <,> cloudy <,> maybe showers
+<ICE-CAN:S2B-012#24:1:A> But that's a little far away for us <}> <-> to </-> <=> to </=>
+
+</}> really count on that so far
+<ICE-CAN:S2B-012#25:1:A> It is now two minutes before six
+<ICE-CAN:S2B-012#26:1:A> <@> John Howard's </@> here with some uh of the local news
+
+headlines
+<ICE-CAN:S2B-012#27:1:A> Good morning <@> John </@>
+
+<$B> <ICE-CAN:S2B-012#28:1:B> Good morning <@> Jenny </@>
+<ICE-CAN:S2B-012#29:1:B> The Essential Services Council has ordered the Laval Transit
+
+Corporation's bus drivers to end their overtime strike
+<ICE-CAN:S2B-012#30:1:B> The yes side in the referendum is filing more than fifty complaints
+
+against the no side with Quebec's Director General of the Elections
+<ICE-CAN:S2B-012#31:1:B> And the Montreal Urban Community Council has approved a budget for
+
+next year that calls for a cut of one percent in spending from this year
+
+<$A> <ICE-CAN:S2B-012#32:1:A> Thanks very much <@> John </@>
+<ICE-CAN:S2B-012#33:1:A> Uhh one minute before six
+<ICE-CAN:S2B-012#34:1:A> <@> Bill Goren </@> has the first look at the roads
+
+<$C> <ICE-CAN:S2B-012#35:1:C> And a pleasant morning out there this morning
+<ICE-CAN:S2B-012#36:1:C> Uhh conditions a bit wet on some of the side streets but in general
+
+uhh no problems
+<ICE-CAN:S2B-012#37:1:C> No major delays to speak of
+<ICE-CAN:S2B-012#38:1:C> We do have one accident uhh on the Forty westbound from Repentigny
+
+on the Charles de Gaulle bridge
+<ICE-CAN:S2B-012#39:1:C> However a tow-truck is on the scene so they should <}> <-> <}> <->
+
+<.> r </.> </-> <+> remove </+> </}> </-> <=> be removing </=> </}> that
+
+vehicle shortly
+<ICE-CAN:S2B-012#40:1:C> Getting busy over at the Mercier and Champlain bridges
+<ICE-CAN:S2B-012#41:1:C> But uh still less than five minute delays <,> to speak of
+
+<$A> <ICE-CAN:S2B-012#42:1:A> Thanks very much <@> Bill </@>
+<ICE-CAN:S2B-012#43:1:A> Uh coming up in <}> <-> <}> <-> <.> th </.> </-> <+> the </+> </}>
+
+</-> <=> on this </=> </}> show this morning in the first hour we're going to
+
+be talking about maple sugar <,> in space
+<ICE-CAN:S2B-012#44:1:A> We actually did send some maple sugar candy up to the Mir uh Space
+
+Station
+<ICE-CAN:S2B-012#45:1:A> Ah we're also going to be talking about the change in the sales tax
+
+uh that Quebec is going to institute pretty soon
+<ICE-CAN:S2B-012#46:1:A> Guess what <,> it's going up
+<ICE-CAN:S2B-012#47:1:A> We're figuring well let's find the good news angle to this
+<ICE-CAN:S2B-012#48:1:A> Everyone gets depressed about this but people <,> who re-program
+
+cash registers are actually <,,> doing good business with this sort of thing
+<ICE-CAN:S2B-012#49:1:A> Uhh right now it is almost six o'clock and time for World Report
+<ICE-CAN:S2B-012#50:1:A> It's two degrees outside
+<ICE-CAN:S2B-012#51:1:A> We're headed for a <,> cloudy day with a few clear periods though
+
+and a sixty percent probability of flurries
+<ICE-CAN:S2B-012#52:1:A> A high <}> <-> <.> n </.> </-> <+> near </+> </}> <&> Tape ran out
+
+</&> </I>
+
+
+<I>
+<ICE-CAN:S2B-012#53:2:A> And starting to get busy rght now on the Met westbound between the
+
+Laurentien autoroute and D&eacute;carie Circle
+<ICE-CAN:S2B-012#54:2:A> But it is uh moving along nicely
+<ICE-CAN:S2B-012#55:2:A> Just a higher volume of traffic as we move into the morning
+<ICE-CAN:S2B-012#56:2:A> Backing <}> <-> <.> o </.> </-> <+> off </+> </}> <&> Tape ends
+
+</&> </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-012#57:3:A> Good afternoon
+<ICE-CAN:S2B-012#58:3:A> Here's the C B C <&> Canadian Broadcasting Corporation </&> twelve
+
+o'clock news
+<ICE-CAN:S2B-012#59:3:A> The Montreal Regional Health Board is releasing <,> more details on
+
+how it will provide health and social services <,> in the wake of the closure
+
+of seven hospitals
+<ICE-CAN:S2B-012#60:3:A> The board talked about it this morning
+<ICE-CAN:S2B-012#61:3:A> <@> John Peggoty </@> reports
+
+<$B> <ICE-CAN:S2B-012#62:3:B> It's no easy task
+<ICE-CAN:S2B-012#63:3:B> It's no small task
+<ICE-CAN:S2B-012#64:3:B> All the services now provided by the closing hospitals must be
+
+provided by C L S Cs <&> centre local de services communautaires ( clinics)
+
+</&> <,> home care <,> or other hospitals
+<ICE-CAN:S2B-012#65:3:B> The board is trying to get those replacement services in operation
+
+before the seven hospitals close
+<ICE-CAN:S2B-012#66:3:B> To begin doing that <,> the board will borrow thirty-eight million
+
+dollars for use over the next four months
+<ICE-CAN:S2B-012#67:3:B> The new money will be used to increase and improve home care for
+
+post-operative hospital patients <,> seniors <,> and people with intellectual
+
+disabilities
+<ICE-CAN:S2B-012#68:3:B> Most of those services will be provided through C L S Cs
+<ICE-CAN:S2B-012#69:3:B> There will be some new money for long-term care beds and places at
+
+youth shelters
+<ICE-CAN:S2B-012#70:3:B> The board says <,> this huge restructuring of health and social
+
+services has been done <,> based on <,> assumptions
+<ICE-CAN:S2B-012#71:3:B> <@> Jared Nagey </@> is chairman of the Health Board
+<ICE-CAN:S2B-012#72:3:B> He says those assumptions are sound <,> based on studies <,> and
+
+past experiences
+<ICE-CAN:S2B-012#73:3:B> Still <,> the board has never undertaken changes of this magnitude
+
+before
+<ICE-CAN:S2B-012#74:3:B> <@> Nagey </@> says personnel re-training <,> and transfers <,>
+
+have yet to be finalized
+<ICE-CAN:S2B-012#75:3:B> <@> John Peggoty </@> C B C News Montreal
+
+<$A> <ICE-CAN:S2B-012#76:3:A> There was testimony this morning from the mother of the
+
+youngest of the three teenage boys accused of murdering the Reverend <@> Fred
+
+Tupe </@> and his wife <@> Lynette </@>
+<ICE-CAN:S2B-012#77:3:A> The woman says she asked for a lawyer four times the day he was
+
+arrested but she never got one
+<ICE-CAN:S2B-012#78:3:A> <@> David Slobo </@> reports
+
+<$C> <ICE-CAN:S2B-012#79:3:C> She says she went to her son's school Beaconsfield High after
+
+being called by a vice-principal
+<ICE-CAN:S2B-012#80:3:C> She didn't see her son
+<ICE-CAN:S2B-012#81:3:C> She says she was too upset and had a coffee instead
+<ICE-CAN:S2B-012#82:3:C> She says police officers took them both in so the boy could be
+
+questioned
+<ICE-CAN:S2B-012#83:3:C> She told them she had no experience with the law and asked for a
+
+lawyer
+<ICE-CAN:S2B-012#84:3:C> One detective told her there was no point <,> because school
+
+officials and other students had already given statements
+<ICE-CAN:S2B-012#85:3:C> She says her son is hyperactive and has trouble concentrating in
+
+new surroundings <,> unless he gets his medication
+<ICE-CAN:S2B-012#86:3:C> She blames the school for not giving him his pill the day of his
+
+arrest
+<ICE-CAN:S2B-012#87:3:C> She says as a result he wasn't focused during questioning
+<ICE-CAN:S2B-012#88:3:C> She says at one point a detective his raised voice and accused her
+
+son of lying
+<ICE-CAN:S2B-012#89:3:C> The mother says she said the same thing as the officer <,> telling
+
+her son to start telling the truth
+<ICE-CAN:S2B-012#90:3:C> <@> David Slobo </@> C B C News Montreal
+
+<$A> <ICE-CAN:S2B-012#91:3:A> There is criticism of <indig> Parti Qu&eacute;b&eacute;cois
+
+</indig> government plans to increase the sales tax from six and a half
+
+percent to seven and a half percent next July
+<ICE-CAN:S2B-012#92:3:A> Government officials say a billion dollar cut in federal revenues
+
+makes the increase essential
+<ICE-CAN:S2B-012#93:3:A> But the Liberal finance critic doesn't buy that
+<ICE-CAN:S2B-012#94:3:A> <@> Jennifer Bronstader </@> reports
+
+<$D> <ICE-CAN:S2B-012#95:3:D> Andre Bourbeau says he's not surprised the P Q <&> Parti
+
+Qu&eacute;b&eacute;cois </&> government is going ahead with the increase
+
+suggested in last May's budget
+<ICE-CAN:S2B-012#96:3:D> But he's still disappointed
+
+<$E> <ICE-CAN:S2B-012#97:3:E> It's typical <}> <-> of ah </-> <=> of </=> </}> <}> <-> the
+
+<indig> Parti Qu&eacute;b&eacute;cois </indig> <}> <-> who ah </-> <=> who
+
+</=> </}> <.> imina </.> </-> <=> of Jacques Parizeau </=> </}> who in the
+
+past has always chosen this route of uh raising income tax <}> <-> and <.> ta
+
+</.> </-> <=> and taxes </=> </}>
+<ICE-CAN:S2B-012#98:3:E> Instead of uhm ahh you know working hard at uh reducing government
+
+expenses
+
+<$D> <ICE-CAN:S2B-012#99:3:D> He says the government knew the cuts in federal transfer
+
+payments were coming just as other provinces did but other provinces have
+
+managed to balance their budgets
+<ICE-CAN:S2B-012#100:3:D> He also pointed out that he was able to reduce the P S T <&>
+
+provincial sales tax </&> from eight percent to six and a half percent during
+
+the short time he was finance minister and he says the current government
+
+could do the same if it got down to the business of reducing the amount spent
+
+on salaries for civil servants
+<ICE-CAN:S2B-012#101:3:D> But Bourbeau says the sovereigntist government has backed itself
+
+into a corner
+
+<$E> <ICE-CAN:S2B-012#102:3:E> This government <}> <-> has </-> <=> has </=> </}> ah fought
+
+the referendum having as its major ally the C S M <}> <-> the suc the syndica
+
+</-> <=> the uh <indig> f&eacute;d&eacute;ration des syndicats nationaux
+
+</indig> </=> </}> though
+<ICE-CAN:S2B-012#103:3:E> <}> <-> The uh </-> <=> the </=> </}> unions that represents all
+
+government employees
+<ICE-CAN:S2B-012#104:3:E> Uh most of them anyway
+<ICE-CAN:S2B-012#105:3:E> <}> <-> So they're </-> <=> they are </=> </}> in a trap there
+
+because their major ally was the union and the union is the one now that they
+
+have to bargain with
+
+<$D> <ICE-CAN:S2B-012#106:3:D> Bourbeau says the P Q government probably picked now to
+
+confirm the increase to spare the Parti's new leader from assuming
+
+responsibility for it
+
+<$E> <ICE-CAN:S2B-012#107:3:E> <}> <-> Mister Bouchard will probably </-> <=> if he ever
+
+comes will probably </=> </}> say well this was done prior me uhh and uhh
+
+it's not my responsibility
+<ICE-CAN:S2B-012#108:3:E> <}> <-> It was uh </-> <=> it is </=> </}> the past
+
+<$D> <ICE-CAN:S2B-012#109:3:D> Bourbeau says the announcement seems to be part of Premier
+
+Parizeau's housecleaning before he leaves at the end of December
+<ICE-CAN:S2B-012#110:3:D> <@> Jennifer Bronstader </@> C B C News Montreal
+
+<$A> <ICE-CAN:S2B-012#111:3:A> Montreal lawyer <@> Jeff Stabler </@> has suffered a setback
+
+in his effort to force the defense department to take legal action against
+
+the <indig> Bloc Qu&eacute;b&eacute;cois </indig> <&> Quebecois political
+
+party </&>
+<ICE-CAN:S2B-012#112:3:A> <@> Stabler </@> wants the department to take action against the
+
+<indig> Bloc </indig> over a memo the party allegedly sent to personnel at
+
+all defense installations in Quebec
+<ICE-CAN:S2B-012#113:3:A> The <indig> Bloc </indig> reportedly urged them to join the Quebec
+
+army if the yes side won
+<ICE-CAN:S2B-012#114:3:A> <@> Stabler </@> says a Quebec court judge has ruled the
+
+information he presented was insufficient to hold an immediate hearing <,,>
+
+but he says this isn't the end of the affair
+
+<$F> <ICE-CAN:S2B-012#115:3:F> I must now <,> request a hearing <,> of the chief justice <,>
+
+of the <,> Quebec court
+<ICE-CAN:S2B-012#116:3:F> Uh to set a date aside <,> and assign a judge <,> and give me
+
+power to subpoena witnesses so that I can <,> uh make direct evidence <,> of
+
+the allegations <}> <-> in my <,> </-> <=> in my </=> </}> information
+
+<$A> <ICE-CAN:S2B-012#117:3:A> <@> Stabler </@> says he expects to hear from the chief
+
+justice by the end of the week
+<ICE-CAN:S2B-012#118:3:A> Two S Q <&> s&ucircumflex;ret&eacute; du Qu&eacute;bec ( Quebec
+
+provincial police) </&> constables are being credited with saving three
+
+people from a burning house in Roden
+<ICE-CAN:S2B-012#119:3:A> The two were patrolling the area when they smelled smoke
+<ICE-CAN:S2B-012#120:3:A> They broke a window to get the <}> <-> <.> pe </.> </-> <+> people
+
+</+> </}> people out
+<ICE-CAN:S2B-012#121:3:A> The man and the woman and their teenager <,> were not injured
+<ICE-CAN:S2B-012#122:3:A> Many government operations across the United States aren't working
+
+today
+<ICE-CAN:S2B-012#123:3:A> Hundreds of thousands of federal workers went to work this morning
+
+<,,> only to be sent back home
+<ICE-CAN:S2B-012#124:3:A> A budget deadlock between President Bill Clinton and the
+
+Republican Congress <,> forced much of the federal government to be shut down
+<ICE-CAN:S2B-012#125:3:A> Essential services such as law enforcement agencies <,> air
+
+traffic controllers <,> and Amtrak trains will operate as usual
+<ICE-CAN:S2B-012#126:3:A> Canada has recalled its acting High Commissioner to Nigeria to
+
+protest the execution <,> of nine minority rights activists including author
+
+Ken Saro-Wiwa
+<ICE-CAN:S2B-012#127:3:A> The move is designed to show Canada's displeasure with political
+
+events in the African country
+<ICE-CAN:S2B-012#128:3:A> The foreign affairs spokesman says Canada is insisting on progress
+
+towards restoration of democracy in Nigeria
+<ICE-CAN:S2B-012#129:3:A> Mexico has presented a diplomatic note to Ottawa expressing
+
+surprise and concern <,> over reports that Canada spied on Mexican officials
+
+during free-trade talks
+<ICE-CAN:S2B-012#130:3:A> South Korea also launched an inquiry into reports that Canada
+
+spied on its embassy in Ottawa
+<ICE-CAN:S2B-012#131:3:A> The two contries <,> along with Japan were named by a former
+
+intelligence analyst <,> who says she's the one who did the spying
+<ICE-CAN:S2B-012#132:3:A> Canada has held its first Rememberance Day ceremony at the
+
+Kremlin's Tomb of the Unknown Soldier
+<ICE-CAN:S2B-012#133:3:A> About forty Canadians including ten members of the Canadian forces
+
+working with the Moscow Embassy <,> watched this morning as the ambassador
+
+<,> Jeremy Kinsman <,> laid a wreath at the Eternal Flame
+<ICE-CAN:S2B-012#134:3:A> Canadians in Moscow have traditionally marked Rememberance Day
+
+together with the British <,> but this year the Embassy decided to go it
+
+alone
+<ICE-CAN:S2B-012#135:3:A> To hold a Canadian memorial at Russia's most sacred military <}>
+
+<-> shine <}> <-> <.> wha </.> </-> <+> would </+> </}> </-> <=> shrine
+
+rather would </=> </}> have been unthinkable in Soviet times but Russian
+
+authorities were co-operative when approached about the idea <,> this year
+<ICE-CAN:S2B-012#136:3:A> And that's the news from the C B C news service </I>
+
+
+<I>
+<ICE-CAN:S2B-012#137:4:A> <O> deep breath in </O> Right now though let me give you the
+
+weather forecast uhm cos this is really one of the big news uhh <,,> for
+
+today uh it <}> <-> is </-> <=> looks </=> </}> really very bad
+<ICE-CAN:S2B-012#138:4:A> There is a severe weather warning out for the Montreal area
+<ICE-CAN:S2B-012#139:4:A> For this afternoon cloudy skies some light snow beginning <,> uh
+
+right about now actually
+<ICE-CAN:S2B-012#140:4:A> Continuing off and on for this afternoon
+<ICE-CAN:S2B-012#141:4:A> Heavier snow though starting at around suppertime tonight around
+
+six or seven o'clock this evening
+<ICE-CAN:S2B-012#142:4:A> <.> Ss </.> becoming stronger and stronger overnight
+<ICE-CAN:S2B-012#143:4:A> Fifteen centimeters expected to fall
+<ICE-CAN:S2B-012#144:4:A> Winds fifty to seventy <,> kilometers an hour
+<ICE-CAN:S2B-012#145:4:A> Temperatures <}> <-> or erm </-> <=> for what it's worth </=> </}>
+
+zero to minus one degree
+<ICE-CAN:S2B-012#146:4:A> But if the snow hits it should be a major storm <,> with fifteen
+
+centimeters expected overnight
+<ICE-CAN:S2B-012#147:4:A> Winds fifty to seventy <,> kilometers an hour
+<ICE-CAN:S2B-012#148:4:A> And it should begin around uhm late rush hour tonight
+<ICE-CAN:S2B-012#149:4:A> Now <,,> uhuh it gets actually a little bit worse in that uh early
+
+tomorrow morning around four five six o'clock there is a transition that's
+
+supposed to happen as the snow turns into rain </I>

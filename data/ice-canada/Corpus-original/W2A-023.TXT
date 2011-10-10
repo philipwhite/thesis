@@ -1,0 +1,364 @@
+<I>
+<ICE-CAN:W2A-023#1:1> <h> <it> Biotechnology: Managing the Revolution in Evolution </it>
+
+</h>
+<ICE-CAN:W2A-023#2:1> <h> BEPPI CROSARIOL </h>
+
+<p> <ICE-CAN:W2A-023#3:1> Americans may best remember 1973 for the night their president
+
+appeared on television to accept responsibility for the Watergate scandal.
+<ICE-CAN:W2A-023#4:1> Canadians may recall it as the year world oil prices quadrupled in
+
+response to declining production by members of the OPEC cartel.
+<ICE-CAN:W2A-023#5:1> Still others may recollect it most vividly for the event that
+
+precipitated that embargo, the outbreak of war in the Middle East.
+<ICE-CAN:W2A-023#6:1> In time, though, much of the world may come to remember it best for
+
+two relatively uncelebrated men, Herbert Boyer and Stanley Cohen, and a
+
+nameless grey toad.
+<ICE-CAN:W2A-023#7:1> That year, in a relatively short and characteristically undramatic
+
+article in the scientific press, the California researchers described an
+
+experiment in which they had stitched together a DNA molecule from parts of
+
+two dis <l> tinct species - a toad and a bacterium - and inserted it into a
+
+living bacte <l> rial cell.
+<ICE-CAN:W2A-023#8:1> Though hardly a classic scene of impending revolution, their
+
+experiment marked the beginning of a fundamental shift in humanity's
+
+relationship to the organic world.
+<ICE-CAN:W2A-023#9:1> Boyer and Cohen had become the first people to engineer an entirely
+
+novel form of life. </p>
+
+<p> <ICE-CAN:W2A-023#10:1> Though the public could not have been expected to fathom it then
+
+- and indeed has yet to appreciate it fully - the pair's cryptic account
+
+placed at technology's disposal the basic mechanism of heredity.
+<ICE-CAN:W2A-023#11:1> Humans had taken control of the molecular code that commands
+
+biological growth and regeneration, and with that achievement has come the
+
+potential to combat some of the world's most pressing problems.
+<ICE-CAN:W2A-023#12:1> The products of so-called genetic engineering - hardier and higher
+
+yeilding crops, more pro <l> ductive livestock, new vaccines, organisms that
+
+extract oil and minerals from the earth, and bugs that gobble waste - promise
+
+deliverance from hunger, disease, environmental decay, and declining energy
+
+resources.
+<ICE-CAN:W2A-023#13:1> Not to mention relief from a host of more benign aggravations: soon
+
+we may produce vegetables that ripen on the vine without going soft, coffee
+
+plants with naturally decaffeinated beans, and <quote> " super pigs" </quote>
+
+that yield low-fat pork. </p>
+
+<p> <ICE-CAN:W2A-023#14:1> Yet along with the hopeful prospects, the Boyer-Cohen experiment
+
+also succeeded in bringing to the forefront a litany of profound questions
+
+about the risks of applying this new technique to humans and the environment.
+<ICE-CAN:W2A-023#15:1> While the chemical industry began to dream of crops with greater
+
+resistance to herbicides and pesticides, some consumers began to challenge
+
+the scant knowledge available about the toxicity of these chem <l> icals.
+<ICE-CAN:W2A-023#16:1> While other consumers began dreaming of flawless fruits and vegeta
+
+<l> bles, some farmers began to wonder about the ability of uniform crops to
+
+withstand genetic diseases.
+<ICE-CAN:W2A-023#17:1> While other farmers dreamed of microbial treatments to protect
+
+seedlings against frost and drought, doctors began to wonder about the
+
+accidental spread of experimentally concocted microbes to more vulnerable
+
+habitats and about their effects on human health.
+<ICE-CAN:W2A-023#18:1> While others in the medical community dreamed of curing hered <l>
+
+itary deficiencies in humans, social scientists and theologians began to
+
+wonder about the propriety of <quote> " playing God." </quote>
+<ICE-CAN:W2A-023#19:1> Although these unsettling questions had been suggested by earlier
+
+genetic research, it wasn't until 1973 that dealing with them became a
+
+critical exercise.
+<ICE-CAN:W2A-023#20:1> The sudden urgency with which they had come to be asked also
+
+confirmed that Boyer and Cohen had, at the very least, given birth not only
+
+to a new form of life but to a major technological revolution. </p>
+
+<p> <ICE-CAN:W2A-023#21:1> Less than two decades later, the revolution known as
+
+biotechnology has taken concrete shape around the world.
+<ICE-CAN:W2A-023#22:1> Researchers at government, uni <l> versity, and private laboratories
+
+are now working at a feverish pace to develop new products for industrial and
+
+household consumption - a pace that is understandably leaving legislators and
+
+regulators far behind.
+<ICE-CAN:W2A-023#23:1> In biotechnology, Canada stands with a handful of countries at the
+
+vanguard of promoting an unprecedented economic and humanitarian opportunity.
+<ICE-CAN:W2A-023#24:1> Like the development of nuclear power - to which biotechnology is so
+
+often compared - however, it is an opportunity in need of careful
+
+public-policy attention.
+<ICE-CAN:W2A-023#25:1> Accordingly, the federal government, chiefly through the National
+
+Biotechnology Advisory Committee of the Department of Indus <l> try, Science
+
+and Technology, has embarked on a process to develop just such a set of
+
+regulations.
+<ICE-CAN:W2A-023#26:1> The nature of those regulations and the govern <l> ment's diligence
+
+in enforcing them will determine in large measure whether Canada succeeds in
+
+harnessing biotechnology's benefits while avoiding its risks.
+<ICE-CAN:W2A-023#27:1> The opportunity is unique, and the issues are complex and varied.
+
+</p>
+
+<p> <ICE-CAN:W2A-023#28:1> Biotechnology, broadly speaking, is not new.
+<ICE-CAN:W2A-023#29:1> Its origins date back eight to ten thousand years, when humans first
+
+began selecting plants for food crops.
+<ICE-CAN:W2A-023#30:1> Most of our main staples can be traced back to those early discover
+
+<l> ies.
+<ICE-CAN:W2A-023#31:1> Gradually our ancestors learned to breed new, more palatable and
+
+productive varieties by means of cross-breeding.
+<ICE-CAN:W2A-023#32:1> Animal domestication also has a long heritage, and the vast diversity
+
+we see today in species like the dog is the result of primitive but
+
+intentional breeding.
+<ICE-CAN:W2A-023#33:1> The ubiquity of livestock such as the cow is a reflection of the
+
+success and economic rele <l> vance of that human intervention. </p>
+
+<p> <ICE-CAN:W2A-023#34:1> Though they could not be aware of it then, primitive plant and
+
+animal breeders were brewing new combinations of the basic units of heredity
+
+- genes.
+<ICE-CAN:W2A-023#35:1> By mating different varieties of the same species, and in rare cases
+
+members of different but sexually compatible species, genes became slightly
+
+modified and expressed in subsequent generations.
+<ICE-CAN:W2A-023#36:1> Genetic engi <l> neering, the process pioneered by Boyer and Cohen,
+
+however, represents a radical departure in speed and effectiveness.
+<ICE-CAN:W2A-023#37:1> Its essence lies in the direct manipulation of the hereditary
+
+blueprint found in living cells, the deoxyribonucleic acid molecule, or DNA,
+
+of which genes are constructed. </p>
+
+<p> <ICE-CAN:W2A-023#38:1> First identified in the 1940s by Oswald Avery and described
+
+chemically in 1953 by Nobel Prize-winning researchers James Watson and
+
+Francis Crick, DNA has become a synonym for modern biotechnology.
+<ICE-CAN:W2A-023#39:1> Its celebrated double-helix structure is a wondrous example of
+
+chemistry's graceful sym <l> metry.
+<ICE-CAN:W2A-023#40:1> The DNA molecule consists of two long, spiralling strands of sugar
+
+and phosphate which are joined horizontally - as steps join the sides of a
+
+winding staircase - by an alternating sequence of chemical structures.
+<ICE-CAN:W2A-023#41:1> Each horizontal <quote> " step" </quote> consists of a pair of
+
+chemicals called base pairs which jut out from the sugar-phosphate strands
+
+and are joined by weak chemical bonds in the middle.
+<ICE-CAN:W2A-023#42:1> There are four bases - adenine, guanine, cytosine, and thymine - and
+
+each has an affinity for joining with only one of its potential partners:
+
+thymine with adneine and cytosine with guanine.
+<ICE-CAN:W2A-023#43:1> It is in the sequence of these chemicals up and down the DNA strands
+
+that genetic information is encoded, like the sequence of binary digits that
+
+instructs a computer to perform its calculations.
+<ICE-CAN:W2A-023#44:1> Depending on the order of the chemicals along distinct portions of
+
+the DNA strand, the DNA molecule will instruct the body to synthesize a
+
+variety of distinct chains of amino acids known as polypeptides.
+<ICE-CAN:W2A-023#45:1> A gene is a linear segment of the DNA strand that contains enough
+
+information to direct the cell chemistry to compile a polypeptide.
+<ICE-CAN:W2A-023#46:1> Polypeptides, in turn, are the building blocks of complex molecules
+
+known as proteins. </p>
+
+<p> <ICE-CAN:W2A-023#47:1> Responsible for a wide range of biological functions in plants,
+
+animals, and micro-organisms, proteins come in many different kinds and com
+
+<l> prise much of the dry weight of living organisms.
+<ICE-CAN:W2A-023#48:1> They are composed of 20 different amino acids, differing in character
+
+according to the number and order of amino acids in the protein chain.
+<ICE-CAN:W2A-023#49:1> An average protein is com <l> posed of about 100 amino acids.
+<ICE-CAN:W2A-023#50:1> The order of variously shaped amino acids causes a protein to fold
+
+into a specific shape, and by virtue of that shape the protein possesses
+
+certain properties that determine organic function and structure.
+<ICE-CAN:W2A-023#51:1> Proteins, for example, can link with oxygen molecules in the air and
+
+carry them to required parts of the body, or they can join together and form
+
+visible body features such as hair and muscle.
+<ICE-CAN:W2A-023#52:1> It is proteins, more than anything else, that are the stuff of life.
+
+</p>
+
+<p> <ICE-CAN:W2A-023#53:1> Biotechnology, whether through the direct intervention of genetic
+
+engineering or the relative pot luck of conventional breeding, exploits the
+
+relationship between genes and the protein structures they are pro <l>
+
+grammed to build.
+<ICE-CAN:W2A-023#54:1> What permitted Boyer and Cohen to become direct causal agents in the
+
+fusion of genetic information from unrelated species was the discovery in
+
+1970 of a specific set of natural chemical tools known as restriction
+
+endonucleases that make it possible to splice segments of DNA from different
+
+strands.
+<ICE-CAN:W2A-023#55:1> These enzymes generally exist to restrict DNA from a foreign species
+
+from mingling with the genetic material in bacterial cells.
+<ICE-CAN:W2A-023#56:1> Since the rules of DNA construction in theory permit DNA from any two
+
+species - whether bird, insect, fungus, or human - to intertwine, one of the
+
+ways nature ensures the survival of living organisms by maintaining diversity
+
+is by erecting barriers to this intermingling.
+<ICE-CAN:W2A-023#57:1> An example of such a barrier is the restriction endonuclease.
+<ICE-CAN:W2A-023#58:1> When foreign DNA strays into a bacterial cell, these enzymes identify
+
+the strand as foreign and defend the bacterial DNA by shattering it to
+
+pieces.
+<ICE-CAN:W2A-023#59:1> Fortunately for the genetic engi <l> neer, the attack is very
+
+systematic.
+<ICE-CAN:W2A-023#60:1> Each type of restriction endonuclease is trained to splice a DNA
+
+strand at a specific sequence of base pairs to which it has an aversion.
+<ICE-CAN:W2A-023#61:1> In doing so, it leaves the broken pieces of DNA - there can be
+
+millions of them, depending on the length and make-up of the original DNA -
+
+with split ends, like the dangling copper ends of a severed extension cord.
+<ICE-CAN:W2A-023#62:1> These dangling, unmated bases have a tendency to recombine either
+
+with their original base-pair partners or with other dan <l> gling bases that
+
+possess a complementary sequence to their own.
+<ICE-CAN:W2A-023#63:1> But because of the great numbers of broken pieces of DNA created by
+
+the shat <l> tering, it is unlikely they will recombine directly with the
+
+complementary bases of their original DNA mates.
+<ICE-CAN:W2A-023#64:1> So they recombine randomly with neighboring DNA segments, producing a
+
+host of small and disordered DNA strands. </p>
+
+<p> <ICE-CAN:W2A-023#65:1> Genetic engineers use the destructive capacity of restriction
+
+endonu <l> cleases to shatter and combine DNA strands from different species.
+<ICE-CAN:W2A-023#66:1> In lab <l> oratories, DNA strands from two species are mixed with the
+
+restriction endonucleases.
+<ICE-CAN:W2A-023#67:1> Pieces from the two previously distinct DNA strands, having been
+
+shattered at similar base-pair-sequence points, have an equal tendency to
+
+combine with each other as with pieces from their original DNA strands.
+<ICE-CAN:W2A-023#68:1> The random recombination yields a mixture of thousands ( and perhaps
+
+millions) of diverse molecules, many of them consisting of DNA from both
+
+species, known as recombinant DNA.
+<ICE-CAN:W2A-023#69:1> To this mixture, the genetic engineer then adds enzymes known as
+
+ligases to cement the bonds. </p>
+
+<p> <ICE-CAN:W2A-023#70:1> For a piece of recombinant DNA to be useful in industrial
+
+applications, many copies are needed.
+<ICE-CAN:W2A-023#71:1> Since living cells are capable of dividing rapidly - and in so doing
+
+make identical copies of their DNA - genetic engineers use them as DNA
+
+factories.
+<ICE-CAN:W2A-023#72:1> To accomplish this they mix a collection of recombinant DNA into a
+
+pool of bacterial cells.
+<ICE-CAN:W2A-023#73:1> There, parts of cells known as plasmids, pieces of DNA which normally
+
+move benignly in an out of cells, latch on to stray bits of foreign DNA and
+
+shuttle them into cells.
+<ICE-CAN:W2A-023#74:1> In some cases, viruses, which also have a tendency to latch on to
+
+DNA, are used.
+<ICE-CAN:W2A-023#75:1> When a virus succeeds in invading a cell, it may also carry with it
+
+bits of foreign DNA.
+<ICE-CAN:W2A-023#76:1> In either case, out of the vast and disorganized colony of altered
+
+cells in the broth, cells containing the desired DNA segments ( which are far
+
+too small to be detected microscopically) must be identi <l> fied.
+<ICE-CAN:W2A-023#77:1> This can be accomplished using a variety of methods.
+<ICE-CAN:W2A-023#78:1> In one method, the broth is laced with radioactivated RNA molecules
+
+which hone in on the desired DNA strip and mark it.
+<ICE-CAN:W2A-023#79:1> According to another, the protein produced by a selected cell is
+
+isolated and matched against the protein known to be produced by the desired
+
+DNA segment.
+<ICE-CAN:W2A-023#80:1> Once a bacterium possessing the desired DNA segment - or gene - is
+
+located, it can be removed from the broth.
+<ICE-CAN:W2A-023#81:1> These cells can then be cultivated in large quan <l> tities to become
+
+the drugs, the chemicals, and the microbes of modern biotechnology.
+<ICE-CAN:W2A-023#82:1> They are what hold the promise and the threat of an industry which,
+
+just two decades ago, was relegated almost exclusively to government and
+
+university laboratories, and which, propelled by private enterprise, has
+
+become a multi-billion-dollar business. </p> </I>

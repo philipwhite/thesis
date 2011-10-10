@@ -1,0 +1,417 @@
+<I>
+<ICE-CAN:W2A-001#1:1> <h> INTRODUCTION </h>
+
+<p> <ICE-CAN:W2A-001#2:1> <quote> 'To articulate the past historically does not mean to
+
+recognize it <quote> 'the way it really was' </quote> ....
+<ICE-CAN:W2A-001#3:1> It means to seize hold of a memory as it flashes up at a moment of
+
+danger.' </quote>
+<ICE-CAN:W2A-001#4:1> Walter Benjamin, <quote> 'Theses on the Philosophy of History'
+
+</quote> , VI, 255 </p>
+
+<p> <quote> 'We are confined to ways of describing whatever is described.
+<ICE-CAN:W2A-001#5:1> Our universe ... consists of these ways rather than of a world or of
+
+worlds.' </quote>
+<ICE-CAN:W2A-001#6:1> Nelson Goodman, <it> Ways of Worldmaking </it> , 2-3 </p>
+
+<p> <ICE-CAN:W2A-001#7:1> Artists are the mnemonists of culture.
+<ICE-CAN:W2A-001#8:1> Their work is memory work, both personal and social, both intellectual
+
+and material.
+<ICE-CAN:W2A-001#9:1> I want to introduce the complexity of this thematics of memory and the
+
+ways in which I will discuss it in the chapters that follow with two
+
+arresting images, the Toronto painter Sheila Ayearst's <it> Three Minutes
+
+</it> ( 1988; Plate 1) and <it> The Unveiling of the Cornucopia: A Mural
+
+Fragment from the Room with the Unknown Function in the Villa dei Misteri of
+
+the 1984 Miss General Idea Pavilion </it> by General Idea ( 1982; Plate 2).
+
+</p>
+
+<p> <ICE-CAN:W2A-001#10:1> The left side of Ayearst's diptych reproduces in painstaking
+
+detail, and with close attention to seventeenth-century techniques of
+
+glazing, Rembrandt's fragmentary <it> Anatomy Lesson of Dr Joan Deijman </it>
+
+of 1656, now in the Rijksmuseum, Amsterdam.
+<ICE-CAN:W2A-001#11:1> Appended and yet opposed to this visual, art-historical recollection
+
+are two memorial texts, one inside the other.
+<ICE-CAN:W2A-001#12:1> The larger, apparently machine-produced text records with the
+
+technical, scientific precision of medical terminology the results of an
+
+autopsy.
+<ICE-CAN:W2A-001#13:1> Embedded in a cup-like form within this account is a smaller, much
+
+more personal and emotional homage to the death of a brain: <quote> 'The
+
+brain did not die at once.
+<ICE-CAN:W2A-001#14:1> It took those three minutes' </quote> - an account that, as we will
+
+see, is not Ayearst's, but from which she derives her title.
+<ICE-CAN:W2A-001#15:1> Both texts float on an indistinct surface that is visually
+
+reminiscent of the texture of brain tissue. </p>
+
+<p> <ICE-CAN:W2A-001#16:1> Even this initial description of <it> Three Minutes </it> reveals
+
+the complex layer <l> ing of Ayearst's memory work.
+<ICE-CAN:W2A-001#17:1> She has recalled an image from art's history that graphically
+
+displays the scientific dismemberment of a cadaver as well as textual
+
+references to two other deaths.
+<ICE-CAN:W2A-001#18:1> The brain - the seat of memory, as we commonly think - is pictured in
+
+all three instances.
+<ICE-CAN:W2A-001#19:1> Yet Ayearst's vision demands that we reconsider this habitual <quote> 'mentalist'
+
+</quote> understanding of memory's location, and indeed our resulting
+
+relations with the human beings who are defined by it.
+<ICE-CAN:W2A-001#20:1> Her version of Rembrandt's painting is not as exact as it might
+
+appear: she has accentuated the exposed and excavated body cavity of the dead
+
+man, making this space as impor <l> tant both optically and thematically as
+
+the brain displayed by the surgeon.
+<ICE-CAN:W2A-001#21:1> She remembers both body and brain - those elements that the Cartesian
+
+science evoked by Rembrandt literally takes apart - and considers the two
+
+somatically equal in their ability to remember, to record traces.
+<ICE-CAN:W2A-001#22:1> On the right side of her work, one putatively objective medical
+
+appropriation of the brain and its memory similarily vies with the other
+
+text, a text that is also written by a doctor of our time and yet is
+
+contained in the <quote> 'same' </quote> skull cap held by the assistant in
+
+<quote> 'Rembrandt's' </quote> image.
+<ICE-CAN:W2A-001#23:1> Crucially, this small text is inscribed in the <it> body </it> of the
+
+larger text.
+<ICE-CAN:W2A-001#24:1> Ayearst's mnemonic devices thus tie the two sides of her piece
+
+together; visually, textually, and metaphori <l> cally, they tether the
+
+seventeenth century's science to that performed in the present while
+
+simultaneously offering subversive alternatives to both practices. </p>
+
+<p> <ICE-CAN:W2A-001#25:1> The rich intricacies of Ayearst's commentaries on memory, the
+
+brain, and science are made possible by memory, but not simply her memory.
+<ICE-CAN:W2A-001#26:1> She relies on Rembrandt's more traditional reflection on Mantegna's
+
+<it> Dead Christ </it> ( c. 1480), for example, and of the anatomy lessons he
+
+witnessed - as well as the <w> doctors' </w> recollections she quotes - and
+
+she also depends on her <it> viewer's </it> memories, which might extend from
+
+recognitions of art-historical allusions to reminiscences of personal
+
+experiences of death to the nature of medical experimentation and
+
+documentation in our society.
+<ICE-CAN:W2A-001#27:1> What Ayearst initiates - but cannot and does not wish to control
+
+strictly - with her evocative image and texts is thus neither simply personal
+
+nor completely historical.
+<ICE-CAN:W2A-001#28:1> Her work suggests the overlapping, mutually defining rela <l>
+
+tionship between our everyday notion of memory as individual and history as
+
+somehow collective and objective, History with a capital H.
+<ICE-CAN:W2A-001#29:1> In redefining memory and history in terms of one another, she makes
+
+mate <l> rial what Wittgenstein has called a <quote> 'memory-reaction'
+
+</quote> ( 343), and this reaction or set of reactions animates both her
+
+recollections and those of her viewers in the present. </p>
+
+<p> <ICE-CAN:W2A-001#30:1> With <it> The Unveiling of the Cornucopia </it> , the artists of
+
+General Idea invite <quote> 'the public to participate in the archaeology of
+
+memory' </quote> ( 40) <fnr> <sp> 1 </sp> </fnr> .
+<ICE-CAN:W2A-001#31:1> We see an <foreign> ersatz </foreign> ancient mural complete with all
+
+the proper art-historical and archaeological signs of its antiquity: faded
+
+colour, often imprecise details, visible traces of damage, and, above all,
+
+fragmentation.
+<ICE-CAN:W2A-001#32:1> The central scene, however, is sufficiently intact to arouse our
+
+curiosity and to encourage attempts at reconstruction.
+<ICE-CAN:W2A-001#33:1> Three anthropomorphic poodles seem to be performing some sort of
+
+mystery rite around a form that the title suggests is a cornucopia.
+<ICE-CAN:W2A-001#34:1> The subtitle of this work alerts us to the <w> artists' </w>
+
+art-historical allusion to the famous Dionysiac mystery cult imaged on the
+
+walls of the Villa of Mysteries at Pompeii <it> c </it> . 50 <smallcaps> BC
+
+</smallcaps> .
+<ICE-CAN:W2A-001#35:1> But this quotation - like Ayearst's - is only the beginning of a
+
+mnemonic reconstitution of meaning.
+<ICE-CAN:W2A-001#36:1> In a catalogue text entitled <it> Cornucopia </it> accompanying their
+
+1984 retrospective ( itself a <quote> 'retrospective' </quote> event that was
+
+projected in much of their earlier work) the artists of General Idea
+
+illuminate a project that uncovers the role of memory in their art and in
+
+postmodernism generally, a project that <it> begins </it> ( not ends, as in
+
+much current art-historical identifica <l> tion or appropriation) with our
+
+recognition of their allusion: <X> <quote> The amorphous world of meanings
+
+and functions has traditionally been articulated through the architectural
+
+act of construction.
+<ICE-CAN:W2A-001#X37:1> But the three artists of General Idea have re-introduced <it> de
+
+</it> struction into the architec <l> tural process.
+<ICE-CAN:W2A-001#X38:1> In their long-term project, the 1984 Miss General Idea Pavilion,
+
+ruins are created as quickly as rooms are built.
+<ICE-CAN:W2A-001#X39:1> Accumulated layers of function and meaning slip in and out of focus,
+
+creating a shifting constellation of images which is the Pavilion itself. (
+
+67) </quote> </X> </p>
+
+<p> <ICE-CAN:W2A-001#40:1> Traditional archaeology is based on the assumption that a stable
+
+past, <it> a </it> History, can be recovered, but General Idea mocks this
+
+possibility and the desire behind it by literalizing the <quote> 'shifting'
+
+</quote> nature of meaning.
+<ICE-CAN:W2A-001#41:1> What <it> The Unveiling of the Cornucopia </it> uncovers is General
+
+Idea's self-created and well-marketed past, a past that here passes for
+
+antiquity by deploying culturally specific signs of history: fragmentation
+
+and damage.
+<ICE-CAN:W2A-001#42:1> All the elements in this large mural were indeed pre-constructed
+
+precisely to allow for their partial destruction, their cultural weathering,
+
+which in turn permits them to <it> signify </it> pastness in an
+
+art-historical framework even though they are not literally old.
+<ICE-CAN:W2A-001#43:1> We see General Idea's signature poodles, their famous zig <l> gurat
+
+forms, the cocktail glass spilling its cultural meanings to the left of the
+
+central poodle, and of course the cornucopia itself, which never reveals more
+
+than the perpetually plentiful process of construction/ destruction through
+
+which memory creates meaning.
+<ICE-CAN:W2A-001#44:1> This image plays in a very telling way with its supposed antecedent
+
+at Pompeii: are we not encouraged by the transformation of the Roman wall
+
+painting's suppos <l> edly Dionysian women into poodles to question the
+
+self-serious assigning of meaning that typifies art history's own
+
+appropriation of this and all other 'past' images?
+<ICE-CAN:W2A-001#45:1> The ludic frequently proclaims memory's work, as we will see
+
+throughout this book. </p>
+
+<p> <ICE-CAN:W2A-001#46:1> I suggested at the outset that <it> Three Minutes </it> and <it>
+
+The Unveiling of the Cornucopia </it> introduce the central dimensions of
+
+memory that I will explore and through which I will elaborate a theory of
+
+postmodernism in recent Canadian art.
+<ICE-CAN:W2A-001#47:1> With the above descriptions in mind, let me specify this promise.
+<ICE-CAN:W2A-001#48:1> Both works quote from the history of Western art, and this sort of
+
+citation is widely held to typify postmodernist practice.
+<ICE-CAN:W2A-001#49:1> Against the now-fashionable lament - best articulated by Fredric
+
+Jameson - that this purportedly fast and loose play with art's history is
+
+nothing more than an empty pastiche , symptomatic of a contemporary loss of
+
+historical aware <l> ness, however, I want to argue that, in many more
+
+instances than those in which Jameson and followers like Terry Eagleton can
+
+justify their claims ( and both authors can be criticized for the
+
+abstractness of their arguments, for their unwillingness to offer examples),
+
+art-historical recollections are in fact integral to a new concern for the
+
+status of history and the past in art.
+<ICE-CAN:W2A-001#50:1> In <quote> 'Postmodernism, or the Cultural Logic of Late Capitalism'
+
+</quote> ( 1984) - an article that has rightly become a touchstone in
+
+discussions of postmodernism Jameson bemoans what he sees as postmodernism's
+
+<quote> 'weakening of historicity, both in our relationship to public History
+
+and in the new forms of our private temporality' </quote> ( 58).
+<ICE-CAN:W2A-001#51:1> This loss of the public and personal past, he claims, restricts an
+
+individual's <quote> 'capacity actively to extend its pro-tensions and
+
+re-tensions across the temporal manifold' </quote> ( 71) - in other words,
+
+his or her ability to understand the past and to act in a future extending
+
+from it.
+<ICE-CAN:W2A-001#52:1> Jameson's ultimate regret, then, is for what he sees as a loss of
+
+social and political efficacy based on a loss of history.
+<ICE-CAN:W2A-001#53:1> <quote> 'It is unsurprising' </quote> , he has written more recently,
+
+in a tone that many critics of the postmodern have adopted without any
+
+attention to its local applica <l> bility, <X> <quote> ' ... that most of the
+
+postmodernisms will betray the extinction of even the protopolitical in their
+
+agreeable ironies and their aesthetic cyni <l> cisms, their forced
+
+accommodation to the system' </quote> </X> ( <quote> 'Postmodernism and
+
+Utopia' </quote> , 13). </p>
+
+<p> <ICE-CAN:W2A-001#54:1> Jameson deploys his arguments about the loss of history in
+
+exactly the three areas in which I focalize memory: art's past ( his claims
+
+about pas <l> tiche), the recollective construction of the subject ( which
+
+for Jameson has lost its sense of past or future time), and social and
+
+political recall ( where Jameson sees only a cynical quietism).
+<ICE-CAN:W2A-001#55:1> My counter-claim is that postmo <l> dern memory as exemplified by
+
+Ayearst, General Idea, and the other artists and pieces in this book can
+
+effectively call into question the exist <l> ence of the <quote> 'Real
+
+History' </quote> ( <quote> 'Cultural Logic' </quote> , 68) on which all of
+
+Jameson's arguments covertly depend and for which he is nostalgic in spite of
+
+himself.
+<ICE-CAN:W2A-001#56:1> Memory, with its evanescent yet specific inflections of meaning, <it>
+
+is </it> history in a postmodern culture.
+<ICE-CAN:W2A-001#57:1> As we have seen, in these examples it is not possible to envision a
+
+Rembrandt painting, seventeenth-century medical practices, or Roman mystery
+
+cults except through the mediating lens of memory.
+<ICE-CAN:W2A-001#58:1> This is not to suggest that the past doesn't exist, but rather to
+
+specify the <it> mode </it> of its existence, the nature of its 'reality' .
+<ICE-CAN:W2A-001#59:1> Since by definition <quote> ` no statement about the past can be
+
+confirmed by examining the supposed facts' </quote> ( Lowenthal, 187),
+
+history cannot exist apart from its viewers and their specific and
+
+ever-changing perspectives.
+<ICE-CAN:W2A-001#60:1> The radical implication is that <quote> ' <it> nothing </it> is
+
+natural about our memories, that the past ... is an artifice' </quote> (
+
+Terdiman, 19) erected and mediated by the interests of the present.
+<ICE-CAN:W2A-001#61:1> If we are tempted to defend Jameson by claiming a physical work of
+
+art - its status as physical object - as an irrefragable piece of history, an
+
+archaeological reminder, we need only think of how <it> The Unveiling of the
+
+Cornucopia </it> or <it> Three Minutes </it> augments the possible meanings
+
+of its art-historical referents, how each work <it> changes </it> the nature
+
+of its antecedent.
+<ICE-CAN:W2A-001#62:1> Art-historical citation, then, can move beyond the superficial
+
+pastiche described by Jameson to a profound, though sometimes simultaneously
+
+playful, engagement with the notions of pastness and history in general.
+<ICE-CAN:W2A-001#63:1> Memory <it> works </it> ; it is effective, not cynical. </p>
+
+<p> <ICE-CAN:W2A-001#64:1> <it> Three Minutes </it> in particular counters Jameson's notion
+
+that <quote> 'private temporality' </quote> , in the sense of personal
+
+history or the definition through time of what we call a subject or person,
+
+is lost in recent art.
+<ICE-CAN:W2A-001#65:1> What we often see is just the opposite, an extension of this sense of
+
+history - sometimes ( as in this instance) through a recollection of art, but
+
+also in other memories of past events - into the realm of the subject.
+<ICE-CAN:W2A-001#66:1> Ayearst has brought seventeenth-century experimental science ( in
+
+what could be argued to be its masculinist invasiveness) into a contemporary
+
+perspective precisely by linking Rembrandt's image with recent medical texts.
+<ICE-CAN:W2A-001#67:1> We are thus asked to contemplate how the subject is construed today,
+
+and specifically how memory, mental and/or corporeal, is part of the
+
+definition of the subjecthood.
+<ICE-CAN:W2A-001#68:1> This latter consideration is at once personal and social, since <it>
+
+Three Minutes </it> argues for a more inclusive and compassionate
+
+construction of the subject than that imaged by Ayearst's Rembrandt.
+<ICE-CAN:W2A-001#69:1> And if we construe the political very inclusively as that realm of (
+
+unequal) power relations among members of society, then Ayearst's memories,
+
+in collaboration with those of her viewers, also act politically.
+<ICE-CAN:W2A-001#70:1> Art-historical citation, for example - as I will argue throughout
+
+this book - is never gender-neutral.
+<ICE-CAN:W2A-001#71:1> It is important politically that Aycarst, a woman, cites a male
+
+artist's privileged exposure of the seat of identity in memory and his
+
+mirroring of the intrusions of science.
+<ICE-CAN:W2A-001#72:1> Ayearst stands back from this invasion precisely by quoting it, and
+
+she is thus able to insinuate an implicit critique of these cerebral and
+
+arguably masculinist practices by embodying the more compassionate small text
+
+about the brain's death. </p> </I>

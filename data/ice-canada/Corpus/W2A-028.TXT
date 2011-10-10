@@ -1,0 +1,451 @@
+<I>
+<ICE-CAN:W2A-028#1:1> <h> <it> P - T </it> history and kinematics of the Monashee
+
+D&eacute;collement near Revelstoke, British Columbia <sp> 1 </sp> <footnote>
+
+1 Geological Survey of Canada Contribution 17188. </footnote> </h>
+<ICE-CAN:W2A-028#2:1> <h> LARRY S. LANE </h>
+<ICE-CAN:W2A-028#3:1> <h> <it> Institute of Sedimentary and Petroleum Geology, 3303 - 33rd
+
+St. NW, Calgary, Alta., Canada T2L 2A7 </it> </h>
+<ICE-CAN:W2A-028#4:1> <h> EDWARD D. GHENT AND MAVIS Z. STOUT <it> Department of Geology and
+
+Geophysics, The University of Calgary, Calgary, Alta., Canada T2N 1N4 </it>
+
+AND </smallcaps> </h>
+<ICE-CAN:W2A-028#5:1> <h> RICHARD L. BROWN <it> Department of Earth Sciences, Carleton
+
+University, and Ottawa - Carleton Geoscience Centre, Ottawa, Ont., Canada K1S
+
+5B6 </it> </h>
+<ICE-CAN:W2A-028#6:1> <h> Received January 5, 1988 </h>
+<ICE-CAN:W2A-028#7:1> <h> Revision accepted May 17, 1988 </h>
+
+<p> <ICE-CAN:W2A-028#8:1> Microstructural and petrofabric analyses of mylonites from the
+
+Monashee D&eacute;collement demonstrate that the hanging wall was displaced
+
+eastward over the footwall.
+<ICE-CAN:W2A-028#9:1> Microstructural kinematic indicators include shear-band foliation,
+
+asymmetric strain shadows, and S - C fabrics.
+<ICE-CAN:W2A-028#10:1> Quartz <it> c </it> axes locally exhibit asymmetric fabrics that are
+
+consistent with the microstructural evidence for sense of shear.
+<ICE-CAN:W2A-028#11:1> The kinematic evidence is reliable because multiple criteria coexist
+
+within individual specimens. </p>
+
+<p> <ICE-CAN:W2A-028#12:1> Metamorphic assemblages from footwall Monashee Complex pelites at
+
+the Revelstoke damsite indicate that the peak meta <l> morphic assemblage was
+
+sillimanite - K-feldspar - biotite - almandine - quartz <w> + <sb> - </sb>
+
+</w> plagioclase.
+<ICE-CAN:W2A-028#13:1> Biotite - garnet geothermom <l> etry and garnet - plagioclase -
+
+sillimanite - quartz geobarometry set broad constraints on metamorphic
+
+temperatures but closer constraints on pressures, near 650&degree;C and 630
+
+MPa. </p>
+
+<p> <ICE-CAN:W2A-028#14:1> Comparison of these data with Late Cretaceous hornblende cooling
+
+ages from the same locality indicates that the metamor <l> phism is at least
+
+as old as Late Cretaceous.
+<ICE-CAN:W2A-028#15:1> Complex microstructures relating to repeated mylonitization and
+
+annealing render difficult the correlation of metamorphic conditions with
+
+mylonitic fabrics.
+<ICE-CAN:W2A-028#16:1> Early mylonitic textures predate the metamorphic equilibration and
+
+thus are pre-Late Cretaceous in age.
+<ICE-CAN:W2A-028#17:1> Postmetamorphic mylonites are well preserved, but their ages are
+
+poorly constrained.
+<ICE-CAN:W2A-028#18:1> The present interpretation favours a Late Cretaceous to Paleocene age
+
+relating to compressional tectonics.
+<ICE-CAN:W2A-028#19:1> However, an Early Eocene age relating to extensional shearing cannot
+
+be excluded. </p> <O> French Abstract </O>
+<ICE-CAN:W2A-028#20:1> <h> Can. J. Earth Sci. <bold> 26 </bold> , 231 - 243 ( 1989) </h>
+<ICE-CAN:W2A-028#21:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-028#22:1> The Monashee d&eacute;collement has been interpreted as a zone of
+
+shearing that accommodated large-scale crustal shortening during Mesozoic
+
+orogenesis ( e.g., Read and Brown 1981; Okulitch 1984; Brown <it> et al </it> .
+
+1986; Brown and Journeay 1987).
+<ICE-CAN:W2A-028#23:1> The d&eacute;collement was subsequently reactivated by early Tertiary
+
+brittle normal faulting ( Lane 1984a) related to regional extension, uplift,
+
+and quenching of isotopic systems ( e.g., Mathews 1981, 1983; Parrish <it> et
+
+al </it> . 1985; Bardoux1985; Carr <it> et al </it> . 1987).
+<ICE-CAN:W2A-028#24:1> As an example of a Cordilleran meta <l> morphic core complex (
+
+Crittenden <it> et al </it> . 1980; Brown and Read 1983), the Monashee
+
+Complex has been the subject of ongoing debate on the relative importance of
+
+Mesozoic shortening versus Tertiary extension in the geologic evolution of
+
+the region. </p>
+
+<p> <ICE-CAN:W2A-028#25:1> One model concluded that Late Jurassic to Cretaceous west <l>
+
+ward underthrusting of the deforming Cordilleran orogen by the North American
+
+craton created a crustal-scale duplex that uplifted and cooled the Monashee
+
+Complex ( Brown <it> et al </it> . 1986).
+<ICE-CAN:W2A-028#26:1> The Monashee D&eacute;collement was interpreted as the roof thrust of
+
+the duplex, forming primarily as a result of regional shortening of Jurassic
+
+to Cretaceous age.
+<ICE-CAN:W2A-028#27:1> Regional uplift and cooling occurred primarily in the Mesozoic
+
+because of crustal duplexing, with later reactivation by modest early
+
+Tertiary extension and uplift. </p>
+
+<p> <ICE-CAN:W2A-028#28:1> An alternative model was based on data from the Valhalla and
+
+Okanagan complexes in southern British Columbia ( Par <l> rish and Carr 1986;
+
+Carr <it> et al </it> . 1987).
+<ICE-CAN:W2A-028#29:1> It differed in that the role of well-documented Eocene extension was
+
+emphasized as the mechanism of uplift and cooling of the metamorphic complex.
+
+</p>
+
+<p> <ICE-CAN:W2A-028#30:1> Tertiary extensional faulting of 10 - 15 km magnitude on the
+
+margins of the Monashee Complex near latitude 51 &degree;N has been
+
+interpreted previously ( Read and Brown 1981; Lane 1984a; Brown and Journeay
+
+1987).
+<ICE-CAN:W2A-028#31:1> Recent models of major Tertiary extension across the Okanagan Complex
+
+in southern British Columbia suggest extension by as much as 60 - 100 km,
+
+accommodated by ductile shearing at depth and brittle faulting at higher
+
+structural levels ( Tempelman-Kluit and Parkinson 1986; Parrish and Carr
+
+1986; but see Okulitch 1987).
+<ICE-CAN:W2A-028#32:1> These models either imply that a similar magnitude of extension
+
+occurred on the Monashee D&eacute;collement and Colum <l> bia River fault
+
+zone or require a rapid decrease in extension magnitude northward along
+
+strike. </p>
+
+<p> <ICE-CAN:W2A-028#33:1> The recognition of important Tertiary extension in southern
+
+British Columbia results in part from precise dating of syn <l> kinematic
+
+magmatism, which is widespread in the Okanagan and Valhalla complexes.
+<ICE-CAN:W2A-028#34:1> The magmatism is spatially, and perhaps genetically, related to major
+
+extension ( e.g., Mathews 1981; Carr <it> et al </it> . 1987).
+<ICE-CAN:W2A-028#35:1> Conversely, the timing of displace <l> ments along the Monashee
+
+D&eacute;collement is relatively poorly constrained, correlative with a lack
+
+of important synkinematic plutonism.
+<ICE-CAN:W2A-028#36:1> A different approach is therefore required to answer the questions of
+
+when and under what conditions Mesozoic shortening was replaced by Tertiary
+
+extension. </p>
+
+<p> <ICE-CAN:W2A-028#37:1> This paper begins to address those questions by document <l> ing
+
+the microstructures, metamorphic-mineral assemblages, and pressure -
+
+temperature ( <it> P - T </it> ) conditions as preserved in metasediments at
+
+the Revelstoke damsite.
+<ICE-CAN:W2A-028#38:1> During construction of the dam across the Columbia River valley, the
+
+effects of ductile shearing and brittle faulting on the Monashee
+
+D&eacute;colle <l> ment and Columbia River fault zone were temporarily well
+
+exposed.
+<ICE-CAN:W2A-028#39:1> We elaborate on earlier microstructural evidence for top-to-the-east
+
+sense of shear on the d&eacute;collement north of Revelstoke ( see Brown and
+
+Murphy 1982) by documenting multiple kinematic criteria that are consistent
+
+over 50 km of strike length.
+<ICE-CAN:W2A-028#40:1> The microstructural and metamorphic data are then compared with the
+
+local cooling history.
+<ICE-CAN:W2A-028#41:1> From these data we evaluate the extent to which the relative
+
+importance of Mesozoic compression and Tertiary extension can be con <l>
+
+strained. </p>
+<ICE-CAN:W2A-028#42:1> <h> <bold> Structural setting </bold> </h>
+
+<p> <ICE-CAN:W2A-028#43:1> Development of the orogen began in the Jurassic with the collapse
+
+of a marginal basin and obduction of a magmatic arc.
+<ICE-CAN:W2A-028#44:1> Middle Jurassic west-verging deformation shortened and thickened the
+
+continental-margin sedimentary prism, resulting in regional metamorphism.
+<ICE-CAN:W2A-028#45:1> That was followed by westward underthrusting of the thickened
+
+metasedimentary pile by the North American cratonic basement and the
+
+formation of a crustal-scale duplex in Late Jurassic through Cretaceous time.
+<ICE-CAN:W2A-028#46:1> Early Tertiary extension later modified the compressional orogen (
+
+see Brown <it> et al. </it> ( 1986) for a comprehensive treatment). </p> <O>
+
+map </O> <O> map caption </O>
+
+<p> <ICE-CAN:W2A-028#47:1> The Monashee Complex ( Fig. 1) is exposed as a tectonic window
+
+through the overlying Selkirk Allochthon ( Read and Brown 1981; Brown and
+
+Journeay 1987).
+<ICE-CAN:W2A-028#48:1> Structural geometry in the hanging wall is complex as a result of
+
+polyphase defor <l> mation ( e.g., Brown and Tippett 1978; Raeside and Simony
+
+1983; Brown and Lane 1988).
+<ICE-CAN:W2A-028#49:1> The structural geometry in the footwall Monashee Complex is also
+
+complex ( Read and Klepacki 1981; H&ouml;y and Brown 1980; Journeay 1986),
+
+but neither structures nor metamorphism can be directly cor <l> related
+
+across the Monashee D&eacute;collement to the Selkirk Allochthon ( Wheeler
+
+1965; Okulitch 1984; Journeay 1986). </p>
+
+<p> <ICE-CAN:W2A-028#50:1> On the west side of the complex, where the d&eacute;collement
+
+dips shallowly westward, two periods of ductile thrusting ( west over east)
+
+were interpreted as Late Jurassic and Late Creta <l> ceous to Paleocene in
+
+age ( Journeay 1986). <O> map </O> <O> map caption </O>
+<ICE-CAN:W2A-028#51:1> Ductile and brittle west-side-down normal faulting of presumed Eocene
+
+age reactivated the earlier mylonite zones in an extensional mode ( Brown and
+
+Journeay 1987).
+<ICE-CAN:W2A-028#52:1> The transition from contraction to extension is marked on the west
+
+margin of the complex by a vergence reversal in the shear zones ( Brown and
+
+Journeay 1987). </p>
+
+<p> <ICE-CAN:W2A-028#53:1> Because west and east margins are contiguous around the north end
+
+of the complex ( Fig. 1), there must have been a con <l> tractional history
+
+on the east margin.
+<ICE-CAN:W2A-028#54:1> However, the contrac <l> tional and extensional parts of the history
+
+have never been distinguished because the kinematics are the same for both.
+<ICE-CAN:W2A-028#55:1> Although brittle extensional faulting on the Columbia River Fault is
+
+unequivocally early Tertiary in age ( Lane 1984 <it> b </it> ) , the question
+
+of how much, if any, of the ductile fabric relates to Tertiary shearing (
+
+contractional or extensional) has not yet been addressed. </p>
+<ICE-CAN:W2A-028#56:1> <h> <bold> Kinematics </bold> </h>
+<ICE-CAN:W2A-028#57:1> <h> <it> Mesoscopic structures </it> </h>
+
+<p> <ICE-CAN:W2A-028#58:1> Detailed studies at several localities along the mylonite zone
+
+indicate a consistent, broadly east-west mylonitic extension lineation and
+
+shallow eastward- or northward-dipping mylo <l> nitic foliation ( Fig. 2) <O>
+
+plot </O> <O> plot caption </O> .
+<ICE-CAN:W2A-028#59:1> Foliations axial planar to Middle Jurassic southwest-verging folds in
+
+the hanging wall ( S <sb> 2 </sb> ) and variably oriented lineations ( L <sb>
+
+2 </sb> ) parallel to hinge lines are progressively reoriented toward the
+
+mylonitic fabrics ( S <sb> m </sb> , L <sb> m </sb> ) in the
+
+d&eacute;collement ( Fig. 2).
+<ICE-CAN:W2A-028#60:1> Variability of the mylonitic foliation reflects syn-mylonite folding
+
+( Fig. 3).
+<ICE-CAN:W2A-028#61:1> Hinges of tight to isoclinal syn-mylonite ductile minor folds at the
+
+Revelstoke damsite form two clusters adjacent to the southeast-trending
+
+mylonitic extension lineation when plotted on an equal-area stereographic
+
+projection ( Fig. 3 <it> a </it> ) .
+<ICE-CAN:W2A-028#62:1> Hinges trending easterly have Z shapes viewed down-plunge and those
+
+trending southerly have S shapes, indicating a local southeastward dis <l>
+
+placement of the hanging wall. </p>
+
+<p> <ICE-CAN:W2A-028#63:1> Later folds, which probably represent a late increment of the
+
+ductile shearing, locally rotated the mylonitic foliation and lineation.
+<ICE-CAN:W2A-028#64:1> Such folds are well exposed in metasediments at the damsite ( Fig.
+
+4).
+<ICE-CAN:W2A-028#65:1> Axial-surface orientations are highly vari <l> able, but hinges
+
+plunge shallowly towards the east or northeast ( Fig. 3 <it> b </it> ) .
+<ICE-CAN:W2A-028#66:1> A weak crenulation of micas is locally observed parallel to the fold
+
+hinges but at an angle to the mylonitic stretching lineation, particularly
+
+near hinge zones.
+<ICE-CAN:W2A-028#67:1> The late structures refold earlier structures but are usually
+
+distinguish <l> able from the earlier folds by their more open form (
+
+interlimb angles near 90&degree;) and by their round hinge zones ( Lane 1984
+
+<it> a </it> , Fig. 7).
+<ICE-CAN:W2A-028#68:1> The folds described here are disrupted and offset by the brittle
+
+extensional-fault zone ( Lane 1984 <it> a </it> ) . </p>
+
+<p> <ICE-CAN:W2A-028#69:1> The late-stage folds are relative time markers because they
+
+deform mylonitic textures in the quartzite units, unlike the earlier tight to
+
+isoclinal minor folds where the quartz-shape fabric is axial planar.
+<ICE-CAN:W2A-028#70:1> The late folds are continuous across the damsite and involve the
+
+entire succession below the principal gouge zone of the Eocene brittle fault
+
+( Fig. 4) ( Lane 1984 <it> a </it> ) . </p>
+<ICE-CAN:W2A-028#71:1> <h> <it> Microstructures </it> </h>
+
+<p> <ICE-CAN:W2A-028#72:1> Samples for microstructural and petrofabric analysis were
+
+collected from the following localities: ( <it> i </it> ) Revelstoke damsite
+
+and adjacent exposures, ( <it> ii </it> ) south of La Forme Creek, ( <it> iii
+
+</it> ) south of Carnes Creek and ( <it> iv </it> ) south of Mars Creek (
+
+Fig. 2).
+<ICE-CAN:W2A-028#73:1> Locali <l> ties ( <it> i </it> ) and ( <it> ii </it> ) include
+
+samples from the Monashee Complex and Clachnacudainn Slice and intervening
+
+tectonically emplaced lozenges that were possibly derived from the hang <l>
+
+ing wall.
+<ICE-CAN:W2A-028#74:1> Localities ( <it> iii </it> ) and ( <it> iv </it> ) include samples
+
+from the Monashee Complex and tectonic lozenges only, as hanging-wall
+
+Goldstream Slice phyllites and interlayered carbonates are not extensively
+
+mylonitized. </p>
+
+<p> <ICE-CAN:W2A-028#75:1> Mylonitic textures are best developed in the Clachnacudainn
+
+granitoids and siliceous units in the tectonic lozenges and foot-wall ( Fig.
+
+5).
+<ICE-CAN:W2A-028#76:1> Protomylonitic textures are present near the margins of the zone and
+
+in thin quartz-rich layers enclosed by less competent biotite schists.
+<ICE-CAN:W2A-028#77:1> A foliation parallel to composi <l> tional layering is defined by
+
+muscovite plates and thin solution seams containing very fine mica.
+<ICE-CAN:W2A-028#78:1> Their planarity and con <l> tinuity indicate that they are local
+
+planes of relatively high strain ( C planes of Berth&eacute; <it> et al </it> .
+
+1979) parallel to the mylonitic shear plane ( Fig. 6). </p>
+
+<p> <ICE-CAN:W2A-028#79:1> Biotite in the pelitic schists is recrystallized, so the meso <l>
+
+scopic fabric is not mylonitic ( i.e., reduced in grain size in relation to
+
+the protolith) but merely anastomoses around plagioclase, garnet, or kyanite
+
+porphyroclasts.
+<ICE-CAN:W2A-028#80:1> Quartz aggre <l> gates normally define ribbons elongate in the
+
+lineation, but the grains are much coarser than quartz grains in the
+
+siliceous layers.
+<ICE-CAN:W2A-028#81:1> Irregular lobate grain boundaries and equidimensional grain shapes of
+
+quartz that locally overgrow mylonitic laminae indicate that thermally
+
+activated grain growth postdated major shearing ( Fig. 7 <it> a </it> ) .
+<ICE-CAN:W2A-028#82:1> However, well-developed equant to elon <l> gate subgrains and partial
+
+to nearly complete dynamic recrystallization of quartz ( Figs. 6 <it> a </it> .
+
+7 <it> b </it> ) , together with micro <l> shears in the biotite matrix (
+
+Fig. 7 <it> b </it> ) , indicate a later reactiva <l> tion.
+<ICE-CAN:W2A-028#83:1> Shear-band foliations ( <w> C' </w> fabrics) are also well developed
+
+locally ( e.g., Fig. 6 <it> d </it> ) .
+<ICE-CAN:W2A-028#84:1> Lineations are defined in pelites by elongation of biotite
+
+aggregates.
+<ICE-CAN:W2A-028#85:1> Kyanite and sillimanite are also weakly to strongly aligned and
+
+pulled apart parallel to the lineation ( Figs. 7 <it> b </it> - 7 <it> b
+
+</it> ) .
+<ICE-CAN:W2A-028#86:1> In siliceous layers the extension lineation is usually defined by
+
+dismembered porphyroclasts or aggregates of plagioclase and locally
+
+tourmaline ( Fig. 8 <it> a </it> ) . </p>
+
+<p> <ICE-CAN:W2A-028#87:1> Some quartz grains form ribbons with aspect rations exceed <l>
+
+ing 160:1 ( Lane 1984 <it> b </it> ) Thin carbonate units are completely
+
+mylonitized, with equant grain sizes of 10&mu;m diameter.
+<ICE-CAN:W2A-028#88:1> In single thin sections where quartz and carbonate layers are both
+
+present the grain-size reduction of carbonite is complete, yet quartz layers
+
+show protomylonitic textures. </p>
+
+<p> <ICE-CAN:W2A-028#89:1> In sections cut perpendicular to the foliation and parallel to
+
+the lineation, the sense of asymmetry of microstructures in a
+
+simple-shear-strain environment is an indicator os sense of shear ( Ramsay
+
+and Graham 1970; Berth&eacute; <it> et al </it> . 1979; David <l> son <it> et
+
+al </it> . 1982; Simpson and Schmid 1983; Passchier and Simpson 1986). </p>
+
+</I>

@@ -1,0 +1,397 @@
+<I>
+<ICE-CAN:W2B-030#1:1> <h> BRAVE NEW WORLD: astronomers may have detected a new planet </h>
+
+<p> <ICE-CAN:W2B-030#2:1> By most estimates, the neutron star, or pulsar, known as
+
+PSR1829-10 may not be much to look at.
+<ICE-CAN:W2B-030#3:1> In fact, it cannot be seen at all.
+<ICE-CAN:W2B-030#4:1> Scientists say that the star, located near the centre of the Milky
+
+Way, is a dense, dark orb.
+<ICE-CAN:W2B-030#5:1> It is about 30,000 light years from Earth ( light travels through
+
+space at 5.878 trillion miles per year) and was formed by a supernova
+
+explosion, the spectacular celestial event that occurs when the molten core
+
+of a star implodes, sending shock waves right through the universe.
+<ICE-CAN:W2B-030#6:1> The pulsar, which emits radio waves at regular intervals, was one of
+
+40 such stars discovered in 1985 by scientists at the Nuffield Radio
+
+Astronomy Laboratories at Jodrell Bank, 30 km south of Manchester, in
+
+northern England.
+<ICE-CAN:W2B-030#7:1> Astronomers using Nuffield's giant radio telescope found that sound
+
+pulses emitted by 39 of the neutron stars were unwavering.
+<ICE-CAN:W2B-030#8:1> But the fluctuating responses from the 40th pulsar led them to a
+
+startling conclusion.
+<ICE-CAN:W2B-030#9:1> In a letter published last week by the British journal Nature, they
+
+speculated that the 40th pulsar was being pulled out of its orbit by an
+
+orbiting planet.
+<ICE-CAN:W2B-030#10:1> If that explanation survives the critical scrutiny of the scientific
+
+community, the planet will be the first to be detected outside of Earth's
+
+Solar System. </p>
+
+<p> <ICE-CAN:W2B-030#11:1> Scientists have long predicted that other planetary systems must
+
+exist and would eventually be found somewhere in the universe.
+<ICE-CAN:W2B-030#12:1> But despite some claims in the past, scientists have never been able
+
+to provide conclusive evidence to justify that theory.
+<ICE-CAN:W2B-030#13:1> They said that the apparent discovery of another planetary system
+
+would have important implications for <w> astronomers' </w> understanding of
+
+the universe, and could point the way towards the discovery of other
+
+planetary systems.
+<ICE-CAN:W2B-030#14:1> Said Paul Delaney, a professor of astronomy at Toronto's York
+
+University: <quote> " Until now, we only knew for sure about one planetary
+
+system around one star - the Sun.
+<ICE-CAN:W2B-030#15:1> This changes everything." </quote> </p>
+
+<p> <ICE-CAN:W2B-030#16:1> The evidence indicating that PSR1829-10 probably has at least one
+
+orbiting planet was assembled by three Jodrell Bank astronomers, Andrew Lyne,
+
+Matthew Bailes and Setnam Shemar.
+<ICE-CAN:W2B-030#17:1> Lyne told Maclean's that after the observatory identified the new
+
+pulsars six years ago, the lab monitored each of the neutron stars on a
+
+regular basis using its 250-foot-diameter Lovell telescope that receives
+
+radio waves.
+<ICE-CAN:W2B-030#18:1> Neutron stars cannot be seen with an optical telescope because their
+
+light cannot travel far from the galactic centre.
+<ICE-CAN:W2B-030#19:1> But he said that he and his colleagues had noticed during routine
+
+observations with the giant telescope that PSR1829-10 emitted an irregular
+
+pattern of pulses.
+<ICE-CAN:W2B-030#20:1> Lyne said that after they detected that pattern, he and Bailes, an
+
+Australian who began working at the Nuffield Laboratories only 18 months ago,
+
+tested their observations against established mathematical models in an
+
+attempt to explain the fluctuations.
+<ICE-CAN:W2B-030#21:1> Lyne said that it was not until last May that it occurred to them
+
+that they might have discovered a planet.
+<ICE-CAN:W2B-030#22:1> Said Lyne: <quote> " It was a purely serendipitous discovery."
+
+</quote> </p>
+
+<p> <ICE-CAN:W2B-030#23:1> The Jodrell Bank astronomers said that although the pulsar
+
+usually gave off a regular pattern of pulses, they observed that at times the
+
+pulses would slow by one one-hundredth of a second.
+<ICE-CAN:W2B-030#24:1> Then, three months later, the pulses would speed up again.
+<ICE-CAN:W2B-030#25:1> After recording several cycles, Lyne said, the astronomers concluded
+
+that the pulsar was <quote> " being tugged a bit" </quote> by a planet with
+
+an almost circular, six-month orbit.
+<ICE-CAN:W2B-030#26:1> <quote> " The most natural interpretation of this pulse variation is
+
+that the star has a companion orbiting around it," </quote> Lyne said. </p>
+
+<p> <ICE-CAN:W2B-030#27:1> The discovery of another planetary system, which has yet to be
+
+confirmed by other astronomers, came after years of fruitless effort by
+
+astronomers around the world.
+<ICE-CAN:W2B-030#28:1> During the past decade, scientists have been able to look ever deeper
+
+into space with the aid of sophisticated new telescopes capable of producing
+
+high-resolution images of celestial bodies.
+<ICE-CAN:W2B-030#29:1> Still, Delaney said that while these tools have come tantalizingly
+
+close to finding other planetary systems, none has provided enough evidence
+
+to satisfy the scientific community.
+<ICE-CAN:W2B-030#30:1> He said that the powerful telescopes could not overcome the blinding
+
+glare that obscures the view of objects surrounding bright, relatively young
+
+stars, including the Sun.
+<ICE-CAN:W2B-030#31:1> Because the Jodrell Bank telescope responds to radio waves coming
+
+from distant objects in space, rather than light, glare does not affect it.
+
+</p>
+
+<p> <ICE-CAN:W2B-030#32:1> Excitement among scientists over the possible detection of
+
+another planetary system was tempered by disappointment that it is too far
+
+away to be seen - and by the fact that the planet is unlikely to support any
+
+form of life.
+<ICE-CAN:W2B-030#33:1> Lyne said that the planet orbiting the pulsar probably has a mass of
+
+about 12 times that of Earth, and a circumference that may be two to three
+
+times that of Earth's.
+<ICE-CAN:W2B-030#34:1> The inspected planet apparently orbits its pulsar sun at a distance
+
+of about 67.24 million miles, roughly equal to the distance between the Sun
+
+and the planet Venus.
+<ICE-CAN:W2B-030#35:1> Astronomers also speculated that the planet is under constant
+
+bombardment by high levels of deadly radiation from its host neutron star.
+<ICE-CAN:W2B-030#36:1> Said Gerald Quinlan, a research associate at the Toronto-based
+
+Canadian Institute for Theoretical Astrophysics: <quote> " It is highly
+
+unlikely that any life form could survive in that environment." </quote> </p>
+
+<p> <ICE-CAN:W2B-030#37:1> Although other scientists will almost certainly challenge the
+
+Nuffield team's report to see if the interpretation bears scrutiny, some
+
+astronomers said that the evidence provided by Bailes, Lyne and Shemar
+
+appears convincing.
+<ICE-CAN:W2B-030#38:1> <quote> " It is the strongest piece of substantive evidence that our
+
+Solar System is not unique," </quote> Delaney said.
+<ICE-CAN:W2B-030#39:1> For his part, Gordon Walker, a professor of astronomy at the
+
+University of British Columbia, said that the use of a radio telescope in the
+
+Nuffield experiments was similar to being caught speeding by a policeman's
+
+radar gun.
+<ICE-CAN:W2B-030#40:1> <quote> " It is very hard to argue with him when that number appears
+
+on the screen," </quote> Walker said.
+<ICE-CAN:W2B-030#41:1> Still, Lyne said that it was too early to regard his team's findings
+
+as conclusive.
+<ICE-CAN:W2B-030#42:1> <quote> " I think that the observations are secure," </quote> he
+
+said. <X>
+<ICE-CAN:W2B-030#X43:1> <quote> " But there may just be something else going on with that
+
+pulsar." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-030#44:1> If the Nuffield results are verified, the discovery will confront
+
+astronomers with new questions.
+<ICE-CAN:W2B-030#45:1> Walker said that the presence of the planet next to a pulsar
+
+challenges the commonly held belief that a star's planetary system would be
+
+wiped out by the catastrophic explosion of a supernova, which creates a
+
+pulsar.
+<ICE-CAN:W2B-030#46:1> And even if it did survive, many astronomers say that the explosion
+
+should have knocked the planet out of its almost perfectly circular orbit.
+<ICE-CAN:W2B-030#47:1> But Walker said that it was possible that the planet could have been
+
+formed by the debris from the host star's supernova, which occurred about one
+
+million years ago.
+<ICE-CAN:W2B-030#48:1> Said Walker: <quote> " That is not much time to allow a planet to
+
+form out of the debris." </quote> </p>
+
+<p> <ICE-CAN:W2B-030#49:1> As scientists studied the Nuffield findings, Lyne, Shemar and
+
+Bailes said that they planned to do new experiments.
+<ICE-CAN:W2B-030#50:1> Lyne said that there is some evidence suggesting that PSR1829-10 may
+
+have more than one planet.
+<ICE-CAN:W2B-030#51:1> But he added that it could take up to 10 years to determine whether
+
+there are other planets.
+<ICE-CAN:W2B-030#52:1> <quote> " It's an exciting concept that our Solar System is not
+
+unique," </quote> he said. <X>
+<ICE-CAN:W2B-030#X53:1> <quote> " It gives us another step forward in projecting our
+
+imaginations into outer space." </quote> </X>
+<ICE-CAN:W2B-030#54:1> Clearly, if the theory advanced by Lyne and his colleagues is
+
+correct, many more astronomical horizons remain to be crossed. </p>
+<ICE-CAN:W2B-030#55:1> <h> THE MILKY WAY </h>
+
+<p> <ICE-CAN:W2B-030#56:1> Planet X is an orbiting object that astronomers say they have
+
+located near a distant pulsar, or neutron star.
+<ICE-CAN:W2B-030#57:1> It may be the first planet to be located outside of Earth's Solar
+
+System.
+<ICE-CAN:W2B-030#58:1> The pulsar, which is about 30,000 light years from the solar system
+
+of which Earth is a part, is located near the centre of the Milky Way.
+<ICE-CAN:W2B-030#59:1> Planet X apparently orbits at about the same distance from the pulsar
+
+as the planet Venus does from the Sun.
+<ICE-CAN:W2B-030#60:1> Unlike planets in Earth's Solar System, Planet X is much larger than
+
+its sun.
+<ICE-CAN:W2B-030#61:1> The dense pulsar rotates at speeds of up to 1,000 revolutions per
+
+second. </p>
+
+<p> <ICE-CAN:W2B-030#62:1> <O> ILLUSTRATION: Photo: UBC astronomer Walker: after years of
+
+fruitless effort, an irregular pattern of pulses Chart ( Online): The Milky
+
+Way </O> </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-030#63:2> <h> THE BIG PICTURE: NASA plans satellites to track the climate </h>
+
+<p> <ICE-CAN:W2B-030#64:2> As experts increasingly recognize the worldwide nature of
+
+pollution and other environmental hazards, many scientists say that they have
+
+become convinced that the problem must be studied on a global basis.
+<ICE-CAN:W2B-030#65:2> As a result, the Washington-based National Aeronautics and Space
+
+Administration is currently developing six 15-ton satellites, which would be
+
+the largest unmanned spacecraft ever launched by the United States, in order
+
+to study climate patterns and environmental change from space.
+<ICE-CAN:W2B-030#66:2> Called the Earth Observing System ( EOS), the 15-year project,
+
+estimated to cost &dollar;35 billion, will gather data continuously on such
+
+diverse phenomena as polar ice, tropical storms and atmospheric pollutants,
+
+beginning in 1998.
+<ICE-CAN:W2B-030#67:2> Scientists say that they hope the data will lead to important new
+
+discoveries about subjects ranging from tropical rain-forest destruction to
+
+Prairie wheat yields.
+<ICE-CAN:W2B-030#68:2> Said James Drummond, a University of Toronto physicist who is
+
+designing an instrument for the project: <quote> " We need an integrated set
+
+of measurements to understand the continuity of climate change." </quote>
+
+</p>
+
+<p> <ICE-CAN:W2B-030#69:2> The elaborate EOS satellites will collect enough information on
+
+the Earth's environment every day to fill the memories of 50,000 personal
+
+computers.
+<ICE-CAN:W2B-030#70:2> Advocates of the project also maintain that the data will vastly
+
+improve the accuracy of assessing environmental problems, leading to possible
+
+scientific solutions.
+<ICE-CAN:W2B-030#71:2> Since NASA proposed the project in 1988, hundreds of scientists from
+
+more than 15 countries, including Canada, have begun designing equipment that
+
+may eventually be used on the satellites.
+<ICE-CAN:W2B-030#72:2> Said Gordon McBean, a University of British Columbia climatologist
+
+who is regarded as a world authority on climate change: <quote> " We need a
+
+massive global experiment like EOS to deal with the Earth as a system."
+
+</quote> </p>
+
+<p> <ICE-CAN:W2B-030#73:2> But other scientists claim that megaprojects like EOS consume too
+
+much research money and talent.
+<ICE-CAN:W2B-030#74:2> Andrew Lacis, a New York City-based climatologist with the Goddard
+
+Institute for Space Studies, said that an entire scientific discipline can
+
+suffer when a megaproject fails to perform according to expectations.
+<ICE-CAN:W2B-030#75:2> He noted that NASA's &dollar;1.85-billion Hubble Space Telescope,
+
+launched in April, will take three more years to achieve its design potential
+
+because the main mirror has failed to focus accurately the light that strikes
+
+it from outer space.
+<ICE-CAN:W2B-030#76:2> Said Lacis: <quote> " Megaprojects have a way of slipping and being
+
+delayed and going wrong." </quote> </p>
+
+<p> <ICE-CAN:W2B-030#77:2> So far, the scientific community has supported NASA's proposal to
+
+have EOS in operation in eight years.
+<ICE-CAN:W2B-030#78:2> If that happens, there will eventually be two satellites always in
+
+north-south orbit around the Earth at an altitude of nearly 440 miles.
+<ICE-CAN:W2B-030#79:2> Each spacecraft will pass near the poles once a day, and some of its
+
+instruments will gather data across a 700-mile-wide swath of the Earth's
+
+surface.
+<ICE-CAN:W2B-030#80:2> The first satellite will probably monitor changes in vegetation, ice
+
+cover and precipitation, while the second, scheduled for launching before the
+
+year 2000, would measure such natural phenomena as continental drift,
+
+atmospheric ozone levels, wind speeds and temperatures. </p>
+
+<p> <ICE-CAN:W2B-030#81:2> Canadian scientists have eagerly joined the competition to design
+
+equipment that could be used on board the satellites or as ground-based
+
+support.
+<ICE-CAN:W2B-030#82:2> The U of T's Drummond is developing an instrument to measure carbon
+
+monoxide and methane, two atmospheric gases that may be important factors in
+
+climate change.
+<ICE-CAN:W2B-030#83:2> Drummond said that the instrument is among 20 being designed for use
+
+on the first satellite.
+<ICE-CAN:W2B-030#84:2> He added that NASA plans to select 12 to 16 devices by the end of
+
+this month.
+<ICE-CAN:W2B-030#85:2> Meanwhile, the Ottawa-based Canada Centre for Remote Sensing, a
+
+branch of Energy, Mines and Resources, is leading several global-change
+
+studies that incorporate and interpret the data collected from EOS.
+<ICE-CAN:W2B-030#86:2> Said Barry Goodison, co-ordinator of space programs at Environment
+
+Canada's Canadian Climate Centre, and one of 35 Canadian scientists involved
+
+in the studies: <quote> " We see this as an opportunity to push Canada into
+
+more Earth observation research." </quote> </p>
+
+<p> <ICE-CAN:W2B-030#87:2> Many scientists say that EOS could lead to international action
+
+on global pollution.
+<ICE-CAN:W2B-030#88:2> Ellsworth LeDrew, a University of Waterloo, Ont., geography professor
+
+who is involved in the Canada Climate Centre's studies, said that scientists
+
+must provide a clearer understanding of the extent and causes of
+
+environmental damage before governments can be expected to take co-ordinated
+
+action. </p> </I>

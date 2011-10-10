@@ -1,0 +1,580 @@
+<I>
+<ICE-CAN:W2A-036#1:1> <h> A heuristic algorithm for power-network clustering </h> <X>
+<ICE-CAN:W2A-036#X2:1> <h> <indig> Un algorithme heuristique appliqu&eacute; au
+
+probl&egrave;me de l'il&ocircumflex;tage des r&eacute;seaux de puissance
+
+</indig> </h> </X>
+<ICE-CAN:W2A-036#3:1> Hesham K. Temraz <it> and </it> Victor H. Quintana
+
+<p> <ICE-CAN:W2A-036#4:1> An efficient heuristic algorithm for solving cluster problems
+
+associated with partitioning of power networks is presented in this paper.
+<ICE-CAN:W2A-036#5:1> The algorithm is divided into two stages.
+<ICE-CAN:W2A-036#6:1> The first stage creates an initial partition based on the electrical
+
+distance between system buses.
+<ICE-CAN:W2A-036#7:1> The second stage involves interchanging pairs of buses among the
+
+various clusters of the initial partition.
+<ICE-CAN:W2A-036#8:1> The first stage solves the placement problem of <it> n </it> connected
+
+buses in an <it> r </it> - dimensional Euclidean space; such a problem is
+
+reduced to finding <it> r </it> eigenvectors of a connectivity matrix,
+
+defined as the bus admittance matrix.
+<ICE-CAN:W2A-036#9:1> The second stage is based on a node interchange technique.
+<ICE-CAN:W2A-036#10:1> The node interchange is an iterative heuristic method that can be
+
+used to improve an initial partition.
+<ICE-CAN:W2A-036#11:1> The method moves one bus at a time, from one cluster of the initial
+
+partition to another, in an attempt to maximize the total electrical distance
+
+between clusters of the final partition.
+<ICE-CAN:W2A-036#12:1> Applications of the proposed algorithm to both small and medium-size
+
+power systems are illustrated in this paper. </p> <X>
+
+<p> <ICE-CAN:W2A-036#X13:1> <indig> Cet article pr&eacute;sente un algorithme heuristique
+
+efficace pour solutionner les probl&egrave;mes d'il&ocircumflex;tage
+
+associ&eacute;s au fractionnement des r&eacute;seaux de puissance
+<ICE-CAN:W2A-036#X14:1> L'algorithme se divise en deux &eacute;tapes
+<ICE-CAN:W2A-036#X15:1> La premi&egrave;re g&eacute;n&egrave;re un fractionnement initial
+
+bas&eacute; sur la distance &eacute;lectrique entre les bus du r&eacute;seau
+<ICE-CAN:W2A-036#X16:1> La seconde &eacute;tape implique l'&eacute;change de paires de bus
+
+entre les divers il&ocircumflex;ts obtenus au cours du fractionnement initial
+<ICE-CAN:W2A-036#X17:1> La premi&egrave;re &eacute;tape solutionne le probl&egrave;me de la
+
+disposition de <it> n </it> bus interconnect&eacute;es dans un espace
+
+Euclidien &agrave; <it> r </it> dimensions; un tel probl&egrave;me se
+
+r&eacute;duit &agrave; trouver <it> r </it> vecteurs propres d'une matrice
+
+d'interconnexion d&eacute;finie comme la matrice admittance du bus
+<ICE-CAN:W2A-036#X18:1> La seconde &eacute;tape s'appuie une technique d'&eacute;change de
+
+noeuds
+<ICE-CAN:W2A-036#X19:1> L'&eacute;change de noeuds est une m&eacute;thode heuristique
+
+it&eacute;rative qui peut &ecircumflex;tre utilis&eacute;e pour
+
+am&eacute;liorer le fractionnement initial
+<ICE-CAN:W2A-036#X20:1> La m&eacute;thode se d&eacute;place sur un bus &agrave; la fois,
+
+d'un il&ocircumflex;t du fractionnement initial &agrave; l'autre, de
+
+fa&ccedille;on &agrave; maximiser la distance &eacute;lectrique totale entre
+
+les il&ocircumflex;ts du fractionnement final
+<ICE-CAN:W2A-036#X21:1> Des applications de l'algorithme propos&eacute; &agrave; des
+
+r&eacute;seaux de puissance de petite et moyenne dimensions sont
+
+pr&eacute;sent&eacute;es dans l'article.s </indig> </p> </X>
+<ICE-CAN:W2A-036#22:1> <h> <bold> I. Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-036#23:1> In dealing with large-scale networks, several decomposition algo
+
+<l> rithms have been proposed in various fields.
+<ICE-CAN:W2A-036#24:1> In circuit theory, for example, we have the Gomory-Hu cut tree
+
+representation, the graph-decomposition by-linear-transportation problem, the
+
+node-tearing nodal analysis, and the multistack layout placement <fnr> [
+
+1]-[4] </fnr> <footnote> [ 1] A. Vannelli and S. Hadley, " A Gomory-Hu cut
+
+tree representation of a netlist partitioning problem," U. of Waterloo,
+
+Waterloo, Ont., Tech. Rep. No. 99-11, 1988. [ 2] E. Barnes, " An algorithm
+
+for partitioning the nodes of a graph," SIAM J. Alg. Disc. Meth., vol. 3, no.
+
+4, Dec. 1982, pp. 541-550. [ 3] A. Sangiovanni, L. Chen and L. Chun, " An
+
+efficient heuristic cluster algorithm for tearing large-scale networks," IEEE
+
+Trans. Circuits and Systems, vol. CAS-24, no. 12, Dec. 1977, pp. 709-717. [
+
+4] G. Rowan and A. Vannelli, " An eigenvector-based approach for multi-stack
+
+VLSI layout," presented at 29th Midwest Symp. on CAS, Lincoln, Neb., Aug.
+
+1986. </footnote> . </p>
+
+<p> <ICE-CAN:W2A-036#25:1> Partitioning of large power networks is important because, in
+
+general, only small portions of these networks are affected by a contingency,
+
+such as an outage of a transmission branch, failure of a reactive power
+
+compensator, etc.
+<ICE-CAN:W2A-036#26:1> During such contingencies, there are parts of the network that are
+
+left almost undisturbed.
+<ICE-CAN:W2A-036#27:1> The effi <l> ciency of many application programs in an energy control
+
+centre, such as load flow, optimal power flow and others, can be signifi <l>
+
+cantly improved if only the areas affected by the contingency are considered
+
+for the purpose of correcting the state of operation, as the calculation is
+
+then performed on smaller networks.
+<ICE-CAN:W2A-036#28:1> Smaller networks imply matrices of smaller dimension and,
+
+consequently, a smaller number of computer operations to be performed.
+<ICE-CAN:W2A-036#29:1> The use of smaller control networks can only be accomplished by
+
+partitioning a power network into clusters of buses, such that buses
+
+belonging to the same cluster are strongly connected electrically, while
+
+buses belonging to different clusters are weakly connected electrically. </p>
+
+<p> <ICE-CAN:W2A-036#30:1> To date, all proposed algorithms in power network partitioning
+
+are based on either the minimization of the number edge cut or the total wire
+
+length, and only the physical connections are considered <fnr> [ 5]-[6]
+
+</fnr> <footnote> [ 5] A. Saleh and M. Laughton, " Cluster analysis of power
+
+system networks for array processing solutions," Proc. IEE, vol. 132, no. 4,
+
+part C, July 1985. [ 6] H. Willis, H. Tram and R. Powell, " A computerized
+
+cluster based method for building representative models of distribution
+
+systems," IEEE Trans. Power Ap <l> par. Systems, vol. PAS-104, no. 12, Dec.
+
+1985, pp. 3469-3474. </footnote>
+<ICE-CAN:W2A-036#31:1> Consequently, the electrical properties of the clusters may be
+
+severely compromised; that is, strongly connected buses may be assigned to
+
+different clusters, while unrelated buses may be placed in the same cluster.
+<ICE-CAN:W2A-036#32:1> Only <fnr> [ 7] </fnr> has attempted to mathematically partition a
+
+power network into clusters of buses <footnote> [ 7] N. Muller and V.
+
+Quintana, " A sparse eigenvalue-based approach for partition <l> ing power
+
+networks," presented at IEEE/PES Summer Meeting, San Diego, Calif., July
+
+28-Aug. 1, 1991. </footnote>
+<ICE-CAN:W2A-036#33:1> In <fnr> [ 7] </fnr> , the parti <l> tion is based on a modified
+
+centroid sorting technique, and is divided into three different stages called
+
+<it> placement </it> , <it> partitioning </it> and <it> transformation </it> .
+
+<footnote> <O> reference [ 7] </O> </footnote> </p>
+
+<p> <ICE-CAN:W2A-036#34:1> The cluster partition problem belongs to a class of hard problems
+
+<fnr> [ 8] </fnr> , the so-called NP-complete class, where no
+
+polynomial-bounded global solutions are likely to exist <footnote> [ 8] E.
+
+Lawler, " Cutsets and partitions of hypergraph," Networks, vol. 3, 1973, pp.
+
+275-285. </footnote> .
+<ICE-CAN:W2A-036#35:1> Thus, we need to develop a heuristic or an approximation technique
+
+that is fast and yields good approximation to the best partition
+<ICE-CAN:W2A-036#36:1> This paper proposes such a heuristic technique to partition a power
+
+network into clusters of buses via the concept of electrical distances
+
+between system buses.
+<ICE-CAN:W2A-036#37:1> The technique is based on an eigenvector method <fnr> [ 9] </fnr>
+
+<footnote> [ 9] K. Hall, " An r-dimensional quadratic placement algorithm,"
+
+Management Sci., vol. 17, no. 3, Nov. 1970, pp. 219-229. </footnote>
+<ICE-CAN:W2A-036#38:1> In this method, each bus of a system is assigned a set of coordinates
+
+in a subspace &beta; <sp> <it> r </it> </sp> , where <it> r </it> is the
+
+number of clusters into which a system is to be partitioned.
+<ICE-CAN:W2A-036#39:1> The location of the buses on &beta; <sp> <it> r </it> </sp> is
+
+determined so as to minimize the electrical distance between system buses.
+
+</p>
+
+<p> <ICE-CAN:W2A-036#40:1> This paper is divided into six sections.
+<ICE-CAN:W2A-036#41:1> In section II, an eigenvector technique for separating buses into
+
+local clusters is described.
+<ICE-CAN:W2A-036#42:1> The node interchange approach for an initial partition improvement is
+
+described in section III.
+<ICE-CAN:W2A-036#43:1> In section IV, a summary of the proposed algorithm is presented.
+<ICE-CAN:W2A-036#44:1> Numerical results on the application of the proposed algorithm to
+
+both small and medium-size systems are presented in section V.
+<ICE-CAN:W2A-036#45:1> In section VI, concluding remarks are given. </p>
+<ICE-CAN:W2A-036#46:1> <h> <bold> II. Eigenvector partitioning </bold> </h>
+
+<p> <ICE-CAN:W2A-036#47:1> Let <it> N </it> = { <it> N </it> , <it> M </it> } define an
+
+undirected graph having a set of nodes <it> N </it> = { 1, &dotted-line;,
+
+<it> n </it> } and a set of links <it> M </it> .
+<ICE-CAN:W2A-036#48:1> The problem of placing the <it> n </it> nodes of the graph into a
+
+subspace &beta; <sp> <it> r </it> </sp> , where <it> r </it> <O> mathematical
+
+symbol </O> <it> n </it> , is not new; it is called the <it> node placement
+
+problem </it> <fnr> [ 9] </fnr> <footnote> <O> reference [ 9] </O>
+
+</footnote> .
+<ICE-CAN:W2A-036#49:1> The node placement problem is a well-established problem in other
+
+fields of research; for instance, in the design of circuit board layouts in
+
+which a node has to be placed on a two-dimensional board <fnr> [ 4] </fnr>
+
+<footnote> <O> reference [ 4] </O> </footnote> .
+<ICE-CAN:W2A-036#50:1> In such problems there are two basic objectives: 1) the minimization
+
+of total wire length connecting the nodes; and, 2) the minimization of the
+
+circuit board area. </p>
+
+<p> <ICE-CAN:W2A-036#51:1> In power systems, however, the geographical placement of a bus
+
+cannot be changed by an electric utility company, since this is defined by
+
+the distribution of population and placement of energy sources.
+<ICE-CAN:W2A-036#52:1> Moreover, the wire length cannot be modified since the transmission
+
+lines only connect the various energy sources to the loads.
+<ICE-CAN:W2A-036#53:1> Nevertheless, it is extremely important to mathematically define a
+
+position on &beta; <sp> <it> r </it> </sp> for each bus of the system.
+<ICE-CAN:W2A-036#54:1> By doing so, according to an electrical criterion, we make the bus
+
+position a part of the data required by this approach to partitioning of the
+
+power network. </p>
+
+<p> <ICE-CAN:W2A-036#55:1> Let us assume that we are given a system with <it> n </it> buses
+
+and an <it> n </it> <O> mathematical symbol </O> <it> n </it> symmetric
+
+connection matrix <bold> C </bold> = <it> C <sb> ij </sb> </it> , where <it>
+
+C <sb> ij </sb> </it> is the connec <l> tivity weight between buses <it> i
+
+</it> and <it> j </it> ( <it> C <sb> ii </sb> </it> = 0 and <it> C <sb> ij
+
+</sb> </it> <O> mathematical symbol </O> for <it> i </it> <O> mathematical
+
+symbol </O> <it> j </it> , <it> i </it> = [ 1, &dotted-line;, <it> n </it> ] ) .
+<ICE-CAN:W2A-036#56:1> We want to find the location of the <it> n </it> buses that minimizes
+
+the weighted sum of the squared distances between the buses.
+<ICE-CAN:W2A-036#57:1> If <it> x <sb> i </sb> </it> denotes the <it> x </it> coordinates of
+
+bus <it> i </it> , and <it> S </it> denotes the weighted sum of squared
+
+distances between the buses, then the one-dimensional problem is to find the
+
+row vector <bold> x <sp> T </sp> </bold> = ( <it> x </it> <sb> 1 </sb> ,
+
+&dotted-line;, <it> x </it> <sb> n </sb> ) which minimizes <O> mathematical
+
+equation </O> , <marginalia> ( 2.1) </marginalia> where <it> T </it> denotes
+
+vector transposition
+<ICE-CAN:W2A-036#58:1> To avoid the trivial solution <it> x <sb> i </it> 1 </sb> = 0, for
+
+all <it> i </it> , the following quadratic constraint is imposed: <O>
+
+mathematical equation </O> . <marginalia> ( 2.2) </marginalia> </p>
+
+<p> <ICE-CAN:W2A-036#59:1> Equation ( 2.1) can be rewritten as follows: <O> mathematical
+
+equation </O> <marginalia> ( 2.3) </marginalia>
+<ICE-CAN:W2A-036#60:1> Since <it> C </it> is symmetrical ( i.e., <it> C <sb> i </sb> </it> =
+
+<it> C <sb> j </sb> </it> ) , <O> mathematical equation </O> <marginalia> (
+
+2.4) </marginalia> .
+<ICE-CAN:W2A-036#61:1> Define a diagonal matrix <bold> D </bold> = ( <it> d <sb> ij </sb>
+
+</it> ) such that <O> mathematical equation </O> <marginalia> ( 2.5)
+
+</marginalia> .
+<ICE-CAN:W2A-036#62:1> Now define the following matrix: <O> mathematical equation </O>
+
+<marginalia> ( 2.6) </marginalia>
+<ICE-CAN:W2A-036#63:1> In other words, the <it> i <sp> th </sp> </it> diagonal entry, <it> b
+
+<sb> ii </sb> </it> , of <it> B </it> is the <it> i <sp> th </sp> </it> row (
+
+or column) of the connection matrix <bold> C </bold> , and the off-diagonal
+
+element of <it> b <sb> ij </sb> </it> is the negative of the corresponding
+
+entry in <bold> C </bold> .
+<ICE-CAN:W2A-036#64:1> Substituting ( 2.6) into ( 2.4) yields <O> mathematical equation </O> .
+
+<marginalia> ( 2.7) </marginalia> </p>
+
+<p> <ICE-CAN:W2A-036#65:1> The Lagrangian of the nonlinear optimization problem described by
+
+( 2.7) and ( 2.2) is defined as <O> Diagram </O> <O> Figure 1 caption </O>
+
+<O> mathematical equation </O> , from which the necessary condition is given
+
+by <O> mathematical equation </O> . <marginalia> ( 2.8) </marginalia> </p>
+
+<p> <ICE-CAN:W2A-036#66:1> Equation ( 2.8) leads to a nontrivial solution of <bold> x
+
+</bold> if and only if <O> mathematical symbol </O> is an eigenvalue of
+
+<bold> B </bold> , and <bold> x </bold> is the corresponding eigenvector.
+<ICE-CAN:W2A-036#67:1> Premultiplying ( 2.8) by <bold> x <sp> T </sp> </bold> and imposing (
+
+2.2), we obtain <O> mathematical equation </O>
+<ICE-CAN:W2A-036#68:1> Consequently, the value of the objective function described by ( 2.7)
+
+is the value of the eigenvalue of <bold> B </bold> .
+<ICE-CAN:W2A-036#69:1> The minimum of ( 2.7) is given by the smallest eigenvalue of <bold> B
+
+</bold> , and the solution, <bold> x </bold> , is the eigen <l> vector
+
+associated with the smallest eigenvalue of <bold> B </bold> . </p>
+
+<p> <ICE-CAN:W2A-036#70:1> For the <it> r </it> - dimensional problem, <it> S </it> is
+
+simply the sum of <it> r </it> quadratic terms, one for each dimension, and
+
+the minimum of <it> S </it> is given by the sum of the <it> r </it> smallest
+
+eigenvalues of <bold> B </bold> .
+<ICE-CAN:W2A-036#71:1> To illustrate the application of the node placement algorithm [ 9],
+
+consider a four-node graph; its connection matrix, <bold> C </bold> , and the
+
+weighted connectivity matrix, <bold> B </bold> , are described in <}> <->
+
+Fig. </-> <+> Figure </+> </}> 1.
+<ICE-CAN:W2A-036#72:1> It is required that all four nodes be placed in one dimension in a
+
+certain order, such that the total wire length connect <l> ing the four nodes
+
+is a minimum.
+<ICE-CAN:W2A-036#73:1> The elements of the connectivity matrix <bold> C </bold> are
+
+formulated as follows: <O> mathematical equation </O> <X> if nodes <it> i
+
+</it> and <it> j </it> are directly connected otherwise </X> <O> mathematical
+
+equation </O>
+<ICE-CAN:W2A-036#74:1> The four eigenvalues of matrix <bold> B </bold> and their associated
+
+eigenvectors <it> E </it> <sb> l </sb> , <it> E </it> <sb> 2 </sb> , <it> E
+
+</it> <sb> 3 </sb> and <it> E </it> <sb> 4 </sb> are given in <}> <-> Fig.
+
+</-> <+> Figure </+> </}> 2.
+<ICE-CAN:W2A-036#75:1> A plot of the four nodes is also shown in <}> <-> Fig. </-> <+>
+
+Figure </+> </}> 2, where <it> E </it> <sb> 2 </sb> has been used as the <it>
+
+y </it> coordinate.
+<ICE-CAN:W2A-036#76:1> Any other combination of node placement ordering gives a larger total
+
+wire length. </p>
+
+<p> <ICE-CAN:W2A-036#77:1> If the same placement procedures are used in power-network
+
+partitioning, only the physical connections of the network will be considered
+
+in a resulting partition; therefore, strongly connected buses may be assigned
+
+to different clusters.
+<ICE-CAN:W2A-036#78:1> A modification in the placement algorithm is required so that the
+
+technique can be suffi <l> ciently utilized in power-network partitioning;
+
+i.e., so that buses belonging to the same cluster are strongly connected
+
+electrically. </p>
+
+<p> <ICE-CAN:W2A-036#79:1> Matrix <bold> B </bold> , as described above, is a weighted
+
+connectivity matrix that measures the distance among buses.
+<ICE-CAN:W2A-036#80:1> By defining each line <O> Diagram </O> <O> Figure 2 caption </O>
+
+connecting two buses of a system as a link, and the electrical distance
+
+between two such buses as the value of the link's transfer impedance, we can
+
+replace matrix <bold> B </bold> by the bus impedance matrix <it> Z </it> <sb>
+
+bus </sb>
+<ICE-CAN:W2A-036#81:1> However, it is computationally impractical to calculate the smallest
+
+eigenvalue of <it> Z </it> <sb> bus </sb> and the corresponding eigenvector
+
+because, in general, <it> Z </it> <sb> bus </sb> is nonsparse.
+<ICE-CAN:W2A-036#82:1> Defining the weighted connectivity matrix <bold> B </bold> as the bus
+
+admittance <it> Y </it> <sb> bus </sb> , which is very sparse, and maximizing
+
+<it> S </it> in ( 2.7) is equivalent to minimizing the transfer impedance
+
+between buses within the same cluster.
+<ICE-CAN:W2A-036#83:1> The maximum of ( 2.7) is given by the largest eigenvalue of <it> Y
+
+</it> <sb> bus </sb> , and the solution is the eigenvector associated with
+
+the largest eigenvalue of <it> Y </it> <sb> bus </sb>
+<ICE-CAN:W2A-036#84:1> In most practical power systems the ratio <it> X/R </it> is large
+<ICE-CAN:W2A-036#85:1> Consequently, in many cases, it is possible to neglect the
+
+resistances.
+<ICE-CAN:W2A-036#86:1> By doing so, we can represent <it> Y </it> <sb> bus </sb> by its
+
+purely imaginary part, hereafter denoted as <it> B </it> <sb> bus </sb> .
+
+</p>
+
+<p> <ICE-CAN:W2A-036#87:1> The components of the eigenvectors associated with the <it> r
+
+</it> largest eigenvalues of <it> B </it> <sb> bus </sb> represent the
+
+coordinates of the buses on &beta; <sp> <it> r </it> </sp> .
+<ICE-CAN:W2A-036#88:1> Now let us define the following transformation: <O> mathematical
+
+equation </O> , <marginalia> ( 2.9) </marginalia> where <it> x </it> <sp> *
+
+</sp> <sb> <it> i </it> </sb> is the largest value of ( - log <sb> 10 </sb> |
+
+<it> x <sb> i </sb> </it> |), for all <it> i </it> = 1, 2, &dotted-line;,
+
+<it> n </it> .
+<ICE-CAN:W2A-036#89:1> Applying ( 2.9) to each component of each eigenvector associated with
+
+the largest <it> r </it> eigenvalues transfers the coordinates of the buses
+
+such that distances are measured with respect to the order of magni <l> tude.
+<ICE-CAN:W2A-036#90:1> Moreover, the negative sign always keeps the data for these buses in
+
+a positive coordinate.
+<ICE-CAN:W2A-036#91:1> A power-network initial partition into <it> r </it> clusters is
+
+obtained by applying the <it> leader </it> algorithm [ 10] to the transformed
+
+coordinates of the buses. </p>
+
+<p> <ICE-CAN:W2A-036#92:1> The <it> leader </it> algorithm constructs a number of clusters
+
+of buses, a leading bus ( centroid), and a distance <it> TH </it> for each
+
+cluster, such that every bus in a cluster is within a distance <it> TH </it>
+
+from the leading bus.
+<ICE-CAN:W2A-036#93:1> The algorithm makes one pass through the transformed
+
+buses-coordinates, assigning each bus to the first cluster whose leader is
+
+close enough, and making a new cluster and a new leader for buses that are
+
+not close to any existing leaders.
+<ICE-CAN:W2A-036#94:1> The distance between bus <it> i </it> and the leader of any cluster
+
+is defined as <O> mathematical equation </O> , where <it> x </it> , <it> y
+
+</it> and &gamma; are the leader coordinates. </p>
+
+<p> <ICE-CAN:W2A-036#95:1> The distance <it> TH </it> is selected such that it creates no
+
+more than the required number of clusters
+<ICE-CAN:W2A-036#96:1> As an example, suppose a three-dimensional placement of seven buses
+
+whose transformed coordi <l> nates are as follows: <O> mathematical equation
+
+</O>
+<ICE-CAN:W2A-036#97:1> It is required that the previous seven-bus system be partitioned into
+
+three clusters.
+<ICE-CAN:W2A-036#98:1> Starting at bus 1 as the centroid of cluster 1, if <it> TH </it> = 2,
+
+then three clusters are created.
+<ICE-CAN:W2A-036#99:1> If <it> TH </it> = 4, only two clusters are created
+<ICE-CAN:W2A-036#100:1> By adjusting <it> TH </it> to 3, we ensure that three clusters are
+
+created, such that buses 1, 3 and 5 are placed in the first cluster, buses 2
+
+and 7 are assigned to the second cluster, and buses 4 and 6 are located in
+
+the third cluster. </p>
+<ICE-CAN:W2A-036#101:1> <h> <bold> III. Node interchange partitioning </bold> </h>
+
+<p> <ICE-CAN:W2A-036#102:1> A popular class of algorithms for partitioning the nodes of a
+
+graph begins with a random partition and tries to improve it by interchang
+
+<l> ing nodes, one at a time, between pairs of clusters in the partitition
+
+<fnr> [ 11]-[12] </fnr> <footnote> [ 11] B. Kernighan and L. Lin, " An
+
+efficient heuristic procedure for partitioning graphs," Bell Syst. Tech. J.,
+
+vol. 49, no. 2, 1970, pp. 291-307. [ 12] C. Fiduccia and R. Matheysis, " A
+
+linear time heuristic for improving network partitions," in Proc. 19th Design
+
+Automation Workshop, 1982, pp. 175-181. </footnote>
+<ICE-CAN:W2A-036#103:1> These types of algorithms are called node interchange algorithms.
+
+</p>
+
+<p> <ICE-CAN:W2A-036#104:1> The main idea of the node interchange algorithm is as follows:
+<ICE-CAN:W2A-036#105:1> Given a partition ( <it> A </it> , <it> B </it> ) of a power
+
+network, the algorithm moves one bus at a time from one cluster of the
+
+partition to another cluster in an attempt to minimize the electrical
+
+distance and the number of link cuts between pairs of clusters in the final
+
+partition.
+<ICE-CAN:W2A-036#106:1> The bus to be moved ( call it the base bus) is chosen on the basis
+
+of both the balance criterion ( the cluster size) and the effect on the
+
+weight associated with the number of link cuts.
+<ICE-CAN:W2A-036#107:1> Let us define the gain, <it> g </it> ( <it> i </it> ) , of bus <it>
+
+i </it> as the value by which the weight associated with the link cuts would
+
+decrease, were bus <it> i </it> moved from its current cluster to the
+
+complementary cluster. </I> <X>
+<ICE-CAN:W2A-036#X108:1> During each move, we must keep in mind the balance criterion to
+
+prevent all buses from migrating to one cluster of the partition, for that
+
+would surely be the best partition, were balance to be ignored.
+<ICE-CAN:W2A-036#X109:1> Thus the balance criterion is used to select the cluster from which
+
+a bus of highest gain is to be moved.
+<ICE-CAN:W2A-036#X110:1> After all moves have been made, the best partition encountered
+
+during the pass is taken as the output of the pass. </p> </X>

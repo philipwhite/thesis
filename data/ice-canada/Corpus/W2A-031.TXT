@@ -1,0 +1,487 @@
+<I>
+<ICE-CAN:W2A-031#1:1> <h> <bold> Knowledge-based systems and operational hydrology <fnr>
+
+<sp> 1 </sp> </fnr> </bold> <footnote> <sp> 1 </sp> The National Research
+
+Council of Canada's Associate Committee on Hydrology identifies, solicits,
+
+and promotes the preparation of state-of-art papers on hydrological topics
+
+that require research.
+<ICE-CAN:W2A-031#2:1> The Committee has requested the preparation of this report and is
+
+pleased to bring it to your attention.
+<ICE-CAN:W2A-031#3:1> The views expressed are those of the author. </footnote> </h>
+<ICE-CAN:W2A-031#4:1> Slobodan P. Simonovic
+
+<p> <ICE-CAN:W2A-031#5:1> Knowledge-based systems were brought to the attention of
+
+hydrologists almost a decade ago.
+<ICE-CAN:W2A-031#6:1> The application of knowledge-based systems technology is natural and
+
+appropriate for the field of hydrology because it contains numerous
+
+procedures developed from theory, actual practice, and experience.
+<ICE-CAN:W2A-031#7:1> The emphasis of the present paper is on demystifying knowledge-based
+
+systems of artificial intelligence.
+<ICE-CAN:W2A-031#8:1> After a detailed review of the most important applications to the
+
+field of hydrology, the original concept for applying knowledge-based
+
+technology is presented.
+<ICE-CAN:W2A-031#9:1> The discussion ends with the list of possible benefits from the
+
+application of knowledge-based technology.
+<ICE-CAN:W2A-031#10:1> An expert system for the selection of a suitable method for flow
+
+measurement in open channels is used as a case study to illustrate the
+
+discussion in the paper.
+<ICE-CAN:W2A-031#11:1> The system has been designed for potential use in Environment Canada.
+
+</p> <O>
+
+<p> <ICE-CAN:W2A-031#12:1> <it> Key words </it> : expert system, water resources, hydrology,
+
+flow measurements. </p> </O> <X>
+
+<p> <ICE-CAN:W2A-031#X13:1> <indig> Les hydrologistes ont pris conscience de l'existence de
+
+syst&egrave;mes &agrave; base de connaissances il y a pr&egrave;s d'une
+
+dizaine d'ann&eacute;es
+<ICE-CAN:W2A-031#X14:1> L'application de cette technologie est naturelle et convient au
+
+domaine de l'hydrologie parce qu'elle comporte de nornbreuses
+
+proc&eacute;dures &eacute;labor&eacute;es &agrave; partir de la
+
+th&eacute;orie, de la pratique et de l'exp&eacute;rience
+<ICE-CAN:W2A-031#X15:1> Cet article a pour principal objet de d&eacute;mystifier les
+
+systemes &agrave; base de connaissances
+<ICE-CAN:W2A-031#X16:1> Apr&egrave;s un examen d&eacute;taill&eacute; des plus importantes
+
+applications dans le domaine de l'hydrologie, le concept original
+
+d'application de la technologie &agrave; base de connaissances est
+
+pr&eacute;sent&eacute;
+<ICE-CAN:W2A-031#X17:1> La discussion se termine par une liste des avantages possibles de
+
+l'application de cette technologie
+<ICE-CAN:W2A-031#X18:1> &Agrave; titre d'exemple, un syst&egrave;me expert pour s&eacute;lec
+
+<l> tionner une m&eacute;thode appropri&eacute;e de mesure de
+
+l'&eacute;coulement &agrave; surface libre est utilis&eacute;e comme
+
+&eacute;tude de cas
+<ICE-CAN:W2A-031#X19:1> Le syst&egrave;me a &eacute;t&eacute; con&ccedille;u en vue d'une
+
+utilisation possible par Environnement Canada. </indig> </p>
+
+<p> <ICE-CAN:W2A-031#X20:1> <indig> <it> Mots cl&eacute;s </it> : syst&egrave;me expert,
+
+ressources hydraulique, mesures de l'&eacute;coulement. </indig> </p> </X>
+<ICE-CAN:W2A-031#21:1> <h> <bold> Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-031#22:1> Hydrology is the study of water in all its forms and from all its
+
+origins to all its destinations on the earth ( Bras 1990).
+<ICE-CAN:W2A-031#23:1> The segments of the hydrology field this paper refers to are those
+
+pertinent to planning, design, and operation of engineering projects for the
+
+control and use of water, later called opera <l> tional hydrology.
+<ICE-CAN:W2A-031#24:1> Some professional discussions indicate that a gap still exists
+
+between the basic scientific facts in hydrology and their application for
+
+solving water management problems.
+<ICE-CAN:W2A-031#25:1> A pertinent reason for this is the <quote> " scale difference"
+
+</quote> ( Klemes 1983).
+<ICE-CAN:W2A-031#26:1> The hydrologic scale is largely outside the human direct sensory
+
+comprehension, making us incapable of creat <l> ing meaningful
+
+conceptualization.
+<ICE-CAN:W2A-031#27:1> Another major reason is the very strong perception that hydrology is
+
+an appendage to hydraulics and hydraulic engineering ( Yevjevich 1968). </p>
+
+<p> <ICE-CAN:W2A-031#28:1> The major objective of this paper is to bring to the attention of
+
+hydrologists the research within the field of artificial intelli <l> gence (
+
+AI).
+<ICE-CAN:W2A-031#29:1> This is not because of the lack of <quote> " natural" </quote>
+
+intelli <l> gence, but with the honest belief that some of the principles of
+
+artificial intelligence may help in the application of existing hydrological
+
+concepts and act as an inspiration for develop <l> ment and new discoveries.
+
+</p>
+
+<p> <ICE-CAN:W2A-031#30:1> When an engineering problem is complex with much scien <l> tific
+
+uncertainty and high demand for judgement, AI seems to have something to
+
+offer.
+<ICE-CAN:W2A-031#31:1> Knowledge-based engineering, called also expert systems or production
+
+systems, is a way to success <l> fully build human expertise and some degree
+
+of intelligent judgement into decision-supporting software.
+<ICE-CAN:W2A-031#32:1> Knowledge-based engineering is concerned with the representation of
+
+knowledge and with symbolic reasoning ( Rolston 1988).
+<ICE-CAN:W2A-031#33:1> One of the most distinguished characteristics of expert systems is
+
+their poten <l> tial to deal with challenging real-world problems through the
+
+application of processes that try to mimic human judgement and scientific
+
+intuition.
+<ICE-CAN:W2A-031#34:1> The most general definition of an expert system is that an expert
+
+system is a computer applic <l> ation for solving problems that would require
+
+extensive human expertise ( Rolston 1988).
+<ICE-CAN:W2A-031#35:1> To perform this task, expert system simulates the reasoning process
+
+by combining knowledge and search techniques ( usually referred to as
+
+inferences).
+<ICE-CAN:W2A-031#36:1> Rolston ( 1988) characterizes an ideal expert system as one that
+
+includes the following: ( <it> i </it> ) extensive specific knowledge from
+
+the field of interest; ( <it> ii </it> ) the application of search
+
+techniques; ( <it> iii </it> ) support for heuristic analysis; ( <it> iv
+
+</it> ) a limited capacity to infer " new knowledge" from existing knowledge;
+
+( <it> v </it> ) symbolic processing; and ( <it> vi </it> ) an ability to
+
+explain its own reasoning. </p>
+
+<p> <ICE-CAN:W2A-031#37:1> Knowledge-based systems are finding their place in the field of
+
+water resources engineering with all the dangers of being oversold or <}> <->
+
+missued </-> <+> <?> misused </?> </+> </}> .
+<ICE-CAN:W2A-031#38:1> Recent publications by Ortolano and Steinemann ( 1987) and Simonovic
+
+and Savic ( 1989) present a survey of expert systems in environmental and
+
+water resources engineering, respectively.
+<ICE-CAN:W2A-031#39:1> The following paragraph briefly summarizes the review of Simonovic
+
+and Savic ( 1989) because of its relevance to this paper. </p>
+
+<p> <ICE-CAN:W2A-031#40:1> The roles of water resources engineering and the science of
+
+hydrology have expanded beyond the traditional concepts of design and
+
+synthesis to a large multidisciplinary function serv <l> ing a broad social
+
+environment.
+<ICE-CAN:W2A-031#41:1> Development, in time, of these fields follows three basic phases: (
+
+<it> i </it> ) construction ( emphasis on the design and construction); (
+
+<it> ii </it> ) planning ( emphasis on the examination of wider range of
+
+alternatives); and ( <it> iii </it> ) operation and maintenance ( emphasis on
+
+the careful management of existing projects).
+<ICE-CAN:W2A-031#42:1> This has created a pressing need for an overall review of engineering
+
+education with the main accent on its increased multidisciplinary character,
+
+supported by the available knowledge base and experience ( Simonovic 1989b).
+
+</p>
+
+<p> <ICE-CAN:W2A-031#43:1> Since their first introduction to the field of water resources in
+
+the early 1980's, expert systems have been used in design, planning, and
+
+operation.
+<ICE-CAN:W2A-031#44:1> The following contributions have been made to <it> water resources
+
+design </it> .
+<ICE-CAN:W2A-031#45:1> HYSIZE and its simple modification HYSTOR are expert systems for
+
+determining the optimum layout for a particular hydroelectric site.
+<ICE-CAN:W2A-031#46:1> These sys <l> tems are able to rank alternatives in order of economic
+
+priority and to test the sensitivity of assumed variables ( Dotan and Willer
+
+1986).
+<ICE-CAN:W2A-031#47:1> SISES is an expert system used for selecting an appropriate site for
+
+a specific use ( Findikaki 1986).
+<ICE-CAN:W2A-031#48:1> DMWW is an expert system for designing a municipal water well ( K.
+
+Strzepek, University of Colorado, personal communica <l> tion, 1988).
+<ICE-CAN:W2A-031#49:1> The design process can be very complex and require much information
+
+on procedures and related knowl <l> edge ( Russell 1989).
+<ICE-CAN:W2A-031#50:1> The design is created in the first phase, and then modified in the
+
+second phase until the user feels comf <l> ortable.
+<ICE-CAN:W2A-031#51:1> Experience and judgement play important roles in both phases, and
+
+this is why expert systems by exploiting experience may help, thereby,
+
+enhancing the design process. </p>
+
+<p> <ICE-CAN:W2A-031#52:1> <it> Planning </it> a water resources system is another field of
+
+expert systems application.
+<ICE-CAN:W2A-031#53:1> RAISON is a system developed for the analysis of acid rain data.
+<ICE-CAN:W2A-031#54:1> It is designed to examine the rela <l> tionship between the terrain
+
+sensitivity index, which assesses susceptibility to acid rain deposition and
+
+possible deposition levels ( Swayne and Fraser 1986).
+<ICE-CAN:W2A-031#55:1> WATQUAS is an expert system for extracting knowledge from a large
+
+quantity of available historical water quality data and interpreting it in a
+
+useful form ( Allen 1986).
+<ICE-CAN:W2A-031#56:1> ARIANE is an intelligent decision-support tool for guiding the user
+
+through the multi-annual operation planning process in Hydro-Quebec ( M.
+
+Hanscom, Hydro-Quebec, per <l> sonal communication, 1988).
+<ICE-CAN:W2A-031#57:1> RRA is an expert system for the administration of the
+
+acreage-limitation provision of the US Reclamation Reform Act of 1982.
+<ICE-CAN:W2A-031#58:1> It provides a means for determining the status of the landholder, as
+
+well as the number of acres on which subsidized reclamation water can be
+
+received ( K. Strzepek, University of Colorado, personal communica <l> tion,
+
+1988).
+<ICE-CAN:W2A-031#59:1> SID, Seattle Water Department's integrated drought management expert
+
+system, is an expert system designed to evaluate and display information for
+
+drought-management planning.
+<ICE-CAN:W2A-031#60:1> A linear programming model is used to generate optimal operating
+
+policies as a function of numerous past drought experiences.
+<ICE-CAN:W2A-031#61:1> These policies are incorporated into an expert system and the user is
+
+required to identify the degree to which the current drought situation is
+
+similar to past events ( Palmer and Tull 1987; Palmer and Holmes 1988). </p>
+
+<p> <ICE-CAN:W2A-031#62:1> For the <it> operation </it> of water resources systems, expert
+
+sys <l> tems are slowly taking their place in practice.
+<ICE-CAN:W2A-031#63:1> SID, an expert system already mentioned, is used for planning and
+
+operation of Seattle water distribution system during the drought.
+<ICE-CAN:W2A-031#64:1> JOE is an expert system designed to aid in operations of the Jenpeg
+
+generating station in Manitoba.
+<ICE-CAN:W2A-031#65:1> Manitoba Hydro's Jenpeg generating station is located near the outlet
+
+of Lake Winnipeg into the Nelson River system.
+<ICE-CAN:W2A-031#66:1> The operation of Jenpeg during the freeze-up period is very complex,
+
+involving many judge <l> mental calls, and has a major impact on the hydro
+
+power generation downstream ( Raban 1989).
+<ICE-CAN:W2A-031#67:1> EMMAES is an expert system built around the EMMA model used within
+
+Manitoba Hydro to plan the integrated operation of hydro and thermal power
+
+generation and tielines, as well as with maintenance considerations.
+<ICE-CAN:W2A-031#68:1> The system is being designed for three pur <l> poses: ( <it> i </it> )
+
+preparation of an annual budget; ( <it> ii </it> ) preparation of weekly
+
+schedules for releases, thermal and hydro power generation, and imports and
+
+exports of energy; and ( <it> iii </it> ) long-term planning that includes
+
+such tasks as evaluation of benefits from installing additional capacity and
+
+examining particular opera <l> tional conditions that may occur in the system
+
+( Nagy <it> et al. </it> 1989; Grahovac and Simonovic 1990). </p>
+
+<p> <ICE-CAN:W2A-031#69:1> The relative importance of expert systems to improvements in
+
+water resources projects has not yet been established, but some practical
+
+experience has already been documented ( Nagy <it> et al. </it> 1989; Raban
+
+1989; Palmer and Holmes 1988). </p>
+
+<p> <ICE-CAN:W2A-031#70:1> The following sections present definitions and approaches
+
+appropriate for the application of expert systems in the field of hydrology.
+<ICE-CAN:W2A-031#71:1> These are followed by an review of present research.
+<ICE-CAN:W2A-031#72:1> To illustrate their development, a case study of the use of an expert
+
+system for the selection of a suitable method for flow measurement in open
+
+channels is presented. </p>
+<ICE-CAN:W2A-031#73:1> <h> <bold> Knowledge-based systems and operational hydrology </bold>
+
+</h>
+<ICE-CAN:W2A-031#74:1> <h> <it> Introduction to expert systems </it> </h>
+
+<p> <ICE-CAN:W2A-031#75:1> Expert systems have been identified, by a number of authors, as a
+
+way to successfully apply AI techniques
+<ICE-CAN:W2A-031#76:1> Through the application of AI techniques, expert systems capture the
+
+basic knowledge required to assist an individual dealing with problems of
+
+varying complexity ( Rolston 1988).
+<ICE-CAN:W2A-031#77:1> Expert sys <l> tems function as an assistant to an expert; a partner
+
+to an expert, or a replacement for part of an expert's knowledge.
+<ICE-CAN:W2A-031#78:1> The following definition, derived by the author, seems appropriate
+
+for the field of water resources.
+<ICE-CAN:W2A-031#79:1> <it> A water resources expert system is a computer application that
+
+assists in solving complicated water resources problems by incorporating engi
+
+<l> neering knowledge, principles of systems analysis, and experi <l> ence,
+
+to provide aid in making engineering judgements and including intuition in
+
+the solution procedure </it> ( Simonovic 1990; Simonovic and Savic 1989).
+
+</p>
+
+<p> <ICE-CAN:W2A-031#80:1> An expert system is a computer model composed of the fol <l>
+
+lowing components: user interface; explanation subsystem; knowledge
+
+acquisition subsystem; knowledge base; and infer <l> ence engine.
+<ICE-CAN:W2A-031#81:1> Figure 1 illustrates the basic structure of an expert system.
+<ICE-CAN:W2A-031#82:1> The <it> user interface </it> is responsible for requesting and
+
+translating user input, and presenting generated results to the user.
+<ICE-CAN:W2A-031#83:1> The <it> explanation subsystem </it> is a very important part of an
+
+expert system, as it is responsible for explaining the reasoning behind any
+
+conclusion the system reaches.
+<ICE-CAN:W2A-031#84:1> The <it> knowledge acquisition subsystem </it> is used to perform
+
+modifica <l> tions to the knowledge base.
+<ICE-CAN:W2A-031#85:1> The <it> knowledge base </it> contains the facts and rules associated
+
+with the application field.
+<ICE-CAN:W2A-031#86:1> These rules can vary from being strictly procedural ( well-defined
+
+and invariant) to heuristic ( practices and procedures that are valu <l> able
+
+but are incapable of proof and are gathered through experience).
+<ICE-CAN:W2A-031#87:1> The <it> inference engine </it> controls the execution of the system
+
+and determines how to solve a particular problem.
+<ICE-CAN:W2A-031#88:1> It uses the knowledge base to modify and expand the contents of
+
+working memory.
+<ICE-CAN:W2A-031#89:1> In simple words, the inference engine is a search mechanism.
+<ICE-CAN:W2A-031#90:1> Most expert systems are based on back <l> ward or forward search
+
+techniques.
+<ICE-CAN:W2A-031#91:1> In backward chaining, the system begins with the desired goal and
+
+works towards the requisite conditions to satisfy this goal; whereas forward
+
+chaining uses the known conditions and works towards the desired goal of the
+
+consultation. </p>
+
+<p> <ICE-CAN:W2A-031#92:1> Knowledge is the main source of an expert's ability to per <l>
+
+form.
+<ICE-CAN:W2A-031#93:1> Therefore, expert systems use a collection of the rules and facts to
+
+mimic expert behaviour related to problem solv <l> ing.
+<ICE-CAN:W2A-031#94:1> In an expert system, knowledge can be represented in the form of the
+
+rules, semantic nets, or frames.
+<ICE-CAN:W2A-031#95:1> <it> Rules </it> are the sim <l> plest and most popular knowledge
+
+representation scheme.
+<ICE-CAN:W2A-031#96:1> They are most appropriate when the domain knowledge results from
+
+associations between facts that have evolved through years of problem
+
+solving.
+<ICE-CAN:W2A-031#97:1> Another approach is to represent domain knowledge through a network
+
+of nodes and arcs, known as a <it> semantic net </it> .
+<ICE-CAN:W2A-031#98:1> The nodes represent the objects, con <l> cepts, or events; and the
+
+arcs represent the relationships between the nodes.
+<ICE-CAN:W2A-031#99:1> Finally, the term <it> frame </it> refers to a special way of
+
+representing concepts and situations
+<ICE-CAN:W2A-031#100:1> Essentially, it is the same as a semantic net, in that it consists
+
+of a system of nodes and arcs.
+<ICE-CAN:W2A-031#101:1> However, in the case of a frame representation all the properties of
+
+an object or concept are collected together at a node in a package.
+<ICE-CAN:W2A-031#102:1> Frames and semantic nets are most helpful in grouping and
+
+structuring a large number of rules. </p>
+
+<p> <ICE-CAN:W2A-031#103:1> The tools for developing an expert system can be divided into
+
+three main classes; ( <it> i </it> ) general purpose languages; ( <it> ii
+
+</it> ) rep <l> resentational languages; and ( <it> iii </it> ) expert system
+
+building shells and environments.
+<ICE-CAN:W2A-031#104:1> At the base level, an expert system can be written in any <it>
+
+program language </it> , such as FORTRAN, C, or PASCAL </I> <X>
+<ICE-CAN:W2A-031#X105:1> Using these languages, the developer has complete flexibility, but
+
+the entire expert system structure must be developed and this is very costly
+
+in time and required resources.
+<ICE-CAN:W2A-031#X106:1> <it> General purpose representation languages </it> , such as
+
+PROLOG, SRL, or OPS5, require only organization and expression of the domain
+
+knowledge.
+<ICE-CAN:W2A-031#X107:1> As with the programming lan <l> guages, a significant portion of
+
+the code necessary to produce an expert system must be written by the
+
+developer.
+<ICE-CAN:W2A-031#X108:1> <it> Expert system building shells and environments </it> are
+
+packages that aid in the rapid prototyping of application expert systems.
+<ICE-CAN:W2A-031#X109:1> They usually provide one or more knowledge representations and
+
+reference mechanisms.
+<ICE-CAN:W2A-031#X110:1> Using these tools, the level of effort that must be applied to
+
+developing expert systems is greatly reduced, allowing the developer to focus
+
+on acquiring knowl <l> edge and refining the system behaviour. </p> </X>

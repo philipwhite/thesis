@@ -86,6 +86,9 @@
   (Main/writeImage (.apply *parser* text) "latest-dep-image.png")
   (shell/sh "open" "latest-dep-image.png"))
 
+(defn write-deps-image [text title]
+  (Main/writeImage (.apply *parser* text) title))
+
 (comment (defn dependencies [text]
    (let [egs (EnglishGrammaticalStructure. (.apply *parser* text))]
      (dorun (map #(println (.toString %)) (.typedDependencies egs))))))
@@ -95,45 +98,9 @@
   (if-not (string? (first s))
     (cons (first s) (remove nil? (map deleafed-seq (rest s))))))
 
-(defn contains-phrase? [s p]
-  "returns true if s contains p as a subtree ignoring the leaves (words/output), if present"
-  (let [s (deleafed-seq s)
-        p (deleafed-seq p)
-        c-p? (fn auto [s p]
-               (cond
-                 (= nil s) false
-                 (= s p) true
-                 :else (some #(auto % p) (rest s))))]
-    (true? (c-p? s p))))
 
-(defn wildcard-equal? [a w]
-  "compares two trees in sequence form. the second argument may have wildcards
-:WILD"
-  (cond
-    (= (first w) :WILD) true ;wild card always in head position
-    (= (first w) (first a)) (if (= (count a) (count w));check if same number of children
-                              (every? (fn [[a1 w1]] (wildcard-equal? a1 w1))
-                                (map vector (rest a) (rest w)))
-                              false);different number of children
-    :else false))
 
-(defn wildcard-equal? [a w]
-  "compares two trees in sequence form. the second argument may have wildcards
-:WILD-LEAF or :WILD-TREE"
-  (cond
-    (= (first w) :WILD-TREE) true ;wild card always in head position
-    (= (first w) :WILD-LEAF)
-    (if (= (count a) 1) ;"a" can't have any children in order to match with :WILD_LEAF 
-	 true
-	 false)
-    (= (first w) (first a)) (if (= (count a) (count w));check if same number of children
-                              (every? (fn [[a1 w1]] (wildcard-equal? a1 w1))
-                                (map vector (rest a) (rest w)))
-                              false);different number of children
-    :else false))
 
-(def punc (set (map keyword [":" ";" "!" "?" "," "." "?"])))
 
-(defn trim-punc [s]
-  "trims punctuation subtree off of the sequence-type tree s"
-  s)
+
+

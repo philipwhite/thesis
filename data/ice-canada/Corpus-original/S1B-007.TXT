@@ -1,0 +1,840 @@
+<I>
+
+<$A> <ICE-CAN:S1B-007#1:1:A> So how are you ladies <?>
+
+<$E> </?>
+<ICE-CAN:S1B-007#2:1:E> Oh okay <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-007#3:1:A> <,,> Things are <,> running along <{> <[> <,> </[> smoothly <?>
+
+<$E> </?>
+<ICE-CAN:S1B-007#4:1:E> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-007#5:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-007#6:1:A> <@> Carrie </@> what happened <{> <[> this morning </[>
+
+<$B> <ICE-CAN:S1B-007#7:1:B> <[> I had </[> </{> a very good day
+
+<$A> <ICE-CAN:S1B-007#8:1:A> Good <{> <[> <unclear> unclear words </unclear> </[>
+
+<$B> <ICE-CAN:S1B-007#9:1:B> <[> <,> I just had </[> </{> uhm <,> one of those <,> memorable
+
+days <,>
+<ICE-CAN:S1B-007#10:1:B> It was just amazing
+
+<$C> <ICE-CAN:S1B-007#11:1:C> Oh did you
+
+<$A> <ICE-CAN:S1B-007#12:1:A> What happened
+
+<$B> <ICE-CAN:S1B-007#13:1:B> Nothing <,,> special <?>
+
+<$A> </?>
+<ICE-CAN:S1B-007#14:1:A> <O> laugh </O>
+
+<$B> <ICE-CAN:S1B-007#15:1:B> It just <,,>
+<ICE-CAN:S1B-007#16:1:B> <}> <-> <.> C </.> </-> <=> Circle </=> </}> went smooth and <,>
+
+they were <,> <}> <-> <.> en </.> </-> <=> enthusiastic </=> </}> about doing
+
+things and they were calm
+<ICE-CAN:S1B-007#17:1:B> Yes please <&> aside to teamakers </&>
+<ICE-CAN:S1B-007#18:1:B> It just <,> was one of those <,> days
+
+<$C> <ICE-CAN:S1B-007#19:1:C> That's fun <?>
+
+<$D> </?>
+<ICE-CAN:S1B-007#20:1:D> <{> <[> I'll have </[> <unclear> three of four words </unclear>
+
+<$B> <ICE-CAN:S1B-007#21:1:B> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-007#22:1:A> Was <@> Kelly </@> in the class at all
+
+<$B> <ICE-CAN:S1B-007#23:1:B> Uhm <,> in and out not really <,,>
+<ICE-CAN:S1B-007#24:1:B> And it's great cos the parents are <,> coming in a lot more
+
+frequently so <,> uhm <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#25:1:C> <unclear> two words </unclear>
+
+<$B> <ICE-CAN:S1B-007#26:1:B> <,> I am interacting with them and they're asking me things
+
+and <,> <{1> <[1> <}> <-> we're uhm </[1> </-> <=> we're </=> </}> just
+
+relating yeah we're just relating as <{2> <[2> people </[2>
+
+<$C> <ICE-CAN:S1B-007#27:1:C> <[1> The parents </[1> </{1>
+
+<$C> <ICE-CAN:S1B-007#28:1:C> <[2> That's </[2> </{2> great
+
+<$B> <ICE-CAN:S1B-007#29:1:B> You know
+
+<$C> <ICE-CAN:S1B-007#30:1:C> <unclear> word </unclear> <&> knock at the door </&>
+
+<$A> <ICE-CAN:S1B-007#31:1:A> Come in
+
+<$B> <ICE-CAN:S1B-007#32:1:B> <?> Feel like </?> a teacher <O> brief conversation between
+
+extra-corpus visitor and speaker A, about 25 seconds </O>
+
+<$A> <ICE-CAN:S1B-007#33:1:A> <@> Lynda </@> <,> how was <,> your <,> week
+
+<$E> <ICE-CAN:S1B-007#34:1:E> Okay <,> <}> <-> cept </-> <+> except </+> </}> today <@>
+
+Jenny </@> got a phone call halfway through I
+<ICE-CAN:S1B-007#35:1:E> <,> Uhm <,> a friend of hers was having a stroke <{> <[> <,> so
+
+</[> she had to <,,> leave quickly <?>
+
+<$A> </?>
+<ICE-CAN:S1B-007#36:1:A> <[> Mm </[> </{>
+
+<$E> <ICE-CAN:S1B-007#37:1:E> And she says I'm worried about this and this and I said go <,>
+
+you know
+<ICE-CAN:S1B-007#38:1:E> <,> I can take care of it <,> fine <,>
+<ICE-CAN:S1B-007#39:1:E> But it's ah
+<ICE-CAN:S1B-007#40:1:E> So it was a uh crazy day <unclear> word </unclear> have
+<ICE-CAN:S1B-007#41:1:E> A tough day
+<ICE-CAN:S1B-007#42:1:E> <?> You can read </?> about it in my journal
+<ICE-CAN:S1B-007#43:1:E> And I was a little <,,> disturbed with the other kindergarten
+
+teacher <O> laugh </O> <?>
+
+<$A> </?>
+<ICE-CAN:S1B-007#44:1:A> Oh really
+
+<$E> <ICE-CAN:S1B-007#45:1:E> She came up to me last Friday and said I hear you're coming
+
+back to <@> Redwood </@>
+<ICE-CAN:S1B-007#46:1:E> That's great
+<ICE-CAN:S1B-007#47:1:E> Uhm if I can give you some advice though she says <}> <-> I think
+
+</-> <{> <[> <,,> </[> <O> laugh </O> <=> I think </=> </}> you would be
+
+better off in the Grade Two class <,> <?>
+
+<$A> </?>
+<ICE-CAN:S1B-007#48:1:A> <[> / Yeah <[> </{>
+<ICE-CAN:S1B-007#49:1:A> Why are you going to Grade One
+<ICE-CAN:S1B-007#50:1:A> So <}> <-> I I put it on </-> <=> I said </=> </}> well my
+
+supervisor placed me <O> laugh starts </O> <?> in Grade One </?> <O> laugh
+
+ends </O> <,>
+<ICE-CAN:S1B-007#51:1:A> Thank you very much <O> laugh </O> <,>
+<ICE-CAN:S1B-007#52:1:A> And uhm <,> she says well you know <,> you're very good with the
+
+kids
+<ICE-CAN:S1B-007#53:1:A> And I thought well <,> thank you <,> but
+
+<$C> <ICE-CAN:S1B-007#54:1:C> Oh I'm sorry <@> Tara </@> <&> comment addressed to teacher
+
+</&>
+
+<$A> <ICE-CAN:S1B-007#55:1:A> <O> inaudible comment addressed to Speaker C perhaps </O>
+
+<$E> <ICE-CAN:S1B-007#56:1:E> She said they could really use you in Grade Two in Grade One
+
+they have a resource teacher and <{> <[> <,> </[> <?>
+
+<$A> </?>
+<ICE-CAN:S1B-007#57:1:A> <[> Thanks </[> </{> <&> to someone else </&>
+
+<$E> <ICE-CAN:S1B-007#58:1:E> And I don't really understand why you're going there <,,>
+<ICE-CAN:S1B-007#59:1:E> And <{> <[> <unclear> word </unclear> </[>
+
+<$A> <ICE-CAN:S1B-007#60:1:A> <[> And </[> </{> she ended it like that
+
+<$E> <ICE-CAN:S1B-007#61:1:E> Yeah
+<ICE-CAN:S1B-007#62:1:E> And I said <,,> well I said that's where I've been placed <?> and
+
+</?> <,> and that's where I'm going
+
+<$A> <ICE-CAN:S1B-007#63:1:A> That's where I'm going
+
+<$E> <ICE-CAN:S1B-007#64:1:E> That's right
+
+<$A> <ICE-CAN:S1B-007#65:1:A> And that's <{> <[> it </[>
+
+<$E> <ICE-CAN:S1B-007#66:1:E> <[> And </[> </{> I thought <,> wooh
+<ICE-CAN:S1B-007#67:1:E> <{> <[> How dare you </[>
+
+<$C> <ICE-CAN:S1B-007#68:1:C> <[> What grade is she in </[> </{>
+
+<$E> <ICE-CAN:S1B-007#69:1:E> She's the other kindergarten teacher <O> laugh </O>
+
+<$E> <ICE-CAN:S1B-007#70:1:E> And
+
+<$C> <ICE-CAN:S1B-007#71:1:C> Oh
+
+<$F> <ICE-CAN:S1B-007#72:1:F> Hi <?>
+
+<$B> </?>
+<ICE-CAN:S1B-007#73:1:B> Hi <{> <[> <@> Bevan </@> </[> <?>
+
+<$D> </?>
+<ICE-CAN:S1B-007#74:1:D> <[> <{> <[> Hi <@> Bevan </@> </[> <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#75:1:C> <[> Hi <@> Bevan </@> </[> </{> </[> </{>
+
+<$F> <ICE-CAN:S1B-007#76:1:F> Hi everybody
+
+<$E> <ICE-CAN:S1B-007#77:1:E> Uhm <,> she's also <}> <-> phys ed </-> <+> physical education
+
+</+> </}> and <,> this week <unclear> two or three words </unclear> unit
+<ICE-CAN:S1B-007#78:1:E> And three of the five days I'm including her group too because she
+
+really doesn't know what she should be doing with the kids so <,,>
+<ICE-CAN:S1B-007#79:1:E> I thought well so that they're involved <,> as well I'd <,>
+<ICE-CAN:S1B-007#80:1:E> Cos I'm having a blind visitor coming on Friday and <,> with her
+
+seeing eye dog
+<ICE-CAN:S1B-007#81:1:E> So I thought that'll be nice and <,,> anyway so I <{> <[> thought
+
+</[>
+
+<$A> <ICE-CAN:S1B-007#82:1:A> <[> That <}> <-> wz </-> <+> was </+> </}> a </[> </{> strange
+
+thing to say
+
+<$E> <ICE-CAN:S1B-007#83:1:E> <}> <-> It </-> <=> It </=> </}> was and <}> <-> I </-> <=> I
+
+</=> </}> thought very <,,> unprofessional <,>
+<ICE-CAN:S1B-007#84:1:E> But <}> <-> and </-> <,> <=> and </=> </}> I thought <,> it's none
+
+of your business <O> laugh </O> <?>
+
+<$A> </?>
+<ICE-CAN:S1B-007#85:1:A> Right
+<ICE-CAN:S1B-007#86:1:A> <{> <[> Right </[>
+
+<$E> <ICE-CAN:S1B-007#87:1:E> <[> So </[> </{>
+
+<$A> <ICE-CAN:S1B-007#88:1:A> It wasn't a <{> <[> very </[>
+
+<$E> <ICE-CAN:S1B-007#89:1:E> <[> <}> <-> It it it </-> </[> </{> <=> It </=> </}> bothered
+
+me <,> <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-007#90:1:A> Yeah I <{> <[> <unclear> two or three words </unclear> </[>
+
+<$F> <ICE-CAN:S1B-007#91:1:F> <[> <unclear> two or three words </unclear> </[> </{>
+
+<$A> <ICE-CAN:S1B-007#92:1:A> And it really wasn't a very appropriate thing to <{> <[> say
+
+</[>
+
+<$E> <ICE-CAN:S1B-007#93:1:E> <[> No </[> </{> <,> no <,>
+
+<$A> <ICE-CAN:S1B-007#94:1:A> <{> <[> And </[> to someone who's already in the school <?>
+
+<$E> </?>
+<ICE-CAN:S1B-007#95:1:E> <[> Right </[> </{>
+
+<$A> <ICE-CAN:S1B-007#96:1:A> Who's already been placed
+
+<$E> <ICE-CAN:S1B-007#97:1:E> That's right
+
+<$A> <ICE-CAN:S1B-007#98:1:A> And <,> who's going to be a colleague for another semester
+
+<$E> <ICE-CAN:S1B-007#99:1:E> That's right
+<ICE-CAN:S1B-007#100:1:E> <}> <-> I </-> <,> <=> I </=> </}> mean I like the Grade Two
+
+teacher very much as a person but <,> not <,> to be in a classroom <O> laugh
+
+</O>
+<ICE-CAN:S1B-007#101:1:E> And that's
+
+<$A> <ICE-CAN:S1B-007#102:1:A> And you're entitled
+
+<$E> <ICE-CAN:S1B-007#103:1:E> That's right <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#104:1:C> You're entitled to feel that way <O> three people speak at once
+
+and someone coughs near the mic </O>
+
+<$A> <ICE-CAN:S1B-007#105:1:A> You know what
+<ICE-CAN:S1B-007#106:1:A> We'll leave it as <{> <[> <,> as </[> is
+
+<$E> <ICE-CAN:S1B-007#107:1:E> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-007#108:1:A> We're happy with <,> <{> <[> things as they are </[> <,> <}>
+
+<-> and </-> uh <=> and </=> </}> that'll be just fine
+
+<$E> <ICE-CAN:S1B-007#109:1:E> <[> Yes <,> <O> laugh </O> </[> </{>
+
+<$E> <ICE-CAN:S1B-007#110:1:E> That's right <,,>
+
+<$A> <ICE-CAN:S1B-007#111:1:A> <?> Great </?>
+<ICE-CAN:S1B-007#112:1:A> Hi <@> Bevan </@>
+
+<$F> <ICE-CAN:S1B-007#113:1:F> Hi
+
+<$E> <ICE-CAN:S1B-007#114:1:E> <{> <[> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1B-007#115:1:A> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1B-007#116:1:A> How's your voice
+
+<$F> <ICE-CAN:S1B-007#117:1:F> <}> <-> 's' </-> <+> It's </+> </}> back
+
+<$A> <ICE-CAN:S1B-007#118:1:A> It's back
+
+<$F> <ICE-CAN:S1B-007#119:1:F> <}> <-> 's' </-> <+> It's </+> </}> still sore but it's back
+
+<$A> <ICE-CAN:S1B-007#120:1:A> Yeah
+
+<$F> <ICE-CAN:S1B-007#121:1:F> I was eight days without a voice <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#122:1:C> <unclear> word </unclear>
+
+<$F> <ICE-CAN:S1B-007#123:1:F> <}> <-> Couple of long </-> <=> a whole long week </=> </}>
+
+it was <O> laugh </O> <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#124:1:C> Yeah <unclear> word </unclear>
+
+<$A> <ICE-CAN:S1B-007#125:1:A> Well before you leave today <@> Bevan </@> we'll set up
+
+another time though
+
+<$F> <ICE-CAN:S1B-007#126:1:F> <{> <[> Yeah </}> </[>
+
+<$A> <ICE-CAN:S1B-007#127:1:A> <[> Okay </[> </{>
+
+<$F> <ICE-CAN:S1B-007#128:1:F> <}> <-> Kay </-> <+> okay </+>
+
+<$A> <ICE-CAN:S1B-007#129:1:A> Okay just remember
+<ICE-CAN:S1B-007#130:1:A> Remind me because sometimes <{> <[> <}> <-> I </-> <=> I </=> </}>
+
+tend to forget </[>
+
+<$F> <ICE-CAN:S1B-007#131:1:F> <[> Right <,> right </[> </{>
+
+<$A> <ICE-CAN:S1B-007#132:1:A> <,> Okay how are things going
+
+<$F> <ICE-CAN:S1B-007#133:1:F> Well I just came back on Monday
+<ICE-CAN:S1B-007#134:1:F> <}> <-> Mosta </-> <+> Most of </+> </}> last week I was <,,> out
+
+<,> except for one day I tried to go in well I did go in <,> and uh <,>
+<ICE-CAN:S1B-007#135:1:F> So I'm a bit out of it
+<ICE-CAN:S1B-007#136:1:F> But you know <?> not right </?> <,> I'm back into it but I mean
+
+<$A> <ICE-CAN:S1B-007#137:1:A> You're out of it but into it
+
+<$F> <ICE-CAN:S1B-007#138:1:F> <?> Bit </?> out of it but into it you know what I <{> <[>
+
+mean it's that <,,> </[>
+
+<$A> <ICE-CAN:S1B-007#139:1:A> <[> Yeah I'm sure </[> </{> I know exactly what you mean <{>
+
+<[> <O> laugh </O> </[>
+
+<$F> <ICE-CAN:S1B-007#140:1:F> <[> <}> <-> I <?> <.> th </.> <?> <,> I'm </-> </[> </{> <=>
+
+I'm </=> </}> happy to be back but you know <}> <-> it's </-> <=> it's </=>
+
+</}> hard to get <?> right into it </?>
+
+<$A> <ICE-CAN:S1B-007#141:1:A> <{> <[> Yeah </[> <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#142:1:C> <[> <?> Catching up </?> </[> </{>
+
+<$F> <ICE-CAN:S1B-007#143:1:F> Yeah <,,> a <}> <-> lotta </-> <+> lot of </+> </}> work to
+
+do <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#144:1:C> Yeah <?>
+
+<$A> </?>
+<ICE-CAN:S1B-007#145:1:A> Yeah
+
+<$A> <ICE-CAN:S1B-007#146:1:A> <,,> But uhm <,> how is that <}> <-> gonna </-> <+> going to
+
+</+> </}> work with <,> the time that you're there
+<ICE-CAN:S1B-007#147:1:A> You <}> <-> gonna </-> <+> going to </+> </}> <&> possibly a VERY
+
+fast 'are' before 'you' here </&> <}> <-> give you </-> <=> give yourself
+
+</=> </}> an extra week
+
+<$F> <ICE-CAN:S1B-007#148:1:F> Yes
+<ICE-CAN:S1B-007#149:1:F> Till nineteenth <,,> yeah
+
+<$A> <ICE-CAN:S1B-007#150:1:A> Ooh so you're <}> <-> gonna </-> <+> going to </+> </}> go
+
+right to the <{> <[> end </[>
+
+<$F> <ICE-CAN:S1B-007#151:1:F> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-007#152:1:A> And then start right into Primary
+
+<$F> <ICE-CAN:S1B-007#153:1:F> Yeah
+
+<$A> <ICE-CAN:S1B-007#154:1:A> Okay but it's okay with <@> Angela Taylor </@> because I
+
+spoke with <,> <@> Meryl </@>
+
+<$F> <ICE-CAN:S1B-007#155:1:F> <@> Meryl </@> did you okay
+
+<$A> <ICE-CAN:S1B-007#156:1:A> Yes
+
+<$F> <ICE-CAN:S1B-007#157:1:F> Yeah
+
+<$A> <ICE-CAN:S1B-007#158:1:A> Mm <,,> So that's fine <,>
+<ICE-CAN:S1B-007#159:1:A> Everybody is placed by the way <?>
+
+<$F> </?>
+<ICE-CAN:S1B-007#160:1:F> Oh good
+
+<$A> <ICE-CAN:S1B-007#161:1:A> <unclear> word </unclear> I finally got everybody placed <}>
+
+<-> <.> exc </.> </-> <=> except one </=> </}> <,> that is tentative <,,> ah
+
+but hopefully <,> it'll be a go <,> <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#162:1:C> Good
+
+<$F> <ICE-CAN:S1B-007#163:1:F> And <{> <[> <unclear> two or three words </unclear> </[>
+
+<$A> <ICE-CAN:S1B-007#164:1:A> <[> I'm so excited </[> </{> <O> laugh </O>
+
+<$C> <ICE-CAN:S1B-007#165:1:C> <{1> <[1> Is <@> Tenille </@> placed </[1> <,> so I <{2> <[2>
+
+can tell her tomorrow </[2> <,> when she <{3> <[3> comes </[3> [ 6.36]
+
+<$F> <ICE-CAN:S1B-007#166:1:F> <[1> Is <,> sorry </[1> </{1>
+
+<$A> <ICE-CAN:S1B-007#167:1:A> <[2> Yes </[2> </{2>
+
+<$A> <ICE-CAN:S1B-007#168:1:A> <@> <[3> Mitchell </[3> </{3> Park </@>
+
+<$C> <ICE-CAN:S1B-007#169:1:C> <@> Mitchell Park </@>
+<ICE-CAN:S1B-007#170:1:C> Okay
+<ICE-CAN:S1B-007#171:1:C> Which grade do you know <,,>
+
+<$A> <ICE-CAN:S1B-007#172:1:A> Two I believe
+
+<$C> <ICE-CAN:S1B-007#173:1:C>
+<ICE-CAN:S1B-007#174:1:C> Two
+
+<$A> <ICE-CAN:S1B-007#175:1:A> Yeah
+<ICE-CAN:S1B-007#176:1:A> <?> I'm not </?> <{> <[> sure </[>
+
+<$F> <ICE-CAN:S1B-007#177:1:F> <[> Do </[> </{> you have any at <@> Deacon Hall </@>
+
+<$A> <ICE-CAN:S1B-007#178:1:A> <{> <[> No </[>
+
+<$F> <ICE-CAN:S1B-007#179:1:F> <[> <?> Principal was </?> </[> </{> <,> pretty uh <,> keen
+
+<$A> <ICE-CAN:S1B-007#180:1:A> Who is <,> the principal
+
+<$F> <ICE-CAN:S1B-007#181:1:F> Uhm <@> Jilly Plant </@>
+
+<$A> <ICE-CAN:S1B-007#182:1:A> <@> Jilly Plant </@> <{> <[> no </[> I don't
+<ICE-CAN:S1B-007#183:1:A> I don't have anybody at <@> Deacon Hall </@>
+
+<$F> <ICE-CAN:S1B-007#184:1:F> <[> Yeah </[> </{>
+<ICE-CAN:S1B-007#185:1:F> <unclear> word </unclear> <}> <-> she </-> <=> well she </=> </}>
+
+wanted me
+<ICE-CAN:S1B-007#186:1:F> I told her yesterday that I'd have to quit
+<ICE-CAN:S1B-007#187:1:F> <}> <-> 'N' she's </-> <+> and she was </+> </}> oh <,>
+<ICE-CAN:S1B-007#188:1:F> I want you here
+<ICE-CAN:S1B-007#189:1:F> Stay here
+<ICE-CAN:S1B-007#190:1:F> And she said don't tell your supervisor she said
+<ICE-CAN:S1B-007#191:1:F> You can still ah work there in the afternoon <?> just that <?> <}>
+
+<-> you'll work </-> <,,> <=> you'll work </=> </}> half-time and you'll
+
+teach half but she was joking <?> you know </?> <[> <unclear> two or three
+
+words </unclear> but <,> it was really
+<ICE-CAN:S1B-007#192:1:F> It was nice to feel wanted </[> </{> <?> all the same </?>
+
+<$A> <ICE-CAN:S1B-007#193:1:A> <{> <[> <O> laugh </O> </[>
+
+<$C> <ICE-CAN:S1B-007#194:1:C> Yeah that's
+
+<$B> <ICE-CAN:S1B-007#195:1:B> <@> Tara </@> I won't believe it until you say it
+<ICE-CAN:S1B-007#196:1:B> Am I placed at <}> <-> <@> <.> Se </.> </@> </-> <=> <{> <[> <@>
+
+Sequoia </@> </[> </=> </}>
+
+<$A> <ICE-CAN:S1B-007#197:1:A> <[> <,> <@> Sequoia </@> </[> </{> Park <,> with <@> Kezia
+
+Gibbons </@>
+
+<$B> <ICE-CAN:S1B-007#198:1:B> Fabulous
+<ICE-CAN:S1B-007#199:1:B> Okay
+
+<$A> <ICE-CAN:S1B-007#200:1:A> Okay
+<ICE-CAN:S1B-007#201:1:A> You <.> wa </.> <O> laugh </O>
+<ICE-CAN:S1B-007#202:1:A> Believe it <,>
+<ICE-CAN:S1B-007#203:1:A> I spoke with Mr <@> Tessier </@> who's the principal
+
+<$B> <ICE-CAN:S1B-007#204:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-007#205:1:A> And <,,> there are two of you in the school <,>
+<ICE-CAN:S1B-007#206:1:A> <@> Sharon </@>
+
+<$B> <ICE-CAN:S1B-007#207:1:B> Yes
+
+<$A> <ICE-CAN:S1B-007#208:1:A> Uhm with <,>
+
+<$B> <ICE-CAN:S1B-007#209:1:B> <,> <@> Andre </@> <{> <[> <@> Link </@> </[>
+
+<$A> <ICE-CAN:S1B-007#210:1:A> <[> <@> <,> Andre Ling </@> </[> </{>
+<ICE-CAN:S1B-007#211:1:A> <@> Link </@>
+
+<$B> <ICE-CAN:S1B-007#212:1:B> <{> <[> Oh <,,> probably I think <,,> I think </[>
+
+<$A> <ICE-CAN:S1B-007#213:1:A> <[> I <}> <-> dunno </-> <+> don't know </+> </}> <?> if it's
+
+</?> <@> Ling </@> or <@> Link </@> </[> </{>
+<ICE-CAN:S1B-007#214:1:A> Whatever
+<ICE-CAN:S1B-007#215:1:A> <}> <-> And </-> <=> And </=> </}> <@> Kezia Gibbons </@>
+
+<$B> <ICE-CAN:S1B-007#216:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-007#217:1:A> And <,> he said that he hasn't spoken with <@> Kezia Gibbons
+
+</@> yet <,> but I gave him your name <{1> <[1> <,> and </[1> he remembered
+
+that you would come <{2> <[2> to visit </[2>
+
+<$B> <ICE-CAN:S1B-007#218:1:B> <[1> Okay </[1> </{1>
+
+<$B> <ICE-CAN:S1B-007#219:1:B> <[2> Mm hmm mm hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1B-007#220:1:A> And then he said <,> uhm
+<ICE-CAN:S1B-007#221:1:A> Well if you don't hear from me <,>
+
+<$B> <ICE-CAN:S1B-007#222:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-007#223:1:A> Then it's <{> <[> okay </[>
+
+<$B> <ICE-CAN:S1B-007#224:1:B> <[> Right </[> </{>
+
+<$A> <ICE-CAN:S1B-007#225:1:A> So I haven't heard <{> <[> from him </[>
+
+<$B> <ICE-CAN:S1B-007#226:1:B> <[> Okay </[> </{> <O> laugh </O>
+
+<$A> <ICE-CAN:S1B-007#227:1:A> I'm assuming <,> everything is <{1> <[1> fine </[1> because
+
+he hasn't called <,> and I haven't called <,> so uh <,> let's <{2> <[2> just
+
+</[2>
+
+<$B> <ICE-CAN:S1B-007#228:1:B> <[1> Okay </[1> </{1>
+
+<$C> <ICE-CAN:S1B-007#229:1:C> <[2> What no messages </[2> </{2>
+
+<$B> <ICE-CAN:S1B-007#230:1:B> <{> <[> <O> laugh </O> </[>
+
+<$C> <ICE-CAN:S1B-007#231:1:C> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1B-007#232:1:A> You know I came in <,> yesterday <,> and I had twenty-nine
+
+messages <{> <[> on my machine </[>
+
+<$C> <ICE-CAN:S1B-007#233:1:C> <[> <{> <[> Gosh </[> </[> </{>
+
+<$B> <ICE-CAN:S1B-007#234:1:B> <[> <,> Oh my gosh </[> </{>
+
+<$A> <ICE-CAN:S1B-007#235:1:A> Twenty-nine <,>
+<ICE-CAN:S1B-007#236:1:A> I just <{> <[> thought I was <}> <-> gonna </-> <+> going to </+>
+
+</}> fall over <O> laugh </O> </[> <?>
+
+<$B> </?>
+<ICE-CAN:S1B-007#237:1:B> <[> <O> <{> <[> laugh </O> </[> </[> </{>
+
+<$F> <ICE-CAN:S1B-007#238:1:F> <[> <{> <[> <O> laugh </O> </[> </[> </{> <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#239:1:C> <[> <O> laugh </O> </[> </{> <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#240:1:C> But you know
+
+<$A> <ICE-CAN:S1B-007#241:1:A> Twenty-nine messages <,,> <?>
+
+<$D> </?>
+<ICE-CAN:S1B-007#242:1:D> How <{> <[> long <.> d </.> </[>
+
+<$B> <ICE-CAN:S1B-007#243:1:B> <[> You take <unclear> word </unclear> </[> </{> <{> <[> that
+
+long </[>
+
+<$A> <ICE-CAN:S1B-007#244:1:A> <[> I mean </[> </{> I couldn't believe it
+<ICE-CAN:S1B-007#245:1:A> I've never <{> <[> had that many </[>
+
+<$B> <ICE-CAN:S1B-007#246:1:B> <[> <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1B-007#247:1:A> I've never had that many <O> group laughter </O>
+
+<$A> <ICE-CAN:S1B-007#248:1:A> Today I had <{> <[> fourteen
+
+<$B> <ICE-CAN:S1B-007#249:1:B> <[> Wow </[> </{>
+
+<$A> <ICE-CAN:S1B-007#250:1:A>
+<ICE-CAN:S1B-007#251:1:A> I mean </[> from yesterday to today fourteen
+
+<$F> <ICE-CAN:S1B-007#252:1:F> Hm
+
+<$E> <ICE-CAN:S1B-007#253:1:E> <?> This is </?> unbelievable <unclear> two or three words
+
+</unclear>
+<ICE-CAN:S1B-007#254:1:E> I spoke to <@> <?> <unclear> name </unclear> McNully </?> </@> and
+
+he said if I wanted to start a week early <{> <[> <,> it's fine with him </[>
+
+[ 8.30 - soft low speaker]
+
+<$A> <ICE-CAN:S1B-007#255:1:A> <[> Oh good </[> </{>
+
+<$E> <ICE-CAN:S1B-007#256:1:E> <}> <-> And </-> <=> And </=> </}> with <@> Angeline </@> too
+
+she said <{> <[> <,> <?> that it </?> </[> was fine too
+
+<$A> <ICE-CAN:S1B-007#257:1:A> <[> She said no problem </[> </{>
+
+<$A> <ICE-CAN:S1B-007#258:1:A> What about <@> Nelly </@>
+
+<$E> <ICE-CAN:S1B-007#259:1:E> I <}> <-> dunno </-> <+> don't know </+> </}>
+<ICE-CAN:S1B-007#260:1:E> I haven't seen her <,> at all so I don't know if she
+
+<$A> <ICE-CAN:S1B-007#261:1:A> Okay
+
+<$E> <ICE-CAN:S1B-007#262:1:E> <}> <-> S'I </-> <+> Cos I </+> </}> <unclear> word
+
+</unclear> she has her exams and everything <{> <[> too then </[>
+
+<$A> <ICE-CAN:S1B-007#263:1:A> <[> Yeah
+<ICE-CAN:S1B-007#264:1:A> Yeah </[> </{>
+<ICE-CAN:S1B-007#265:1:A> <?> All of them </?>
+<ICE-CAN:S1B-007#266:1:A> You know what uh <,,> I've invited <,> all <,> the former <,,>
+
+students
+<ICE-CAN:S1B-007#267:1:A> Like the kindergarten September students who are doing their
+
+primary internships now <,> to our meeting <,,> on the ninth
+<ICE-CAN:S1B-007#268:1:A> <,> But I told them four o'clock we're <}> <-> gonna </-> <+>
+
+going to </+> </}> have to move it up cos last week we decided it was going
+
+to be earlier remember <,> <?>
+
+<$C> </?>
+<ICE-CAN:S1B-007#269:1:C> Yeah
+
+<$A> <ICE-CAN:S1B-007#270:1:A> <,> So we'll discuss that <,> <}> <-> with </-> <=> with </=>
+
+</}> everybody in the group <?>
+
+<$F> </?>
+<ICE-CAN:S1B-007#271:1:F> <O> cough </O>
+
+<$A> <ICE-CAN:S1B-007#272:1:A> So <@> Bevan </@> <,> things are going well
+<ICE-CAN:S1B-007#273:1:A> <{> <[> You're </[> going back to <@> Rivervale </@>
+
+<$F> <ICE-CAN:S1B-007#274:1:F> <[> <?> Yep </?> </[> </{>
+
+<$A> <ICE-CAN:S1B-007#275:1:A> <,> You're going to be in Grade One
+
+<$F> <ICE-CAN:S1B-007#276:1:F> Grade One <?> yeah </?>
+
+<$A> <ICE-CAN:S1B-007#277:1:A> And uh <,> you're starting on the twenty-second
+
+<$F> <ICE-CAN:S1B-007#278:1:F> <?> Jeez </?>
+
+<$A> <ICE-CAN:S1B-007#279:1:A> Fine
+
+<$F> <ICE-CAN:S1B-007#280:1:F> Oh uh people are starting earlier <unclear> two or three
+
+words </unclear>
+
+<$A> <ICE-CAN:S1B-007#281:1:A> There are <{> <[> some </[> people
+
+<$F> <ICE-CAN:S1B-007#282:1:F> <[> <unclear> word </unclear> </[> </{>
+
+<$A> <ICE-CAN:S1B-007#283:1:A> But you're only <{> <[> finishing on the nineteenth </[>
+
+<$F> <ICE-CAN:S1B-007#284:1:F> <[> Ya ya yeah I </[> </{> <{1> <[1> know <{2> <[2> I </[1>
+
+<unclear> word </unclear> </[2>
+
+<$C> <ICE-CAN:S1B-007#285:1:C> <[1> Yeah </[1> </{1>
+
+<$A> <ICE-CAN:S1B-007#286:1:A> <[2> So </[2> </{2> you're just <}> <-> gonna </-> <+> going
+
+to </+> </}> <,> sort of flow right into <O> laugh starts </O> <{> <[> <.> i
+
+</.> <O> laugh ends </O> </[>
+
+<$F> <ICE-CAN:S1B-007#287:1:F> <[> <?> It's alright </?> it's </[> </{>
+
+<$A> <ICE-CAN:S1B-007#288:1:A> Into the next one
+
+<$F> <ICE-CAN:S1B-007#289:1:F> It's not a big deal
+
+<$A> <ICE-CAN:S1B-007#290:1:A> Yeah it'll be fine
+
+<$F> <ICE-CAN:S1B-007#291:1:F> Yeah
+
+<$A> <ICE-CAN:S1B-007#292:1:A> It'll be fine
+<ICE-CAN:S1B-007#293:1:A> Okay <@> Annabelle </@>
+
+<$C> <ICE-CAN:S1B-007#294:1:C> <{> <[> Sure </[>
+
+<$A> <ICE-CAN:S1B-007#295:1:A> <[> What's happening </[> </{>
+
+<$C> <ICE-CAN:S1B-007#296:1:C> Oh I'm <,> floating I'm <,> <&> group laughs </&>
+
+<$C> <ICE-CAN:S1B-007#297:1:C> I'm having a blast
+
+<$A> <ICE-CAN:S1B-007#298:1:A> Yeah
+
+<$C> <ICE-CAN:S1B-007#299:1:C> Today we were scientists
+
+<$A> <ICE-CAN:S1B-007#300:1:A> How was the birdwatching unit
+
+<$C> <ICE-CAN:S1B-007#301:1:C> Oh great
+<ICE-CAN:S1B-007#302:1:C> We did an experiment today <,>
+<ICE-CAN:S1B-007#303:1:C> And uh <,> I was teaching them how ducks are waterproof and <,>
+
+they don't get wet
+<ICE-CAN:S1B-007#304:1:C> And I have this <{> <[> <?> book </?> called </[> Ducks Don't Get
+
+Wet <,,>
+<ICE-CAN:S1B-007#305:1:C> And there's a little experiment <,> in the book
+
+<$F> <ICE-CAN:S1B-007#306:1:F> <[> <unclear> mumbled one or two words </unclear> </[> </{>
+
+<$C> <ICE-CAN:S1B-007#307:1:C> So what I did at first I mixed uhm <,> ah <}> <-> <.> gree
+
+</.> </-> <+> green </+> </}> ah <,,> pff blue <,> water with <,> yellow
+
+water
+<ICE-CAN:S1B-007#308:1:C> And I told them I said <,> what do you think will happen if I <,>
+
+blend these two together
+<ICE-CAN:S1B-007#309:1:C> Will they mix
+<ICE-CAN:S1B-007#310:1:C> Will I get like <,> blue <,> and yellow and they're like no you'll
+
+get green you silly <&> others laugh </&>
+
+<$C> <ICE-CAN:S1B-007#311:1:C> Like <?> they're saying </?> silly but they were looking at
+
+me as if I'm stupid <&> others laugh </&>
+
+<$C> <ICE-CAN:S1B-007#312:1:C> So we did that I said okay our predictions were good and I
+
+was telling them that scientists make predictions and <,>
+<ICE-CAN:S1B-007#313:1:C> So I said well here I have <,> another bottle <,> of water and
+
+they said put red red so I <,> put in red dye <,>
+<ICE-CAN:S1B-007#314:1:C> And then uhm <,> I had oil <,,>
+<ICE-CAN:S1B-007#315:1:C> I said this is oil
+<ICE-CAN:S1B-007#316:1:C> Feel it and we're all touching the oil and <}> <-> we all like
+
+</-> <=> we all like </=> </}> greasy hands and <,> I said do you think the
+
+water and the oil will mix
+<ICE-CAN:S1B-007#317:1:C> Oh yes yes yes
+<ICE-CAN:S1B-007#318:1:C> I said you sure like <,> you won't get water and then a strip of
+
+<,> oil and
+<ICE-CAN:S1B-007#319:1:C> So <}> <-> we made </-> <=> I had </=> </}> a prediction sheet and
+
+I ticked off we said yes they all said yes <O> laugh </O>
+<ICE-CAN:S1B-007#320:1:C> And then <,> I said nobody's saying no you know
+<ICE-CAN:S1B-007#321:1:C> So I didn't put my no I just left it like that <,>
+<ICE-CAN:S1B-007#322:1:C> And then <,> course it <,> didn't mix and then I read them the
+
+book and <,> they had to uh draw oh I've got it with me <O> laugh </O> I'm so
+
+proud of it <&> others laugh </&>
+
+<$C> <ICE-CAN:S1B-007#323:1:C> Well I photocopy everything they do in their bird journal
+
+right <,>
+<ICE-CAN:S1B-007#324:1:C> And so they had to draw <,> the experiment
+<ICE-CAN:S1B-007#325:1:C> Ducks don't get wet because their feathers are covered with oil
+<ICE-CAN:S1B-007#326:1:C> We did a science experiment and discovered that water and oil do
+
+not mix <,>
+
+<$A> <ICE-CAN:S1B-007#327:1:A> Isn't that <{> <[> nice </[>
+
+<$C> <ICE-CAN:S1B-007#328:1:C> <[> Mm <,> </[> </{> and uh <,> of course I had this made up
+
+<O> others laughter starts </O> before the experiment <O> others laughter
+
+ends </O>
+<ICE-CAN:S1B-007#329:1:C> And then this is my picture of our science <,> experiment
+<ICE-CAN:S1B-007#330:1:C> The photocopier <}> <-> kinda </-> <+> kind of </+> </}> cut it
+
+off
+<ICE-CAN:S1B-007#331:1:C> So I had the bottle on the table and they just sat around in a
+
+circle <,>
+<ICE-CAN:S1B-007#332:1:C> Just <{> <[> drawing the bottle </[> and <,>
+
+<$F> <ICE-CAN:S1B-007#333:1:F> <[> That's <?> neat </?> </[> </{>
+
+<$C> <ICE-CAN:S1B-007#334:1:C> So <,> that was <,> <{> <[> really fun </[>
+
+<$A> <ICE-CAN:S1B-007#335:1:A> <[> Let's </[> </{> see the journal
+
+<$A> <ICE-CAN:S1B-007#336:1:A> That's cute
+
+<$C> <ICE-CAN:S1B-007#337:1:C> Oh <,> uhm
+<ICE-CAN:S1B-007#338:1:C> That's <?> mine </?>
+<ICE-CAN:S1B-007#339:1:C> This is a math one that I did
+<ICE-CAN:S1B-007#340:1:C> <,> They just had to <,> count and then write how many
+
+<$A> <ICE-CAN:S1B-007#341:1:A> <}> <-> <.> Y </.> </-> <+> You </+> </}> know what
+<ICE-CAN:S1B-007#342:1:A> You can take <,> these <{> <[> ideas </[> and use <{> <[> them
+
+</[> <,> with any theme
+
+<$B> <ICE-CAN:S1B-007#343:1:B> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-007#344:1:B> <[> <{> <[> Mm hmm </[> </[> </{>
+
+<$C> <ICE-CAN:S1B-007#345:1:C> <[> Mm hmm </[> </{>
+
+<$C> <ICE-CAN:S1B-007#346:1:C> Yeah
+<ICE-CAN:S1B-007#347:1:C> Oh
+<ICE-CAN:S1B-007#348:1:C> Yeah
+<ICE-CAN:S1B-007#349:1:C> And then <,,> oh yes <,,>
+<ICE-CAN:S1B-007#350:1:C> If I could be <,> a bird I would be a <,>
+<ICE-CAN:S1B-007#351:1:C> He said a blue jay and
+<ICE-CAN:S1B-007#352:1:C> He told me
+<ICE-CAN:S1B-007#353:1:C> He didn't feel like writing it down so I tried but <,> he told me
+
+because I like <?> bluejays </?> so I <,> wrote it for him
+<ICE-CAN:S1B-007#354:1:C> And then this is another one <,> where <}> <-> they all </-> <=>
+
+each child </=> </}> had a strip of ten birds
+
+<$A> <ICE-CAN:S1B-007#355:1:A> Mm hmm
+
+<$C> <ICE-CAN:S1B-007#356:1:C> I think you saw this <{> <[> one <unclear> word </unclear>
+
+</[> <?>
+
+<$A> </?>
+<ICE-CAN:S1B-007#357:1:A> <[> Mm hmm </[> </{> </I>

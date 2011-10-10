@@ -1,0 +1,826 @@
+<I>
+
+<$A> <ICE-CAN:S1A-062#1:1:A> Ya
+
+<$B> <ICE-CAN:S1A-062#2:1:B> Whereas now <,> it's much more acceptable for people to change
+
+<{> <[> careers <,> </[> at anytime
+
+<$A> <ICE-CAN:S1A-062#3:1:A> <[> Oh ya </[> </{>
+
+<$B> <ICE-CAN:S1A-062#4:1:B> Go to school at anytime of life
+<ICE-CAN:S1A-062#5:1:B> People don't look at you like <}> <-> you're </-> <=> <{> <[> <,,>
+
+</[> you're </=> </}> nuts
+
+<$A> <ICE-CAN:S1A-062#6:1:A> <[> Right </[> </{>
+<ICE-CAN:S1A-062#7:1:A> Ya <,> but some jobs are becoming obsolete too
+<ICE-CAN:S1A-062#8:1:A> <{> <[> People don't </[> have a choice huh
+
+<$B> <ICE-CAN:S1A-062#9:1:B> <[> Exactly </[> </{>
+<ICE-CAN:S1A-062#10:1:B> That's probably for sure
+
+<$A> <ICE-CAN:S1A-062#11:1:A> And then <{> <[> a lot of women are <,> you know going back
+
+after </[> they have their kids
+
+<$B> <ICE-CAN:S1A-062#12:1:B> <[> Oh ya <,> <?> and changing </?> <,,> <unclear> word
+
+</unclear> that's right </[> </{>
+<ICE-CAN:S1A-062#13:1:B> Ya
+
+<$A> <ICE-CAN:S1A-062#14:1:A> Whereas before they didn't really have the opportunity
+
+<$B> <ICE-CAN:S1A-062#15:1:B> That's right
+<ICE-CAN:S1A-062#16:1:B> And <}> <-> it it's really </-> <=> it is </=> </}> <,> more or
+
+less the opportunity and <}> <-> being </-> <=> <,> becoming </=> </}> more
+
+acceptable
+
+<$A> <ICE-CAN:S1A-062#17:1:A> Right <,> right <,,>
+<ICE-CAN:S1A-062#18:1:A> Yup
+
+<$B> <ICE-CAN:S1A-062#19:1:B> So it's a different changing <{> <[> <,,> world </[>
+
+<$A> <ICE-CAN:S1A-062#20:1:A> <[> Ya
+<ICE-CAN:S1A-062#21:1:A> And people are </[> </{> getting older too
+
+<$B> <ICE-CAN:S1A-062#22:1:B> That's true
+
+<$A> <ICE-CAN:S1A-062#23:1:A> Living <{> <[> longer </[>
+
+<$B> <ICE-CAN:S1A-062#24:1:B> <[> And living </[> </{> longer
+<ICE-CAN:S1A-062#25:1:B> <{> <[> And they're not </[>
+
+<$A> <ICE-CAN:S1A-062#26:1:A> <[> Wanting to do </[> </{> more things huh
+
+<$B> <ICE-CAN:S1A-062#27:1:B> Exactly
+<ICE-CAN:S1A-062#28:1:B> It used to be sixty-five years old and you sat in your rocking
+
+chair
+
+<$A> <ICE-CAN:S1A-062#29:1:A> <{> <[> That's right <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-062#30:1:B> <[> Or at least that's </[> </{> what we thought they did
+
+anyway
+
+<$A> <ICE-CAN:S1A-062#31:1:A> <{> <[> Ya ya </[>
+
+<$B> <ICE-CAN:S1A-062#32:1:B> <[> And now </[> </{> <,,> oh my gosh they just <}> <-> <.> s
+
+</.> </-> <=> <,> start </=> </}> living
+
+<$A> <ICE-CAN:S1A-062#33:1:A> <{> <[> Exactly </[>
+
+<$B> <ICE-CAN:S1A-062#34:1:B> <[> They </[> </{> travel
+<ICE-CAN:S1A-062#35:1:B> I <{1> <[1> mean my </[1> mother is seventy-six years old <,>
+<ICE-CAN:S1A-062#36:1:B> <{2> <[2> and she </[2> <,,> is the <,> tour leader <,>
+<ICE-CAN:S1A-062#37:1:B> <{3> <[3> of the seniors </[3> <,>
+<ICE-CAN:S1A-062#38:1:B> <{4> <[4> <unclear> two words </unclear> </[4>
+
+<$A> <ICE-CAN:S1A-062#39:1:A> <[1> Mhh hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#40:1:A> <[2> Is that right </[2> </{2>
+
+<$A> <ICE-CAN:S1A-062#41:1:A> <[3> Oh you're kidding </[3> </{3>
+
+<$A> <ICE-CAN:S1A-062#42:1:A> <[4> You're kidding </[4> </{4>
+
+<$B> <ICE-CAN:S1A-062#43:1:B> I'm not
+<ICE-CAN:S1A-062#44:1:B> She leads them <{> <[> <,,> </[> on trips
+
+<$A> <ICE-CAN:S1A-062#45:1:A> <[> Really </[> </{>
+
+<$B> <ICE-CAN:S1A-062#46:1:B> Ya
+<ICE-CAN:S1A-062#47:1:B> She takes <,> trips
+<ICE-CAN:S1A-062#48:1:B> She takes them to Florida in the winter
+
+<$A> <ICE-CAN:S1A-062#49:1:A> Oh I should maybe find out about that because maybe my mom
+
+could go <,,>
+<ICE-CAN:S1A-062#50:1:A> If your mom is doing that kind of thing
+<ICE-CAN:S1A-062#51:1:A> Because my mom she needs to meet some <,,> people
+<ICE-CAN:S1A-062#52:1:A> <{> <[> Like <,> older people to go traveling </[> with
+
+<$B> <ICE-CAN:S1A-062#53:1:B> <[> <?> To </?> <&> definitely not 'you' </&> mean to go on
+
+the trip or be on </[> </{>
+<ICE-CAN:S1A-062#54:1:B> But <}> <-> she </-> <=> <{> <[> she </=> </}> isn't here </[>
+
+<$A> <ICE-CAN:S1A-062#55:1:A> <[> To go on a trip </[> </{>
+
+<$B> <ICE-CAN:S1A-062#56:1:B> Your mother <{> <[> isn't here
+<ICE-CAN:S1A-062#57:1:B> She could </[>
+
+<$A> <ICE-CAN:S1A-062#58:1:A> <[> No but I'd bring her here </[> </{> <O> laugh </O> you
+
+know if I knew <{> <[> <,> of something like that
+<ICE-CAN:S1A-062#59:1:A> I'm sure she'd have a ball </[>
+
+<$B> <ICE-CAN:S1A-062#60:1:B> <[> It is <,,> the most <,,> fabulous <,,> </[> </{> fabulous
+
+<,> <{> <[> thing </[> that you could
+
+<$A> <ICE-CAN:S1A-062#61:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-062#62:1:B> It's <,> fabulous
+<ICE-CAN:S1A-062#63:1:B> <}> <-> They go </-> <=> they have </=> </}> the greatest trips
+<ICE-CAN:S1A-062#64:1:B> The day trips
+<ICE-CAN:S1A-062#65:1:B> Two day trips <{> <[> a week </[>
+
+<$A> <ICE-CAN:S1A-062#66:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1A-062#67:1:B> Trips everywhere
+<ICE-CAN:S1A-062#68:1:B> They've all
+<ICE-CAN:S1A-062#69:1:B> And my <{> <[> mother has </[> gone to terrific places
+
+<$A> <ICE-CAN:S1A-062#70:1:A> <[> Right </[> </{>
+
+<$B> <ICE-CAN:S1A-062#71:1:B> <}> <-> She was during </-> <=> <}> <{> <[> <-> in </-> <=> in
+
+</=> </}> </[> the summer </=> </}> she's gone to Saratoga or something for a
+
+day or two
+
+<$A> <ICE-CAN:S1A-062#72:1:A> <[> Great </[> </{>
+<ICE-CAN:S1A-062#73:1:A> Uh huh
+
+<$B> <ICE-CAN:S1A-062#74:1:B> They go to plays
+<ICE-CAN:S1A-062#75:1:B> The <?> Pigory </?>
+
+<$A> <ICE-CAN:S1A-062#76:1:A> Right
+<ICE-CAN:S1A-062#77:1:A> Oh okay okay
+
+<$B> <ICE-CAN:S1A-062#78:1:B> I'm trying to think of
+
+<$A> <ICE-CAN:S1A-062#79:1:A> But do they go for like a week or two weeks <{> <[> or
+
+something like that </[>
+
+<$B> <ICE-CAN:S1A-062#80:1:B> <[> Yes <,> they go for a week </[> </{>
+<ICE-CAN:S1A-062#81:1:B> They go to Washington
+<ICE-CAN:S1A-062#82:1:B> Oh <{> <[> they go </[> <,,> for a month to Florida
+
+<$A> <ICE-CAN:S1A-062#83:1:A> <[> Ya </[> </{>
+<ICE-CAN:S1A-062#84:1:A> Really
+
+<$B> <ICE-CAN:S1A-062#85:1:B> <{1> <[1> You have a choice <,> a month <,> two months <,>
+
+</[1> or
+<ICE-CAN:S1A-062#86:1:B> <{2> <[2> three </[2> months <,,> to Florida
+
+<$A> <ICE-CAN:S1A-062#87:1:A> <[1> Because something like that would be excellent for my mom
+
+</[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#88:1:A> <[2> Ya </[2> </{2>
+
+<$B> <ICE-CAN:S1A-062#89:1:B> <{> <[> <}> <-> You have </-> <=> they have </=> </}>
+
+different options </[>
+
+<$A> <ICE-CAN:S1A-062#90:1:A> <[> Ohh okay </[> </{>
+
+<$B> <ICE-CAN:S1A-062#91:1:B> They <{1> <[1> go to </[1> <,> Arizona <,,>
+<ICE-CAN:S1A-062#92:1:B> <{2> <[2> for a month </[2>
+
+<$A> <ICE-CAN:S1A-062#93:1:A> <[1> Right </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#94:1:A> <[2> Really </[2> </{2>
+
+<$A> <ICE-CAN:S1A-062#95:1:A> Okay
+<ICE-CAN:S1A-062#96:1:A> Oh well I should get some <{> <[> information from you about that
+
+</[>
+
+<$B> <ICE-CAN:S1A-062#97:1:B> <[> <unclear> two words </unclear> ohh </[> </{> it's
+
+<$A> <ICE-CAN:S1A-062#98:1:A> Your mom must have a lot of brochures and things
+<ICE-CAN:S1A-062#99:1:A> <{> <[> It's </[>
+
+<$B> <ICE-CAN:S1A-062#100:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-062#101:1:A> Uh huh
+<ICE-CAN:S1A-062#102:1:A> Or
+
+<$B> <ICE-CAN:S1A-062#103:1:B> And upcoming trips that you're <{> <[> <unclear> word
+
+</unclear> </[>
+
+<$A> <ICE-CAN:S1A-062#104:1:A> <[> Upcoming </[> </{> <{> <[> trips </[>
+
+<$B> <ICE-CAN:S1A-062#105:1:B> <[> I could </[> </{> tell you all the upcoming trips
+
+<$A> <ICE-CAN:S1A-062#106:1:A> Ya
+
+<$B> <ICE-CAN:S1A-062#107:1:B> It's really
+
+<$A> <ICE-CAN:S1A-062#108:1:A> That would make like a good Christmas present or something
+
+like that you know
+
+<$B> <ICE-CAN:S1A-062#109:1:B> But she'd have to come here
+
+<$A> <ICE-CAN:S1A-062#110:1:A> Ya she'd have to come here
+
+<$B> <ICE-CAN:S1A-062#111:1:B> To go with <{> <[> this particular </[> group
+
+<$A> <ICE-CAN:S1A-062#112:1:A> <[> That's <,> okay </[> </{>
+<ICE-CAN:S1A-062#113:1:A> She could <{> <[> come here </[>
+
+<$B> <ICE-CAN:S1A-062#114:1:B> <[> I'm sure they </[> </{> have <,> <w> seniors' </w> groups
+
+<,> where she is
+
+<$A> <ICE-CAN:S1A-062#115:1:A> Ya I know <{> <[> but <}> <-> <.> s </.> </-> <+> she </+>
+
+</}> </[>
+
+<$B> <ICE-CAN:S1A-062#116:1:B> <[> But she </[> </{> wouldn't go unless you gave her the
+
+ticket
+<ICE-CAN:S1A-062#117:1:B> That's right
+<ICE-CAN:S1A-062#118:1:B> You know and <}> <-> I </-> <=> I </=> </}> really think you know
+
+<}> <-> she </-> <=> she </=> </}> wouldn't do it on her own
+
+<$B> <ICE-CAN:S1A-062#119:1:B> Right
+
+<$A> <ICE-CAN:S1A-062#120:1:A> She needs to have somebody organize it for her
+
+<$B> <ICE-CAN:S1A-062#121:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-062#122:1:A> And I think if I <{> <[> organized it for her </[> then she
+
+would probably do it
+
+<$B> <ICE-CAN:S1A-062#123:1:B> <[> Thats right
+<ICE-CAN:S1A-062#124:1:B> Mhh hmm </[> </{>
+<ICE-CAN:S1A-062#125:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-062#126:1:A> You know she's not really much of a person for doing it on
+
+<{> <[> her own </[>
+
+<$B> <ICE-CAN:S1A-062#127:1:B> <[> Mhh hmm </[> </{> mhh hmm
+
+<$A> <ICE-CAN:S1A-062#128:1:A> You know <}> <-> she </-> <=> she </=> </}> has no experience
+
+at doing that kind of <{> <[> stuff </[> right
+
+<$B> <ICE-CAN:S1A-062#129:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-062#130:1:A> So <{> <[> uhm </[>
+
+<$B> <ICE-CAN:S1A-062#131:1:B> <[> That's great </[> </{> because well the trip is all <{1>
+
+<[1> organized </[1> and you go with all <,,> you know
+<ICE-CAN:S1A-062#132:1:B> <{2> <[2> types of people and </[2>
+
+<$A> <ICE-CAN:S1A-062#133:1:A> <[1> Gee </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#134:1:A> <[2> You know
+<ICE-CAN:S1A-062#135:1:A> Ya </[2> </{2> you meet different <{> <[> people <,,> and </[>
+
+<$B> <ICE-CAN:S1A-062#136:1:B> <[> You meet different people
+<ICE-CAN:S1A-062#137:1:B> They </[> </{> take you to show
+
+<$A> <ICE-CAN:S1A-062#138:1:A> <{> <[> That's right </[>
+
+<$B> <ICE-CAN:S1A-062#139:1:B> <[> I mean it's all </[> </{>
+
+<$A> <ICE-CAN:S1A-062#140:1:A> Ya my mom <{1> <[1> needs to </[1> have something <,,> that's
+
+organized
+<ICE-CAN:S1A-062#141:1:A> <{2> <[2> so that </[2> you know she doesn't become confused or
+
+you know she can just
+<ICE-CAN:S1A-062#142:1:A> <{3> <[3> go <,> </[3> and have a good time <}> <->
+<ICE-CAN:S1A-062#143:1:A> <{4> <[4> and <,,> </[4> </-> <=> and </=> </}> they look after
+
+you and
+
+<$B> <ICE-CAN:S1A-062#144:1:B> <[1> So </[1> </{1>
+
+<$B> <ICE-CAN:S1A-062#145:1:B> <[2> Right </[2> </{2>
+
+<$B> <ICE-CAN:S1A-062#146:1:B> <[3> Absolutely </[3> </{3>
+
+<$B> <ICE-CAN:S1A-062#147:1:B> <[4> And they look after you </[4> </{4>
+
+<$B> <ICE-CAN:S1A-062#148:1:B> My mother's the one who <{> <[> looks after </[> the seniors
+
+<$A> <ICE-CAN:S1A-062#149:1:A> <[> That's right </[> </{>
+
+<$B> <ICE-CAN:S1A-062#150:1:B> My <{1> <[1> mother's the </[1>
+<ICE-CAN:S1A-062#151:1:B> <{2> <[2> <unclear> phrase </unclear> </[2>
+
+<$A> <ICE-CAN:S1A-062#152:1:A> <[1> Ya <,> ya ya </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#153:1:A> <[2> But see this would be a </[2> </{2> <,> great role model
+
+for my mom <{> <[> you know <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1A-062#154:1:B> <[> Oh you should see her </[> </{>
+<ICE-CAN:S1A-062#155:1:B> I told her I <}> <-> wanna </-> <+> want to </+> </}> <{> <[> grow
+
+up </[> to be just like her
+
+<$A> <ICE-CAN:S1A-062#156:1:A> <[> I bet </[> </{>
+<ICE-CAN:S1A-062#157:1:A> Gee
+<ICE-CAN:S1A-062#158:1:A> She sounds great
+
+<$B> <ICE-CAN:S1A-062#159:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-062#160:1:A> Wow
+
+<$B> <ICE-CAN:S1A-062#161:1:B> So she <,,> ya <,,>
+<ICE-CAN:S1A-062#162:1:B> Actually she's doing something at Concordia <&> Montreal
+
+university </&> <,> now
+
+<$A> <ICE-CAN:S1A-062#163:1:A> Really
+
+<$B> <ICE-CAN:S1A-062#164:1:B> Ya
+<ICE-CAN:S1A-062#165:1:B> They came
+<ICE-CAN:S1A-062#166:1:B> I can't remember where they came to
+<ICE-CAN:S1A-062#167:1:B> Maybe <}> <-> the <,> </-> <=> one of her </=> </}> Golden Ager
+
+things
+
+<$A> <ICE-CAN:S1A-062#168:1:A> Ya
+
+<$B> <ICE-CAN:S1A-062#169:1:B> See at this <,> place the Golden Ager thing where they have
+
+<{> <[> this trip </[> they have other things too
+
+<$A> <ICE-CAN:S1A-062#170:1:A> <[> Uh huh </[> </{>
+<ICE-CAN:S1A-062#171:1:A> Okay
+
+<$B> <ICE-CAN:S1A-062#172:1:B> They have bridge lessons and
+<ICE-CAN:S1A-062#173:1:B> Besides trips
+<ICE-CAN:S1A-062#174:1:B> <{> <[> This is just </[> one section
+
+<$A> <ICE-CAN:S1A-062#175:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-062#176:1:B> They have bridge lessons and art lessons and
+
+<$A> <ICE-CAN:S1A-062#177:1:A> Mhh hmm <,,>
+
+<$B> <ICE-CAN:S1A-062#178:1:B> All <{> <[> kinds of </[>
+
+<$A> <ICE-CAN:S1A-062#179:1:A> <[> You name it </[> </{>
+
+<$B> <ICE-CAN:S1A-062#180:1:B> You name it
+
+<$A> <ICE-CAN:S1A-062#181:1:A> <{> <[> Mhh hmm </[>
+
+<$B> <ICE-CAN:S1A-062#182:1:B> <[> You can go </[> </{> everyday and participate in some
+
+kind of ah an activity and meet people
+<ICE-CAN:S1A-062#183:1:B> It is
+<ICE-CAN:S1A-062#184:1:B> <}> <-> Talking <}> <-> <.> a </.> </-> <+> about </+> </}> </->
+
+<=> you know we were <{1> <[1> talking about </[1> </=> </}> seniors sitting
+<ICE-CAN:S1A-062#185:1:B> <{2> <[2> home in </[2> their rocking chair
+
+<$A> <ICE-CAN:S1A-062#186:1:A> <[1> Right </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#187:1:A> <[2> Mhh hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1A-062#188:1:A> Right right
+
+<$B> <ICE-CAN:S1A-062#189:1:B> I mean <,> it's phenomenal
+
+<$A> <ICE-CAN:S1A-062#190:1:A> Ya <,,>
+
+<$B> <ICE-CAN:S1A-062#191:1:B> Anyway <}> <-> they <,> <.> tr </.> </-> <=> at Concordia
+
+</=> </}> <{> <[> <,,> </[> <}> <-> they <.> tr </.> </-> <=> <}> <-> they
+
+were </-> <=> some people were </=> </}> trying </=> </}> to organize ah <,>
+
+some sort of a conference on how to <,> get seniors to volunteer
+
+<$A> <ICE-CAN:S1A-062#192:1:A> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-062#193:1:A> Oh okay
+
+<$B> <ICE-CAN:S1A-062#194:1:B> So my <{> <[> mother </[>
+
+<$A> <ICE-CAN:S1A-062#195:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-062#196:1:B> They asked her if she'd like to <{> <[> participate <unclear>
+
+two words </unclear> <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1A-062#197:1:A> <[> So she volunteered <,,> </[> </{>
+
+<$B> <ICE-CAN:S1A-062#198:1:B> To be on this committee <{1> <[1> and </[1> to figure out to
+<ICE-CAN:S1A-062#199:1:B> <{2> <[2> discuss </[2>
+
+<$A> <ICE-CAN:S1A-062#200:1:A> <[1> Ya </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#201:1:A> <[2> Right </[2> </{2>
+
+<$B> <ICE-CAN:S1A-062#202:1:B> It's like a think tank
+
+<$A> <ICE-CAN:S1A-062#203:1:A> Ya
+<ICE-CAN:S1A-062#204:1:A> Gee
+
+<$B> <ICE-CAN:S1A-062#205:1:B> So she goes once a week here
+<ICE-CAN:S1A-062#206:1:B> And they plan
+<ICE-CAN:S1A-062#207:1:B> They decide what they should do
+<ICE-CAN:S1A-062#208:1:B> Who they should send the brochures to
+<ICE-CAN:S1A-062#209:1:B> Should they <}> <=> <{> <[> get <,> </[> </=> <-> or </-> </}> the
+
+radio programs
+
+<$A> <ICE-CAN:S1A-062#210:1:A> <[> Uh huh </[> </{>
+
+<$B> <ICE-CAN:S1A-062#211:1:B> You know how should they reach the <{> <[> seniors </[>
+
+<$A> <ICE-CAN:S1A-062#212:1:A> <[> Right </[> </{>
+
+<$B> <ICE-CAN:S1A-062#213:1:B> How <,> should they get the seniors to know
+
+<$A> <ICE-CAN:S1A-062#214:1:A> <{> <[> That's right </[>
+
+<$B> <ICE-CAN:S1A-062#215:1:B> <[> If like </[> </{> your mother if you were to tell your
+
+mother you know if you wanted you could come <,> once a week and help in the
+
+cafeteria
+<ICE-CAN:S1A-062#216:1:B> Maybe she could <{> <[> do that </[>
+
+<$A> <ICE-CAN:S1A-062#217:1:A> <[> That's right </[> </{>
+
+<$B> <ICE-CAN:S1A-062#218:1:B> She <{1> <[1> could serve </[1> the soup or
+<ICE-CAN:S1A-062#219:1:B> <{2> <[2> something </[2>
+
+<$A> <ICE-CAN:S1A-062#220:1:A> <[1> That's right </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#221:1:A> <[2> Right </[2> </{2> right
+
+<$B> <ICE-CAN:S1A-062#222:1:B> Would you like to volunteer <}> <-> and </-> <=> and </=>
+
+</}> serve <{> <[> you know </[>
+
+<$A> <ICE-CAN:S1A-062#223:1:A> <[> Mhh hmm </[> </{>
+
+<$B> <ICE-CAN:S1A-062#224:1:B> People <,> do that
+
+<$A> <ICE-CAN:S1A-062#225:1:A> Right right
+
+<$B> <ICE-CAN:S1A-062#226:1:B> And that makes you come every day
+<ICE-CAN:S1A-062#227:1:B> <{> <[> It's more challenge <unclear> word </unclear> meet </[>
+
+people
+
+<$A> <ICE-CAN:S1A-062#228:1:A> <[> That's right <,> that's right </[> </{>
+
+<$B> <ICE-CAN:S1A-062#229:1:B> Maybe you'll sit down after and have coffee with somebody
+
+that <{> <[> you </[>
+
+<$A> <ICE-CAN:S1A-062#230:1:A> <[> That's </[> </{> right
+<ICE-CAN:S1A-062#231:1:A> Ya
+
+<$B> <ICE-CAN:S1A-062#232:1:B> So how do you figure out
+<ICE-CAN:S1A-062#233:1:B> How do you get the seniors <,> to find out <,> about what they can
+
+volunteer in and
+
+<$A> <ICE-CAN:S1A-062#234:1:A> Right right
+
+<$B> <ICE-CAN:S1A-062#235:1:B> My mother's amazing
+<ICE-CAN:S1A-062#236:1:B> She goes bowling once a week
+<ICE-CAN:S1A-062#237:1:B> She plays bridge once a week
+<ICE-CAN:S1A-062#238:1:B> <{> <[> She </[> plays cards one night a week
+
+<$A> <ICE-CAN:S1A-062#239:1:A> <[> Sh </[> </{>
+
+<$B> <ICE-CAN:S1A-062#240:1:B> Plus she goes to this Golden Ager the Tour and Travel that
+
+she works at <{> <[> this </[>
+
+<$A> <ICE-CAN:S1A-062#241:1:A> <[> Ya </[> </{>
+<ICE-CAN:S1A-062#242:1:A> Well I'm interested in this Tour and Travel because I would really
+
+like my mom to go on a nice trip <{1> <[1> <,> and meet people </[1> you know
+
+like older people around her
+<ICE-CAN:S1A-062#243:1:A> <{2> <[2> own age </[2> and do things <,> with them and you know
+
+do things <,,> with them and you know be kind of looked after
+
+<$B> <ICE-CAN:S1A-062#244:1:B> <[1> <unclear> phrase </unclear> </[1> </{1>
+
+<$B> <ICE-CAN:S1A-062#245:1:B> <[2> Right </[2> </{2> ?
+
+<$A> <ICE-CAN:S1A-062#246:1:A> <{> <[> Because <}> <-> she's </[> </-> <=> she's </=> </}>
+
+not used to it
+
+<$B> <ICE-CAN:S1A-062#247:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-062#248:1:A> She <{> <[> uh </[>
+
+<$B> <ICE-CAN:S1A-062#249:1:B> <[> They </[> </{> really are looked after
+
+<$A> <ICE-CAN:S1A-062#250:1:A> Ya
+<ICE-CAN:S1A-062#251:1:A> Cos I took her to Hawaii with me once uh
+<ICE-CAN:S1A-062#252:1:A> With <@> Michael </@> and I
+<ICE-CAN:S1A-062#253:1:A> We went together
+
+<$B> <ICE-CAN:S1A-062#254:1:B> Wow
+
+<$A> <ICE-CAN:S1A-062#255:1:A> But for her I don't think it was that much fun
+
+<$B> <ICE-CAN:S1A-062#256:1:B> No
+
+<$A> <ICE-CAN:S1A-062#257:1:A> Because it was like we were <{> <[> babysitting her </[> kind
+
+of thing
+
+<$B> <ICE-CAN:S1A-062#258:1:B> <[> That's right </[> </{>
+<ICE-CAN:S1A-062#259:1:B> No she would rather be <}> <-> people </-> <=> <{> <[> with people
+
+</[> </=> </}>
+
+<$A> <ICE-CAN:S1A-062#260:1:A> <[> She would rather </[> </{> be with I think <}> <-> a </->
+
+<=> a </=> </}> big group of people and be able to talk to a lots of <{1>
+
+<[1> people and </[1> have some fun and dance and
+<ICE-CAN:S1A-062#261:1:A> <{2> <[2> I don't know </[2> play uh
+<ICE-CAN:S1A-062#262:1:A> <{3> <[3> cards </[3> or you know whatever they do
+
+<$B> <ICE-CAN:S1A-062#263:1:B> <[1> Absolutely </[1> </{1>
+
+<$B> <ICE-CAN:S1A-062#264:1:B> <[2> Of course </[2> </{2>
+
+<$B> <ICE-CAN:S1A-062#265:1:B> <[3> Ya </[3> </{3>
+
+<$B> <ICE-CAN:S1A-062#266:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-062#267:1:A> But with us it was kind of like
+<ICE-CAN:S1A-062#268:1:A> <}> <-> And </-> <=> and </=> </}> she even told me she <}> <->
+
+kinda </-> <+> kind of </+> </}> felt like she was a third wheel
+<ICE-CAN:S1A-062#269:1:A> <{> <[> You know </[> me
+
+<$B> <ICE-CAN:S1A-062#270:1:B> <[> Absolutely </[> </{>
+<ICE-CAN:S1A-062#271:1:B> <}> <-> I </-> <=> I </=> </}> <,> don't blame her
+
+<$A> <ICE-CAN:S1A-062#272:1:A> <{> <[> You know </[>
+
+<$B> <ICE-CAN:S1A-062#273:1:B> <[> And it's <}> <-> and it's </[> it's </{> </-> <=> it's
+
+</=> </}> normal
+<ICE-CAN:S1A-062#274:1:B> <}> <{> <[> <-> It's </-> <=> it's </=> </}> <unclear> word
+
+</unclear> </[>
+
+<$A> <ICE-CAN:S1A-062#275:1:A> <[> Even though <}> <-> we </-> <=> we </=> </}> </[> </{>
+
+did <}> <-> what we </-> <=> what we </=> </}> could to make her feel <{> <[>
+
+good </[>
+
+<$B> <ICE-CAN:S1A-062#276:1:B> <[> I know </[> </{> <{> <[> but </[>
+
+<$A> <ICE-CAN:S1A-062#277:1:A> <[> You </[> </{> know we went out for dinner and <,> <{> <[>
+
+little tours and stuff you know but </[>
+
+<$B> <ICE-CAN:S1A-062#278:1:B> <[> It isn't even anybody's fault
+<ICE-CAN:S1A-062#279:1:B> You should </[> </{> be with your own friends
+
+<$A> <ICE-CAN:S1A-062#280:1:A> Ya
+
+<$B> <ICE-CAN:S1A-062#281:1:B> I don't <}> <-> wanna </-> <+> want to </+> </}> go with my
+
+<{> <[> mother </[> even though my mother's terrific
+
+<$A> <ICE-CAN:S1A-062#282:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1A-062#283:1:B> <}> <-> I don't want <{> <[> her </[> her </-> <=> I don't
+
+want to go with her </=> </}>
+
+<$A> <ICE-CAN:S1A-062#284:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1A-062#285:1:B> I don't want her to come with me
+
+<$A> <ICE-CAN:S1A-062#286:1:A> Right
+
+<$B> <ICE-CAN:S1A-062#287:1:B> Let her go with her friends <{> <[> <,,> </[> and I go with
+
+my friends
+
+<$A> <ICE-CAN:S1A-062#288:1:A> <[> Right </[> </{>
+
+<$B> <ICE-CAN:S1A-062#289:1:B> <{> <[> And that's the way </[> it's supposed to be
+
+<$A> <ICE-CAN:S1A-062#290:1:A> <[> Exactly </[> </{>
+
+<$B> <ICE-CAN:S1A-062#291:1:B> As a matter of fact I have a friend <,,> who brings her
+
+mother everywhere with her
+
+<$A> <ICE-CAN:S1A-062#292:1:A> Oh no <O> laugh </O>
+
+<$B> <ICE-CAN:S1A-062#293:1:B> So there you go <{> <[> you know </[>
+
+<$A> <ICE-CAN:S1A-062#294:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1A-062#295:1:B> We don't like
+<ICE-CAN:S1A-062#296:1:B> Like the <{1> <[1> people </[1> we go out for supper <,,> six <}>
+
+<-> <.> coup </.> </-> <+> couples </+> </}>
+<ICE-CAN:S1A-062#297:1:B> <{2> <[2> three couples </[2> <,> or whatever and <}> <-> she </->
+
+<=> her mother </=> </}> comes
+<ICE-CAN:S1A-062#298:1:B> <{3> <[3> all the </[3> time
+
+<$A> <ICE-CAN:S1A-062#299:1:A> <[1> No </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#300:1:A> <[2> Mhh </[2> </{2>
+
+<$A> <ICE-CAN:S1A-062#301:1:A> <[3> Really </[3> </{3>
+
+<$B> <ICE-CAN:S1A-062#302:1:B> And all everyone says <,,> you know rolling the eyes and <{>
+
+<[> <unclear> two words </unclear> no </[> she's bringing her mother
+
+<$A> <ICE-CAN:S1A-062#303:1:A> <[> Oh ya </[> </{>
+
+<$B> <ICE-CAN:S1A-062#304:1:B> And then I tell myself like why <,> does it bother me
+
+<$A> <ICE-CAN:S1A-062#305:1:A> <{> <[> Uh huh </[>
+
+<$B> <ICE-CAN:S1A-062#306:1:B> <}> <-> <[> I I </[> </{> </-> <=> <,> we </=> </}> have
+
+discussed <{1> <[1> this <,> </[1> with
+<ICE-CAN:S1A-062#307:1:B> <{2> <[2> myself </[2>
+
+<$A> <ICE-CAN:S1A-062#308:1:A> <[1> Uh huh </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#309:1:A> <[2> Oh </[2> </{2> I see
+
+<$A> <ICE-CAN:S1A-062#310:1:A> Okay
+
+<$B> <ICE-CAN:S1A-062#311:1:B> Right
+
+<$A> <ICE-CAN:S1A-062#312:1:A> Right
+
+<$B> <ICE-CAN:S1A-062#313:1:B> When you think about it logically <}> <-> why </-> <=> <,>
+
+why </=> </}> does it bother me
+<ICE-CAN:S1A-062#314:1:B> I don't care if <,> she brings her mother really <{> <[> when you
+
+think about it </[>
+
+<$A> <ICE-CAN:S1A-062#315:1:A> <[> Really <,,> ya </[> </{>
+
+<$B> <ICE-CAN:S1A-062#316:1:B> Why should I care
+
+<$A> <ICE-CAN:S1A-062#317:1:A> Mhh hmm
+
+<$B> <ICE-CAN:S1A-062#318:1:B> But you know what <}> <-> people don't <}> <-> <.> li </.>
+
+</-> <+> like </+> </}> </-> <=> the other couples don't like </=> </}> it
+
+<$A> <ICE-CAN:S1A-062#319:1:A> The other couples don't like it either
+
+<$B> <ICE-CAN:S1A-062#320:1:B> No <{> <[> no </[>
+
+<$A> <ICE-CAN:S1A-062#321:1:A> <[> It's not </[> </{> just you
+
+<$B> <ICE-CAN:S1A-062#322:1:B> It isn't just me
+<ICE-CAN:S1A-062#323:1:B> Nobody likes it
+
+<$A> <ICE-CAN:S1A-062#324:1:A> <{> <[> No </[>
+
+<$B> <ICE-CAN:S1A-062#325:1:B> <[> And </[> </{> I know
+<ICE-CAN:S1A-062#326:1:B> I've discussed it with some of the others
+<ICE-CAN:S1A-062#327:1:B> They don't even know <{> <[> <,,> </[> why they don't like it
+
+<$A> <ICE-CAN:S1A-062#328:1:A> <[> Why </[> </{>
+
+<$B> <ICE-CAN:S1A-062#329:1:B> You know you don't mind if you bring your mother once
+
+<$A> <ICE-CAN:S1A-062#330:1:A> Ya <,> <{> <[> sometimes or once in a while </[>
+
+<$B> <ICE-CAN:S1A-062#331:1:B> <[> And she's <unclear> word </unclear> nice </[> </{> <{>
+
+<[> <,> </[> or whatever
+
+<$A> <ICE-CAN:S1A-062#332:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1A-062#333:1:B> <}> <-> I I can't still can't put it </-> <=> I can't
+
+verbalize </=> </}> what it is that bothers me
+<ICE-CAN:S1A-062#334:1:B> <}> <-> <?> They </?> <unclear> word </unclear> </-> <=> you have
+
+to be with your own friends </=> </}>
+
+<$A> <ICE-CAN:S1A-062#335:1:A> Ya
+
+<$B> <ICE-CAN:S1A-062#336:1:B> <{> <[> She's nice </[>
+
+<$A> <ICE-CAN:S1A-062#337:1:A> <[> Well I think </[> </{> there's something in that
+<ICE-CAN:S1A-062#338:1:A> You know that you know <{> <[> <}> <-> you </-> <=> you </=> </}>
+
+</[>
+
+<$B> <ICE-CAN:S1A-062#339:1:B> <[> And I don't </[> </{> want her with us
+
+<$A> <ICE-CAN:S1A-062#340:1:A> Ya
+
+<$B> <ICE-CAN:S1A-062#341:1:B> <}> <-> I </-> <=> I </=> </}> don't <}> <-> wanna </-> <+>
+
+want to </+> </}> talk to her
+<ICE-CAN:S1A-062#342:1:B> Maybe that's another thing
+<ICE-CAN:S1A-062#343:1:B> I <}> <-> wanna </-> <+> want to </+> </}> talk to my friends so
+
+<}> <-> she'll sit </-> <=> if she sits </=> </}> beside I end up <,,> having
+
+to talk to her and I don't really have that much in common with her
+<ICE-CAN:S1A-062#344:1:B> Maybe <{> <[> that's </[>
+
+<$A> <ICE-CAN:S1A-062#345:1:A> <[> Maybe </[> </{> you don't know her really
+
+<$B> <ICE-CAN:S1A-062#346:1:B> I do
+
+<$A> <ICE-CAN:S1A-062#347:1:A> You know your friends
+
+<$B> <ICE-CAN:S1A-062#348:1:B> I do <{> <[> know her </[>
+
+<$A> <ICE-CAN:S1A-062#349:1:A> <[> Oh you </[> </{> do
+<ICE-CAN:S1A-062#350:1:A> Oh <{> <[> okay </[>
+
+<$B> <ICE-CAN:S1A-062#351:1:B> <[> She </[> </{> comes with us all the time
+
+<$A> <ICE-CAN:S1A-062#352:1:A> Oh <O> laugh </O> okay
+
+<$B> <ICE-CAN:S1A-062#353:1:B> But I don't <{> <[> but </[>
+
+<$A> <ICE-CAN:S1A-062#354:1:A> <[> But </[> </{> maybe she's not your choice of a friend
+
+<$B> <ICE-CAN:S1A-062#355:1:B> That's it
+<ICE-CAN:S1A-062#356:1:B> Exactly
+
+<$A> <ICE-CAN:S1A-062#357:1:A> Hmm <{> <[> <,,> ya <,,> </[> maybe <,,>
+
+<$B> <ICE-CAN:S1A-062#358:1:B> <[> That must be it </[> </{>
+
+<$A> <ICE-CAN:S1A-062#359:1:A> Ya
+
+<$B> <ICE-CAN:S1A-062#360:1:B> But it's interesting
+<ICE-CAN:S1A-062#361:1:B> So even you know <}> <-> you talk about </-> <=> <,,> you try to
+
+<{1> <[1> make <,> </[1> her </=> </}> <.> f </.> you know your mother feel
+
+comfortable and
+<ICE-CAN:S1A-062#362:1:B> <{2> <[2> here </[2> <,> her daughter tries to make her part of
+
+the group part
+
+<$A> <ICE-CAN:S1A-062#363:1:A> <[1> Right </[1> </{1>
+
+<$A> <ICE-CAN:S1A-062#364:1:A> <[2> Ya </[2> </{2>
+
+<$B> <ICE-CAN:S1A-062#365:1:B> She's not part of the group
+
+<$A> <ICE-CAN:S1A-062#366:1:A> No no
+<ICE-CAN:S1A-062#367:1:A> No because <{1> <[1> when we </[1> went to
+<ICE-CAN:S1A-062#368:1:A> <{2> <[2> Hawaii </[2> <,> you know <}> <-> <}> <-> I </-> <=> I
+
+</=> </}> felt </-> <=> ya she didn't feel </=> </}> <,>
+<ICE-CAN:S1A-062#369:1:A> <{3> <[3> that comfortable </[3>
+
+<$B> <ICE-CAN:S1A-062#370:1:B> <[1> I have </[1> </{1>
+
+<$B> <ICE-CAN:S1A-062#371:1:B> <[2> It's </[2> </{2>
+
+<$B> <ICE-CAN:S1A-062#372:1:B> <[3> I'm going to have <}> <-> my </[3> </{3> </-> <=> <{>
+
+<[> <,,> my </=> </}> supper </[>
+
+<$A> <ICE-CAN:S1A-062#373:1:A> <[> Oh ya go ahead </[> </{>
+<ICE-CAN:S1A-062#374:1:A> Ya go ahead
+
+<$B> <ICE-CAN:S1A-062#375:1:B> No
+
+<$A> <ICE-CAN:S1A-062#376:1:A> But she didn't feel that <{> <[> comfortable </[>
+
+<$B> <ICE-CAN:S1A-062#377:1:B> <[> No </[> </{>
+
+<$A> <ICE-CAN:S1A-062#378:1:A> And then <,> you know my husband you know he kind of said
+
+well <,> you know next time <,> we're not going to <O> laugh </O> take your
+
+mother </I>

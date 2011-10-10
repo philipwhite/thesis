@@ -1,3 +1,32 @@
+9 Oct '11
+Finish an initial version of the arguments/lexical NP based classifier. Code is in arguments.clj and train_arguments.clj.
+T-test results show significant difference between the following argument configurations, with the shown language having the greater frequency. (alpha = 0.05)
+s  -->  ES
+S  -->  EN
+ao  -->  ES
+aO  -->  ES
+Ao  -->  ES
+AO  -->  EN
+aiO  -->  ES
+aoC  -->  ES
+aOC  -->  ES
+AOC  -->  EN
+p  -->  ES
+P  -->  EN
+pC  -->  ES
+
+More detailed results in log-addendum-005.txt
+
+7 Oct '11
+Most recently added some en samples from ICE and merged some of the wricle samples to more equalize the sample count. Also got good results with random forest with n=100. Will now begin verb valency test (see Sep 11 note).
+
+Useful terms:valency expansion, valency reduction, avalent, monovalent, divalent, trivalent
+
+5 Oct '11
+Note to self:
+Consider phrasal verbs. Do Spanish speakers separate phrasal verbs? e.g. "He chewed the food up".
+But also consider "That is something he won't put up with."
+
 25 Sep '11
 Added functions to the 'train-verbs' and 'verb' namespaces to allow
 classification by modal relative frequency and also by high-frequency verb
@@ -255,7 +284,7 @@ attempt at a classifications system. In other words, for a text just
 count the number of each relation it has and see if that gives the
 classifier something to work with.
 
-Relevent Works:
+Relevant Works:
 -For the PCFG parser: Dan Klein and Christopher
 D. Manning. 2003. Accurate Unlexicalized Parsing. Proceedings of the
 41st Meeting of the Association for Computational Linguistics,

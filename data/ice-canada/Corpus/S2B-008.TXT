@@ -1,0 +1,385 @@
+<I>
+
+<$A> <ICE-CAN:S2B-008#1:1:A> Good afternoon
+<ICE-CAN:S2B-008#2:1:A> Here's the C B C four thirty news
+<ICE-CAN:S2B-008#3:1:A> The owners of the Quebec Nordiques <&> The Nordiques are a
+
+professional hockey team </&> say he province hasn't offered the kind of help
+
+needed to keep the team in Quebec City
+<ICE-CAN:S2B-008#4:1:A> President <@> Daniel Marchand </@> says the owners unanimously
+
+decided the team has to be sold
+<ICE-CAN:S2B-008#5:1:A> <@> Ron Smith </@> reports
+
+<$B> <ICE-CAN:S2B-008#6:1:B> The Nordiques may never play again in Quebec City
+<ICE-CAN:S2B-008#7:1:B> The team faces elimination in New York City in game six of its
+
+playoff round against the Rangers <,,> and team owners say <,> they've
+
+decided the climate just isn't right to keep the team in Quebec City <O>
+
+Speech in French </O>
+<ICE-CAN:S2B-008#8:1:B> Today in the National Assembly Premier Parizeau tabled the offer his
+
+government made to keep the team
+<ICE-CAN:S2B-008#9:1:B> The province is willing to cover up to twenty-one million dollars in
+
+team losses over the next three years
+<ICE-CAN:S2B-008#10:1:B> In the meantime Quebec would study whether the team really needs a
+
+new twenty-thousand seat coliseum
+<ICE-CAN:S2B-008#11:1:B> Team owner <@> Daniel Marchand </@> says <quote> that's not enough
+
+</quote>
+<ICE-CAN:S2B-008#12:1:B> <@> Marchand </@> wants the new hockey rink built right away <,>
+
+and in that arena <,> he wants a government-run casino that would dedicate
+
+its earnings to support the team
+<ICE-CAN:S2B-008#13:1:B> That way <,> he says the Nordiques would be able to guarantee
+
+they'll stay in Quebec City
+<ICE-CAN:S2B-008#14:1:B> And he says the owners have voted unanimously to go if they don't
+
+get what they want
+<ICE-CAN:S2B-008#15:1:B> The Nordiques could be knocked out of the play-offs tonight <,> but
+
+the negotiations with the government are likely to go into overtime
+<ICE-CAN:S2B-008#16:1:B> The team president has asked to meet the Premier <,> to make one
+
+last plea for government money for the team
+<ICE-CAN:S2B-008#17:1:B> <@> Ron Smith </@> C B C <&> Canadian Broadcasting Corp. </&> news
+
+<,> Quebec City
+
+<$A> <ICE-CAN:S2B-008#18:1:A> Now the owner of <indig> Les Nordiques </indig> <@> Daniel
+
+Marchand </@> is in New York
+<ICE-CAN:S2B-008#19:1:A> But <@> Leona Davis </@> has spoken to a team representative
+<ICE-CAN:S2B-008#20:1:A> She is on the line with us
+<ICE-CAN:S2B-008#21:1:A> <@> Leona </@>
+
+<$C> <ICE-CAN:S2B-008#22:1:C> Yes hi <@> Bill </@> uhm
+<ICE-CAN:S2B-008#23:1:C> I spoke with <@> John Letourneau </@> who's a spokesman for the
+
+team here in Quebec City
+
+<$A> <ICE-CAN:S2B-008#24:1:A> Uhm hmm
+
+<$C> <ICE-CAN:S2B-008#25:1:C> And he wouldn't say that it was game over as far as
+
+negotiations but he really talks <}> <-> as though </-> <=> in terms of </=>
+
+</}> the very slimmest opening
+<ICE-CAN:S2B-008#26:1:C> And it all hinges on that meeting between <@> Daniel Marchand </@>
+
+the president of the Nordiques and Jacques Parizeau where they would discuss
+
+this question of the casino
+<ICE-CAN:S2B-008#27:1:C> Now Jacques Parizeau has said no in two ways
+<ICE-CAN:S2B-008#28:1:C> He has said first of all that <}> <-> the </-> <=> the </=> </}>
+
+matter of the casino is not his alone to decide but it's a government
+
+decision
+<ICE-CAN:S2B-008#29:1:C> And he's also said that he has mandated <@> Joel Tessier </@> uhm
+
+to be a negotiator in this affair and so he sees no need to meet directly
+
+with <@> Marchand </@> on this sort of question
+<ICE-CAN:S2B-008#30:1:C> So this looks very much as though things are going down the <}> <->
+
+train </-> <=> drain </=> </}> on that
+<ICE-CAN:S2B-008#31:1:C> And <@> Letourneau </@> says that this offer from the government
+
+was clearly insufficient
+<ICE-CAN:S2B-008#32:1:C> He reiterated their three demands which is the new arena <,> uhm
+
+secondly uh help in covering the uh interim financing for the team while
+
+there is construction of that new arena
+<ICE-CAN:S2B-008#33:1:C> <}> <-> There </-> <=> Its </=> </}> deficit could be <,> ten or
+
+twelve million over the next two years and he says that would sink the team
+
+<}> <-> if it </-> <=> if it </=> </}> isn't covered
+<ICE-CAN:S2B-008#34:1:C> They would go bankrupt
+<ICE-CAN:S2B-008#35:1:C> And then also the question of long-term financing through something
+
+like the casino
+<ICE-CAN:S2B-008#36:1:C> And <@> Letourneau </@> says they have gathered seventy-five
+
+thousand signatures on a petition that <?> they'll </?> be handed in to the
+
+National Assembly tomorrow <,> and he says that's proof enough that those'd
+
+be the kind of people who'd be paying money at the casino to help support the
+
+Nordiques <,> and so the government should be uh getting behind that sort of
+
+will
+
+<$A> <ICE-CAN:S2B-008#37:1:A> So we wait and see then <@> Leona </@>
+<ICE-CAN:S2B-008#38:1:A> Thank you very much
+
+<$C> <ICE-CAN:S2B-008#39:1:C> You're welcome
+
+<$A> <ICE-CAN:S2B-008#40:1:A> The Mont <unclear> word </unclear> regional health board has
+
+announced its own set of cuts for the next three years
+<ICE-CAN:S2B-008#41:1:A> They're chopping their budget by about five million dollars <,>
+
+shifting money away from hospitals towards ambulatory care
+<ICE-CAN:S2B-008#42:1:A> <@> Melissa Pettifer </@> has more
+
+<$D> <ICE-CAN:S2B-008#43:1:D> The cuts to the health care budget for the area south of
+
+Montreal are not as serious as the ones on the island
+<ICE-CAN:S2B-008#44:1:D> With a population of one point three million people the Mont
+
+<unclear> word </unclear> works with a budget of just under a billion dollars
+<ICE-CAN:S2B-008#45:1:D> Now they need to cut a net amount of five million dollars
+<ICE-CAN:S2B-008#46:1:D> Investing in the prevention and promotion of health is their main
+
+goal <,> and like Montreal they're veering towards ambulatory care by
+
+investing fifteen million in outpatient care
+<ICE-CAN:S2B-008#47:1:D> That's the upside
+<ICE-CAN:S2B-008#48:1:D> The downside is the board will close two hundred acute care beds
+
+<,> and one hundred people will lose their jobs over the next three years
+<ICE-CAN:S2B-008#49:1:D> <@> Henri Gagnon </@> is director general of the board
+<ICE-CAN:S2B-008#50:1:D> He says in deciding who gets what money <,> their goal was to
+
+establish no quality of services throughout the system <,> and to reward
+
+efficiency
+
+<$E> <ICE-CAN:S2B-008#51:1:E> We can say who has uh work to do to <,> uh to obtain the
+
+objectives that we have set
+<ICE-CAN:S2B-008#52:1:E> We will want to uhm uh make sure that the good managers <,> uh come
+
+out the winners in this kind of an approach
+
+<$D> <ICE-CAN:S2B-008#53:1:D> The health board will work with a variety of partners
+
+including <?> C L S Cs </?> <&> centre local de services communautaires </&>
+
+school boards <,> and other ministries to implement the cuts
+<ICE-CAN:S2B-008#54:1:D> <@> Melissa Pettifer </@> C B C news <,> Longueuil
+
+<$A> <ICE-CAN:S2B-008#55:1:A> Quebec's health minister Jean Rochon says the equivalent of
+
+two thousand more hospital beds will be available for elderly patients
+
+needing long-term care
+<ICE-CAN:S2B-008#56:1:A> Half the spaces will be created by transforming existing facilities
+<ICE-CAN:S2B-008#57:1:A> The other half will require new construction by nineteen
+
+ninety-seven
+<ICE-CAN:S2B-008#58:1:A> Rochon says this plan should help people understand his aim is not
+
+simply to shut down hospitals
+
+<$F> <ICE-CAN:S2B-008#59:1:F> The real exercise which is going to be on is that we are
+
+redeploying redeveloping part of our system <}> <-> to </-> <=> to </=> </}>
+
+make a modern system out of it
+<ICE-CAN:S2B-008#60:1:F> We have a very good system
+<ICE-CAN:S2B-008#61:1:F> But if we leave it <,> as it is and go like that <,> over the next
+
+five years we will have <}> <-> an </-> <=> a </=> </}> downgraded system
+
+because we will not spend the money in the kind of services that are most
+
+needed <}> <-> for </-> <=> by </=> </}> the population </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-008#62:2:A> Canada at five
+<ICE-CAN:S2B-008#63:2:A> Good afternoon
+<ICE-CAN:S2B-008#64:2:A> I'm <@> Linda Clark </@>
+<ICE-CAN:S2B-008#65:2:A> The president of the Quebec Nordiques say the owners have decided
+
+that the team has to be sold
+<ICE-CAN:S2B-008#66:2:A> <@> Daniel Marchand </@> says the Quebec government has not made an
+
+offer that is good enough to keep the N H L <&> National Hockey League </&>
+
+team in Quebec City
+<ICE-CAN:S2B-008#67:2:A> The province had said it was willing to cover up to twenty-one
+
+million dollars in team losses for the next three years
+<ICE-CAN:S2B-008#68:2:A> In the meantime it would study whether the team needs a new twenty
+
+thousand seat arena
+<ICE-CAN:S2B-008#69:2:A> But <@> Marchand </@> says that isn't enough
+<ICE-CAN:S2B-008#70:2:A> The Nordiques want the new arena built right away <,> and the
+
+owners want a casino included in the building with all the profits going to
+
+the team
+<ICE-CAN:S2B-008#71:2:A> <@> Marchand </@> has asked to meet with Premier Parizeau in a
+
+final bid <}> <-> to come up </-> <=> to come to </=> </}> a deal <,> to keep
+
+the team in Quebec City
+<ICE-CAN:S2B-008#72:2:A> The Conservative majority in the Senate <,> says the
+
+Chr&eacute;tien government is moving in the right direction <,> but the
+
+Tories are being coy about whether they'll end their opposition to Bill C
+
+twenty-two
+<ICE-CAN:S2B-008#73:2:A> That's the legislation that will kill the agreement to privatize
+
+Pearson airport
+<ICE-CAN:S2B-008#74:2:A> The Tory senators have been stonewalling the bill because they say
+
+it restricts the airport developers from suing for damages
+<ICE-CAN:S2B-008#75:2:A> In a bid to break the stalemate <,> the government has agreed to
+
+certain changes in the legislation
+<ICE-CAN:S2B-008#76:2:A> But even with the proposed amendments <,> the Conservative leader
+
+in the Senate says the bill still denies the developers rights enjoyed by
+
+convicted criminals
+<ICE-CAN:S2B-008#77:2:A> <@> Adam Carter </@> reports
+
+<$B> <ICE-CAN:S2B-008#78:2:B> Justice minister Alan Rock went before a Senate committee
+
+today in an effort to persuade his Tory critics that the government
+
+acknowledges that the Pearson bill has its flaws <,> and is trying to improve
+
+it
+
+<$C> <ICE-CAN:S2B-008#79:2:C> People can't get the code after June thirtieth
+<ICE-CAN:S2B-008#80:2:C> Here's a change that'll allow them to do so
+<ICE-CAN:S2B-008#81:2:C> People can't recover expenses incurred after June thirtieth
+<ICE-CAN:S2B-008#82:2:C> Here's a change that'll allow them to do so
+<ICE-CAN:S2B-008#83:2:C> You think there should be actions for defamation
+<ICE-CAN:S2B-008#84:2:C> Help yourself
+<ICE-CAN:S2B-008#85:2:C> Those are the changes
+
+<$B> <ICE-CAN:S2B-008#86:2:B> But Rock stood firm on the government's policy not to
+
+compensate the developers for lobbying fees <,> or for lost profits because
+
+the Pearson contract is not going ahead
+
+<$D> <ICE-CAN:S2B-008#87:2:D> This is a horrendous piece of legislation
+
+<$A> <ICE-CAN:S2B-008#88:2:A> John Lynch Staunton is the Tory leader in the Senate
+<ICE-CAN:S2B-008#89:2:A> He says even with Rock's proposed changes <,> the bill is still
+
+discriminatory and punitive
+
+<$D> <ICE-CAN:S2B-008#90:2:D> In Canada <,> we allow serial murderers <,> we allow convicted
+
+rapists <,> we allow repeat offenders <,> we allow petty thieves <,> the full
+
+protection of the court system <,> and the full protection of the law
+<ICE-CAN:S2B-008#91:2:D> And in this unprecedented piece of legislation <,> full access to
+
+the courts <,> is still being denied them <,> under these amendments
+
+<$A> <ICE-CAN:S2B-008#92:2:A> Outside the committee though <,> Lynch Staunton admitted that
+
+with the proposed amendments <,> the government is moving to satisfy some of
+
+the legal and constitutional objections to the Pearson bill
+<ICE-CAN:S2B-008#93:2:A> But he says the Tories will wait until they have heard from legal
+
+experts <,> before they decide whether to end their ten month long campaign
+
+against the legislation <,> and finally allow it to pass
+<ICE-CAN:S2B-008#94:2:A> <@> Adam Carter </@> C B C news <,> Ottawa
+
+<$A> <ICE-CAN:S2B-008#95:2:A> The head of the C R T C <&> Canadian Radio-Television and
+
+Telecommunications Commission </&> says he has an idea that would help
+
+Canadians better understand each other
+<ICE-CAN:S2B-008#96:2:A> Keith Spicer wants C B C Television to add subtitles to its French
+
+news outside Quebec <,> and its English news inside the province so that in
+
+Quebec you could watch the French news with no <,> distraction
+<ICE-CAN:S2B-008#97:2:A> It would be only French
+<ICE-CAN:S2B-008#98:2:A> But if you wanted the English news you could see it with a French
+
+translation
+<ICE-CAN:S2B-008#99:2:A> And vice versa <}> <-> any kind of </-> <=> I think <,> uh </=>
+
+</}>
+<ICE-CAN:S2B-008#100:2:A> That suggestion could do more for uh intercultural understanding
+
+than anything I can think of
+<ICE-CAN:S2B-008#101:2:A> Right on target and uh uh I think we have to give Mister Beatty a
+
+few weeks to uh catch his breath but <,> I can assure you we'll come back on
+
+that with him and uh uh see if he will respond to that
+
+<$A> <ICE-CAN:S2B-008#102:2:A> Spicer was appearing before the heritage committee on
+
+Parliament Hill
+<ICE-CAN:S2B-008#103:2:A> Ford of Canada plans to spend five hundred million dollars on its
+
+truck plant in Oakville
+<ICE-CAN:S2B-008#104:2:A> The Canadian president of Ford says the money will be used to
+
+build and equip a body shop <,> and to modify the existing plant
+<ICE-CAN:S2B-008#105:2:A> <@> Paul Thatcher </@> says the changes will not create new jobs
+
+at the plant once the construction is complete
+<ICE-CAN:S2B-008#106:2:A> The announcement follows earlier news that Ford will build a four
+
+hundred twenty-three million dollar paint shop at the site
+<ICE-CAN:S2B-008#107:2:A> The Bank of Canada rate has gone up
+<ICE-CAN:S2B-008#108:2:A> At its weekly fixing in Ottawa the central bank raised its rate
+
+from seven point four seven percent <,> to seven point six zero percent
+<ICE-CAN:S2B-008#109:2:A> And there's an indication that the Canadian economy will be
+
+sluggish for a while
+<ICE-CAN:S2B-008#110:2:A> Statistics Canada reports that the composite leading indicator
+
+grew by only point two percent in April
+<ICE-CAN:S2B-008#111:2:A> That's half the rate of the previous month
+<ICE-CAN:S2B-008#112:2:A> The indicator is a basket of ten key economic statistics from
+
+housing to the stock market
+<ICE-CAN:S2B-008#113:2:A> It's used to gauge what's ahead for the economy
+<ICE-CAN:S2B-008#114:2:A> From the national news room of C B C radio <,> I'm <@> Linda Clark
+
+</@>
+<ICE-CAN:S2B-008#115:2:A> The medical evidence against Marilyn Tan is piling up
+<ICE-CAN:S2B-008#116:2:A> She's the woman accused of injecting her former boyfriend Con
+
+Boland <}> <-> with </-> <=> of Edmonton with </=> </}> H I V
+<ICE-CAN:S2B-008#117:2:A> Today the Crown's star medical witness testified that Boland
+
+likely was infected with H I V in June of nineteen-ninety-two
+<ICE-CAN:S2B-008#118:2:A> Witnesses say that's when Tan injected Boland with H I V-tainted
+
+blood during a trip to California
+<ICE-CAN:S2B-008#119:2:A> <@> Shauna McDermott </@> reports
+
+<$F> <ICE-CAN:S2B-008#120:2:F> The morning was spent reviewing Con Boland's visit to doctors
+
+over the last fifteen years <,> his sexually transmitted diseases and his H I
+
+V tests
+<ICE-CAN:S2B-008#121:2:F> Then Crown Prosecutor Brian Peterson went over Doctor <@> Peter
+
+Callan's </@> long list of academic and medical credentials
+<ICE-CAN:S2B-008#122:2:F> Peterson asked Conway what H I V infection was <,> how it leads to
+
+AIDS <,> and the symptoms an infected person might have </I>

@@ -1,0 +1,359 @@
+<I>
+<ICE-CAN:W2F-007#1:1> <h> <it> Amnesia Cafe </it> </h>
+<ICE-CAN:W2F-007#2:1> Tom Wayman
+
+<p> <ICE-CAN:W2F-007#3:1> I have arranged to meet my friend Ian for breakfast one May
+
+morning before he leaves for work.
+<ICE-CAN:W2F-007#4:1> We're both teachers.
+<ICE-CAN:W2F-007#5:1> Ian is employed to torture the young at a suburban high school; his
+
+sub <l> ject is history.
+<ICE-CAN:W2F-007#6:1> I labor at the coal face in English at a community col <l> lege.
+<ICE-CAN:W2F-007#7:1> Thus, unlike Ian, I have already begun my summer break.
+<ICE-CAN:W2F-007#8:1> I drive over to Ian's duplex, park, and am just getting out of my
+
+truck when he briskly descends his porch stairs with his briefcase. </p>
+
+<p> <ICE-CAN:W2F-007#9:1> He stashes his coat and briefcase in his sports car.
+<ICE-CAN:W2F-007#10:1> " Where do you want to eat, Dennis?" he asks.
+<ICE-CAN:W2F-007#11:1> " Any place you like," I reply.
+<ICE-CAN:W2F-007#12:1> " You're more familiar with this area than I am." </p>
+
+<p> <ICE-CAN:W2F-007#13:1> " There's a cafe not far from here on Nanaimo Street," he sug <l>
+
+gests.
+<ICE-CAN:W2F-007#14:1> " I think we've been there together." </p>
+
+<p> <ICE-CAN:W2F-007#15:1> I shrug.
+<ICE-CAN:W2F-007#16:1> I have collected Ian for breakfast a few times before but nowhere we
+
+ate made any particular impression.
+<ICE-CAN:W2F-007#17:1> " Let's go," I say.
+<ICE-CAN:W2F-007#18:1> " It's hard for any restaurant to ruin breakfast." </p>
+
+<p> <ICE-CAN:W2F-007#19:1> We decide to take my truck.
+<ICE-CAN:W2F-007#20:1> We talk about real estate as we roll down to the corner and then
+
+south along Nanaimo.
+<ICE-CAN:W2F-007#21:1> Ian is plan <l> ning to buy a condo later this summer with his
+
+girlfriend Susan, so we yak about what a step it is to actually move in with
+
+somebody again after a divorce.
+<ICE-CAN:W2F-007#22:1> I kid him about giving up his revitalized bach <l> elor status and
+
+about how I intend to hang onto mine.
+<ICE-CAN:W2F-007#23:1> We exchange views about the latest peak in Vancouver's housing
+
+market, which neighborhoods remain affordable, and what district might be
+
+best as a compromise between where he and Susan each work. </p>
+
+<p> <ICE-CAN:W2F-007#24:1> " There's the restaurant," Ian says suddenly.
+<ICE-CAN:W2F-007#25:1> He points to an awning in the next block.
+<ICE-CAN:W2F-007#26:1> The awning must display the name of the cafe on the side toward the
+
+street; all I can read on the edge of the awning facing us is Family Dining
+
+Licensed Premises. </p>
+
+<p> <ICE-CAN:W2F-007#27:1> Before we reach the restaurant, an empty parking spot appears.
+<ICE-CAN:W2F-007#28:1> I pull over and we get out and stride along the sidewalk.
+<ICE-CAN:W2F-007#29:1> In moments we are at the cafe.
+<ICE-CAN:W2F-007#30:1> I open the glass door, but Ian hangs back.
+<ICE-CAN:W2F-007#31:1> He looks around, acting puzzled.
+<ICE-CAN:W2F-007#32:1> " What is it?" I ask. </p>
+
+<p> <ICE-CAN:W2F-007#33:1> " I'm not certain this is the restaurant I meant," he says. </p>
+
+<p> <ICE-CAN:W2F-007#34:1> I let the door close.
+<ICE-CAN:W2F-007#35:1> On the glass is only a sticker announcing membership in the Better
+
+Business Bureau, a couple of years out of date, and a decal from last year
+
+testifying to participation in the city's Chamber of Commerce. </p>
+
+<p> <ICE-CAN:W2F-007#36:1> " This is probably the place," Ian decides, a little hesitantly.
+<ICE-CAN:W2F-007#37:1> " Are we going in, then?" I double-check.
+<ICE-CAN:W2F-007#38:1> " Yes."
+<ICE-CAN:W2F-007#39:1> He follows me inside.
+<ICE-CAN:W2F-007#40:1> " Even if I'm wrong, chances are this one is okay," he says. </p>
+
+<p> <ICE-CAN:W2F-007#41:1> Please seat yourself requests a sign on a stand.
+<ICE-CAN:W2F-007#42:1> Ian and I slip into a booth and sit across from each other.
+<ICE-CAN:W2F-007#43:1> The restaurant is almost empty.
+<ICE-CAN:W2F-007#44:1> At the far end of the room, a couple of men in bill caps hunch over
+
+plates of food at one of a row of tables in front of large windows that look
+
+out on Nanaimo Street.
+<ICE-CAN:W2F-007#45:1> We are in a row of booths located further inside.
+<ICE-CAN:W2F-007#46:1> The rest of the seating is more tables: in the dim interior, a cop,
+
+his portable radio in front of him, is seated alone; at another table a man
+
+and a woman study menus. </p>
+
+<p> <ICE-CAN:W2F-007#47:1> Nothing about the place seems in any way memorable.
+<ICE-CAN:W2F-007#48:1> In our booth, the arborite table supports the usual bowl of
+
+neatly-stacked small plastic cream containers.
+<ICE-CAN:W2F-007#49:1> A rectangular open box is stuffed with packets of white sugar, brown
+
+sugar, and sugar substitute.
+<ICE-CAN:W2F-007#50:1> The standard shiny chrome dispenser holds tissue-thin serviettes.
+<ICE-CAN:W2F-007#51:1> Two groups of knife, fork and spoon are aligned along each side of
+
+the table facing the booth's seats.
+<ICE-CAN:W2F-007#52:1> And an overturned coffee cup rests on a saucer beside each assemblage
+
+of cutlery. </p>
+
+<p> <ICE-CAN:W2F-007#53:1> A young guy walks in and sits down at a window table near us.
+<ICE-CAN:W2F-007#54:1> His back is to me.
+<ICE-CAN:W2F-007#55:1> He takes off his jacket and drapes it over his chair, unfolds a
+
+newspaper and starts to read.
+<ICE-CAN:W2F-007#56:1> A waitress approaches us. </p>
+
+<p> <ICE-CAN:W2F-007#57:1> " You boys want coffees?
+<ICE-CAN:W2F-007#58:1> Menus?"
+<ICE-CAN:W2F-007#59:1> Her face is gaunt.
+<ICE-CAN:W2F-007#60:1> Whenever she responds to our infrequent attempts at pleasantries, an
+
+artifi <l> cial smile creases the area between her nose and chin for an
+
+instant.
+<ICE-CAN:W2F-007#61:1> Then her visage resumes expressing a tense boredom. </p>
+
+<p> <ICE-CAN:W2F-007#62:1> " You bet," I announce enthusiastically.
+<ICE-CAN:W2F-007#63:1> " I need a coffee."
+<ICE-CAN:W2F-007#64:1> " Decaf for me," Ian says.
+<ICE-CAN:W2F-007#65:1> " And we'd like menus," I add. </p>
+
+<p> <ICE-CAN:W2F-007#66:1> " Sure," the waitress replies, efficiently gathering up the sur
+
+<l> plus utensils from our table.
+<ICE-CAN:W2F-007#67:1> She gazes in the direction of what I assume is the kitchen.
+<ICE-CAN:W2F-007#68:1> " I'll have to make a pot of decaf," she says absently.
+<ICE-CAN:W2F-007#69:1> " Won't take long." </p>
+
+<p> <ICE-CAN:W2F-007#70:1> " Thanks a lot," I say. </p>
+
+<p> <ICE-CAN:W2F-007#71:1> " No trouble," the already-withdrawing waitress replies.
+<ICE-CAN:W2F-007#72:1> I observe her stop, hands full, to speak to the newcomer reading the
+
+paper. </p>
+
+<p> <ICE-CAN:W2F-007#73:1> Ian and I turn our coffee cups right side up.
+<ICE-CAN:W2F-007#74:1> A silence follows.
+<ICE-CAN:W2F-007#75:1> After a minute, Ian asks me how I resolved a recent disagreement with
+
+my department chairman about course assignments for next year.
+<ICE-CAN:W2F-007#76:1> While I am chattering away I notice the waitress approaching from the
+
+back of the room, a coffee pot in hand. </p>
+
+<p> <ICE-CAN:W2F-007#77:1> She fills the cup of the man with the newspaper, then moves to
+
+stand by our table.
+<ICE-CAN:W2F-007#78:1> She pours the lightly-steaming coffee into my cup first, then swings
+
+the pot toward Ian's side of the booth.
+<ICE-CAN:W2F-007#79:1> He quickly puts his hand out over his cup to protect it. </p>
+
+<p> <ICE-CAN:W2F-007#80:1> " I wanted decaf," Ian reminds her.
+<ICE-CAN:W2F-007#81:1> " That's right," the waitress agrees.
+<ICE-CAN:W2F-007#82:1> " Sorry.
+<ICE-CAN:W2F-007#83:1> Just be a moment." </p>
+
+<p> <ICE-CAN:W2F-007#84:1> " And we wanted to see menus?" I say, lifting my voice as though
+
+the statement is a question, in order to take the edge off her mistake. </p>
+
+<p> <ICE-CAN:W2F-007#85:1> " Oh, yeah.
+<ICE-CAN:W2F-007#86:1> Jeez," she responds.
+<ICE-CAN:W2F-007#87:1> " I'll be right back." </p>
+
+<p> <ICE-CAN:W2F-007#88:1> I open one of the cream containers and empty it into my cof <l>
+
+fee and swirl the liquid around with a spoon.
+<ICE-CAN:W2F-007#89:1> I lift the cup to my mouth and swallow.
+<ICE-CAN:W2F-007#90:1> The hot fluid flows down my throat, and I simultaneously experience a
+
+rush of well-being sweep outward through my chest and down my arms and legs.
+
+</p>
+
+<p> <ICE-CAN:W2F-007#91:1> " I'm probably addicted," I announce.
+<ICE-CAN:W2F-007#92:1> " But I sure like coffee." </p>
+
+<p> <ICE-CAN:W2F-007#93:1> Ian is staring fixedly in the direction the waitress went.
+<ICE-CAN:W2F-007#94:1> He rotates to face me.
+<ICE-CAN:W2F-007#95:1> " Dennis, I can't believe they wouldn't have a pot of decaf already
+
+brewed."
+<ICE-CAN:W2F-007#96:1> There is a tone of urgency in his voice.
+<ICE-CAN:W2F-007#97:1> " Maybe this place is too cheap to get the decaf going first thing.
+<ICE-CAN:W2F-007#98:1> They wait until somebody like me comes along and asks for it.
+<ICE-CAN:W2F-007#99:1> That's just stupid." </p>
+
+<p> <ICE-CAN:W2F-007#100:1> Now I'm tense.
+<ICE-CAN:W2F-007#101:1> " More likely they realize you decaf drinkers are particular," I
+
+soothe.
+<ICE-CAN:W2F-007#102:1> " They want to make sure the decaf is fresh for you."
+<ICE-CAN:W2F-007#103:1> I've known Ian since university; as a consumer, he can get pretty
+
+excited if he's crossed.
+<ICE-CAN:W2F-007#104:1> Last winter his bank, for the second month in a row, took his
+
+mortgage payment out of his current account instead of his savings account,
+
+and then sent him a state <l> ment that there were insufficient funds
+
+available.
+<ICE-CAN:W2F-007#105:1> Ian telephoned the bank in a rage.
+<ICE-CAN:W2F-007#106:1> " Let me speak to somebody there with a brain!" he had shrieked into
+
+the receiver. </p>
+
+<p> <ICE-CAN:W2F-007#107:1> At the cafe there is no sign of either his decaf coffee or our
+
+menus.
+<ICE-CAN:W2F-007#108:1> I try to conceive of something to divert him.
+<ICE-CAN:W2F-007#109:1> I like Ian, but his temper unnerves me.
+<ICE-CAN:W2F-007#110:1> Driving with him through city or freeway traffic also reveals a deep
+
+reservoir of barely-suppressed fury.
+<ICE-CAN:W2F-007#111:1> People who drive too slow or too fast, or who cut us off changing
+
+lanes, all are potential targets of a denunciation by Ian.
+<ICE-CAN:W2F-007#112:1> He told me once about driving to work and having a guy in another
+
+sports car suddenly pull out in front of him, forcing him to stand on the
+
+brakes to avoid an accident.
+<ICE-CAN:W2F-007#113:1> Ian said he followed the guy in a vio <l> lent rage for block after
+
+block, blaring his horn and continually and emphatically giving the guy the
+
+finger through the front wind <l> shield.
+<ICE-CAN:W2F-007#114:1> Eventually Ian lost his position directly behind the trans <l>
+
+gressor when a stoplight changed and the other car gunned through the amber.
+<ICE-CAN:W2F-007#115:1> But Ian was aware of the guy ahead of him in traffic all the way to
+
+school.
+<ICE-CAN:W2F-007#116:1> Ian was startled when the other car steered into the <w> teachers'
+
+</w> parking lot.
+<ICE-CAN:W2F-007#117:1> The driver turned out to be a colleague Ian had not recognized.
+<ICE-CAN:W2F-007#118:1> Ian said he felt shamefaced, although the other teacher did not seem
+
+to bear any grudge.
+<ICE-CAN:W2F-007#119:1> " I guess I went a little overboard, eh?" Ian had concluded,
+
+laughing in an embarrassed way, when he related the incident to me. </p>
+
+<p> <ICE-CAN:W2F-007#120:1> I decide to ask Ian a large open-ended question, a technique I
+
+picked up long ago when I had a summer job as a reporter on a local newspaper
+
+while I was at university.
+<ICE-CAN:W2F-007#121:1> " What would you say was the high <l> light of this term so far for
+
+you?" I propose.
+<ICE-CAN:W2F-007#122:1> Yet even as Ian begins to recount an episode involving his intricate
+
+revenge on an especially undisciplined student, I observe he is fidgeting
+
+with his watch and glancing around the room in an attempt to spot the
+
+waitress. </p>
+
+<p> <ICE-CAN:W2F-007#123:1> Once Ian reaches the climax of his story, and then finishes it,
+
+silence settles between us again.
+<ICE-CAN:W2F-007#124:1> A moment later, I am relieved to see the waitress proceeding toward
+
+us with a couple of menus in one hand and a coffee pot in the other.
+<ICE-CAN:W2F-007#125:1> She pauses at the table of the newspaper reader to top up his
+
+coffee, then places the menus on our table while refilling my cup. </p>
+
+<p> <ICE-CAN:W2F-007#126:1> " You didn't want coffee, right?" she confirms to Ian.
+<ICE-CAN:W2F-007#127:1> Before Ian can answer, I intercede to prevent any trouble.
+<ICE-CAN:W2F-007#128:1> " My friend asked for decaf.
+<ICE-CAN:W2F-007#129:1> You said you were going to brew it." </p>
+
+<p> <ICE-CAN:W2F-007#130:1> " Yeah," the waitress says, " that's right.
+<ICE-CAN:W2F-007#131:1> Slipped my mind.
+<ICE-CAN:W2F-007#132:1> I'll go do it right now."
+<ICE-CAN:W2F-007#133:1> She swivels and vanishes. </p>
+
+<p> <ICE-CAN:W2F-007#134:1> " What's wrong with this place?" Ian states vehemently.
+<ICE-CAN:W2F-007#135:1> His indignation is palpable.
+<ICE-CAN:W2F-007#136:1> " We've been here fifteen minutes already and I haven't even got a
+
+cup of coffee.
+<ICE-CAN:W2F-007#137:1> This is the last time we ever come here." </p>
+
+<p> <ICE-CAN:W2F-007#138:1> " Look at the menu," I urge him, passing him one and open <l>
+
+ing mine.
+<ICE-CAN:W2F-007#139:1> " That way we can order as soon as she brings your cof <l> fee.
+<ICE-CAN:W2F-007#140:1> She's the only waitress; maybe she's run off her feet." </p>
+
+<p> <ICE-CAN:W2F-007#141:1> " There's hardly anybody in here besides us," Ian explodes.
+<ICE-CAN:W2F-007#142:1> " She's just dumb." </p>
+
+<p> <ICE-CAN:W2F-007#143:1> " Let's decide what we want," I say.
+<ICE-CAN:W2F-007#144:1> " We don't know what goes on in the kitchen.
+<ICE-CAN:W2F-007#145:1> Maybe she's under a lot of pressure.
+<ICE-CAN:W2F-007#146:1> Perhaps they've given her extra responsibilities back there."
+<ICE-CAN:W2F-007#147:1> I scan the breakfast offerings, select one, and close the menu. </p>
+
+<p> <ICE-CAN:W2F-007#148:1> " I'm going to order the mushroom omelette," I proclaim.
+<ICE-CAN:W2F-007#149:1> " How about you?" </p>
+
+<p> <ICE-CAN:W2F-007#150:1> " I'm going to have the special: sausages and eggs," Ian mut <l>
+
+ters, folding his menu.
+<ICE-CAN:W2F-007#151:1> " But this is the last time I eat in this dump." </p>
+
+<p> <ICE-CAN:W2F-007#152:1> " At least the service can't get any worse," I attempt to joke
+
+with him.
+<ICE-CAN:W2F-007#153:1> " Was it like this the last time you were here?" </p>
+
+<p> <ICE-CAN:W2F-007#154:1> Ian looks blank.
+<ICE-CAN:W2F-007#155:1> " The truth is," he says after a pause, " I can't remember.
+<ICE-CAN:W2F-007#156:1> It must have been okay, though, or I'd have stricken the place right
+
+off my list.
+<ICE-CAN:W2F-007#157:1> If this was the place.
+<ICE-CAN:W2F-007#158:1> Didn't you eat here with me once?
+<ICE-CAN:W2F-007#159:1> Don't you remember if the service was this awful?" </p>
+
+<p> <ICE-CAN:W2F-007#160:1> I have no recollection of ever having been in this cafe, and
+
+tell Ian so.
+<ICE-CAN:W2F-007#161:1> He protests mildly, insisting that we had eaten here together.
+<ICE-CAN:W2F-007#162:1> But he doesn't push his point. </p>
+
+<p> <ICE-CAN:W2F-007#163:1> Knowing that Ian enjoys both eating and cooking good food, I
+
+nudge the conversation towards learning about any interesting restaurants he
+
+and Susan might have discovered lately.
+<ICE-CAN:W2F-007#164:1> While he describes a new Italian bistro they found on Denman Street,
+
+the waitress emerges from behind the kitchen doors with a plate of food and a
+
+bottle of ketchup.
+<ICE-CAN:W2F-007#165:1> She settles these in front of the man near us, who folds his
+
+newspaper and places it to one side of his meal.
+<ICE-CAN:W2F-007#166:1> She leans over our table. </p> </I>

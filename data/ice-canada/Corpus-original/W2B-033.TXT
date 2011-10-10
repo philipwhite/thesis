@@ -1,0 +1,448 @@
+<I>
+<ICE-CAN:W2B-033#1:1> <h> <bold> Unmet needs </bold> </h>
+
+<p> <ICE-CAN:W2B-033#2:1> In our organization, we have two facets to our computing function.
+
+</p>
+
+<p> <ICE-CAN:W2B-033#3:1> On one side there are those hired to develop applica <l> tions -
+
+they are programmer / analysts in the traditional sense.
+<ICE-CAN:W2B-033#4:1> The other side is there to support our expanding base of PC users.
+<ICE-CAN:W2B-033#5:1> We call them PC support specialists. </p>
+
+<p> <ICE-CAN:W2B-033#6:1> The last time I checked, both groups were running around
+
+furiously.
+<ICE-CAN:W2B-033#7:1> I'm not sure why but it must of had to do something with
+
+mission-critical applications, whatever that is. </p>
+
+<p> <ICE-CAN:W2B-033#8:1> The reason for my concern is I needed something done.
+<ICE-CAN:W2B-033#9:1> I wanted a certain kind of software loaded on my machine.
+<ICE-CAN:W2B-033#10:1> It's not a big request but I suppose it ranks about number 112 on
+
+their list of priorities. </p>
+
+<p> <ICE-CAN:W2B-033#11:1> At our company, there is probably an argument for having two
+
+groups responsible for our systems.
+<ICE-CAN:W2B-033#12:1> In theory, it should work. </p>
+
+<p> <ICE-CAN:W2B-033#13:1> But where the whole systems breaks down is this growing list of
+
+unmet end-user requests. </p>
+
+<p> <ICE-CAN:W2B-033#14:1> A co-worker needs a modem installed so she can work at home.
+<ICE-CAN:W2B-033#15:1> Another fellow wants to upgrade his PC with a color monitor.
+<ICE-CAN:W2B-033#16:1> A third is having troubles with a hard drive.
+<ICE-CAN:W2B-033#17:1> And to top it off, I have a boss who can produce a one-inch thick
+
+stack of printed e-mail messages each representing a request to the PC
+
+support supervisor. </p>
+
+<p> <ICE-CAN:W2B-033#18:1> These are requests that I know of, these are the ones from our
+
+department.
+<ICE-CAN:W2B-033#19:1> Now multiply that by all the other users in all the other departments
+
+and what you have is a rather large backlog. </p>
+
+<p> <ICE-CAN:W2B-033#20:1> Our IS function, such that it is, simply is facing more demands
+
+than it can satisfy.
+<ICE-CAN:W2B-033#21:1> And it is, however undeserved, getting a reputation for
+
+unresponsiveness. </p>
+
+<p> <ICE-CAN:W2B-033#22:1> I'm told, many, if not most organizations, are experienc <l> ing
+
+similar frustrations. </p>
+
+<p> <ICE-CAN:W2B-033#23:1> My concern is that IS has been so preoccupied with " serving"
+
+others, aiming to please but forgetting all that is promised, that I, typical
+
+end-user, have become reluctant to add to their list. </p>
+
+<p> <ICE-CAN:W2B-033#24:1> So what do you do?
+<ICE-CAN:W2B-033#25:1> The obvious answer is to add more resources and more people.
+<ICE-CAN:W2B-033#26:1> That's not popular in these days of cutting back. </p>
+
+<p> <ICE-CAN:W2B-033#27:1> A second would be to make users more self-sufficient but I'm
+
+afraid co-workers would resist any attempt to be transformed into " techies."
+
+</p>
+
+<p> <ICE-CAN:W2B-033#28:1> A third is to involve end-users more in the judicious use of
+
+resources that always seem to be limited and to help our technical people set
+
+priorities. </p>
+
+<p> <ICE-CAN:W2B-033#29:1> I think that maybe our computer department, or any IS
+
+organization, would be better off if it was run like a business. </p>
+
+<p> <ICE-CAN:W2B-033#30:1> This does not at all imply that you want to turn IS into a profit
+
+centre.
+<ICE-CAN:W2B-033#31:1> But what it means is doing a better job of telling your IS personnel
+
+exactly what is you do to make money - so they can discern between "
+
+strategic" use of their time and what is a meaningless digression. </p>
+
+<p> <ICE-CAN:W2B-033#32:1> And it means accountability, to other departments and to upper
+
+management, and depending on your type of business, to customers or suppliers
+
+as well. </p>
+<ICE-CAN:W2B-033#33:1> <bold> - Martin Slofstra </bold> </I>
+
+
+<I>
+<ICE-CAN:W2B-033#34:2> <h> <bold> Wang profits from change in focus </bold> </h>
+<ICE-CAN:W2B-033#35:2> <bold> by Alison Eastwood </bold>
+<ICE-CAN:W2B-033#36:2> <it> Computing Canada </it>
+
+<p> <ICE-CAN:W2B-033#37:2> After a turbulent 18 months beginning with the accumulation of
+
+&dollar;575 million ( U.S.) in debt, Wang Laboratories, one of the most
+
+successful proprietary ven <l> dors of the <w> ' 80s </w> , has a new
+
+strategy - it wants to be liked. </p>
+
+<p> <ICE-CAN:W2B-033#38:2> <quote> " We got away from trying to be known to a core base of
+
+customers, and we just used our name to get to everybody who wanted word
+
+processing," </quote> ad <l> mits acting president of Wang Canada, Vaughn
+
+McIntyre. </p>
+
+<p> <ICE-CAN:W2B-033#39:2> Most of the Fortune 1000 companies in Canada have at one time or
+
+another dealt with Toronto-based Wang.
+<ICE-CAN:W2B-033#40:2> However, the company's focus was on the computer marketplace rather
+
+than on the customer.
+<ICE-CAN:W2B-033#41:2> Even its marketing strategy was guaranteed to turn users off. </p>
+
+<p> <quote> " We tended to have advertise <l> ments that other computer com
+
+<l> panies would understand and know but that our customers wouldn't.
+<ICE-CAN:W2B-033#42:2> It became a kind of one-upmanship on the plat <l> form." </quote>
+<ICE-CAN:W2B-033#43:2> McIntyre is adamant: <quote> " We've got to change that." </quote>
+
+</p>
+
+<p> <ICE-CAN:W2B-033#44:2> Regaining people's trust is central to Wang's new strategy.
+<ICE-CAN:W2B-033#45:2> McIntyre says the company will enter into new business partner <l>
+
+ships but confesses: <quote> " Over a five-or six-year period, not unlike
+
+some of our competitors, we do have to admit to having built up excellent
+
+partnerships and then destroyed them with the stroke of a policy change."
+
+</quote> </p>
+
+<p> <ICE-CAN:W2B-033#46:2> At the end of 1989 Wang Canada's parent company, Wang
+
+Laboratories Inc. of Lowell, Mass., found itself in debt to the tune of
+
+&dollar;575 million ( U.S.).
+<ICE-CAN:W2B-033#47:2> <quote> " We had a very severe cash prob <l> lem," </quote> said
+
+McIntyre.
+<ICE-CAN:W2B-033#48:2> Restructur <l> ing the business appears to have paid off - Wang
+
+reported a very small profit in the first quarter of ended Sept. 30, 1991,
+
+and is hoping to build on that, al <l> though, as McIntyre is aware, <quote>
+
+" it's going to be touch and go for a while." </quote> </p>
+
+<p> <ICE-CAN:W2B-033#49:2> McIntyre attributes the turn-around to the refinement of Wang's
+
+business internally and not to the response of its custom <l> ers.
+<ICE-CAN:W2B-033#50:2> <quote> " I would not want to trick anybody into thinking that people
+
+have flocked to our door and begun to buy just because we've cleaned up our
+
+act," </quote> he said. <X>
+<ICE-CAN:W2B-033#X51:2> <quote> " We expect that to come." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-033#52:2> At Wang Canada, there have been major changes: director of
+
+marketing McIntyre had to step into the shoes of president Steve Trotter, who
+
+returned to his home country New Zealand four months ago.
+<ICE-CAN:W2B-033#53:2> <quote> " Big disappoint <l> ment for him, because he was the basis
+
+for some of the changes we'd made here," said McIntyre. <X>
+<ICE-CAN:W2B-033#X54:2> <quote> " He wanted to watch some of them happen." </quote> </X>
+
+</p>
+
+<p> <ICE-CAN:W2B-033#55:2> Changes include a focus on open standards and a push towards the
+
+image processing market.
+<ICE-CAN:W2B-033#56:2> Wang Canada has just announced Open/image for Netware, which
+
+integrates docu <l> ment image processing into Novell's Netware 386 network
+
+operating system, and Open/image-Windows 3.0, a new release of its image pro
+
+<l> cessing software for 286, 386 and 486-based PCs. </p>
+
+<p> <ICE-CAN:W2B-033#57:2> A major retailer in Toronto has chosen Wang to supply hard <l>
+
+ware and software, said McIn <l> tyre, <quote> " and that was a significant
+
+win for us.
+<ICE-CAN:W2B-033#58:2> All our competitors were in there." </quote> </p>
+
+<p> <ICE-CAN:W2B-033#59:2> The company has established an imaging centre in Winnipeg, in
+
+conjunction with the govern <l> ment of Manitoba, and is developing a
+
+document pro <l> cessing package called Upward, which will incorporate
+
+Windows 3.0.
+<ICE-CAN:W2B-033#60:2> Users will be able to create documents, <quote> " heaven forbid, on
+
+one of the other products like WordPerfect," </quote> which can be
+
+transferred back and forth.
+<ICE-CAN:W2B-033#61:2> Up <l> ward will be available within the next couple of months. </p>
+
+</I>
+
+
+<I>
+<ICE-CAN:W2B-033#62:3> <h> <bold> <it> Promoting new image system is a family affair </it>
+
+</bold> </h>
+<ICE-CAN:W2B-033#63:3> <bold> by Alison Eastwood </bold>
+<ICE-CAN:W2B-033#64:3> <it> Computing Canada </it>
+
+<p> <ICE-CAN:W2B-033#65:3> Take one film producer, a stockbroker and a software package
+
+developed by church-going computer wizards in New York and you have Canadian
+
+Interlinear Technology Inc. </p>
+
+<p> <ICE-CAN:W2B-033#66:3> If this sounds a little bizarre, so is the story of how this
+
+Willowdale, Ont.-based company and its flagship product, MEDIS, came into
+
+existence. </p>
+
+<p> <ICE-CAN:W2B-033#67:3> Founder of Canadian Interlinear Technology Angus Sullivan, an
+
+Irish Canadian, used to be in the film business.
+<ICE-CAN:W2B-033#68:3> Last July, on a visit to New York, Sullivan encountered a friend from
+
+church who had the documentation to a new software package called MEDIS. </p>
+
+<p> <ICE-CAN:W2B-033#69:3> <quote> " He said, 'This is some technology some friends of mine
+
+and some people in the church have developed, and would you like to see what
+
+you can do with it in Canada?' " </quote> recounted Sullivan.
+<ICE-CAN:W2B-033#70:3> <quote> " I said, 'What do I know about computers?'
+<ICE-CAN:W2B-033#71:3> Basically I'm a script-schlepper." </quote> </p>
+
+<p> <ICE-CAN:W2B-033#72:3> What Sullivan did was to take the manual back to Canada. <X>
+<ICE-CAN:W2B-033#X73:3> <quote> " I thought to myself, 'They tell me in New York that this
+
+is hot, hot, hot but what do I know?
+<ICE-CAN:W2B-033#X74:3> How can I find out?
+<ICE-CAN:W2B-033#X75:3> How can I prove it?'" </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-033#76:3> He attempted to interest investors, including one who had backed
+
+some of his films, but was told the same thing: go and see some people in the
+
+business and talk to end-users.
+<ICE-CAN:W2B-033#77:3> </p>
+
+<p> <ICE-CAN:W2B-033#78:3> So Sullivan went to Boeing, Spar Aerospace, GE Aerospace and
+
+Litton Systems.
+<ICE-CAN:W2B-033#79:3> He knew he had hit upon something after he left the manual with one
+
+of the technical experts at Litton, <quote> " because when I came back he was
+
+caressing the manual.
+<ICE-CAN:W2B-033#80:3> I thought he was about to have some weird perverse type of
+
+relationship," </quote> Sullivan recalled. <X>
+<ICE-CAN:W2B-033#X81:3> <quote> " I thought, 'There must be something in this manual;' as an
+
+Irishman I can judge passion rather well." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-033#82:3> MEDIS ( Modular Electronic Document Image System) is a document
+
+image system with an open, client-server-based architecture that consists of
+
+seven software modules designed to run on Unix platforms.
+<ICE-CAN:W2B-033#83:3> It is compliant with the Computer-aided Acquisition and Support (
+
+GALS) initiative specified as a require <l> ment by the U.S. Department of
+
+Defense for future defence contracts, which is why Interlinear is initially
+
+targeting the aerospace industry.
+<ICE-CAN:W2B-033#84:3> </p>
+
+<p> <ICE-CAN:W2B-033#85:3> Sullivan showed the product to a chief engineer for one of the
+
+major aircraft manufacturers who, while impressed by MEDIS, was <quote> "
+
+absolutely terrified of the technology because it's his responsibility to
+
+bring his company into that kind of thing." </quote> </p>
+
+<p> <ICE-CAN:W2B-033#86:3> Still cautious, <quote> " having been in the film business a long
+
+time you get your hopes up a lot, and you get <w> 'em </w> smashed a lot,"
+
+</quote> Sullivan contacted his cousin, Robert Angus German, founder of Geac
+
+Computer, who pronounced MEDIS <quote> " awesome" </quote> and advised
+
+Sullivan to recruit <quote> " some super-technotron" </quote> to sell the
+
+software. </p>
+
+<p> <ICE-CAN:W2B-033#87:3> On the strength of this another cousin, Clive Sullivan, quit his
+
+job as a stockbroker at Hector Chisholm & Co. in Toronto to sell the MEDIS
+
+package and finance the start-up of Canadian Interlinear Technology, along
+
+with " an old friend-of-the-family-type," W.K. Buckley Ltd. </p>
+
+<p> <ICE-CAN:W2B-033#88:3> The company was incorporated on Feb. 1 this year and the
+
+Sullivans have exclusive Canadian rights to the MEDIS technology as well as
+
+an option on 10 per cent of the American company, Interlinear Technology.
+
+</p>
+
+<p> <ICE-CAN:W2B-033#89:3> The main problem, ( Angus) Sullivan admits, is the long lead time
+
+between starting up a business and selling your first unit, <quote> " which
+
+is a long way down the line; so, basically, this is not the type of
+
+investment that brokers would advise." </quote> </p>
+
+<p> <ICE-CAN:W2B-033#90:3> Still, it helps to have relatives in the right places.
+<ICE-CAN:W2B-033#91:3> And Sullivan has a lot of them.
+<ICE-CAN:W2B-033#92:3> <quote> " When the Irish Catholics got to Canada centuries ago they
+
+were like rabbits in carrot heaven, so they just went through the place and
+
+ate everything and reproduced randomly all over.
+<ICE-CAN:W2B-033#93:3> I've got cousins from coast to coast." </quote> </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-033#94:4> <h> <bold> <it> Help desk professionals ask for a little respect
+
+</it> </bold> </h>
+<ICE-CAN:W2B-033#95:4> <bold> by Andre Fuochi </bold>
+<ICE-CAN:W2B-033#96:4> <it> Computing Canada </it>
+
+<p> <ICE-CAN:W2B-033#97:4> TORONTO - In its first meet <l> ing, the Toronto chapter of the
+
+Help Desk Institute got off the ground in what it hopes will become a forum
+
+for help desk and customer service pro <l> fessionals. </p>
+
+<p> <ICE-CAN:W2B-033#98:4> <quote> " Over the years help desk professionals have implemented
+
+technology but it's never been truly successful.
+<ICE-CAN:W2B-033#99:4> At times we aren't even able to articulate the needs of our industry.
+<ICE-CAN:W2B-033#100:4> That's why we're here, to share our experiences and build from
+
+them," </quote> says Terry Garbutt, technical product support consultant for
+
+the City of Toronto. </p>
+
+<p> <ICE-CAN:W2B-033#101:4> <quote> " People within our industry are never given the proper
+
+rec <l> ognition they deserve.
+<ICE-CAN:W2B-033#102:4> We need a forum to address the problems and concerns facing help
+
+desk professionals.
+<ICE-CAN:W2B-033#103:4> We didn't want to create another 'me-too' organization.
+<ICE-CAN:W2B-033#104:4> There are plenty of those around," </quote> he adds. </p>
+
+<p> <ICE-CAN:W2B-033#105:4> The chapter was formed last October and is the first Canadian
+
+chapter for the organization.
+<ICE-CAN:W2B-033#106:4> It plans to set up a branch in Calgary later this year.
+<ICE-CAN:W2B-033#107:4> The cost to join is &dollar;35 a year for members &dollar;50 per
+
+person for vendors. </p>
+
+<p> <ICE-CAN:W2B-033#108:4> <quote> " We want to give people who work on the front line an
+
+oppor <l> tunity to participate.
+<ICE-CAN:W2B-033#109:4> Usually, it's the manager or the technical specialist who attends.
+<ICE-CAN:W2B-033#110:4> In this chapter, we're hoping to inform everyone from the manager to
+
+the people who answer the phones," </quote> says Gabby Winter <l> stein,
+
+manager of a customer support centre for the Bank of Montreal's customer
+
+services department. </p>
+
+<p> <ICE-CAN:W2B-033#111:4> <quote> " We don't need to re-invent the wheel.
+<ICE-CAN:W2B-033#112:4> We don't have to know each other's secrets but if a company is doing
+
+something right both in terms of procedure and technology, then why not share
+
+it with us.
+<ICE-CAN:W2B-033#113:4> It's a very pragmatic approach to sharing information," </quote> he
+
+says. </p>
+
+<p> <ICE-CAN:W2B-033#114:4> <quote> " There are people in our organization just starting a
+
+help desk and those who have one of 100 people or more.
+<ICE-CAN:W2B-033#115:4> People have a vehicle for getting to <l> gether and sharing
+
+information, both from individuals within their industry and from other
+
+areas," </quote> Winterstein says. </p>
+
+<p> <ICE-CAN:W2B-033#116:4> The chapter is looking for input from members, and from those
+
+interested in joining, to get some idea of the issues that future meetings
+
+should address.
+<ICE-CAN:W2B-033#117:4> The next meeting of the Toronto Help Desk Institute will take place
+
+March 12. </p>
+
+<p> <ICE-CAN:W2B-033#118:4> For further information, call either Gabby Winterstein at ( 416)
+
+398-8800 or Terry Gar <l> butt at ( 416) 392-7077. </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-033#119:5> <h> <bold> Stratus financial results clarified </bold> </h>
+
+<p> <ICE-CAN:W2B-033#120:5> <it> In conversation with Robert Gordon </it> of Stratus
+
+Computer INC. </I>

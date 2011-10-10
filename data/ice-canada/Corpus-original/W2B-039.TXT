@@ -1,0 +1,402 @@
+<I>
+<ICE-CAN:W2B-039#1:1> <h> UNHEALTHY BUILDINGS: Experts say indoor air can make people sick
+
+</h>
+
+<p> <ICE-CAN:W2B-039#2:1> Early in 1989, several federal civil servants working in a
+
+Montreal office tower began complaining about headaches, fatigue and nausea.
+<ICE-CAN:W2B-039#3:1> According to some reports, several employees fainted at their desks,
+
+recalls Tedd Nathanson, an Ottawa-based engineer with the federal department
+
+of public works.
+<ICE-CAN:W2B-039#4:1> He said that he inspected the building and discovered that automobile
+
+exhaust fumes from the underground parking garage were penetrating the
+
+offices because the owner of the building had boarded up the underground
+
+ventilation system to save money.
+<ICE-CAN:W2B-039#5:1> Although the source of that problem was unusual, concerns about air
+
+quality in the workplace are becoming increasingly common.
+<ICE-CAN:W2B-039#6:1> Indeed, almost 1,300 scientists, doctors and businessmen from 30
+
+countries met in Toronto last week for a six-day conference aimed at
+
+improving air quality in homes and offices. </p>
+
+<p> <ICE-CAN:W2B-039#7:1> Indoor air quality began to emerge as a health issue during the
+
+late 1970s when builders across North America and Europe started installing
+
+sealed windows, which cannot be opened, as an energy conservation measure in
+
+almost all new office towers, hospitals and schools.
+<ICE-CAN:W2B-039#8:1> Experts attending the Toronto conference said that air delivered
+
+through ventilation systems frequently becomes contaminated with pollutants
+
+from inside and outside the building.
+<ICE-CAN:W2B-039#9:1> When workers begin complaining about headaches, fatigue and other
+
+ailments, they are suffering from what experts call " sick-building
+
+syndrome." Said Douglas Walkinshaw, an Ottawa-based consultant who led the
+
+Toronto conference: <quote> " Most people now work in airtight buildings, so
+
+it is becoming a very big issue." </quote> </p>
+
+<p> <ICE-CAN:W2B-039#10:1> Just how big was apparent at the meeting, where participants
+
+delivered 530 research papers on indoor-air quality.
+<ICE-CAN:W2B-039#11:1> By comparison, there were only 50 papers at the first conference on
+
+indoor air, which was held in Copenhagen in 1978 and which attracted only 230
+
+delegates.
+<ICE-CAN:W2B-039#12:1> The combination of research and actual investigations of buildings
+
+with air-quality problems has revealed dozens of potential sources of
+
+pollution.
+<ICE-CAN:W2B-039#13:1> Said Ole Fanger, a Danish air-quality expert and organizer of the
+
+first conference: <quote> " It was always assumed that buildings were clean.
+<ICE-CAN:W2B-039#14:1> <X> That was the big error." </X> </quote> </p>
+
+<p> <ICE-CAN:W2B-039#15:1> New buildings, or structures that have been renovated or
+
+refurbished, can contain dozens of pollutants called volatile organic
+
+compounds, according to Walkinshaw.
+<ICE-CAN:W2B-039#16:1> Many of the compounds, including benzene, toluene and octane, are
+
+derived from petroleum and are used in the glues applied to upholstery, tiles
+
+and carpets.
+<ICE-CAN:W2B-039#17:1> Moisture within a building is a second source of airborne
+
+contaminants, Walkinshaw said.
+<ICE-CAN:W2B-039#18:1> Dirty humidifiers, condensation on pipes and wet carpets become
+
+breeding grounds for such micro-organisms as moulds and fungi. </p>
+
+<p> <ICE-CAN:W2B-039#19:1> In most sealed buildings, only about 20 per cent of the air
+
+circulating at any given time is actually fresh from outside, said
+
+Walkinshaw.
+<ICE-CAN:W2B-039#20:1> The remainder is merely being recirculated, even when it is
+
+contaminated by volatile organic compounds or micro-organisms.
+<ICE-CAN:W2B-039#21:1> Walkinshaw said that the problem can be compounded if building
+
+operators shut off their ventilation systems altogether at night or during
+
+weekends, in order to save energy - or money. </p>
+
+<p> <ICE-CAN:W2B-039#22:1> In some cases, poorly designed ventilation systems can lead to
+
+contaminated air.
+<ICE-CAN:W2B-039#23:1> Nathanson said that his department inspected an office tower in
+
+Ottawa recently after numerous employees complained about stale air and
+
+illness.
+<ICE-CAN:W2B-039#24:1> Public works inspectors eventually discovered that the air intake
+
+duct and the exhaust duct, both of which measured six feet by 12 feet, were
+
+side by side on the roof.
+<ICE-CAN:W2B-039#25:1> About 25 per cent of the air that was pumped out of the building
+
+through the exhaust was being sucked back in through the intake duct.
+<ICE-CAN:W2B-039#26:1> Nathanson said that the flaw was corrected by building a barrier
+
+between the two ducts. </p>
+
+<p> <ICE-CAN:W2B-039#27:1> Some medical experts who have studied sick-building syndrome
+
+contend that contaminated indoor air rarely poses a serious threat to an
+
+employee's health.
+<ICE-CAN:W2B-039#28:1> Sherwood Burge, a British doctor who attended the Toronto conference,
+
+said that the real problem is the comfort and productivity of office workers.
+<ICE-CAN:W2B-039#29:1> He and fellow British physician Alastair Robertson conducted a study
+
+in which they circulated questionnaires to 4,000 workers based in 47
+
+buildings in Great Britain.
+<ICE-CAN:W2B-039#30:1> Burge said that employees in sealed buildings reported three times as
+
+many health problems, including headaches, runny noses and fatigue, as their
+
+counterparts in buildings where the windows could be opened.
+<ICE-CAN:W2B-039#31:1> Said Burge: <quote> " The symptoms are not particularly disabling."
+
+</quote> </p>
+
+<p> <ICE-CAN:W2B-039#32:1> According to some of the delegates, solutions to sick-building
+
+syndrome are just beginning to emerge as a result of research conducted
+
+during the past decade.
+<ICE-CAN:W2B-039#33:1> Burge said that architects and engineers should begin designing
+
+buildings that allow the occupants some measure of individual control over
+
+heat and lighting.
+<ICE-CAN:W2B-039#34:1> For his part, Fanger said that he is part of an eight-member European
+
+Community task force set up to develop new ventilation guidelines.
+<ICE-CAN:W2B-039#35:1> He added, <quote> " It will take a complete change in our philosophy
+
+and thinking about buildings." </quote>
+<ICE-CAN:W2B-039#36:1> Clearly, it will take some strong medicine to cure the sick-building
+
+syndrome that has become such a prevalent problem. </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-039#37:2> <h> Re-creating reality: a new development has tantalizing
+
+applications </h>
+
+<p> <ICE-CAN:W2B-039#38:2> Michael McGreevy says that he will walk on the planet Venus
+
+within the next two years.
+<ICE-CAN:W2B-039#39:2> But he plans to do it without leaving his laboratory in California's
+
+Silicon Valley.
+<ICE-CAN:W2B-039#40:2> McGreevy, a 40-year-old research scientist with the National
+
+Aeronautics and Space Administration ( NASA), is one of dozens of American
+
+and Japanese scientists racing to perfect a newly developed computer
+
+technology called virtual reality.
+<ICE-CAN:W2B-039#41:2> The technology involves the use of computers to create full-color,
+
+three-dimensional images of everything from molecules to planetary surfaces.
+<ICE-CAN:W2B-039#42:2> And rather than merely looking at the images, scientists are using
+
+headgear resembling scuba diving masks equipped with image-bearing screens to
+
+enter the so-called virtual realities and even manipulate their contents.
+<ICE-CAN:W2B-039#43:2> There are also potentially tantalizing applications for the
+
+entertainment industry.
+<ICE-CAN:W2B-039#44:2> Some theorists predict that people who now watch steamy TV sex videos
+
+could instead experience the sensation of participating in them. </p>
+
+<p> <ICE-CAN:W2B-039#45:2> Proponents of virtual reality contend that within 10 years, the
+
+technology will have a profound influence on the work of architects,
+
+engineers and urban planners.
+<ICE-CAN:W2B-039#46:2> They will be able to translate blueprints and plans for buildings,
+
+airplanes and expressways into lifelike, 3-D images that the designers or
+
+users can simulate entering to explore and change before construction begins.
+<ICE-CAN:W2B-039#47:2> Surgeons may be able to put themselves inside the human body, while
+
+other scientists will be able to explore room-sized models of molecules.
+<ICE-CAN:W2B-039#48:2> Said Robert Jacobson, associate director of the Seattle-based Human
+
+Interface Technology Laboratory, which is devoted solely to developing
+
+virtual reality: <quote> " It's a fabulous idea.
+<ICE-CAN:W2B-039#49:2> <X> If it comes off, it's going to be remarkable." </quote> </X> </p>
+
+<p> <ICE-CAN:W2B-039#50:2> But other experts predict that virtual reality could lead to the
+
+problems foreseen by Vancouver author William Gibson in his award-winning
+
+1984 novel Neuromancer.
+<ICE-CAN:W2B-039#51:2> The book deals with a young man in a futuristic society who becomes
+
+obsessed with a virtual-reality fantasy world called <quote> " cyberspace."
+
+</quote>
+<ICE-CAN:W2B-039#52:2> Louis ( Bo) Gehring, a Toronto-based computer graphics expert who is
+
+working on virtual-reality projects for the U.S. air force, said, <quote> "
+
+When you look at the impact video games have already had on kids and compare
+
+them to the quality of cyberspace, you cannot overstate the potential
+
+impact." </quote> </p>
+
+<p> <ICE-CAN:W2B-039#53:2> People who have sampled virtual reality describe it as a powerful
+
+experience.
+<ICE-CAN:W2B-039#54:2> David Cohn, a senior editor with the Vancouver-based magazine
+
+CADalyst, a publication for specialists in computer-aided design, said that
+
+he has entered the world of virtual reality four times.
+<ICE-CAN:W2B-039#55:2> Once, during a demonstration at a Boston hotel, he wore a headpiece
+
+that resembled a diving mask and rode a stationary exercise bike that was
+
+hooked up to a computer that produced images of outdoor scenes.
+<ICE-CAN:W2B-039#56:2> Cohn said that when he began pedalling, he felt he had actually
+
+entered the computer-generated environment.
+<ICE-CAN:W2B-039#57:2> The harder he pedalled, the faster the bike appeared to travel.
+<ICE-CAN:W2B-039#58:2> When he reached 25 m.p.h., the bicycle actually left the ground in
+
+the artificial environment and he felt as though he were flying.
+<ICE-CAN:W2B-039#59:2> Said Cohn: " It was wonderful.
+<ICE-CAN:W2B-039#60:2> <quote> <X> I didn't want to take off the mask." </X> </quote> </p>
+
+<p> <ICE-CAN:W2B-039#61:2> Still, some computer scientists dismiss the technology's
+
+entertainment potential and its addictive possibilities.
+<ICE-CAN:W2B-039#62:2> They maintain that it will be a valuable tool for professionals in
+
+several different fields.
+<ICE-CAN:W2B-039#63:2> Jacobson said that urban planners could translate proposals for
+
+expressways into 3-D virtual-reality freeways, then change routes and
+
+simulate traffic-flow patterns as they would be now or years into the future.
+<ICE-CAN:W2B-039#64:2> Said Jacobson: " You need a visceral experience in order to
+
+appreciate traffic congestion.
+<ICE-CAN:W2B-039#65:2> <quote> <X> Numbers on paper don't capture the frustration." </X>
+
+</quote> </p>
+
+<p> Computer scientists and doctors at the University of North Carolina at
+
+Chapel Hill have used virtual reality to study the accuracy and impact of
+
+X-ray treatment beams used to destroy tumors in human patients.
+<ICE-CAN:W2B-039#66:2> Frederick Brooks, a computer scientist at the university, said that
+
+they generated images of internal human organs.
+<ICE-CAN:W2B-039#67:2> Doctors then simulated entering the artificial realities by putting
+
+on special headgear.
+<ICE-CAN:W2B-039#68:2> They could then watch as computer-generated X-ray treatment beams
+
+entered the body from different directions and attacked the tumor.
+<ICE-CAN:W2B-039#69:2> Brooks said that the purpose of the experiment was to determine
+
+whether doctors could aim the beams more accurately so that they would
+
+destroy the tumor without damaging other body organs. </p>
+
+<p> <ICE-CAN:W2B-039#70:2> Apart from its potential for improving medical treatment or the
+
+design of earthly structures, virtual reality could be a valuable tool in
+
+space exploration.
+<ICE-CAN:W2B-039#71:2> NASA's McGreevy said that he plans to create virtual-reality images
+
+of Venus using data collected by an unmanned NASA spacecraft currently
+
+travelling towards the planet.
+<ICE-CAN:W2B-039#72:2> Said McGreevy: <quote> " We will be able to re-create the surface of
+
+Venus in virtual reality and explore it almost as you would your office."
+
+</quote> </p>
+
+<p> <ICE-CAN:W2B-039#73:2> McGreevy said that the technology may be used on a manned mission
+
+to Mars that NASA hopes to undertake by the year 2019.
+<ICE-CAN:W2B-039#74:2> He said that after landing on Mars, astronauts could send an unmanned
+
+rover out from the spacecraft to explore the surface for miles around.
+<ICE-CAN:W2B-039#75:2> With virtual-reality images of the Martian surface, produced on the
+
+basis of previously collected data, astronauts could see in advance what kind
+
+of terrain the rover would be crossing and guide it around any hazards.
+<ICE-CAN:W2B-039#76:2> The rovers would also be equipped with video cameras, which would
+
+complement the virtual-reality images. </p>
+
+<p> <ICE-CAN:W2B-039#77:2> But before virtual reality can be used on an everyday basis,
+
+scientists say that they will have to greatly improve the technology for
+
+creating computer-generated imagery.
+<ICE-CAN:W2B-039#78:2> Brooks described the images of human organs generated at the
+
+University of North Carolina as <quote> " pretty crude, Saturday-morning
+
+cartoon quality." </quote>
+<ICE-CAN:W2B-039#79:2> Stephen Hines, research director at a Los Angeles company called 3-D
+
+ImageTek Corp., added that even the best color images currently lack detail
+
+or any shading. </p>
+
+<p> <ICE-CAN:W2B-039#80:2> According to Hines, time delays that occur when using the
+
+existing technology are another problem.
+<ICE-CAN:W2B-039#81:2> His firm's virtual-reality headgear is equipped with a sensor that
+
+informs the computer of the location and position of the user.
+<ICE-CAN:W2B-039#82:2> If he were to take three steps forward, the computer would have to
+
+produce new images to show how a building or human organ might look from his
+
+new position.
+<ICE-CAN:W2B-039#83:2> But so far, computers cannot produce color images fast enough to keep
+
+up with human movements.
+<ICE-CAN:W2B-039#84:2> As a result, the viewer sees a jerky or choppy movement in virtual
+
+reality, said Hines. </p>
+
+<p> <ICE-CAN:W2B-039#85:2> According to Gehring, who is working with American military and
+
+civilian scientists, the U.S. air force has developed the most sophisticated
+
+virtual-reality equipment to date in an attempt to reduce the clutter and
+
+complexity of the cockpits in modern fighter aircraft.
+<ICE-CAN:W2B-039#86:2> The instrument panels in jet fighters, said Gehring, <quote> " look
+
+like a Swiss clock shop gone berserk.
+<ICE-CAN:W2B-039#87:2> <X> There are typically as many as 200 displays and switches."
+
+</quote> </X>
+<ICE-CAN:W2B-039#88:2> Since 1982, the air force has been trying to develop a system that
+
+would allow a pilot to fly highly complex aircraft on the basis of an
+
+artificial reality presented to him through his headgear.
+<ICE-CAN:W2B-039#89:2> Rather than dealing with a confusing instrument panel, the pilot
+
+would be immersed in computer-generated images of the landscape beneath him
+
+and computer symbols projected into his field of vision.
+<ICE-CAN:W2B-039#90:2> The headgear would also contain 3-D sound so that the pilot could
+
+determine with greater speed and precision the position of other planes in
+
+his squadron or incoming enemy missiles.
+<ICE-CAN:W2B-039#91:2> But Gehring said that the development of such a system would not be
+
+complete until the mid-1990s at the earliest. </p> <O> untranscribed text <O>
+
+<p> <O> untranscribed text <O>
+<ICE-CAN:W2B-039#92:2> Its most prized customer has been NASA.
+<ICE-CAN:W2B-039#93:2> Benman conceded that VPL's equipment is so far capable of producing
+
+only grainy images that lack detail.
+<ICE-CAN:W2B-039#94:2> But he said that virtual reality is a captivating concept. <O>
+
+untranscribed text <O> </p> </I>

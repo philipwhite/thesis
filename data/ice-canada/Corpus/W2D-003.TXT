@@ -1,0 +1,458 @@
+<I>
+<ICE-CAN:W2D-003#1:1> <h> <bold> FACULTY OF ENGINEERING & COMPUTER SCIENCE </bold> </h>
+<ICE-CAN:W2D-003#2:1> <h> <bold> Graduate Schedule & Registration Information </bold> </h>
+<ICE-CAN:W2D-003#3:1> <h> <bold> INTRODUCTION </bold> </h>
+
+<p> <ICE-CAN:W2D-003#4:1> The graduate schedule and registration information booklet has
+
+been produced to assist you in registering for your courses and also to
+
+familiarize you with important dates, procedures and regulations.
+<ICE-CAN:W2D-003#5:1> Please take the time to read the introductory information as it may
+
+ease the registration and course change process. </p>
+
+<p> <ICE-CAN:W2D-003#6:1> The Faculty of Engineering and Computer Science uses an on-line
+
+registration system that facilitates entry into courses and allows more time
+
+for advising.
+<ICE-CAN:W2D-003#7:1> The registration process, however, will usually run smoother when you
+
+are prepared. </p>
+
+<p> <ICE-CAN:W2D-003#8:1> With this schedule you will have received all the materials you
+
+require to register for graduate courses offered by the faculty.
+<ICE-CAN:W2D-003#9:1> This package should include a graduate registration form, an
+
+appointment card indicating date, time and location of registration and your
+
+student record, ( if applicable).
+<ICE-CAN:W2D-003#10:1> If you have not received any of these items in your package, you may
+
+obtain the missing documents from the Student Affairs Office, room H 907-10.
+
+</p>
+<ICE-CAN:W2D-003#11:1> <h> <bold> REGISTRATION GUIDELINES FOR GRADUATE PROGRAMMES </bold>
+
+</h>
+
+<p> <ICE-CAN:W2D-003#12:1> The faculty has scheduled registration dates that allow currently
+
+enrolled and newly admitted students some degree of flexibility in
+
+registering. </p>
+<ICE-CAN:W2D-003#13:1> <h> <bold> NEWLY ADMITTED STUDENTS </bold> </h>
+
+<p> <ICE-CAN:W2D-003#14:1> An appointment card for registration should be included in your
+
+registration package.
+<ICE-CAN:W2D-003#15:1> If you are an International student who will not arrive in Canada
+
+prior to the regular registration date, you must contact the Student Affairs
+
+Office located at <@> 444 Sesame Blvd </@> West, Room H 907-10 or phone ( <@>
+
+555-3333 </@> ) upon your arrival to make arrangements for late registration.
+<ICE-CAN:W2D-003#16:1> If you do arrive late, it is recommended that you obtain advising
+
+from your Graduate Programme Director prior to registering.
+<ICE-CAN:W2D-003#17:1> If you have been accepted to a Ph.D. programme you must obtain
+
+approval for your course selections from your Thesis Supervisor prior to
+
+registration. </p>
+
+<p> <ICE-CAN:W2D-003#18:1> If you have been accepted to a Master / Magisteriate of Applied
+
+Science programme you must obtain approval for your course selections from
+
+your Thesis Supervisor and the Graduate Programme Director or the Chair of
+
+the department prior to registration. </p>
+
+<p> <ICE-CAN:W2D-003#19:1> It is important, however, that you register on the day
+
+established for your particular status.
+<ICE-CAN:W2D-003#20:1> There are also a number of days scheduled at the beginning of each
+
+term for course change, add / drop or change from credit to audit and vice
+
+versa.
+<ICE-CAN:W2D-003#21:1> Course change times are normally scheduled during late afternoon.
+
+</p>
+<ICE-CAN:W2D-003#22:1> <h> <bold> STUDIES IN PROGRESS ( STIP) DEGREE STUDENTS NOT TAKING
+
+COURSES DURING 1994-95 </bold> </h>
+
+<p> <ICE-CAN:W2D-003#23:1> <bold> Maintaining Registration. </bold>
+<ICE-CAN:W2D-003#24:1> All graduate students admitted to a degree programme must register
+
+for courses or for Studies in Progress ( STIP) every September, until all
+
+programme requirements have been fulfilled.
+<ICE-CAN:W2D-003#25:1> Students who fail to register each September will be considered to
+
+have withdrawn from the Programme.
+<ICE-CAN:W2D-003#26:1> Students who have completed all requirements for their programme, and
+
+who have applied to graduate in November 1994 are not required to register.
+
+</p>
+
+<p> <ICE-CAN:W2D-003#27:1> <bold> Registration procedures: </bold> If you are a <bold> <ul>
+
+Ph.D. </bold> </ul>
+<ICE-CAN:W2D-003#28:1> student and wish to register for <ul> STIP </ul> you must have your
+
+registration form signed by your Thesis Supervisor prior to registration.
+<ICE-CAN:W2D-003#29:1> It is recommended that you register at the time indicated on your
+
+appointment card.
+<ICE-CAN:W2D-003#30:1> If approval for STIP has been received from your supervisor <it> you
+
+will not be required to see an advisor at registration </it> and you may
+
+proceed directly to a terminal. </p>
+
+<p> <ICE-CAN:W2D-003#31:1> If you are registered in the <ul> Master / Magisteriate of
+
+Applied Science </ul> programme and wish to register for <ul> STIP </ul> -
+
+you must obtain written permission from your Supervisor <bold> and </bold>
+
+the G.P.D. or Chair of the Department prior to registration.
+<ICE-CAN:W2D-003#32:1> <bold> You may not obtain this permission from an advisor at
+
+registration. </bold>
+<ICE-CAN:W2D-003#33:1> You may then proceed directly to the registration site.
+<ICE-CAN:W2D-003#34:1> <it> You are not required to see an advisor at registration. </it>
+
+</p> <bold>
+<ICE-CAN:W2D-003#35:1> <h> THESIS / THESIS EQUIVALENT COURSES </h>
+<ICE-CAN:W2D-003#36:1> <h> ( i.e. ENGR 890, 891, COMP 793) </h>
+<ICE-CAN:W2D-003#37:1> <h> COMPREHENSIVE EXAMINATIONS </h>
+<ICE-CAN:W2D-003#38:1> <h> ( ENCS 850) </h>
+<ICE-CAN:W2D-003#39:1> <h> DOCTORAL SEMINARS </h> </bold>
+
+<p> <ICE-CAN:W2D-003#40:1> Graduate programmes may include multi-term courses such as a
+
+thesis or a thesis-equivalent.
+<ICE-CAN:W2D-003#41:1> This educational activity is usually spread over a period of more
+
+than one year.
+<ICE-CAN:W2D-003#42:1> Students are billed for these activities on an installment basis, in
+
+annual amounts over a period of up to four years, beginning with their first
+
+registration and depending on the total multi-term credits of the activity,
+
+as follows: <l> less than 20 multi-term credits <l> - charged over 2 years
+
+<l> 21 - 39 multi-term credits <l> - charged over 3 years <l> 40 or more
+
+multi-term credits <l> - charged over 4 years <l>
+<ICE-CAN:W2D-003#43:1> The registration for the thesis or thesis-equivalent will not be
+
+recorded until the term in which the student applies to graduate.
+<ICE-CAN:W2D-003#44:1> However, the record and official transcript, will note that the
+
+programme includes this activity. </p>
+
+<p> <ICE-CAN:W2D-003#45:1> Please see the Financial Regulations published in the Graduate
+
+Studies Calendar. </p>
+
+<p> <ICE-CAN:W2D-003#46:1> <bold> <it> Students may NOT register for their thesis or
+
+thesis-equivalent on their registration form. </it> </bold> </p>
+
+<p> <ICE-CAN:W2D-003#47:1> The Registrar's Office will enter the course number for these
+
+activities on their academic records when the grade is reported on the
+
+Graduate Activity Grade Report.
+<ICE-CAN:W2D-003#48:1> These will be recorded and charged in the term in which the grades
+
+are reported to the Registrar's Office, if they are reported by November 15th
+
+for the Fall Term, March 15th for the Winter Term or July 15th for the Summer
+
+Term.
+<ICE-CAN:W2D-003#49:1> Grades reported after these dates will be recorded and charged in the
+
+next term. </p> <bold>
+<ICE-CAN:W2D-003#50:1> <h> PROJECT COURSES: ENGINEERING </h>
+<ICE-CAN:W2D-003#51:1> <h> ENGR 797, 798, 799, Project Reports I, II, III </h> </bold>
+
+<p> <ICE-CAN:W2D-003#52:1> The purpose of the project report(s) is to provide you with an
+
+opportunity to carry out independent project work and to present a project
+
+report.
+<ICE-CAN:W2D-003#53:1> Further details can be found on Page 283 of the Graduate Studies
+
+calendar. </p>
+
+<p> <ICE-CAN:W2D-003#54:1> <ul> Prior </ul> to registering for a project course, you must
+
+obtain written consent of a faculty member who will act as advisor for the
+
+report. </p>
+
+<p> <ICE-CAN:W2D-003#55:1> You must present a signed <ul> <mention> Project and Report
+
+Request Form </mention> </ul> at the time of registration.
+<ICE-CAN:W2D-003#56:1> This form is available from the Student Affairs Office, H 907-10.
+
+</p>
+<ICE-CAN:W2D-003#57:1> <h> <bold> MASTER / MAGISTERIATE OF ENGINEERING ( AEROSPACE) </bold>
+
+</h>
+
+<p> <ICE-CAN:W2D-003#58:1> Students registered in, or admitted to this programme <bold> must
+
+</bold> have their course selections approved by the Acting Director, <@>
+
+Prof. G. C. Manson </@> H 907-10, ( <@> 555-4444 </@> ) prior to
+
+registration.
+<ICE-CAN:W2D-003#59:1> Once approval has been obtained, you are <ul> not required </ul> to
+
+see an advisor on the registration site.
+<ICE-CAN:W2D-003#60:1> Further details on the Aerospace programme can be found on pages
+
+284-286 of the Graduate Studies Calendar. </p> <bold>
+<ICE-CAN:W2D-003#61:1> <h> VISITING STUDENT STATUS </h>
+<ICE-CAN:W2D-003#62:1> <h> Students wishing to register for courses at another Quebec
+
+University </h> </bold>
+
+<p> <ICE-CAN:W2D-003#63:1> Through the Inter-University Agreement, Quebec universities have
+
+agreed to permit the transfer of academic credits between them up to a
+
+maximum of 6 credits in any one year.
+<ICE-CAN:W2D-003#64:1> In exceptional cases, a student may be authorized to take up to 12
+
+credits at another university.
+<ICE-CAN:W2D-003#65:1> The agreement normally covers only graduate students and is intended
+
+to include only those courses not given at the home university which fit a
+
+student's programme requirements.
+<ICE-CAN:W2D-003#66:1> Authorization for a graduate student to cross-register must be given
+
+by the student's Graduate Programme Director, the Associate Dean, Student
+
+Affairs, the Dean of Graduate Studies, and the Registrar.
+<ICE-CAN:W2D-003#67:1> This agreement in no way interferes with the right of the host
+
+university to accept or refuse, as it sees fit, registration of a student
+
+from another university in any of the courses or programmes which it offers.
+<ICE-CAN:W2D-003#68:1> When attending the host university, the student is subject to its
+
+regulations. </p>
+
+<p> <ICE-CAN:W2D-003#69:1> ( Note: Students in the Aerospace programme do not follow the
+
+above procedures). </p>
+<ICE-CAN:W2D-003#70:1> <h> <bold> Visiting Students registering at <@> Jackson </@> </bold>
+
+</h>
+
+<p> <ICE-CAN:W2D-003#71:1> All visiting students at <@> Jackson </@> University, including
+
+those who are cross-registering from other Quebec universities must obtain
+
+course approval from the Engineering and Computer Science Student Affairs
+
+Office, room H 907-10, prior to the appropriate registration date. </p>
+
+<p> <ICE-CAN:W2D-003#72:1> As a visiting student you must have the <bold> <mention> Credit
+
+Transfer Form ( <indig> Bordereau de Transfert de Credits Academique </indig> )
+
+</mention> </bold> <ul> signed </ul> by the appropriate officials from your
+
+home university.
+<ICE-CAN:W2D-003#73:1> Please ensure that the course number, term and section are completed
+
+according to the course information contained in this booklet. </p>
+
+<p> <ICE-CAN:W2D-003#74:1> You <bold> must </bold> then complete the <bold> <mention> 'Graduate
+
+Authorization to Register Form' </mention> </bold> , which is available from
+
+the Student Affairs Office ( H 907-10).
+<ICE-CAN:W2D-003#75:1> This form is required to create a <@> Jackson </@> file that will
+
+enable course credits to be transferred to your home university. </p>
+
+<p> <ICE-CAN:W2D-003#76:1> You will then proceed to the School of Graduate Studies ( <@> 99
+
+Blue </@> Street) where you will be provided with a <@> Jackson </@>
+
+University Student Identification number.
+<ICE-CAN:W2D-003#77:1> You must return to the Student Affairs Office to obtain an
+
+appointment card to register. </p>
+
+<p> <ICE-CAN:W2D-003#78:1> You may then register on the day designated for Visiting students
+
+at the time indicated on your appointment card.
+<ICE-CAN:W2D-003#79:1> <ul> It will not be necessary for you to meet with an advisor at the
+
+registration site.
+<ICE-CAN:W2D-003#80:1> You may proceed directly to a terminal operator. </ul> </p>
+
+<p> <ICE-CAN:W2D-003#81:1> Although fees for courses taken at <@> Jackson </@> are paid at
+
+your home university, once your registration has been completed you must
+
+obtain a registration contract from the Accounts Office as official proof of
+
+your registration. </p>
+<ICE-CAN:W2D-003#82:1> <h> <bold> INDEPENDENT STUDENT STATUS </bold> </h>
+
+<p> <ICE-CAN:W2D-003#83:1> A graduate Independent student is a student who enrolls in a
+
+graduate course without enrolling in a graduate degree or diploma programme.
+<ICE-CAN:W2D-003#84:1> <bold> Only those who meet the requirements for admission to the
+
+graduate programme will be considered as graduate Independent students.
+
+</bold> </p>
+
+<p> <ICE-CAN:W2D-003#85:1> Independent students are permitted to register for a maximum of 6
+
+courses in the Faculty of Engineering and Computer Science.
+<ICE-CAN:W2D-003#86:1> No more than 12 credits will be considered for transfer should an
+
+Independent student subsequently be admitted to a Master / Magisteriate of
+
+Engineering degree programme.
+<ICE-CAN:W2D-003#87:1> A maximum of 9 credits may be transferred to the Master /
+
+Magisteriate of Applied Science programme. </p>
+
+<p> <ICE-CAN:W2D-003#88:1> Independent students may register for only COMP 520 without
+
+special permission.
+<ICE-CAN:W2D-003#89:1> If you wish to take other 500 level courses, you must obtain
+
+permission from the Diploma Program Director, Dr. T. <@> Lan. </@>
+<ICE-CAN:W2D-003#90:1> In addition, you must have the required prerequisites.
+<ICE-CAN:W2D-003#91:1> Please contact the Graduate Programme Director before registration to
+
+check your eligibility.
+<ICE-CAN:W2D-003#92:1> As an Independent student it is probable that you may have to
+
+register for undergraduate level courses ( as an undergraduate Independent
+
+student) in order to obtain any necessary prerequisites.
+<ICE-CAN:W2D-003#93:1> Computer Science courses beyond the introductory level are not
+
+available to Independent students.* </p>
+
+<p> <ICE-CAN:W2D-003#94:1> The cost for one three credit course for an independent student
+
+is approximately &dollar;214.00. </p>
+
+<p> <ICE-CAN:W2D-003#95:1> <ul> Independent students may not audit courses. </ul> </p>
+
+<p> <ICE-CAN:W2D-003#96:1> * Independent Students who have completed previous graduate level
+
+courses in Computer Science may request special permission to register for
+
+advanced level courses.
+<ICE-CAN:W2D-003#97:1> Written authorization must be obtained from the Graduate Programme
+
+Director, Dr. R. <@> Muttarjhee 555-0101 </@> . </p>
+<ICE-CAN:W2D-003#98:1> <h> <bold> HOW TO OBTAIN INDEPENDENT STATUS </bold> </h>
+
+<p> <ICE-CAN:W2D-003#99:1> <bold> All Independent students must obtain approval from the
+
+Faculty in order to register. </bold>
+<ICE-CAN:W2D-003#100:1> The <quote> " Authorization to Register" </quote> <ul> does not
+
+guarantee entry into course(s) </ul> .
+<ICE-CAN:W2D-003#101:1> The authorization must be renewed prior to each Fall term
+
+registration period. </p>
+
+<p> <ICE-CAN:W2D-003#102:1> A copy of the appropriate undergraduate degree or transcript
+
+must be presented to the Student Affairs Office, room H 907-10, prior to the
+
+registration date. </p>
+
+<p> <ICE-CAN:W2D-003#103:1> If you are intending to register for the first time as an
+
+Independent student you must then obtain a student identification number from
+
+the <bold> School of Graduate Studies </bold> , 2145 <@> Smith </@> Street.
+
+</p>
+
+<p> <ICE-CAN:W2D-003#104:1> A copy of the <mention> " Authorization to Register" </mention>
+
+form must then be brought back to Room H 907-10 in order to obtain a
+
+registration package.
+<ICE-CAN:W2D-003#105:1> Please note that this <mention> " Authorization to Register"
+
+</mention> does not guarantee a space in the course(s) of your choice. </p>
+
+<p> <ICE-CAN:W2D-003#106:1> Students requiring further information concerning independent
+
+studies should contact the Student Affairs Office at <@> 555-3333 </@> . </p>
+<ICE-CAN:W2D-003#107:1> <h> <bold> PROXY REGISTRATION </bold> </h>
+
+<p> <ICE-CAN:W2D-003#108:1> If you are unable to register or change courses in person, you
+
+may have a proxy register for you at the time of your registration
+
+appointment.
+<ICE-CAN:W2D-003#109:1> The proxy must bring the appointment card, transcript or record, and
+
+a signed letter of authorization from the student. </p>
+
+<p> <ICE-CAN:W2D-003#110:1> You should ensure that the proxy has a list of courses for which
+
+you wish to register. </p>
+
+<p> <ICE-CAN:W2D-003#111:1> ( Due to problems encountered with course availability proxy
+
+registration is not recommended.) </p>
+<ICE-CAN:W2D-003#112:1> <h> <bold> REGISTRATION FOR MBA COURSES </bold> </h>
+
+<p> <ICE-CAN:W2D-003#113:1> Registration into approved MBA courses is extremely limited.
+<ICE-CAN:W2D-003#114:1> ( Note: No MBA courses will be available until August 31st
+
+registration). </p>
+
+<p> <ICE-CAN:W2D-003#115:1> You may enroll in MBA courses upon completion of the following
+
+procedures: You must have the <bold> <mention> " MBA course request form"
+
+</mention> </bold> approved by your Graduate Programme Director <bold> and
+
+</bold> also by your Supervisor if you are registered in the M.A.Sc.
+
+programme.
+<ICE-CAN:W2D-003#116:1> This form must be returned to room H 907-10 prior to registration.
+
+</p>
+
+<p> <ICE-CAN:W2D-003#117:1> There is no guarantee that space will be available in any
+
+requested MBA course.
+<ICE-CAN:W2D-003#118:1> Final confirmation of space availability in the requested course may
+
+be obtained from the Student Affairs Office ar least one week prior to the
+
+<bold> August 31st </bold> registration day. </p> </I>

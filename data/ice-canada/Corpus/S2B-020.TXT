@@ -1,0 +1,434 @@
+<I>
+
+<$A> <ICE-CAN:S2B-020#1:1:A> Right now it is plus one degree and overcast
+<ICE-CAN:S2B-020#2:1:A> Now here's the forecast for today
+<ICE-CAN:S2B-020#3:1:A> Uhm in the west including Montreal some flurries possible this
+
+afternoon
+<ICE-CAN:S2B-020#4:1:A> Flurries expected overnight as well
+<ICE-CAN:S2B-020#5:1:A> This is light snow
+<ICE-CAN:S2B-020#6:1:A> Lows near minus four
+<ICE-CAN:S2B-020#7:1:A> Now tomorrow we might be back into some trouble <,> much like uh
+
+yesterday actually it sounds
+<ICE-CAN:S2B-020#8:1:A> Light snow in the morning but don't be teased by that
+<ICE-CAN:S2B-020#9:1:A> Heavy snow expected in the afternoon
+<ICE-CAN:S2B-020#10:1:A> More than five centimetres expected
+<ICE-CAN:S2B-020#11:1:A> Uh highs around the freezing mark
+<ICE-CAN:S2B-020#12:1:A> Maybe slightly above
+<ICE-CAN:S2B-020#13:1:A> And winds picking up to fifty kilometres an hour
+<ICE-CAN:S2B-020#14:1:A> And again that's for tomorrow
+<ICE-CAN:S2B-020#15:1:A> In the east this afternoon and tonight partly cloudy
+<ICE-CAN:S2B-020#16:1:A> Lows tonight near minus nine
+<ICE-CAN:S2B-020#17:1:A> And for tomorrow cloudy with some clear periods <,> and highs near
+
+zero
+<ICE-CAN:S2B-020#18:1:A> In Montreal now as I mentioned it's overcast and plus one degree
+<ICE-CAN:S2B-020#19:1:A> In Baie Comeau it's sunny and minus one </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-020#20:2:A> A Lot of road work going on this afternoon of course uh
+<ICE-CAN:S2B-020#21:2:A> <quote> <X> Make hay while the sun shines </X> </quote>
+<ICE-CAN:S2B-020#22:2:A> Northbound Laurentian autoroute <,> two lanes closed around Cartier
+
+causing delays
+<ICE-CAN:S2B-020#23:2:A> Eastbound Met <&> Autoroute M&eacute;tropolitaine </&> left-hand
+
+lane closed around <?> Maria </?>
+<ICE-CAN:S2B-020#24:2:A> We have uh problems in the eastbound Ville-Marie
+<ICE-CAN:S2B-020#25:2:A> Left-hand lane closed through the tunnel
+<ICE-CAN:S2B-020#26:2:A> That is causing minor delays
+<ICE-CAN:S2B-020#27:2:A> Eastbound Twenty <,> around <indig> des Trinitaires </indig>
+
+left-hand lane closed
+<ICE-CAN:S2B-020#28:2:A> We did have earlier reports of delays on westbound Twenty due to a
+
+stall in the <?> Turcont </?> Yards
+<ICE-CAN:S2B-020#29:2:A> Watch out for that
+<ICE-CAN:S2B-020#30:2:A> Southbound Champlain right-hand lane closed
+<ICE-CAN:S2B-020#31:2:A> And if you have any other problems in traffic due to road work or
+
+anything else <,> give us a call here at star eight hundred </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-020#32:3:A> Another hot day for Monday but showers are in the forecast
+<ICE-CAN:S2B-020#33:3:A> From the exclusive forecast of the C J A D weather centre
+<ICE-CAN:S2B-020#34:3:A> Our current downtown temperature is twenty-eight degrees and our
+
+top story this hour <,> Netanyahu speaks to his people
+<ICE-CAN:S2B-020#35:3:A> Good evening
+<ICE-CAN:S2B-020#36:3:A> It's six oh one
+<ICE-CAN:S2B-020#37:3:A> I'm <@> Marilyn Talbot </@>
+<ICE-CAN:S2B-020#38:3:A> A victory speech from Israel's new leader
+<ICE-CAN:S2B-020#39:3:A> <@> Lorna Allan </@> has the latest
+
+<$Z> <X>
+<ICE-CAN:S2B-020#X40:3:Z> Speaking to a rowdy crowd of the party faithful Benjamin Netanyahu
+
+said that his new government is dedicated to continuing the peace process
+<ICE-CAN:S2B-020#X41:3:Z> He also said <quote> Israel's relationship with the U S is rock
+
+solid </quote>
+<ICE-CAN:S2B-020#X42:3:Z> But Netanyahu concentrated on the deep divisions within Israeli
+
+society
+<ICE-CAN:S2B-020#X43:3:Z> He said his first mission would be to unite the people of Israel
+<ICE-CAN:S2B-020#X44:3:Z> Then to resounding applause he promised that an undivided
+
+Jerusalem would remain the capital of the Jewish state
+<ICE-CAN:S2B-020#X45:3:Z> <@> Lorna Allan </@> <,> A B C news <,> Tel Aviv </X>
+
+<$A> <ICE-CAN:S2B-020#46:3:A> Eddie Greenspan will represent Marcello Palma
+<ICE-CAN:S2B-020#47:3:A> Palma faces three counts of first degree murder in the shooting
+
+deaths of three prostitutes in Toronto on Victoria Day
+<ICE-CAN:S2B-020#48:3:A> The thirty year old Toronto man was arrested in Halifax yesterday
+<ICE-CAN:S2B-020#49:3:A> He will arrive in Toronto tomorrow
+<ICE-CAN:S2B-020#50:3:A> Provincial police in Quebec are evacuating homes in the northern
+
+part of the province <,> where a fire is raging through three thousand
+
+hectares of <}> <-> forest fire uh </-> <=> forest land </=> </}>
+<ICE-CAN:S2B-020#51:3:A> Some sixty families are being driven or flown by helicopter out of
+
+the Abitibi region
+<ICE-CAN:S2B-020#52:3:A> They live in small lakeside communities near McWatters <,> some
+
+twenty kilometres east of Rouyn-Noranda
+<ICE-CAN:S2B-020#53:3:A> This is the same fire that burned tonnes of kilometres of forest
+
+near Cadillac
+<ICE-CAN:S2B-020#54:3:A> It's moving quickly because of high winds and heading towards the
+
+south
+<ICE-CAN:S2B-020#55:3:A> They say three-thousand residents of McWatters are not being
+
+evacuated for now <,> but they are on stand-by
+<ICE-CAN:S2B-020#56:3:A> In the heart of Montreal's Chinatown today a symbolic reminder of
+
+how little has changed in the Chinese government <,> since the
+
+nineteen-eighty-nine <}> <-> Tiananma Square </-> <=> Tiananmen Square </=>
+
+</}> massacre
+<ICE-CAN:S2B-020#57:3:A> Amnesty International and the alliance for a democratic China <,>
+
+marked today the anniversary of the June fourth military crackdown on
+
+student-led pro-democracy demonstration
+<ICE-CAN:S2B-020#58:3:A> We have this report
+
+<$B> <O> Television noise </O>
+<ICE-CAN:S2B-020#59:3:B> A small T V blasts harsh sound and flashing images of the events of
+
+June fourth nineteen-eighty-nine
+<ICE-CAN:S2B-020#60:3:B> Tanks rolling into crowds of student pro-democracy demonstrators in
+
+Tiananmen Square
+<ICE-CAN:S2B-020#61:3:B> Firing on them killing hundreds <,> possibly thousands of people
+<ICE-CAN:S2B-020#62:3:B> Nearby a wall of cardboard boxes was made to look like the great
+
+wall of China <,> except this fake wall is branded with the names of
+
+two-thousand political prisoners in China
+<ICE-CAN:S2B-020#63:3:B> Cheung Man Wu of the alliance for a democratic China
+
+<$Z> <ICE-CAN:S2B-020#64:3:Z> <O> Heavily accented speech by non-native Canadian English
+
+speaker </O>
+
+<$B> <ICE-CAN:S2B-020#65:3:B> Wu says its a good sign many people he's spoken to in the
+
+streets are still aware of the past
+
+<$Z> <ICE-CAN:S2B-020#66:3:Z> <O> Heavily accented speech by non-native Canadian English
+
+speaker </O>
+
+<$B> <ICE-CAN:S2B-020#67:3:B> <unclear> indistinct name </unclear> <,> C J A D news
+
+<$A> <ICE-CAN:S2B-020#68:3:A> C J A D news time is six oh three
+<ICE-CAN:S2B-020#69:3:A> Your exclusive C J A D weather centre forecast now
+<ICE-CAN:S2B-020#70:3:A> Here's weather specialist <@> Fred Fontana </@>
+
+<$C> <ICE-CAN:S2B-020#71:3:C> After a very nice afternoon the temperatures will remain well
+
+above seasonal once again for tomorrow
+<ICE-CAN:S2B-020#72:3:C> The forecast for tonight for Montreal just a few cloudy periods
+<ICE-CAN:S2B-020#73:3:C> Breezy conditions <,> under clear skies
+<ICE-CAN:S2B-020#74:3:C> A low near fourteen degrees tomorrow
+<ICE-CAN:S2B-020#75:3:C> We'll see sunshine high cloudiness uh again quite windy
+<ICE-CAN:S2B-020#76:3:C> Those winds tomorrow twenty to forty kilometres per hour
+<ICE-CAN:S2B-020#77:3:C> And a very warm day once again tomorrow
+<ICE-CAN:S2B-020#78:3:C> A high expected to climb to about twenty-eight degrees <,> in the
+
+city
+<ICE-CAN:S2B-020#79:3:C> For Tuesday as a low pressure system advances from the west we'll
+
+see mostly cloudy skies
+<ICE-CAN:S2B-020#80:3:C> The probability of showers and or thunder showers on Tuesday goes
+
+up to seventy percent
+<ICE-CAN:S2B-020#81:3:C> A lot cooler <,> Tuesday's high only twenty-three <,> and we'll see
+
+more shower action on Wednesday with once again a high near twenty-three
+
+degrees
+<ICE-CAN:S2B-020#82:3:C> <@> Fred Fontana </@> <,> C J A D weather centre
+
+<$A> <ICE-CAN:S2B-020#83:3:A> Currently twenty-eight degrees in downtown Montreal
+<ICE-CAN:S2B-020#84:3:A> I'm <@> Marilyn Talbot </@> with news every thirty minutes
+<ICE-CAN:S2B-020#85:3:A> You're listening to C J A D
+
+<$D> <ICE-CAN:S2B-020#86:3:D> Mark Leiter went the distance
+<ICE-CAN:S2B-020#87:3:D> Dan Peltier knocked in a career high four runs as the Giants beat
+
+the Expos eight to one before twenty-five thousand and six fans at Olympic
+
+Stadium
+<ICE-CAN:S2B-020#88:3:D> The Expos ended their home stand with a three and six record
+<ICE-CAN:S2B-020#89:3:D> Peltier had a two-run double in the second
+<ICE-CAN:S2B-020#90:3:D> Henry Rodriguez went off the fourth with his twenty-first homerun
+<ICE-CAN:S2B-020#91:3:D> That tied his career total coming into this season
+<ICE-CAN:S2B-020#92:3:D> Peltier capped a three-run fifth with a two-run single
+<ICE-CAN:S2B-020#93:3:D> All three runs were unearned after a fielding error by Pedro
+
+Martinez
+<ICE-CAN:S2B-020#94:3:D> Kim Batiste added a two-run single in the seventh
+<ICE-CAN:S2B-020#95:3:D> Leiter now three and five scattered five hits and struck out a
+
+season-high eleven
+<ICE-CAN:S2B-020#96:3:D> Martinez five and two <,> lost for the first time in nine starts
+<ICE-CAN:S2B-020#97:3:D> Five runs two earned on eight hits <,> in five innings
+<ICE-CAN:S2B-020#98:3:D> Once again the final score <,> Giants eight Expos one
+<ICE-CAN:S2B-020#99:3:D> <@> Gary Horton </@> at Olympic Stadium <,> C J A D sports <O>
+
+commercial advertisement </O>
+
+<$E> <ICE-CAN:S2B-020#100:3:E> Victory for Andretti Schumacher and Gordon
+<ICE-CAN:S2B-020#101:3:E> Claude Lemieux takes his lumps
+<ICE-CAN:S2B-020#102:3:E> Hi everybody
+<ICE-CAN:S2B-020#103:3:E> I'm <@> Christina McClelland </@> <,> T S N sports radio <O>
+
+commercial advertisement </O>
+<ICE-CAN:S2B-020#104:3:E> Colorado's Claude Lemieux will miss the first two games of the
+
+Stanley Cup final
+<ICE-CAN:S2B-020#105:3:E> The N H L <&> National Hockey League </&> has suspended him for
+
+hitting Detroit's Chris Graper Chris Draper rather <,> from behind in a game
+
+last week
+<ICE-CAN:S2B-020#106:3:E> Draper's face is a mess
+<ICE-CAN:S2B-020#107:3:E> Forty stitches a broken jaw cheekbone and nose
+<ICE-CAN:S2B-020#108:3:E> The Stanley Cup final opens Tuesday in Denver between the
+
+Avalanche and the Florida Panthers
+<ICE-CAN:S2B-020#109:3:E> In American League baseball action today Kansas City stopped
+
+Toronto's three-game winning streak with a seven five victory
+<ICE-CAN:S2B-020#110:3:E> The White Sox took the opener of a double-header with the Tigers
+
+four two
+<ICE-CAN:S2B-020#111:3:E> Cleveland beat Milwaukee eleven six
+<ICE-CAN:S2B-020#112:3:E> In the National League Montreal dropped its first in four eight
+
+one against San Francisco
+<ICE-CAN:S2B-020#113:3:E> Pittsburgh topped Colorado five two
+<ICE-CAN:S2B-020#114:3:E> The Dodgers beat the Mets one zip
+<ICE-CAN:S2B-020#115:3:E> Saint Louis got by Houston two nothing
+<ICE-CAN:S2B-020#116:3:E> Michael Schumacher Jean Alesi and Jacques Villeneuve crossed the
+
+finish line in that order at the Spanish Grand Prix
+<ICE-CAN:S2B-020#117:3:E> The next formula one race is exactly two weeks away
+<ICE-CAN:S2B-020#118:3:E> That one's in Montreal
+<ICE-CAN:S2B-020#119:3:E> Canadians Paul Tracy and Greg Moore were second and fifth at the
+
+Indy car race in Milwaukee
+<ICE-CAN:S2B-020#120:3:E> Michael Andretti took the checkered flag <,> and Jeff Gordon was a
+
+winner in Delaware taking the NASCAR event
+<ICE-CAN:S2B-020#121:3:E> This is T S N sports radio
+<ICE-CAN:S2B-020#122:3:E> Seattle and Utah play the seventh and deciding game of their N B A
+
+western conference title series later today in Seattle
+<ICE-CAN:S2B-020#123:3:E> The winner meets the Chicago Bulls for the championship
+<ICE-CAN:S2B-020#124:3:E> The Sonics haven't been to the finals since seventy-nine
+<ICE-CAN:S2B-020#125:3:E> It would be a first for the Jazz
+<ICE-CAN:S2B-020#126:3:E> From T S N sports desk <,> I'm <@> Christina McClelland </@> T S N
+
+sports radio </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-020#127:4:A> Fourteen degrees
+<ICE-CAN:S2B-020#128:4:A> A lovely afternoon in Montreal with the sunshine
+<ICE-CAN:S2B-020#129:4:A> C J A D news
+<ICE-CAN:S2B-020#130:4:A> I'm <@> Byron Lincoln </@>
+<ICE-CAN:S2B-020#131:4:A> The coroner's inquest into the Martin Suazo killing by M U C <&>
+
+Communauté Urbaine de Montreal </&> police last year has resumed in Montreal
+<ICE-CAN:S2B-020#132:4:A> He was a robbery suspect arrested by the police
+<ICE-CAN:S2B-020#133:4:A> This morning's testimony has been taken up for a time by testimony
+
+from <unclear> word </unclear> technicians who first arrived on the scene
+<ICE-CAN:S2B-020#134:4:A> A jury has acquitted Doctor Jack Kevorkian of assisted suicide
+
+charges in his third such trial in two years
+<ICE-CAN:S2B-020#135:4:A> The Parti Qu&eacute;b&eacute;cois government will present at three
+
+this afternoon <,> its motion to the National Assembly reaffirming the right
+
+of Quebecers to decide their own future
+<ICE-CAN:S2B-020#136:4:A> Premier Bouchard's gesture is a reaction to the federal decision
+
+to join lawyer Guy Bertrand in his effort to stop another referendum on
+
+separation
+<ICE-CAN:S2B-020#137:4:A> Canada's <w> spy-catchers' </w> warning that they're tracking
+
+security threats against Canada by about two dozen countries
+
+<$B> <ICE-CAN:S2B-020#138:4:B> The Canadian Security Intelligence Service says it's
+
+identified foreign intelligence officers working here but it doesn't say what
+
+CSIS is doing about them
+<ICE-CAN:S2B-020#139:4:B> Here's what the foreign spooks are up to
+<ICE-CAN:S2B-020#140:4:B> Shaking secrets out of Canadian high-tech companies
+<ICE-CAN:S2B-020#141:4:B> CSIS says the technology thieves want short-cuts to help them
+
+build nuclear biological and chemical weapons among other things
+<ICE-CAN:S2B-020#142:4:B> The foreign spooks are also watching and sometimes coercing ethnic
+
+minorities here
+<ICE-CAN:S2B-020#143:4:B> CSIS reports the domestic security environment has been relatively
+
+calm but it cites exceptions such as post-referendum death threats against
+
+unnamed political leaders
+<ICE-CAN:S2B-020#144:4:B> <@> Arthur Benning </@> Ottawa
+
+<$A> <ICE-CAN:S2B-020#145:4:A> The sale of resale homes surged for the fourth straight month
+
+in April
+<ICE-CAN:S2B-020#146:4:A> The Canadian Real Estate Association says sales were up forty
+
+percent from a year ago
+<ICE-CAN:S2B-020#147:4:A> The Association says <quote> low and stable interest rates
+
+combined with a growth in jobs should keep the resale market busy through the
+
+spring and summer </quote>
+<ICE-CAN:S2B-020#148:4:A> C J A D news time one thirty-two
+<ICE-CAN:S2B-020#149:4:A> From the C J A D weather centre <,> meteorologist <@> Fred Powell
+
+</@>
+
+<$C> <ICE-CAN:S2B-020#150:4:C> Sunshine mixing with clouds this afternoon
+<ICE-CAN:S2B-020#151:4:C> The clouds will take over a little more later on and into the
+
+evening as a weak disturbance rapidly crosses our area
+<ICE-CAN:S2B-020#152:4:C> That's going to produce some uh scattered rain showers
+<ICE-CAN:S2B-020#153:4:C> Even some isolated thunderstorms in the region as brisk south-west
+
+winds persist
+<ICE-CAN:S2B-020#154:4:C> Overnight under clearing skies lows will drop to between one and
+
+six throughout our listening area
+<ICE-CAN:S2B-020#155:4:C> For tomorrow we can expect that high pressure system to continue
+
+to give us lots of sunshine through the morning into the early afternoon <,>
+
+before cloud begins to spread in once again
+<ICE-CAN:S2B-020#156:4:C> This time ahead of a disturbance coming in from the American
+
+mid-west
+<ICE-CAN:S2B-020#157:4:C> Winds will shift to the south-east up to thirty with highs of
+
+fifteen to eighteen
+<ICE-CAN:S2B-020#158:4:C> <@> Fred Powell </@> from the C J A D weather centre
+
+<$A> <ICE-CAN:S2B-020#159:4:A> In downtown Montreal fourteen degrees <,> with mostly sunny
+
+skies
+<ICE-CAN:S2B-020#160:4:A> I'm <@> Byron Lincoln </@> with news every thirty minutes
+<ICE-CAN:S2B-020#161:4:A> You're listening to C J A D </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S2B-020#162:5:A> Outrage among women's groups in Quebec after Premier Lucien
+
+Bouchard decided to delay pay equity legislation by six months
+<ICE-CAN:S2B-020#163:5:A> As reporter <@> Raymond Scott </@> tells us now <,> they plan to
+
+let the premier know
+<ICE-CAN:S2B-020#164:5:A> And we'll have that report in just one moment's time
+<ICE-CAN:S2B-020#165:5:A> David <,> a spokesman for the women's group says she urges women
+
+and men to fax phone and write the P Q <&> Parti Qu&eacute;b&eacute;cois </&>
+
+government <,> expressing their disapproval
+<ICE-CAN:S2B-020#166:5:A> A suspect in the shooting death of three Toronto prostitutes <,>
+
+<{> <[> is expected </[> back in Toronto on Monday
+
+<$Z> <ICE-CAN:S2B-020#167:5:Z> <[> <O> indistinct audio clip </O> </[> </{>
+
+<$A> <ICE-CAN:S2B-020#168:5:A> The Toronto detectives arrived in Halifax today to question
+
+thirty year old Marcello Palma
+<ICE-CAN:S2B-020#169:5:A> This is Sergeant Ron Rekhow
+
+<$B> <ICE-CAN:S2B-020#170:5:B> Investigators are now at Halifax police headquarters
+
+reviewing <,> investigative reports and meeting with police officers who were
+
+involved in <,> Palma's arrest at a downtown hotel Saturday afternoon
+<ICE-CAN:S2B-020#171:5:B> Detectives met with Mister Palma briefly this afternoon
+<ICE-CAN:S2B-020#172:5:B> He has retained legal counsel and elected to remain silent
+<ICE-CAN:S2B-020#173:5:B> Detectives Ramer and Bronson are applying for search warrants
+
+which will allow them access to Mister Palma's hotel room
+
+<$A> <ICE-CAN:S2B-020#174:5:A> The prostitutes were shot in the head on Victoria Day
+<ICE-CAN:S2B-020#175:5:A> Palma has retained high-profile lawyer Eddie Greenspan <,> to
+
+represent him
+<ICE-CAN:S2B-020#176:5:A> More and more Canadians are storing blood for their own use
+<ICE-CAN:S2B-020#177:5:A> It's a trend that's costing the Red Cross money but the agency
+
+isn't objecting
+<ICE-CAN:S2B-020#178:5:A> Last year more than eighty-two hundred people put their blood in
+
+the bank <,> for use during surgery
+<ICE-CAN:S2B-020#179:5:A> And the fire that yesterday destroyed more than fifteen hundred
+
+hectares of forest in Quebec's northern Abitibi region is now forcing the
+
+evacuation of residents in the area
+<ICE-CAN:S2B-020#180:5:A> The <indig> S&ucircumflex;ret&eacute; du Qu&eacute;bec </indig> is
+
+escorting sixty families out of their homes near McWatters some twenty
+
+kilometres east of Rouyn-Noranda
+<ICE-CAN:S2B-020#181:5:A> This is the first the same fire rather that consumed some ten
+
+kilometres of forest near Cadillac
+<ICE-CAN:S2B-020#182:5:A> It's moving quickly because of high winds
+<ICE-CAN:S2B-020#183:5:A> It's heading south now
+<ICE-CAN:S2B-020#184:5:A> Some one hundred forest fires uh fire fighters that is and
+
+volunteers on the ground and in the air <,> are fighting the blaze as it
+
+still rages out of control
+<ICE-CAN:S2B-020#185:5:A> C J A D news <}> <-> is seven </-> <=> time is </=> </}> seven oh
+
+four
+<ICE-CAN:S2B-020#186:5:A> Your exclusive C J A D weather centre forecast now </I>

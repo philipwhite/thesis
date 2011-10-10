@@ -1,0 +1,401 @@
+<I>
+<ICE-CAN:W2B-035#1:1> <h> <bold> CONSISTENT COLOR PRINTING </bold> </h>
+<ICE-CAN:W2B-035#2:1> BY RON JEGERINGS
+
+<p> <ICE-CAN:W2B-035#3:1> Making good prints from color negatives isn't difficult.
+<ICE-CAN:W2B-035#4:1> Given a decent darkroom, a weekend can be spent making attractive
+
+prints.
+<ICE-CAN:W2B-035#5:1> Your level of production may be low, however.
+<ICE-CAN:W2B-035#6:1> We all dream of higher output - if for no other reason than to churn
+
+out enough photo Christmas cards for the season without staying up half the
+
+night. </p>
+
+<p> <ICE-CAN:W2B-035#7:1> In your quest for increased output re <l> member the two C-words:
+
+conservative and consistent.
+<ICE-CAN:W2B-035#8:1> While printing with the speed of a commercial photofinisher is an
+
+impossible dream for studio and home darkrooms, there is a lot you can do to
+
+improve. </p>
+
+<p> <ICE-CAN:W2B-035#9:1> First, examine your film habits.
+<ICE-CAN:W2B-035#10:1> Ama <l> teurs tend to try all the new films, while professionals pick
+
+a few and stick with them.
+<ICE-CAN:W2B-035#11:1> A pro will also buy in bulk from the same emulsion batch and cold
+
+store all but those for immediate use in order to ensure exact color balance.
+
+</p>
+
+<p> <ICE-CAN:W2B-035#12:1> For experimenting, expose a variety of color-negative films,
+
+using the same light and subject.
+<ICE-CAN:W2B-035#13:1> Avoid trying every film in the store since some may require differ
+
+<l> ent enlarger filtration for neutral color balance. </p>
+
+<p> <ICE-CAN:W2B-035#14:1> Like film, it's wise to buy a large quan <l> tity of enlarging
+
+paper from the same emulsion batch.
+<ICE-CAN:W2B-035#15:1> This cuts down on the number of sheets wasted every time you must
+
+fine-tune color balance for a new batch.
+<ICE-CAN:W2B-035#16:1> Consistent paper processing isn't a chore at moderate temperatures.
+<ICE-CAN:W2B-035#17:1> A simple drum system with a water pre-soak usually does the job, and
+
+a water bath for chemistry bottles can be con <l> trolled by adding hot or
+
+cold water. </p>
+
+<p> <ICE-CAN:W2B-035#18:1> But low-temperature processing is slow.
+<ICE-CAN:W2B-035#19:1> Reducing time with higher temper <l> atures, however, may require the
+
+use of a table-top processor, or a system that ro <l> tates the drum in a
+
+temperature-con <l> trolled water bath during processing.
+<ICE-CAN:W2B-035#20:1> Otherwise, temperature drift will have you constantly fiddling with
+
+enlarger fil <l> tration.
+<ICE-CAN:W2B-035#21:1> Shorter processing times demand that solutions flow quickly over
+
+paper.
+<ICE-CAN:W2B-035#22:1> A drum system ( like a Jobo with an optional Lift) that allows quick
+
+solu <l> tion exchange can also help.
+<ICE-CAN:W2B-035#23:1> Some print <l> ers will compromise between room tem <l> perature and
+
+the recommended maxi <l> mum temperature, which decreases hu <l> midity to
+
+make the process easier. </p>
+
+<p> <ICE-CAN:W2B-035#24:1> Once you pick a temperature, stick with it.
+<ICE-CAN:W2B-035#25:1> Change the temperature and you may change color balance and density.
+<ICE-CAN:W2B-035#26:1> Trying different color chemistries can also alter color balance, as
+
+can using a water pre-soak before development for one session and not for the
+
+next. </p>
+
+<p> <ICE-CAN:W2B-035#27:1> Be consistent in all things including the direction you turn
+
+enlarger filter dials.
+<ICE-CAN:W2B-035#28:1> Take your pick, either clockwise or counter-clockwise, but always
+
+turn them in the same direction for equal tension and repeatability. </p>
+
+<p> <ICE-CAN:W2B-035#29:1> The color temperature of printing light should also be
+
+consistent.
+<ICE-CAN:W2B-035#30:1> Tung <l> sten-halogen bulbs in dichroic color en <l> largers are more
+
+stable than household tungsten bulbs normally found in con <l> denser
+
+enlargers.
+<ICE-CAN:W2B-035#31:1> When buying a di <l> chroic color enlarger get a stabilized power
+
+supply to compensate for line-voltage fluctuations.
+<ICE-CAN:W2B-035#32:1> They cost more than simple step-down transformer power supplies sold
+
+with some color enlargers, but you will recover the cost in saved paper. </p>
+
+<p> <ICE-CAN:W2B-035#33:1> While tungsten-halogen bulbs are ex <l> pensive, buying two or
+
+three at a time is cheaper in the long run.
+<ICE-CAN:W2B-035#34:1> If they are from the same manufacturer, chances are good that only
+
+slight filtration changes will be needed when one blows.
+<ICE-CAN:W2B-035#35:1> And if changing bulbs in your enlarger is fairly easy, you may wish
+
+to keep a separate bulb for each color process: one for printing from color
+
+negatives, another for making duplicate transparencies.
+<ICE-CAN:W2B-035#36:1> Using up a bulb to make black-and-white prints after you went to all
+
+the bother of doing ringaround tests to establish color balance is foolish.
+<ICE-CAN:W2B-035#37:1> A few electronic color heads automatically cor <l> rect color
+
+balance, and additive printing systems can compensate for bulb varia <l>
+
+tions. </p>
+
+<p> <ICE-CAN:W2B-035#38:1> A color analyzer can speed up produc <l> tion by metering
+
+exposure and filtration, but isn't like a camera meter in simplic <l> ity.
+<ICE-CAN:W2B-035#39:1> To make a print with correct color balance and density, program the
+
+ana <l> lyzer for the filtration and exposure used.
+<ICE-CAN:W2B-035#40:1> If you have a master negative that can monitor printing and
+
+processing, and it prints with different filtration from session to session,
+
+you will spend more time resetting your analyzer than using it.
+<ICE-CAN:W2B-035#41:1> It's time to analyze technique and see how consistency can be
+
+achieved.
+<ICE-CAN:W2B-035#42:1> Even consistent printers may have to tweak an analyzer program
+
+slightly at the start of a session to over <l> come such problems as
+
+chemistry aging, so don't add avoidable problems.
+<ICE-CAN:W2B-035#43:1> The advantage of test strips and test prints is that they compensate
+
+for day-to-day sys <l> tem variations. </p>
+
+<p> <ICE-CAN:W2B-035#44:1> Once programmed, an analyzer should compensate for color shifts
+
+caused by myriad factors: shooting under different lighting conditions, using
+
+different enlarger mixing boxes or different bulbs, bulb aging, a white-light
+
+lever that doesn't always return dichroic filters to the same position,
+
+enlarger lenses with slightly different color cor <l> rection, and much more.
+
+</p>
+
+<p> <ICE-CAN:W2B-035#45:1> Most color analyzers have easel probes that offer a choice of
+
+spot or integrated readings to compensate for varying negative density and
+
+magnifica <l> tion changes.
+<ICE-CAN:W2B-035#46:1> In the integrated mode the same easel probe is used, but a diffuser
+
+under the enlarger lens scrambles tones together so only one reading is
+
+required. </p>
+
+<p> <ICE-CAN:W2B-035#47:1> Spot readings are more precise, and like camera spot readings
+
+demand more of the operator.
+<ICE-CAN:W2B-035#48:1> You have to program specifically for the color being metered.
+<ICE-CAN:W2B-035#49:1> Write a program for flesh tones and not only will it attempt to make
+
+grass the color of that flesh tone, it will try to turn all flesh tones the
+
+same color. </p>
+
+<p> <ICE-CAN:W2B-035#50:1> For this reason, most photographers program for a grey tone; it's
+
+a good idea to have the image of a standard 18-per <l> cent grey card, like
+
+Kodak's, in your master negative.
+<ICE-CAN:W2B-035#51:1> You can use this to set up the analyzer, then look for equivalent
+
+tones in mixed negatives, such as pave <l> ment and highlights on dark
+
+clothing. </p>
+
+<p> <ICE-CAN:W2B-035#52:1> Since accurate judgement is called for, some photographers use
+
+only spot probes when there is time, to place a control grey card in the
+
+scene ( at the shooting stage.)
+<ICE-CAN:W2B-035#53:1> Wasting a negative sometimes saves printing time. </p>
+
+<p> <ICE-CAN:W2B-035#54:1> Exposure errors occur in integrated readings when the negative
+
+has large light or dark areas.
+<ICE-CAN:W2B-035#55:1> ( They also depend on a mix of scene colors adding up to neu <l> tral
+
+density.)
+<ICE-CAN:W2B-035#56:1> Take a picture of a white dog against a blue sky and you will print a
+
+yellowish dog as the analyzer tries to correct for the excess blue.
+<ICE-CAN:W2B-035#57:1> One factor that aids integrated readings which de <l> pend on a mix
+
+of scene colors adding up to neutral density is that many colors are closer
+
+to neutral than we imagine. </p>
+
+<p> <ICE-CAN:W2B-035#58:1> So, pick a few films and stick with them.
+<ICE-CAN:W2B-035#59:1> While in theory you program the analyzer only for the paper in use,
+
+some have to be programmed for the combina <l> tion of paper and negative.
+<ICE-CAN:W2B-035#60:1> The fewer negative-paper programs you have to write - or the fewer
+
+small adjustments that have to be made - the more time you spend making
+
+prints. </p>
+
+<p> <ICE-CAN:W2B-035#61:1> Analyzers can be slow.
+<ICE-CAN:W2B-035#62:1> With subtrac <l> tive enlargers, changing one filter setting can
+
+affect another channel and you may have to go through the filter settings two
+
+or more times to eliminate cross-talk. </p>
+
+<p> <ICE-CAN:W2B-035#63:1> Making up for this slowness is the fact that one analyzer can be
+
+used with dif <l> ferent enlargers.
+<ICE-CAN:W2B-035#64:1> Buy a self-contained electronic system, like some of Durst's
+
+enlargers or a Beseler/Minolta 45A head, and production increases but you are
+
+tied to one machine and perhaps one format.
+<ICE-CAN:W2B-035#65:1> If this isn't a problem, and you have a lot of spare change, remember
+
+that systems vary functionally and re <l> quire individual research. </p>
+
+<p> <ICE-CAN:W2B-035#66:1> What holds true for all systems is the need for consistency.
+<ICE-CAN:W2B-035#67:1> Skip all over the map trying new chemistries, films, proc <l> essing
+
+techniques and equipment and you'll spend more time programming fancy
+
+equipment than making pictures. </p> </I>
+
+
+<I>
+<ICE-CAN:W2B-035#68:2> <h> <bold> ILFORD 400 DELTA </bold> </h>
+<ICE-CAN:W2B-035#69:2> <bold> By Henry Gordillo </bold>
+
+<p> <ICE-CAN:W2B-035#70:2> Ilford has introduced a new fast, fine grain black-and-white
+
+film: 400 DELTA.
+<ICE-CAN:W2B-035#71:2> In its technical information brochure (
+#9446), Ilford promises that DELTA is <quote> " ideal for pictorial and fine
+
+art photography." </quote>
+<ICE-CAN:W2B-035#72:2> They claim that <quote> " prints made from 400 DELTA film exposed at
+
+EI 400/27 have very fine grain and out <l> standing sharpness" </quote> and
+
+<quote> " the results are similar to those expected from a conventional
+
+medium speed black-and-white film." </quote> </p>
+
+<p> <ICE-CAN:W2B-035#73:2> Interest in DELTA is high, and its arrival has been eagerly
+
+awaited.
+<ICE-CAN:W2B-035#74:2> Ilford has always maintained an unwavering allegiance to black and
+
+white, and I thought they might be able to solve the problem of producing a
+
+fine grain version of Kodak Tri-X which continues to be my favorite
+
+black-and-white panchromatic film.
+<ICE-CAN:W2B-035#75:2> I like the quality of the Tri-X image and the fact that
+
+dodging/burning and bleaching can bring difficult to print areas of the print
+
+in line with the entire image. </p>
+
+<p> <ICE-CAN:W2B-035#76:2> 400 DELTA is Ilford's response to Kodak's T-grain technology.
+
+</p>
+<ICE-CAN:W2B-035#77:2> <h> <bold> EVALUATION </bold> </h>
+
+<p> <ICE-CAN:W2B-035#78:2> T-Max films are easy to overexpose and overdevelop with the
+
+result that grain structure in the affected areas is scram <l> bled and will
+
+not print image detail.
+<ICE-CAN:W2B-035#79:2> So while T-Max is a very fine grain film, it is also a very fussy
+
+film best used under extremely controlled studio situations and processed by
+
+a properly tuned ma <l> chine.
+<ICE-CAN:W2B-035#80:2> Ilford Core Shell Crystal technology on the other hand seems to avoid
+
+these problems while still producing fine grain. </p>
+
+<p> <ICE-CAN:W2B-035#81:2> Reviewing DELTA opens up a lot of good, interesting questions
+
+about testing and using black-and-white film.
+<ICE-CAN:W2B-035#82:2> 400 Delta is a beautiful film but it doesn't test out at its rated
+
+film speed.
+<ICE-CAN:W2B-035#83:2> It is really a medium-speed film and a very good one.
+<ICE-CAN:W2B-035#84:2> The film is crisp, clear, prints beau <l> tifully, and has tiny
+
+grain.
+<ICE-CAN:W2B-035#85:2> It compares well with Agfa 25, the slowest black-and-white 35 mm film
+
+currently availa <l> ble.
+<ICE-CAN:W2B-035#86:2> However, it doesn't test at a consis <l> tent 400 ISO.
+<ICE-CAN:W2B-035#87:2> If you want to be sure to capture detail in the shadows, it tests at
+
+100 ISO in practice. </p>
+<ICE-CAN:W2B-035#88:2> <h> <bold> THE TESTS </bold> </h>
+
+<p> <ICE-CAN:W2B-035#89:2> Here's what I do to test a black-and-white film.
+<ICE-CAN:W2B-035#90:2> First, I double check the man <l> ufacturer's speed rating for the
+
+film.
+<ICE-CAN:W2B-035#91:2> I do that to protect shadow values.
+<ICE-CAN:W2B-035#92:2> If the film speed is set incorrectly high, then the shadows run a
+
+good chance of not being recorded.
+<ICE-CAN:W2B-035#93:2> If the speed is set too low, then the film receives unnecessary
+
+exposure which can result in increased grain and loss of detail in the
+
+whites.
+<ICE-CAN:W2B-035#94:2> Secondly, I test for the proper development time for the film.
+<ICE-CAN:W2B-035#95:2> The film needs the development which will allow an exposure three
+
+stops above what the meter indicates to print as white with just a little bit
+
+of detail.
+<ICE-CAN:W2B-035#96:2> There needs to be some separation be <l> tween anything that receives
+
+that expo <l> sure and the paper base.
+<ICE-CAN:W2B-035#97:2> Thirdly, I deter <l> mine the exposure the film needs for a
+
+multi-toned subject ( including blacks in shadow and whites in sunlight) on a
+
+sunny day with sharp-edged shadows.
+<ICE-CAN:W2B-035#98:2> Among other things, this is a way to compare one film to another
+
+under ac <l> tual shooting conditions.
+<ICE-CAN:W2B-035#99:2> Lastly, I see how the film responds to a variety of situations and
+
+double check my results by using the film a lot.
+<ICE-CAN:W2B-035#100:2> I need five to 10 rolls of the same emulsion batch to run the tests.
+<ICE-CAN:W2B-035#101:2> One for starters, then maybe another two to figure out the film
+
+devel <l> opment time, and the rest to use in practical picture taking to
+
+double check the results. </p>
+
+<p> <ICE-CAN:W2B-035#102:2> These tests are definitely not just for lab technicians.
+<ICE-CAN:W2B-035#103:2> These are practical tests that anybody who uses black-and-white film
+
+should do. </p>
+<ICE-CAN:W2B-035#104:2> <h> <bold> TEST RESULTS </bold> </h>
+
+<p> <ICE-CAN:W2B-035#105:2> Ilford recommends two of its own film developers: Ilfotec HC ( a
+
+liquid) diluted 1:31 and ID-11 ( a powder) used undi <l> luted in its stock
+
+solution form.
+<ICE-CAN:W2B-035#106:2> ( Litera <l> ture from Ilford U.S. mentions ID-11 PLUS developer
+
+which is not available here.
+<ICE-CAN:W2B-035#107:2> We get regular ID-11 from Eng <l> land.
+<ICE-CAN:W2B-035#108:2> According to Ilford Canada these two developers are different!)
+<ICE-CAN:W2B-035#109:2> I used the Ilford developers in addition to my regular film
+
+developer Kodak HC-110 di <l> luted 1:31. </p>
+
+<p> <ICE-CAN:W2B-035#110:2> With all three developers, the film rated at about 100 ISO using
+
+tungsten lights.
+<ICE-CAN:W2B-035#111:2> Had I used daylight, which is more actinic, it would have rated at
+
+about 160 ISO.
+<ICE-CAN:W2B-035#112:2> HC-110 consistently gave a bit more density than the two Ilford
+
+developers.
+<ICE-CAN:W2B-035#113:2> All three developers produced negatives that look much better than
+
+medium speed nega <l> tives.
+<ICE-CAN:W2B-035#114:2> Printers produced from them have excellent tonal separation ranging
+
+from deep black with detail to light whites just barely separated from paper
+
+base. </p> </I>

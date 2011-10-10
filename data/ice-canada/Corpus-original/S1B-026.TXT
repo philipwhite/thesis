@@ -1,0 +1,453 @@
+<I>
+<ICE-CAN:S1B-026#1:1> It's now nine minutes to one o'clock
+<ICE-CAN:S1B-026#2:1> You're listening to Radio Noon
+<ICE-CAN:S1B-026#3:1> My name is <@> Denise Storey </@>
+<ICE-CAN:S1B-026#4:1> It is fourteen degrees in a wet Montreal right now
+<ICE-CAN:S1B-026#5:1> Now we have the business panel <,> and uh you can guess of course what
+
+has still dominated the business news news everywhere really still and that's
+
+the <mention> r </mention> word
+<ICE-CAN:S1B-026#6:1> <@> May Niven </@> is a reporter with the Globe and Mail's Report on
+
+Business
+<ICE-CAN:S1B-026#7:1> <@> Wayne Lewis </@> is a business columnist with the Montreal Gazette
+<ICE-CAN:S1B-026#8:1> Hello to both of you
+
+<$B> <ICE-CAN:S1B-026#9:1:B> <{1> <[1> Hi </[1>
+<ICE-CAN:S1B-026#10:1:B> <{2> <[2> We survived it <O> laugh </O> somehow <O> laugh </O>
+
+</[2>
+
+<$C> <ICE-CAN:S1B-026#11:1:C> <[1> Hi <O> laugh </O> </[1> </{1>
+
+<$A> <ICE-CAN:S1B-026#12:1:A> <[2> Do you spit though </[2> </{2>
+<ICE-CAN:S1B-026#13:1:A> <}> <-> Like </-> <=> Like </=> </}> Lucien Bouchard's little boys
+
+do <,> spit
+
+<$B> <ICE-CAN:S1B-026#14:1:B> <{> <[> Referendum <&> spoken like a growl </&> </[>
+
+<$C> <ICE-CAN:S1B-026#15:1:C> <[> Yeah <O> laugh </O> </[>
+
+<$A> <ICE-CAN:S1B-026#16:1:A> <[> <X> spitting noises </X> </[> </{>
+<ICE-CAN:S1B-026#17:1:A> <O> laugh </O> How has business reacted to this <{> <[> just a
+
+astounding week </[>
+
+<$B> <ICE-CAN:S1B-026#18:1:B> <[> Well </[> </{>
+<ICE-CAN:S1B-026#19:1:B> <}> <-> It's </-> <=> It's </=> </}> funny uh you know
+<ICE-CAN:S1B-026#20:1:B> Some of the things that happen in business are so short-term that
+
+<}> <-> they're </-> <=> they're </=> </}> funny
+<ICE-CAN:S1B-026#21:1:B> Uhm on Tuesday morning the TSE <&> Toronto Stock Exchange </&> just
+
+shot up into the stratosphere
+<ICE-CAN:S1B-026#22:1:B> Uhm the dollar went way up
+<ICE-CAN:S1B-026#23:1:B> The bank rate fell and prime rate fell too
+<ICE-CAN:S1B-026#24:1:B> The last two things are pretty darn good for consumers
+<ICE-CAN:S1B-026#25:1:B> But this by no means was as we know a definitive vote and business
+
+is still absolutely uhm <,> paralyzed by what to do by this
+<ICE-CAN:S1B-026#26:1:B> And in many senses they are literally paralyzed
+<ICE-CAN:S1B-026#27:1:B> Uhm <}> <-> we </-> <=> we </=> </}> talked about Matrox before the
+
+electronics company in the west island
+<ICE-CAN:S1B-026#28:1:B> It was going to shelve an expansion plan altogether if the yes side
+
+won
+<ICE-CAN:S1B-026#29:1:B> The no side won <,> but it's not going fully ahead with that
+
+expansion plan
+<ICE-CAN:S1B-026#30:1:B> <}> <-> It </-> <=> It </=> </}> doesn't know how much of it it
+
+will do <,> but it certainly knows it's going to farm out some of its r and d
+
+activities to uh Florida where <}> <-> they all have </-> <=> they already
+
+have </=> </}> a small presence
+<ICE-CAN:S1B-026#31:1:B> There's just uncertainty right left and centre
+<ICE-CAN:S1B-026#32:1:B> Especially in light <,> of Parizeau's resignation and uh Lucien
+
+Bouchard's uh <,> contemplation over his fate
+
+<$C> <ICE-CAN:S1B-026#33:1:C> Matrox is a very good example of what is going on in the small
+
+and medium size business community
+<ICE-CAN:S1B-026#34:1:C> You have to make a sort of distinction because <,> if you speak to
+
+economists about what's going to happen to the economy as a whole <,> uh they
+
+tend to believe uh whichever way their sympathies lie that uh <,> the economy
+
+will get back <}> <-> on a </-> <=> on an </=> </}> even keel <,> pretty fast
+<ICE-CAN:S1B-026#35:1:C> A very large part of Quebec's industry uh is made up for example of
+
+resource industries and it's very very difficult to pick up a vein of gold
+
+and move it out of Quebec
+<ICE-CAN:S1B-026#36:1:C> Uhm <{> <[> so things like that </[>
+
+<$B> <ICE-CAN:S1B-026#37:1:B> <[> Heavy <O> laugh </O> </[> </{>
+
+<$C> <ICE-CAN:S1B-026#38:1:C> Things like yeah very heavy
+<ICE-CAN:S1B-026#39:1:C> Things like that <}> <-> won't </-> <=> won't </=> </}> be very
+
+much affected uh and they probably wouldn't be too severely affected even if
+
+Quebec were indeed to go ahead and separate some day
+<ICE-CAN:S1B-026#40:1:C> But the growth in Quebec's economy and the new jobs in Quebec's
+
+economy come from the small and medium size business sector which include a
+
+lot of high tech businesses and a lot of service businesses
+<ICE-CAN:S1B-026#41:1:C> So Matrox is a good example of those businesses uh and other very
+
+large uh uh business the apparel business which depends uh on Ontario and the
+
+rest of Canada for eighty or ninety percent of its sales
+<ICE-CAN:S1B-026#42:1:C> And businesses like that <,,> aren't <,> ready to pack up their
+
+bags and leave
+<ICE-CAN:S1B-026#43:1:C> Although at least a few of them are doing that
+<ICE-CAN:S1B-026#44:1:C> There's a company called Milton Funwear we may have mentioned
+
+before <{1> <[1> <}> <-> that </-> <=> that </=> </}> </[1> they've had it
+
+with the
+<ICE-CAN:S1B-026#45:1:C> <{2> <[2> uncertainty </[2> and even with the no they said they
+
+were moving
+
+<$A> <ICE-CAN:S1B-026#46:1:A> <[1> Uhm yes </[1> </{1>
+<ICE-CAN:S1B-026#47:1:A> <[2> Uhm hmm </[2> </{2>
+
+<$C> <ICE-CAN:S1B-026#48:1:C> There are other businesses that are just saying well you know
+
+we're going to go ahead
+<ICE-CAN:S1B-026#49:1:C> We're going to stay here but we're going to be very cautious and
+
+we're going to put what investment we can outside Quebec because we want to
+
+hedge our bets
+<ICE-CAN:S1B-026#50:1:C> So <}> <-> I think that </-> <=> I think that </=> </}> <}> <->
+
+we've </-> <=> we've </=> </}> shot ourselves in the foot and we're going to
+
+suffer <}> <-> a <.> ser </.> </-> <=> a long term and serious </=> </}> <{>
+
+<[> loss of job creation </[>
+
+<$B> <ICE-CAN:S1B-026#51:1:B> <[> And it's </[> </{> it's not just uhm investors with hard
+
+assets factories and so on
+<ICE-CAN:S1B-026#52:1:B> Uhm we've got money managers that are really <}> <-> important </->
+
+<=> an important </=> </}> part of the Canadian and the Quebec economy these
+
+uhm managers who uh have a lot of investors <}> <-> from </-> <=> from </=>
+
+</}> overseas and so on
+<ICE-CAN:S1B-026#53:1:B> They're not sure what to do about Canadian equities
+<ICE-CAN:S1B-026#54:1:B> They're very doubtful about Quebec equities
+<ICE-CAN:S1B-026#55:1:B> We saw Morgan Stanley being very very skittish on uh Canadian
+
+equities
+<ICE-CAN:S1B-026#56:1:B> And uh a lot of fund managers are simply not sure about what to do
+<ICE-CAN:S1B-026#57:1:B> So we've got that aspect and a lot of uhm foreign investors hold
+
+Canadian and Quebec debt so that has lots of implications
+<ICE-CAN:S1B-026#58:1:B> All of these factors that we're talking about have a lot of
+
+implications <}> <-> for </-> <=> for </=> </}> Quebec's books <,> its public
+
+finances which are in a very messy state
+<ICE-CAN:S1B-026#59:1:B> Uhm the deficit was five point seven billion for nineteen
+
+ninety-four ninety-five
+<ICE-CAN:S1B-026#60:1:B> It's anybody's guess as to whether targets for this fiscal year can
+
+be met
+<ICE-CAN:S1B-026#61:1:B> <{1> <[1> Especially with </[1>
+<ICE-CAN:S1B-026#62:1:B> <{2> <[2> the possibility </[2> of taxpayers leaving and companies
+
+leaving
+
+<$A> <ICE-CAN:S1B-026#63:1:A> <[1> But that <,> that's a huge question </[1> </{1>
+
+<$C> <ICE-CAN:S1B-026#64:1:C> <[2> Well </[2> </{2> <}> <-> I'll </-> <=> I'll </=> </}>
+
+give you my bet
+<ICE-CAN:S1B-026#65:1:C> My bet would be very strongly that they will not be met
+<ICE-CAN:S1B-026#66:1:C> Uh Quebec blew its uh its projections last year by a billion
+
+dollars or something
+<ICE-CAN:S1B-026#67:1:C> I'd be sure that they are going to blow their projections this year
+
+uh by maybe not that much but by a very large amount
+<ICE-CAN:S1B-026#68:1:C> Uh Ontario has already had to make massive additional cuts on top
+
+of the initial Harris cuts <,> because they were running hundreds of millions
+
+<}> <-> of </-> <=> of </=> </}> dollars behind on their revenues because the
+
+economy's been slow
+<ICE-CAN:S1B-026#69:1:C> How much slower has it been in Quebec
+
+<$A> <ICE-CAN:S1B-026#70:1:A> I'd like to
+<ICE-CAN:S1B-026#71:1:A> I would like to move on <}> <-> get </-> <=> put </=> </}> the
+
+referendum behind us <{1> <[1> cos I mean the truth is </[1>
+<ICE-CAN:S1B-026#72:1:A> <{2> <[2> I would like to but I can't </[2>
+
+<$C> <ICE-CAN:S1B-026#73:1:C> <[1> Wouldn't we all <O> laugh </O> </[1>
+
+<$B> <ICE-CAN:S1B-026#74:1:B> <[1> Oh really <O> laugh </O> </[1> </{1>
+<ICE-CAN:S1B-026#75:1:B> <[2> We want to talk about it endlessly <,> forever and ever </[2>
+
+</{2>
+
+<$C> <ICE-CAN:S1B-026#76:1:C> We're not obsessed
+
+<$A> <ICE-CAN:S1B-026#77:1:A> Let's talk about <}> <-> the </-> <=> the </=> </}> phone
+
+companies
+<ICE-CAN:S1B-026#78:1:A> <}> <-> They're </-> <=> They're </=> </}> mad
+
+<$C> <ICE-CAN:S1B-026#79:1:C> <{1> <[1> They're mad yeah <O> laugh </O> </[1>
+<ICE-CAN:S1B-026#80:1:C> <{2> <[2> Ma Bell is mad </[2>
+
+<$B> <ICE-CAN:S1B-026#81:1:B> <[1> One company is <O> laugh </O> </[1> </{1>
+
+<$B> <ICE-CAN:S1B-026#82:1:B> <[2> Mad as hell and not going to take it anymore <O> laugh
+
+</O> </[2> </{2>
+
+<$C> <ICE-CAN:S1B-026#83:1:C> <{> <[> You don't want to make Ma Bell mad I guess <O> laugh
+
+</O> </[>
+
+<$A> <ICE-CAN:S1B-026#84:1:A> <[> Mad as Bell <O> laugh </O> </[> </{>
+
+<$C> <ICE-CAN:S1B-026#85:1:C> <{> <[> Oh oh <O> laugh </O> </[>
+
+<$B> <ICE-CAN:S1B-026#86:1:B> <[> Good one <O> laugh </O> </[> </{>
+
+<$A> <ICE-CAN:S1B-026#87:1:A> But what's the story
+
+<$B> <ICE-CAN:S1B-026#88:1:B> Well <}> <-> the local </-> <=> the C R T C </=> </}> said
+
+that local phone rates are allowed to rise by four dollars a month over the
+
+next two years
+<ICE-CAN:S1B-026#89:1:B> That's two dollars each year
+<ICE-CAN:S1B-026#90:1:B> And then there's going to be some sort of unknown increase as of
+
+January nineteen ninety-eight
+<ICE-CAN:S1B-026#91:1:B> January first nineteen ninety-eight
+<ICE-CAN:S1B-026#92:1:B> And long distance rates would fall by an <}> <-> <.> equiv </.>
+
+</-> <+> equivalent </+> </}> amount for most uh most consumers
+<ICE-CAN:S1B-026#93:1:B> Uh what Bell <}> <-> is </-> <=> is </=> </}> upset about is that
+
+<}> <-> it </-> <=> it's </=> </}> still going to be regulated in the long
+
+distance market
+<ICE-CAN:S1B-026#94:1:B> And it says <quote> well why shouldn't competition simply prevail
+
+<X>
+<ICE-CAN:S1B-026#X95:1:B> Why do we have to go to the C R T C and get our rates approved and
+
+go through lengthy hearings and so on </X> </quote>
+<ICE-CAN:S1B-026#96:1:B> It thinks that there's just an unfair advantage especially by big
+
+American companies
+<ICE-CAN:S1B-026#97:1:B> It feels very threatened by the <}> <-> <.> on </.> </-> <+>
+
+onslaught </+> </}> of A T and T and so on and some of the big heavyweights
+
+south of the border
+
+<$A> <ICE-CAN:S1B-026#98:1:A> Uhm
+<ICE-CAN:S1B-026#99:1:A> They're still making money hand over fist aren't they
+
+<$B> <ICE-CAN:S1B-026#100:1:B> Oh yeah <O> laugh </O>
+
+<$C> <ICE-CAN:S1B-026#101:1:C> <}> <-> They're </-> <=> They're </=> </}> making money hand
+
+over fist if you look at the total number of dollars that they're making
+<ICE-CAN:S1B-026#102:1:C> If you look at the total numbers of dollars they're making in
+
+relation to the amount of investment they have in their company <,> I don't
+
+think that their profits are that impressive
+<ICE-CAN:S1B-026#103:1:C> Uh and that's what they always like to look at
+<ICE-CAN:S1B-026#104:1:C> But you know when your making a billion dollars a year <}> <-> or
+
+</-> <=> or </=> </}> something like that <,> it's very difficult to uh to
+
+get a sympathetic hearing for that kind of a complaint
+
+<$A> <ICE-CAN:S1B-026#105:1:A> Uhm
+
+<$C> <ICE-CAN:S1B-026#106:1:C> There is another aspect to this which is that uh what the C R
+
+T C is aiming at in the long run uh almost everybody uh who knows the
+
+industry <}> <-> and </-> <=> and </=> </}> has studied it believes is
+
+probably a good thing
+<ICE-CAN:S1B-026#107:1:C> It's competition <,> both in the long distance field and in the
+
+local field
+<ICE-CAN:S1B-026#108:1:C> <{> <[> Uh it's kind of </[>
+
+<$A> <ICE-CAN:S1B-026#109:1:A> <[> But is there any competition in the local field </[> </{>
+
+<$C> <ICE-CAN:S1B-026#110:1:C> Absolutely none right now but there are cable companies that
+
+have wires to almost everyone's home
+<ICE-CAN:S1B-026#111:1:C> It would not be inconceivable for them to start up a parallel
+
+phone system
+<ICE-CAN:S1B-026#112:1:C> And indeed they've done that in some places like in the United
+
+Kingdom
+<ICE-CAN:S1B-026#113:1:C> In fact uh Videotron uh <{> <[> runs one of those competitve phone
+
+services </[>
+
+<$A> <ICE-CAN:S1B-026#114:1:A> <[> Right in the U K yeah </[> </{>
+
+<$C> <ICE-CAN:S1B-026#115:1:C> <}> <-> I </-> <=> I </=> </}> would love to see competition
+
+because I would love to be able to fire my local cable company
+<ICE-CAN:S1B-026#116:1:C> And maybe I'd fire Bell too if they couldn't offer competitive uh
+
+uh phone rates
+<ICE-CAN:S1B-026#117:1:C> Maybe I'd just switch around
+
+<$B> <ICE-CAN:S1B-026#118:1:B> But the government the federal government has said it is
+
+committed to competition in all of these different areas of
+
+telecommunications cable and telephones and so on
+<ICE-CAN:S1B-026#119:1:B> So uh maybe we're seeing it uh put its money where its mouth is
+
+<$A> <ICE-CAN:S1B-026#120:1:A> Uhm
+<ICE-CAN:S1B-026#121:1:A> What's the unemployment rate
+<ICE-CAN:S1B-026#122:1:A> We have figures <{> <[> <unclear> word </unclear> </[>
+
+<$C> <ICE-CAN:S1B-026#123:1:C> <[> Yeah the unemployment rate </[> </{> has done one of <}>
+
+<-> its </-> <=> the </=> </}> kind of contradictory things it does sometimes
+<ICE-CAN:S1B-026#124:1:C> The news looks bad because it went up by two-tenths of a
+
+percentage point uh in Canada and I think three-tenths of a percentage point
+
+in Quebec
+<ICE-CAN:S1B-026#125:1:C> The news really is good strangely enough
+<ICE-CAN:S1B-026#126:1:C> What happened was a whole bunch of people entered the labour force
+
+in October <,> thinking that they were going to get jobs
+<ICE-CAN:S1B-026#127:1:C> Many of them did but many of them didn't
+<ICE-CAN:S1B-026#128:1:C> So the unemployment rate goes up because there are more people
+
+looking <,> but not finding
+<ICE-CAN:S1B-026#129:1:C> <{> <[> In fact </[> the number of employed people went up by
+
+nineteen thousand across the country
+
+<$A> <ICE-CAN:S1B-026#130:1:A> <[> And that's </[> </{>
+<ICE-CAN:S1B-026#131:1:A> That's especially significant that that happened in October of all
+
+months uh out of all years
+<ICE-CAN:S1B-026#132:1:A> <}> <-> Which </-> <=> Of course </=> </}> the referendum was
+
+making everybody uncertain
+<ICE-CAN:S1B-026#133:1:A> So the fact that people did feel positive enough about jobs being
+
+out there <}> <-> is </-> <=> is </=> </}> rather interesting
+
+<$C> <ICE-CAN:S1B-026#134:1:C> The big picture is that we had nearly a year of no employment
+
+creation from late nineteen ninety-four until late nineteen ninety-five
+<ICE-CAN:S1B-026#135:1:C> Now we've had three months in a row of employment creation
+<ICE-CAN:S1B-026#136:1:C> That's good news
+
+<$A> <ICE-CAN:S1B-026#137:1:A> Next hour on the phone-in we're going to get even further
+
+away from the referendum
+<ICE-CAN:S1B-026#138:1:A> We're taking you to a <{> <[> desert island </[>
+
+<$B> <ICE-CAN:S1B-026#139:1:B> <[> Wow <,> whoa </[> </{>
+
+<$C> <ICE-CAN:S1B-026#140:1:C> <O> laugh </O> Can I come please
+
+<$A> <ICE-CAN:S1B-026#141:1:A> Yes you can <O> laugh </O>
+
+<$B> <ICE-CAN:S1B-026#142:1:B> <{> <[> It's outside of Canada </[>
+
+<$A> <ICE-CAN:S1B-026#143:1:A> <[> We're all invited </[> </{>
+<ICE-CAN:S1B-026#144:1:A> Come on
+<ICE-CAN:S1B-026#145:1:A> Everyone's doing it
+<ICE-CAN:S1B-026#146:1:A> What three books would you take with you <,> to the desert island
+
+<$C> <ICE-CAN:S1B-026#147:1:C> That's easy
+<ICE-CAN:S1B-026#148:1:C> Any three books by Patrick O'Brien who's a brilliant British uh
+
+historical novelist <,> whose name does not uh influence my uh my choice
+<ICE-CAN:S1B-026#149:1:C> Uh and they'd be particularly appropriate for a desert island
+
+because these are sea-faring historical novels uh based on the British navy
+
+<$B> <ICE-CAN:S1B-026#150:1:B> Uhm <}> <-> I </-> <=> I'm </=> </}> a big fan of <quote>
+
+Bonfire of the Vanities </quote>
+<ICE-CAN:S1B-026#151:1:B> I love that book
+<ICE-CAN:S1B-026#152:1:B> I could read it again and again
+<ICE-CAN:S1B-026#153:1:B> <{> <[> And I'll give a plug for a couple of </[>
+
+<$A> <ICE-CAN:S1B-026#154:1:A> <[> You'll take three copies of <quote> Bonfire of the
+
+Vanities </quote> </[> </{>
+
+<$B> <ICE-CAN:S1B-026#155:1:B> No I'll give a plug to two other uh actually local writers
+<ICE-CAN:S1B-026#156:1:B> One is uh Carole Corbeil
+<ICE-CAN:S1B-026#157:1:B> She wrote <quote> Voice Over </quote> a very interesting account
+
+of English and French Montreal
+<ICE-CAN:S1B-026#158:1:B> The two current sort of crossing
+<ICE-CAN:S1B-026#159:1:B> A very good book
+<ICE-CAN:S1B-026#160:1:B> And the third one is by <,> actually a friend of mine
+<ICE-CAN:S1B-026#161:1:B> Her name is Diana Atkinson and she's just been nominated for a
+
+Governor General's Award
+<ICE-CAN:S1B-026#162:1:B> It's called <quote> Highways and Dance Halls </quote> uhm <{> <[>
+
+<quote> Tales of a Stripper and More </quote> </[>
+<ICE-CAN:S1B-026#163:1:B> A lot more to that ook
+<ICE-CAN:S1B-026#164:1:B> It's a very complex very well-written book
+
+<$A> <ICE-CAN:S1B-026#165:1:A> <[> Terrific </[> </{>
+<ICE-CAN:S1B-026#166:1:A> That's great
+<ICE-CAN:S1B-026#167:1:A> Thank you <,> both of you
+<ICE-CAN:S1B-026#168:1:A> We'll see you next Friday
+
+<$C> <ICE-CAN:S1B-026#169:1:C> Thanks
+
+<$A> <ICE-CAN:S1B-026#170:1:A> That's <@> May Niven </@> and <@> Wayne Lewis </@>
+<ICE-CAN:S1B-026#171:1:A> They are uh the Radio Noon business panel
+<ICE-CAN:S1B-026#172:1:A> <@> May </@> is a reporter with the Globe and Mail's Report on
+
+Business
+<ICE-CAN:S1B-026#173:1:A> <@> Wayne Lewis </@> is a business columnist with the Montreal
+
+Gazette
+<ICE-CAN:S1B-026#174:1:A> And next hour we want to know what three books you would take to a
+
+desert island
+<ICE-CAN:S1B-026#175:1:A> Right now we have the time signal
+<ICE-CAN:S1B-026#176:1:A> At the beginning of the long dash following ten seconds of silence
+
+it will be one o'clock </I>

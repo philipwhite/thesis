@@ -1,0 +1,662 @@
+<I>
+
+<$A> <ICE-CAN:S1B-070#1:1:A> Yeah
+
+<$B> <ICE-CAN:S1B-070#2:1:B> Is that a fair summary
+
+<$A> <ICE-CAN:S1B-070#3:1:A> <?> Very </?> <,,>
+
+<$B> <ICE-CAN:S1B-070#4:1:B> So <,> it's not <,> quite accurate to say that <,> <unclear>
+
+two or three words </unclear> <?> was fired </?>
+
+<$A> <ICE-CAN:S1B-070#5:1:A> Well <,> I <}> <-> dunno </-> <+> don't know </+> </}> I had
+
+<?> to hand him off </?> <unclear> two or three words </unclear> quite
+
+frankly
+
+<$B> <ICE-CAN:S1B-070#6:1:B> <}> <-> That </-> <=> That </=> </}> may well be so Mister <@>
+
+Roberts </@> but <,> can you agree with me there was a certain <,> animosity
+
+between the organization and Mister <@> Jones </@>
+
+<$A> <ICE-CAN:S1B-070#7:1:A> Yeah I guess <}> <-> <@> Tom </@> </-> <=> Tom </=> </}> was
+
+not happy with that <,>
+<ICE-CAN:S1B-070#8:1:A> I don't agree with <unclear> two or three words </unclear>
+
+<$B> <ICE-CAN:S1B-070#9:1:B> And <,,> the number of decisions that came about <unclear> rest
+
+of utterance </unclear>
+
+<$A> <ICE-CAN:S1B-070#10:1:A> <{> <[> Uhh </[>
+
+<$Z> <ICE-CAN:S1B-070#11:1:Z> <[> <O> interruption from another speaker </O> </[> </{>
+
+<$B> <ICE-CAN:S1B-070#12:1:B> <unclear> utterance </unclear>
+
+<$A> <ICE-CAN:S1B-070#13:1:A> Well <}> <-> I </-> <=> I </=> </}> don't think it was
+
+unreasonable
+<ICE-CAN:S1B-070#14:1:A> <}> <-> <@> Tom </@> </-> <=> Tom </=> </}> advised people that he
+
+was uh <,> <}> <-> not </-> <=> no longer </=> </}> <}> <-> gonna </-> <+>
+
+going to </+> </}> be part of the organization and obviously people who <}>
+
+<-> bought </-> <=> may have bought </=> </}> cos <@> Tom </@> was <unclear>
+
+three words </unclear> so <,> if they rescinded <}> <-> I </-> <=> that's
+
+</=> </}> not unreasonable <,,>
+<ICE-CAN:S1B-070#15:1:A> I think it <,> I think it was a couple of days <&> pause about 10
+
+seconds </&>
+
+<$B> <ICE-CAN:S1B-070#16:1:B> Now <,> I believe you indicated <,> uhm <unclear> two words
+
+</unclear> before the jury that you got the replies <unclear> two or three
+
+words </unclear> in a pretty old fashioned way <O> paper shuffling and noises
+
+block rest of utterance </O>
+
+<$A> <ICE-CAN:S1B-070#17:1:A> Well we didn't think there would be as many <?> interested
+
+</?>
+
+<$B> <ICE-CAN:S1B-070#18:1:B> Alright and at that point you testified that the <unclear>
+
+rest of utterance </unclear> </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1B-070#19:2:A> Thank you my lord <,>
+<ICE-CAN:S1B-070#20:2:A> Now <,> Doctor <@> Hubbard </@> first of all I'd just like to uh be
+
+clear on uh what facts uh it is that you were relying on for the evidence
+
+that you <unclear> word </unclear> this morning when you described the
+
+various <?> diagnoses </?> of uh <@> Homer Simpson </@>
+
+<$A> <ICE-CAN:S1B-070#21:2:A> <}> <-> Was I </-> <=> Am I </=> </}> correct that you said
+
+that you were relying on your own interviews with him <?> prior </?> <,>
+<ICE-CAN:S1B-070#22:2:A> <?> It was he that gave you his background </?>
+
+<$B> <ICE-CAN:S1B-070#23:2:B> That's correct
+
+<$A> <ICE-CAN:S1B-070#24:2:A> Was there any other material that you usually record when
+
+you're doing your diagnostic <?> evaluation </?>
+
+<$B> <ICE-CAN:S1B-070#25:2:B> Uhm there was uhm a single uhm notion that the <w> social
+
+workers' </w> <,> report suggested that there was a <,> fear of uhm <,>
+
+<unclear> four or five words </unclear>
+
+<$A> <ICE-CAN:S1B-070#26:2:A> That was something that he had told <}> <-> the </-> <=> the
+
+</=> </}> <{> <[> <,,> </[> social workers
+
+<$B> <ICE-CAN:S1B-070#27:2:B> <[> Social workers </[> </{>
+
+<$A> <ICE-CAN:S1B-070#28:2:A> And was there anything else that basically <unclear> word
+
+</unclear> your <unclear> one or two words </unclear>
+
+<$B> <ICE-CAN:S1B-070#29:2:B> <}> <-> There wasn't any </-> Uh <=> there wasn't <?> really
+
+anything else </?> </=> </}>
+
+<$A> <ICE-CAN:S1B-070#30:2:A> Now I gather that uh from what you've told us that this was
+
+indeed the first time that you saw him it was <?> maybe because </?>
+
+<unclear> rest of utterance </unclear>
+
+<$B> <ICE-CAN:S1B-070#31:2:B> That's correct
+
+<$A> <ICE-CAN:S1B-070#32:2:A> And it wasn't until the third time that you met with him that
+
+there was this aspect of a <?> sort </?> of forensic analysis <,> uhm
+
+relevant to <unclear> two words </unclear>
+
+<$B> <ICE-CAN:S1B-070#33:2:B> That's right
+
+<$A> <ICE-CAN:S1B-070#34:2:A> And so that was uh how much time did you spend with him other
+
+than that
+
+<$B> <ICE-CAN:S1B-070#35:2:B> The interviews went an hour <,> half an hour and one hour only
+
+<unclear> two or three words </unclear> would have been <unclear> rest of
+
+utterance </unclear>
+
+<$A> <ICE-CAN:S1B-070#36:2:A> But I gather that just from what you've told us that it
+
+doesn't look like you've been asked for any other historical background
+
+information that you've been telling us about
+
+<$B> <ICE-CAN:S1B-070#37:2:B> That's right
+
+<$A> <ICE-CAN:S1B-070#38:2:A> And uh <}> <-> you were telling us that what wasn't </-> <=>
+
+wasn't </=> </}> your evidence implying <}> <-> that </-> <=> that </=> </}>
+
+one of the things you did was to rule out the <.> ca </.> like the idea of
+
+<unclear> word </unclear> <,> uhm with respect to the <unclear> two words
+
+</unclear>
+
+<$B> <ICE-CAN:S1B-070#39:2:B> I didn't necessarily say that I didn't rule that out
+
+<$A> <ICE-CAN:S1B-070#40:2:A> Would it have been of interest that you were making that
+
+statement and <?> determination </?> of hypotheses <unclear> two or three
+
+words </unclear>
+
+<$B> <ICE-CAN:S1B-070#41:2:B> Uhm <,> <}> <-> the </-> <=> the </=> </}> thing is can I say
+
+that uh <,> <?> you've <}> <-> gotta </-> <+> got to </+> </}> be </?>
+
+<unclear> two words </unclear> scientific <,> and I think that uh that's
+
+always one of the ways frankly that I use <}> <-> to to </-> uh <=> to </=>
+
+</}> see and uh to collect information as much as possible
+
+<$A> <ICE-CAN:S1B-070#42:2:A> So <unclear> three or four words </unclear> you might be able
+
+to tell me your own observations about <@> Homer Simpson </@> 's days gone by
+
+and that you might have gotten how his history from his parents <}> <-> about
+
+</-> <,> <=> about </=> </}> <unclear> word </unclear>
+<ICE-CAN:S1B-070#43:2:A> <}> <-> I </-> <=> I </=> </}> gather that this <unclear> word
+
+</unclear> phobia though is that with this particular phobia
+
+blood-injection-injury <,> uhm phobia <}> <-> it usually <.> i </.> </-> <=>
+
+it </=> </}> comes at a usual time
+
+<$B> <ICE-CAN:S1B-070#44:2:B> Yes
+
+<$A> <ICE-CAN:S1B-070#45:2:A> So a prior history uh would be associated <unclear> rest of
+
+utterance </unclear>
+
+<$B> <ICE-CAN:S1B-070#46:2:B> <unclear> utterance </unclear>
+
+<$A> <ICE-CAN:S1B-070#47:2:A> And uh I gather as well that <}> <-> this uh this </-> <,> <=>
+
+this </=> </}> particular phobia is uh <,> quite highly <,> familial <,>
+<ICE-CAN:S1B-070#48:2:A> What does that mean
+
+<$B> <ICE-CAN:S1B-070#49:2:B> That means it's akin to uh <,> families
+<ICE-CAN:S1B-070#50:2:B> At this point there's no other sheer evidence that I know of anyway
+
+that <unclear> one or two words </unclear> families
+<ICE-CAN:S1B-070#51:2:B> See the reality <}> <-> of </-> <=> of </=> </}> all phobias is
+
+that this is highly learned behaviour <,>
+<ICE-CAN:S1B-070#52:2:B> Typically <,> learned uhm <}> <-> via </-> <,> uhm <=> from </=>
+
+</}> the mother
+<ICE-CAN:S1B-070#53:2:B> Now <}> <-> this </-> <,> <=> this </=> </}> is cos of increased
+
+exposure <}> <-> to </-> <,> <=> to </=> </}> <unclear> three words
+
+</unclear> growing up <,>
+<ICE-CAN:S1B-070#54:2:B> It can usually be learned <}> <-> from </-> <=> from </=> </}>
+
+fathers as well <?> it depends who you're exposed to </?>
+<ICE-CAN:S1B-070#55:2:B> Phobias as a rule are learned behaviours <,> and can be learned
+
+from people like <unclear> word </unclear> who associate them with <?>
+
+suffering </?>
+<ICE-CAN:S1B-070#56:2:B> Now <unclear> four or five words </unclear> in that it is a <?>
+
+fatal </?> response is loss <}> <-> of </-> <,> <=> of </=> </}> uhm blood
+
+pressure <,> is a typical response and that is the part that <unclear> two or
+
+three words </unclear>
+
+<$A> <ICE-CAN:S1B-070#57:2:A> And I gather if you had been able to take <?> histories </?>
+
+of uhm some of the family members you might have been able to place out <}>
+
+<-> whether or not </-> <,> uhh <=> what </=> </}> those diagnoses <,>
+
+<unclear> word </unclear> <,,>
+<ICE-CAN:S1B-070#58:2:A> Now how can this uh get you to tell us
+<ICE-CAN:S1B-070#59:2:A> I think what I'd ask you to do if you don't mind Doctor <@> Hubbard
+
+</@> is to just tell us <}> <-> a bit of </-> <=> a bit more </=> </}> about
+
+amnesia
+<ICE-CAN:S1B-070#60:2:A> I would like the kinds of amnesia and <?> just a word or two </?>
+<ICE-CAN:S1B-070#61:2:A> Thank you
+
+<$B> <ICE-CAN:S1B-070#62:2:B> Uhm <,> there are a significant uh <unclear> word </unclear>
+
+of diagnoses that I <unclear> two or three words </unclear> and these two'll
+
+become evident <,> amnesia
+<ICE-CAN:S1B-070#63:2:B> These types are all short-term
+<ICE-CAN:S1B-070#64:2:B> <}> <-> They </-> <=> There's </=> </}> global amnesia <,> general
+
+amnesia and short-term amnesia
+
+<$A> <ICE-CAN:S1B-070#65:2:A> One time
+<ICE-CAN:S1B-070#66:2:A> Okay
+<ICE-CAN:S1B-070#67:2:A> <}> <-> One </-> <=> One </=> </}> time localized amnesia then
+
+<unclear> two or three words </unclear>
+
+<$B> <ICE-CAN:S1B-070#68:2:B> <unclear> Two or three words </unclear> localized amnesia is
+
+that it tends to look like <unclear> rest of utterance </unclear>
+
+<$A> <ICE-CAN:S1B-070#69:2:A> And is it correct with localized amnesia that what you find
+
+<}> <-> is </-> <,> <=> is </=> </}> maybe <,> some traumatic event has
+
+occurred like a person's been in a car accident or something like that <}>
+
+<-> and </-> <,> <=> and </=> </}> they lose a couple of hours or even a
+
+couple of days <,> around the event
+
+<$B> <ICE-CAN:S1B-070#70:2:B> Yes
+
+<$A> <ICE-CAN:S1B-070#71:2:A> And <}> <-> that </-> <=> that's </=> </}> what you <?>
+
+thought </?> is that
+
+<$B> <ICE-CAN:S1B-070#72:2:B> Uhm <}> <-> it </-> <,,> <=> I don't think </=> </}> <unclear>
+
+three or four words </unclear> to the person
+<ICE-CAN:S1B-070#73:2:B> Uhm memory actually is divided into <}> <-> the two </-> <=> the
+
+two </=> </}> aspects of memory
+<ICE-CAN:S1B-070#74:2:B> There's the active registration and the <unclear> word </unclear>
+
+recall
+<ICE-CAN:S1B-070#75:2:B> Uh registration is that part of the memory where memory is put <}>
+
+<-> into </-> <=> into </=> </}> uh that part of the brain where it's
+
+retained
+<ICE-CAN:S1B-070#76:2:B> Short-term memory is <unclear> three or four words </unclear>
+<ICE-CAN:S1B-070#77:2:B> The second part of memory is the <unclear> two words </unclear> is
+
+recall
+<ICE-CAN:S1B-070#78:2:B> Uhh recall is <unclear> two or three words </unclear> active <,>
+
+and uhh when memory is going to do a long <unclear> rest of utterance
+
+</unclear>
+
+<$A> <ICE-CAN:S1B-070#79:2:A> So uh with localized amnesia you're saying that the memory <,>
+
+forms but the recall is what's affected
+
+<$B> <ICE-CAN:S1B-070#80:2:B> I don't think that we know that
+
+<$B> <ICE-CAN:S1B-070#81:2:B> <{> <[> <unclear> Two or three words </unclear> </[> <unclear>
+
+three or four words </unclear>
+
+<$A> <ICE-CAN:S1B-070#82:2:A> <[> <unclear> Two or three words </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1B-070#83:2:B> The problem is that <}> <-> if </-> <=> if </=> </}> the
+
+registration <}> <-> is </-> <=> wasn't </=> </}> <unclear> two or three
+
+words </unclear> then you weren't able to put it into memory then basically
+
+there wouldn't be anything to recall
+<ICE-CAN:S1B-070#84:2:B> Uhm or perhaps <}> <-> there's </-> <=> because </=> </}> a
+
+disturbance is <unclear> three or four words </unclear> or whatever else
+<ICE-CAN:S1B-070#85:2:B> I don't think they you know
+<ICE-CAN:S1B-070#86:2:B> <}> <-> I sure don't </-> uh <=> I sure don't </=> </}> understand
+
+<$A> <ICE-CAN:S1B-070#87:2:A> Now I gather that from <}> <-> when I </-> <=> what I </=>
+
+</}> saw one who suffers uh localized amnesia <,> that it may be the case <}>
+
+<-> that </-> <=> that </=> </}> they know everything about that day that <{>
+
+<[> <unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1B-070#88:2:B> <[> Possibly </[> </{> <O> loud cough </O> <unclear> four or
+
+five words </unclear> of course you know
+
+<$B> <ICE-CAN:S1B-070#89:2:B> But uh <,> but
+
+<$A> <ICE-CAN:S1B-070#90:2:A> And what are the other possibilities I mean <}> <-> how </->
+
+<,> <=> well <}> <-> how </-> <=> how </=> </}> </=> </}> complicated is it
+
+to get the memories back after <?> you <,> suffer </?> <}> <-> <.> local </.>
+
+</-> <=> localized </=> </}> amnesia
+
+<$B> <ICE-CAN:S1B-070#91:2:B> <{> <[> Uhm </[>
+
+<$A> <ICE-CAN:S1B-070#92:2:A> <[> Cos it's not </[> </{>
+
+<$A> <ICE-CAN:S1B-070#93:2:A> If it's not coming back at all how does <unclear> two or three
+
+words </unclear>
+
+<$B> <ICE-CAN:S1B-070#94:2:B> It's very uhm <,> I think there <,> for example would be
+
+<unclear> two or three words </unclear> <?> hit it with </?> <,> where a
+
+person has had <,> uhm localized amnesia over a period of time uhm when he
+
+was drunk
+<ICE-CAN:S1B-070#95:2:B> If you start from <,> that <}> <-> once </-> uhm <=> once </=> </}>
+
+the trauma of an episode is over <,> it's gone
+<ICE-CAN:S1B-070#96:2:B> It'll come back once the <unclear> rest of utterance </unclear>
+
+<$A> <ICE-CAN:S1B-070#97:2:A> <}> <-> Can it can it </-> <=> Can it </=> </}> come back
+
+within a couple of hours
+
+<$B> <ICE-CAN:S1B-070#98:2:B> It can
+
+<$A> <ICE-CAN:S1B-070#99:2:A> <}> <-> It </-> <=> Then </=> </}> can it be said <?> that
+
+that would be unusual </?> <&> could be 'uh usual' </&>
+
+<$B> <ICE-CAN:S1B-070#100:2:B> Uhm <,> <}> <-> <.> i </.> </-> <=> it </=> </}> would <,>
+
+yes
+
+<$A> <ICE-CAN:S1B-070#101:2:A> Uh and <,> now is that what we're talking about with respect
+
+to <@> Homer Simpson </@>
+<ICE-CAN:S1B-070#102:2:A> Sort of <,> <unclear> three or four words </unclear> would it be
+
+an account of localized amnesia <,> by your own <?> standards </?> <,>
+
+<$B> <ICE-CAN:S1B-070#103:2:B> Localized amnesia as I said can take place as far as ten uhm
+
+<unclear> three or four words </unclear> and <,> I would say that the top <?>
+
+layer <?> indicates that the <,> <?> confusional </?> description in the <O>
+
+interference on tape covers rest of utterance </O>
+
+<$A> <ICE-CAN:S1B-070#104:2:A> And is there any aspect <}> <-> to to </-> <=> of </=> </}>
+
+the ones described to you of those incidents that doesn't make sense <,,> and
+
+is there a <unclear> three or four words </unclear>
+
+<$B> <ICE-CAN:S1B-070#105:2:B> Uhm
+
+<$A> <ICE-CAN:S1B-070#106:2:A> Is there something about the <unclear> word </unclear> or the
+
+<unclear> two words </unclear> <,> that's unusual <,,>
+
+<$B> <ICE-CAN:S1B-070#107:2:B> <}> <-> I'm I'm not </-> <=> I don't </=> </}> think there's
+
+anything particularly useful about that
+<ICE-CAN:S1B-070#108:2:B> I'd say the classic uhm <unclear> word </unclear> of amnesia could
+
+take <,> you know three or four uhm up to twelve months and even his loss has
+
+been <?> external </?> so <,> it is variable
+
+<$A> <ICE-CAN:S1B-070#109:2:A> Now I gather that what you're telling us that amnesia is <,>
+
+is a feature of <,> when you're talking about <unclear> four or five words
+
+</unclear>
+
+<$B> <ICE-CAN:S1B-070#110:2:B> Okay
+
+<$A> <ICE-CAN:S1B-070#111:2:A> Uhh <}> <-> how does </-> <=> how does </=> </}> amnesia
+
+relate to behaviour <}> <-> at the </-> <,> <=> at that </=> </}> time
+
+<$B> <ICE-CAN:S1B-070#112:2:B> Well uhm <,,> <}> <-> I <.> g </.> I I </-> <=> I need </=>
+
+</}> to picture my <unclear> two or three words </unclear> <?> for instance
+
+</?> <,> uhm indicates a blackout an alcoholic blackout
+<ICE-CAN:S1B-070#113:2:B> <}> <-> The </-> <=> The </=> </}> problem uhm with alcohol
+
+blackouts is that <,> the person is intoxicated <,> and <,> is not able to
+
+lay down memories
+<ICE-CAN:S1B-070#114:2:B> They can still be functioning <,> they can still be doing some
+
+things other people can <unclear> word </unclear>
+<ICE-CAN:S1B-070#115:2:B> So all kinds of people experience alcoholic blackouts <,> <}> <->
+
+and </-> <,> <=> and </=> </}> absolutely no recall <,> <}> <-> of the </->
+
+<=> of the </=> </}> event
+<ICE-CAN:S1B-070#116:2:B> But their behaviour though will try to like <,>
+<ICE-CAN:S1B-070#117:2:B> Perhaps people who uhm <,> are <,> I <}> <-> dunno </-> <+> don't
+
+know </+> </}> <,> maybe not aware of what was happening <,> you know view it
+
+<}> <-> as as </-> <,> <=> as </=> </}> <unclear> rest of utterance
+
+</unclear>
+<ICE-CAN:S1B-070#118:2:B> But <}> <-> I </-> <=> I </=> </}> think that the direction that
+
+this is going <}> <-> is is </-> <=> is </=> </}> I think it's important for
+
+you to see is that the specific things the <unclear> word </unclear> the
+
+agility <,> the panic attack the <unclear> word </unclear> attack and that is
+
+the more important thing <{> <[> <unclear> three words </unclear> </[> the
+
+rest of it I think is
+
+<$A> <ICE-CAN:S1B-070#119:2:A> <[> And <}> <-> I I </-> <=> I </=> </}> </[> </{>
+
+<$A> <ICE-CAN:S1B-070#120:2:A> We can get into that <,> Doctor uh <@> Hubbard </@> but I
+
+<unclear> three or four words </unclear> answer my question of amnesia
+<ICE-CAN:S1B-070#121:2:A> I mean is it not correct <}> <-> that </-> <,> <=> that </=> </}>
+
+the fact that someone doesn't remember what <}> <-> they </-> <,> <=> they've
+
+</=> </}> done doesn't mean that they won't <{> <[> <unclear> two or three
+
+words </unclear> </[>
+
+<$B> <ICE-CAN:S1B-070#122:2:B> <[> Okay <,> yes <,> yes </[> </{> <,,>
+
+<$A> <ICE-CAN:S1B-070#123:2:A> So <?> then later on </?> <unclear> word </unclear> there's
+
+no way <unclear> four or five words </unclear>
+
+<$B> <ICE-CAN:S1B-070#124:2:B> <?> <}> <-> Can't </-> <=> You can't </=> </}> </?> <,>
+
+<unclear> two or three words </unclear>
+
+<$A> <ICE-CAN:S1B-070#125:2:A> The fact that they no longer recall <,> <}> <-> the </-> <=>
+
+the </=> </}> time
+<ICE-CAN:S1B-070#126:2:A> Something's telling me that <unclear> two or three words
+
+</unclear> don't know anything about the level of functioning
+
+<$B> <ICE-CAN:S1B-070#127:2:B> No <,> they don't <&> pause about 10 seconds </&>
+
+<$A> <ICE-CAN:S1B-070#128:2:A> Now going through <}> <-> the </-> uhh <,> <=> the </=> </}>
+
+incidents that you rely on <,> and I gather that <O> loud throat clearing,
+
+shuffling papers covers about 8 seconds </O> <,> and uhm and they do describe
+
+too I gather uhh a <?> sort </?> of amnesia associated with that <,,>
+
+<$B> <ICE-CAN:S1B-070#129:2:B> The function including brain <{> <[> <unclear> word
+
+</unclear> </[>
+
+<$A> <ICE-CAN:S1B-070#130:2:A> <[> Were </[> </{> you able to <?> pick out a time </?> <,>
+
+from what you had <unclear> rest of utterance </unclear>
+
+<$B> <ICE-CAN:S1B-070#131:2:B> It was uh <,> he <,,>
+<ICE-CAN:S1B-070#132:2:B> <}> <-> I don't </-> <=> I don't </=> </}> recall what happened
+
+<,,>
+
+<$A> <ICE-CAN:S1B-070#133:2:A> <}> <-> You refer in your </-> uh <=> I was just referring to
+
+</=> </}> your <unclear> word </unclear> of your report you said <}> <->
+
+amnesia </-> <,> <=> amnesia </=> </}> can take hmm <,> a break
+<ICE-CAN:S1B-070#134:2:A> I was just wondering if you <?> know of </?> a specific time point
+
+when <unclear> word </unclear> stops
+
+<$B> <ICE-CAN:S1B-070#135:2:B> It says the next two hours
+<ICE-CAN:S1B-070#136:2:B> So <}> <-> it </-> <=> it </=> </}> starts at uh
+<ICE-CAN:S1B-070#137:2:B> Well <}> <-> I didn't I didn't </-> uh <=> I heard </=> </}> uh
+
+the people were uh going to be around
+
+<$A> <ICE-CAN:S1B-070#138:2:A> That wasn't something you had seen to uhm
+
+<$B> <ICE-CAN:S1B-070#139:2:B> I didn't <,> no <,,>
+
+<$A> <ICE-CAN:S1B-070#140:2:A> And then uh the one other activity that you uh <,> rely on is
+
+<unclear> three words </unclear> where <,> <?> only one is obviously </?> <,>
+
+<$B> <ICE-CAN:S1B-070#141:2:B> Yeah <,> <}> <-> and </-> <,> <=> and </=> </}> the reason
+<ICE-CAN:S1B-070#142:2:B> All we did <}> <-> is </-> also <=> was </=> </}> just <unclear>
+
+two or three words </unclear> <?> to express </?> amnesia
+<ICE-CAN:S1B-070#143:2:B> At that point in time <}> <-> I </-> <=> I </=> </}> don't recall
+<ICE-CAN:S1B-070#144:2:B> I think that he just described sort of the <?> intrusion </?> up
+
+to the event <,> uhm <,> which <unclear> one or two words </unclear> a thirty
+
+to forty-five minute episode of amnesia <unclear> two or three words
+
+</unclear> from the time of the event to the time of being in the hospital
+
+after being treated
+
+<$A> <ICE-CAN:S1B-070#145:2:A> Okay
+<ICE-CAN:S1B-070#146:2:A> <}> <-> <.> A </.> </-> <=> And </=> </}> uh can you tell us uh
+
+Doctor <@> Hubbard </@> uhm did you inquire with him <}> <-> for more </->
+
+<=> for any more </=> </}> details about this particular incident than what
+
+he told
+
+<$B> <ICE-CAN:S1B-070#147:2:B> I didn't <,>
+
+<$A> <ICE-CAN:S1B-070#148:2:A> I uh
+
+<$B> <ICE-CAN:S1B-070#149:2:B> I was relying on <unclear> one or two words </unclear> that
+
+uh
+
+<$A> <ICE-CAN:S1B-070#150:2:A> So I gather that what he told you was that uh he <?> took <?>
+
+his foot up out of his boot and the skin <?> had been <?> hanging <?> from
+
+his </?> foot
+
+<$B> <ICE-CAN:S1B-070#151:2:B> On the foot yes <,>
+
+<$A> <ICE-CAN:S1B-070#152:2:A> And then he put his foot back in his <,> boot
+<ICE-CAN:S1B-070#153:2:A> Uh did you inquire about where his sock was
+
+<$B> <ICE-CAN:S1B-070#154:2:B> I didn't
+
+<$A> <ICE-CAN:S1B-070#155:2:A> Did it <,> strike you at the time
+
+<$A> <ICE-CAN:S1B-070#156:2:A> <}> <-> Did it </-> <{> <[> <=> Did it </=> </}> </[> just
+
+make sense to you
+
+<$B> <ICE-CAN:S1B-070#157:2:B> <[> No I </[> </{>
+
+<$A> <ICE-CAN:S1B-070#158:2:A> <{> <[> <unclear> two or three words </unclear> </[>
+
+<$B> <ICE-CAN:S1B-070#159:2:B> <[> <unclear> two or three words </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1B-070#160:2:B> Cos he told me there was skin hanging from the foot I <,>
+
+assumed that the sock <unclear> word </unclear>
+
+<$A> <ICE-CAN:S1B-070#161:2:A> I see <,>
+<ICE-CAN:S1B-070#162:2:A> But you didn't ask him about that <,>
+<ICE-CAN:S1B-070#163:2:A> <unclear> utterance </unclear>
+
+<$B> <ICE-CAN:S1B-070#164:2:B> No <,> I didn't think it was necessary <,,>
+
+<$A> <ICE-CAN:S1B-070#165:2:A> And uh I gather that uh you didn't have <?> any kind </?> of
+
+access to hospital records on that night <,>
+
+<$B> <ICE-CAN:S1B-070#166:2:B> <}> <-> I </-> <=> I </=> </}> didn't
+
+<$A> <ICE-CAN:S1B-070#167:2:A> So <}> <-> I </-> <=> it's </=> </}> correct is it not that
+
+when <unclear> three or four words </unclear> to the hospital that they
+
+would've known about his <{> <[> <unclear> two or three words </unclear> </[>
+
+<$B> <ICE-CAN:S1B-070#168:2:B> <[> That's right </[> </{>
+
+<$A> <ICE-CAN:S1B-070#169:2:A> That was <unclear> three or four words </unclear> <,>
+
+<$A> <ICE-CAN:S1B-070#170:2:A> And uhm <,,> I gather <}> <-> the other incident was </-> uh
+
+<,> <=> the other incident was </=> </}> <unclear> rest of utterance
+
+</unclear>
+
+<$B> <ICE-CAN:S1B-070#171:2:B> That's correct yeah
+
+<$A> <ICE-CAN:S1B-070#172:2:A> Uhm <,> and uh <?> here I see <?> I gather you <?> described
+
+</?> a <unclear> word </unclear> amnesia three
+
+<$B> <ICE-CAN:S1B-070#173:2:B> Yes <,>
+
+<$A> <ICE-CAN:S1B-070#174:2:A> Any comment <}> <-> on on on </-> <=> on </=> </}> <,> what
+
+kind of amnesia that is <,> that <unclear> two words </unclear>
+
+<$B> <ICE-CAN:S1B-070#175:2:B> Well that was the name for an episode where the same type of
+
+response where <,> there was an injury <,> there was a time <}> <-> of </->
+
+uhm <,> <=> of </=> </}> impaired memory impaired judgement </I>

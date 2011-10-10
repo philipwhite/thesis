@@ -1,0 +1,633 @@
+<I> <&> Large amount of background noise/hubbub throughout </&>
+
+<$A> <ICE-CAN:S1B-074#1:1:A> pair of skis
+
+<$B> <ICE-CAN:S1B-074#2:1:B> Uh huh
+
+<$A> <ICE-CAN:S1B-074#3:1:A> Well <}> <-> the first thing </-> <,> <=> the first thing </=>
+
+</}> I need to know is first of all <,> what size do I need <,>
+<ICE-CAN:S1B-074#4:1:A> Because I'm not sure
+
+<$B> <ICE-CAN:S1B-074#5:1:B> Well it depends what are you looking <.> f </.> like are you
+
+looking for skis or are you looking for boots or are you looking for
+
+everything <,>
+
+<$A> <ICE-CAN:S1B-074#6:1:A> Well <,> okay I guess well I'll start with the skis <{> <[>
+
+okay <?> and </?> we can look </[> at the skis but <}> <-> I need to make
+
+</-> <=> I need to be sure </=> </}> what length <,> I'm supposed to get
+
+<$B> <ICE-CAN:S1B-074#7:1:B> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-074#8:1:B> <,> Uhm <,> well you need
+<ICE-CAN:S1B-074#9:1:B> Well first of all <unclear> two or three words </unclear> <?>
+
+consider </?> <,> have you been skiing for a long time
+
+<$A> <ICE-CAN:S1B-074#10:1:A> Uhm <,> I've been skiing <,,>
+<ICE-CAN:S1B-074#11:1:A> Well how long have I been skiing I <}> <-> dunno </-> <+> don't
+
+know </+> </}> <}> <-> since </-> <=> well since </=> </}> I was a teenager
+
+so like eleven ten years I guess
+
+<$B> <ICE-CAN:S1B-074#12:1:B> And <}> <-> what </-> <=> what </=> </}> level do you consider
+
+yourself to be
+<ICE-CAN:S1B-074#13:1:B> <?> Would you say you'd be </?> beginner intermediate <,> advanced
+
+<$A> <ICE-CAN:S1B-074#14:1:A> Uhm <,> I would say <,> intermediate
+<ICE-CAN:S1B-074#15:1:A> Like I don't ski that often <{> <[> <,> but </[> I've been skiing
+
+and I'm pretty good you know like I've <,>
+
+<$B> <ICE-CAN:S1B-074#16:1:B> <[> Mm </[> </{>
+
+<$A> <ICE-CAN:S1B-074#17:1:A> And I'm <,> like daring you know I'm not like a wimpy <?>
+
+person </?> <unclear> one or two words </unclear> but
+
+<$B> <ICE-CAN:S1B-074#18:1:B> And <,> how much do you weigh
+
+<$A> <ICE-CAN:S1B-074#19:1:A> <,> Weigh
+<ICE-CAN:S1B-074#20:1:A> <O> laugh starts </O> Secret question <O> laugh ends </O>
+<ICE-CAN:S1B-074#21:1:A> About a hundred and twenty
+
+<$B> <ICE-CAN:S1B-074#22:1:B> A hundred and twenty okay <,>
+<ICE-CAN:S1B-074#23:1:B> <}> <-> The reason why </-> <=> The reason why </=> </}> I ask
+
+people <}> <-> why <,> why </-> <=> how much </=> </}> they weigh <{> <[> <,>
+
+is </[> we need to accomodate we need to be able to find the skier some <?>
+
+suitable skis for </?> the knees of the skier
+
+<$A> <ICE-CAN:S1B-074#24:1:A> <[> Uh huh </[> </{>
+
+<$A> <ICE-CAN:S1B-074#25:1:A> Why
+
+<$B> <ICE-CAN:S1B-074#26:1:B> <unclear> Two words </unclear> length as well as weight
+
+because one thing that's <?> important </?> when you're looking <}> <-> for
+
+skiing </-> <,> <=> for a good ski </=> </}> is uh <,> you need your weight
+
+to be evenly distributed throughout the ski
+<ICE-CAN:S1B-074#27:1:B> <unclear> Two or three words </unclear> because what happens is
+
+you're not using the tip of your ski <,> and then with that you lose a lot of
+
+grip on the ice and <}> <-> you <unclear> word </unclear> </-> <=> you're not
+
+</=> </}> getting enough of the ski
+<ICE-CAN:S1B-074#28:1:B> Your legs are more balanced on the ski <,> <?> there </?> than
+
+using maximum leverage on the ski and you gain more control
+
+<$A> <ICE-CAN:S1B-074#29:1:A> <?> Well </?> <,> wait a second I don't understand <,,>
+<ICE-CAN:S1B-074#30:1:A> Depending on how much I <{1> <[1> weigh </[1> you <}> <-> put the
+
+</-> <=> put
+<ICE-CAN:S1B-074#31:1:A> <{2> <[2> the </=> </}> binding in the </[2> right place
+
+<$B> <ICE-CAN:S1B-074#32:1:B> <[1> Mm hmm </[1> </{1>
+
+<$B> <ICE-CAN:S1B-074#33:1:B> <[> Well it depends </[> </{>
+<ICE-CAN:S1B-074#34:1:B> No no <}> <-> it it's more </-> <=> it's more like </=> </}>
+<ICE-CAN:S1B-074#35:1:B> <}> <-> <@> Jerry's </@> <@> Jerry's </@> a </-> <,> <=> <@>
+
+Jerry's </@> <.> g </.> a </=> </}> good skier <,> right
+<ICE-CAN:S1B-074#36:1:B> <@> Jerry's </@> <?> around </?> your height and weight
+<ICE-CAN:S1B-074#37:1:B> If you have somebody that's uh <,> two hundred and twelve odd
+
+pounds for example you <}> <-> wanna </-> <+> want to </+> </}> put them on a
+
+ski that's <}> <-> a hundred </-> <=> a hundred </=> </}> and seventy-seven
+
+centimetres in length <{> <[> <,>
+<ICE-CAN:S1B-074#38:1:B> Because </[> ideally <,> we want the weight to be evenly
+
+distributed around the ski
+
+<$A> <ICE-CAN:S1B-074#39:1:A> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-074#40:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-074#41:1:B> The reason for this <,> is what happens if the weight is too
+
+concentrated in the centre the person weighs too much <,> for the ski the ski
+
+is not long enough <,> what'll happen <,> is that the person is not able the
+
+ski <?> does </?> not functioning <,> to that person's ability
+<ICE-CAN:S1B-074#42:1:B> <}> <-> But what'll <.> ha </.> </-> <=> But you might </=> </}>
+
+<unclear> word </unclear> cos <}> <-> there's uh there's not enough <unclear>
+
+word </unclear> </-> <=> there's not enough </=> </}> weight distributed
+
+throughout the ski
+
+<$A> <ICE-CAN:S1B-074#43:1:A> <{> <[> Okay <&> drawn out </&> </[>
+
+<$B> <ICE-CAN:S1B-074#44:1:B> <[> So what </[> </{> happens is so for example <?> when
+
+people are </?> on ice <,> the ski will lose its grip
+
+<$A> <ICE-CAN:S1B-074#45:1:A> <,> Oh <}> <-> so that's </-> <=> so that's </=> </}> the
+
+whole point <,> of having different length skis <{> <[> <,,> is </[>
+
+<$B> <ICE-CAN:S1B-074#46:1:B> <[> <,> Right
+<ICE-CAN:S1B-074#47:1:B> <?> It </?> </[> </{> varies according to your height and to your
+
+weight
+
+<$A> <ICE-CAN:S1B-074#48:1:A> And your weight
+<ICE-CAN:S1B-074#49:1:A> Okay so it's both combined
+<ICE-CAN:S1B-074#50:1:A> Cos yeah I always knew the height but I didn't know the weight
+
+<$B> <ICE-CAN:S1B-074#51:1:B> Right
+
+<$A> <ICE-CAN:S1B-074#52:1:A> So <}> <-> don't </-> <=> aren't </=> </}> you <}> <-> gonna
+
+</-> <+> going to </+> </}> ask me how tall I am or <,>
+
+<$B> <ICE-CAN:S1B-074#53:1:B> Well uh actually I can see how tall you are
+<ICE-CAN:S1B-074#54:1:B> <{> <[> <unclear> utterance </unclear> </[>
+
+<$A> <ICE-CAN:S1B-074#55:1:A> <[> Oh take a guess </[> </{> how tall am I
+
+<$B> <ICE-CAN:S1B-074#56:1:B> I <unclear> word </unclear>
+<ICE-CAN:S1B-074#57:1:B> Well you see that's the thing is that's why it's usually good to
+
+have a ski <?> right there so I <?> can line it up <unclear> word </unclear>
+
+<?> body </?>
+<ICE-CAN:S1B-074#58:1:B> For a beginner skier we usually go head height <,>
+<ICE-CAN:S1B-074#59:1:B> The intermediate skier you usually want between five and fifteen
+
+centimetres over your head
+<ICE-CAN:S1B-074#60:1:B> <?> There's a </?> <unclear> word </unclear> to five inches
+
+<$A> <ICE-CAN:S1B-074#61:1:A> <{> <[> Right </[>
+
+<$B> <ICE-CAN:S1B-074#62:1:B> <}> <-> <[> And </[> </{> </-> <=> And </=> </}> then <,>
+
+basically advanced or expert skier you should uhm <,> <unclear> word
+
+</unclear> <?> you give <}> <-> em </-> <+> them </+> </}> some <[> advice
+
+</?> <{> </[> <?>
+
+<$A> </?>
+<ICE-CAN:S1B-074#63:1:A> <[> <unclear> word </unclear> </[> </{>
+
+<$B> <ICE-CAN:S1B-074#64:1:B> The <unclear> word </unclear> skier knows how long a ski they
+
+need by their own ability and <,> <}> <-> how they can </-> <=> how they can
+
+</=> </}> <unclear> word </unclear> their turns and they know <,> whether a
+
+ski is too long for them or not
+<ICE-CAN:S1B-074#65:1:B> If they feel they <?> can </?> control it <,> then it's not a
+
+problem to them
+
+<$A> <ICE-CAN:S1B-074#66:1:A> <{> <[> Okay </[>
+
+<$B> <ICE-CAN:S1B-074#67:1:B> <[> That </[> </{> <,> you know
+
+<$B> <ICE-CAN:S1B-074#68:1:B> <}> <-> One thing yeah that's </-> <=> One thing that's </=>
+
+</}> a problem that usually happens when people <,,>
+<ICE-CAN:S1B-074#69:1:B> You know with kids <,> <}> <-> the parents </-> <=> the parents
+
+</=> </}> are always concerned about the length of the skis so sometimes they
+
+want it to be bigger and longer <{> <[> <,> <unclear> word </unclear> </[>
+
+you know when they're growing
+
+<$A> <ICE-CAN:S1B-074#70:1:A> <[> Oh okay </[> </{>
+
+<$B> <ICE-CAN:S1B-074#71:1:B> <,> They can keep the ski for a few years
+
+<$A> <ICE-CAN:S1B-074#72:1:A> Oh yeah
+
+<$B> <ICE-CAN:S1B-074#73:1:B> <O> speaker has short conversation with an extra-corpus
+
+speaker </O>
+
+<$A> <ICE-CAN:S1B-074#74:1:A> That's not very professional
+
+<$B> <ICE-CAN:S1B-074#75:1:B> <O> speaker finishes conversation with extra-corpus speaker
+
+</O>
+
+<$B> <ICE-CAN:S1B-074#76:1:B> Sorry <,> uhm <,>
+<ICE-CAN:S1B-074#77:1:B> Ya as I was saying as I was saying basically uh <,>
+<ICE-CAN:S1B-074#78:1:B> What the hell was I saying <,>
+
+<$A> <ICE-CAN:S1B-074#79:1:A> You were talking about the length of the ski
+<ICE-CAN:S1B-074#80:1:A> <}> <-> Uh the <.> l </.> </-> <=> Uhm the </=> </}> <.> h </.>
+<ICE-CAN:S1B-074#81:1:A> You were talking about kids
+<ICE-CAN:S1B-074#82:1:A> <{> <[> Like sometimes the parents want </[>
+
+<$B> <ICE-CAN:S1B-074#83:1:B> <[> Right
+
+<$B> <ICE-CAN:S1B-074#84:1:B> Like <}> <-> sometimes </-> </[> </{> <=> sometimes </=> </}>
+
+the parents will want a longer ski so they don't have to <,> buy them the
+
+next year <,>
+
+<$A> <ICE-CAN:S1B-074#85:1:A> Oh really
+
+<$B> <ICE-CAN:S1B-074#86:1:B> Ya
+<ICE-CAN:S1B-074#87:1:B> So <}> <-> <.> tha </.> </-> <=> that </=> </}> sometimes happens
+
+but the thing is is really <,> the safety <}> <-> of </-> <=> of </=> </}>
+
+the skier is the first and foremost important thing to worry about
+
+<$A> <ICE-CAN:S1B-074#88:1:A> <{> <[> Oh really </[>
+
+<$B> <ICE-CAN:S1B-074#89:1:B> <[> It's not always </[> </{> <?> that </?> important to go
+
+for the sale
+<ICE-CAN:S1B-074#90:1:B> It's really important to look <}> <-> for </-> uh <{> <[> <=> for
+
+</=> </}> the important thing </[> <}> <-> to </-> <,> <=> to </=> </}>
+
+<$A> <ICE-CAN:S1B-074#91:1:A> <[> A safe ski </[> </{>
+
+<$B> <ICE-CAN:S1B-074#92:1:B> You know ideally what you <}> <-> wanna </-> <+> want to </+>
+
+</}> do is you <}> <-> wanna </-> <+> want to </+> </}> suit the skier <,>
+
+for their needs
+<ICE-CAN:S1B-074#93:1:B> Like you <}> <-> wanna </-> <+> want to </+> </}> find them the
+
+right equipment so that <,> what they're getting is uh <,> <}> <-> something
+
+that's uh <,> you know something that's </-> uh <=> something that's <}> <->
+
+gonna </-> <+> going to </+> </}> </=> </}> <?> like </?> <,> suit their
+
+needs as a skier and not uh
+<ICE-CAN:S1B-074#94:1:B> You know something that they can <?> use </?>
+<ICE-CAN:S1B-074#95:1:B> Cos it's no fun it's like <,> if somebody goes out to buy a Porsche
+
+<,> and uh <,> they're sold a Subaru <,> they're not getting what they're
+
+looking for
+
+<$A> <ICE-CAN:S1B-074#96:1:A> <{> <[> Right right </[>
+
+<$B> <ICE-CAN:S1B-074#97:1:B> <[> <,> Whereas if there's </[> </{> someone's looking for a
+
+Subaru if they want a practical car for the <,> weekends or climbing hills or
+
+just <unclear> word </unclear> basic needs <,> they're not looking at a <}>
+
+<-> <.> sor </.> </-> <+> sports </+> </}> car
+
+<$A> <ICE-CAN:S1B-074#98:1:A> Right
+
+<$B> <ICE-CAN:S1B-074#99:1:B> So <,> ideally what you <}> <-> wanna </-> <+> want to </+>
+
+</}> do is you <}> <-> wanna </-> <+> want to </+> </}> suit the skier's
+
+needs
+<ICE-CAN:S1B-074#100:1:B> And you <}> <-> wanna </-> <+> want to </+> </}> give them the
+
+best possible product for their needs
+
+<$A> <ICE-CAN:S1B-074#101:1:A> Okay <,,>
+
+<$B> <ICE-CAN:S1B-074#102:1:B> Uhm <,> do you need ski boots
+<ICE-CAN:S1B-074#103:1:B> Ah one thing that we usually do is when <}> <-> we're suiting up a
+
+</-> <=> we're outfitting ah a </=> </}> customer or a skier <,> it's usually
+
+best to start with the boots because that's usually what takes the longest
+
+amount of time
+
+<$A> <ICE-CAN:S1B-074#104:1:A> Yeah
+
+<$B> <ICE-CAN:S1B-074#105:1:B> Ya
+
+<$A> <ICE-CAN:S1B-074#106:1:A> Well I'll take a look at the boots <,,> but uh <,> the truth
+
+is I already have a pair
+
+<$B> <ICE-CAN:S1B-074#107:1:B> You already have a pair
+
+<$A> <ICE-CAN:S1B-074#108:1:A> Yeah
+
+<$B> <ICE-CAN:S1B-074#109:1:B> <,,> Alright <,> uhm <,>
+<ICE-CAN:S1B-074#110:1:B> Alright
+
+<$A> <ICE-CAN:S1B-074#111:1:A> Look <}> <-> I </-> <=> I </=> </}> wouldn't mind just
+
+looking at the boots just to see what you have available just <unclear> one
+
+or two words </unclear> <{> <[> like </[> it <,> so
+
+<$B> <ICE-CAN:S1B-074#112:1:B> <[> Sure </[> </{>
+
+<$A> <ICE-CAN:S1B-074#113:1:A> You never know I might <}> <-> wanna </-> <+> want to </+>
+
+</}> upgrade <,,> <&> approximately 20 seconds of hubbub; no conversation; B
+
+is perhaps humming? </&>
+
+<$B> <ICE-CAN:S1B-074#114:1:B> <unclear> utterance </unclear>
+<ICE-CAN:S1B-074#115:1:B> <,,> <&> more extra-corpus conversation? </&> Uhm <,,> uhm
+
+<$A> <ICE-CAN:S1B-074#116:1:A> Are these all second-hand or
+
+<$B> <ICE-CAN:S1B-074#117:1:B> No these are all new boots
+
+<$A> <ICE-CAN:S1B-074#118:1:A> Okay these are all new
+
+<$B> <ICE-CAN:S1B-074#119:1:B> Ya <,>
+
+<$A> <ICE-CAN:S1B-074#120:1:A> <{> <[> So </[>
+
+<$B> <ICE-CAN:S1B-074#121:1:B> <[> And uhm </[> </{> <,> basically in terms of price they
+
+range around from ninety-nine dollars uh <unclear> word </unclear> down
+
+<unclear> word </unclear> <}> <-> but </-> <=> but </=> </}>
+<ICE-CAN:S1B-074#122:1:B> Really they're from about ninety-nine dollars sorry <}> <-> <.>
+
+sist </.> </-> <+> sixty-three </+> </}> dollars for a junior ski boot <,>
+
+right up to <,> let's see here <unclear> two or three words </unclear> but uh
+
+<,> uh around two hundred dollars <?> depending </?>
+
+<$A> <ICE-CAN:S1B-074#123:1:A> <{> <[> <?> Oh really </?> </[>
+
+<$B> <ICE-CAN:S1B-074#124:1:B> <[> And that's </[> </{> so yeah some of these prices have
+
+been marked down from uh about two seventy-five
+
+<$B> <ICE-CAN:S1B-074#125:1:B> So the savings <}> <-> are </-> <=> are </=> </}> you know
+
+quite <,> quite uhm you know uh
+
+<$A> <ICE-CAN:S1B-074#126:1:A> Significant
+
+<$B> <ICE-CAN:S1B-074#127:1:B> Ya
+
+<$A> <ICE-CAN:S1B-074#128:1:A> <}> <-> How </-> <=> How </=> </}> come you guys have such
+
+<,> you know <,> good prices
+<ICE-CAN:S1B-074#129:1:A> Like why do you get <?> a </?> good deal
+
+<$B> <ICE-CAN:S1B-074#130:1:B> So what we do is we're liquidating all of our own equipment
+
+and all <?> the old </?> equipment <}> <-> for </-> uh <=> for </=> </}>
+
+somebody else and uh
+<ICE-CAN:S1B-074#131:1:B> So it's worked out we get to make a profit off some of that money
+
+<$A> <ICE-CAN:S1B-074#132:1:A> You mean for some companies that haven't sold their equipment
+
+you're liquidating for them
+
+<$B> <ICE-CAN:S1B-074#133:1:B> Exactly
+
+<$A> <ICE-CAN:S1B-074#134:1:A> Oh <?> okay </?>
+
+<$B> <ICE-CAN:S1B-074#135:1:B> So this is where actually uh somebody <unclear> three or four
+
+words </unclear> <@> Thomas </@> we liquidate his equipment and as we said we
+
+make some of the money <,> off him and he makes some of the money off us <{>
+
+<[> so </[>
+
+<$A> <ICE-CAN:S1B-074#136:1:A> <[> Okay </[> </{>
+
+<$B> <ICE-CAN:S1B-074#137:1:B> <}> <-> <.> I </.> </-> <+> It's </+> </}> a good balance
+<ICE-CAN:S1B-074#138:1:B> Yeah it's a good
+<ICE-CAN:S1B-074#139:1:B> <?> Absolutely </?> there are things that it helps uh <,>
+<ICE-CAN:S1B-074#140:1:B> Yeah it works for both people and <}> <-> helps uh it helps us get
+
+</-> you know <,> <=> it helps us to <}> <-> make </-> <=> raise </=> </}>
+
+money more </=> </}> so that we can compete on the circuit <,>
+
+<$A> <ICE-CAN:S1B-074#141:1:A> I see
+<ICE-CAN:S1B-074#142:1:A> So <,> basically you're making money for your ski team you get a
+
+<?> nice </?> big deal and you're liquidating their <{> <[> stock </[> so
+
+everybody's <,>
+
+<$B> <ICE-CAN:S1B-074#143:1:B> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-074#144:1:B> Exactly <}> <-> everybody </-> <=> everybody </=> </}>
+
+benefits from <?> that </?>
+
+<$A> <ICE-CAN:S1B-074#145:1:A> Okay
+<ICE-CAN:S1B-074#146:1:A> So what's the difference between these boots like uh <,> I mean
+
+besides the price
+
+<$B> <ICE-CAN:S1B-074#147:1:B> <{> <[> Besides the price okay </[> <,>
+
+<$A> <ICE-CAN:S1B-074#148:1:A> <[> <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1B-074#149:1:B> Uhm
+
+<$A> <ICE-CAN:S1B-074#150:1:A> Cos are these ones like one thirty these ones're two thirty
+
+so it's something
+<ICE-CAN:S1B-074#151:1:A> Okay <}> <-> look <.> a </.> </-> <=> take </=> </}> these two
+
+what's the difference between them
+
+<$B> <ICE-CAN:S1B-074#152:1:B> Well <,> first of all the difference is <,> <}> <-> there's
+
+</-> <=> there's </=> </}> a little bit of a difference in the sense that
+
+this one was ah <,> actually a woman's boot and this one's a men's boot
+<ICE-CAN:S1B-074#153:1:B> <{1> <[1> And </[1> <,>
+<ICE-CAN:S1B-074#154:1:B> <{2> <[2> in terms </[2> of
+
+<$A> <ICE-CAN:S1B-074#155:1:A> <[1> Okay </[1> </{1>
+
+<$A> <ICE-CAN:S1B-074#156:1:A> <[2> <}> <-> Why uh </-> </[2> </{2> <=> Why </=> </}> do men
+
+and women need different <{> <[> <,> boots </[>
+
+<$B> <ICE-CAN:S1B-074#157:1:B> <[> Well <,> </[> </{> generally the thing is is that uh most
+
+of men's feet are a little bit <unclear> word </unclear> shaped a bit
+
+differently than women's feet to be a bit <,> wider <,> and uh to be a bit
+
+longer <,> as well
+<ICE-CAN:S1B-074#158:1:B> Most of the time <,> <}> <-> most </-> <=> most </=> </}> men
+
+usually weigh <,> a bit more <,> than women and therefore they need a little
+
+bit <,> stiffer boot
+<ICE-CAN:S1B-074#159:1:B> But ah each boot varies according to the ability of the skier
+
+<$A> <ICE-CAN:S1B-074#160:1:A> Okay
+
+<$B> <ICE-CAN:S1B-074#161:1:B> For example <,> this one here's a beginner boot
+
+<$A> <ICE-CAN:S1B-074#162:1:A> <,> Why is it a beginn <?> ing </?> boot like what <{> <[>
+
+makes it <unclear> word </unclear> </[>
+
+<$B> <ICE-CAN:S1B-074#163:1:B> <[> Well <,> what makes </[> </{> it a beginner boot
+
+<$B> <ICE-CAN:S1B-074#164:1:B> Well the thing is is when you're looking at a <?> different
+
+<?> boot <,> is you're looking at uh <,> not so much <?> career </?> but <}>
+
+<-> you're looking more at </-> uh <=> you're looking more in terms </=> </}>
+
+of uh the flex of the boot <,> uhm the stiffness of the boot rigidity <,>
+
+what kind of support it offers <,> and whether it flexes a lot or they don't
+
+<,>
+<ICE-CAN:S1B-074#165:1:B> See it all varies and <?> when </?> you have a beginner skier it's
+
+really important that they're able to bend their knees and to <,> apply
+
+pressure to the skis in order to complete the turn
+
+<$A> <ICE-CAN:S1B-074#166:1:A> Okay
+
+<$B> <ICE-CAN:S1B-074#167:1:B> And <}> <-> what's happened is uh <,> if </-> <=> <}> <->
+
+what happens is </-> if you put a beginner skier <,> in an advanced boot <,>
+
+<=> what happens is </=> </}> the boot's so stiff <,> is that they're </=>
+
+</}> <}> <-> gonna </-> <+> going to </+> </}> have a lot of problems turning
+
+the ski because they're not able to transfer pressure from the foot <,> onto
+
+the ski
+<ICE-CAN:S1B-074#168:1:B> Therefore <,> and vice versa with an advanced skier <,> if you
+
+have somebody <?> who <?> 're very heavy or very strong <,> <?> then that
+
+weight </?> is <}> <-> gonna </-> <+> going to </+> </}> crush the boot and
+
+the boot will not control according <{> <[> to the weight </[>
+
+<$A> <ICE-CAN:S1B-074#169:1:A> <[> I'm sorry </[> </{> what their weight is <}> <-> gonna
+
+</-> <+> going to </+> </}> crush the boot <?> or </?> because
+
+<$B> <ICE-CAN:S1B-074#170:1:B> Their weight and their strength the weight <unclear> word
+
+</unclear> the ski <?> it varies </?> right
+<ICE-CAN:S1B-074#171:1:B> <}> <-> It It </-> <=> It </=> </}> really depends
+
+<$A> <ICE-CAN:S1B-074#172:1:A> Right
+
+<$B> <ICE-CAN:S1B-074#173:1:B> And in general when you have somebody who's <}> <-> a </->
+
+<,> <?> like </?> <=> a </=> </}> more advanced skier <,> you have someone
+
+who's a more advanced skier they tend to be a little bit more aggressive uhm
+<ICE-CAN:S1B-074#174:1:B> These are all important <{> <[> questions </[> that we ask or we
+
+asked a skier <}> <-> before </-> <=> before </=> </}> outfitting them
+
+<$A> <ICE-CAN:S1B-074#175:1:A> <[> <unclear> word </unclear> </[> </{>
+
+<$A> <ICE-CAN:S1B-074#176:1:A> Okay
+
+<$B> <ICE-CAN:S1B-074#177:1:B> So <}> <-> what happens </-> <=> the reason why </=> </}> we
+
+ask so many questions sometimes <,> people can become offended when we're
+
+asking <,>
+<ICE-CAN:S1B-074#178:1:B> You know they become a little bit <unclear> word </unclear> why
+
+are you asking so many <{> <[> questions
+<ICE-CAN:S1B-074#179:1:B> But </[> the only reason why is <}> <-> that </-> <=> that </=>
+
+</}> you can best you know <}> <-> <.> out </.> <.> out </.> </-> <=> outfit
+
+</=> </}> the needs of the skier to the best support <unclear> word
+
+</unclear>
+
+<$A> <ICE-CAN:S1B-074#180:1:A> <[> Mm </[> </{>
+
+<$A> <ICE-CAN:S1B-074#181:1:A> Right
+
+<$B> <ICE-CAN:S1B-074#182:1:B> To their needs
+
+<$A> <ICE-CAN:S1B-074#183:1:A> Right <,> <?> okay </?>
+
+<$B> <ICE-CAN:S1B-074#184:1:B> That's why we ask so many questions
+
+<$A> <ICE-CAN:S1B-074#185:1:A> Okay
+
+<$B> <ICE-CAN:S1B-074#186:1:B> But uhm
+
+<$A> <ICE-CAN:S1B-074#187:1:A> So this one's a beginner boot so that probably wouldn't be
+
+good for me <,>
+
+<$B> <ICE-CAN:S1B-074#188:1:B> Uhm <,> no
+<ICE-CAN:S1B-074#189:1:B> But you see that's the other thing too is sometimes <}> <-> if you
+
+have an advanced if you have a </-> <=> if you have a beginner skier </=>
+
+</}> <,> who weighs you know <,> three hundred and eighty pounds if you have
+
+<}> <-> a </-> you know <,> ah <,> <=> a </=> </}> pleasantly plump <,>
+
+customer <{> <[> <}> <-> who ah </[> <,> who wants </-> <=> you know who
+
+would like to </=> </}> ski <,> <}> <-> the <,> in some ways you want </->
+
+<,> <=> chances are <,> that uh </=> </}> <}> <-> <.> hi </.> </-> <+> his
+
+</+> </}> weight <,> <}> <-> will most likely </-> <=> <,> he'll need </=>
+
+</}> a bit of a stiffer boot because he weighs a lot more and therefore he
+
+needs the support
+
+<$A> <ICE-CAN:S1B-074#190:1:A> <[> Mm </[> </{>
+
+<$A> <ICE-CAN:S1B-074#191:1:A> Okay
+<ICE-CAN:S1B-074#192:1:A> So he <?> 'll </?> take a more advanced boot not because he's a
+
+good skier but because he's <,> big
+
+<$B> <ICE-CAN:S1B-074#193:1:B> Right
+<ICE-CAN:S1B-074#194:1:B> Totally
+<ICE-CAN:S1B-074#195:1:B> <}> <-> You're not </-> <=> You're not </=> </}> <}> <-> gonna
+
+</-> <+> going to </+> </}> sell him the top of the line boot because the
+
+thing is he's not <}> <-> gonna </-> <+> going to </+> </}> use that <{> <[>
+
+but </[> at the same time you <}> <-> wanna </-> <+> want to </+> </}> get
+
+something </I>

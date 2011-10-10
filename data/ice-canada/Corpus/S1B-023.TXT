@@ -1,0 +1,478 @@
+<I>
+
+<$A> <ICE-CAN:S1B-023#1:1:A> <@> Campbell </@>
+
+<$B> <ICE-CAN:S1B-023#2:1:B> I do
+<ICE-CAN:S1B-023#3:1:B> I've been trying to get <@> Kyle Stravitski </@> to take me out to
+
+the ball game <{1> <[1> without having to pay for a ticket but </[1> it
+
+hasn't worked
+<ICE-CAN:S1B-023#4:1:B> Yeah I've tried to drop hints left and right but no <,> <@> Kyle
+
+</@> doesn't <{2> <[2> listen so </[2>
+
+<$A> <ICE-CAN:S1B-023#5:1:A> <[1> <O> laugh </O> You poor underprivileged kid you </[1>
+
+</{1>
+
+<$A> <ICE-CAN:S1B-023#6:1:A> <[2> Ooh </[2> </{2>
+
+<$B> <ICE-CAN:S1B-023#7:1:B> And he's on vacation this week <{1> <[1> so he's not even
+
+listening right </[1> now in all <{2> <[2> likelihood
+<ICE-CAN:S1B-023#8:1:B> Right </[2>
+
+<$A> <ICE-CAN:S1B-023#9:1:A> <[1> Yeah not quite </[1> </{1>
+
+<$A> <ICE-CAN:S1B-023#10:1:A> <[2> Not the time to make your pitch </[2> </{2>
+
+<$B> <ICE-CAN:S1B-023#11:1:B> No <,> no <,> no I'll have to wait until he gets back <X>
+
+traffic report </X>
+<ICE-CAN:S1B-023#12:1:B> And uh due to the Francofolie this week uh I just <}> <-> wanna
+
+</-> <+> want to </+> </}> remind people that <indig> Sainte </indig> -
+
+Catherine Street uh downtown closed between St-Urban and Jean-Mans
+<ICE-CAN:S1B-023#13:1:B> That's right in front of Complexe Desjardins <,> until August the
+
+fifteenth
+<ICE-CAN:S1B-023#14:1:B> So uh <,> go out there and <{> <[> maybe just uh
+<ICE-CAN:S1B-023#15:1:B> Yeah that's right there's so many festivals
+<ICE-CAN:S1B-023#16:1:B> Just avoid it the whole summer </[>
+
+<$A> <ICE-CAN:S1B-023#17:1:A> <[> We're almost used to that though
+<ICE-CAN:S1B-023#18:1:A> Between the jazz festival and everything just write that block off
+
+</[> </{>
+
+<$B> <ICE-CAN:S1B-023#19:1:B> But no you should go down there and hang out at the festival
+
+cos it's a lot of <{> <[> fun </[>
+<ICE-CAN:S1B-023#20:1:B> Just take the Metro that's all
+
+<$A> <ICE-CAN:S1B-023#21:1:A> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-023#22:1:A> Yeah exactly
+<ICE-CAN:S1B-023#23:1:A> Safer way to go
+<ICE-CAN:S1B-023#24:1:A> Thank you very much <@> Campbell Jeffrey </@>
+<ICE-CAN:S1B-023#25:1:A> <@> Campbell </@> will check in again later with traffic
+<ICE-CAN:S1B-023#26:1:A> As we mentioned <@> Kyle Stravitski </@> is away this week <,> but
+
+we've got <@> Xavier Roth </@> who's got a look at sports right now </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1B-023#27:2:A> Eighteen minutes now past seven o'clock on Daybreak
+<ICE-CAN:S1B-023#28:2:A> <@> Jeanne Taylor </@> is still scribbling furiously
+<ICE-CAN:S1B-023#29:2:A>
+<ICE-CAN:S1B-023#30:2:A> <{1> <[1> Taking </[1> note
+<ICE-CAN:S1B-023#31:2:A> <{2> <[2> of what the editorials <.> re- </.> </[2>
+
+<$B> <ICE-CAN:S1B-023#32:2:B> <[1> <O> Laugh </O> </[1> </{1>
+
+<$B> <ICE-CAN:S1B-023#33:2:B> <[2> Editing
+<ICE-CAN:S1B-023#34:2:B> Editing </[2> </{2>
+
+<$A> <ICE-CAN:S1B-023#35:2:A> Oh editing there you go <O> laugh </O>
+<ICE-CAN:S1B-023#36:2:A> Um what's on in the editorial pages today
+
+<$B> <ICE-CAN:S1B-023#37:2:B> Well I thought I'd start with that piece in <indig> La Presse
+
+</indig> <&> local newspaper </&> by Simon Du Mont <}> <-> who is </-> <=>
+
+who talks </=> </}> about the ongoing conflict at the casino which is still
+
+closed and <}> <-> he <}> <-> <.> sa </.> </-> <+> says </+> </}> the </->
+
+<=> the headline is </=> </}> <quote> the casino <indig> La mauvaise cause
+
+</indig> </quote> or <quote> the wrong cause </quote>
+<ICE-CAN:S1B-023#38:2:B> He says uh the conflict there is one of the most unpopular labour
+
+management disputes in recent memory
+<ICE-CAN:S1B-023#39:2:B> And that you don't have to be anti-union to be unsympathetic with
+
+the demands uh being made by the union there for a four day week
+<ICE-CAN:S1B-023#40:2:B> He says the four day week is a good idea in theory but not
+
+practical at the casino
+<ICE-CAN:S1B-023#41:2:B> Uh the workers there want to work thirty eight hours over four days
+
+but they want forty <w> hours' </w> pay
+<ICE-CAN:S1B-023#42:2:B> And uh <@> Du Mont </@> says that uh <}> <-> if you're <}> <->
+
+gonna </-> <+> going to </+> </}> want </}> </-> <=> if you want </=> </}> a
+
+shorter work week <,> you have to take a cut in pay
+<ICE-CAN:S1B-023#43:2:B> There's no two ways about it he says
+
+<$A> <ICE-CAN:S1B-023#44:2:A> Yeah it certainly looks in many ways as though they were
+
+profiting from the great success of the casino that they went on strike so
+
+early into it's life
+
+<$B> <ICE-CAN:S1B-023#45:2:B> It was an incredible boom
+<ICE-CAN:S1B-023#46:2:B> They had to uh enlarge the parking lot over there almost
+
+immediately cos it was so crowded
+<ICE-CAN:S1B-023#47:2:B> But anyway he says this is economic nonsense <,> <}> <-> and it
+
+comes </-> <=> and this is </=> </}> money out of <w> taxpayers' </w> pockets
+
+<}> <-> since tax is- </-> <=> since casino revenue goes </=> </}> into the
+
+<}> <-> <.> consolida- </.> </-> <=> ah consolidated </=> <}> government
+
+funds just like tax revenues <,>
+<ICE-CAN:S1B-023#48:2:B> So he says he hopes that uh this arbitration proceeding that has
+
+been commenced <}> <-> will </-> <=> uh will </=> </}> put an end to it
+<ICE-CAN:S1B-023#49:2:B> And that they will follow the examples of the Charles LeVoie casino
+
+workers who've already signed an agreement
+<ICE-CAN:S1B-023#50:2:B> A more reasonable agreement according to <@> Du Mont </@>
+<ICE-CAN:S1B-023#51:2:B> Also in <indig> La Presse </indig> uhm the editorial cartoon today
+<ICE-CAN:S1B-023#52:2:B> The caption reads <quote> the hole in the ozone is getting bigger
+
+</quote>
+<ICE-CAN:S1B-023#53:2:B> And the answer <,> which is written in smoke <,> uh above <w>
+
+peoples' </w> homes <,> there's sort of smoke coming out of the chimneys says
+
+<quote> we don't
+<ICE-CAN:S1B-023#54:2:B> <[1> care </quote> </[1> </{1>
+<ICE-CAN:S1B-023#55:2:B> So uh <}> <-> I </-> <=> we </=> </}> haven't heard too much about
+
+the ozone <,> and the ongoing uh discussion about that and
+<ICE-CAN:S1B-023#56:2:B> <{2> <[2> this is <,,> </[2> uh the editorial <}> <-> <,> </-> <=> 's
+
+</=> </}> position
+<ICE-CAN:S1B-023#57:2:B> we <{3> <[3> haven't even heard about it </[3>
+<ICE-CAN:S1B-023#58:2:B> so interesting to mention <}> <-> that </-> <=> that </=> </}>
+
+<indig> La Presse </indig> decided to mention that
+
+<$A> <ICE-CAN:S1B-023#59:2:A> <[1> Hmm </[1> </{1>
+
+<$A> <ICE-CAN:S1B-023#60:2:A> <[2> No I remember even last year there was <}> <-> great </->
+
+<=> great </=> </}> talk about the hole being <}> <-> over </-> <=> over uh
+
+our region and even in the spring and in this year uh you know <unclear> word
+
+</unclear> </=> </}> </[2> </{2>
+
+<$A> <ICE-CAN:S1B-023#61:2:A> <[3> Yeah </[3> </{3>
+
+<$B> <ICE-CAN:S1B-023#62:2:B> In <indig> Le Devoir </indig> <@> Claude-Pierre Rossignol </@>
+
+talks about the necessity for a massive restructuring of the state apparatus
+
+in Quebec
+<ICE-CAN:S1B-023#63:2:B> Ah he says it's important that the public sector <,> ah be
+
+completely ah reorganized
+<ICE-CAN:S1B-023#64:2:B> Says in fact Quebecers want and consume more consumer goods uh than
+
+ever before
+<ICE-CAN:S1B-023#65:2:B> That the standard of living really hasn't dropped <,> despite
+
+layoffs and uh recessionary sort of glitches
+<ICE-CAN:S1B-023#66:2:B> He says the problem is that <,> Quebecers want more luxury goods
+
+<,>
+<ICE-CAN:S1B-023#67:2:B> Uh trips V C Rs home computers <,>
+<ICE-CAN:S1B-023#68:2:B> And they also pay more taxes
+<ICE-CAN:S1B-023#69:2:B> So ahm he says the problem is that there's these two dynamics at
+
+work
+<ICE-CAN:S1B-023#70:2:B> And <}> <-> we want </-> <=> and to go along with that we want </=>
+
+</}> increased services from the state and we can't have all those things
+<ICE-CAN:S1B-023#71:2:B> So there has to be a major restructuring of the health and uh
+
+education uh <}> <-> <.> st </.> </-> <=> services </=> <}>
+<ICE-CAN:S1B-023#72:2:B> <{> <[> Uhmmm </[>
+
+<$A> <ICE-CAN:S1B-023#73:2:A> <[> That's interesting
+<ICE-CAN:S1B-023#74:2:A> I mean it's <}> <-> that </-> <=> that </=> </}> sort of take on
+
+things that we haven't heard
+<ICE-CAN:S1B-023#75:2:A> We shouldn't be feeling so sorry for <O> laugh </O> ourselves <{>
+
+<[> I guess <O> laugh </O> </[> </{> </[>
+
+<$B> <ICE-CAN:S1B-023#76:2:B> <[> It's true </[> </{>
+
+<$B> <ICE-CAN:S1B-023#77:2:B> And finally I just thought I'd leave you with a note from the
+
+Globe and Mail that says that uh thinking uses up fifteen calories <,> per
+
+hour
+<ICE-CAN:S1B-023#78:2:B> just thinking
+<ICE-CAN:S1B-023#79:2:B> <{> <[> Doing nothing else but thinking </[>
+
+<$A> <ICE-CAN:S1B-023#80:2:A> <[> well goodness me
+<ICE-CAN:S1B-023#81:2:A> Aren't we just </[> </{> burning like mad here this morning then
+
+<O> laugh </O>
+
+<$B> <ICE-CAN:S1B-023#82:2:B> <O> Laugh </O>
+
+<$A> <ICE-CAN:S1B-023#83:2:A> Thank you very much for your calorie burning exercise <{> <[>
+
+this morning </[>
+
+<$B> <ICE-CAN:S1B-023#84:2:B> <[> Talk to you later </[> </{>
+
+<$A> <ICE-CAN:S1B-023#85:2:A> That's <@> Jeanne Taylor </@>
+<ICE-CAN:S1B-023#86:2:A> It is just twenty-one minutes now past seven o'clock on Daybreak
+
+<O> music </O> </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1B-023#87:3:A> Mmm
+
+<$B> <ICE-CAN:S1B-023#88:3:B> <[> Tossing frisbees around and <O> laugh </O> </[> </{>
+
+<$B> <ICE-CAN:S1B-023#89:3:B> Oh yes
+<ICE-CAN:S1B-023#90:3:B> And uh good news in traffic too <@> Alana </@>
+<ICE-CAN:S1B-023#91:3:B> Things are working still uh very well in from the West Island and
+
+Southshore and Laval
+<ICE-CAN:S1B-023#92:3:B> Also from Vaudreuil Hudson three lanes open eastbound on the Trans
+
+Canada
+<ICE-CAN:S1B-023#93:3:B> And soon that construction will be over so just <,> hold on cos
+
+that will soon be finished
+<ICE-CAN:S1B-023#94:3:B> Also watch out for fog patches coming in from outlying areas
+<ICE-CAN:S1B-023#95:3:B> They are slowly burning off though
+
+<$A> <ICE-CAN:S1B-023#96:3:A> Yeah it's looking a little <{> <[> hazy </[> as again we've
+
+got our video picture of the city out there
+
+<$B> <ICE-CAN:S1B-023#97:3:B> <[> Yeah </[> </{>
+
+<$A> <ICE-CAN:S1B-023#98:3:A> Well that should burn off to give us a sunny day
+<ICE-CAN:S1B-023#99:3:A> A high of thirty degrees
+<ICE-CAN:S1B-023#100:3:A> So another lovely day much like yesterday
+<ICE-CAN:S1B-023#101:3:A> And as promised another one tomorrow
+<ICE-CAN:S1B-023#102:3:A> So let's hope we can deliver on that
+<ICE-CAN:S1B-023#103:3:A> So far so good </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1B-023#104:4:A> <@> Kristeen Ball </@> 's our reporter in Sweden where she
+
+watched yesterday's big race and she joins us live
+<ICE-CAN:S1B-023#105:4:A> And <@> Kristeen </@> the fastest two men in the world this year
+
+are Canadians
+<ICE-CAN:S1B-023#106:4:A> They are basking in the glory right now but <,> I guess they don't
+
+have a lot of time to celebrate because Bailey and Surin will be taking part
+
+in another big race later this week
+
+<$B> <ICE-CAN:S1B-023#107:4:B> That's right
+<ICE-CAN:S1B-023#108:4:B> They've uh got their pictures on the front page of every Swedish
+
+newspaper over here but already their thoughts are turning to the four by one
+
+hundred men's relay race
+<ICE-CAN:S1B-023#109:4:B> Now the first round is going to be held on Saturday but even
+
+before then <,> uh Team Canada has to announce who is going to run alongside
+
+of Bruny and Donovan
+<ICE-CAN:S1B-023#110:4:B> It's a four man team
+<ICE-CAN:S1B-023#111:4:B> We can expect an announcement either later today or tomorrow
+<ICE-CAN:S1B-023#112:4:B> And it's going to be exciting especially <@> Xavier </@> because
+
+<,> Americans Dennis Mitchell and Carl Lewis are out of contention altogether
+
+with injuries
+<ICE-CAN:S1B-023#113:4:B> There was a possibility they could run
+<ICE-CAN:S1B-023#114:4:B> They were favoured to win the gold but with them out it looks like
+
+<,> maybe another gold medal for Canada
+<ICE-CAN:S1B-023#115:4:B> And uh still with sprinting Lynford Christie <,> who did not place
+
+at all in the men's one hundred metre yesterday <,> he has a hamstring injury
+<ICE-CAN:S1B-023#116:4:B> He went down at the end of the men's one hundred metre <,> and
+
+we're still waiting word on the severity of that injury
+
+<$A> <ICE-CAN:S1B-023#117:4:A> Hmm
+<ICE-CAN:S1B-023#118:4:A> Now Canada of course is celebrating however Graham Hood of
+
+Oakville Ontario <,> uh one of our top middle distance runners will not be
+
+taking part at this year's World's
+
+<$B> <ICE-CAN:S1B-023#119:4:B> No he's disappointed and the entire Canadian team is
+
+disappointed <,> because it was going to be sort of <}> <-> a </-> <=> a </=>
+
+</}> two-pronged thrust for Canada in the men's fifteen hundred with Graham
+
+Hood and Kevin Sullivan
+<ICE-CAN:S1B-023#120:4:B> But word this morning from England <,> where Graham has been
+
+recovering from a hamstring injury that he suffered in an eight hundred metre
+
+race in Sheffield earlier <,> it's just too severe
+<ICE-CAN:S1B-023#121:4:B> He's been working with physiotherapy and light workouts <,> but he
+
+can't run the race that he would like to so he has withdrawn altogether
+<ICE-CAN:S1B-023#122:4:B> So it's just <}> <-> gonna </-> <+> going to </+> </}> be Kevin
+
+Sullivan <,> to keep an eye out for later this week
+
+<$A> <ICE-CAN:S1B-023#123:4:A> And what's the situation with <}> <-> our </-> <=> our </=>
+
+</}> decathlete Michael Smith
+
+<$B> <ICE-CAN:S1B-023#124:4:B> Well I've got an update for you there <@> Xavier </@>
+<ICE-CAN:S1B-023#125:4:B> After seven events Michael of Kenora has moved up <,> now he's in
+
+fourth place <,> with Dan O'Brien the very famous American decathlete still
+
+out in front with a sizeable lead in first place and right now they're just
+
+getting the pole vault competition underway
+
+<$A> <ICE-CAN:S1B-023#126:4:A> Thanks <@> Kristeen </@>
+
+<$B> <ICE-CAN:S1B-023#127:4:B> You're welcome
+
+<$A> <ICE-CAN:S1B-023#128:4:A> That's <@> Kristeen Ball </@> reporting live from the World
+
+Track and Field Championships in Sweden </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1B-023#129:5:A> <quote> So Pretty </quote> by the Cranberries
+<ICE-CAN:S1B-023#130:5:A> Well it's hard to start thinking about wool sweaters and winter
+
+coats when you're <,> wearing shorts and a t-shirt but it's almost that time
+
+of year again
+<ICE-CAN:S1B-023#131:5:A> The fall clothes are hitting the stores right about now
+<ICE-CAN:S1B-023#132:5:A> And we wanted to find out what to expect in the coming months so
+
+we sent Daybreak's <@> Marie McDonald </@> out to check out all the new Fall
+
+fashions and she joins me now in the studio
+
+<$A> <ICE-CAN:S1B-023#133:5:A> Good morning <@> Marie </@>
+
+<$B> <ICE-CAN:S1B-023#134:5:B> Hi <@> Alana </@>
+
+<$A> <ICE-CAN:S1B-023#135:5:A> Hey
+
+<$B> <ICE-CAN:S1B-023#136:5:B> Well I went out and visited Angela Buccarro Montreal designer
+
+Angela Buccarro yesterday
+<ICE-CAN:S1B-023#137:5:B> I actually went to <}> <-> her </-> <=> her </=> </}> office up
+
+<}> <-> in ah </-> <=> in </=> </}> Saint Leonard <,> which is also her
+
+studio and her warehouse so as you can imagine it was <{> <[> it was </[> oh
+
+yeah <O> laugh </O> yeah there was just bolts <}> <-> of </-> <=> of </=>
+
+</}> you know colourful wools and chenille lying around and paper patterns on
+
+cutting tables and <,> racks and racks of fall merchandise <,> just waiting
+
+to be shipped out
+
+<$A> <ICE-CAN:S1B-023#138:5:A> <[> All happening there </[> </{>
+
+<$B> <ICE-CAN:S1B-023#139:5:B> Now I wanted to quiz her on what we'll be seeing in stores
+
+<,> but first I had to find out what we won't be seeing
+
+<$C> <ICE-CAN:S1B-023#140:5:C> You know the grunge look has been finished
+<ICE-CAN:S1B-023#141:5:C> I don't think people <}> <-> wanna </-> <+> want to </+> </}> look
+
+like that anymore
+<ICE-CAN:S1B-023#142:5:C> And you know <}> <-> it's </-> <=> it's </=> </}> so bizarre
+
+because for a time in fashion I mean <}> <-> I </-> <=> I </=> </}> did that
+
+thing too I mean I did the grunge look so I'm guilty also
+<ICE-CAN:S1B-023#143:5:C> But it's so funny because you know you can spend a lot of money
+
+and you look <,> poor
+<ICE-CAN:S1B-023#144:5:C> But this season I think it's going more towards this Hollywood
+
+glamour
+<ICE-CAN:S1B-023#145:5:C> This nineteen forties uh appeal like the green coat I showed you
+
+with the big shawl collar and the big pockets and the tabs on the pockets
+<ICE-CAN:S1B-023#146:5:C> A real <}> <-> man </-> <=> man's </=> </}> cashmere coat
+<ICE-CAN:S1B-023#147:5:C> That's a spin-off of nineteen forties <,> where women look
+
+glamorous
+
+<$A> <ICE-CAN:S1B-023#148:5:A> Well glamorous
+<ICE-CAN:S1B-023#149:5:A> From Courtney Love to Joan Crawford I guess in one year
+<ICE-CAN:S1B-023#150:5:A> Now all that talk of glamour if that's back in and women are
+
+looking more like women uh how will that translate into what we'll see in the
+
+stores
+<ICE-CAN:S1B-023#151:5:A> I guess no more plaid no more baggy jeans no more scrappy sort of
+
+stuff
+<ICE-CAN:S1B-023#152:5:A> But what'll be replacing them
+
+<$B> <ICE-CAN:S1B-023#153:5:B> Well we'll start with the colours for fall because we're
+
+going uh back to the basics it looks like
+<ICE-CAN:S1B-023#154:5:B> No more baby blues or baby pinks or whatever so much
+<ICE-CAN:S1B-023#155:5:B> Didn't see much in the way of the metallics either that were
+
+popular for a while
+<ICE-CAN:S1B-023#156:5:B> <}> <-> <.> I </.> </-> <=> in </=> <}> terms of colour we're <}>
+
+<-> gonna </-> <+> going to </+> </}> be seeing a lot of <,> what Angela
+
+Bucarro calls <quote> the forest </quote> colours
+<ICE-CAN:S1B-023#157:5:B> So you can imagine that <}> <-> the </-> <=> the </=> </}> rich
+
+greens of the trees and the burgundies and <,> the chocolate brown that
+
+either you look great <{1> <[1> in </[1>
+<ICE-CAN:S1B-023#158:5:B> Earth tones exactly <,> rust and of course <,> lots of black
+<ICE-CAN:S1B-023#159:5:B> <{2> as always </[2>
+
+<$A> <ICE-CAN:S1B-023#160:5:A> <[1> Earth tones </[1> </{1>
+
+<$A> <ICE-CAN:S1B-023#161:5:A> <[2> I <?> was </?> thinking I look like death in all of
+
+those </[2> </{2>
+<ICE-CAN:S1B-023#162:5:A> <{3> <[3> Oh great </[3>
+
+<$B> <ICE-CAN:S1B-023#163:5:B> <[3> <O> laugh </O> </[3> </{3> You <}> <-> gotta </-> <+>
+
+got to </+> </}> find one colour there's usually one colour <}> <-> that </->
+
+<=> or </=> </}> <}> <-> one </-> <=> one </=> </}> <{1> <[1> shade or so
+
+</[1> that everybody looks good in
+
+<$A> <ICE-CAN:S1B-023#164:5:A> <[1> That you're safe with </[1> </{1>
+<ICE-CAN:S1B-023#165:5:A> yeah </I>

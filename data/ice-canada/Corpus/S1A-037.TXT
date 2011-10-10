@@ -1,0 +1,788 @@
+<I>
+
+<$B> <ICE-CAN:S1A-037#1:1:B> <}> <-> The <}> <-> Dip </-> <+> Diploma </+> </}> </-> <=> <{>
+
+<[> the <}> <-> Dip </-> <+> Diploma </+> </}> </=> </}> </[>
+
+<$A> <ICE-CAN:S1A-037#2:1:A> <[> <}> <-> Ad </-> <+> Adult </+> </}> <}> <-> Dip </-> <+>
+
+Diploma </+> </}> </[> </{>
+
+<$B> <ICE-CAN:S1A-037#3:1:B> <}> <-> Ad </-> <+> Adult </+> </}> <}> <-> Ad </-> <+> Adult
+
+</+> </}> <}> <-> Ed </-> <+> Education </+> </}> <}> <-> Dip </-> <+>
+
+Diploma </+> </}>
+
+<$A> <ICE-CAN:S1A-037#4:1:A> Ya
+
+<$B> <ICE-CAN:S1A-037#5:1:B> Oh okay
+
+<$A> <ICE-CAN:S1A-037#6:1:A> So that it's through <{1> <[1> but you see I </[1> then want to
+
+take that degree as you know and not turn it into a diploma but be able to
+
+contribute that <,> towards my pre-thesis <,>
+<ICE-CAN:S1A-037#7:1:A> <{2> <[2> credits </[2> in a Master's
+
+<$B> <ICE-CAN:S1A-037#8:1:B> <[1> <O> cough </O> </[1> </{1>
+
+<$B> <ICE-CAN:S1A-037#9:1:B> <[2> Mhh </[2> </{2>
+<ICE-CAN:S1A-037#10:1:B> Okay so <}> <-> you you want to </-> <=> if I understand correctly
+
+you want to </=> </}> take <}> <-> the the </-> <=> the </=> </}> <{1> <[1>
+
+diploma <,> </[1> and take all those credits
+<ICE-CAN:S1A-037#11:1:B> <{2> <[2> <,,> </[2> <}> <-> and </-> <=> and </=> </}> throw
+<ICE-CAN:S1A-037#12:1:B> <{3> <[3> them into the </[3>
+
+<$A> <ICE-CAN:S1A-037#13:1:A> <[1> Ya </[1> </{1>
+
+<$A> <ICE-CAN:S1A-037#14:1:A> <[2> Ya </[2> </{2>
+
+<$A> <ICE-CAN:S1A-037#15:1:A> <[3> Ya along </[3> </{3> with the stats course and the
+
+research and design course
+
+<$B> <ICE-CAN:S1A-037#16:1:B> And you <}> <-> wanna </-> <+> want to </+> </}> throw them
+
+<}> <-> <.> i </.> </-> <+> in </+> </}> <&> Phone rings </&>
+<ICE-CAN:S1A-037#17:1:B> What
+
+<$A> <ICE-CAN:S1A-037#18:1:A> <{> <[> Okay I guess </[> you can answer it
+
+<$B> <ICE-CAN:S1A-037#19:1:B> <[> Excuse me though </[> </{>
+<ICE-CAN:S1A-037#20:1:B> <{> <[> I guess I can answer it </[> ya
+
+<$A> <ICE-CAN:S1A-037#21:1:A> <[> It could <?> be home </?> </[> </{>
+
+<$B> <ICE-CAN:S1A-037#22:1:B> Just one moment
+
+<$A> <ICE-CAN:S1A-037#23:1:A> Isn't it after hours <X>
+
+<$B> <ICE-CAN:S1A-037#X24:1:B> Hello
+<ICE-CAN:S1A-037#X25:1:B> Yes
+<ICE-CAN:S1A-037#X26:1:B> Uhm actually I am
+<ICE-CAN:S1A-037#X27:1:B> Where are you
+<ICE-CAN:S1A-037#X28:1:B> Uh huh
+<ICE-CAN:S1A-037#X29:1:B> It did
+<ICE-CAN:S1A-037#X30:1:B> No we can we can split one
+<ICE-CAN:S1A-037#X31:1:B> Uhm I don't know where to get another cartridge though
+<ICE-CAN:S1A-037#X32:1:B> Uh uh trying to think
+<ICE-CAN:S1A-037#X33:1:B> Okay I'll just make a note of that
+<ICE-CAN:S1A-037#X34:1:B> I'll have to get one tomorrow
+<ICE-CAN:S1A-037#X35:1:B> Uh alright I'm glad you called and called me
+<ICE-CAN:S1A-037#X36:1:B> <}> <-> I'll get a </-> <=> I'll get a </=> </}> cartridge
+
+tomorrow
+<ICE-CAN:S1A-037#X37:1:B> No problem
+<ICE-CAN:S1A-037#X38:1:B> So they'll be another one there tomorrow night
+<ICE-CAN:S1A-037#X39:1:B> Mhh hmm
+<ICE-CAN:S1A-037#X40:1:B> Mhh hmm
+<ICE-CAN:S1A-037#X41:1:B> Ya
+<ICE-CAN:S1A-037#X42:1:B> Right
+<ICE-CAN:S1A-037#X43:1:B> So you're going to leave it there
+<ICE-CAN:S1A-037#X44:1:B> Okay
+<ICE-CAN:S1A-037#X45:1:B> Alright so
+<ICE-CAN:S1A-037#X46:1:B> No
+<ICE-CAN:S1A-037#X47:1:B> Alright uhm so maybe I'll speak to you later
+<ICE-CAN:S1A-037#X48:1:B> I'm <}> <-> sorta </-> <+> sort of </+> </}> in the <}> <-> me
+
+</-> <=> middle </=> </}> of something now
+<ICE-CAN:S1A-037#X49:1:B> Okay
+<ICE-CAN:S1A-037#X50:1:B> Talk to you later
+<ICE-CAN:S1A-037#X51:1:B> Bye </X> <&> One-sided telephone conversation </&>
+
+<$B> <ICE-CAN:S1A-037#52:1:B> Sorry about that
+
+<$A> <ICE-CAN:S1A-037#53:1:A> That's okay
+<ICE-CAN:S1A-037#54:1:A> <{> <[> Ya <,,> </[> so ya that's what I <}> <-> wanna </-> <+>
+
+want to </+> </}> do
+
+<$B> <ICE-CAN:S1A-037#55:1:B> <[> <O> cough </O> </[> </{>
+<ICE-CAN:S1A-037#56:1:B> Oh well hmm I wonder how that's <}> <-> gonna </-> <+> going to
+
+</+> </}> work <,> becuase <}> <-> they the </-> <=> I know </=> </}> that
+
+there's <}> <-> sorta </-> <+> sort of </+> </}> a rule about double counting
+
+credits
+
+<$A> <ICE-CAN:S1A-037#57:1:A> No <}> <-> it's not </-> <=> it wouldn't </=> </}> be double
+
+counting
+<ICE-CAN:S1A-037#58:1:A> I don't want the diploma
+
+<$B> <ICE-CAN:S1A-037#59:1:B> Oh you don't want the <{> <[> diploma </[>
+
+<$A> <ICE-CAN:S1A-037#60:1:A> <[> I just </[> </{> <}> <-> wanna </-> <+> want to </+> </}>
+
+complete the credits that will allow me to get certification <,>
+
+<$B> <ICE-CAN:S1A-037#61:1:B> Ohh right
+
+<$A> <ICE-CAN:S1A-037#62:1:A> And there is a precedent from University of Montreal
+
+<$B> <ICE-CAN:S1A-037#63:1:B> Somebody who <,> completed the requirments <}> <-> for the <}>
+
+<-> dip </-> <+> diploma </+> </}> </-> <=> for teacher <{> <[> certification
+
+</[> </=> </}> within a Master's <,> degree
+
+<$A> <ICE-CAN:S1A-037#64:1:A> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-037#65:1:A> It should be possible
+
+<$A> <ICE-CAN:S1A-037#66:1:A> I know it's just <{> <[> that </[> you know first of all <@>
+
+Gina </@> 's not being helpful because she doesn't want me to go and graduate
+
+from another department
+
+<$B> <ICE-CAN:S1A-037#67:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-037#68:1:A> <{> <[> She </[> wants me to graduate from <}> <-> Ad </-> <+>
+
+Adult </+> </}> <}> <-> Dip </-> <+> Diploma </+> </}  
+ 
+
+<$B> <ICE-CAN:S1A-037#69:1:B> <[> Mhh </[> </{>
+<ICE-CAN:S1A-037#70:1:B> Mhh hmm mhh hmm
+
+<$A> <ICE-CAN:S1A-037#71:1:A> <}> <-> And uh </-> <=> <,> and a </=> </}> lot of people just
+
+don't understand it
+<ICE-CAN:S1A-037#72:1:A> <}> <-> <{> <[> It's just </[> they </-> <=> you know </=> </}> <}>
+
+<-> it's just </-> <=> it's </=> </}> all too complicated for them
+
+<$B> <ICE-CAN:S1A-037#73:1:B> <[> Mhh </[> </{>
+<ICE-CAN:S1A-037#74:1:B> I've got the number of the ombudsman and I'm thinking maybe if I
+
+speak to the ombudsman and try to get them to see
+<ICE-CAN:S1A-037#75:1:B> I mean <}> <-> I </-> <=> why should I </=> </}> have to do <,>
+
+another stack of <{> <[> credits </[> to get around to doing my thesis
+
+<$B> <ICE-CAN:S1A-037#76:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-037#77:1:A> I mean how many courses can I take
+
+<$B> <ICE-CAN:S1A-037#78:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-037#79:1:A> <}> <-> They're not <,> <.> nuh </.> </-> <=> virtually none
+
+</=> </}> of them are helping me <}> <-> with what I'm </-> <=> with what my
+
+</=> </}> field is <,> except because I make them
+
+<$B> <ICE-CAN:S1A-037#80:1:B> Mhh hmm mhh hmm
+
+<$A> <ICE-CAN:S1A-037#81:1:A> You know
+
+<$B> <ICE-CAN:S1A-037#82:1:B> Mhh hmm ya <,> well
+
+<$A> <ICE-CAN:S1A-037#83:1:A> And some of them I can't
+
+<$B> <ICE-CAN:S1A-037#84:1:B> <}> <-> Well why don't </-> <=> you could call </=> </}> the
+
+ombudsperson <{> <[> you know </[>
+
+<$A> <ICE-CAN:S1A-037#85:1:A> <[> You think it's </[> </{> worth it
+
+<$B> <ICE-CAN:S1A-037#86:1:B> Well <,> <@> Marianne </@> is very good
+
+<$A> <ICE-CAN:S1A-037#87:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-037#88:1:B> <[> <@> Marianne </@> </[> </{> <@> Nelson </@> you know her
+
+<$A> <ICE-CAN:S1A-037#89:1:A> <{> <[> Mhh hmm </[>
+
+<$B> <ICE-CAN:S1A-037#90:1:B> <[> I would </[> </{> speak to her
+
+<$A> <ICE-CAN:S1A-037#91:1:A> Okay
+
+<$B> <ICE-CAN:S1A-037#92:1:B> She's terrific
+
+<$A> <ICE-CAN:S1A-037#93:1:A> <{> <[> Okay </[>
+
+<$B> <ICE-CAN:S1A-037#94:1:B> <[> She's </[> </{> very bright
+
+<$A> <ICE-CAN:S1A-037#95:1:A> Ya I just need <{1> <[1> somebody </[1> <}> <-> who can </->
+
+<=> who knows </=> </}> their way around the
+<ICE-CAN:S1A-037#96:1:A> <{2> <[2> university </[2>
+
+<$B> <ICE-CAN:S1A-037#97:1:B> <[1> She </[1> </{1>
+
+<$B> <ICE-CAN:S1A-037#98:1:B> <[2> This </[2> </{2> <{> <[> is </[>
+
+<$A> <ICE-CAN:S1A-037#99:1:A> <}> <-> <[> I'm </[> </{> just </-> <=> I just </=> </}> feel
+
+like <}> <-> I'm </-> <=> <,> I'm </=> </}> going in a circle and <}> <->
+
+every </-> <=> you know one person </=> </}> says yes the next person says no
+
+but I don't know how they all connect <{> <[> <,,> </[> and how we can
+
+connect it up <}> <-> and </-> <=> and </=> </}> <}> <-> get </-> <=> you
+
+know get </=> </}> this <,> cleared up
+
+<$B> <ICE-CAN:S1A-037#100:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-037#101:1:B> <}> <-> She can </-> <=> she's </=> </}> brilliant <{> <[> at </[>
+
+this
+
+<$A> <ICE-CAN:S1A-037#102:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1A-037#103:1:B> <}> <-> <{1> <[1> I mean I </[1> mean I <}> <-> <.> don </.>
+
+</-> <+> don't </+> </}> </-> <=>
+<ICE-CAN:S1A-037#104:1:B> <{2> <[2> <,,> I mean </[2> there's </=> </}> no guarantee that
+
+she can
+<ICE-CAN:S1A-037#105:1:B> <{3> <[3> <,> help <}> <-> but </-> <=> but </=> </}> </[3> if
+
+anybody knows <,>
+<ICE-CAN:S1A-037#106:1:B> <{4> <[4> how </[4> the university functions
+<ICE-CAN:S1A-037#107:1:B> <{5> <[5> <,,> </[5> she knows better than anybody
+
+<$A> <ICE-CAN:S1A-037#108:1:A> <[1> <@> Marianne </@> eh </[1> </{1>
+
+<$A> <ICE-CAN:S1A-037#109:1:A> <[2> I'm looking for my agenda </[2> </{2>
+
+<$A> <ICE-CAN:S1A-037#110:1:A> <[3> Well no but </[3> </{3>
+
+<$A> <ICE-CAN:S1A-037#111:1:A> <[4> Ya </[4> </{4>
+
+<$A> <ICE-CAN:S1A-037#112:1:A> <[5> Okay </[5> </{5>
+<ICE-CAN:S1A-037#113:1:A> Okay that's what I need
+<ICE-CAN:S1A-037#114:1:A> And somebody neutral you know where <}> <-> it they're not it they
+
+where they're <{> <[> you know </-> <=> they've got nothing at stake </=>
+
+</}> </[>
+
+<$B> <ICE-CAN:S1A-037#115:1:B> <[> Oh ya <,,> <}> <-> that's <,> </[> </{> </-> <=> that's
+
+</=> </}> the beauty <}> <-> of <{1> <[1> of </[1> </-> <=> of </=> </}> the
+<ICE-CAN:S1A-037#116:1:B> <{2> <[2> ombuds office <}> <-> cos </-> <=> <,> </[2>
+<ICE-CAN:S1A-037#117:1:B> <{3> <[3> because </=> </}> that person </[3> has no vested
+
+interest
+<ICE-CAN:S1A-037#118:1:B> <{4> <[4> <,,> </[4>
+<ICE-CAN:S1A-037#119:1:B> <{5> <[5> in </[5>
+
+<$A> <ICE-CAN:S1A-037#120:1:A> <[1> Ya </[1> </{1>
+
+<$A> <ICE-CAN:S1A-037#121:1:A> <[2> That's what I was thinking </[2> </{2>
+
+<$A> <ICE-CAN:S1A-037#122:1:A> <[3> Oh that's good to know </[3> </{3>
+
+<$A> <ICE-CAN:S1A-037#123:1:A> <[4> Exactly </[4> </{4>
+
+<$A> <ICE-CAN:S1A-037#124:1:A> <[5> <@> Marianne </@> </[5> </{5> who
+
+<$B> <ICE-CAN:S1A-037#125:1:B> <@> Nelson </@>
+
+<$A> <ICE-CAN:S1A-037#126:1:A> How do you spell it
+<ICE-CAN:S1A-037#127:1:A> N E L S O N
+
+<$B> <ICE-CAN:S1A-037#128:1:B> Right <,>
+<ICE-CAN:S1A-037#129:1:B> <@> Eight five eight two six five one </@>
+
+<$A> <ICE-CAN:S1A-037#130:1:A> <@> Two six five one </@>
+
+<$B> <ICE-CAN:S1A-037#131:1:B> <@> Two five two </@>
+<ICE-CAN:S1A-037#132:1:B> <@> Five one </@> is the secretary
+
+<$A> <ICE-CAN:S1A-037#133:1:A> Okay
+
+<$B> <ICE-CAN:S1A-037#134:1:B> <@> Five two </@> is <@> Marianne </@> 's number
+
+<$A> <ICE-CAN:S1A-037#135:1:A> Okay
+
+<$B> <ICE-CAN:S1A-037#136:1:B> Ya
+<ICE-CAN:S1A-037#137:1:B> And she's terrific
+<ICE-CAN:S1A-037#138:1:B> <{> <[> Well I </[> worked in that office for three years you know
+
+<$A> <ICE-CAN:S1A-037#139:1:A> <[> Okay </[> </{>
+<ICE-CAN:S1A-037#140:1:A> Really
+<ICE-CAN:S1A-037#141:1:A> <{> <[> Well that </[>
+
+<$B> <ICE-CAN:S1A-037#142:1:B> <[> I was a part </[> </{> - time ombudsman
+
+<$A> <ICE-CAN:S1A-037#143:1:A> Eww
+
+<$B> <ICE-CAN:S1A-037#144:1:B> Ya <,> and that's when <{> <[> I got to know her </[>
+
+<$A> <ICE-CAN:S1A-037#145:1:A> <[> Does this seem like </[> </{> a reasonable thing to
+
+approach them with
+
+<$B> <ICE-CAN:S1A-037#146:1:B> Sure
+<ICE-CAN:S1A-037#147:1:B> <}> <-> I mean you're <,> in a </-> <=> I think </=> </}> <}> <->
+
+in a </-> <=> in a </=> </}> sense you're asking for another student request
+
+<,,>
+
+<$A> <ICE-CAN:S1A-037#148:1:A> Ya <,> <{> <[> in the end </[>
+
+<$B> <ICE-CAN:S1A-037#149:1:B> <[> You're asking </[> </{>
+<ICE-CAN:S1A-037#150:1:B> Ya <}> <-> you </-> <=> you </=> </}> know in the final analysis
+
+you <}> <-> wanna </-> <+> want to </+> </}> present a case
+
+<$A> <ICE-CAN:S1A-037#151:1:A> Ya I figure <,> <}> <-> I've got almost the </-> <=> <}> <->
+
+I </-> <=> I </=> </}> probably have </=> </}> like with the thirty credits
+
+some of them won't count <{> <[> <,> towards </[> a Master's degree
+
+<$B> <ICE-CAN:S1A-037#152:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-037#153:1:B> Mhh <{> <[> hmm </[>
+
+<$A> <ICE-CAN:S1A-037#154:1:A> <[> So </[> </{> they'll be just dead weight
+
+<$B> <ICE-CAN:S1A-037#155:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-037#156:1:A> Right
+<ICE-CAN:S1A-037#157:1:A> So they won't count so <}> <-> I'll lose </-> <=> I'll lose </=>
+
+</}> <}> <-> maybe uh <,,> six </-> <=> <,> easily six </=> </}> because it's
+
+practicum
+
+<$B> <ICE-CAN:S1A-037#158:1:B> Mhh hmm mhh hmm ya
+
+<$A> <ICE-CAN:S1A-037#159:1:A> And then maybe a couple of other courses that won't count
+
+<$B> <ICE-CAN:S1A-037#160:1:B> <{> <[> Mhh hmm </[>
+
+<$A> <ICE-CAN:S1A-037#161:1:A> <[> But then </[> </{> there's the research
+<ICE-CAN:S1A-037#162:1:A> So there's a few more courses and then I can do <}> <-> my </->
+
+<=> my </=> </}> thesis
+<ICE-CAN:S1A-037#163:1:A> Because it's forty-five credits for <}> <-> a </-> <=> <{> <[>
+
+<,,> </[> a </=> </}> Master's in Education
+
+<$B> <ICE-CAN:S1A-037#164:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-037#165:1:B> Four <.> f </.> forty- <}> <-> <.> f </.> </-> <+> five </+> </}>
+<ICE-CAN:S1A-037#166:1:B> <}> <-> In in </-> <=> in </=> </}> <}> <-> Ed </-> <+> Education
+
+</+> </}> Studies
+
+<$A> <ICE-CAN:S1A-037#167:1:A> No in Education <,,> not in
+<ICE-CAN:S1A-037#168:1:A> Oh in Education yes <}> <-> Ed </-> <+> Education </+> </}>
+
+Studies ya <{> <[> not <}> <-> Ed </-> <+> Educational </+> </}> <}> <-> Tech
+
+</-> <+> Technology </+> </}> though </[>
+
+<$B> <ICE-CAN:S1A-037#169:1:B> <[> Ya ya the <}> <-> Ed </-> <+> Education </+> </}> </[>
+
+</{> Studies is forty-five
+
+<$A> <ICE-CAN:S1A-037#170:1:A> Ya
+
+<$B> <ICE-CAN:S1A-037#171:1:B> And there's three
+<ICE-CAN:S1A-037#172:1:B> There's <}> <-> Ed </-> <+> Education </+> </}> Studies Child
+
+Study <{> <[> <,,> </[> and <}> <-> Ed </-> <+> Educational </+> </}> <}> <->
+
+Tech </-> <+> Technology </+> </}>
+
+<$A> <ICE-CAN:S1A-037#173:1:A> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-037#174:1:A> Ya
+
+<$B> <ICE-CAN:S1A-037#175:1:B> <}> <-> I <}> <-> <.> don </.> </-> <+> don't </+> </}> </->
+
+<=> I don't </=> </}> know what Child Study is
+
+<$A> <ICE-CAN:S1A-037#176:1:A> Ya but <}> <-> I can't </-> <=> I can't </=> </}> work into
+
+Child Study
+
+<$B> <ICE-CAN:S1A-037#177:1:B> <{> <[> No </[>
+
+<$A> <ICE-CAN:S1A-037#178:1:A> <[> I think </[> </{> <{1> <[1> that's </[1> unfeasible <}>
+
+<-> at </-> <=> with </=> </}> my
+<ICE-CAN:S1A-037#179:1:A> <{2> <[2> background </[2>
+
+<$B> <ICE-CAN:S1A-037#180:1:B> <[1> Ya </[1> </{1>
+
+<$B> <ICE-CAN:S1A-037#181:1:B> <[2> Ya </[2> </{2> ya
+
+<$A> <ICE-CAN:S1A-037#182:1:A> You know you can't <}> <-> do </-> <=> do </=> </}> your
+
+diploma in Adult <}> <-> Ed </-> <+> Education </+> </}> and then say well I
+
+want to do my Master's in Child Studies can I use these <O> laugh </O>
+<ICE-CAN:S1A-037#183:1:A> I mean there's a lot of overlap in my field actually <{> <[> which
+
+is </[> funny
+
+<$B> <ICE-CAN:S1A-037#184:1:B> <[> Mhh hmm </[> </{>
+<ICE-CAN:S1A-037#185:1:B> Mhh hmm
+
+<$A> <ICE-CAN:S1A-037#186:1:A> But I don't think I can pull that off <,,>
+
+<$B> <ICE-CAN:S1A-037#187:1:B> <{> <[> No </[>
+
+<$A> <ICE-CAN:S1A-037#188:1:A> <[> I'll </[> </{> do my doctorate in Child Studies
+
+<$B> <ICE-CAN:S1A-037#189:1:B> Conceptually it might be a bit confusing for someone
+
+<$A> <ICE-CAN:S1A-037#190:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1A-037#191:1:B> <[> But </[> </{>
+<ICE-CAN:S1A-037#192:1:B> Hmm so <}> <-> you want to <}> <-> <.> gradu </.> </-> <+>
+
+graduate </+> </}> </-> <=> you want </=> </}> <}> <-> to do </-> <=> to
+
+finish </=> </}> in <}> <-> Ed </-> <+> Educational </+> </}> <}> <-> Tech
+
+</-> <+> Technology </+> </}> right
+<ICE-CAN:S1A-037#193:1:B> Is that it
+
+<$A> <ICE-CAN:S1A-037#194:1:A> No I don't care about <}> <-> Ed </-> <+> Educational </+>
+
+</}> <}> <-> Tech </-> <+> Technology </+> </}> at this point
+<ICE-CAN:S1A-037#195:1:A> <}> <-> I just <{> <[> want </[> to get this </-> <=> I <}> <->
+
+wanna </-> <+> want to </+> </}> get to my thesis </=> </}>
+
+<$B> <ICE-CAN:S1A-037#196:1:B> <[> No </[> </{>
+<ICE-CAN:S1A-037#197:1:B> Ya
+
+<$A> <ICE-CAN:S1A-037#198:1:A> And <}> <-> <.> y </.> </-> <=> you </=> </}> know uhm <}>
+
+<-> you're </-> <=> you're </=> </}> thinking that some of the courses I took
+
+there might not be acceptable in the <,>
+<ICE-CAN:S1A-037#199:1:A> And that's also possible too
+<ICE-CAN:S1A-037#200:1:A> There might be more than I expect
+
+<$B> <ICE-CAN:S1A-037#201:1:B> Well <}> <-> there ya there are </-> <=> you've taken </=>
+
+</}> <}> <-> Ed </-> <+> Educational </+> </}> <}> <-> Tech </-> <+>
+
+Technology </+> </}> courses that
+<ICE-CAN:S1A-037#202:1:B> Well I don't know how many you've done altogether but <,> some of
+
+them would for sure not be acceptable by <}> <-> Ed </-> <+> Education </+>
+
+</}> Studies
+
+<$A> <ICE-CAN:S1A-037#203:1:A> Uh <}> <-> the one </-> <=> the one </=> </}> that I think
+
+would not be but it could be like a special topic <,> would be Interactive
+
+Multimedia
+
+<$B> <ICE-CAN:S1A-037#204:1:B> Ya <,,> hmm
+
+<$A> <ICE-CAN:S1A-037#205:1:A> But if that gets gone you know <}> <-> it it <.> d </.> </->
+
+<=> it doesn't </=> </}> really matter
+<ICE-CAN:S1A-037#206:1:A> <}> <-> It's just </-> <=> it's still </=> </}> <@> <}> <-> gonna
+
+</-> <+> going to </+> </}> be at least twenty credits that I can probably
+
+put <{> <[> <,> </[> towards forty-five in a Master's thesis
+
+<$B> <ICE-CAN:S1A-037#207:1:B> <[> Mhh hmm </[> </{>
+
+<$A> <ICE-CAN:S1A-037#208:1:A> I don't <}> <-> wanna </-> <+> want to </+> </}> spend the
+
+rest of my life doing this
+
+<$B> <ICE-CAN:S1A-037#209:1:B> No <}> <-> you got </-> <=> you <}> <-> gotta </-> <+> have
+
+got to </+> </}> </=> </}> finish it <{> <[> because </[> <}> <-> it it'll
+
+</-> <=> it </=> </}> feels so good
+
+<$A> <ICE-CAN:S1A-037#210:1:A> <[> Ya </[> </{>
+<ICE-CAN:S1A-037#211:1:A> Oh oh yes I was <{> <[> <}> <-> gonna </-> <+> going to </+> </}>
+
+</=> </}> </[> ask you yes
+
+<$B> <ICE-CAN:S1A-037#212:1:B> <[> And </[> </{>
+
+<$A> <ICE-CAN:S1A-037#213:1:A> So when did you finish
+
+<$B> <ICE-CAN:S1A-037#214:1:B> <}> <-> The uhm </-> <=> well convocation was </=> </}> uh
+<ICE-CAN:S1A-037#215:1:B> When was it anyway
+<ICE-CAN:S1A-037#216:1:B> June <,> early June
+<ICE-CAN:S1A-037#217:1:B> Ya <,>
+<ICE-CAN:S1A-037#218:1:B> Early June
+<ICE-CAN:S1A-037#219:1:B> I don't remember the exact date
+<ICE-CAN:S1A-037#220:1:B> Fifth or something like that <,>
+<ICE-CAN:S1A-037#221:1:B> And it was amazing
+<ICE-CAN:S1A-037#222:1:B> Just a good feeling <{1> <[1> <,,> </[1> that's really nice when
+
+the pain stops
+<ICE-CAN:S1A-037#223:1:B> <{2> <[2> <,,> </[2> just like
+<ICE-CAN:S1A-037#224:1:B> <{3> <[3> that </[3>
+
+<$A> <ICE-CAN:S1A-037#225:1:A> <[1> Ya </[1> </{1>
+
+<$A> <ICE-CAN:S1A-037#226:1:A> <[2> Yup </[2> </{2>
+
+<$A> <ICE-CAN:S1A-037#227:1:A> <}> <-> <[3> I </[3> </{3> can't </-> <=> I can't </=> </}>
+
+do it anymore
+<ICE-CAN:S1A-037#228:1:A> <{> <[> I </[>
+
+<$B> <ICE-CAN:S1A-037#229:1:B> <[> I </[> </{> liked it
+<ICE-CAN:S1A-037#230:1:B> I mean I enjoyed what I did and I learned a lot <,>
+<ICE-CAN:S1A-037#231:1:B> Uhm <{> <[> but it's </[>
+
+<$A> <ICE-CAN:S1A-037#232:1:A> <}> <-> <[> I'm just </[> </{> having </-> <=> <}> <-> I'm
+
+</-> <=> I'm </=> </}> having </=> </}> difficulty because there's been too
+
+many stumbling blocks
+<ICE-CAN:S1A-037#233:1:A> You know I started out <,> and then ka-chunk and then ka-chunk and
+
+then <{> <[> ka-chunk and then </[>
+
+<$B> <ICE-CAN:S1A-037#234:1:B> <[> Mhh hmm mhh </[> </{>
+
+<$A> <ICE-CAN:S1A-037#235:1:A> You know it's just <,> <}> <-> I'm </-> <=> I'm </=> </}>
+
+sure I'll get going again once this gets cleared
+<ICE-CAN:S1A-037#236:1:A> But <{> <[> I'd </[> really like to try to clear this up this
+
+summer
+
+<$B> <ICE-CAN:S1A-037#237:1:B> <[> Mhh </[> </{>
+<ICE-CAN:S1A-037#238:1:B> Mhh hmm mhh hmm
+
+<$A> <ICE-CAN:S1A-037#239:1:A> Because I need to have something in place
+<ICE-CAN:S1A-037#240:1:A> <}> <-> I </-> <=> I've </=> </}> been in this limbo for too long
+
+<$B> <ICE-CAN:S1A-037#241:1:B> Mhh hmm mhh hmm <,>
+<ICE-CAN:S1A-037#242:1:B> Ya <}> <-> and and you </-> <=> <}> <-> at a </-> <=> at a </=>
+
+</}> certain point </=> </}> <}> <-> you <.> r </.> </-> <=> you run </=>
+
+</}> into trouble with your credits
+<ICE-CAN:S1A-037#243:1:B> You know if they're <}> <-> <.> o </.> </-> <=> too old </=> </}>
+
+<$A> <ICE-CAN:S1A-037#244:1:A> Oh really eh
+
+<$B> <ICE-CAN:S1A-037#245:1:B> That's what they call stale dating <,,>
+
+<$A> <ICE-CAN:S1A-037#246:1:A> Uh huh
+
+<$B> <ICE-CAN:S1A-037#247:1:B> So they'll say your credits are stale
+
+<$A> <ICE-CAN:S1A-037#248:1:A> Well you know what am I supposed to do anymore
+<ICE-CAN:S1A-037#249:1:A> You know <}> <-> and that's <}> <-> <.> par </.> </-> <+> part
+
+</+> </}> </-> <=> I didn't even know about that but I guess that's part of
+
+it too </=> </}>
+
+<$B> <ICE-CAN:S1A-037#250:1:B> You know after five years or something like that they start
+
+<,> getting <,> <}> <-> kinda </-> <+> kind of </+> </}> <,> antsy about your
+
+credits
+<ICE-CAN:S1A-037#251:1:B> They'll say well the program's changed <,> and <,> you can't use
+
+those credits anymore
+<ICE-CAN:S1A-037#252:1:B> Even for your own program
+
+<$A> <ICE-CAN:S1A-037#253:1:A> Ya ya
+
+<$B> <ICE-CAN:S1A-037#254:1:B> You know it becomes really <,,>
+<ICE-CAN:S1A-037#255:1:B> There's something to be said for <,,> suffering <,,> you know all
+
+at once
+<ICE-CAN:S1A-037#256:1:B> Getting <{> <[> it over </[>
+
+<$A> <ICE-CAN:S1A-037#257:1:A> <[> Ya <,> </[> </{> I can't afford to do that option now
+
+<$B> <ICE-CAN:S1A-037#258:1:B> No no you can't <,,>
+
+<$A> <ICE-CAN:S1A-037#259:1:A> So it's a lot of things <}> <-> I'm not too uh </-> <=> Y
+
+</=> </}> <}> <-> I've got </-> <=> I've <}> <-> gotta </-> <+> got to </+>
+
+</}> </=> </}> deal with them
+<ICE-CAN:S1A-037#260:1:A> And it's very overwhelming for me
+
+<$B> <ICE-CAN:S1A-037#261:1:B> <{> <[> Ya </[>
+
+<$A> <ICE-CAN:S1A-037#262:1:A> <[> You </[> </{> know it's on every front
+
+<$B> <ICE-CAN:S1A-037#263:1:B> Ya ya
+
+<$A> <ICE-CAN:S1A-037#264:1:A> But what can you do <,> what <{> <[> can </[> you do
+
+<$B> <ICE-CAN:S1A-037#265:1:B> <[> Hmm </[> </{>
+<ICE-CAN:S1A-037#266:1:B> How long is your mortgage
+<ICE-CAN:S1A-037#267:1:B> Twenty years <,> <{> <[> twenty-five </[>
+
+<$A> <ICE-CAN:S1A-037#268:1:A> <[> No <}> <-> I've </[> </{> </-> <=> I </=> </}> <}> <->
+
+gotta </-> <+> have got to </+> </}> renew it in August
+
+<$B> <ICE-CAN:S1A-037#269:1:B> Ya
+
+<$A> <ICE-CAN:S1A-037#270:1:A> I've been getting the lowest possible <,,>
+
+<$B> <ICE-CAN:S1A-037#271:1:B> But I mean overall <{> <[> your amortization period </[>
+
+<$A> <ICE-CAN:S1A-037#272:1:A> <[> Oh yes I think it's </[> </{> twenty-five years
+<ICE-CAN:S1A-037#273:1:A> Sorry I see <{> <[> what </[> you're saying now
+
+<$B> <ICE-CAN:S1A-037#274:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-037#275:1:A> Ya
+
+<$B> <ICE-CAN:S1A-037#276:1:B> Ya
+<ICE-CAN:S1A-037#277:1:B> So you <{> <[> don't <}> <-> wanna </-> <+> want to </+> </}> til
+
+you're </[>
+
+<$A> <ICE-CAN:S1A-037#278:1:A> <[> Ya no mortgages are </[> </{> twenty years
+
+<$B> <ICE-CAN:S1A-037#279:1:B> Ya
+<ICE-CAN:S1A-037#280:1:B> Ya you don't <}> <-> wanna </-> <+> want to </+> </}> wait <,> for
+
+another twenty years before you go back to school <,,>
+<ICE-CAN:S1A-037#281:1:B> Ya <{> <[> well </[>
+
+<$A> <ICE-CAN:S1A-037#282:1:A> <[> Ya </[> </{>
+<ICE-CAN:S1A-037#283:1:A> Ya so <}> <-> there's a </-> <=> there's a </=> </}> lot of
+
+factors
+<ICE-CAN:S1A-037#284:1:A> <}> <-> And uhm <,> </-> <=> and </=> </}> it's really hard
+
+dealing with this new relationship when my factors are so heavy
+
+<$B> <ICE-CAN:S1A-037#285:1:B> Mhh hmm mhh <{> <[> hmm </[>
+
+<$A> <ICE-CAN:S1A-037#286:1:A> <[> You </[> </{> know nothing is in place for me
+<ICE-CAN:S1A-037#287:1:A> I'm just trying to resolve a lot of issues now and it makes me
+
+very <{> <[> uh </[>
+
+<$B> <ICE-CAN:S1A-037#288:1:B> <[> Mhh </[> </{> hmm mhh hmm <,,>
+<ICE-CAN:S1A-037#289:1:B> Well it's hard when you <}> <-> wanna </-> <+> want to </+> </}>
+
+accomplish things
+<ICE-CAN:S1A-037#290:1:B> When you're like that you know
+<ICE-CAN:S1A-037#291:1:B> You're sort of the opposite of a flake <,>
+<ICE-CAN:S1A-037#292:1:B> You know <}> <-> you're you're you're </-> <=> you're </=> </}> a
+
+worker
+
+<$A> <ICE-CAN:S1A-037#293:1:A> Ya
+
+<$B> <ICE-CAN:S1A-037#294:1:B> You know <}> <-> you <}> <-> <.> justif </.> </-> <+> justify
+
+</+> </}> </-> <=> you're always justifying </=> </}> your existence in one
+
+way or another <O> laugh </O> you know
+
+<$A> <ICE-CAN:S1A-037#295:1:A> Ya
+
+<$B> <ICE-CAN:S1A-037#296:1:B> <}> <-> I it </-> <=> you know </=> </}> <}> <-> in a </->
+
+<=> in a </=> </}> <,> serious kind of way uhm
+
+<$A> <ICE-CAN:S1A-037#297:1:A> So you've got your Master's in <}> <-> Ed </-> <+>
+
+Educational </+> </}> <}> <-> Tech </-> <+> Technology </+> </}> now <,,>
+
+<$B> <ICE-CAN:S1A-037#298:1:B> Oh <,> ya as a matter of fact I think I have it right here
+
+<,>
+
+<$A> <ICE-CAN:S1A-037#299:1:A> Ahh well you haven't put it on your wall yet
+
+<$B> <ICE-CAN:S1A-037#300:1:B> <}> <-> I did </-> <=> I can </=> </}> even <,,> show it to
+
+you
+<ICE-CAN:S1A-037#301:1:B> Look at that
+
+<$A> <ICE-CAN:S1A-037#302:1:A> Wow
+
+<$B> <ICE-CAN:S1A-037#303:1:B> Isn't that <{> <[> <,> neat </[>
+
+<$A> <ICE-CAN:S1A-037#304:1:A> <[> Ohh </[> </{> very nice
+
+<$B> <ICE-CAN:S1A-037#305:1:B> This makes me feel really good
+<ICE-CAN:S1A-037#306:1:B> You can teach a middle-aged dog new tricks you know
+<ICE-CAN:S1A-037#307:1:B> <?> And you're </?> looking at
+<ICE-CAN:S1A-037#308:1:B> Ya <}> <-> it's a <,> it's </-> <=> it's </=> </}> good <,,>
+<ICE-CAN:S1A-037#309:1:B> <}> <-> It's good because <}> <-> <.> es </.> </-> <=> especially
+
+</=> </}> because </-> <=> <,> it's especially gratifying </=> </}> because I
+
+did really well in the program <{> <[> <,,> </[> and I was a hopeless student
+
+before
+
+<$A> <ICE-CAN:S1A-037#310:1:A> <[> Uh huh </[> </{>
+
+<$B> <ICE-CAN:S1A-037#311:1:B> <{> <[> You know when I was an undergraduate </[>
+
+<$A> <ICE-CAN:S1A-037#312:1:A> <[> <O> cough </O> </[> </{>
+<ICE-CAN:S1A-037#313:1:A> Ya
+
+<$B> <ICE-CAN:S1A-037#314:1:B> My transcript is a total embarrasment
+
+<$A> <ICE-CAN:S1A-037#315:1:A> <O> cough </O> Really
+
+<$B> <ICE-CAN:S1A-037#316:1:B> Oh ya <,,> it's a total embarrasment
+<ICE-CAN:S1A-037#317:1:B> I think I have the <{1> <[1> worst <,> </[1> transcript of anybody
+<ICE-CAN:S1A-037#318:1:B> <{2> <[2> I've ever <unclear> word </unclear> </[2>
+
+<$A> <ICE-CAN:S1A-037#319:1:A> <[1> <O> cough </O> </[1> </{1>
+
+<$A> <ICE-CAN:S1A-037#320:1:A> <[2> Are you serious </[2> </{2> <,,>
+<ICE-CAN:S1A-037#321:1:A> Ya well you should hear uh <,,> that <@> Joe </@> guy out there in
+
+<}> <-> Psych </-> <+> Psychology </+> </}>
+<ICE-CAN:S1A-037#322:1:A> He's like grade point average you know of a <}> <-> <}> <-> <.> f
+
+</.> </-> <+> four </+> </}> </-> <=> three </=> </}> point nine five five
+
+five <{> <[> or whatever </[>
+
+<$B> <ICE-CAN:S1A-037#323:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-037#324:1:A> You know it's like oh be quiet
+
+<$B> <ICE-CAN:S1A-037#325:1:B> Ya
+
+<$A> <ICE-CAN:S1A-037#326:1:A> You know I said don't you know the joy of flunking a course
+<ICE-CAN:S1A-037#327:1:A> You don't know how good it feels to just say this course <{> <[>
+
+is </[> full of it
+
+<$B> <ICE-CAN:S1A-037#328:1:B> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1A-037#329:1:A> The heck with it
+
+<$B> <ICE-CAN:S1A-037#330:1:B> <?> The </?> political
+
+<$A> <ICE-CAN:S1A-037#331:1:A> Flunk me see if I care <O> laugh </O>
+<ICE-CAN:S1A-037#332:1:A> I only did that in college <{1> <[1> <,,> </[1> and I could afford
+
+to lose a few credits because they've always got you filling
+<ICE-CAN:S1A-037#333:1:A> <{2> <[2> <,> more </[2> than you need
+
+<$B> <ICE-CAN:S1A-037#334:1:B> <[1> Ya </[1> </{1>
+
+<$B> <ICE-CAN:S1A-037#335:1:B> <[2> Oh ya <,> </[2> </{2> sure sure </I>

@@ -1,0 +1,657 @@
+<I>
+<ICE-CAN:W2A-039#1:1> <h> <bold> Bound and resonant relativistic two-particle states in
+
+scalar quantum field theory </bold> </h>
+<ICE-CAN:W2A-039#2:1> Leo Di Leo and Jurij W. Darewych
+
+<p> <ICE-CAN:W2A-039#3:1> We derive relativistic particle-antiparticle wave equations for
+
+scalar particles, <O> mathematical symbol </O> and <O> mathematical symbol
+
+</O> , interacting via a massive or massless scalar field, <O> mathematical
+
+symbol </O> ( the Wick-Cutkosky model).
+<ICE-CAN:W2A-039#4:1> The variational method, within the Hamiltonian formalism of quantum
+
+field theory is used to derive equations with and without coupling of this
+
+quasi-bound <O> mathematical symbol </O> <O> mathematical symbol </O> system
+
+to the <O> mathematical symbol </O> <O> mathematical symbol </O> decay
+
+channel.
+<ICE-CAN:W2A-039#5:1> Bound-state energies in the massless case are compared with the ladder
+
+Bethe-Salpeter and light-cone results.
+<ICE-CAN:W2A-039#6:1> In the case of coupling to the decay channel, the quasi-bound <O>
+
+mathematical symbol </O> <O> mathematical symbol </O> states are seen to
+
+arise as resonances in the <O> mathematical symbol </O> <O> mathematical
+
+symbol </O> scattering cross section.
+<ICE-CAN:W2A-039#7:1> Numerical results are presented for the massive and massless <O>
+
+mathematical symbol </O> case. </p> <X>
+
+<p> <ICE-CAN:W2A-039#X8:1> <indig> Nous d&eacute;montrons une &eacute;quation d'onde
+
+relativiste gouvernant des particules et antiparticules ( <O> mathematical
+
+symbol </O> et <O> mathematical symbol </O> ) qui interagissent via un champ
+
+scalaire <O> mathematical symbol </O> avec ou sans masse ( mod&egrave;le de
+
+Wick-Cutkosky)
+<ICE-CAN:W2A-039#X9:1> Dans la formulation hamiltionienne de la th&eacute;orie quan <l>
+
+tique des champs, la m&eacute;thode variationnelle nous permet de
+
+d&eacute;duire des &eacute;quations avec ou sans couplage du syst&egrave;me
+
+quasi-li&eacute; <O> mathematical symbol </O> <O> mathematical symbol </O>
+
+avec le mode de d&eacute;sint&eacute;gration <O> mathematical symbol </O> <O>
+
+mathematical symbol </O>
+<ICE-CAN:W2A-039#X10:1> Les &eacute;nergies de liaison dans le cas sans masse sont
+
+compar&eacute;es avec les r&eacute;sultats obtenus par la m&eacute;thode du
+
+c&ocircumflex;ne du lumi&egrave;re et par l'&eacute;quation de Bethe-Salpeter
+
+avec diagrammes de type <O> French punctuation </O> &eacute;chelle <O> French
+
+punctuation </O>
+<ICE-CAN:W2A-039#X11:1> Dans le cas d'un couplage avec le mode de
+
+d&eacute;sint&eacute;gration, les &eacute;tats quasi-li&eacute;s <O>
+
+mathematical symbol </O> <O> mathematical symbol </O> sont identifi&eacute;s
+
+&agrave; des r&eacute;sonances dans la section de diffusion <O> mathematical
+
+symbol </O> <O> mathematical symbol </O>
+<ICE-CAN:W2A-039#X12:1> Des r&eacute;sultats num&eacute;riques sont pr&eacute;sent&eacute;s
+
+dans les cas de masse nulle et non-nulle pour <O> mathematical symbol </O> .
+
+</indig> </p> </X>
+<ICE-CAN:W2A-039#13:1> <h> <bold> 1. Introduction </bold> </h>
+
+<p> <ICE-CAN:W2A-039#14:1> One of the outstanding problems in quantum field theory is the
+
+computation of the bound-state spectrum and wave func <l> tions of hadrons at
+
+strong coupling
+<ICE-CAN:W2A-039#15:1> Lattice gauge theory has been an important method for studying the
+
+lowest hadronic states of quantrum chromodynamics ( QCD), but it is very dif
+
+<l> ficult to get detailed information about the hadronic wave func <l> tions
+
+in this approach.
+<ICE-CAN:W2A-039#16:1> The Bethe-Salpeter formalism has been the traditional tool for
+
+analyzing relativistic bound states, but this approach is difficult to
+
+implement, and is all but intractable for systems of three or more particles.
+<ICE-CAN:W2A-039#17:1> Thus it is of interest to consider other, more tractable, approaches,
+
+such as the Hamiltonian method or light-cone quantization, and to test them
+
+on model strongly coupled theories. </p>
+
+<p> <ICE-CAN:W2A-039#18:1> Scalar quantum field theory, in which massive spinless par <l>
+
+ticles interact via another, massive or massless, scalar field has long been
+
+a favourite model for investigating methods of treating the relativistic
+
+bound-state problem.
+<ICE-CAN:W2A-039#19:1> See, for example, <}> <-> refs. </-> <+> references </+> </}> <fnr>
+
+1-6 </fnr> and the citations contained therein <footnote> 1. G. C. Wick.
+
+Phys. Rev. 96, 1124 ( 1954). 2. R. E. Cutkosky. Phys. Rev. 96, 1135 ( 1954).
+
+3. G. Feldman, T. Fulton, and J. Townsend. Phys. Rev. D, 7, 1814 ( 1973). 4.
+
+C.-R. Ji and R. J. Furnstahl. Phys. Lett. 167B, 11 ( 1986). 5. N. Nakanishi.
+
+Prog. Theor. Phys. Suppl. 95, ( 1988). 6. C. Itzykson and J.-B. Zuber.
+
+Quantum field theory. McGraw-Hill Book Co., New York. 1980. Chap. 10.
+
+</footnote>
+<ICE-CAN:W2A-039#20:1> The Bethe-Salpeter method <fnr> ( 6) </fnr> , in which bound states
+
+are identified as poles in the Green's function, is the conventional tool for
+
+treat <l> ing the relativistic bound-state problem <footnote> <O> reference 6
+
+</O> </footnote> .
+<ICE-CAN:W2A-039#21:1> In this approach, which in practice is perturbative, the relativistic
+
+two-particle system is described by a co-ordinate or momentum space equation
+
+in 3 + 1 dimensions.
+<ICE-CAN:W2A-039#22:1> The presence of a relative time coordinate in the resulting
+
+Bethe-Salpeter amplitude makes its direct inter <l> pretation as a
+
+Schr&ouml;dinger-like wave function for the relative motion of the
+
+two-particle system somewhat problematic.
+<ICE-CAN:W2A-039#23:1> This situation does not arise in the Hamiltonian formalism of quan
+
+<l> tum field theory, in which the connection to the Schr&ouml;dinger
+
+description is much more direct.
+<ICE-CAN:W2A-039#24:1> Recently, the variational method, within the Hamiltonian formalism of
+
+quantum electro <l> dynamics has been shown to be effective in treating
+
+relativistic two-fermion states <fnr> ( 7-9) </fnr> <footnote> 7. J. W.
+
+Darewych and M. Horbatsch. J. Phys. B: At. Mol. Opt. Phys. 22, 973 ( 1989);
+
+23, 337 ( 1990). 8. W. Dykshoorn and R. Koniuk. Phys. Rev. A: Gen. Phys. 41,
+
+60 ( 1990). 9. J. W. Darewych, M. Horbatsch, and R. Koniuk. Phys. Rev. D:
+
+Part. Fields, 42, 4198 ( 1990). </footnote>
+<ICE-CAN:W2A-039#25:1> Thus it is of interest to apply this method to strongly coupled
+
+scalar theory.
+<ICE-CAN:W2A-039#26:1> In this case, for bind <l> ing of a scalar particle-antiparticle pair
+
+via a <it> massless </it> scalar field, the Bethe-Salpeter equation has been
+
+solved <fnr> ( 1, 2) </fnr> in the ladder approximation ( the Wick-Cutkosky
+
+model). <footnote> <O> references 1 and 2 </O> </footnote> </p>
+
+<p> <ICE-CAN:W2A-039#27:1> In the present paper we derive relativistic integral equations
+
+for two massive scalar particles interacting via massive and massless scalar
+
+fields, using a two and later a three Fock-space-state variational Ansatz.
+<ICE-CAN:W2A-039#28:1> These equations are solved approxi <l> mately in various ways:
+
+numerical integration, a variational method, and by perturbation theory.
+<ICE-CAN:W2A-039#29:1> We compare the results, where possible, to the ladder Bethe-Salpeter
+
+<fnr> ( 3) </fnr> and light-cone quantization <fnr> ( 4) </fnr> results.
+
+<footnote> <O> reference 3 </O> </footnote> <footnote> O> footnote 4 </O>
+
+</footnote> </p>
+<ICE-CAN:W2A-039#30:1> <h> <bold> 2. Lagrangian, Hamiltonian, and variational method </bold>
+
+</h>
+
+<p> <ICE-CAN:W2A-039#31:1> For a system of massive particles, interacting via a massive ( or
+
+massless) scalar field <O> mathematical symbol </O> , the Lagrangian density
+
+is [ 1] <O> mathematical equation </O> where <O> mathematical symbol </O> (
+
+<O> mathematical symbol </O> ) is a complex ( two-component) scalar field and
+
+<O> mathematical symbol </O> ( <it> x </it> ) is a real scalar field
+<ICE-CAN:W2A-039#32:1> Thus, the corresponding Hamiltonian den <l> sity is [ 2] <O>
+
+mathematical equation </O> where [ 3] <O> mathematical equation </O> [ 4] <O>
+
+mathematical equation </O> and [ 5] <O> mathematical equation </O> where <it>
+
+M </it> <sb> 0 </sb> and <it> m </it> <sb> 0 </sb> are the ( bare) masses and
+
+<it> g </it> , <O> mathematical symbol </O> , <it> v </it> the coupling
+
+constants of the theory. </p>
+
+<p> <ICE-CAN:W2A-039#33:1> As is well known, the free quantum field theory ( <it> g </it> =
+
+<O> mathematical symbol </O> = <it> v </it> = 0) is solved by the Fourier
+
+decomposition ( we take <it> t </it> = 0 in the present Schr&ouml;dinger
+
+representation): [ 6] <O> mathematical equation </O> [ 7] <O> mathematical
+
+equation </O> where [ 8] <O> mathematical equation </O> [ 9] <O> mathematical
+
+equation </O> and all other commutators vanish.
+<ICE-CAN:W2A-039#34:1> Note that in [ 6] and [ 7], and henceforth, we use the notation <O>
+
+mathematical equation </O> where, at this stage, <it> m </it> and <it> M
+
+</it> are adjustable parameters, which we will later identify with the
+
+physical particle masses distinct from the bare masses, <it> m </it> <sb> 0
+
+</sb> and <it> M </it> <sb> 0 </sb> , of the Lagrangian [ 1]. </p>
+
+<p> <ICE-CAN:W2A-039#35:1> To describe the bound state of a scalar particle-antiparticle
+
+system, each of mass <it> M </it> , we consider the Ansatz [ 10] <O>
+
+mathematical equation </O> where <bold> <it> p </it> </bold> <sb> 1 </sb> +
+
+<bold> <it> p </it> </bold> <sb> 2 </sb> + <bold> <it> p </it> </bold> <sb> 3
+
+</sb> = 0 in the rest frame of the system.
+<ICE-CAN:W2A-039#36:1> In [ 10], |0 &gt; is the vacuum state annihilated by the operators
+
+<it> b </it> , <it> a </it> , and <it> d </it> , that is, it is our trial
+
+vacuum state.
+<ICE-CAN:W2A-039#37:1> The coefficients <it> F </it> ( <bold> <it> p </it> </bold> ) and
+
+<it> F </it> ( <bold> <it> p </it> </bold> <sb> 1 </sb> , <bold> <it> p </it>
+
+</bold> <sb> 2 </sb> ) are to be determined from the variational principle [
+
+11] <O> mathematical equation </O> which is satisfied by the exact solutions,
+
+| <O> mathematical symbol </O> &gt; and <it> E </it> , of the field theoretic
+
+Schr&ouml;dinger equation [ 12] <O> mathematical equation </O>
+<ICE-CAN:W2A-039#38:1> Since we are not interested here in the vacuum state but only in the
+
+particle-state excitations above the vacuum state, we normal order the
+
+Hamiltonian in applying the principle [ 11], and thus obtain the following
+
+set of coupled integral equations for the coefficient functions F( <bold>
+
+<it> q </it> </bold> ) and F( <bold> <it> q </it> </bold> , <bold> <it> p
+
+</it> </bold> ) : [ 13] <O> mathematical equation </O> and [ 14] <O>
+
+mathematical equation </O> where <O> mathematical symbol </O> = <it> g </it>
+
+/ ( 2 <O> mathematical symbol </O> ) <sp> 3/2 </sp> .
+<ICE-CAN:W2A-039#39:1> Note that at this level of approximation ( i.e., with the Ansatz as
+
+given by [ 10]) the term <it> v </it> <O> mathematical symbol </O> <sp> 4
+
+</sp> of the Hamiltonian does not contribute to the equations. </p>
+
+<p> <ICE-CAN:W2A-039#40:1> We decouple the integral equations [ 13] and [ 14] by taking <it>
+
+E </it> = <O> mathematical symbol </O> + <O> mathematical symbol </O> , <O>
+
+mathematical symbol </O> = 0, <it> m </it> <sb> 0 </sb> = <it> m </it> , and
+
+<it> M </it> = <it> M </it> <sb> 0 </sb> in [ 14], which therefore yields [
+
+15] <O> mathematical equation </O>
+<ICE-CAN:W2A-039#41:1> Although this procedure may seem to be a rather drastic
+
+approximation, it must be borne in mind that the trial state [ 10], and so [
+
+13] and [ 14] are themselves severe truncations of the complete Fock-space
+
+expansion of the exact solution, which would contain an infinite number of
+
+terms in [ 10].
+<ICE-CAN:W2A-039#42:1> Indeed, the Ansatz [ 15] yields the exact result in the case where
+
+<O> mathematical symbol </O> = ( <bold> <it> q </it> </bold> <sp> 2 </sp> +
+
+<it> M </it> <sp> 2 </sp> ) <sp> 1/2 </sp> is replaced, simply, by <it> M
+
+</it> in the Hamiltonian ( i.e., fixed particles of mass <it> M </it> ) in
+
+which case the <O> mathematical symbol </O> = <it> v </it> = 0 theory is
+
+diagonalizable ( see, for example, <}> <-> Chap. </-> <+> Chapter </+> </}>
+
+12 of <fnr> <}> <-> ref. </-> <+> reference </+> </}> 10 </fnr> ) .
+
+<footnote> 10. S. S. Schweber. An introduction to relativisitc quantum field
+
+the <l> ory. Row, Peterson and Co., Evanston, IL. 1961. </footnote> </p>
+
+<p> <ICE-CAN:W2A-039#43:1> Substituting the Ansatz [ 15] into [ 13] yields, for the <O>
+
+mathematical symbol </O> = 0 case, the equation [ 16] <O> mathematical
+
+equation </O>
+
+<p> <ICE-CAN:W2A-039#44:1> At this stage we note that in order that <it> M </it> be
+
+identified with the physical mass of the particle ( or antiparticle), we must
+
+take [ 17] <O> mathematical equation </O> where, as usual, the divergent
+
+integrals are controlled by a suitable cutoff, say 0 <O> mathematical symbol
+
+</O> | <bold> <it> p </it> </bold> | <O> mathematical symbol </O> <O>
+
+mathematical symbol </O> ( <bold> <it> q </it> </bold> ) , where <O>
+
+mathematical symbol </O> is finite. </p>
+
+<p> <ICE-CAN:W2A-039#45:1> The expression [ 17] is just a renormalization of the mass
+<ICE-CAN:W2A-039#46:1> Thus, if for a one-particle state we were to choose a trial state
+
+analogous to [ 10], [ 18] <O> mathematical equation </O> and if we were to
+
+carry out the steps corresponding to those of [ 11]-[16], we would obtain,
+
+analogously to [ 16], the expression [ 19] <O> mathematical equation </O>
+<ICE-CAN:W2A-039#47:1> This yields the correct expression for the one-particle energy, <it>
+
+E </it> = <O> mathematical symbol </O> , provided that we choose the mass
+
+parameters in accordance with the condition [ 17].
+<ICE-CAN:W2A-039#48:1> Of course, this mass renormalization can also be handled in the
+
+conventional ( and equivalent) way, by addition of suitable mass counter
+
+terms to the Hamiltonian. </p>
+
+<p> <ICE-CAN:W2A-039#49:1> With the imposition of the condition [ 17], [ 16] becomes [ 20]
+
+<O> mathematical equation </O> where &alpha; = <O> mathematical symbol </O>
+
+<O> mathematical symbol </O> / 2 <it> M </it> <sp> 2 </sp> is the effective
+
+coupling constant, and [ 21] <O> mathematical equation </O> where we have
+
+included in [ 21] the contribution of the <O> mathematical symbol </O> term
+
+of the Hamiltonian ( [ 3]) that arises if <O> mathematical symbol </O> <O>
+
+mathematical symbol </O> 0. </p>
+
+<p> <ICE-CAN:W2A-039#50:1> We note, in passing, that the interaction kernel [ 21] of [ 20]
+
+can be identified with the on-shell invariant matrix element <O> mathematical
+
+symbol </O> of the corresponding elementary Feynman diagrams for this theory.
+<ICE-CAN:W2A-039#51:1> Thus, for the one- " chion" ( <O> mathematical symbol </O> -
+
+particle) exchange diagram we note that, for <O> mathematical symbol </O> =
+
+0, <O> mathematical equation </O>
+<ICE-CAN:W2A-039#52:1> The second term in the kernel [ 21] comes, similarly, from the
+
+invariant matrix element corresponding to the " contact" interaction <O>
+
+mathematical symbol </O> . </p>
+
+<p> <ICE-CAN:W2A-039#53:1> In the nonrelativistic limit, | <bold> <it> q </it> </bold> | <O>
+
+mathematical symbol </O> <it> M </it> , [ 20] becomes, when <O> mathematical
+
+symbol </O> = 0, [ 22] <O> mathematical equation </O> where <O> mathematical
+
+symbol </O> = <it> E </it> - 2 <it> M </it> .
+<ICE-CAN:W2A-039#54:1> This is just the momentum-space Schr&ouml;dinger eigenvalue equation
+
+for the stationary states of the two-particle system with Coulombic ( <it> m
+
+</it> = <it> m </it> <sb> 0 </sb> = 0) or Yukawa ( <it> m </it> <O>
+
+mathematical symbol </O> 0) interparticle interactions.
+<ICE-CAN:W2A-039#55:1> For the case where the coupling is via a massless scalar field, that
+
+is the Coulomb case with <it> m </it> = 0, [ 22] has the well-known
+
+hydrogenic analytic solutions, with bound state eigenvalues <O> mathematical
+
+equation </O> where <it> n </it> = 1, 2, 3, &dotted-line;.
+<ICE-CAN:W2A-039#56:1> The corresponding eigenfunctions <it> F </it> ( <bold> <it> p </it>
+
+</bold> ) are just the Fourier transforms of the usual hydrogenic bound-state
+
+wave functions ( see, for example, <fnr> <}> <-> ref. </-> <+> reference </+>
+
+</}> 11 </fnr> .
+<ICE-CAN:W2A-039#57:1> <}> <-> pp. </-> <+> pages </+> </}> 36-39) <footnote> 11. H. A.
+
+Bethe and E. E. Salpeter. Quantum mechanics of one and two electron atoms.
+
+Springer-Verlag, Berlin. 1975. </footnote> .
+<ICE-CAN:W2A-039#58:1> The solutions of [ 22] in the Yukawa case with <it> m </it> <O>
+
+mathematical symbol </O> 0, as is well known, cannot be expressed in terms of
+
+elementary analytic functions. </p>
+
+<p> <ICE-CAN:W2A-039#59:1> Equation [ 20] is a relativistic momentum-space
+
+Schr&ouml;dinger-like integral eigenvalue equation for the stationary states
+
+of the two-particle system
+<ICE-CAN:W2A-039#60:1> Evidently the relativistic two-body kinematics is treated without
+
+approximation in this equation while the interaction, expressed by the kernel
+
+<it> K </it> ( <bold> <it> p </it> </bold> , <bold> <it> q </it> </bold> ) of
+
+[ 21], is described to within the limitations inherent in the Ans&auml;tze [
+
+10] and [ 15].
+<ICE-CAN:W2A-039#61:1> This kernel contains the one-chion-exchange contributions, which are
+
+dominant at low values of coupling constant, &alpha; = <it> g </it> <sp> 2
+
+</sp> / 16 <O> mathematical symbol </O> <it> M </it> <sp> 2 </sp> . </p>
+
+<p> <ICE-CAN:W2A-039#62:1> We might mention, at this stage, that the same equation [ 20] is
+
+obtained at this level of approximation for both the particle-antiparticle or
+
+two-particle ( or two-antiparticle) systems. </p>
+<ICE-CAN:W2A-039#63:1> <h> <bold> 3. Approximate solution of the two-particle equation and
+
+bound states </bold> </h>
+
+<p> <ICE-CAN:W2A-039#64:1> The relativistic two-particle equation [ 20] can be reduced to
+
+radial form by setting <O> mathematical equation </O> where <bold> <it> q
+
+</it> </bold> = | <bold> <it> q </it> </bold> | and <it> Y <sb> lm </sb>
+
+</it> ( <O> mathematical symbol </O> ) are the usual spherical harmonics, and
+
+carrying out the angular integration.
+<ICE-CAN:W2A-039#65:1> The result is [ 23] <O> mathematical equation </O> with [ 24] <O>
+
+mathematical equation </O> where <O> mathematical equation </O> and <it> Q
+
+<sb> 1 </sb> </it> ( <it> z </it> ) is the Legendre function of the second
+
+kind. </p>
+
+<p> <ICE-CAN:W2A-039#66:1> Since it is not evident that the solutions of the radial equation
+
+[ 23] can be expressed in terms of common analytic functions, we have solved
+
+this equation approximately for a number of cases in three ways:
+
+perturbatively, variationally, and numer <l> ically
+<ICE-CAN:W2A-039#67:1> As has been pointed out already, in the nonrelativistic limit [ 23]
+
+reduces to the momentum-space radial Schr&ouml;dinger equation, whose
+
+solutions are the well-known hydrogenic func <l> tions in the massless ( <it>
+
+m </it> = 0) or " Coulomb" case, and which have been extensively studied
+
+numerically for the massive ( <it> m </it> = <it> m </it> <sb> 0 </sb> <O>
+
+mathematical symbol </O> 0) " Yukawa" case.
+<ICE-CAN:W2A-039#68:1> Thus, if <it> &Eacute; <sb> nl </sb> </it> ( &alpha;) are the
+
+eigenvalues in the nonrelativistic limit <O> mathematical equation </O> ( for
+
+the Coulomb case), then the bound state eigenvalues <it> E <sb> nl </sb>
+
+</it> ( &alpha;) of the relativistic equation will reduce to <O> mathematical
+
+symbol </O> <sb> <it> nl </it> </sb> ( &alpha;) when &alpha; <O> mathematical
+
+symbol </O> 1, since &lt; <it> p </it> &gt; <it> |M </it> ~ &alpha; in this
+
+domain. </p>
+
+<p> <ICE-CAN:W2A-039#69:1> From the numerical study of integral equations similar to [ 23]
+
+<fnr> ( 7, 8, 12) </fnr> , as well as from the known spectrum of the radial
+
+Dirac and Klein-Gordon equations, we expect that the bound-state eigenvalue
+
+spectrum <it> E <sb> nl </sb> </it> ( &alpha;) will start from 2 <it> M </it>
+
+at &alpha; = &alpha; <sb> 1 </sb> ( &alpha; <sb> 1 </sb> = 0 in the Coulomb,
+
+<it> m </it> = 0, case) then will follow the nonrelativistic values <O>
+
+mathematical symbol </O> <sb> <it> nl </it> </sb> ( &alpha;) downwards for
+
+&alpha; <sb> 1 </sb> &lt; &alpha; <O> mathematical symbol </O> 1, and
+
+thereafter will continue to decrease monotonically to a value <it> E <sb> nl
+
+</sb> </it> ( &alpha; <sb> c </sb> ) , where &alpha; <sb> c </sb> is a
+
+critical value of &alpha; beyond which the eigenvalue spectrum and
+
+corresponding eigenfunctions cease to be real and well behaved. <footnote>
+
+<O> references 7 and 8 </O> 12. G. Hardekopf and J. Sucher. Phys. Rev. A, 30,
+
+703 ( 1984). </footnote> </p>
+
+<p> <ICE-CAN:W2A-039#70:1> The integral equation [ 23] results from the extremum principle [
+
+25] <O> mathematical equation </O> where the functional <it> E </it> [ <it> f
+
+</it> ( <it> p </it> ) ] is given by [ 26] <O> mathematical equation </O>
+<ICE-CAN:W2A-039#71:1> Thus, for the relativistic energy eigenvalue <it> E <sb> nl </sb>
+
+</it> ( &alpha;), the first-order perturbative correction ( to its
+
+nonrelativistic approximation, <O> mathematical symbol </O> <sb> <it> nl
+
+</it> </sb> ( &alpha;)) can be obtained by evaluating the func <l> tional
+
+<it> E </it> [ <it> f </it> ( <it> p </it> ) ] , with <it> f </it> ( <it> p
+
+</it> ) replaced by the nonrelativistic momentum-space wave-functions <O>
+
+mathematical symbol </O> <sb> <it> nl </it> </sb> ( <it> p </it> ) .
+<ICE-CAN:W2A-039#72:1> In short, to first order in perturbation theory we have [ 27] <O>
+
+mathematical equation </O>
+<ICE-CAN:W2A-039#73:1> For the Coulomb case ( <it> m </it> = 0), the nonrelativistic wave
+
+functions <O> mathematical symbol </O> <sb> <it> nl </it> </sb> ( <it> p
+
+</it> ) are known analytic functions, hence the per <l> turbative
+
+approximation [ 27] can be expressed in closed form, yielding, when expanded
+
+to order &alpha; <sp> 4 </sp> , the result [ 28] <O> mathematical equation
+
+</O> where the kinetic energy correction is, as expected [ 29] <O>
+
+mathematical equation </O> while the correction to the potential energy is [
+
+30] <O> mathematical equation </O>
+<ICE-CAN:W2A-039#74:1> Note that except for the potential energy correction &DELTA; <it> V
+
+<sb> nl </sb> </it> , these perturbative results [ 28] are the same, at this
+
+level of Fock-space approximation, as is obtained for the case of Dirac
+
+fermions interacting via a massless vector boson field ( i.e., pos <l>
+
+itronium, e <sp> + </sp> e <sp> - </sp> , see <fnr> <}> <-> refs. </-> <+>
+
+references </+> </}> 7 and 8 </fnr> ) <footnote> <O> references 7 and 8 </O>
+
+</footnote> .
+<ICE-CAN:W2A-039#75:1> This is not surprising since the relativistic kinetic energy
+
+corrections must be independent of the particle spin, and only the dynamical
+
+relativistic correc <l> tions would be affected. </p>
+
+<p> <ICE-CAN:W2A-039#76:1> The present model in the massless ( <it> m </it> = 0) case and
+
+with = <it> v </it> = 0 has been solved in the ladder approximation of the
+
+Bethe-Salpeter formalism ( this is the well known Wick-Cutkosky solution
+
+<fnr> 1, 2, 5 </fnr> ) as well as in the light-cone ladder approximation
+
+<fnr> ( 4, 3) </fnr> <footnote> <O> references 1, 2 and 5 </O> </footnote>
+
+<footnote> <O> references 3 and 4 </O> </footnote> .
+<ICE-CAN:W2A-039#77:1> The perturbative expansions ( in powers of &alpha;) of these
+
+solutions are found to be <fnr> ( 3-5) </fnr> : [ 31] <O> mathematical
+
+equation </O> <footnote> <O> references 3-5 </O> </footnote>
+<ICE-CAN:W2A-039#78:1> This is quite different from our result [ 28]-[30], since we do not
+
+obtain any &alpha; <sp> 3 </sp> ln &alpha; or &alpha; <sp> 3 </sp> terms in
+
+our approximation, but rather &alpha; <sp> 4 </sp> corrections as in the
+
+quantum electrodynamics ( QED) case. </p>
+
+<p> <ICE-CAN:W2A-039#79:1> At first glance it may seem surprising that our results do not
+
+agree with the Wick-Cutkosky ones beyond &alpha; <sp> 2 </sp> </I> <X>
+<ICE-CAN:W2A-039#X80:1> However, it has been pointed out previously <fnr> ( 13, 14) </fnr>
+
+that the <it> ladder </it> Bethe-Salpeter approximation is a different and
+
+not necessarily a bet <l> ter approximation to the exact results, than
+
+approximations such as the present <footnote> 13. R. M. Woloshyn and A. D.
+
+Jackson. Nucl. Phys. B, 64, 269 ( 1973). 14. F. Gross. Phys. Rev. C: Nucl.
+
+Phys. 26, 2203 ( 1982). </footnote> <O> Diagram </O> <O> Figure 1 caption and
+
+legend </O>
+<ICE-CAN:W2A-039#X81:1> In particular Gross <fnr> ( 14) </fnr> points out that the ladder
+
+Bethe-Salpeter approximation does not does not have the correct one-body
+
+limit <footnote> <O> reference 14 </O> </footnote> .
+<ICE-CAN:W2A-039#X82:1> The &alpha; <sp> 3 </sp> ln &alpha; terms are sometimes termed a
+
+<quote> " dis <l> ease" </quote> of the Wick-Cutkosky solution <fnr> ( 6)
+
+</fnr> <footnote> <O> reference 6 </O> </footnote> .
+<ICE-CAN:W2A-039#X83:1> Evidently we do not obtain this feature in our approximation and
+
+approach.
+<ICE-CAN:W2A-039#X84:1> Further <l> more, we should point out that the present approach,
+
+when applied in the QED case <fnr> ( 7, 8) </fnr> , yields the correct
+
+perturbative energy for positronium through to order &alpha; <sp> 4 </sp>
+
+<footnote> <O> references 7 and 8 </O> </footnote> .
+<ICE-CAN:W2A-039#X85:1> Unfortunately there is no Wick-Cutkosky or light-cone type solution
+
+of the cov <l> ariant Bethe-Salpeter equation in the ladder approximation for
+
+the QED case available for comparison at present, though some discussion of
+
+the latter formalism has recently appeared <fnr> ( 15) </fnr> . <footnote>
+
+15. A. C. Tang, S. J. Brodsky, and H.-C. Pauli. Phys. Rev. D: Part. Fields,
+
+44, 1842 ( 1991). </footnote> </p> </X>

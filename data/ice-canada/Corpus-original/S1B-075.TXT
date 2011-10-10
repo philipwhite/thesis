@@ -1,0 +1,652 @@
+<I>
+
+<$B> <ICE-CAN:S1B-075#1:1:B> All right <,> this is a ski from Rossignol
+
+<$A> <ICE-CAN:S1B-075#2:1:A> Ya <,>
+
+<$B> <ICE-CAN:S1B-075#3:1:B> <}> <-> It's a it's a </-> <=> it's a </=> </}> sporty ski
+<ICE-CAN:S1B-075#4:1:B> It's an advanced ski
+<ICE-CAN:S1B-075#5:1:B> It's <unclear> word </unclear> advanced
+<ICE-CAN:S1B-075#6:1:B> It's intermediate
+<ICE-CAN:S1B-075#7:1:B> Excuse me <O> cough </O>
+
+<$A> <ICE-CAN:S1B-075#8:1:A> Advanced
+
+<$B> <ICE-CAN:S1B-075#9:1:B> It's for the advanced intermediate skier
+
+<$A> <ICE-CAN:S1B-075#10:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#11:1:B> Okay
+<ICE-CAN:S1B-075#12:1:B> The uh <?> S P S </?> it's called <}> <-> the </-> <=> the </=>
+
+</}> sport ski
+<ICE-CAN:S1B-075#13:1:B> What it is is basically an <?> E Two </?> version of <}> <-> their
+
+</-> <=> uh their uh </=> </}> ski <unclear> word </unclear> called the Four
+
+S
+<ICE-CAN:S1B-075#14:1:B> The Four S came out in eighty-eight
+<ICE-CAN:S1B-075#15:1:B> So uh it won many many Olympic medals
+
+<$A> <ICE-CAN:S1B-075#16:1:A> <{> <[> Okay </[>
+
+<$B> <ICE-CAN:S1B-075#17:1:B> <[> It's </[> </{> very highly regarded a good performance ski
+<ICE-CAN:S1B-075#18:1:B> <{> <[> <?> Very fun </?> </[>
+
+<$A> <ICE-CAN:S1B-075#19:1:A> <[> Hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-075#20:1:B> <}> <-> It's a </-> <=> it's a </=> </}> very snappy ski
+
+<$A> <ICE-CAN:S1B-075#21:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#22:1:B> Uhm <,,> do you want to see here
+<ICE-CAN:S1B-075#23:1:B> Do you want to hold that
+<ICE-CAN:S1B-075#24:1:B> It's very <{> <[> light </[>
+
+<$A> <ICE-CAN:S1B-075#25:1:A> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1B-075#26:1:B> Okay
+<ICE-CAN:S1B-075#27:1:B> It's light
+
+<$A> <ICE-CAN:S1B-075#28:1:A> <{> <[> Alright </[>
+
+<$B> <ICE-CAN:S1B-075#29:1:B> <[> <unclear> maybe two word </unclear> </[> </{> <?> tonnes
+
+</?> of flexibility
+<ICE-CAN:S1B-075#30:1:B> Okay
+
+<$A> <ICE-CAN:S1B-075#31:1:A> Mm hmm
+
+<$B> <ICE-CAN:S1B-075#32:1:B> What type of skiing do you like to do
+<ICE-CAN:S1B-075#33:1:B> <}> <-> Do you like to do </-> <=> uh do you like to do </=> </}>
+
+short radius turns or long radius turns
+<ICE-CAN:S1B-075#34:1:B> Do you like to ski moguls
+
+<$A> <ICE-CAN:S1B-075#35:1:A> Well I like to do moguls but I'm not that great at them but
+
+I'm trying to do them like with shorter turns instead of <{1> <[1> making the
+
+big loops </[1> around like I'm trying
+<ICE-CAN:S1B-075#36:1:A> <{2> <[2> to cut them </[2> you know
+
+<$B> <ICE-CAN:S1B-075#37:1:B> <[1> Mm hmm mm </[1> </{1>
+
+<$B> <ICE-CAN:S1B-075#38:1:B> <[2> Right right right </[2> </{2>
+
+<$B> <ICE-CAN:S1B-075#39:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-075#40:1:A> So
+
+<$B> <ICE-CAN:S1B-075#41:1:B> So <,> it seems to me as though you're looking for something
+
+that's a pretty quick turning ski something snappy <{> <[> <,> </[> something
+
+that's easily moveable
+
+<$A> <ICE-CAN:S1B-075#42:1:A> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1B-075#43:1:A> Ya that's <{> <[> it </[>
+
+<$B> <ICE-CAN:S1B-075#44:1:B> <[> Okay </[> </{>
+
+<$B> <ICE-CAN:S1B-075#45:1:B> Therefore when you're looking for something like that you're
+
+looking for something <}> <-> that's </-> <=> uh <,> that's </=> </}> soft on
+
+the shovel
+
+<$B> <ICE-CAN:S1B-075#46:1:B> Okay that's the front of the ski at the top
+<ICE-CAN:S1B-075#47:1:B> Okay
+
+<$A> <ICE-CAN:S1B-075#48:1:A> <{> <[> Okay
+<ICE-CAN:S1B-075#49:1:A> Ya
+<ICE-CAN:S1B-075#50:1:A> Oh ya that's <?> pretty flexible </?> </[>
+
+<$B> <ICE-CAN:S1B-075#51:1:B> <[> It flexes pretty easily </[> </{>
+
+<$A> <ICE-CAN:S1B-075#52:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1B-075#53:1:B> <[> So that </[> </{> way what happens is it's easy to
+
+initiate <?> in </?> turn
+
+<$A> <ICE-CAN:S1B-075#54:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#55:1:B> It's easy to begin a turn <,> and <?> hold </?>
+<ICE-CAN:S1B-075#56:1:B> And then what you want is something that's a little bit uh stiffer
+
+<}> <-> in the </-> <=> in the </=> </}> tail <{1> <[1> <,> okay </[1> in the
+
+back of the ski
+<ICE-CAN:S1B-075#57:1:B> <{2> <[2> <,,> </[2> something that's a little bit stiffer <}> <->
+
+that way </-> <=> you know that way </=> </}> what happens is it whips you
+
+out of your turns and it prepares you for your next turn
+
+<$A> <ICE-CAN:S1B-075#58:1:A> <[1> Right </[1> </{1>
+
+<$A> <ICE-CAN:S1B-075#59:1:A> <[2> Mm hmm </[2> </{2>
+
+<$A> <ICE-CAN:S1B-075#60:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#61:1:B> Okay usually that's generally the kind of <unclear> word
+
+</unclear> ski you're going to look for <,,> <}> <-> for someone that's </->
+
+<=> ah <,> for a skier who's </=> </}> looking <}> <-> for you know for to do
+
+</-> <=> to do </=> </}> short radius turns
+
+<$A> <ICE-CAN:S1B-075#62:1:A> <{> <[> Mm </[>
+
+<$B> <ICE-CAN:S1B-075#63:1:B> <[> But </[> </{> the reason for that is just that uh you know
+
+it's easy to begin the turn it's easy to come out of it and <?> prepare the
+
+</?> <unclear> word </unclear>
+<ICE-CAN:S1B-075#64:1:B> And when you have somebody who's looking <}> <-> for </-> <=> <,> a
+
+lot for </=> </}> a G S ski which also means giant slalom <,> they're making
+
+bigger turns <,> generally they have <}> <-> more even flex so you </-> <=>
+
+<}> <-> a more </-> <=> more </=> </}> of an even </=> </}> flex to the skier
+<ICE-CAN:S1B-075#65:1:B> <?> It slides </?>
+<ICE-CAN:S1B-075#66:1:B> <}> <-> It's </-> <=> it's </=> </}> an equal flex and what that
+
+does is when they're connecting their turns <,> they just go long and
+
+smoothly
+<ICE-CAN:S1B-075#67:1:B> They don't have to <}> <-> <.> wo </.> </-> <=> worry </=> </}> <}>
+
+<-> about their weight </-> <=> about the changing of their weight </=> </}>
+
+so much
+
+<$A> <ICE-CAN:S1B-075#68:1:A> Okay <,,>
+
+<$B> <ICE-CAN:S1B-075#69:1:B> So <,> <}> <-> it's </-> <=> uh you know <}> <-> it's </-> <=>
+
+it's </=> </}> </=> </}> quite something
+<ICE-CAN:S1B-075#70:1:B> <}> <-> It's it's </-> <=> it's </=> </}> <unclear> word </unclear>
+<ICE-CAN:S1B-075#71:1:B> It's a great ski
+<ICE-CAN:S1B-075#72:1:B> It's super light
+<ICE-CAN:S1B-075#73:1:B> <unclear> word </unclear> too you're looking for something that's
+
+<?> torsionally stiff </?>
+<ICE-CAN:S1B-075#74:1:B> Okay
+<ICE-CAN:S1B-075#75:1:B> And this particular <unclear> word </unclear> okay <}> <-> is quite
+
+</-> <=> it's quite </=> </}> <?> torsional </?>
+<ICE-CAN:S1B-075#76:1:B> What that means is <{> <[> <}> <-> <.> bas </.> </-> <+> basically
+
+</+> </}> </[>
+
+<$A> <ICE-CAN:S1B-075#77:1:A> <[> <?> torsch </?> </[> </{>
+<ICE-CAN:S1B-075#78:1:A> What's the word
+
+<$B> <ICE-CAN:S1B-075#79:1:B> Torsion
+
+<$A> <ICE-CAN:S1B-075#80:1:A> <{> <[> Torsion </[>
+
+<$B> <ICE-CAN:S1B-075#81:1:B> <[> Okay </[> </{>
+<ICE-CAN:S1B-075#82:1:B> One ski is torsionally
+<ICE-CAN:S1B-075#83:1:B> It's sort of ah <,,> <unclear> maybe two words </unclear> adding an
+
+A L L Y to the end of the words
+<ICE-CAN:S1B-075#84:1:B> <unclear> most of a phrase </unclear> that torsionally is stiff
+<ICE-CAN:S1B-075#85:1:B> Okay <}> <-> that that </-> <=> that </=> </}> basically regulates
+
+the amount of torque that you have in a ski <,> <}> <-> how much it </-> <=>
+
+how much it </=> </}> rotates when you're carving your turn
+
+<$A> <ICE-CAN:S1B-075#86:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#87:1:B> And so what happens is a ski <}> <-> that's more </-> <=>
+
+that's ah stiffer torsionally </=> </}> <{> <[> <,,> </[> means it's <}> <->
+
+gonna </-> <+> going to </+> </}> hold better on ice
+
+<$A> <ICE-CAN:S1B-075#88:1:A> <[> Right </[> </{>
+
+<$B> <ICE-CAN:S1B-075#89:1:B> <}> <-> That's the difference <}> <-> <.> be </.> </-> <+>
+
+between </+> </}> </-> <=> that's one of the differences that you look at
+
+between </=> </}> like a beginner's ski and an advanced ski
+
+<$A> <ICE-CAN:S1B-075#90:1:A> <{> <[> Right </[>
+
+<$B> <ICE-CAN:S1B-075#91:1:B> <[> You know </[> </{> how the advanced skis <}> <-> are </->
+
+<=> they generally tend to be </=> </}> more <?> stiffer torsional </?>
+
+because they're applying more pressure on their ski <{> <[> and <}> <-> they
+
+</[> </-> <=> they're </=> </}> using more of their leg and so what's
+
+happening is they need something that's <}> <-> gonna </-> <+> going to </+>
+
+</}> be strong and that's going to be holding up to the pressure and <}> <->
+
+the </-> <=> you know the weight </=> </}> that they put on their ski
+
+<$A> <ICE-CAN:S1B-075#92:1:A> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-075#93:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#94:1:B> Okay
+<ICE-CAN:S1B-075#95:1:B> Therefore <,,> it's <}> <-> gonna </-> <+> going to </+> </}> hold
+
+better
+<ICE-CAN:S1B-075#96:1:B> Okay and <}> <-> when you have a </-> <=> uh when you have </=>
+
+</}> one of the <unclear> word </unclear> you know not as stiff torsionally
+
+generally what tends to happen is that <}> <-> the </-> <=> uh the </=> </}>
+
+ski does not hold as well on ice
+
+<$A> <ICE-CAN:S1B-075#97:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#98:1:B> And when you have a beginner's ski because they're not
+<ICE-CAN:S1B-075#99:1:B> <?> I'll tell you </?> what happens <}> <-> when they </-> <=> when
+
+they </=> </}> make their turns is <}> <-> as they're turning </-> <=> as
+
+they're turning </=> </}> <}> <-> they're not </-> <=> uhm <,> they're not
+
+</=> </}> putting as much pressure on <,> they're not using the ski as much
+<ICE-CAN:S1B-075#100:1:B> That's generally what happens
+<ICE-CAN:S1B-075#101:1:B> And as they make the transition <}> <-> as they </-> <=> as their
+
+</=> </}> skiing improves <{> <[> you know </[> <}> <-> they </-> <=> the
+
+skier </=> </}> will make the turn from the tip of the ski all the way to the
+
+end
+
+<$A> <ICE-CAN:S1B-075#102:1:A> <[> Ya </[> </{>
+
+<$A> <ICE-CAN:S1B-075#103:1:A> As opposed to just in a <{> <[> certain area </[>
+
+<$B> <ICE-CAN:S1B-075#104:1:B> <[> <}> <-> As </-> <=> as </=> </}> </[> </{> opposed to
+
+using it more <,> as opposed to pivoting the ski more
+
+<$A> <ICE-CAN:S1B-075#105:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#106:1:B> Generally what tends to happen is people <}> <-> tend to </->
+
+<=> tend to </=> </}> pivot their ski
+
+<$A> <ICE-CAN:S1B-075#107:1:A> So <,,> <}> <-> <.> ju </.> </-> <=> just </=> </}> moving
+
+your foot instead of the whole ski <}> <-> kinda </-> <+> kind of </+> </}>
+
+<$B> <ICE-CAN:S1B-075#108:1:B> Exactly
+<ICE-CAN:S1B-075#109:1:B> <}> <-> That's <}> <-> <.> ten </.> </-> <+> tends </+> </}> </->
+
+<=> that's generally </=> </}> what happens sometimes <}> <-> when you have
+
+</-> <=> when you have </=> </}> ah a beginner skier
+<ICE-CAN:S1B-075#110:1:B> Whereas when you have an advanced skier they use <}> <-> something
+
+</-> <=> <,,> something </=> </}> <}> <-> to </-> <=> uh to </=> </}>
+
+<unclear> word </unclear> a little more
+
+<$A> <ICE-CAN:S1B-075#111:1:A> <{> <[> Sure </[>
+
+<$B> <ICE-CAN:S1B-075#112:1:B> <[> They use </[> </{> the entire ski
+
+<$A> <ICE-CAN:S1B-075#113:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#114:1:B> And therefore this one is fairly torsion <unclear> word
+
+</unclear> so it's going to hold pretty well on the ice
+
+<$A> <ICE-CAN:S1B-075#115:1:A> <{> <[> Ya </[>
+
+<$B> <ICE-CAN:S1B-075#116:1:B> <[> It's a </[> </{> <?> light-weight </?> ski
+<ICE-CAN:S1B-075#117:1:B> It's <unclear> phrase/unclear>
+<ICE-CAN:S1B-075#118:1:B> You know it's good for doing short radius turns
+<ICE-CAN:S1B-075#119:1:B> And uh <}> <-> it's </-> <=> uh it's </=> </}> pretty stable at
+
+high speeds <{> <[> <?> as far as </?> </[> you <}> <-> wanna </-> <+> want
+
+to </+> </}> look for <,,>
+
+<$A> <ICE-CAN:S1B-075#120:1:A> <[> Right </[> </{>
+
+<$A> <ICE-CAN:S1B-075#121:1:A> What do you mean <quote> stable at high speeds </quote>
+
+<$B> <ICE-CAN:S1B-075#122:1:B> Well generally what happens is the ski doesn't <?> chatter
+
+</?>
+<ICE-CAN:S1B-075#123:1:B> What happens is <}> <-> when you're uh when you're </-> <=> when
+
+you're </=> </}> skiing is you go faster sometimes what happens <}> <-> if
+
+the skier if it </-> <=> if there's </=> </}> not enough weight in front of
+
+the ski <,> we tend to find the skier move from left to right
+<ICE-CAN:S1B-075#124:1:B> They'll constantly move left to right <{> <[> <}> <-> like </->
+
+<=> like </=> </}> </[>
+
+<$A> <ICE-CAN:S1B-075#125:1:A> <[> Oh <?> binding </?> </[> </{>
+
+<$B> <ICE-CAN:S1B-075#126:1:B> Ya exactly
+<ICE-CAN:S1B-075#127:1:B> It'll be like <,> <unclear> word </unclear> chatter
+
+<$A> <ICE-CAN:S1B-075#128:1:A> I had skis that did that
+<ICE-CAN:S1B-075#129:1:A> When I'd get going really fast it'd be like ah ah ah ah like that
+
+<{> <[> like I'd </[> be shaking
+
+<$B> <ICE-CAN:S1B-075#130:1:B> <[> Ya </[> </{>
+
+<$B> <ICE-CAN:S1B-075#131:1:B> See that's the thing is it's generally the way that skis <}>
+
+<-> are </-> <=> are </=> </}> constructed
+<ICE-CAN:S1B-075#132:1:B> That's something that you're going to have to look for
+
+<$A> <ICE-CAN:S1B-075#133:1:A> So this has like shock absorbers or something <O> laugh </O>
+<ICE-CAN:S1B-075#134:1:A> <{> <[> <?> Is that what they have </?> </[>
+
+<$B> <ICE-CAN:S1B-075#135:1:B> <[> Well <}> <-> it doesn't it doesn't </-> <=> it doesn't
+
+</=> </}> </[> </{> have shock absorbers
+<ICE-CAN:S1B-075#136:1:B> Uh the <?> floor </?> actually does shock absorb
+<ICE-CAN:S1B-075#137:1:B> So I guess what they call the V A S it's vibration absorption
+
+system <{> <[> <,> whereas </[> this one <?> does not </?> have it
+
+<$A> <ICE-CAN:S1B-075#138:1:A> <[> Okay </[> </{>
+
+<$A> <ICE-CAN:S1B-075#139:1:A> Okay
+
+<$B> <ICE-CAN:S1B-075#140:1:B> Uhm can you excuse me <}> <-> one </-> <=> for one </=> </}>
+
+<?> minute </?>
+
+<$A> <ICE-CAN:S1B-075#141:1:A> Sure
+
+<$B> <ICE-CAN:S1B-075#142:1:B> I just want to check to make sure <unclear> a few words
+
+</unclear>
+
+<$A> <ICE-CAN:S1B-075#143:1:A> Okay <,,> <&> about 40 seconds without talking </&>
+
+<$B> <ICE-CAN:S1B-075#144:1:B> Sorry
+
+<$A> <ICE-CAN:S1B-075#145:1:A> It's okay <,,>
+<ICE-CAN:S1B-075#146:1:A> So <,> uh I <}> <-> dunno </-> <+> don't know </+> </}>
+<ICE-CAN:S1B-075#147:1:A> Like uh like <}> <-> I </-> <=> you know they </=> </}> look fine
+
+or whatever <{> <[> and they </[> sound good but uh <,> I just find them a
+
+bit expensive
+
+<$B> <ICE-CAN:S1B-075#148:1:B> <[> Mm hmm </[> </{>
+
+<$A> <ICE-CAN:S1B-075#149:1:A> You know it's like I don't <,,>
+
+<$B> <ICE-CAN:S1B-075#150:1:B> <{> <[> Well </[>
+
+<$A> <ICE-CAN:S1B-075#151:1:A> <[> But <}> <-> that </[> </{> </-> <=> that's </=> </}> only
+
+the ski one ninety-five and then <?> you've got the binding too </?> <,>
+
+<$B> <ICE-CAN:S1B-075#152:1:B> Right the thing is right <,> you can either spend
+<ICE-CAN:S1B-075#153:1:B> If you want <}> <-> I can I can I can </-> <=> I can </=> </}>
+
+give you a ski for a hundred bucks <,> and a binding for a hundred bucks but
+
+you know what <,> you're <}> <-> gonna </-> <+> going to </+> </}> finish the
+
+ski
+<ICE-CAN:S1B-075#154:1:B> The ski is <}> <-> gonna </-> <+> going to </+> </}> lose its life
+
+in about uh a year or two years
+
+<$A> <ICE-CAN:S1B-075#155:1:A> <{> <[> Mm hmm </[>
+
+<$B> <ICE-CAN:S1B-075#156:1:B> <[> And it'll feel </[> </{> great at first cos it's a new
+
+ski but what happens is because it will be receiving so much abuse <,>
+
+they're not designed that way they're not <{> <[> made </[> to <unclear> word
+
+</unclear> <,> so
+
+<$A> <ICE-CAN:S1B-075#157:1:A> <[> Right </[> </{>
+
+<$A> <ICE-CAN:S1B-075#158:1:A> Right <,>
+<ICE-CAN:S1B-075#159:1:A> What about this section over here
+<ICE-CAN:S1B-075#160:1:A> Is there anything there that
+
+<$B> <ICE-CAN:S1B-075#161:1:B> Uh generally those skis are probably a little bit more <{>
+
+<[> expensive
+<ICE-CAN:S1B-075#162:1:B> If you <}> <-> wanna </-> <+> want to </+> </}> take a look </[>
+
+<$A> <ICE-CAN:S1B-075#163:1:A> <[> No it's okay </[> </{> it's okay
+<ICE-CAN:S1B-075#164:1:A> If they're more expensive <,> I don't know <,,>
+<ICE-CAN:S1B-075#165:1:A> <}> <-> Do you are </-> <=> Have all the <,> skis </=> </}> you're
+
+<}> <-> gonna </-> <+> going to </+> </}> be getting in second-hand are they
+
+all here <{> <[> already </[>
+
+<$B> <ICE-CAN:S1B-075#166:1:B> <[> They're all </[> </{> here already
+
+<$A> <ICE-CAN:S1B-075#167:1:A> Oh
+
+<$B> <ICE-CAN:S1B-075#168:1:B> Ya <,>
+<ICE-CAN:S1B-075#169:1:B> <}> <-> Our </-> <=> uh <,> our </=> </}> deadline for bringing
+
+stuff in was Tuesday however we did extend it an extra day
+
+<$A> <ICE-CAN:S1B-075#170:1:A> You did eh
+
+<$B> <ICE-CAN:S1B-075#171:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-075#172:1:A> What about poles
+<ICE-CAN:S1B-075#173:1:A> You have second-hand poles
+
+<$B> <ICE-CAN:S1B-075#174:1:B> No
+
+<$A> <ICE-CAN:S1B-075#175:1:A> You don't <,>
+<ICE-CAN:S1B-075#176:1:A> <{> <[> Why
+<ICE-CAN:S1B-075#177:1:A> Cos they </[> get bent
+
+<$B> <ICE-CAN:S1B-075#178:1:B> <[> Well </[> </{>
+<ICE-CAN:S1B-075#179:1:B> Poles get get bent all the time
+<ICE-CAN:S1B-075#180:1:B> Poles are not that expensive usually
+<ICE-CAN:S1B-075#181:1:B> Generally <,> poles it's not something that you usually buy
+
+second-hand
+<ICE-CAN:S1B-075#182:1:B> If you want to hand them down to somebody else you could
+
+<$A> <ICE-CAN:S1B-075#183:1:A> Okay <,,>
+<ICE-CAN:S1B-075#184:1:A> I like this jacket <,,>
+
+<$B> <ICE-CAN:S1B-075#185:1:B> Do you have a jacket
+
+<$A> <ICE-CAN:S1B-075#186:1:A> I have a ski jacket <{> <[> but I'm </[> looking for like a
+
+winter jacket
+
+<$B> <ICE-CAN:S1B-075#187:1:B> <[> Mm hmm </[> </{>
+
+<$B> <ICE-CAN:S1B-075#188:1:B> Are you looking for something more of like a parka type thing
+
+<}> <-> as opposed to a </-> <=> ah as opposed to a </=> </}> bomber
+<ICE-CAN:S1B-075#189:1:B> A bomber is something that goes down to about your waist <{> <[>
+
+like </[>
+
+<$A> <ICE-CAN:S1B-075#190:1:A> <[> Nah </[> </{> I don't want a bomber <,,>
+<ICE-CAN:S1B-075#191:1:A> I like this coat
+<ICE-CAN:S1B-075#192:1:A> Is this down
+
+<$B> <ICE-CAN:S1B-075#193:1:B> Uhm <,> I'll take a look <?> here </?> <,,>
+<ICE-CAN:S1B-075#194:1:B> Yup it is down feathers <unclear> two words </unclear> <,>
+
+<$A> <ICE-CAN:S1B-075#195:1:A> It's good
+<ICE-CAN:S1B-075#196:1:A> It's nice
+<ICE-CAN:S1B-075#197:1:A> I like it
+
+<$B> <ICE-CAN:S1B-075#198:1:B> Mm hmm
+
+<$A> <ICE-CAN:S1B-075#199:1:A> It's nice eh <,,>
+<ICE-CAN:S1B-075#200:1:A> Is this the regular price or is it marked down from this
+
+<$B> <ICE-CAN:S1B-075#201:1:B> Uh it's marked down
+<ICE-CAN:S1B-075#202:1:B> It's usually priced at two nineteen ninety-five
+<ICE-CAN:S1B-075#203:1:B> This <unclear> word </unclear> is <?> the </?> <unclear> word
+
+</unclear>
+<ICE-CAN:S1B-075#204:1:B> I'll have to take a look over at this rack <,,>
+<ICE-CAN:S1B-075#205:1:B> And <,> <unclear> word </unclear>
+<ICE-CAN:S1B-075#206:1:B> I'm not sure
+<ICE-CAN:S1B-075#207:1:B> Actually I'll have to check on the number <unclear> maybe two
+
+words </unclear> <&> Conversation between B and extra-corpus speakers </&>
+
+<$A> <ICE-CAN:S1B-075#208:1:A> So <,,>
+<ICE-CAN:S1B-075#209:1:A> So how much is this jacket
+
+<$B> <ICE-CAN:S1B-075#210:1:B> Uhm this one here this is a <unclear> maybe three words
+
+</unclear> <,>
+<ICE-CAN:S1B-075#211:1:B> <?> This one </?> model
+<ICE-CAN:S1B-075#212:1:B> Which model is it
+<ICE-CAN:S1B-075#213:1:B> Three one eight four <,>
+<ICE-CAN:S1B-075#214:1:B> Let me take a look here <,,>
+<ICE-CAN:S1B-075#215:1:B> No uh
+<ICE-CAN:S1B-075#216:1:B> So how much did I say <?> it was </?>
+
+<$A> <ICE-CAN:S1B-075#217:1:A> Three one eight four you said and it's regularly two nineteen
+
+<$B> <ICE-CAN:S1B-075#218:1:B> Uhh two nineteen ninety-five <,> and right now it's selling
+
+for one sixty-nine ninety-five
+
+<$A> <ICE-CAN:S1B-075#219:1:A> <?> Would you say </?> that's a good price
+
+<$B> <ICE-CAN:S1B-075#220:1:B> That's not bad <,,>
+<ICE-CAN:S1B-075#221:1:B> <{> <[> <?> it's a pretty </?> </[> good price <,,>
+
+<$A> <ICE-CAN:S1B-075#222:1:A> <[> Like <?> cheaper </?> </[> </{>
+
+<$B> <ICE-CAN:S1B-075#223:1:B> It's all right <,,>
+
+<$A> <ICE-CAN:S1B-075#224:1:A> I like it <,,>
+<ICE-CAN:S1B-075#225:1:A> But do you think uh
+<ICE-CAN:S1B-075#226:1:A> You think you can <{> <[> get it at </[>
+
+<$B> <ICE-CAN:S1B-075#227:1:B> <[> <?> Do you </?> get a </[> </{> lot of jackets <,>
+
+<$A> <ICE-CAN:S1B-075#228:1:A> <O> laugh </O> <,>
+<ICE-CAN:S1B-075#229:1:A> Well cos <}> <-> I </-> <=> I </=> </}> want a coat but I need a
+
+<}> <-> coat </-> <=> jacket </=> </}> that I can wear like to work you know
+
+<$B> <ICE-CAN:S1B-075#230:1:B> Right
+
+<$A> <ICE-CAN:S1B-075#231:1:A> I don't think
+<ICE-CAN:S1B-075#232:1:A> I <}> <-> dunno </-> <+> don't know </+> </}>
+<ICE-CAN:S1B-075#233:1:A> Could I wear that to work <,,>
+
+<$B> <ICE-CAN:S1B-075#234:1:B> Uhm <,,> <unclear> word </unclear> maybe <unclear> two words
+
+</unclear>
+
+<$A> <ICE-CAN:S1B-075#235:1:A> Maybe
+<ICE-CAN:S1B-075#236:1:A> Or maybe if I got it in a more toned colour or something <,,> <&>
+
+Conversation between B and extra-corpus speakers </&>
+
+<$B> <ICE-CAN:S1B-075#237:1:B> What
+
+<$A> <ICE-CAN:S1B-075#238:1:A> Well does that come in other colours or <,>
+
+<$B> <ICE-CAN:S1B-075#239:1:B> Ya I think these are some of the other colours
+<ICE-CAN:S1B-075#240:1:B> This one here is pretty nice <,>
+<ICE-CAN:S1B-075#241:1:B> Uh no that one's more of a bomber
+
+<$A> <ICE-CAN:S1B-075#242:1:A> That one's more of a bomber
+
+<$B> <ICE-CAN:S1B-075#243:1:B> I don't know if this one here is <unclear> word </unclear>
+
+men's <,> model or not
+
+<$A> <ICE-CAN:S1B-075#244:1:A> That looks kind of like a men's <,>
+<ICE-CAN:S1B-075#245:1:A> What about these purple ones <,,>
+<ICE-CAN:S1B-075#246:1:A> Oh that's a different jacket <{> <[> eh </[>
+
+<$B> <ICE-CAN:S1B-075#247:1:B> <[> Ya </[> </{> that's a different jacket <,,>
+
+<$A> <ICE-CAN:S1B-075#248:1:A> So <?> that </?> <,,> I think it's <unclear> word </unclear>
+
+<$B> <ICE-CAN:S1B-075#249:1:B> Okay </I>
+
+
+<I>
+
+<$A> <ICE-CAN:S1B-075#250:2:A> Sure <,,>
+
+<$B> <ICE-CAN:S1B-075#251:2:B> <}> <-> Kay </-> <+> okay </+> </}> let's talk about some <,>
+
+stuff that's coming up in the next <,,> three weeks four weeks
+
+<$A> <ICE-CAN:S1B-075#252:2:A> Ya
+
+<$B> <ICE-CAN:S1B-075#253:2:B> Oh my lord <,,>
+<ICE-CAN:S1B-075#254:2:B> <O> laugh </O>
+<ICE-CAN:S1B-075#255:2:B> <?> I wrecked </?> this book
+<ICE-CAN:S1B-075#256:2:B> What's happening with <@> Potage L&eacute;gume </@>
+
+<$A> <ICE-CAN:S1B-075#257:2:A> Uhh I have to call <@> Raj </@> today <{1> <[1> <,,> </[1>
+
+and I have to go to <@> Prairie des Poivrons </@> with him <,,>
+<ICE-CAN:S1B-075#258:2:A> <{2> <[2> next week </[2>
+
+<$B> <ICE-CAN:S1B-075#259:2:B> <[1> Ya </[1> </{1>
+
+<$B> <ICE-CAN:S1B-075#260:2:B> <[2> They're still there </[2> </{2>
+
+<$A> <ICE-CAN:S1B-075#261:2:A> Ya
+
+<$B> <ICE-CAN:S1B-075#262:2:B> I thought he picked them up
+
+<$A> <ICE-CAN:S1B-075#263:2:A> No <,,>
+
+<$B> <ICE-CAN:S1B-075#264:2:B> <O> Exasperated breath </O>
+
+<$B> <ICE-CAN:S1B-075#265:2:B> That's what he told me on Sunday
+
+<$B> <ICE-CAN:S1B-075#266:2:B> So next week
+<ICE-CAN:S1B-075#267:2:B> So next week <{> <[> uhh it still won't be <?> there </?> </[>
+
+<$A> <ICE-CAN:S1B-075#268:2:A> <[> No it's off <,> off off off </[> </{>
+
+<$B> <ICE-CAN:S1B-075#269:2:B> It's off until <,,> <{> <[> <unclear> two words </unclear>
+
+</[>
+
+<$A> <ICE-CAN:S1B-075#270:2:A> <[> Until we get </[> </{> the cubes
+<ICE-CAN:S1B-075#271:2:A> Yup <,,>
+
+<$B> <ICE-CAN:S1B-075#272:2:B> Okay <,>
+
+<$A> <ICE-CAN:S1B-075#273:2:A> So that's okay <,,>
+
+<$B> <ICE-CAN:S1B-075#274:2:B> So <?> I'll write </?> that out <,,> </I>
