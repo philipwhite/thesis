@@ -1,0 +1,109 @@
+\documentclass[main.tex]{subfiles}
+\begin{document}
+
+\section{Grammatical Relations}
+
+The simplest classification approach considered the relative frequency of different grammatical relations. For this approach, the governor and the dependent of the dependencies were ignored, with only the relation itself being used. 
+
+Each data set instance contained 52 numerical attributes, one for each relation in the Stanford Dependency system. For each attribute \(A_r\) corresponding to the relation \(r\), the corresponding value was \(n_r/n_t\), where \(n_r\) and \(n_t\) were the number of occurrences of the relation \(r\) and the total number of relations in the text, respectively.
+
+A C4.5 decision tree classifier trained on these instances produces the decision tree shown in Algorithm~\ref{alg:reln-dtree}. The full names for the seven relations are shown in Table~\ref{table:reln-abbr}. The following subsections explore the linguistic reasons why these particular relations should be so useful in classifying the texts.
+
+\begin{algorithm}[htbp]
+\begin{spacing}{1.0}
+\caption{C4.5 decision tree classifier}
+{\footnotesize
+\begin{algorithmic}
+\IF {$complm \leq 0.011635$}
+  \IF {$purpcl \leq 0.000856$}
+    \IF {$rcmod \leq 0.012254$}
+      \STATE $en (34.0)$
+    \ELSE %rcmod
+      \IF {$prt \leq 0.002113$}
+        \STATE $es (4.0/1.0)$
+      \ELSE %prt
+        \STATE $en (6.0)$
+      \ENDIF %prt
+    \ENDIF %rcmod
+  \ELSE %purpcl 1
+    \IF {$purpcl \leq 0.001191$}
+      \IF {$advmod \leq 0.045825$}
+        \STATE $es (6.0)$
+      \ELSE %advmod
+        \STATE $en (2.0)$
+      \ENDIF
+    \ELSE %purpcl 2
+      \STATE $en (7.0)$
+    \ENDIF %purpcl 2
+  \ENDIF %purpcl 1
+\ELSE
+  \IF {$mark \leq 0.00808$}
+    \STATE $en (6.0)$
+  \ELSE %mark
+    \IF {$aux \leq 0.044037$}
+      \STATE $en (6.0/1.0)$
+    \ELSE %aux
+      \STATE $en (60.0)$
+    \ENDIF
+  \ENDIF
+\ENDIF %complm
+\end{algorithmic}
+}
+\label{alg:reln-dtree}
+\end{spacing}
+\end{algorithm}
+
+
+\begin{table}
+\caption{Relation abbreviations}
+\begin{center}
+  \begin{tabular}{| l | l |}
+    \hline
+    advmod & adverbial modifier  \\
+    \hline
+    aux & auxiliary \\
+    \hline
+    complm & complementizer \\
+    \hline
+    mark & marker \\
+    \hline
+    prt & phrasal verb particle \\
+    \hline
+    purpcl & purpose clause modifier \\
+    \hline
+    rcmod & relative clause modifier \\
+    \hline
+  \end{tabular}
+\end{center}
+\label{table:reln-abbr}
+\end{table}
+
+\subsection{Adverbial Modifier}
+\subsection{Auxiliary}
+\subsection{Complementizer}
+\subsection{Marker}
+\subsection{Phrasal Verb Particle}
+
+The phrasal verb particle relation ties the head word of a phrasal verb to its particle. 
+See Example~\ref{ex:prt-en1}.
+\enumsentence{
+\xytext{
+\xybarnode{\ldots the} &
+\xybarnode{reduction} &
+\xybarnode{of} &
+\xybarnode{superfluous} &
+\xybarnode{proteins} &
+\xybarnode{will} &
+\xybarnode{free}
+\xybarconnect(U,U){1}"^{\small prt}"
+&
+\xybarnode{up} &
+\xybarnode{resources \ldots}
+}
+\label{ex:prt-en1}
+}
+\subsection{Purpose Clause Modifier}
+\subsection{Relative Clause Modifier}
+
+\def\biblio{}
+\end{document}

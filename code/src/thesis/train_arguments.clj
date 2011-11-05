@@ -1,3 +1,6 @@
+;;note 'arg' refers to the system that distinguishes anaphora from lexical NP, arg-struct refers
+;;to just looking at different verb types in terms of the argument patterns they accept
+
 (ns thesis.train-arguments
   (:require
    [thesis.data :as data]
@@ -44,14 +47,41 @@
     ;;now add zeros for any args
     (apply merge (map (fn [a]
                         (if (contains? arg-rel-freqs a)
-                          {a [(arg-rel-freqs a)]}
-                          {a  [0.0]}))
+                          {a (arg-rel-freqs a)}
+                          {a  0.0}
+                          ;;{a [(arg-rel-freqs a)]};;replace above with this for t-test
+                          ;;{a  [0.0]}
+                          ))
                       arg/*all-argument-attributes*))))
 
+(defn relative-arg-struct-freqs [deps]
+  "ignores whether the arguments are anaphora and just looks at relative frequencies of the different
+argument structures. there are six: s,ao,aio,aoc,p,pc"
+  (let [args (map string/lower-case (mapcat arg/extract-arguments deps))
+        arg-count (count args)
+        arg-freqs (frequencies args)
+        arg-rel-freqs (apply merge (for [[struct freq] arg-freqs]
+                                     {struct (double (/ freq arg-count))}))]
+    ;;now add zeros for any args that aren't used
+    (apply merge (map (fn [a]
+                        (if (contains? arg-rel-freqs a)
+                          {a (arg-rel-freqs a)}
+                          {a  0.0}))
+                      arg/*all-argument-structures*))))
+
 (defn make-arg-dataset []
-  "Makes a dataset with numerical attributes of argument structure relative frequencies"
+  "Makes a dataset with numerical attributes of argument relative frequencies"
   (let [ds (mld/make-dataset "Arguments"
                              (conj arg/*all-argument-attributes*
+                                   {"L1" ["es" "en"]})
+			  100)]
+    (mld/dataset-set-class ds "L1")
+    ds))
+
+(defn make-arg-struct-dataset []
+  "Makes a dataset with numerical attributes of argument relative frequencies"
+  (let [ds (mld/make-dataset "Arguments Structures"
+                             (conj arg/*all-argument-structures*
                                    {"L1" ["es" "en"]})
 			  100)]
     (mld/dataset-set-class ds "L1")
@@ -60,6 +90,11 @@
 (defn add-to-arg-dataset [ds arg-freqs L1]
   "adds an instance using the data found in the map arg-freqs"
   (mld/dataset-add ds (concat (map arg-freqs arg/*all-argument-attributes*)
+                              [({:en "en" :es "es"} L1)])))
+
+(defn add-to-arg-struct-dataset [ds arg-freqs L1]
+  "adds an instance using the data found in the map arg-freqs"
+  (mld/dataset-add ds (concat (map arg-freqs arg/*all-argument-structures*)
                               [({:en "en" :es "es"} L1)])))
 
 (defn make-arg-dataset-from-all-corpora []
@@ -73,6 +108,19 @@
       (add-to-arg-dataset ds a :es))
     (doseq [a en-freqs]
       (add-to-arg-dataset ds a :en))
+    ds))
+
+(defn make-arg-struct-dataset-from-all-corpora []
+  "makes a dataset using arg relative frequencies all of the corpora"
+  (let [ds (make-arg-struct-dataset)
+        es-freqs (map relative-arg-struct-freqs
+                      (map (partial remove empty?) (load-all-corpora-deps :es)))
+        en-freqs (map relative-arg-struct-freqs
+                      (map (partial remove empty?) (load-all-corpora-deps :en)))]
+    (doseq [a es-freqs]
+      (add-to-arg-struct-dataset ds a :es))
+    (doseq [a en-freqs]
+      (add-to-arg-struct-dataset ds a :en))
     ds))
 
 (defn train-and-test [dataset]

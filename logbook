@@ -1,4 +1,14 @@
+3 Nov '11
+Reran t-test on dep relns. Results on 95% significant relns in log-addendum-006.txt. es in x, en in y.
+Results on 99% sign in log-addendum-007.txt
+
+
+23 Oct '11
+Note to self: Do L1-en use VP anaphora (i.e. do) readily in English? What types of VP anaphora does Spanish have? See Lopez and Winkler ("spanish-vp-anaphora.pfd")
+
+
 9 Oct '11
+commit: 9b9e80fe082e8e68e96c42db9eb247476781a67d
 Finish an initial version of the arguments/lexical NP based classifier. Code is in arguments.clj and train_arguments.clj.
 T-test results show significant difference between the following argument configurations, with the shown language having the greater frequency. (alpha = 0.05)
 s  -->  ES
@@ -118,6 +128,7 @@ complm
 ccomp
 nsubj
 det
+nn
 
 See addendum-003 for more statistics.
 

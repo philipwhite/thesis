@@ -8,7 +8,9 @@
    [incanter.stats :as stats]
    [clojure.string :as string])
   (:import
-   edu.stanford.nlp.trees.EnglishGrammaticalStructure))
+   edu.stanford.nlp.trees.EnglishGrammaticalStructure)
+  (:use
+   thesis.tools))
 
 (def *all-argument-attributes*
   ["s" "S"
@@ -16,7 +18,8 @@
    "aio" "aiO" "aIo" "aIO" "Aio" "AIo" "AIO"
    "aoc" "aoC" "aOc" "aOC" "Aoc" "AOc" "AOC"
    "p" "P"
-   "pc" "pC" "Pc" "PC"])
+   "pc" "pC" "Pc" "PC"
+   "sc" "sC" "Sc" "SC"])
 
 (def *all-argument-attributes-by-structure*
   [["s" "S"]
@@ -24,7 +27,8 @@
    ["aio" "aiO" "aIo" "aIO" "Aio" "AIo" "AIO"]
    ["aoc" "aoC" "aOc" "aOC" "Aoc" "AOc" "AOC"]
    ["p" "P"]
-   ["pc" "pC" "Pc" "PC"]])
+   ["pc" "pC" "Pc" "PC"]
+   ["sc" "sC" "Sc" "SC"]])
 
 (def *all-argument-structures*
   ["s"
@@ -32,7 +36,8 @@
    "aio"
    "aoc"
    "p"
-   "pc"])
+   "pc"
+   "sc"])
 
 (def *example-sentences*
   [["I walk" "s.png"]
@@ -55,6 +60,7 @@
    "mine" "yours" "hers" "his" "ours" "theirs"
    "me" "you" "her" "him" "it" "one" "us" "them"
    "I" "you" "she" "he" "we" "they"])
+;;how about 'what' as in "what she said"
 
 (defn word-eq [a b]
   (= (string/upper-case a) (string/upper-case b)))
@@ -91,7 +97,7 @@
 ;;pattern. The keys are the names of the patterns, the values are lists
 ;;of relns. simpler structures are lower than the more complicated ones
 ;;that contain them
-(def *structure-maps*
+(def *structure-maps* ;TODO csubj and csubjpass
   {"pc" ["nsubjpass" "dobj"]
    "p" ["nsubjpass"]
    "aoc" ["nsubj" "xcomp"]
@@ -99,33 +105,52 @@
    "ao" ["nsubj" "dobj"]
    "s" ["nsubj"] })
 
+(defn get-copula-arg-structure [deps verb-node]
+  "gets to see if there is a 'cop' dependency among deps where the dependent
+is verb node. Returns a similar value as get-argument-structure"
+  (if-let [cop (->> deps
+                 (filter #(= "cop" (.getShortName (.reln %))))
+                 (filter #(= verb-node (.dep %)))
+                 first)]
+    ;;try to find a subject
+    (if-let [subj (->> deps
+                       (filter #(=any? ["nsubj" "csubj"]
+                                       (.getShortName (.reln %))))
+                       (filter #(= (.gov cop) (.gov %)))
+                       first)]
+      ["sc" (.dep subj) (.gov cop)])))
+
 (defn get-argument-structure [deps verb-node]
-  "return one of the all-lower case values in *all-argument-attributes*
-does not distinguish full NPs from anaphora."
-  (let [deps-with-verb-gov
-        (filter #(identical? (.gov %) verb-node) deps)
-        reln-names (map #(.getShortName (.reln %)) deps-with-verb-gov)
-        match (some (fn [[name pattern]]
-                      (if (every? (fn [reln]
-                                    (some #(= reln %) reln-names))
-                                  pattern)
-                        name))
-                    *structure-maps*)]
-    (when-not (nil? match)
-      (let [arguments (for [reln (*structure-maps* match)]
-                        (let [dep (some #(if (= reln (.getShortName (.reln %)))
-                                           %)
-                                        deps-with-verb-gov)]
-                          (.dep dep)))]
+  "return a seq where the first item is one of the all-lower case values in *all-argument-attributes* does not distinguish full NPs from anaphora. The remaining items are the arguments (as tree nodes)"
+  (if-let [cop-arg-struct (get-copula-arg-structure deps verb-node)]
+    cop-arg-struct
+    ;;else, not a copula
+    (let [deps-with-verb-gov
+          (filter #(identical? (.gov %) verb-node) deps)
+          reln-names (map #(.getShortName (.reln %)) deps-with-verb-gov)
+          match (some (fn [[name pattern]]
+                        (if (every? (fn [reln]
+                                      (some #(= reln %) reln-names))
+                                    pattern)
+                          name))
+                      *structure-maps*)]
+      (when-not (nil? match)
+        (let [arguments (for [reln (*structure-maps* match)]
+                          (let [dep (some #(if (= reln (.getShortName (.reln %)))
+                                             %)
+                                          deps-with-verb-gov)]
+                            (.dep dep)))]
           (if (= match "aoc")
-         (if-let [reln-with-2nd-obj-gov
-                  (some #(if
-                             (and
-                              (= (.gov %) (second arguments))
-                              (= (.getShortName (.reln %)) "nsubj"))
-                           %) deps)]
-           [match (first arguments) (.dep reln-with-2nd-obj-gov)  (second arguments)])
-         (into [match] arguments))))))
+            (if-let [reln-with-2nd-obj-gov
+                     (some #(if
+                                (and
+                                 (= (.gov %) (second arguments))
+                                 (= (.getShortName (.reln %)) "nsubj"))
+                              %) deps)]
+              [match (first arguments) (.dep reln-with-2nd-obj-gov)  (second arguments)])
+            (into [match] arguments)))))))
+
+
 
 (defn mark-referential-forms [[structure & arguments]]
   "pass this the output of get-argument-structure. It basically capitalized the

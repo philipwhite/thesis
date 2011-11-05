@@ -4,6 +4,7 @@
    (:import
     edu.stanford.nlp.trees.EnglishGrammaticalStructure
     [weka.core Instances Attribute]
+    [weka.classifiers.trees RandomForest J48]
     java.util.Vector)
    
    (:require
@@ -143,19 +144,34 @@ evaluates it using cross validation, then removes the attribute from dataset tha
                      (:filenames corpus-info))))
             corpora)))
 
-(defn run-t-test []
+(defn run-t-test [conf]
   (let [es-freqs (apply (partial merge-with concat)
                          (map relative-dep-freqs
                               (load-all-corpora-deps :es)))
         en-freqs (apply (partial merge-with concat)
                          (map relative-dep-freqs
                               (load-all-corpora-deps :en)))]
-    (doseq [reln *all-reln*]
-      ;;incanter doesn't like it if all zeros are passed to it
-      (if (some #(not= 0 %) (concat (es-freqs reln) (en-freqs reln)))
-        (let [test-results (stats/t-test (es-freqs reln) :y (en-freqs reln))
-            filtered-results (select-keys test-results
-                                          [:conf-int :t-stat :p-value :df]) ]
-        (println "*****")
-        (println reln)
-        (println filtered-results))))))
+    (apply merge
+           (for [reln *all-reln*]
+             ;;incanter doesn't like it if all zeros are passed to it
+             (if (some #(not= 0 %) (concat (es-freqs reln) (en-freqs reln)))
+               {reln (stats/t-test (es-freqs reln) :y (en-freqs reln) :conf-level conf)})))))
+
+(defn filter-t-test-results [tr]
+  (apply merge
+         (for [[reln results] tr]
+           (let [[lower upper] (:conf-int results)
+                 es-mean (:x-mean results)
+                 en-mean (:y-mean results)]
+             (if (or (and (< lower 0) (< upper 0))
+                     (and (> lower 0) (> upper 0)))
+               (if (or (> es-mean 0.05) (> en-mean 0.05))
+                 {reln results}))))))
+
+(defn train-and-test [dataset]
+  (let [cl (J48.)]
+    ;;(.setNumFolds cl 100)
+    ;;(.setNumTrees cl 100)
+    (mlc/classifier-train cl dataset)
+    (mlc/classifier-evaluate cl :cross-validation dataset 10)
+    cl))
