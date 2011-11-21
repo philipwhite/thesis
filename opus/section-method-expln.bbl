@@ -1,0 +1,27 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Breiman}{Breiman}{2001}]{breiman:2001}
+{\sc Breiman, L.} 2001.
+\newblock Random forests.
+\newblock In {\em Machine Learning}. 5--32.
+
+\bibitem[\protect\citeauthoryear{Hall, Frank, Holmes, Pfahringer, Reutemann,
+  and Witten}{Hall et~al\mbox{.}}{2009}]{hall-et-al:2009}
+{\sc Hall, M.}, {\sc Frank, E.}, {\sc Holmes, G.}, {\sc Pfahringer, B.}, {\sc
+  Reutemann, P.}, {\sc and} {\sc Witten, I.~H.} 2009.
+\newblock The {WEKA} data mining software: An update.
+\newblock {\em {SIGKDD} Explorations\/}~{\em 11,\/}~1.
+
+\bibitem[\protect\citeauthoryear{Klein and Manning}{Klein and
+  Manning}{2003}]{klein-manning-pcfg:2003}
+{\sc Klein, D.} {\sc and} {\sc Manning, C.~D.} 2003.
+\newblock Accurate unlexicalized parsing.
+\newblock In {\em Proceedings of the 41st Meeting of the Association for
+  Computational Linguistics}. 423--430.
+
+\bibitem[\protect\citeauthoryear{Quinlan}{Quinlan}{1993}]{quinlan:1993}
+{\sc Quinlan, J.~R.} 1993.
+\newblock {\em {C4.5}: Programs for Machine Learning}.
+\newblock Morgan Kaufmann Publishers.
+
+\end{thebibliography}

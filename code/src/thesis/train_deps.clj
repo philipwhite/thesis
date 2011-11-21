@@ -5,14 +5,17 @@
     edu.stanford.nlp.trees.EnglishGrammaticalStructure
     [weka.core Instances Attribute]
     [weka.classifiers.trees RandomForest J48]
-    java.util.Vector)
+    java.util.Vector
+    [weka.attributeSelection InfoGainAttributeEval ClassifierSubsetEval GeneticSearch RaceSearch Ranker ChiSquaredAttributeEval]
+    [weka.core SelectedTag])
    
    (:require
     [thesis.parse :as parse]
     [thesis.data :as data]
     [clj-ml.data :as mld]
     [clj-ml.classifiers :as mlc]
-    [incanter.stats :as stats]))
+    [incanter.stats :as stats]
+    [incanter.core :as incanter]))
 
 (def *all-reln*
   (vec (.keySet (EnglishGrammaticalStructure/shortNameToGRel))))
@@ -170,8 +173,72 @@ evaluates it using cross validation, then removes the attribute from dataset tha
 
 (defn train-and-test [dataset]
   (let [cl (J48.)]
-    ;;(.setNumFolds cl 100)
-    ;;(.setNumTrees cl 100)
+    (.setBinarySplits cl true)
+    ;;(.setMinNumObj cl 100)
+    (.setSeed cl (System/currentTimeMillis))
     (mlc/classifier-train cl dataset)
     (mlc/classifier-evaluate cl :cross-validation dataset 10)
     cl))
+
+(comment (defn eval-attributes [dataset]
+  (let [attr-indexes (range 0 (.numAttributes dataset))
+        evaluator (InfoGainAttributeEval.)]
+    (.buildEvaluator evaluator dataset)
+    (sort-by second #(if (> %1 %2) -1 1)
+           (for [ai attr-indexes]
+             [(.name (.attribute dataset ai))
+              (.evaluateAttribute evaluator ai)])))))
+
+(defn eval-attributes [dataset]
+  (let [classifier (RandomForest.)
+        eval (ClassifierSubsetEval.)
+        searcher (GeneticSearch.)]
+    (.setNumTrees classifier 100)
+    (.setClassifier eval classifier)
+    (.buildEvaluator eval dataset)
+    (.setMaxGenerations searcher 100000)
+    (.setPopulationSize searcher 100)
+    (.setStartSet searcher (str 1 "-" (.numAttributes dataset)))
+    ;(.setMutationProb searcher 0.05)
+    (repeatedly 1 #(seq (do (.setSeed searcher (System/currentTimeMillis))
+                             (.search searcher eval dataset))))))
+
+(defn done-searching [result-map]
+  "returns nil if not done searching, otherwise return a list that contains
+the items that have occurred at least the min number of times"
+  (let [dones
+        (remove nil? (map (fn [[k v]] (if (> v 5) k)) result-map))]
+    (if (> (count dones) 5)
+      dones)))
+
+(defn eval-attributes-1 [dataset]
+  (let [classifier (RandomForest.)
+        eval (ClassifierSubsetEval.)
+        searcher (GeneticSearch.)]
+    (.setNumTrees classifier 100)
+    (.setClassifier eval classifier)
+    (.buildEvaluator eval dataset)
+    (.setMaxGenerations searcher 1000)
+    (loop [result-map {}]
+      (println result-map)
+      (if-let [r (done-searching result-map)]
+        r
+        (let [part-r (seq (do (.setSeed searcher (System/currentTimeMillis))
+                              (.search searcher eval dataset)))]
+          (recur (apply (partial merge-with + result-map)
+                        (for [k part-r] {k 1}))))))))
+
+
+(defn eval-attributes [dataset]
+  (let [classifier (J48.)
+        eval (ChiSquaredAttributeEval.)
+        searcher (Ranker.)]
+    ;(.setNumTrees classifier 100)
+    ;(.setClassifier eval classifier)
+    (.buildEvaluator eval dataset)
+    ;(.setRaceType searcher (SelectedTag. 0 (RaceSearch/TAGS_SELECTION)))
+    (.setGenerateRanking searcher true)
+    (.search searcher eval dataset)
+    (.rankedAttributes searcher)))
+
+

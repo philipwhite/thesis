@@ -1,46 +1,60 @@
 This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
-The style file: plainnat.bst
+The style file: acmsmall.bst
 Database file #1: bibliography.bib
-You've used 2 entries,
-            2773 wiz_defined-function locations,
-            604 strings with 5144 characters,
-and the built_in function-call counts, 762 in all, are:
-= -- 62
-> -- 42
-< -- 2
-+ -- 14
-- -- 12
-* -- 52
-:= -- 122
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 10
-chr.to.int$ -- 2
-cite$ -- 4
-duplicate$ -- 35
-empty$ -- 65
-format.name$ -- 18
-if$ -- 156
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty publisher in breiman:2001
+Warning--empty address in breiman:2001
+Warning--empty address in butt
+Warning--empty publisher in marneffe-et-al:2006
+Warning--empty address in marneffe-et-al:2006
+Warning--page numbers missing in hall-et-al:2009
+Warning--empty publisher in klein-manning-pcfg:2003
+Warning--empty address in klein-manning-pcfg:2003
+Warning--empty address in moore:1994
+Warning--empty address in quinlan:1993
+Warning--empty address in whitley:1986
+Warning--empty address in weka-book
+You've used 10 entries,
+            3177 wiz_defined-function locations,
+            779 strings with 6952 characters,
+and the built_in function-call counts, 6394 in all, are:
+= -- 567
+> -- 344
+< -- 0
++ -- 95
+- -- 147
+* -- 544
+:= -- 1085
+add.period$ -- 42
+call.type$ -- 10
+change.case$ -- 67
+chr.to.int$ -- 10
+cite$ -- 22
+duplicate$ -- 222
+empty$ -- 457
+format.name$ -- 189
+if$ -- 1231
 int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 2
-newline$ -- 18
-num.names$ -- 8
-pop$ -- 25
+int.to.str$ -- 0
+missing$ -- 17
+newline$ -- 52
+num.names$ -- 100
+pop$ -- 87
 preamble$ -- 1
-purify$ -- 8
+purify$ -- 131
 quote$ -- 0
-skip$ -- 32
+skip$ -- 216
 stack$ -- 0
-substring$ -- 4
-swap$ -- 3
+substring$ -- 287
+swap$ -- 69
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 17
-warning$ -- 0
-while$ -- 6
+type$ -- 160
+warning$ -- 12
+while$ -- 95
 width$ -- 0
-write$ -- 32
+write$ -- 134
+(There were 12 warnings)

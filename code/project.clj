@@ -4,7 +4,7 @@
 		 [org.clojure/clojure-contrib "1.2.0"]
 		 [org.clojars.gilesc/stanford-parser "1.6.7"]
 		 [org.clojars.magnusrw/dependensee "1.4.2"]
-		 [incanter "1.2.3"]
-		 [com.leadtune/clj-ml "0.1.3 -SNAPSHOT"]]
+		 [incanter "1.3.0-SNAPSHOT"]
+		 [com.leadtune/clj-ml "0.1.3"]]
   :dev-dependencies [ [swank-clojure "1.3.0"] ]
   :jvm-opts ["-Xmx4g"])

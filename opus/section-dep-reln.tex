@@ -43,7 +43,7 @@ A C4.5 decision tree classifier trained on these instances produces the decision
     \IF {$aux \leq 0.044037$}
       \STATE $en (6.0/1.0)$
     \ELSE %aux
-      \STATE $en (60.0)$
+      \STATE $es (60.0)$
     \ENDIF
   \ENDIF
 \ENDIF %complm
@@ -81,11 +81,84 @@ A C4.5 decision tree classifier trained on these instances produces the decision
 \subsection{Adverbial Modifier}
 \subsection{Auxiliary}
 \subsection{Complementizer}
+
+A complementizer is a word that signals the beginning of a clausal complement. The Stanford Parser recognizes the complementizers \textit{that} and \textit{whether} as shown in example~\ref{ex:complm3} (Sulec,Micusp). The governor of a complementizer dependency is the root of the clause, which is generally a verb or, in the cause of copular clauses, the subject complement. The dependent is the complementizer itself.
+
+
+\eenumsentence{
+\label{ex:complm3}
+\item
+\xytext{
+\xybarnode{\ldots} &
+\xybarnode{I} &
+\xybarnode{will} &
+\xybarnode{consider} &
+\xybarnode{\ldots} &
+\xybarnode{whether} &
+\xybarnode{the} &
+\xybarnode{world} &
+\xybarnode{is} &
+\xybarnode{a} &
+\xybarnode{safe} &
+\xybarnode{place}
+\xybarconnect(U,U){-6}"_{\small complm}"
+}
+
+\item
+\xytext{
+\xybarnode{At} &
+\xybarnode{least} &
+\xybarnode{you} &
+\xybarnode{choose} &
+\xybarnode{whether} &
+\xybarnode{to} &
+\xybarnode{go}
+\xybarconnect(U,U){-2}"_{\small complm}" &
+\xybarnode{to} &
+\xybarnode{a} &
+\xybarnode{pub} &
+\xybarnode{or} &
+\xybarnode{not.}
+}
+
+\item
+\xytext{
+\xybarnode{They} &
+\xybarnode{state} &
+\xybarnode{that} &
+\xybarnode{climate} &
+\xybarnode{generally} &
+\xybarnode{predicts}
+\xybarconnect(U,U){-3}"_{\small complm}"&
+\xybarnode{that} &
+\xybarnode{temperatures} &
+\xybarnode{should} &
+\xybarnode{rise}
+\xybarconnect(U,U){-3}"_{\small complm}"&
+\ldots
+}
+}
+
+\citet{whitley:1986} points out that while English tends to allow complementizers introducing clausal complements in the object position to be deleted, Spanish is much more restrictive in this regard (see examples~\ref{ex:complm1} and~\ref{ex:complm2}). \citep[p.278]{whitley:1986}.
+
+\eenumsentence{
+\label{ex:complm1}
+\item I say that he'll do it.
+\item I say he'll do it.
+}
+
+\eenumsentence{
+\label{ex:complm2}
+\item Digo que lo hará.
+\item *Digo lo hará.
+}
+
+
+
 \subsection{Marker}
 \subsection{Phrasal Verb Particle}
 
-The phrasal verb particle relation ties the head word of a phrasal verb to its particle. 
-See Example~\ref{ex:prt-en1}.
+The phrasal verb particle relation ties the head word of a phrasal verb to its particle as shown in Example~\ref{ex:prt-en1}. 
 \enumsentence{
 \xytext{
 \xybarnode{\ldots the} &
@@ -105,5 +178,5 @@ See Example~\ref{ex:prt-en1}.
 \subsection{Purpose Clause Modifier}
 \subsection{Relative Clause Modifier}
 
-\def\biblio{}
+\biblio
 \end{document}

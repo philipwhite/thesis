@@ -1,5 +1,6 @@
 \documentclass[12pt]{article}
 \usepackage[square]{natbib}
+\setcitestyle{aysep={}}
 \usepackage{url}
 \usepackage{subfiles}
 \usepackage[noend]{algorithmic}
@@ -11,18 +12,20 @@
 \usepackage[margin=1.0in,left=1.5in]{geometry}
 \usepackage{xytree}
 \usepackage{lingmacros}
+\usepackage{xypic}
 
 
 \title{Thesis}
 \author{Philip White}
 \doublespacing
 
+\numberwithin{figure}{section}
 \numberwithin{table}{section}
 \numberwithin{algorithm}{section}
 \numberwithin{enums}{section}
 
 %So citations work well with subfiles
-\def\biblio{\bibliographystyle{plainnat}\bibliography{bibliography}}
+\def\biblio{\bibliographystyle{acmsmall}\bibliography{bibliography}}
 
 
 
@@ -33,12 +36,11 @@
 \maketitle
 
 
-
+\subfile{section-method-expln}
 \subfile{section-dep-reln}
-\subfile{examples}
-\cite{weka-book}
+
 \nocite{*}
-\bibliographystyle{plainnat}
+\bibliographystyle{acmsmall}
 \bibliography{bibliography}
 
 \end{document}

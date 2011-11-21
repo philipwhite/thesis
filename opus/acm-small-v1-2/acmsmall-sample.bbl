@@ -1,0 +1,74 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Adya, Bahl, Padhye, A.Wolman, and Zhou}{Adya
+  et~al\mbox{.}}{2004}]{Adya-01}
+{\sc Adya, A.}, {\sc Bahl, P.}, {\sc Padhye, J.}, {\sc A.Wolman}, {\sc and}
+  {\sc Zhou, L.} 2004.
+\newblock A multi-radio unification protocol for {IEEE} 802.11 wireless
+  networks.
+\newblock In {\em Proceedings of the IEEE 1st International Conference on
+  Broadnets Networks (BroadNets'04)}. IEEE, Los Alamitos, CA, 210--217.
+
+\bibitem[\protect\citeauthoryear{Akyildiz, Melodia, and Chowdhury}{Akyildiz
+  et~al\mbox{.}}{2007}]{Akyildiz-02}
+{\sc Akyildiz, I.~F.}, {\sc Melodia, T.}, {\sc and} {\sc Chowdhury, K.~R.}
+  2007.
+\newblock A survey on wireless multimedia sensor networks.
+\newblock {\em Computer Netw.\/}~{\em 51,\/}~4, 921--960.
+
+\bibitem[\protect\citeauthoryear{Akyildiz, Su, Sankarasubramaniam, and
+  Cayirci}{Akyildiz et~al\mbox{.}}{2002}]{Akyildiz-01}
+{\sc Akyildiz, I.~F.}, {\sc Su, W.}, {\sc Sankarasubramaniam, Y.}, {\sc and}
+  {\sc Cayirci, E.} 2002.
+\newblock Wireless sensor networks: A survey.
+\newblock {\em Comm. ACM\/}~{\em 38,\/}~4, 393--422.
+
+\bibitem[\protect\citeauthoryear{Bahl, Chancre, and Dungeon}{Bahl
+  et~al\mbox{.}}{2004}]{Bahl-02}
+{\sc Bahl, P.}, {\sc Chancre, R.}, {\sc and} {\sc Dungeon, J.} 2004.
+\newblock {SSCH}: Slotted seeded channel hopping for capacity improvement in
+  {IEEE} 802.11 ad-hoc wireless networks.
+\newblock In {\em Proceeding of the 10th International Conference on Mobile
+  Computing and Networking (MobiCom'04)}. ACM, New York, NY, 112--117.
+
+\bibitem[\protect\citeauthoryear{}{CROSSBOW}{2008}]{CROSSBOW}
+CROSSBOW 2008.
+\newblock {XBOW} sensor motes specifications.
+\newblock http://www.xbow.com.
+
+\bibitem[\protect\citeauthoryear{Culler, Estrin, and Srivastava}{Culler
+  et~al\mbox{.}}{2004}]{Culler-01}
+{\sc Culler, D.}, {\sc Estrin, D.}, {\sc and} {\sc Srivastava, M.} 2004.
+\newblock Overview of sensor networks.
+\newblock {\em IEEE Comput.\/}~{\em 37,\/}~8 (Special Issue on Sensor
+  Networks), 41--49.
+
+\bibitem[\protect\citeauthoryear{}{Harvard CodeBlue}{2008}]{Harvard-01}
+Harvard CodeBlue 2008.
+\newblock {CodeBlue}: Sensor networks for medical care.
+\newblock http://www.eecs.harvard.edu/mdw/ proj/codeblue/.
+
+\bibitem[\protect\citeauthoryear{Natarajan, Motani, de~Silva, Yap, and
+  Chua}{Natarajan et~al\mbox{.}}{2007}]{Natarajan-01}
+{\sc Natarajan, A.}, {\sc Motani, M.}, {\sc de~Silva, B.}, {\sc Yap, K.}, {\sc
+  and} {\sc Chua, K.~C.} 2007.
+\newblock Investigating network architectures for body sensor networks.
+\newblock In {\em Network Architectures}, {G.~Whitcomb} {and} {P.~Neece}, Eds.
+  Keleuven Press, Dayton, OH, 322--328.
+
+\bibitem[\protect\citeauthoryear{Tzamaloukas and
+  Garcia-Luna-Aceves}{Tzamaloukas and
+  Garcia-Luna-Aceves}{2000}]{Tzamaloukas-01}
+{\sc Tzamaloukas, A.} {\sc and} {\sc Garcia-Luna-Aceves, J.~J.} 2000.
+\newblock Channel-hopping multiple access.
+\newblock Tech. Rep. I-CA2301, Department of Computer Science, University of
+  California, Berkeley, CA.
+
+\bibitem[\protect\citeauthoryear{Zhou, Lu, Wan, Yarvis, and Stankovic}{Zhou
+  et~al\mbox{.}}{2008}]{Zhou-06}
+{\sc Zhou, G.}, {\sc Lu, J.}, {\sc Wan, C.-Y.}, {\sc Yarvis, M.~D.}, {\sc and}
+  {\sc Stankovic, J.~A.} 2008.
+\newblock {\em Body Sensor Networks}.
+\newblock MIT Press, Cambridge, MA.
+
+\end{thebibliography}

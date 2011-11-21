@@ -1,18 +1,64 @@
-\begin{thebibliography}{2}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{}
 
-\bibitem[de~Marneffe and Manning(2008)]{typed-deps-manual}
-Marie-Catherine de~Marneffe and Christopher~D. Manning.
-\newblock {S}tanford typed dependencies manual, September 2008.
-\newblock URL \url{http://nlp.stanford.edu/software/dependencies_manual.pdf}.
+\bibitem[\protect\citeauthoryear{Breiman}{Breiman}{2001}]{breiman:2001}
+{\sc Breiman, L.} 2001.
+\newblock Random forests.
+\newblock In {\em Machine Learning}. 5--32.
 
-\bibitem[Witten and Frank(2005)]{weka-book}
-Ian~H. Witten and Eibe Frank.
-\newblock \emph{Data Mining: Practical Machine Learning Tools and Techniques}.
-\newblock Morgan Kaufmann, second edition, 2005.
+\bibitem[\protect\citeauthoryear{Butt and Benjamin}{Butt and
+  Benjamin}{2004}]{butt}
+{\sc Butt, J.} {\sc and} {\sc Benjamin, C.} 2004.
+\newblock {\em A New Reference Grammar of Modern {S}panish\/} Fourth Ed.
+\newblock McGraw-Hill.
+
+\bibitem[\protect\citeauthoryear{de~Marneffe, MacCartney, and
+  Manning}{de~Marneffe et~al\mbox{.}}{2006}]{marneffe-et-al:2006}
+{\sc de~Marneffe, M.-C.}, {\sc MacCartney, B.}, {\sc and} {\sc Manning, C.~D.}
+  2006.
+\newblock Generating typed dependency parses from phrase structure parses.
+\newblock In {\em {LREC} 2006}.
+
+\bibitem[\protect\citeauthoryear{de~Marneffe and Manning}{de~Marneffe and
+  Manning}{2008}]{typed-deps-manual}
+{\sc de~Marneffe, M.-C.} {\sc and} {\sc Manning, C.~D.} 2008.
+\newblock {S}tanford typed dependencies manual.
+
+\bibitem[\protect\citeauthoryear{Hall, Frank, Holmes, Pfahringer, Reutemann,
+  and Witten}{Hall et~al\mbox{.}}{2009}]{hall-et-al:2009}
+{\sc Hall, M.}, {\sc Frank, E.}, {\sc Holmes, G.}, {\sc Pfahringer, B.}, {\sc
+  Reutemann, P.}, {\sc and} {\sc Witten, I.~H.} 2009.
+\newblock The {WEKA} data mining software: An update.
+\newblock {\em {SIGKDD} Explorations\/}~{\em 11,\/}~1.
+
+\bibitem[\protect\citeauthoryear{Klein and Manning}{Klein and
+  Manning}{2003}]{klein-manning-pcfg:2003}
+{\sc Klein, D.} {\sc and} {\sc Manning, C.~D.} 2003.
+\newblock Accurate unlexicalized parsing.
+\newblock In {\em Proceedings of the 41st Meeting of the Association for
+  Computational Linguistics}. 423--430.
+
+\bibitem[\protect\citeauthoryear{Moore}{Moore}{1994}]{moore:1994}
+{\sc Moore, A.~W.} 1994.
+\newblock Efficient algorithms for minimizing cross validation error.
+\newblock In {\em Proceedings of the Eleventh International Conference on
+  Machine Learning}. Morgan Kaufmann, 190--198.
+
+\bibitem[\protect\citeauthoryear{Quinlan}{Quinlan}{1993}]{quinlan:1993}
+{\sc Quinlan, J.~R.} 1993.
+\newblock {\em {C4.5}: Programs for Machine Learning}.
+\newblock Morgan Kaufmann Publishers.
+
+\bibitem[\protect\citeauthoryear{Whitley}{Whitley}{1986}]{whitley:1986}
+{\sc Whitley, M.~S.} 1986.
+\newblock {\em {S}panish/{E}nglish Contrasts: A Course in {S}panish
+  Linguistics}.
+\newblock Georgetown University Press.
+
+\bibitem[\protect\citeauthoryear{Witten and Frank}{Witten and
+  Frank}{2005}]{weka-book}
+{\sc Witten, I.~H.} {\sc and} {\sc Frank, E.} 2005.
+\newblock {\em Data Mining: Practical Machine Learning Tools and Techniques\/}
+  Second Ed.
+\newblock Morgan Kaufmann.
 
 \end{thebibliography}

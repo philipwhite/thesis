@@ -1,0 +1,91 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Cabral and Leedom}{Cabral and
+  Leedom}{1993}]{Cabral1993}
+{\sc Cabral, B.} {\sc and} {\sc Leedom, L.~C.} 1993.
+\newblock Imaging vector fields using line integral convolution.
+\newblock In {\em Proceedings of the 20th Annual Conference on Computer
+  Graphics and Interactive Techniques (SIGGRAPH'93)}. ACM, New York, NY,
+  263--270.
+
+\bibitem[\protect\citeauthoryear{Daugman}{Daugman}{1985}]{Daugman1985}
+{\sc Daugman, J.~G.} 1985.
+\newblock Uncertainty relation for resolution in space, spatial frequency, and
+  orientation optimized by two-dimensional visual cortical filters.
+\newblock {\em J. Optical Soc. Amer. A: Optics, Image Science, Vision\/}~{\em
+  2,\/}~7, 1160--1169.
+
+\bibitem[\protect\citeauthoryear{Field, Hayes, and Hess}{Field
+  et~al\mbox{.}}{1993}]{Field1993}
+{\sc Field, D.~J.}, {\sc Hayes, A.}, {\sc and} {\sc Hess, R.~F.} 1993.
+\newblock Contour integration by the human visual system: Evidence for a local
+  ``association field".
+\newblock {\em Vision Res.\/}~{\em 33,\/}~2, 173--193.
+
+\bibitem[\protect\citeauthoryear{Fowler and Ware}{Fowler and
+  Ware}{1989}]{Fowler1989}
+{\sc Fowler, D.} {\sc and} {\sc Ware, C.} 1989.
+\newblock Strokes for representing univariate vector field maps.
+\newblock In {\em Proceedings of Graphics Interface}. Canadian Human-Computer
+  Communications Society, Mississauga, Ontario, 249--253.
+
+\bibitem[\protect\citeauthoryear{Hubel and Wiesel}{Hubel and
+  Wiesel}{1962}]{Hubel1962}
+{\sc Hubel, D.~H.} {\sc and} {\sc Wiesel, T.~N.} 1962.
+\newblock Receptive fields, binocular interaction and functional architecture
+  in the cat's visual cortex.
+\newblock {\em J. Physiol.\/}~{\em 160,\/}~1, 106--154.
+
+\bibitem[\protect\citeauthoryear{Hubel and Wiesel}{Hubel and
+  Wiesel}{1968}]{Hubel1968}
+{\sc Hubel, D.~H.} {\sc and} {\sc Wiesel, T.~N.} 1968.
+\newblock Receptive fields and functional architecture of monkey striate
+  cortex.
+\newblock http://www.hubel/papers/uconn.html.
+
+\bibitem[\protect\citeauthoryear{Jobard and Lefer}{Jobard and
+  Lefer}{1997}]{Jobard1997}
+{\sc Jobard, B.} {\sc and} {\sc Lefer, W.} 1997.
+\newblock Creating evenly-spaced streamlines of arbitrary density.
+\newblock In {\em Proceedings of the Eurographics Workshop}. Springer Verlag,
+  Berlin, 43--56.
+
+\bibitem[\protect\citeauthoryear{Laidlaw, Davidson, Miller, da~Silva, Kirby,
+  Warren, and Tarr}{Laidlaw et~al\mbox{.}}{2001}]{Laidlaw2001}
+{\sc Laidlaw, D.~H.}, {\sc Davidson, J.~S.}, {\sc Miller, T.~S.}, {\sc
+  da~Silva, M.}, {\sc Kirby, R.~M.}, {\sc Warren, W.~H.}, {\sc and} {\sc Tarr,
+  M.} 2001.
+\newblock Quantitative comparative evaluation of 2d vector field visualization
+  methods.
+\newblock In {\em Proceedings of the Conference on Visualization (VIS'01)}.
+  IEEE Computer Society, Los Alamitos, CA, 143--150.
+
+\bibitem[\protect\citeauthoryear{Li}{Li}{1998}]{Li1998a}
+{\sc Li, Z.} 1998.
+\newblock A neural model of contour integration in the primary visual cortex.
+\newblock {\em Neural Comput.\/}~{\em 10,\/}~4, 903--940.
+
+\bibitem[\protect\citeauthoryear{Lund}{Lund}{2001}]{Lund2001}
+{\sc Lund, N.} 2001.
+\newblock {\em Attention and Pattern Recognition}.
+\newblock Routledge, New York, NY.
+
+\bibitem[\protect\citeauthoryear{Pineo and Ware}{Pineo and
+  Ware}{2008}]{Pineo2008}
+{\sc Pineo, D.} {\sc and} {\sc Ware, C.} 2008.
+\newblock Neural modeling of flow rendering effectiveness.
+\newblock In {\em Proceedings of the 5th Symposium on Applied Perception in
+  Graphics and Visualization (APGV'08)}. ACM, New York, NY, 171--178.
+
+\bibitem[\protect\citeauthoryear{Turk and Banks}{Turk and
+  Banks}{1996}]{Turk1996}
+{\sc Turk, G.} {\sc and} {\sc Banks, D.} 1996.
+\newblock Image-guided streamline placement.
+\newblock Tech. Rep. I-CA2200, University of California, Santa Barbara, CA.
+
+\bibitem[\protect\citeauthoryear{Ware}{Ware}{2008}]{Ware2008}
+{\sc Ware, C.} 2008.
+\newblock Toward a perceptual theory of flow visualization.
+\newblock {\em IEEE Comput. Graph. Appl.\/}~{\em 28,\/}~2, 6--11.
+
+\end{thebibliography}

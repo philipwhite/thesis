@@ -9,12 +9,18 @@
 § Introduction to Corpora
 §§ List corpora, size, organization, etc.
 §§ Give statistics for native and non-native instances
-§ Introduction to Classification Methods
+§ Overview of Tests and Classification
 §§ Use of the Stanford Parser for parsing and dependencies
 §§§ Stanford Parser
 §§§ Stanford Typed Dependencies
+§§ The Tests
+§§§ The project consists of a suite of tests
+§§§ Each test concerns a particular grammatical point
+§§§ Each test operates on the output from the Stanford parser and generates training or testing cases for the Weka classifier.
+§§§ The cases consist of one or (usually) more attributes with continuous values
+§§§ The values are generally relative frequencies (number of occurrences of that particular grammatical feature divided by the number of occurrences of all grammatical features considered in that test).
 §§ Use of Weka for classification
-§§§ J48 Classifier
+§§§ C4.5 Classifier
 §§§ RandomForest Classifier
 §§ Use of Clojure
 § Classification Method 1 - Grammatical Relations

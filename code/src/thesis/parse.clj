@@ -8,6 +8,7 @@
     com.chaoticity.dependensee.Main
     javax.swing.JFrame
     clojure.lang.ASeq)
+  
   (:require
     [clojure.string :as str]
     [clojure.contrib.string :as cstr]
