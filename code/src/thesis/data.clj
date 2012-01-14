@@ -32,14 +32,21 @@
 (def *misc-directory* "../data/misc/")
 (def *sulec-directory* "../data/sulec/")
 (def *sulec-raw-file* (str *sulec-directory* "sulec-all-raw.txt"))
-(def *ice-can-directory* "../data/ice-canada/Corpus/")
+(def *ice-can-directory* "../data/ice-canada/processed/")
+(def *ice-can-raw-directory* "../data/ice-canada/Corpus/")
+(def *ice-hk-directory* "../data/ice-hk/processed/")
+(def *ice-hk-raw-directory* "../data/ice-hk/CORPUS/")
+(def *brown-b-directory* "../data/brown/processed/")
+(def *brown-b-raw-directory* "../data/brown/raw/")
 
 (def keyword-to-directory
   {:micusp *micusp-directory*
    :wricle *wricle-directory*
    :misc *misc-directory*
    :sulec *sulec-directory*
-   :ice-can *ice-can-directory*})
+   :ice-can *ice-can-directory*
+   :ice-hk *ice-hk-directory*
+   :brown-b *brown-b-directory*})
 
 (defn download-micusp []
   "Downloads the files listed in the 'PAPER ID' column of the *micusp-keyfile* into *micusp-directory*"
@@ -137,18 +144,13 @@
 
 
 (defn load-dump [corpus name]
-   (let [dir (case corpus
-               :micusp *micusp-directory*
-               :wricle *wricle-directory*
-               :misc *misc-directory*
-               :sulec *sulec-directory*
-               :ice-can *ice-can-directory*
-               (throw
-                (Exception. "First argument must indicate corpus")))]
-     (with-open [inp (-> (File. (str dir name))
-                         java.io.FileInputStream.
-                         java.io.ObjectInputStream.)]
-       (seq (.readObject inp)))))
+  (if-let [dir (keyword-to-directory corpus)]
+    (with-open [inp (-> (File. (str dir name))
+                        java.io.FileInputStream.
+                        java.io.ObjectInputStream.)]
+      (seq (.readObject inp)))
+    (throw
+     (Exception. "First argument must indicate corpus"))))
 
  (defn load-parse [corpus name]
    "Loads a file that was previously dumped with dump-parses-and-deps. Arguments should not have suffix"
@@ -338,6 +340,35 @@
 (def *ice-can-es*
   ["W1A-002"])
 
+(def *ice-hk-en*
+  ["W1B-029"
+   "W1B-029"
+   "W1B-030"
+   "W2A-037"
+   "W2B-002"
+   "W2B-008"
+   "W2B-021"
+   "W2B-025"
+   "W2B-032"
+   "W2B-034"
+   "W2B-037"
+   "W2B-039"
+   "W2B-040"
+   "W2D-011"
+   "W2D-015"
+   "W2D-016"
+   "W2D-018"
+   "W2D-019"
+   "W2D-020"
+   "W2F-012"
+   "W2F-013"
+   "W2F-015"
+   "W2F-018"
+   "W2F-019"])
+
+(def *brown-b-en*
+  (into (map (partial str "cb" "0") (range 1 10)) (map (partial str "cb") (range 10 28))))
+
 (def *all-corpora*
   [{:corpus :micusp
     :filenames *micusp-es*
@@ -359,7 +390,14 @@
     :L1 :es}
    {:corpus :sulec
     :filenames *sulec-es*
-    :L1 :es}])
+    :L1 :es}
+   {:corpus :ice-hk
+    :filenames *ice-hk-en*
+    :L1 :en}
+   {:corpus :brown-b
+   :filenames *brown-b-en*
+   :L1 :en}]
+  )
 
 (def *es-corpora*
   (filter #(= (:L1 %) :es) *all-corpora*))
@@ -375,8 +413,34 @@
             text (slurp fpath)]
         (spit fpath
               (-> text
+                  
                   (string/replace #"\<.+\>" "")
+                 
                   (string/replace #"[\r\n][\r\n]" " ")))))))
+
+(defn cleanup-ice [file-names path-in path-out]
+  "remove all tags and some text between tags"
+  (doseq [f file-names]
+    (let [text (slurp (str path-in f ".txt"))]
+      (spit (str path-out f ".txt")
+            (-> text
+                (string/replace #"&dollar;" "")
+                (string/replace #"&ldquo;|&rdquo;" "\"")
+                (string/replace #"&obrack;" "[")
+                (string/replace #"&cbrack;" "]")
+                (string/replace #"\<O\> deleted \</O\>" "Marcus") ;;redacted names
+                (string/replace #"\<O\>.*\</O\>" "") ;;other extra-corporal text
+                (string/replace #"\<-\>.*\</-\>" "") ;;misspelled words (the corr'n is adjacent)
+                (string/replace #"\<X\>.*\</X\>" "") ;;extra-corpus text
+                (string/replace #"\<&\>.*\</&\>" "") ;comments
+                (string/replace #"\<.+\>" ""))))))
+
+(defn strip-brown-tags []
+  "removes the tags from brown. In the raw format tokens are of the form word/tag"
+  (doseq [f *brown-b-en*]
+    (let [text (slurp (str *brown-b-raw-directory* f))]
+      (spit (str *brown-b-directory* f ".txt")
+            (string/replace text #"(?<=\S)/(\S*)" "")))))
 
 ;;for testing purposes, randomly assign the corpora instances to two different
 ;;language groupings
@@ -406,3 +470,30 @@
   {:es (apply + (map #(count (:filenames %)) (filter #(= :es (:L1 %)) *all-corpora*)))
    :en (apply + (map #(count (:filenames %)) (filter #(= :en (:L1 %)) *all-corpora*)))})
 
+(defn count-parsed-tokens-in-file [corpus file]
+  (let [parse (load-parse corpus file)]
+    (apply + (map #(count (.taggedYield %)) parse))))
+
+(defn count-parsed-tokens-in-corpora []
+  (doseq [corp *all-corpora*]
+    (print (corp :corpus) " " (corp :L1)
+           (apply + (map (partial count-parsed-tokens-in-file (corp :corpus))
+                         (corp :filenames)))
+           "\n\n")))
+
+(defn count-tag-in-file [tag corpus file]
+  (let [parse (load-parse corpus file)]
+    (apply + (map #(count (filter (fn [tw] (= (.tag tw) tag)) (.taggedYield %))) parse))))
+
+(defn count-tag-in-corpora [tag]
+  (doseq [corp *all-corpora*]
+    (print (corp :corpus) " " (corp :L1)
+           (apply + (map (partial count-tag-in-file tag (corp :corpus))
+                         (corp :filenames)))
+           "\n\n")))
+
+(defn print-deps-in-corpus [corpus files reln]
+  (doseq [f files]
+    (doseq [dep (mapcat seq (load-deps corpus f))]
+      (if (= (.getShortName (.reln dep)) reln)
+        (println f "\n" (.value (.dep dep)) (.value (.gov dep)))))))

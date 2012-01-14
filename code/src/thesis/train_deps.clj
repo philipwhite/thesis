@@ -10,7 +10,7 @@
     [weka.core SelectedTag])
    
    (:require
-    [thesis.parse :as parse]
+    [thesis.parse :as parse] ()
     [thesis.data :as data]
     [clj-ml.data :as mld]
     [clj-ml.classifiers :as mlc]
@@ -241,4 +241,20 @@ the items that have occurred at least the min number of times"
     (.search searcher eval dataset)
     (.rankedAttributes searcher)))
 
+
+(defn count-reln-in-corpora [reln]
+  (doseq [corp data/*all-corpora*]
+    (print (corp :corpus) " " (corp :L1)
+           (apply + (for [fname (corp :filenames)]
+                      (count-reln (data/load-deps (corp :corpus) fname) reln)))
+           "\n\n")))
+
+(defn count-reln-in-corpus [reln corp-key]
+  
+  (if-let [corp (some #(if (= (% :corpus) corp-key) %) data/*all-corpora*)]
+    (print corp-key " " (corp :L1)
+                 (apply + (for [fname (corp :filenames)]
+                            (count-reln (data/load-deps corp-key fname) reln)))
+                 "\n\n")
+    (throw (.Exception "No such corpus"))))
 

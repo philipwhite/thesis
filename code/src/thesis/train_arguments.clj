@@ -8,6 +8,7 @@
    [clj-ml.data :as mld]
    [clj-ml.classifiers :as mlc]
    [incanter.stats :as stats]
+   [incanter.core :as incanter]
    [clojure.string :as string])
   (:import
    weka.classifiers.trees.RandomForest))
@@ -158,3 +159,26 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
     (println (:arg-pattern r) " --> " (if (> (:y-mean r) (:x-mean r))
                                         "EN"
                                         "ES"))))
+
+(defn get-ind-args [deps]
+  "For a single instance of deps (multiple sentences), return all individual arguments"
+  (let [args (mapcat arg/extract-arguments deps)]
+    (flatten (for [a args] (map str (seq a))))))
+
+(defn get-per-arg-counts []
+  (let [es-args (mapcat get-ind-args
+                     (map (partial remove empty?) (load-all-corpora-deps :es)))
+        en-args (mapcat get-ind-args
+                        (map (partial remove empty?) (load-all-corpora-deps :en)))
+        es-freqs (frequencies es-args)
+        en-freqs (frequencies en-args)]
+    {:en en-freqs :es es-freqs}))
+
+(defn get-arg-struct-counts []
+  (let [es-args (mapcat arg/extract-arguments
+                     (mapcat (partial remove empty?) (load-all-corpora-deps :es)))
+        en-args (mapcat arg/extract-arguments
+                        (mapcat (partial remove empty?) (load-all-corpora-deps :en)))
+        es-freqs (frequencies es-args)
+        en-freqs (frequencies en-args)]
+    {:en en-freqs :es es-freqs}))
