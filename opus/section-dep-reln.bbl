@@ -1,14 +1,53 @@
-\begin{thebibliography}{1}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{}
 
-\bibitem[Whitley(1986)]{whitley:1986}
-M.~Stanley Whitley.
-\newblock \emph{{S}panish/{E}nglish Contrasts: A Course in {S}panish
+\bibitem[\protect\citeauthoryear{Alejo~González}{Alejo~González}{2010}]{gonzalez:2010}
+{\sc Alejo~González, R.} 2010.
+\newblock L2 spanish acquisition of english phrasal verbs.
+\newblock In {\em Corpus-Based Approaches to English Language Teaching}, {M.~C.
+  Campoy-Cubillo}, {B.~Bellés-Fortuño}, {and} {M.~L. Gea-Valor}, Eds.
+  Continuum International Publishing, Chapter~11.
+
+\bibitem[\protect\citeauthoryear{Celce-Murcia and Larsen-Freeman}{Celce-Murcia
+  and Larsen-Freeman}{1999}]{celce-murcia:1999}
+{\sc Celce-Murcia, M.} {\sc and} {\sc Larsen-Freeman, D.} 1999.
+\newblock {\em The Grammar Book, an ESL/EFL Teacher's Course\/} Second Ed.
+\newblock Heinle and Heinle Publishers.
+
+\bibitem[\protect\citeauthoryear{Dagut and Laufer}{Dagut and
+  Laufer}{1985}]{dagut:1985}
+{\sc Dagut, M.} {\sc and} {\sc Laufer, B.} 1985.
+\newblock Avoidance of phrasal verbs—a case for contrastive analysis.
+\newblock {\em Studies in Second Language Acquisition\/}~{\em 7,\/}~01, 73--79.
+
+\bibitem[\protect\citeauthoryear{de~Marneffe and Manning}{de~Marneffe and
+  Manning}{2008}]{typed-deps-manual}
+{\sc de~Marneffe, M.-C.} {\sc and} {\sc Manning, C.~D.} 2008.
+\newblock {S}tanford typed dependencies manual.
+
+\bibitem[\protect\citeauthoryear{Hulstijn and Marchena}{Hulstijn and
+  Marchena}{1989}]{hulstijn:1989}
+{\sc Hulstijn, J.~H.} {\sc and} {\sc Marchena, E.} 1989.
+\newblock Avoidance.
+\newblock {\em Studies in Second Language Acquisition\/}~{\em 11,\/}~03,
+  241--255.
+
+\bibitem[\protect\citeauthoryear{Laufer and Eliasson}{Laufer and
+  Eliasson}{1993}]{laufer:1993}
+{\sc Laufer, B.} {\sc and} {\sc Eliasson, S.} 1993.
+\newblock What causes avoidance in l2 learning.
+\newblock {\em Studies in Second Language Acquisition\/}~{\em 15,\/}~01,
+  35--48.
+
+\bibitem[\protect\citeauthoryear{Liao and Fukuya}{Liao and
+  Fukuya}{2004}]{liao:2004}
+{\sc Liao, Y.} {\sc and} {\sc Fukuya, Y.~J.} 2004.
+\newblock Avoidance of phrasal verbs: The case of chinese learners of english.
+\newblock {\em Language Learning\/}~{\em 54,\/}~2, 193--226.
+
+\bibitem[\protect\citeauthoryear{Whitley}{Whitley}{1986}]{whitley:1986}
+{\sc Whitley, M.~S.} 1986.
+\newblock {\em {S}panish/{E}nglish Contrasts: A Course in {S}panish
   Linguistics}.
-\newblock Georgetown University Press, 1986.
+\newblock Georgetown University Press.
 
 \end{thebibliography}

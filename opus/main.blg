@@ -4,9 +4,12 @@ The top-level auxiliary file: main.aux
 The style file: acmsmall.bst
 Database file #1: bibliography.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty address in gonzalez:2010
+Warning--page numbers missing in gonzalez:2010
 Warning--empty publisher in breiman:2001
 Warning--empty address in breiman:2001
 Warning--empty address in butt
+Warning--empty address in celce-murcia:1999
 Warning--empty publisher in marneffe-et-al:2006
 Warning--empty address in marneffe-et-al:2006
 Warning--page numbers missing in hall-et-al:2009
@@ -16,45 +19,45 @@ Warning--empty address in moore:1994
 Warning--empty address in quinlan:1993
 Warning--empty address in whitley:1986
 Warning--empty address in weka-book
-You've used 10 entries,
+You've used 16 entries,
             3177 wiz_defined-function locations,
-            779 strings with 6952 characters,
-and the built_in function-call counts, 6394 in all, are:
-= -- 567
-> -- 344
-< -- 0
-+ -- 95
-- -- 147
-* -- 544
-:= -- 1085
-add.period$ -- 42
-call.type$ -- 10
-change.case$ -- 67
-chr.to.int$ -- 10
-cite$ -- 22
-duplicate$ -- 222
-empty$ -- 457
-format.name$ -- 189
-if$ -- 1231
+            817 strings with 7824 characters,
+and the built_in function-call counts, 10440 in all, are:
+= -- 941
+> -- 578
+< -- 1
++ -- 168
+- -- 260
+* -- 925
+:= -- 1780
+add.period$ -- 67
+call.type$ -- 16
+change.case$ -- 107
+chr.to.int$ -- 16
+cite$ -- 31
+duplicate$ -- 334
+empty$ -- 723
+format.name$ -- 337
+if$ -- 1982
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 17
-newline$ -- 52
-num.names$ -- 100
-pop$ -- 87
+missing$ -- 24
+newline$ -- 82
+num.names$ -- 162
+pop$ -- 118
 preamble$ -- 1
-purify$ -- 131
+purify$ -- 208
 quote$ -- 0
-skip$ -- 216
+skip$ -- 329
 stack$ -- 0
-substring$ -- 287
-swap$ -- 69
-text.length$ -- 0
+substring$ -- 485
+swap$ -- 103
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 160
-warning$ -- 12
-while$ -- 95
+type$ -- 270
+warning$ -- 15
+while$ -- 161
 width$ -- 0
-write$ -- 134
-(There were 12 warnings)
+write$ -- 214
+(There were 15 warnings)

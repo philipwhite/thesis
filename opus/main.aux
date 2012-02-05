@@ -1,44 +1,89 @@
 \relax 
+\@writefile{toc}{\contentsline {section}{\numberline {1}Corpora}{1}}
+\@writefile{lot}{\contentsline {table}{\numberline {1.1}{\ignorespaces Corpora Composition\relax }}{1}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{table:corpora}{{1.1}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Parsing and Classification}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Choice of Language}{1}}
 \citation{klein-manning-pcfg:2003}
-\@writefile{toc}{\contentsline {section}{\numberline {1}Parsing and Classification}{1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Choice of Language}{1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Parsing}{1}}
 \citation{hall-et-al:2009}
 \citation{quinlan:1993}
 \citation{breiman:2001}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}The Tests}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.4}Classification}{2}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.1}{\ignorespaces A decision tree showing the partitioning of the set of all training cases $S$ into subsets $S_{1,2}$, $S_{1,1,1}$, and $S_{1,2,1}$ whose elements are of class $C_1$, and $S_{2,2}$, $S_{2,1,1}$, and $S_{2,2,1}$ whose elements are of class $C_2$. The nodes $T$, $T_1$, etc. are partitioning operations.}}{3}}
-\newlabel{fig:c45-dtree}{{1.1}{3}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.1}C4.5}{3}}
-\@writefile{lot}{\contentsline {table}{\numberline {2.1}{\ignorespaces Relation abbreviations}}{4}}
-\newlabel{table:reln-abbr}{{2.1}{4}}
-\@writefile{toc}{\contentsline {section}{\numberline {2}Grammatical Relations}{4}}
-\@writefile{loa}{\contentsline {algorithm}{\numberline {2.1}{\ignorespaces C4.5 decision tree classifier}}{5}}
-\newlabel{alg:reln-dtree}{{2.1}{5}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Adverbial Modifier}{5}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Auxiliary}{5}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Complementizer}{5}}
-\newlabel{ex:complm3}{{2.1}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Parsing}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}The Tests}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Classification}{3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.4.1}C4.5}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces A decision tree showing the partitioning of a set of training cases $S_0$ into subsets $S_{1,2}$, $S_{1,1,1}$, and $S_{1,2,1}$ whose elements are of class $C_1$, and $S_{2,2}$, $S_{2,1,1}$, and $S_{2,2,1}$ whose elements are of class $C_2$. The nodes $T_0$, $T_1$, etc. are partitioning operations such that for any operation $T$ operating on a set $S_a$ the generated sets are $S_{1,a}$ and $S_{2,a}$ where $S_{1,a}\cup S_{2,a} = S_a$ and $S_{1,a}\cap S_{2,a} = \emptyset $.\relax }}{4}}
+\newlabel{fig:c45-dtree}{{2.1}{4}}
+\citation{typed-deps-manual}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Grammatical Relations}{6}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Relation abbreviations\relax }}{7}}
+\newlabel{table:reln-abbr}{{3.1}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces C4.5 decision tree employing relative frequency of dependency relations. Relative frequencies are shown as percentages. Values in parentheses are the number of training case classified at that point and, following the slash when present, the number of those cases which were incorrectly classified.\relax }}{8}}
+\newlabel{fig:c4.5-dep-tree}{{3.1}{8}}
+\citation{typed-deps-manual}
+\citation{typed-deps-manual}
 \citation{whitley:1986}
 \citation{whitley:1986}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces The dependencies $auxpass(\text  {killed},\text  {been})$ and $auxpass(\text  {killed},\text  {was/got})$. Taken from \citet  {typed-deps-manual}.\relax }}{9}}
+\newlabel{ex:auxpass-dep}{{3.2}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces The dependencies $complm(\text  {place},\text  {whether})$, $complm(\text  {go},\text  {whether})$ $complm(\text  {predicts},\text  {that})$, and $complm(\text  {rise},\text  {that})$. Nonnative samples from WRICLE (\textit  {a} and \textit  {c}) and SULEC (\textit  {b}).\relax }}{9}}
+\newlabel{ex:complm3}{{3.3}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Passive Auxiliary}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Complementizer}{9}}
+\citation{typed-deps-manual}
+\newlabel{ex:complm1}{{3.1}{10}}
+\newlabel{ex:complm2}{{3.2}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Copula}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Determiner}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Expletive}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6}Multi-Word Expression}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.7}Noun Compound Modifier}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces The dependency $nn(\text  {concentration}, \text  {oxygen})$. Native sample taken from MICUSP.\relax }}{11}}
+\newlabel{fig:nn-deps}{{3.4}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.8}Noun Phrase as Adverbial Modifier}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.9}Parataxis}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.10}Possession and Possessive Modifiers}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces The dependencies $poss(\text  {effects}, \text  {oil})$ and $possessive(text{oil}, \text  {'s})$. Native sample taken from MICUSP.\relax }}{11}}
+\newlabel{fig:poss-deps}{{3.5}{11}}
+\citation{typed-deps-manual}
+\citation{typed-deps-manual}
+\citation{celce-murcia:1999}
+\citation{celce-murcia:1999}
+\citation{liao:2004}
+\citation{dagut:1985}
+\citation{liao:2004}
+\citation{hulstijn:1989}
+\citation{dagut:1985}
+\citation{laufer:1993}
+\citation{hulstijn:1989}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.11}Preconjunct}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces The dependencies $preconj(\text  {boys},\text  {both})$ and $preconj(\text  {emotionally},\text  {neither})$. (a) taken from \citet  {typed-deps-manual} and (b) from WRICLE (nonnative).\relax }}{12}}
+\newlabel{fig:preconj-dep}{{3.6}{12}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.12}Phrasal Verb Particle}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces The dependency $prt(\text  {free},\text  {up})$. Native sample from MICUSP.\relax }}{12}}
+\newlabel{ex:prt-en1}{{3.7}{12}}
+\citation{liao:2004}
+\citation{gonzalez:2010}
+\citation{gonzalez:2010}
 \citation{*}
 \bibstyle{acmsmall}
 \bibdata{bibliography}
-\bibcite{breiman:2001}{{1}{2001}{{Breiman}}{{Breiman}}}
-\newlabel{ex:complm1}{{2.2}{6}}
-\newlabel{ex:complm2}{{2.3}{6}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Marker}{6}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.5}Phrasal Verb Particle}{6}}
-\newlabel{ex:prt-en1}{{2.4}{6}}
-\bibcite{butt}{{2}{2004}{{Butt and Benjamin}}{{Butt and Benjamin}}}
-\bibcite{marneffe-et-al:2006}{{3}{2006}{{de~Marneffe et~al\unhbox \voidb@x \hbox {.}}}{{de~Marneffe, MacCartney, and Manning}}}
-\bibcite{typed-deps-manual}{{4}{2008}{{de~Marneffe and Manning}}{{de~Marneffe and Manning}}}
-\bibcite{hall-et-al:2009}{{5}{2009}{{Hall et~al\unhbox \voidb@x \hbox {.}}}{{Hall, Frank, Holmes, Pfahringer, Reutemann, and Witten}}}
-\bibcite{klein-manning-pcfg:2003}{{6}{2003}{{Klein and Manning}}{{Klein and Manning}}}
-\bibcite{moore:1994}{{7}{1994}{{Moore}}{{Moore}}}
-\bibcite{quinlan:1993}{{8}{1993}{{Quinlan}}{{Quinlan}}}
-\bibcite{whitley:1986}{{9}{1986}{{Whitley}}{{Whitley}}}
-\bibcite{weka-book}{{10}{2005}{{Witten and Frank}}{{Witten and Frank}}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.6}Purpose Clause Modifier}{7}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.7}Relative Clause Modifier}{7}}
+\bibcite{gonzalez:2010}{{1}{2010}{{Alejo~Gonz\IeC {\'a}lez}}{{Alejo~Gonz\IeC {\'a}lez}}}
+\bibcite{breiman:2001}{{2}{2001}{{Breiman}}{{Breiman}}}
+\bibcite{butt}{{3}{2004}{{Butt and Benjamin}}{{Butt and Benjamin}}}
+\bibcite{celce-murcia:1999}{{4}{1999}{{Celce-Murcia and Larsen-Freeman}}{{Celce-Murcia and Larsen-Freeman}}}
+\bibcite{dagut:1985}{{5}{1985}{{Dagut and Laufer}}{{Dagut and Laufer}}}
+\bibcite{marneffe-et-al:2006}{{6}{2006}{{de~Marneffe et~al\unhbox \voidb@x \hbox {.}}}{{de~Marneffe, MacCartney, and Manning}}}
+\bibcite{typed-deps-manual}{{7}{2008}{{de~Marneffe and Manning}}{{de~Marneffe and Manning}}}
+\bibcite{hall-et-al:2009}{{8}{2009}{{Hall et~al\unhbox \voidb@x \hbox {.}}}{{Hall, Frank, Holmes, Pfahringer, Reutemann, and Witten}}}
+\bibcite{hulstijn:1989}{{9}{1989}{{Hulstijn and Marchena}}{{Hulstijn and Marchena}}}
+\bibcite{klein-manning-pcfg:2003}{{10}{2003}{{Klein and Manning}}{{Klein and Manning}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.13}Quantifier Phrase Modifiers}{14}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.14}Relative}{14}}
+\bibcite{laufer:1993}{{11}{1993}{{Laufer and Eliasson}}{{Laufer and Eliasson}}}
+\bibcite{liao:2004}{{12}{2004}{{Liao and Fukuya}}{{Liao and Fukuya}}}
+\bibcite{moore:1994}{{13}{1994}{{Moore}}{{Moore}}}
+\bibcite{quinlan:1993}{{14}{1993}{{Quinlan}}{{Quinlan}}}
+\bibcite{whitley:1986}{{15}{1986}{{Whitley}}{{Whitley}}}
+\bibcite{weka-book}{{16}{2005}{{Witten and Frank}}{{Witten and Frank}}}

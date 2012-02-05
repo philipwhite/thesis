@@ -1,12 +1,14 @@
 \documentclass[12pt]{article}
+
 \usepackage[square]{natbib}
 \setcitestyle{aysep={}}
+
 \usepackage{url}
-\usepackage{booktabs}
 \usepackage[small,bf]{caption}
+\usepackage{booktabs}
 \usepackage{subfiles}
-\usepackage[noend]{algorithmic}
-\usepackage{algorithm}
+%\usepackage[noend]{algorithmic}
+%\usepackage{algorithm}
 \usepackage{mathtools}
 \usepackage{times}
 \usepackage[utf8]{inputenc}
@@ -14,7 +16,14 @@
 \usepackage[margin=1.0in,left=1.5in]{geometry}
 \usepackage{xytree}
 \usepackage{lingmacros}
-\usepackage{xypic}
+%\usepackage{xypic}
+%\usepackage{graphicx}
+
+
+%\usepackage{float}
+%\floatstyle{plaintop}
+%\newfloat{example}{htbp}{lop}[subsection]
+%\floatname{example}{Example}
 
 
 \title{Thesis}
@@ -23,12 +32,11 @@
 
 \numberwithin{figure}{section}
 \numberwithin{table}{section}
-\numberwithin{algorithm}{section}
+%\numberwithin{algorithm}{section}
 \numberwithin{enums}{section}
 
 %So citations work well with subfiles
 \def\biblio{\bibliographystyle{acmsmall}\bibliography{bibliography}}
-
 
 
 \begin{document}
@@ -37,7 +45,7 @@
 
 \maketitle
 
-
+\subfile{section-corpora}
 \subfile{section-method-expln}
 \subfile{section-dep-reln}
 

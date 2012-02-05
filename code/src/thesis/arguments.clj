@@ -15,8 +15,8 @@
 (def *all-argument-attributes*
   ["s" "S"
    "ao"  "aO" "Ao" "AO"
-   "aio" "aiO" "aIo" "aIO" "Aio" "AIo" "AIO"
-   "aoc" "aoC" "aOc" "aOC" "Aoc" "AOc" "AOC"
+   "aio" "aiO" "aIo" "aIO" "Aio" "AIo" "AIO" "AiO"
+   "aoc" "aoC" "aOc" "aOC" "Aoc" "AOc" "AOC" "AoC"
    "p" "P"
    "pc" "pC" "Pc" "PC"
    "sc" "sC" "Sc" "SC"])
@@ -24,8 +24,8 @@
 (def *all-argument-attributes-by-structure*
   [["s" "S"]
    ["ao"  "aO" "Ao" "AO"]
-   ["aio" "aiO" "aIo" "aIO" "Aio" "AIo" "AIO"]
-   ["aoc" "aoC" "aOc" "aOC" "Aoc" "AOc" "AOC"]
+   ["aio" "aiO" "aIo" "aIO" "Aio" "AIo" "AIO" "AiO"]
+   ["aoc" "aoC" "aOc" "aOC" "Aoc" "AOc" "AOC" "AoC"]
    ["p" "P"]
    ["pc" "pC" "Pc" "PC"]
    ["sc" "sC" "Sc" "SC"]])

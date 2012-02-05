@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  31 JAN 2012 18:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  4 FEB 2012 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\input section-dep-reln.tex
-(./section-dep-reln.tex
+**\input section-args.tex
+(./section-args.tex
 (/Users/philip/Library/texmf/tex/latex/subfiles/subfiles.cls
 Document Class: subfiles 2002/06/08 Federico Garcia
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/verbatim.sty
@@ -551,8 +551,8 @@ loaded))
 \c@enumsi=\count124
 \eeindent=\dimen184
 )))
-(./section-dep-reln.aux)
-\openout1 = `section-dep-reln.aux'.
+(./section-args.aux)
+\openout1 = `section-args.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -695,60 +695,118 @@ e
 Package xypdf Info: Line width: 0.47998pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-[1
-
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+! Misplaced \noalign.
+<recently read> \noalign 
+                         
+l.21 \bottomrule
+                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
-<c45-dep-graph.pdf, id=12, 783.92876pt x 676.5275pt>
-File: c45-dep-graph.pdf Graphic file (type pdf)
- <use c45-dep-graph.pdf>
-Package pdftex.def Info: c45-dep-graph.pdf used on input line 17.
-(pdftex.def)             Requested size: 433.62pt x 374.21779pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+! Missing } inserted.
+<inserted text> 
+                }
+l.22 \end
+         {tabular}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-<xymatrix 4x1 124> <xymatrix 3x1 120> [2] [3 <./c45-dep-graph.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
-[]\OT1/ptm/b/n/10.95 Figure 1.3: |\OT1/ptm/m/n/10.95 The de-pen-den-cies $\OML/
-cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n
-/10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]
-\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$
- []
+! Missing } inserted.
+<inserted text> 
+                }
+l.22 \end
+         {tabular}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-<xymatrix 12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258> [4] [5] <xymatrix
-11x1 152> <xymatrix 12x1 262> [6] <xymatrix 9x1 144> <xymatrix 6x1 132>
-<xymatrix 9x1 144> [7]
-Overfull \hbox (44.153pt too wide) in paragraph at lines 295--296
-[]\OT1/ptm/m/n/12 Regardless of the rea-sons be-hind L1-Spanish learn-ers avoid
--ance of phrasal verbs, Alejo Gonz[]alez
- []
+! Missing } inserted.
+<inserted text> 
+                }
+l.22 \end
+         {tabular}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-(./section-dep-reln.bbl [8]) [9] (./section-dep-reln.aux) ) 
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.22 \end
+         {tabular}
+I'm guessing that you meant to end an alignment here.
+
+! Missing { inserted.
+<inserted text> 
+                {
+l.22 \end
+         {tabular}
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Misplaced \crcr.
+\endtabular ->\crcr 
+                    \egroup \egroup $\egroup 
+l.22 \end{tabular}
+                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten $.
+\endtabular ->\crcr \egroup 
+                            \egroup $\egroup 
+l.22 \end{tabular}
+                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\endtabular ->\crcr \egroup \egroup 
+                                    $\egroup 
+l.22 \end{tabular}
+                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+No file section-args.bbl.
+[1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+(./section-args.aux) ) 
 Here is how much of TeX's memory you used:
- 7606 strings out of 493633
- 104949 string characters out of 3143378
- 225645 words of memory out of 3000000
- 10732 multiletter control sequences out of 15000+200000
- 24783 words of font info for 59 fonts, out of 3000000 for 9000
+ 7514 strings out of 493633
+ 103741 string characters out of 3143378
+ 215103 words of memory out of 3000000
+ 10649 multiletter control sequences out of 15000+200000
+ 16544 words of font info for 48 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,20n,40p,3298b,589s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/
-2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/t
-ype1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/t
-imes/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri
-8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyatip10.pf
-b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on section-dep-reln.pdf (9 pages, 137963 bytes).
+ 51i,7n,40p,3294b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/
+8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on section-args.pdf (1 page, 23161 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 17 PDF objects out of 1000 (max. 8388607)
+ 11 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

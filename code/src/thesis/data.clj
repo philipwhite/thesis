@@ -6,8 +6,11 @@
    [clojure.string :as string]
    [clojure.java.io :as io])
   (:import
+   
    [java.io BufferedReader FileReader File FilenameFilter]
    [edu.stanford.nlp.process DocumentPreprocessor]))
+
+
 
 (defn- load-csv-lines [path]
   "returns a sequence of sequences representing the lines and cells of a csv file"
@@ -38,6 +41,8 @@
 (def *ice-hk-raw-directory* "../data/ice-hk/CORPUS/")
 (def *brown-b-directory* "../data/brown/processed/")
 (def *brown-b-raw-directory* "../data/brown/raw/")
+(def *icle-directory* "../data/icle/sp/")
+(def *oanc-directory* "../data/oanc/selected/")
 
 (def keyword-to-directory
   {:micusp *micusp-directory*
@@ -46,7 +51,9 @@
    :sulec *sulec-directory*
    :ice-can *ice-can-directory*
    :ice-hk *ice-hk-directory*
-   :brown-b *brown-b-directory*})
+   :brown-b *brown-b-directory*
+   :icle *icle-directory*
+   :oanc *oanc-directory*})
 
 (defn download-micusp []
   "Downloads the files listed in the 'PAPER ID' column of the *micusp-keyfile* into *micusp-directory*"
@@ -120,7 +127,7 @@
                (str count))))))
 
 (defn dump-parses-and-deps [corpus & sample-lists]
-   "dumps serialized java objects containing the parse trees and dependency graphs of the lists of file names. Function intended to receive one or more lists of file names. resulting files have the same names with suffixes .parse and .deps. First argument should be either :wricle or :micusp"
+   "dumps serialized java objects containing the parse trees and dependency graphs of the lists of file names. Function intended to receive one or more lists of file names. resulting files have the same names with suffixes .parse and .deps."
    (let [dir (if (contains? keyword-to-directory corpus)
                (keyword-to-directory corpus)
                (throw
@@ -363,8 +370,21 @@
    "W2F-012"
    "W2F-013"
    "W2F-015"
-   "W2F-018"
+   "W2F-018" 
    "W2F-019"])
+
+(defn text-file-names [path]
+  (let [f (file-seq (File. path))
+        t (map #(re-matches #".*\.txt" %) (map #(.getName %) f))
+        t (remove nil? t)]
+    (map #(string/replace % #".txt" "") t)))
+
+(def *oanc-en*
+  (drop 36 (text-file-names *oanc-directory*)))
+
+(def *icle-es*
+  (text-file-names *icle-directory*))
+
 
 (def *brown-b-en*
   (into (map (partial str "cb" "0") (range 1 10)) (map (partial str "cb") (range 10 28))))
@@ -396,8 +416,13 @@
     :L1 :en}
    {:corpus :brown-b
    :filenames *brown-b-en*
-   :L1 :en}]
-  )
+    :L1 :en}
+   {:corpus :icle
+    :filenames *icle-es*
+    :L1 :es}
+   {:corpus :oanc
+    :filenames *oanc-en*
+    :L1 :en}])
 
 (def *es-corpora*
   (filter #(= (:L1 %) :es) *all-corpora*))
@@ -405,7 +430,23 @@
 (def *en-corpora*
   (filter #(= (:L1 %) :en) *all-corpora*))
 
-(defn cleanup-ice-can []
+(defn- shorten-white-space [path]
+  "Takes the file at path, converts all spans of whitespace to a single space, and writes
+the new file to the same location. Also saves a backup of the original as <path>.backup"
+  (let [orig-text (slurp path)]
+    (spit path (string/replace orig-text #"\s+" " "))
+    (spit (str (apply str (drop-last 4 path)) ".backup.txt")
+          orig-text)))
+
+(defn- remove-extra-whitespace [corpus L1]
+  (if-let [fnames (:filenames (some #(if (and (= (:corpus %) corpus) (= (:L1 %) L1)) %)
+                                    *all-corpora*))]
+    (doseq [fname fnames]
+      (shorten-white-space (str (corpus keyword-to-directory)  fname ".txt")))
+    (throw
+     (Exception. (str "No such corpus " corpus " " L1)))))
+
+(defn- cleanup-ice-can []
   "remove tags <...> from the texts"
   (let [files (concat *ice-can-es* *ice-can-en*)]
     (doseq [f files]
@@ -475,11 +516,22 @@
     (apply + (map #(count (.taggedYield %)) parse))))
 
 (defn count-parsed-tokens-in-corpora []
-  (doseq [corp *all-corpora*]
-    (print (corp :corpus) " " (corp :L1)
-           (apply + (map (partial count-parsed-tokens-in-file (corp :corpus))
-                         (corp :filenames)))
-           "\n\n")))
+  (reduce
+   (fn [s a]
+     (if (= (first a) :es)
+       {:es (+ (:es s) (second a)) :en (:en s)}
+       {:en (+ (:en s) (second a)) :es (:es s)}))
+   {:es 0 :en 0}
+   (for [corp *all-corpora*]
+     (do
+       (print (corp :corpus) " " (corp :L1) " ")
+       (let [c [(corp :L1)
+                (apply + (map (partial count-parsed-tokens-in-file (corp :corpus))
+                              (corp :filenames)))]]
+         (println (last c))
+         c)))))
+
+
 
 (defn count-tag-in-file [tag corpus file]
   (let [parse (load-parse corpus file)]

@@ -22,7 +22,7 @@ I used the Weka machine learning package, version 3.6 \citep{hall-et-al:2009}, t
  
 \subsubsection{C4.5}
 
-This section describes the C4.5 partition as it applies to this project. That is to say, C4.5 can deal with a number of circumstances that do not arise here. What is described here is a version of the C4.5 algorithm that is restricted to continuous attribute value and to exactly two class values, and which does not permit missing attribute values. That having been said, the C4.5 algorithm consists of two phases, \textit{tree construction} and \textit{tree pruning}.
+This section describes the C4.5 partition as it applies to this project. That is to say, C4.5 can deal with a number of circumstances that do not arise here. What is described here is a version of the C4.5 algorithm that is restricted to continuous attribute values and to exactly two class values, and which does not permit missing attribute values. That having been said, the C4.5 algorithm consists of two phases, \textit{tree construction} and \textit{tree pruning}.
 
 In the tree construction phase a decision tree is built which successively performs binary partitioning of a set of training cases. Consider a full binary tree where each edge represents a set of cases and each non-terminal node a partitioning operation, as shown in Figure~\ref{fig:c45-dtree}. These partitioning operations take one set, represented by the parent edge, and divide it into two subsets, the daughter edges. The root node operates on an initial set $S_0$, and a leaf node simply indicates that its parent edge is a set consisting of cases of a single class. Let the first partitions of $S_0$ be called $S_1$ and $S_2$ where $S_1\cup S_2 = S_0$ and $S_1\cap S_2 = \emptyset$ , and of $S_1$ let them be called $S_{1,1}$ and $S_{2,1}$ and so forth. Likewise, let the partitioning operation that operates on a particular set be designated by $T$ with the same subscripts as that set.
 \begin{figure}
@@ -56,7 +56,7 @@ In the tree construction phase a decision tree is built which successively perfo
 \label{fig:c45-dtree}
 \end{figure}
 
-The partitioning operations are performed by applying a binary test to each case within $S$, the set to be partitioned, and dividing the set based on the results. Each test considers a single attribute $A$ and compares the value of that attribute $V_A$ to a threshold value $V_C$. All cases where the $V_A\leq V_C$ will be put into one subset and all other cases into the other.
+The partitioning operations are performed by applying a binary test to each case within $S$, the set to be partitioned, and dividing the set based on the results. Each test considers a single attribute $A$ and compares the value of that attribute, $V_A$, to a threshold value, $V_C$. All cases where the $V_A\leq V_C$ will be put into one subset and all other cases into the other.
 
 The decision of the attribute and threshold value for a particular test is determined using what Quinlan calls the ``gain ratio criterion'' which is calculated as follows. If the probability of randomly drawing a case of class $C_1$ from a set $S$ is $p_1$ and of drawing a case of the other class is $p_2$ where $p_2 = 1-p_1$, then the average amount of information needed to identify the class of a case in $S$ can be defined in terms of entropy as
 \[
@@ -70,17 +70,17 @@ The decrease in entropy, expressed as a positive value (an information gain), du
 \[
 \mathrm{gain}(T)=\mathrm{info}(S)-\mathrm{info}_T(S).
 \]
-Maximizing this gain can and, in ID3 the predecessor to C4.5, was used as measurement of test fitness. However, in the more general case of C4.5, where one test can partition a set into more than 2 subsets, using this gain criterion to choose tests favors tests that partition sets into numerous subsets. To mitigate this, Quinlan added another factor to the criterion, the split info which for this special case is given by
+Maximizing this gain can be and, in ID3 the predecessor to C4.5, was used as measurement of test fitness. However, in the more general case of C4.5, where one test can partition a set into more than 2 subsets, using this gain criterion to choose tests favors tests that partition sets into numerous subsets. To mitigate this, Quinlan added another factor to the criterion, the split info which for this special case is given by
 \[
 \mathrm{split\ info}(T)= -\frac{|S_1|}{|S|} \cdot \log_2 \left( \frac{|S_1|}{|S|} \right) - \frac{|S_2|}{|S|} \cdot \log_2  \left( \frac{|S_2|}{|S|}  \right).
 \]
 Then the fitness of a test $T$ can be measured using
 \[
-\mathrm{gain\ ratio}(T) = \mathrm{gain}(T)/\mathrm{split\ info}(T)
+\mathrm{gain\ ratio}(T) = \frac{\mathrm{gain}(T)}{\mathrm{split\ info}(T)}
 \]
 It should be noted that in this special case where partitioning operations are always binary, the gain ratio criterion favors tests that split $S$ into disparately sized sets, as split info is at its maximum (unity) when $|S_1|=|S_2|$.
 
-In choosing a test $T$, the C4.5 algorithm tries each attribute $A$ from the set of cases to be partitioned $S$. For each, it orders the cases in $S$ on the value of $A$. If the values of $A$ corresponding to this ordered set are $\{v_1,v_2,\ldots,v_m\}$, then any threshold between $v_i$ and $v_{i+1}$ will result in the same partitions. From this it can be seen that the total number of possible partitions is $m-1$. The algorithm tries all such partitioning schemes, measuring the gain ratio of each. When an optimal attribute and corresponding partitioning scheme has been chosen, the algorithm than chooses a threshold value that will produce this result. Again, to partition $S$ into two sets where the values for $A$ are $\{v_1,v_2,\ldots,v_i\}$ and $\{v_{i+1},v_{i+2},\ldots,v_m\}$, a threshold value $v_C$ must be chosen such that $v_i \leq v_C < v_{i+1}$. For this, it chooses the largest value for $A$ from the entire training set $S_O$ that does not exceed the midpoint of this range. 
+In choosing a test $T$, the C4.5 algorithm tries each attribute $A$ from the set $S$ of cases to be partitioned. For each, it orders the cases in $S$ on the value of $A$. If the values of $A$ corresponding to this ordered set are $\{v_1,v_2,\ldots,v_m\}$, then any threshold between $v_i$ and $v_{i+1}$ will result in the same partitions. From this it can be seen that the total number of possible partitions is $m-1$. The algorithm tries all such partitioning schemes, measuring the gain ratio of each. When an optimal attribute and corresponding partitioning scheme has been chosen, the algorithm than chooses a threshold value that will produce this result. Again, to partition $S$ into two sets where the values for $A$ are $\{v_1,v_2,\ldots,v_i\}$ and $\{v_{i+1},v_{i+2},\ldots,v_m\}$, a threshold value $v_C$ must be chosen such that $v_i \leq v_C < v_{i+1}$. For this, it chooses the largest value for $A$ from the entire training set $S_O$ that does not exceed the midpoint of this range. 
 
 
 \biblio

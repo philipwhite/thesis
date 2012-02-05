@@ -1,16 +1,15 @@
-
-
 (ns thesis.train-deps
    (:import
     edu.stanford.nlp.trees.EnglishGrammaticalStructure
     [weka.core Instances Attribute]
     [weka.classifiers.trees RandomForest J48]
     java.util.Vector
+    java.io.File
     [weka.attributeSelection InfoGainAttributeEval ClassifierSubsetEval GeneticSearch RaceSearch Ranker ChiSquaredAttributeEval]
     [weka.core SelectedTag])
    
    (:require
-    [thesis.parse :as parse] ()
+    [thesis.parse :as parse]
     [thesis.data :as data]
     [clj-ml.data :as mld]
     [clj-ml.classifiers :as mlc]
@@ -18,11 +17,11 @@
     [incanter.core :as incanter]))
 
 (def *all-reln*
-  (vec (.keySet (EnglishGrammaticalStructure/shortNameToGRel))))
+  (vec (remove #(= % "abbrev") (.keySet (EnglishGrammaticalStructure/shortNameToGRel)))))
 
 (defn- relations [deps]
   "takes a seq of seqs of dependencies and returns a seq of seqs of just the relationship names"
-  (map (fn [x] (map #(.getShortName (.reln %)) x)) deps))
+  (map (fn [x] (remove #(= % "abbrev") (map #(.getShortName (.reln %)) x))) deps))
 
 (defn- count-equals [sqnc itm]
   "returns the number of items in sqnc equal to itm"
@@ -258,3 +257,14 @@ the items that have occurred at least the min number of times"
                  "\n\n")
     (throw (.Exception "No such corpus"))))
 
+(defn- dump-dataset [ds]
+  (with-open [outp (-> (File. "../data/train-deps.dataset")
+                       java.io.FileOutputStream.
+                       java.io.ObjectOutputStream.)]
+    (.writeObject outp ds)))
+
+(defn- load-dataset []
+  (with-open [inp (-> (File. "../data/train-deps.dataset")
+                        java.io.FileInputStream.
+                        java.io.ObjectInputStream.)]
+      (.readObject inp)))

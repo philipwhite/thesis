@@ -5,13 +5,17 @@
   (:require
    [thesis.data :as data]
    [thesis.arguments :as arg]
+   [thesis.tools :as tools]
    [clj-ml.data :as mld]
    [clj-ml.classifiers :as mlc]
    [incanter.stats :as stats]
    [incanter.core :as incanter]
    [clojure.string :as string])
   (:import
-   weka.classifiers.trees.RandomForest))
+   [weka.classifiers.trees RandomForest J48]
+   [weka.classifiers.bayes NaiveBayesMultinomial]
+   [weka.classifiers.functions MultilayerPerceptron]
+   java.io.File))
 
 (defn load-all-corpora-deps [L1]
   "return a seq of seqs of seqs of deps of a given L1. (instances->sentences)"
@@ -125,10 +129,11 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
     ds))
 
 (defn train-and-test [dataset]
-  (let [cl (RandomForest.)]
-    (.setNumTrees cl 100)
-    (mlc/classifier-train cl dataset)
-    (mlc/classifier-evaluate cl :cross-validation dataset 10)))
+  (let [cl (J48.)]
+    ;(.setNumTrees cl 100)
+    (println (mlc/classifier-train cl dataset))
+    (println (mlc/classifier-evaluate cl :cross-validation dataset 20))
+    cl))
 
 (defn run-arguments-t-test []
   (let [es-freqs (doall
@@ -182,3 +187,125 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
         es-freqs (frequencies es-args)
         en-freqs (frequencies en-args)]
     {:en en-freqs :es es-freqs}))
+
+(defn- dump-dataset [ds path]
+  (with-open [outp (-> (File. path)
+                       java.io.FileOutputStream.
+                       java.io.ObjectOutputStream.)]
+    (.writeObject outp ds)))
+
+(defn- load-dataset [path]
+  (with-open [inp (-> (File. path)
+                        java.io.FileInputStream.
+                        java.io.ObjectInputStream.)]
+    (.readObject inp)))
+
+(defn- dump-arg-dataset [ds]
+  (dump-dataset ds "../data/train-args.dataset"))
+
+(defn- dump-arg-struct-dataset [ds]
+  (dump-dataset ds "../data/train-arg-structs.dataset"))
+
+(defn- load-arg-dataset []
+  (load-dataset "../data/train-args.dataset"))
+
+(defn- load-arg-struct-dataset []
+  (load-dataset "../data/train-arg-structs.dataset"))
+
+(defn- arg->num-lex [as-ds a-ds]
+  "Converts an arg dataset and an arg-struct dataset into one with just four attributes, corresponding to the number of lexical arguments in the verbal clause. The associated values are the percentage of finite verbal clauses with that number."
+  (let [num-ds (mld/make-dataset "Lexical Argument Count"
+                             [:zero :one :two :three
+                              {:L1 [:es :en]}] (.numInstances as-ds))]
+    (mld/dataset-set-class num-ds :L1)
+    (doseq [[inst-as inst-a]
+            (partition-all 2 (interleave (mld/dataset-as-maps as-ds) (mld/dataset-as-maps a-ds)))]
+      (let [new-inst (mld/make-instance
+                      num-ds
+                      (concat (calc-num-attrs inst-a inst-as) [(:L1 inst-a)]))]
+        (.add num-ds new-inst)))
+    num-ds))
+
+(defn- arg->lex-role [as-ds a-ds]
+  "Converts an arg dataset and an arg-struct dataset into one with an attribute for each argument role: :intr-subj, tran-subj, i-obj, d-obj, pass-subj, compl, cop-subj."
+  (let [num-ds (mld/make-dataset "Lexical Argument Count"
+                                 [:intr-subj :trans-subj :i-obj
+                                  :d-obj :pass-subj :compl :cop-sub
+                              {:L1 [:es :en]}] (.numInstances as-ds))]
+    (mld/dataset-set-class num-ds :L1)
+    (doseq [[inst-as inst-a]
+            (partition-all 2 (interleave (mld/dataset-as-maps as-ds) (mld/dataset-as-maps a-ds)))]
+      (let [new-inst (mld/make-instance
+                      num-ds
+                      (concat (calc-lex-attrs inst-a inst-as) [(:L1 inst-a)]))]
+        (.add num-ds new-inst)))
+    num-ds))
+
+(defn- arg->lex-and-num [as-ds a-ds]
+  (let [num-ds (mld/make-dataset "Lexical Argument Count"
+                                 [:zero :one :two :three
+                                  :intr-subj :trans-subj :i-obj
+                                  :d-obj :pass-subj :compl :cop-sub
+                              {:L1 [:es :en]}] (.numInstances as-ds))]
+    (mld/dataset-set-class num-ds :L1)
+    (doseq [[inst-as inst-a]
+            (partition-all 2 (interleave (mld/dataset-as-maps as-ds) (mld/dataset-as-maps a-ds)))]
+      (let [new-inst (mld/make-instance
+                      num-ds
+                      (concat (calc-num-attrs inst-a inst-as)  (calc-lex-attrs inst-a inst-as) [(:L1 inst-a)]))]
+        (.add num-ds new-inst)))
+    num-ds))
+
+(defn- calc-num-attrs [inst-a inst-as]
+  [;; "zero"
+   (+ (* (:s inst-as) (:s inst-a))
+      (* (:ao inst-as) (:ao inst-a))
+      (* (:aoc inst-as) (:aoc inst-a))
+      (* (:aio inst-as) (:aio inst-a))
+      (* (:p inst-as) (:p inst-a))
+      (* (:pc inst-as) (:pc inst-a))
+      (* (:sc inst-as) (:sc inst-a)))
+   ;; "one"
+   (+ (* (:s inst-as) (:S inst-a))
+      (* (:ao inst-as) (apply + (map inst-a [:aO :Ao])))
+      (* (:aoc inst-as) (apply + (map inst-a [:aoC :aOc :Aoc])))
+      (* (:aio inst-as) (apply + (map inst-a [:aiO :aIo :Aio])))
+      (* (:p inst-as) (:P inst-a))
+      (* (:pc inst-as) (apply + (map inst-a [:pC :Pc])))
+      (* (:sc inst-as) (apply + (map inst-a [:sC :Sc]))))
+   ;; "two"
+   (+ (* (:ao inst-as) (:AO inst-a))
+      (* (:aoc inst-as) (apply + (map inst-a [:aOC :AoC :AOc])))
+      (* (:aio inst-as) (apply + (map inst-a [:aIO :AiO :AIo])))
+      (* (:pc inst-as) (:PC inst-a))
+      (* (:sc inst-as) (:SC inst-a)))
+   ;; "three"
+   (+ (* (:aoc inst-as) (:AOC inst-a))
+      (* (:aio inst-as) (:AIO inst-a)))])
+
+(defn calc-lex-attrs [inst-a inst-as]
+  (let [vals
+        [ ;;intr-subj, s, not sc
+         (* (:s inst-as) (:S inst-a))
+         ;;trans-subj, a
+         (+ (* (:ao inst-as) (apply + (map inst-a [:Ao :AO])))
+            (* (:aoc inst-as) (apply + (map inst-a [:Aoc :AOc :AOC :AoC])))
+            (* (:aio inst-as) (apply + (map inst-a [:Aio :AIo :AIO :AiO]))))
+         ;;i-obj, i
+         (* (:aio inst-as) (apply + (map inst-a [:aIo :AIo :AIO :aIO])))
+         ;;d-obj, o
+         (+ (* (:aoc inst-as) (apply + (map inst-a [:aOc :AOc :AOC :aOC])))
+            (* (:aio inst-as) (apply + (map inst-a [:aiO :AIO :aIO :AiO]))))
+         ;;pass-subj, p
+         (+ (* (:p inst-as) (:P inst-a))
+            (* (:pc inst-as) (apply + (map inst-a [:PC :Pc]))))
+         ;;compl
+         (+ (* (:pc inst-as) (apply + (map inst-a [:pC :PC])))
+            (* (:sc inst-as) (apply + (map inst-a [:sC :SC]))))
+         ;;cop-subj
+         (* (:sc inst-as) (:Sc inst-a))
+         ]]
+    ;;normalize them here
+    (let [sum (apply + vals)]
+       (map #(/ % sum) vals))
+    ))

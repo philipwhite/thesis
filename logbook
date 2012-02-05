@@ -1,3 +1,155 @@
+4 Feb '12
+Ran the argument structure test in train_args.clj. Training a C4.5 decision tree and testing with 20 fold x-over gives:
+
+#<J48 J48 pruned tree
+------------------
+
+ao <= 0.352657
+|   aoc <= 0.054054
+|   |   sc <= 0.16129
+|   |   |   aoc <= 0.009259: en (29.0/2.0)
+|   |   |   aoc > 0.009259
+|   |   |   |   sc <= 0.15
+|   |   |   |   |   pc <= 0.005
+|   |   |   |   |   |   s <= 0.380531: en (5.0)
+|   |   |   |   |   |   s > 0.380531
+|   |   |   |   |   |   |   s <= 0.504762: es (7.0/1.0)
+|   |   |   |   |   |   |   s > 0.504762: en (3.0/1.0)
+|   |   |   |   |   pc > 0.005: es (6.0)
+|   |   |   |   sc > 0.15: en (5.0)
+|   |   sc > 0.16129
+|   |   |   ao <= 0.275362
+|   |   |   |   aoc <= 0.010526
+|   |   |   |   |   sc <= 0.272727
+|   |   |   |   |   |   sc <= 0.25641
+|   |   |   |   |   |   |   p <= 0.042857: en (5.0/1.0)
+|   |   |   |   |   |   |   p > 0.042857: es (46.0/15.0)
+|   |   |   |   |   |   sc > 0.25641: en (9.0)
+|   |   |   |   |   sc > 0.272727
+|   |   |   |   |   |   s <= 0.285714
+|   |   |   |   |   |   |   sc <= 0.340426: en (5.0)
+|   |   |   |   |   |   |   sc > 0.340426: es (5.0/1.0)
+|   |   |   |   |   |   s > 0.285714: es (46.0/5.0)
+|   |   |   |   aoc > 0.010526
+|   |   |   |   |   p <= 0.171429: es (116.0/9.0)
+|   |   |   |   |   p > 0.171429
+|   |   |   |   |   |   ao <= 0.243243
+|   |   |   |   |   |   |   aoc <= 0.014493
+|   |   |   |   |   |   |   |   s <= 0.3125: en (2.0)
+|   |   |   |   |   |   |   |   s > 0.3125: es (4.0/1.0)
+|   |   |   |   |   |   |   aoc > 0.014493: es (10.0)
+|   |   |   |   |   |   ao > 0.243243: en (6.0/1.0)
+|   |   |   ao > 0.275362: es (149.0/67.0)
+|   aoc > 0.054054: en (36.0/5.0)
+ao > 0.352657: en (148.0/21.0)
+
+Number of Leaves  : 	20
+
+Size of the tree : 	39
+>=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 264  57 |   a = es
+ 128 193 |   b = en
+
+=== Summary ===
+
+Correctly Classified Instances         457               71.1838 %
+Incorrectly Classified Instances       185               28.8162 %
+Kappa statistic                          0.4237
+Mean absolute error                      0.3602
+Root mean squared error                  0.4585
+Relative absolute error                 72.0461 %
+Root relative squared error             91.6902 %
+Total Number of Instances              642     
+
+28 Jan '12
+Incorporated ICLE and OANC. Now have 321 instances each of es and en and 390,006 tokens of en and 384,885 tokens of es. Ran C4.5 giving tree:
+
+#<J48 J48 pruned tree
+------------------
+
+nn <= 0.038776
+|   poss <= 0.036585
+|   |   quantmod <= 0.004098
+|   |   |   prt <= 0.004178: es (236.0/6.0)
+|   |   |   prt > 0.004178
+|   |   |   |   auxpass <= 0.013208
+|   |   |   |   |   possessive <= 0.002128: es (29.0/3.0)
+|   |   |   |   |   possessive > 0.002128
+|   |   |   |   |   |   predet <= 0.001289: es (6.0/1.0)
+|   |   |   |   |   |   predet > 0.001289: en (6.0)
+|   |   |   |   auxpass > 0.013208: es (27.0)
+|   |   quantmod > 0.004098
+|   |   |   expl <= 0.002786: en (7.0/1.0)
+|   |   |   expl > 0.002786: es (9.0)
+|   poss > 0.036585
+|   |   complm <= 0.008368: en (13.0)
+|   |   complm > 0.008368: es (4.0/1.0)
+nn > 0.038776
+|   cop <= 0.027211
+|   |   poss <= 0.013575
+|   |   |   mwe <= 0.001429
+|   |   |   |   npadvmod <= 0.00074
+|   |   |   |   |   parataxis <= 0.001107: en (5.0)
+|   |   |   |   |   parataxis > 0.001107
+|   |   |   |   |   |   dep <= 0.040302: es (10.0/1.0)
+|   |   |   |   |   |   dep > 0.040302: en (2.0)
+|   |   |   |   npadvmod > 0.00074: en (8.0)
+|   |   |   mwe > 0.001429: en (33.0/1.0)
+|   |   poss > 0.013575: en (222.0)
+|   cop > 0.027211
+|   |   det <= 0.115263
+|   |   |   expl <= 0.002321: en (13.0)
+|   |   |   expl > 0.002321
+|   |   |   |   possessive <= 0.007974: es (5.0)
+|   |   |   |   possessive > 0.007974: en (2.0)
+|   |   det > 0.115263: es (5.0)
+
+Number of Leaves  : 	19
+
+Size of the tree : 	37
+
+*********
+
+20 fold cross validation gives:
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 291  30 |   a = es
+  36 285 |   b = en
+
+=== Summary ===
+
+Correctly Classified Instances         576               89.7196 %
+Incorrectly Classified Instances        66               10.2804 %
+Kappa statistic                          0.7944
+Mean absolute error                      0.1139
+Root mean squared error                  0.3116
+Relative absolute error                 22.7846 %
+Root relative squared error             62.3168 %
+Total Number of Instances              642 
+
+*********
+100 tree forest with 20 fold cv gives:
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 306  15 |   a = es
+  26 295 |   b = en
+
+=== Summary ===
+
+Correctly Classified Instances         601               93.6137 %
+Incorrectly Classified Instances        41                6.3863 %
+Kappa statistic                          0.8723
+Mean absolute error                      0.1686
+Root mean squared error                  0.2413
+Relative absolute error                 33.7132 %
+Root relative squared error             48.2598 %
+Total Number of Instances              642    
+
 3 Nov '11
 Reran t-test on dep relns. Results on 95% significant relns in log-addendum-006.txt. es in x, en in y.
 Results on 99% sign in log-addendum-007.txt

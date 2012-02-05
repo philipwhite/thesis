@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 DEC 2011 21:51
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 FEB 2012 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -41,26 +41,6 @@ LaTeX Info: Redefining \cite on input line 694.
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen103
-\lightrulewidth=\dimen104
-\cmidrulewidth=\dimen105
-\belowrulesep=\dimen106
-\belowbottomsep=\dimen107
-\aboverulesep=\dimen108
-\abovetopsep=\dimen109
-\cmidrulesep=\dimen110
-\cmidrulekern=\dimen111
-\defaultaddspace=\dimen112
-\@cmidla=\count88
-\@cmidlb=\count89
-\@aboverulesep=\dimen113
-\@belowrulesep=\dimen114
-\@thisruleclass=\count90
-\@lastruleclass=\count91
-\@thisrulewidth=\dimen115
-)
 (/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2010/01/09 v3.1m Customizing captions (AR)
 
@@ -71,68 +51,60 @@ Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-\captionmargin=\dimen116
-\captionmargin@=\dimen117
-\captionwidth=\dimen118
-\caption@indent=\dimen119
-\caption@parindent=\dimen120
-\caption@hangindent=\dimen121
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@indent=\dimen106
+\caption@parindent=\dimen107
+\caption@hangindent=\dimen108
 )
-\c@ContinuedFloat=\count92
+\c@ContinuedFloat=\count88
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen109
+\lightrulewidth=\dimen110
+\cmidrulewidth=\dimen111
+\belowrulesep=\dimen112
+\belowbottomsep=\dimen113
+\aboverulesep=\dimen114
+\abovetopsep=\dimen115
+\cmidrulesep=\dimen116
+\cmidrulekern=\dimen117
+\defaultaddspace=\dimen118
+\@cmidla=\count89
+\@cmidlb=\count90
+\@aboverulesep=\dimen119
+\@belowrulesep=\dimen120
+\@thisruleclass=\count91
+\@lastruleclass=\count92
+\@thisrulewidth=\dimen121
 )
 (/Users/philip/Library/texmf/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2002/06/08 Federico Garcia
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/algorithms/algorithmic.sty
-Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@ALC@unique=\count93
-\c@ALC@line=\count94
-\c@ALC@rem=\count95
-\c@ALC@depth=\count96
-\ALC@tlm=\skip45
-\algorithmicindent=\skip46
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/algorithms/algorithm.sty
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
-nment
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count97
-\float@exts=\toks17
-\float@box=\box26
-\@float@everytoks=\toks18
-\@floatcapt=\box27
-)
-\@float@every@algorithm=\toks19
-\c@algorithm=\count98
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/mh/mathtools.sty
 Package: mathtools 2011/02/12 v1.10 mathematical typesetting tools
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count99
-\calc@Bcount=\count100
+\calc@Acount=\count93
+\calc@Bcount=\count94
 \calc@Adimen=\dimen122
 \calc@Bdimen=\dimen123
-\calc@Askip=\skip47
-\calc@Bskip=\skip48
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count101
-\calc@Cskip=\skip49
+\calc@Ccount=\count95
+\calc@Cskip=\skip47
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/mh/mhsetup.sty
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip50
+\@mathmargin=\skip48
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -140,7 +112,7 @@ Package: amstext 2000/06/29 v2.01
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks20
+\@emptytoks=\toks17
 \ex@=\dimen124
 ))
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -150,47 +122,47 @@ Package: amsbsy 1999/11/29 v1.2d
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count102
+\inf@bad=\count96
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count103
-\leftroot@=\count104
+\uproot@=\count97
+\leftroot@=\count98
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count105
-\DOTSCASE@=\count106
+\classnum@=\count99
+\DOTSCASE@=\count100
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box28
-\strutbox@=\box29
+\Mathstrutbox@=\box26
+\strutbox@=\box27
 \big@size=\dimen126
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count107
-\c@MaxMatrixCols=\count108
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
 \dotsspace@=\muskip11
-\c@parentequation=\count109
-\dspbrk@lvl=\count110
-\tag@help=\toks21
-\row@=\count111
-\column@=\count112
-\maxfields@=\count113
-\andhelp@=\toks22
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks18
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks19
 \eqnshift@=\dimen127
 \alignsep@=\dimen128
 \tagshift@=\dimen129
 \tagwidth@=\dimen130
 \totwidth@=\dimen131
 \lineht@=\dimen132
-\@envbody=\toks23
-\multlinegap=\skip51
-\multlinetaggap=\skip52
-\mathdisplay@stack=\toks24
+\@envbody=\toks20
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-\g_MT_multlinerow_int=\count114
+\g_MT_multlinerow_int=\count108
 \l_MT_multwidth_dim=\dimen133
-\origjot=\skip53
+\origjot=\skip51
 \l_MT_shortvdotswithinadjustabove_dim=\dimen134
 \l_MT_shortvdotswithinadjustbelow_dim=\dimen135
 )
@@ -199,8 +171,8 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks25
-\inpenc@posthook=\toks26
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
@@ -432,9 +404,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count115
-\Gm@cntv=\count116
-\c@Gm@tempcnt=\count117
+\Gm@cnth=\count109
+\Gm@cntv=\count110
+\c@Gm@tempcnt=\count111
 \Gm@bindingoffset=\dimen136
 \Gm@wd@mp=\dimen137
 \Gm@odd@mp=\dimen138
@@ -443,7 +415,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen141
 \Gm@layouthoffset=\dimen142
 \Gm@layoutvoffset=\dimen143
-\Gm@dimlist=\toks27
+\Gm@dimlist=\toks24
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/xytree/xytree.sty
 Package: xytree 2006/8/15 Pacakge for drawing trees
@@ -466,14 +438,14 @@ Loading kernel: messages; fonts; allocations: state,
 \D@c=\dimen147
 \L@c=\dimen148
 \R@c=\dimen149
-\Edge@c=\toks28
+\Edge@c=\toks25
 \X@p=\dimen150
 \Y@p=\dimen151
 \U@p=\dimen152
 \D@p=\dimen153
 \L@p=\dimen154
 \R@p=\dimen155
-\Edge@p=\toks29
+\Edge@p=\toks26
 \X@origin=\dimen156
 \Y@origin=\dimen157
 \X@xbase=\dimen158
@@ -484,27 +456,27 @@ Loading kernel: messages; fonts; allocations: state,
 \Y@min=\dimen163
 \X@max=\dimen164
 \Y@max=\dimen165
-\lastobjectbox@=\box30
-\zerodotbox@=\box31
+\lastobjectbox@=\box28
+\zerodotbox@=\box29
 \almostz@=\dimen166
  direction,
 \d@X=\dimen167
 \d@Y=\dimen168
-\K@=\count118
-\KK@=\count119
-\Direction=\count120
+\K@=\count112
+\KK@=\count113
+\Direction=\count114
 \K@dXdY=\dimen169
 \K@dYdX=\dimen170
 \xyread@=\read2
 \xywrite@=\write3
-\csp@=\count121
+\csp@=\count115
 \quotPTK@=\dimen171
 
 utility macros; pictures: \xy, positions,
-\swaptoks@@=\toks30
-\connectobjectbox@@=\box32
+\swaptoks@@=\toks27
+\connectobjectbox@@=\box30
  objects,
-\styletoks@=\toks31
+\styletoks@=\toks28
  decorations;
 kernel objects: directionals, circles, text; options; algorithms: directions,
 edges, connections;  Xy-pic loaded)
@@ -514,9 +486,9 @@ Package: xy 2011/02/11 Xy-pic version 3.8.5
  Xy-pic option: All features v.3.7
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xycurve.tex
  Xy-pic option: Curve and Spline extension v.3.11 curve,
-\crv@cnt@=\count122
-\crvpts@=\toks32
-\splinebox@=\box33
+\crv@cnt@=\count116
+\crvpts@=\toks29
+\splinebox@=\box31
 \splineval@=\dimen172
 \splinedepth@=\dimen173
 \splinetol@=\dimen174
@@ -540,13 +512,13 @@ Package: xy 2011/02/11 Xy-pic version 3.8.5
  Xy-pic option: Colour extension v.3.10 loaded)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xymatrix.tex
  Xy-pic option: Matrix feature v.3.9
-\Row=\count123
-\Col=\count124
-\queue@=\toks33
-\queue@@=\toks34
-\qcount@=\count125
-\qcount@@=\count126
-\matrixsize@=\count127
+\Row=\count117
+\Col=\count118
+\queue@=\toks30
+\queue@@=\toks31
+\qcount@=\count119
+\qcount@@=\count120
+\matrixsize@=\count121
  loaded)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyarrow.tex
  Xy-pic option: Arrow and Path feature v.3.8 path, \ar, loaded)
@@ -569,30 +541,17 @@ loaded))
 \drs@wd=\dimen180
 \drs@ht=\dimen181
 \drsboxsep=\dimen182
-\drs@boxa=\box34
-\drs@boxb=\box35
+\drs@boxa=\box32
+\drs@boxb=\box33
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
-\c@enums=\count128
+\c@enums=\count122
 \widelabel=\dimen183
-\c@tempcnt=\count129
-\c@enumsi=\count130
+\c@tempcnt=\count123
+\c@enumsi=\count124
 \eeindent=\dimen184
-)
-(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xypic.sty
-(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xy.sty
-(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xy.tex not reloaded)
-
-LaTeX Warning: You have requested package `xypic',
-               but the package provides `xy'.
-
-Package: xy 2011/02/11 Xy-pic version 3.8.5
-) (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyv2.tex
- Xy-pic option: Version 2 Compatibility v.3.7
-
-Xy-pic Warning: `\stop' redefined.
-
-loaded)))) (./section-method-expln.aux)
+)))
+(./section-method-expln.aux)
 \openout1 = `section-method-expln.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -613,7 +572,6 @@ LaTeX Font Info:    Try loading font information for OT1+ptm on input line 2.
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -639,21 +597,21 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count131
+\Gread@gobject=\count125
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count132
+\scratchcounter=\count126
 \scratchdimen=\dimen185
-\scratchbox=\box36
-\nofMPsegments=\count133
-\nofMParguments=\count134
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count135
+\scratchbox=\box34
+\nofMPsegments=\count127
+\nofMParguments=\count128
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count129
 \MPscratchDim=\dimen186
-\MPnumerator=\count136
-\makeMPintoPDFobject=\count137
-\everyMPtoPDFconversion=\toks36
+\MPnumerator=\count130
+\makeMPintoPDFobject=\count131
+\everyMPtoPDFconversion=\toks33
 ))) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 
@@ -749,13 +707,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 
 [2] [3] [4] (./section-method-expln.bbl) [5] (./section-method-expln.aux) ) 
 Here is how much of TeX's memory you used:
- 8072 strings out of 493633
- 109808 string characters out of 3143378
- 232277 words of memory out of 3000000
- 11175 multiletter control sequences out of 15000+200000
+ 7564 strings out of 493633
+ 104409 string characters out of 3143378
+ 223311 words of memory out of 3000000
+ 10691 multiletter control sequences out of 15000+200000
  24445 words of font info for 59 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,11n,40p,3302b,528s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,11n,40p,3302b,524s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/us
 r/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/
@@ -774,7 +732,7 @@ rw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyatip1
 0.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb
 >
-Output written on section-method-expln.pdf (5 pages, 149044 bytes).
+Output written on section-method-expln.pdf (5 pages, 149075 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
