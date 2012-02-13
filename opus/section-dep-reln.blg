@@ -3,51 +3,52 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: section-dep-reln.aux
 The style file: acmsmall.bst
 Database file #1: bibliography.bib
-Warning--I didn't find a database entry for "lia:2004"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty address in gonzalez:2010
 Warning--page numbers missing in gonzalez:2010
+Warning--empty address in biber:1998
+Warning--empty address in butt
 Warning--empty address in celce-murcia:1999
 Warning--empty address in whitley:1986
-You've used 8 entries,
+You've used 10 entries,
             3177 wiz_defined-function locations,
-            776 strings with 6778 characters,
-and the built_in function-call counts, 5136 in all, are:
-= -- 466
-> -- 297
-< -- 1
-+ -- 89
-- -- 143
-* -- 466
-:= -- 899
-add.period$ -- 32
-call.type$ -- 8
-change.case$ -- 52
-chr.to.int$ -- 8
-cite$ -- 12
-duplicate$ -- 145
-empty$ -- 338
-format.name$ -- 185
-if$ -- 944
+            788 strings with 7072 characters,
+and the built_in function-call counts, 6645 in all, are:
+= -- 607
+> -- 381
+< -- 2
++ -- 118
+- -- 184
+* -- 599
+:= -- 1152
+add.period$ -- 41
+call.type$ -- 10
+change.case$ -- 65
+chr.to.int$ -- 10
+cite$ -- 16
+duplicate$ -- 193
+empty$ -- 438
+format.name$ -- 240
+if$ -- 1237
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 9
-newline$ -- 42
-num.names$ -- 82
-pop$ -- 44
+missing$ -- 12
+newline$ -- 52
+num.names$ -- 104
+pop$ -- 60
 preamble$ -- 1
-purify$ -- 102
+purify$ -- 128
 quote$ -- 0
-skip$ -- 151
+skip$ -- 203
 stack$ -- 0
-substring$ -- 238
-swap$ -- 44
-text.length$ -- 1
+substring$ -- 308
+swap$ -- 62
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 140
-warning$ -- 4
-while$ -- 86
+type$ -- 170
+warning$ -- 6
+while$ -- 109
 width$ -- 0
-write$ -- 106
-(There were 5 warnings)
+write$ -- 134
+(There were 6 warnings)

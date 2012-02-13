@@ -1,0 +1,15 @@
+digraph J48Tree {
+N0 [label="zero" ]
+N0->N1 [label=" ≤ 8.0000"]
+N1 [label="en (86/16)" shape=box style=filled ]
+N0->N2 [label=" > 8.0000"]
+N2 [label="two" ]
+N2->N3 [label=" ≤ 21.8750"]
+N3 [label="en (130/49)" shape=box style=filled ]
+N2->N4 [label=" > 21.8750"]
+N4 [label="two" ]
+N4->N5 [label=" ≤ 36.1702"]
+N5 [label="es (334/116)" shape=box style=filled ]
+N4->N6 [label=" > 36.1702"]
+N6 [label="en (92/38)" shape=box style=filled ]
+}

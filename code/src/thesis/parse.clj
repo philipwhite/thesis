@@ -84,8 +84,11 @@
   (display-tree (.apply *parser* text)))
 
 (defn display-deps [text]
-  (Main/writeImage (.apply *parser* text) "latest-dep-image.png")
-  (shell/sh "open" "latest-dep-image.png"))
+  (try
+    (do
+      (Main/writeImage (.apply *parser* text) "latest-dep-image.png")
+      (shell/sh "open" "latest-dep-image.png"))
+    (catch Exception e nil)))
 
 (defn write-deps-image [text title]
   (Main/writeImage (.apply *parser* text) title))

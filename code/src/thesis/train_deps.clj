@@ -171,12 +171,12 @@ evaluates it using cross validation, then removes the attribute from dataset tha
                  {reln results}))))))
 
 (defn train-and-test [dataset]
-  (let [cl (J48.)]
-    (.setBinarySplits cl true)
-    ;;(.setMinNumObj cl 100)
-    (.setSeed cl (System/currentTimeMillis))
+  (let [cl (RandomForest.)]
+    ;;(.setBinarySplits cl true)
+    (.setNumTrees cl 100)
+    ;;(.setSeed cl (System/currentTimeMillis))
     (mlc/classifier-train cl dataset)
-    (mlc/classifier-evaluate cl :cross-validation dataset 10)
+    (mlc/classifier-evaluate cl :cross-validation dataset 20)
     cl))
 
 (comment (defn eval-attributes [dataset]

@@ -1,3 +1,80 @@
+5 Feb '12
+Lex-role
+#<J48 J48 pruned tree
+------------------
+
+compl <= 0.22314: en (150.0/23.0)
+compl > 0.22314
+|   trans-subj <= 0.326121
+|   |   cop-sub <= 0.011236
+|   |   |   pass-subj <= 0.201835
+|   |   |   |   pass-subj <= 0.028571: en (38.0/13.0)
+|   |   |   |   pass-subj > 0.028571: es (237.0/83.0)
+|   |   |   pass-subj > 0.201835: en (39.0/9.0)
+|   |   cop-sub > 0.011236: es (127.0/16.0)
+|   trans-subj > 0.326121: en (51.0/11.0)
+
+Number of Leaves  : 	6
+
+Size of the tree : 	11
+>
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 242  79 |   a = es
+ 105 216 |   b = en
+
+=== Summary ===
+
+Correctly Classified Instances         458               71.3396 %
+Incorrectly Classified Instances       184               28.6604 %
+Kappa statistic                          0.4268
+Mean absolute error                      0.3617
+Root mean squared error                  0.4519
+Relative absolute error                 72.3462 %
+Root relative squared error             90.3791 %
+Total Number of Instances              642
+
+Verb valency:
+
+#<J48 J48 pruned tree
+------------------
+
+three <= 0.067669
+|   two <= 0.40625
+|   |   three <= 0.030303
+|   |   |   three <= 0.011442: en (17.0/1.0)
+|   |   |   three > 0.011442
+|   |   |   |   two <= 0.4: es (8.0/1.0)
+|   |   |   |   two > 0.4: en (2.0)
+|   |   three > 0.030303: en (12.0)
+|   two > 0.40625
+|   |   one <= 0.384615: en (99.0/36.0)
+|   |   one > 0.384615: es (455.0/183.0)
+three > 0.067669: en (49.0/5.0)
+
+Number of Leaves  : 	7
+
+Size of the tree : 	13
+>
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 269  52 |   a = es
+ 189 132 |   b = en
+
+=== Summary ===
+
+Correctly Classified Instances         401               62.4611 %
+Incorrectly Classified Instances       241               37.5389 %
+Kappa statistic                          0.2492
+Mean absolute error                      0.4523
+Root mean squared error                  0.4857
+Relative absolute error                 90.4594 %
+Root relative squared error             97.1331 %
+Total Number of Instances              642  
+
+
 4 Feb '12
 Ran the argument structure test in train_args.clj. Training a C4.5 decision tree and testing with 20 fold x-over gives:
 

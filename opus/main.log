@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  2 FEB 2012 10:01
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  8 FEB 2012 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -691,25 +691,26 @@ Package xypdf Info: Line width: 0.47998pt on input line 42.
 (./section-corpora.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+ [1
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 ) (./section-method-expln.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
- [1
-
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+ [2] [3]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
- [3] [4] [5])
-(./section-dep-reln.tex [6]
-<c45-dep-graph.pdf, id=37, 783.92876pt x 676.5275pt>
+ [4] [5] [6])
+(./section-dep-reln.tex [7]
+<c45-dep-graph.pdf, id=41, 783.92876pt x 676.5275pt>
 File: c45-dep-graph.pdf Graphic file (type pdf)
  <use c45-dep-graph.pdf>
 Package pdftex.def Info: c45-dep-graph.pdf used on input line 17.
 (pdftex.def)             Requested size: 433.62pt x 374.21779pt.
 
-[7] [8 <./c45-dep-graph.pdf>] <xymatrix 4x1 124> <xymatrix 3x1 120>
+[8] [9 <./c45-dep-graph.pdf>] <xymatrix 4x1 124> <xymatrix 3x1 120>
 Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []\OT1/ptm/b/n/10.95 Figure 3.3: |\OT1/ptm/m/n/10.95 The de-pen-den-cies $\OML/
 cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n
@@ -717,44 +718,70 @@ cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n
 \OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$
  []
 
-<xymatrix 12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258> [9] [10] <xymatrix
-11x1 152> <xymatrix 12x1 262> [11] <xymatrix 9x1 144> <xymatrix 6x1 132>
-<xymatrix 9x1 144> [12]
-Overfull \hbox (44.153pt too wide) in paragraph at lines 295--296
+<xymatrix 12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258> [10] [11] [12]
+<xymatrix 11x1 152> <xymatrix 12x1 262> [13] <xymatrix 9x1 144> <xymatrix 6x1
+132> <xymatrix 9x1 144> [14]
+Overfull \hbox (44.153pt too wide) in paragraph at lines 296--297
 []\OT1/ptm/m/n/12 Regardless of the rea-sons be-hind L1-Spanish learn-ers avoid
 -ance of phrasal verbs, Alejo Gonz[]alez
  []
 
-) (./main.bbl [13] [14]) [15] (./main.aux) ) 
+[15]) (./section-args.tex [16]
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\OT1/ptm/b/n/10.95 Figure 4.1: |\OT1/ptm/m/n/10.95 The de-pen-den-cies $\OML/
+cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n
+/10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]
+\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$
+ []
+
+<xymatrix 8x1 254> <xymatrix 10x1 368> <xymatrix 11x1 258>
+<c45-num-lex.pdf, id=88, 220.825pt x 405.515pt>
+File: c45-num-lex.pdf Graphic file (type pdf)
+ <use c45-num-lex.pdf>
+Package pdftex.def Info: c45-num-lex.pdf used on input line 90.
+(pdftex.def)             Requested size: 144.54pt x 265.43791pt.
+
+<c45-val.pdf, id=89, 381.425pt x 495.8525pt>
+File: c45-val.pdf Graphic file (type pdf)
+ <use c45-val.pdf>
+Package pdftex.def Info: c45-val.pdf used on input line 97.
+(pdftex.def)             Requested size: 216.81pt x 281.85199pt.
+File: c45-val.pdf Graphic file (type pdf)
+
+<use c45-val.pdf>
+Package pdftex.def Info: c45-val.pdf used on input line 104.
+(pdftex.def)             Requested size: 216.81pt x 281.85199pt.
+) (./main.bbl [17] [18 <./c45-num-lex.pdf>] [19 <./c45-val.pdf>]) [20] (./main.
+aux) ) 
 Here is how much of TeX's memory you used:
- 7659 strings out of 493633
- 105516 string characters out of 3143378
- 226038 words of memory out of 3000000
- 10778 multiletter control sequences out of 15000+200000
+ 7682 strings out of 493633
+ 105894 string characters out of 3143378
+ 226171 words of memory out of 3000000
+ 10796 multiletter control sequences out of 15000+200000
  30663 words of font info for 70 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  51i,20n,41p,3246b,645s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist
-/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr5.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local
-/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local/texlive/
-2011/texmf-dist/fonts/type1/public/xypic/xyatip10.pfb></usr/local/texlive/2011/
-texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on main.pdf (15 pages, 206776 bytes).
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/loca
+l/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/
+texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texl
+ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texliv
+e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/
+2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/20
+11/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2011/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texm
+f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fon
+ts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/u
+rw/times/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xyp
+ic/xyatip10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xy
+btip10.pfb>
+Output written on main.pdf (20 pages, 253584 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 192 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

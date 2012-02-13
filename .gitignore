@@ -3,3 +3,4 @@
 code/latest-dep-image.png
 *.parse
 *.deps
+data/icle/*

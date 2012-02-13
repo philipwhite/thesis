@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  4 FEB 2012 15:49
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 FEB 2012 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,117 +696,56 @@ Package xypdf Info: Line width: 0.47998pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-! Misplaced \noalign.
-<recently read> \noalign 
-                         
-l.21 \bottomrule
-                
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+<xymatrix 8x1 246> <xymatrix 10x1 368> <xymatrix 10x1 466> <xymatrix 9x1 356>
+<xymatrix 7x1 242> <xymatrix 7x1 242>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
+ [1
 
-! Missing } inserted.
-<inserted text> 
-                }
-l.22 \end
-         {tabular}
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 
-! Missing } inserted.
-<inserted text> 
-                }
-l.22 \end
-         {tabular}
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+<c45-val.pdf, id=20, 205.76875pt x 224.84pt>
+File: c45-val.pdf Graphic file (type pdf)
+ <use c45-val.pdf>
+Package pdftex.def Info: c45-val.pdf used on input line 167.
+(pdftex.def)             Requested size: 108.405pt x 118.45102pt.
 
-! Missing } inserted.
-<inserted text> 
-                }
-l.22 \end
-         {tabular}
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+<c45-num-lex.pdf, id=21, 265.99374pt x 315.1775pt>
+File: c45-num-lex.pdf Graphic file (type pdf)
+ <use c45-num-lex.pdf>
+Package pdftex.def Info: c45-num-lex.pdf used on input line 174.
+(pdftex.def)             Requested size: 144.54pt x 171.27057pt.
 
-! Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.22 \end
-         {tabular}
-I'm guessing that you meant to end an alignment here.
+<c45-lex-role.pdf, id=22, 576.1525pt x 766.865pt>
+File: c45-lex-role.pdf Graphic file (type pdf)
+ <use c45-lex-role.pdf>
+Package pdftex.def Info: c45-lex-role.pdf used on input line 181.
+(pdftex.def)             Requested size: 289.07999pt x 384.77722pt.
 
-! Missing { inserted.
-<inserted text> 
-                {
-l.22 \end
-         {tabular}
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Misplaced \crcr.
-\endtabular ->\crcr 
-                    \egroup \egroup $\egroup 
-l.22 \end{tabular}
-                  
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Extra }, or forgotten $.
-\endtabular ->\crcr \egroup 
-                            \egroup $\egroup 
-l.22 \end{tabular}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\endtabular ->\crcr \egroup \egroup 
-                                    $\egroup 
-l.22 \end{tabular}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-No file section-args.bbl.
-[1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-]
-(./section-args.aux) ) 
+(./section-args.bbl [4 <./c45-val.pdf>]) [5 <./c45-num-lex.pdf>] [6 <./c45-lex-
+role.pdf>] (./section-args.aux) ) 
 Here is how much of TeX's memory you used:
- 7514 strings out of 493633
- 103741 string characters out of 3143378
- 215103 words of memory out of 3000000
- 10649 multiletter control sequences out of 15000+200000
- 16544 words of font info for 48 fonts, out of 3000000 for 9000
+ 7596 strings out of 493633
+ 104726 string characters out of 3143378
+ 232332 words of memory out of 3000000
+ 10717 multiletter control sequences out of 15000+200000
+ 28471 words of font info for 64 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,7n,40p,3294b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/
-8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
-sr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on section-args.pdf (1 page, 23161 bytes).
+ 51i,20n,40p,3294b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/
+dvips/base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pf
+b></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/lo
+cal/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/xypic/xyatip10.pfb></usr/local/texlive/20
+11/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
+Output written on section-args.pdf (6 pages, 135604 bytes).
 PDF statistics:
- 17 PDF objects out of 1000 (max. 8388607)
- 11 compressed objects within 1 object stream
+ 113 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,32 +12,47 @@
   (:use
    thesis.tools))
 
-(def *all-argument-attributes*
-  ["s" "S"
-   "ao"  "aO" "Ao" "AO"
-   "aio" "aiO" "aIo" "aIO" "Aio" "AIo" "AIO" "AiO"
-   "aoc" "aoC" "aOc" "aOC" "Aoc" "AOc" "AOC" "AoC"
-   "p" "P"
-   "pc" "pC" "Pc" "PC"
-   "sc" "sC" "Sc" "SC"])
-
-(def *all-argument-attributes-by-structure*
-  [["s" "S"]
-   ["ao"  "aO" "Ao" "AO"]
-   ["aio" "aiO" "aIo" "aIO" "Aio" "AIo" "AIO" "AiO"]
-   ["aoc" "aoC" "aOc" "aOC" "Aoc" "AOc" "AOC" "AoC"]
-   ["p" "P"]
-   ["pc" "pC" "Pc" "PC"]
-   ["sc" "sC" "Sc" "SC"]])
+;;this map contains the dependencies that must be present with a
+;;particular verb as the governor in order to match a particular argument
+;;pattern. The keys are the names of the patterns, the values are lists
+;;of relns. simpler structures are lower than the more complicated ones
+;;that contain them
+(def *structure-maps* 
+  {"pc" ["nsubjpass" "dobj"]
+   "pk" ["nsubjpass" "ccomp"] ;new
+   "p" ["nsubjpass"]
+   "mc" ["csubjpass" "dobj"] ;new
+   "mk" ["csubjpass" "ccomp"] ;new
+   "m" ["csubjpass"] ;new
+   "aoc" ["nsubj" "xcomp"]
+   "boc" ["csubj" "xcomp"] ;new
+   "aio" ["nsubj" "iobj" "dobj"]
+   "bio" ["csubj" "iobj" "dobj"] ;new
+   "ao" ["nsubj" "dobj"]
+   "bo" ["csubj" "dobj"] ;new
+   "ak" ["nsubj" "ccomp"] ;new
+   "bk" ["csubj" "ccomp"] ;new
+   "s" ["nsubj"]
+   "e" ["csubj"]}) ;new
 
 (def *all-argument-structures*
-  ["s"
-   "ao"
-   "aio"
-   "aoc"
-   "p"
-   "pc"
-   "sc"])
+  (vec (concat (keys *structure-maps*) ["sc" "ec"])))
+
+(defn- permute-arg-structure [[letter & more]]
+  "e.g. in ao out [ao Ao aO AO]"
+  (vec (if more
+         (for [lt [letter (string/upper-case letter)]
+               mr (permute-arg-structure more)]
+           (str lt mr))
+         [(str letter) (string/upper-case letter)])))
+
+(def *all-argument-attributes-by-structure*
+  (vec (map permute-arg-structure *all-argument-structures*)))
+
+(def *all-argument-attributes*
+   (vec (apply concat *all-argument-attributes-by-structure*)))
+
+
 
 (def *example-sentences*
   [["I walk" "s.png"]
@@ -48,13 +63,13 @@
    ["I was appointed president" "pc.png"]])
 
 (def *relns*
-  ["nsubj" "nsubjpass" "xcomp" "dobj" "iobj" ])
+  ["nsubj" "nsubjpass" "xcomp" "dobj" "iobj" "csubj" "csubjpass" "ccomp" ])
 
 (def *verb-tags* ["VB" "VBD" "VBG" "VBN" "VBP" "VBZ"])
 
 (def *referential-forms*
   ["other" "another" "else" "same"
-   "this" "that" "these" "those"
+   "this" "that" "these" "those" "what"
    "myself" "yourself" "herself" "himself" "itself" "oneself"
    "ourselves" "yourselves" "themselves"
    "mine" "yours" "hers" "his" "ours" "theirs"
@@ -92,22 +107,12 @@
 
 
 
-;;this map contains the dependencies that must be present with a
-;;particular verb as the governor in order to match a particular argument
-;;pattern. The keys are the names of the patterns, the values are lists
-;;of relns. simpler structures are lower than the more complicated ones
-;;that contain them
-(def *structure-maps* ;TODO csubj and csubjpass
-  {"pc" ["nsubjpass" "dobj"]
-   "p" ["nsubjpass"]
-   "aoc" ["nsubj" "xcomp"]
-   "aio" ["nsubj" "iobj" "dobj"]
-   "ao" ["nsubj" "dobj"]
-   "s" ["nsubj"] })
+
 
 (defn get-copula-arg-structure [deps verb-node]
   "gets to see if there is a 'cop' dependency among deps where the dependent
-is verb node. Returns a similar value as get-argument-structure"
+is verb node. Returns a similar value as get-argument-structure. for whatever reason, copular verbs
+with ccomp complements are the governors and so don't get handled here"
   (if-let [cop (->> deps
                  (filter #(= "cop" (.getShortName (.reln %))))
                  (filter #(= verb-node (.dep %)))
@@ -118,7 +123,10 @@ is verb node. Returns a similar value as get-argument-structure"
                                        (.getShortName (.reln %))))
                        (filter #(= (.gov cop) (.gov %)))
                        first)]
-      ["sc" (.dep subj) (.gov cop)])))
+      (let [n (.getShortName (.reln subj))]
+        (if (= n "nsubj")
+          ["sc" (.dep subj) (.gov cop)]
+          ["ec" (.dep subj) (.gov cop)]) ))))
 
 (defn get-argument-structure [deps verb-node]
   "return a seq where the first item is one of the all-lower case values in *all-argument-attributes* does not distinguish full NPs from anaphora. The remaining items are the arguments (as tree nodes)"
@@ -140,7 +148,7 @@ is verb node. Returns a similar value as get-argument-structure"
                                              %)
                                           deps-with-verb-gov)]
                             (.dep dep)))]
-          (if (= match "aoc")
+          (if (or (= match "aoc") (= match "boc")) 
             (if-let [reln-with-2nd-obj-gov
                      (some #(if
                                 (and
@@ -153,7 +161,7 @@ is verb node. Returns a similar value as get-argument-structure"
 
 
 (defn mark-referential-forms [[structure & arguments]]
-  "pass this the output of get-argument-structure. It basically capitalized the
+  "pass this the output of get-argument-structure. It basically capitalizes the
 structure code unless the form is referential. It returns only the code"
   (apply str
          (let [pairs (map vector structure arguments)]
@@ -172,4 +180,9 @@ structure code unless the form is referential. It returns only the code"
     
     (remove empty?
             (map (partial extract-arguments-of-verb deps)
-          verb-nodes))))
+                 verb-nodes))))
+
+(defn- test-args [sent-str]
+  (let [p (parse/parse-sentences [sent-str])
+        d (first (parse/dependencies p))]
+    (extract-arguments d)))

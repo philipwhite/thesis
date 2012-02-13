@@ -94,6 +94,7 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
 
 (defn add-to-arg-dataset [ds arg-freqs L1]
   "adds an instance using the data found in the map arg-freqs"
+  (println (count arg-freqs))
   (mld/dataset-add ds (concat (map arg-freqs arg/*all-argument-attributes*)
                               [({:en "en" :es "es"} L1)])))
 
@@ -129,7 +130,7 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
     ds))
 
 (defn train-and-test [dataset]
-  (let [cl (J48.)]
+  (let [cl (NaiveBayesMultinomial.)]
     ;(.setNumTrees cl 100)
     (println (mlc/classifier-train cl dataset))
     (println (mlc/classifier-evaluate cl :cross-validation dataset 20))
@@ -212,6 +213,90 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
 (defn- load-arg-struct-dataset []
   (load-dataset "../data/train-arg-structs.dataset"))
 
+(defn- calc-valency-attrs [inst-as]
+  [;; "one"
+   (apply + (map inst-as [:p :m :e :s]))
+   ;; "two"
+   (apply + (map inst-as
+                 [:ao :pc :sc :bk :ak :bo :mc :pk :mk :ec]))
+   ;; "three"
+   (apply + (map inst-as
+                 [:aio :bio :aoc :boc]))])
+
+(defn- permute-n-lex [strct n]
+  "takes a string such as aio and returns only those permutations with n lexical arguments"
+  (map keyword
+       (let [perms (arg/permute-arg-structure strct)]
+         (filter (fn [p]
+                   (if (== n (apply + (for [c p]
+                                        (if (= (str c) (string/upper-case c)) 1 0))))
+                     true false))
+                 perms))))
+
+(defn- calc-num-attrs [inst-a inst-as]
+  "Attributes indicating how much clauses contains zero,one,two, or three lexical attributes"
+  (vec (letfn [(f [strct n]
+                 (let [p (permute-n-lex strct n)]
+                   (* ((keyword strct) inst-as)
+                      (apply + (map inst-a (map keyword p))))))]
+         (for [n [0 1 2 3]]
+           (apply + (for [strct arg/*all-argument-structures*]
+                      (f strct n)))))))
+
+(defn- permute-arg-lex [strct a]
+  "takes a string such as aio and returns only those permutations with the arg a is lexical"
+  (map keyword
+        (let [lex-a (string/upper-case a)
+              perms (arg/permute-arg-structure strct)]
+          (filter (fn [p]
+                    (some (fn [c]
+                            (= (str c) lex-a)) p))
+                  perms))))
+
+(defn calc-lex-attrs [inst-a inst-as]
+  (letfn [(f [strct a]
+            (let [p (permute-arg-lex strct a)]
+              (* ((keyword strct) inst-as)
+                 (apply + (map inst-a (map keyword p))))))]
+    (let [vals
+          [ ;;intr-subj, s or e, not sc or ec
+           (+ (f "s" "s")
+              (f "e" "e"))
+           ;;trans-subj, a or b
+           (+ (apply + (map #(f % "a") ["ao" "aoc" "aio" "ak"]))
+              (apply + (map #(f % "b") ["bo" "boc" "bio" "bk"])))
+           ;;i-obj, i
+           (apply + (map #(f % "i") ["aio" "bio"]))
+           ;;d-obj, o, k
+           (+ (apply + (map #(f % "o") ["aoc" "aio" "ao" "bo"]))
+              (apply + (map #(f % "k") ["ak" "bk"])))
+           ;;pass-subj, p, m
+           (+ (apply + (map #(f % "p") ["p" "pc" "pk"]))
+              (apply + (map #(f % "m") ["m" "mc" "mk"])))
+           ;;compl, c
+           (apply + (map #(f % "c") ["pc" "sc" "aoc" "boc"]))
+           ;;cop-subj, s, e, only sc and ec
+           (+ (f "sc" "s")
+              (f "ec" "e"))
+           ]]
+      ;;normalize them here
+      (let [sum (apply + vals)]
+        (map #(/ % sum) vals))
+      ))
+  )
+
+(defn- arg->valency [as-ds]
+  "Converts an arg-struct dataset into one with just four attributes, corresponding to the number of lexical arguments in the verbal clause. The associated values are the percentage of finite verbal clauses with that number."
+  (let [num-ds (mld/make-dataset "Argument Valency"
+                             [:mono :di :tri
+                              {:L1 [:es :en]}] (.numInstances as-ds))]
+    (mld/dataset-set-class num-ds :L1)
+    (doseq [inst-as (mld/dataset-as-maps as-ds)]
+      (let [new-inst (mld/make-instance num-ds
+                      (concat (calc-valency-attrs inst-as) [(:L1 inst-as)]))]
+        (.add num-ds new-inst)))
+    num-ds))
+
 (defn- arg->num-lex [as-ds a-ds]
   "Converts an arg dataset and an arg-struct dataset into one with just four attributes, corresponding to the number of lexical arguments in the verbal clause. The associated values are the percentage of finite verbal clauses with that number."
   (let [num-ds (mld/make-dataset "Lexical Argument Count"
@@ -228,7 +313,7 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
 
 (defn- arg->lex-role [as-ds a-ds]
   "Converts an arg dataset and an arg-struct dataset into one with an attribute for each argument role: :intr-subj, tran-subj, i-obj, d-obj, pass-subj, compl, cop-subj."
-  (let [num-ds (mld/make-dataset "Lexical Argument Count"
+  (let [num-ds (mld/make-dataset "Lexical Argument Roles"
                                  [:intr-subj :trans-subj :i-obj
                                   :d-obj :pass-subj :compl :cop-sub
                               {:L1 [:es :en]}] (.numInstances as-ds))]
@@ -241,9 +326,10 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
         (.add num-ds new-inst)))
     num-ds))
 
-(defn- arg->lex-and-num [as-ds a-ds]
-  (let [num-ds (mld/make-dataset "Lexical Argument Count"
-                                 [:zero :one :two :three
+(defn- arg->lex-num-val [as-ds a-ds]
+  (let [num-ds (mld/make-dataset "Lexical Argument Count and Roles and Verb Valency"
+                                 [:mono :di :tri
+                                  :zero :one :two :three
                                   :intr-subj :trans-subj :i-obj
                                   :d-obj :pass-subj :compl :cop-sub
                               {:L1 [:es :en]}] (.numInstances as-ds))]
@@ -252,60 +338,25 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
             (partition-all 2 (interleave (mld/dataset-as-maps as-ds) (mld/dataset-as-maps a-ds)))]
       (let [new-inst (mld/make-instance
                       num-ds
-                      (concat (calc-num-attrs inst-a inst-as)  (calc-lex-attrs inst-a inst-as) [(:L1 inst-a)]))]
+                      (concat (calc-valency-attrs inst-as) (calc-num-attrs inst-a inst-as)  (calc-lex-attrs inst-a inst-as) [(:L1 inst-a)]))]
         (.add num-ds new-inst)))
     num-ds))
 
-(defn- calc-num-attrs [inst-a inst-as]
-  [;; "zero"
-   (+ (* (:s inst-as) (:s inst-a))
-      (* (:ao inst-as) (:ao inst-a))
-      (* (:aoc inst-as) (:aoc inst-a))
-      (* (:aio inst-as) (:aio inst-a))
-      (* (:p inst-as) (:p inst-a))
-      (* (:pc inst-as) (:pc inst-a))
-      (* (:sc inst-as) (:sc inst-a)))
-   ;; "one"
-   (+ (* (:s inst-as) (:S inst-a))
-      (* (:ao inst-as) (apply + (map inst-a [:aO :Ao])))
-      (* (:aoc inst-as) (apply + (map inst-a [:aoC :aOc :Aoc])))
-      (* (:aio inst-as) (apply + (map inst-a [:aiO :aIo :Aio])))
-      (* (:p inst-as) (:P inst-a))
-      (* (:pc inst-as) (apply + (map inst-a [:pC :Pc])))
-      (* (:sc inst-as) (apply + (map inst-a [:sC :Sc]))))
-   ;; "two"
-   (+ (* (:ao inst-as) (:AO inst-a))
-      (* (:aoc inst-as) (apply + (map inst-a [:aOC :AoC :AOc])))
-      (* (:aio inst-as) (apply + (map inst-a [:aIO :AiO :AIo])))
-      (* (:pc inst-as) (:PC inst-a))
-      (* (:sc inst-as) (:SC inst-a)))
-   ;; "three"
-   (+ (* (:aoc inst-as) (:AOC inst-a))
-      (* (:aio inst-as) (:AIO inst-a)))])
-
-(defn calc-lex-attrs [inst-a inst-as]
-  (let [vals
-        [ ;;intr-subj, s, not sc
-         (* (:s inst-as) (:S inst-a))
-         ;;trans-subj, a
-         (+ (* (:ao inst-as) (apply + (map inst-a [:Ao :AO])))
-            (* (:aoc inst-as) (apply + (map inst-a [:Aoc :AOc :AOC :AoC])))
-            (* (:aio inst-as) (apply + (map inst-a [:Aio :AIo :AIO :AiO]))))
-         ;;i-obj, i
-         (* (:aio inst-as) (apply + (map inst-a [:aIo :AIo :AIO :aIO])))
-         ;;d-obj, o
-         (+ (* (:aoc inst-as) (apply + (map inst-a [:aOc :AOc :AOC :aOC])))
-            (* (:aio inst-as) (apply + (map inst-a [:aiO :AIO :aIO :AiO]))))
-         ;;pass-subj, p
-         (+ (* (:p inst-as) (:P inst-a))
-            (* (:pc inst-as) (apply + (map inst-a [:PC :Pc]))))
-         ;;compl
-         (+ (* (:pc inst-as) (apply + (map inst-a [:pC :PC])))
-            (* (:sc inst-as) (apply + (map inst-a [:sC :SC]))))
-         ;;cop-subj
-         (* (:sc inst-as) (:Sc inst-a))
-         ]]
-    ;;normalize them here
-    (let [sum (apply + vals)]
-       (map #(/ % sum) vals))
-    ))
+(defn build-trees [as-ds a-ds]
+  "Takes the arg struct and arg dataset sets and return a vector of three J48 classifiers, based on valency, num of lexical argument, and lex argument role."
+  (let [valen (arg->valency as-ds)
+        num-lex (arg->num-lex as-ds a-ds)
+        lex-role (arg->lex-role as-ds a-ds)
+        clv (J48.)
+        cln (J48.)
+        cll (J48.)]
+    (mlc/classifier-train clv valen)
+    (spit "../results/c45-val-accuracy.txt" (mlc/classifier-evaluate clv :cross-validation valen 20))
+    (mlc/classifier-train cln num-lex)
+    (spit "../results/c45-num-lex-accuracy.txt" (mlc/classifier-evaluate cln :cross-validation num-lex 20))
+    (mlc/classifier-train cll lex-role)
+    (spit "../results/c45-lex-role-accuracy.txt" (mlc/classifier-evaluate cll :cross-validation lex-role 20))
+    (tools/write-dtree clv "../opus/c45-val.dot")
+    (tools/write-dtree cln "../opus/c45-num-lex.dot")
+    (tools/write-dtree cll "../opus/c45-lex-role.dot")
+    [clv cln cll]))

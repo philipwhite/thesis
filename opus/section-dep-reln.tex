@@ -19,7 +19,7 @@ Each data set instance contained attributes corresponding to dependency relation
 
 
 
-\begin{table}
+\begin{table}[ht]
 \small
 \centering
 \caption{Relation abbreviations}
@@ -78,7 +78,7 @@ b. & \xytext{
 A complementizer is a word that signals the beginning of a clausal complement. The Stanford Parser recognizes the complementizers \textit{that} and \textit{whether} as shown in Example~\ref{ex:complm3}. The governor of a complementizer dependency is the root of the clause, which is generally a verb or, in the cause of copular clauses, the subject complement. The dependent is the complementizer itself.
 
 
-\begin{figure}
+\begin{figure}[ht]
 \caption{The dependencies $complm(\text{place},\text{whether})$, $complm(\text{go},\text{whether})$ $complm(\text{predicts},\text{that})$, and $complm(\text{rise},\text{that})$. Nonnative samples from WRICLE (\textit{a} and \textit{c}) and SULEC (\textit{b}).}
 
 \centering
@@ -138,19 +138,20 @@ c. &
 \end{figure}
 
 
-\citet{whitley:1986} points out that while English tends to allow complementizers introducing clausal complements in the object position to be deleted, Spanish is much more restrictive in this regard (see examples~\ref{ex:complm1} and~\ref{ex:complm2}). \citep[p.278]{whitley:1986}.
+\citet{whitley:1986} points out that while English tends to allow complementizers introducing clausal complements in the object position to be deleted, Spanish generally does not (see Example~\ref{ex:complm}). \citet[33.4.6]{butt} explain that this rule is occasionally broken, but generally only in two situations, business letters and substandard speech, and when the complementizer \textit{que} appears close to other uses of the word \textit{que}. Since these are restricted cases, it is reasonable to conclude that there would be L1-transfer in the construction of clausal complements, leading to L1-Spanish learners to have some preference for Example~\ref{ex:complma} over \ref{ex:complmb}, particularly considering that they are both perfectly valid constructions.
+
+In a study on differences in complement clause usage between native and nonnative English speakers, \citet{biber:1998} make a number of conclusions relevant to the current study. First, they consider when native speakers omit the complementizer \textit{that} and conclude that it is rarely omitted in academic prose and in opinion and descriptive essays. Since the vast majority of the corpus samples both native and nonnative fall into these categories, this provides encouraging evidence that the differences in complementizer usage identified by the classifier are not due to idiosyncrasies in the samples. Next, while considering four different groups of L1-speakers, French, Spanish, Chinese, and Japanese, \citeauthor{biber:1998} find that all groups shows similar levels of \textit{that} omission, and in general these levels of omission are lesser than the levels found in comparable types of native texts. They also find, interesting that L1-Spanish speakers use complement clauses, with and without omission of the complementizer, more often than either native speakers or the other groups of learners.
+
+The decision tree shown in Figure~\ref{fig:c4.5-dep-tree} uses the $complm$ dependency once, and classifies cases with lower occurrences of $complm$ as native and larger occurrences as nonnative, without further testing. This this dependency does not part necessarily indicate the presence of a complement clause, but rather the presence of a complementizer, the higher frequency among the learners may be due either to low rates of dropping the complementizer, or high rates of complement clause usage. As shown above, both phenomena have linguistic backing and very likely both are at play. 
+
 
 \begin{figure}
 \eenumsentence{
-\label{ex:complm1}
-\item I say that he'll do it.
-\item I say he'll do it.
-}
-
-\eenumsentence{
-\label{ex:complm2}
-\item Digo que lo hará.
-\item *Digo lo hará.
+\label{ex:complm}
+\item \textit{I say that he'll do it.} \label{ex:complma}
+\item \textit{I say he'll do it.} \label{ex:complmb}
+\item \textit{Digo que lo hará.}
+\item \textit{*Digo lo hará.} (\citealt[p. 278]{whitley:1986})
 }
 \end{figure}
 
@@ -298,6 +299,29 @@ Regardless of the reasons behind L1-Spanish learners avoidance of phrasal verbs,
 \subsection{Quantifier Phrase Modifiers}
 \subsection{Relative}
 
+\subsection{Classification Accuracy}
+
+Twenty fold cross-validation was used to test the real-world accuracy of the data. There being 642 cases in the data set, thirty-two unique cases were held out at a time and classified using a C4.5 classifier trained on the remaining 610 cases. This produced a correct classification rate of $89.72\%$ with a mean absolute error (MAE) of $0.1139$ and a $\kappa$ value of $0.7944$. Using a random forest classifier gave better results; performing 20 fold cross-validation on a 100 tree classifier where each tree was trained on six random features yielded $94.24\%$ accuracy with $\text{MAE} = 0.1707$ and $\kappa = 0.8847$. Table~\ref{table:dep-results} gives the confusion matrices for these two classifier.
+
+\begin{table}
+\centering
+\caption{Accuracy results for C4.5 and 100 tree Random Forest classifiers using 20 fold cross-validation on data set of 642 cases.}
+\begin{tabular}{r l l l l l}
+\toprule
+&\multicolumn{2}{c}{C4.5}& & \multicolumn{2}{c}{R. Forest}\\
+\cmidrule{2-3} \cmidrule{5-6}
+Classified as $\rightarrow$ & es & en && es & en\\
+es &309 & 12 && 291 & 30 \\
+en &25 & 296 && 36 & 285 \\
+\cmidrule{2-3} \cmidrule{5-6}
+\% Correct & \multicolumn{2}{c}{89.72} && \multicolumn{2}{c}{94.24} \\
+MAE & \multicolumn{2}{c}{0.1139} && \multicolumn{2}{c}{0.1707} \\
+$\kappa$ & \multicolumn{2}{c}{0.7944} && \multicolumn{2}{c}{0.8847} \\
+\bottomrule
+\end{tabular}
+
+\label{table:dep-results}
+\end{table}
 
 \biblio
 \end{document}

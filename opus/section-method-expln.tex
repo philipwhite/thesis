@@ -5,7 +5,7 @@
 
 \subsection{Choice of Language}
 
-With very few exceptions, the code I wrote in support of this thesis was done in Clojure, a dialect of LISP designed to work on top of the Java Virtual Machine (JVM). The choice of a language was easy: a heavy dependence on the Stanford Parser and the WEKA package, both written in Java, necessitated a JVM-based language. The slowness of Java's compile/debug cycle eliminated that language as an option, leaving a handful of possible languages, from which I chose Clojure for its speed, functional style, and elegance.
+With very few exceptions, the code I wrote in support of this thesis was done in Clojure, a dialect of LISP designed to work on top of the Java Virtual Machine (JVM). The choice of a language was simple: a heavy dependence on the Stanford Parser and the WEKA package, both written in Java, necessitated a JVM-based language. The slowness of Java's compile/debug cycle eliminated that language as an option, leaving a handful of possible languages, from which I chose Clojure for its speed, functional style, and elegance.
 
 \subsection{Parsing}
 
@@ -81,6 +81,7 @@ Then the fitness of a test $T$ can be measured using
 It should be noted that in this special case where partitioning operations are always binary, the gain ratio criterion favors tests that split $S$ into disparately sized sets, as split info is at its maximum (unity) when $|S_1|=|S_2|$.
 
 In choosing a test $T$, the C4.5 algorithm tries each attribute $A$ from the set $S$ of cases to be partitioned. For each, it orders the cases in $S$ on the value of $A$. If the values of $A$ corresponding to this ordered set are $\{v_1,v_2,\ldots,v_m\}$, then any threshold between $v_i$ and $v_{i+1}$ will result in the same partitions. From this it can be seen that the total number of possible partitions is $m-1$. The algorithm tries all such partitioning schemes, measuring the gain ratio of each. When an optimal attribute and corresponding partitioning scheme has been chosen, the algorithm than chooses a threshold value that will produce this result. Again, to partition $S$ into two sets where the values for $A$ are $\{v_1,v_2,\ldots,v_i\}$ and $\{v_{i+1},v_{i+2},\ldots,v_m\}$, a threshold value $v_C$ must be chosen such that $v_i \leq v_C < v_{i+1}$. For this, it chooses the largest value for $A$ from the entire training set $S_O$ that does not exceed the midpoint of this range. 
+
 
 
 \biblio

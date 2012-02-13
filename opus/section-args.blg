@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: section-args.aux
+The style file: acmsmall.bst
+Database file #1: bibliography.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty address in celce-murcia:1999
+Warning--empty address in dubois:2003
+You've used 3 entries,
+            3177 wiz_defined-function locations,
+            742 strings with 6087 characters,
+and the built_in function-call counts, 1968 in all, are:
+= -- 181
+> -- 107
+< -- 2
++ -- 32
+- -- 51
+* -- 164
+:= -- 344
+add.period$ -- 13
+call.type$ -- 3
+change.case$ -- 19
+chr.to.int$ -- 3
+cite$ -- 5
+duplicate$ -- 61
+empty$ -- 131
+format.name$ -- 65
+if$ -- 370
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 3
+newline$ -- 17
+num.names$ -- 32
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 38
+quote$ -- 0
+skip$ -- 67
+stack$ -- 0
+substring$ -- 86
+swap$ -- 22
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 50
+warning$ -- 2
+while$ -- 34
+width$ -- 0
+write$ -- 42
+(There were 2 warnings)

@@ -6,6 +6,7 @@ Database file #1: bibliography.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty address in gonzalez:2010
 Warning--page numbers missing in gonzalez:2010
+Warning--empty address in biber:1998
 Warning--empty publisher in breiman:2001
 Warning--empty address in breiman:2001
 Warning--empty address in butt
@@ -19,45 +20,45 @@ Warning--empty address in moore:1994
 Warning--empty address in quinlan:1993
 Warning--empty address in whitley:1986
 Warning--empty address in weka-book
-You've used 16 entries,
+You've used 17 entries,
             3177 wiz_defined-function locations,
-            817 strings with 7824 characters,
-and the built_in function-call counts, 10440 in all, are:
-= -- 941
-> -- 578
-< -- 1
-+ -- 168
-- -- 260
-* -- 925
-:= -- 1780
-add.period$ -- 67
-call.type$ -- 16
-change.case$ -- 107
-chr.to.int$ -- 16
-cite$ -- 31
-duplicate$ -- 334
-empty$ -- 723
-format.name$ -- 337
-if$ -- 1982
+            825 strings with 8031 characters,
+and the built_in function-call counts, 11326 in all, are:
+= -- 1029
+> -- 622
+< -- 2
++ -- 182
+- -- 281
+* -- 1000
+:= -- 1920
+add.period$ -- 72
+call.type$ -- 17
+change.case$ -- 114
+chr.to.int$ -- 17
+cite$ -- 33
+duplicate$ -- 365
+empty$ -- 785
+format.name$ -- 365
+if$ -- 2165
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 24
-newline$ -- 82
-num.names$ -- 162
-pop$ -- 118
+missing$ -- 25
+newline$ -- 87
+num.names$ -- 174
+pop$ -- 126
 preamble$ -- 1
-purify$ -- 208
+purify$ -- 221
 quote$ -- 0
-skip$ -- 329
+skip$ -- 361
 stack$ -- 0
-substring$ -- 485
-swap$ -- 103
-text.length$ -- 1
+substring$ -- 533
+swap$ -- 117
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 270
-warning$ -- 15
-while$ -- 161
+type$ -- 290
+warning$ -- 16
+while$ -- 174
 width$ -- 0
-write$ -- 214
-(There were 15 warnings)
+write$ -- 229
+(There were 16 warnings)
