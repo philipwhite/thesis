@@ -6,7 +6,8 @@
    [clj-ml.classifiers :as mlc]
    [incanter.stats :as stats])
   (:import
-   thesis.AttributeVoting))
+   weka.classifiers.trees.J48
+   java.io.File))
 
 (defn load-all-corpora-parses [L1]
   "return a seq of seqs of trees of a given L1. (instances->sentences)"
@@ -242,6 +243,7 @@ verbs"
                              (concat *combined-attribute-names*
                                      [{"L1" ["es" "en"]}])
 			  100)]
+
     (mld/dataset-set-class ds "L1")
     ds))
 
@@ -264,7 +266,33 @@ verbs"
     ds))
 
 (defn train-and-test [dataset]
-  (let [cl (AttributeVoting.)]
+  (let [cl (J48.)]
     
     (mlc/classifier-train cl dataset)
     (mlc/classifier-evaluate cl :cross-validation dataset 10)))
+
+(defn- dump-dataset [ds path]
+  (with-open [outp (-> (File. path)
+                       java.io.FileOutputStream.
+                       java.io.ObjectOutputStream.)]
+    (.writeObject outp ds)))
+
+(defn- load-dataset [path]
+  (with-open [inp (-> (File. path)
+                        java.io.FileInputStream.
+                        java.io.ObjectInputStream.)]
+    (.readObject inp)))
+
+(defn- dump-tense-dataset [ds]
+  (dump-dataset ds "../data/train-tense.dataset"))
+
+(defn- load-tense-dataset []
+  (load-dataset "../data/train-tense.dataset"))
+
+(defn train-and-test [dataset]
+  (let [cl (J48.)]
+                                        ;(.setNumTrees cl 3)
+    (println (mlc/classifier-train cl dataset))
+    (let [r (mlc/classifier-evaluate cl :cross-validation dataset 20)]
+      (r :evaluation-object))
+    ))

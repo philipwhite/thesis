@@ -38,7 +38,7 @@
 (def *all-argument-structures*
   (vec (concat (keys *structure-maps*) ["sc" "ec"])))
 
-(defn- permute-arg-structure [[letter & more]]
+(defn permute-arg-structure [[letter & more]]
   "e.g. in ao out [ao Ao aO AO]"
   (vec (if more
          (for [lt [letter (string/upper-case letter)]

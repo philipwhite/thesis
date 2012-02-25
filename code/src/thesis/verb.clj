@@ -85,15 +85,19 @@
                          matches)))))
 
 (defn get-tense-aspect-name [p]
-  (let [subtitles {:past?  ["-past" "-present"]
-                   :perfect? ["-perfect" ""]
-                   :progressive? ["-progressive" ""]
-                   :passive? ["-passive" ""]}
-        modal-subtitle (if (not (zero? (count (:modal p)))) "-modal" "")]
+  (let [subtitles {:past?  ["-past" "-pres"]
+                   :perfect? ["-perf" ""]
+                   :progressive? ["-prog" ""]
+                   :passive? ["-pass" ""]
+                   :negative? ["-not" ""]}
+        modal-subtitle (if (not (zero? (count (:modal p)))) "-modal" "")
+        operator-subtitle (if (not (nil? (:operator p))) "-do" "")
+        quasi-subtitle (if (not (zero? (count (:quasimodals p)))) "-quasi" "")]
     (let [ss (merge-with #(if %2 (first %1) (second %1))
                          subtitles p)]
       (string/replace-first
-       (str modal-subtitle (:past? ss) (:perfect? ss) (:progressive? ss) (:passive? ss))
+       (str modal-subtitle operator-subtitle quasi-subtitle (:past? ss) (:perfect? ss)
+            (:progressive? ss) (:passive? ss) (:negative? ss))
        #"-"
        ""))))
 
@@ -192,16 +196,28 @@
          ;;modal progressive
          ;;active
          {:pattern
-          ["VP"
-           ["MD"]
            ["VP"
-            ["VB"
-             ["be"]]
+            ["MD"]
             ["VP"
-             ["VBG"]]]]
-          :depth 4
-          :form (f N N Y N)},
+             ["VB"
+              ["be"]]
+             ["VP"
+              ["VBG"]]]]
+           :depth 4
+           :form (f N N Y N)},
 
+         {:pattern
+           ["VP"
+            ["MD"]
+            ["VP"
+             ["VB"
+              ["get"]]
+             ["S"
+              ["VP"
+               ["VBG"]]]]]
+           :depth 5
+           :form (f N N Y N)}
+         
          ;;passive
          {:pattern
           ["VP"
@@ -858,12 +874,291 @@
 
          {:pattern
           ["VP"
+           ["VBZ"
+            ["gets"]]
+           ["S"
+            ["VP"
+             ["VBN"]]]]
+          :depth 3
+          :form (f N N N Y)}
+         
+         {:pattern
+          ["VP"
            ["VBP"
             ["get"]]
            ["VP"
             ["VBN"]]]
           :depth 3
           :form (f N N N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["get"]]
+           ["S"
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f N N N Y)}
+
+         ;;experimental
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["am"]]
+           ["VP"
+            ["VBG"
+             ["going"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]]
+          :depth 6
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["is"]]
+           ["VP"
+            ["VBG"
+             ["going"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]]
+          :depth 6
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["are"]]
+           ["VP"
+            ["VBG"
+             ["going"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]]
+          :depth 6
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["were"]]
+           ["VP"
+            ["VBG"
+             ["going"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]]
+          :depth 6
+          :form (f Y N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["was"]]
+           ["VP"
+            ["VBG"
+             ["going"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]]
+          :depth 6
+          :form (f Y N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["ADVP"
+            ["RBR"
+             ["better"]]]
+           ["VP"
+            ["VB"]]]
+          :depth 4
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["MD"
+            ["ought"]]
+           ["S"
+            ["VP"
+             ["TO"
+              ["to"]]
+             ["VP"
+              ["VB"]]]]]
+          :depth 5
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["used"]]
+           ["S"
+            ["VP"
+             ["TO"
+              ["to"]]
+             ["VP"
+              ["VB"]]]]]
+          :depth 5
+          :form (f Y N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["have"]]
+           ["S"
+            ["VP"
+             ["TO"
+              ["to"]]
+             ["VP"
+              ["VB"]]]]]
+          :depth 5
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["has"]]
+           ["S"
+            ["VP"
+             ["TO"
+              ["to"]]
+             ["VP"
+              ["VB"]]]]]
+          :depth 5
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["S"
+            ["VP"
+             ["TO"
+              ["to"]]
+             ["VP"
+              ["VB"]]]]]
+          :depth 5
+          :form (f Y N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["have"]]
+           ["VP"
+            ["VBN"
+             ["got"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]]
+          :depth 6
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["has"]]
+           ["VP"
+            ["VBN"
+             ["got"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]]
+          :depth 6
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["had"]]
+           ["VP"
+            ["VBN"
+             ["got"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]]
+          :depth 6
+          :form (f Y N N N)}
+
+         ;;do operators
+         {:pattern
+          ["VP"
+           ["VBP"
+            ["do"]]
+           ["VP"
+            ["VB"]]]
+          :depth 3
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBZ"
+            ["does"]]
+           ["VP"
+            ["VB"]]]
+          :depth 3
+          :form (f N N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["did"]]
+           ["VP"
+            ["VB"]]]
+          :depth 3
+          :form (f Y N N N)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["did"]]
+           ["VP"
+            ["VB"
+             ["get"]]
+            ["VP"
+             ["VBN"]]]]
+          :depth 4
+          :form (f Y N N Y)}
+
+         {:pattern
+          ["VP"
+           ["VBD"
+            ["did"]]
+           ["S"
+            ["VP"
+             ["VB"
+              ["get"]]
+             ["VP"
+              ["VBN"]]]]]
+          :depth 5
+          :form (f Y N N Y)}
          ]]
    
     ;;now sort from deepest to shallowest. this is so as to match
@@ -872,11 +1167,26 @@
     (reverse (sort-by :depth unsorted-patterns))))
 
 (def *all-tense-aspect-names*
-  (let [nonmodal-forms (map :form *verb-patterns*)
-        modal-forms (map #(into % {:modal ["will"]})
-                         (remove :past? nonmodal-forms))]
-    (vec (distinct (map get-tense-aspect-name
-                              (concat nonmodal-forms modal-forms))))))
+  ;"this includes many tense-aspects that simply don't exist"
+  (vec (for [neg [true false]
+         modal ['("will") ()]
+         prog [true false]
+         quasi ['("am" "going") ()]
+         pass [true false]
+         past [true false]
+         perf [true false]
+         operator ["do" nil]]
+     (get-tense-aspect-name {:negative? neg :modal modal :progressive? prog
+                             :quasimodals quasi :passive? pass :past? past
+                             :perfect? perf :operator operator}))))
+
+(comment
+  (def *all-tense-aspect-names*
+   (let [nonmodal-forms (map :form *verb-patterns*)
+         modal-forms (map #(into % {:modal ["will"]})
+                          (remove :past? nonmodal-forms))]
+     (vec (distinct (map get-tense-aspect-name
+                         (concat nonmodal-forms modal-forms)))))))
 
 (comment (defn tree->seq [t]
    (with-meta (cons (.value t)
@@ -966,6 +1276,20 @@ If it can't split and it has children, it recurses for each child"
   parse)
 
 
+(comment
+  ;;original
+  (defn extract-Ss-at-node! [head node]
+    "First recurse on all children. Concat the sequences return by the children.
+Check if the current node is S, if so, remove it from the parent, add it to the sequence and return that sequence"
+    (let [children (.children node)
+          sub-Ss (doall (mapcat (partial extract-Ss-at-node! head) children))]
+      (if (= (.value node) "S")
+        (let [parent (.parent node head)]
+          (conj sub-Ss (.removeChild parent (.indexOf parent node))))
+        sub-Ss))))
+
+;;experimental
+;;does not delete the S subtree from the parent
 (defn extract-Ss-at-node! [head node]
   "First recurse on all children. Concat the sequences return by the children.
 Check if the current node is S, if so, remove it from the parent, add it to the sequence and return that sequence"
@@ -973,7 +1297,7 @@ Check if the current node is S, if so, remove it from the parent, add it to the 
         sub-Ss (doall (mapcat (partial extract-Ss-at-node! head) children))]
     (if (= (.value node) "S")
       (let [parent (.parent node head)]
-        (conj sub-Ss (.removeChild parent (.indexOf parent node))))
+        (conj sub-Ss (.getChild parent (.indexOf parent node))))
       sub-Ss)))
 
 (defn extract-Ss [parse]
@@ -1051,6 +1375,44 @@ a series of S-headed trees derived from 'parse' that do not contain S nodes othe
        (filter #(label-eq "MD" (.value %))
                (.children parse))))
 
+(defn contains-not? [parse]
+  (let [rb-children (filter #(= (.value %) "RB") parse)]
+    (boolean
+     (some #(or (= (.value (.firstChild %)) "not")
+                (= (.value (.firstChild %)) "n't"))
+           rb-children))))
+
+(defn extract-operator [core-verbs]
+  (if (> (count core-verbs) 1)
+    (if (some #(= % (first core-verbs)) ["did" "does" "do"])
+      [(first core-verbs) (rest core-verbs)])
+    [() core-verbs]))
+
+(defn extract-quasimodals [core-verbs]
+  "Takes the list of core verbs and returns a pair or nil. The pair will contain
+first the quasimodal and then the true core verb"
+  (let [core-verbs (map string/lower-case core-verbs)]
+    (cond
+     (some #(= % (take 3 core-verbs))
+           [["am" "going" "to"]
+            ["are" "going" "to"]
+            ["is" "going" "to"]
+            ["was" "going" "to"]
+            ["were" "going" "to"]
+            ["have" "got" "to"]
+            ["has" "got" "to"]
+            ["had" "got" "to"]])
+     [(take 3 core-verbs) (drop 3 core-verbs)]
+     (some #(= % (take 2 core-verbs))
+           [["have" "to"]
+            ["has" "to"]
+            ["had" "to"]
+            ["ought" "to"]
+            ["had" "better"]
+            ["used" "to"]])
+     [(take 2 core-verbs) (drop 2 core-verbs)]
+     :else [() core-verbs])))
+
 (defn modify-get-passives! [parse]
   "the stanford parses generates a (VP (S (VP (VBN)))) rightmost tail in
 the trees for get passives. It doesn't do so when there is a conjunction in that member (e.g. They are getting bought and sold). This functions removes that S and reattaches the branch"
@@ -1081,6 +1443,27 @@ the trees for get passives. It doesn't do so when there is a conjunction in that
                      (first (.children (last (.children parse))))))
         parse))))
 
+
+
+(comment
+  (defn match-and-extract-verb [parse pattern]
+   "if the parse matches the pattern, returns a dictionary with grammatical information. Last item in the sequence will be the verb. If the first item is a sequence, it is a list of modal, the rest of the items will be aux verbs"
+   ;;first do depth check
+   (let [dparse (.depth parse)
+         dpattern (:depth pattern)]
+     (cond
+      (< dparse dpattern) nil           ;can't possibly match
+     
+      (>= dparse dpattern) ;may match here or somewhere deeper in parse
+      (if-let [verb (match-branch parse (:pattern pattern))]
+        (into (:form pattern)
+              {:verb verb
+               :modal (extract-modals parse)})
+        (some #(match-and-extract-verb % pattern)
+              (.children parse)))))))
+
+;;experimental
+;;will not recur into subtrees headed by 'S'
 (defn match-and-extract-verb [parse pattern]
   "if the parse matches the pattern, returns a dictionary with grammatical information. Last item in the sequence will be the verb. If the first item is a sequence, it is a list of modal, the rest of the items will be aux verbs"
   ;;first do depth check
@@ -1092,19 +1475,23 @@ the trees for get passives. It doesn't do so when there is a conjunction in that
      (>= dparse dpattern) ;may match here or somewhere deeper in parse
      (if-let [verb (match-branch parse (:pattern pattern))]
        (into (:form pattern)
-             {:verb verb
-              :modal (extract-modals parse)})
-       (some #(match-and-extract-verb % pattern)
-           (.children parse))))))
-
-(comment (== dparse dpattern)   ;may match, check at this depth
-      (if-let [verb (match-branch parse (:pattern pattern))]
-        (into (:form pattern)
-              {:verb verb
-               :modal (extract-modals parse)})))
+             (let [modals (extract-modals parse) ;;handle the weird way 'ought to' is parsed
+                   ought (filter #(= "ought" %) modals)
+                   modals (remove #(= "ought" %) modals)
+                   verb (if (empty? ought) verb (concat ought verb))
+                   [quasi verb] (extract-quasimodals verb)
+                   [operator verb] (extract-operator verb)]
+               {:verb verb
+                :modal modals
+                :quasimodals quasi
+                :negative? (contains-not? parse)
+                :operator operator}))
+       (some #(match-and-extract-verb % pattern) ;recurs 
+           (remove #(= (.value %) "S")  (.children parse)))))))
 
 (defn extract-verbs [parse]
-  (let [ps (modify-get-passives! (.deepCopy parse))
+  (let [ps (.deepCopy parse)
+        ;;ps (modify-get-passives! (.deepCopy parse)) now handled differently
         ps (extract-Ss parse)
         ps (mapcat split-conjunctions ps)]
     (doseq [p ps]
@@ -1122,7 +1509,7 @@ the trees for get passives. It doesn't do so when there is a conjunction in that
 ;;;MODALS
 (def *all-modals*
   ["can" "could" "dare" "may" "might" "must" 
-   "ought" "shall" "should" "will" "would"])
+   "ought"  "shall" "should" "will" "would"])
 
 (def *contracted-modals*
   ["ca" "mus" "sha" "wo"])
@@ -1134,8 +1521,8 @@ the trees for get passives. It doesn't do so when there is a conjunction in that
   "if a leaf, return an empty seq, if label of node is MD, return that value of the child, otherwise recur on children and gather the results in a list."
   (cond
    (.isLeaf node) []
-   (= "MD" (.value node)) [(.toLowerCase (.value (first (.children node))))]
-   :else (mapcat extract-modals-at-node (.children node))))
+   (= "MD" (.value node)) [(.toLowerCase (.value (.firstChild node)))]
+   :else (mapcat extract-modals-at-node (remove #(= "S" (.value %)) (.children node)))))
 
 (defn extract-modals [parse]
   "returns a list of modals in a parse, resolving contractions into the base form"

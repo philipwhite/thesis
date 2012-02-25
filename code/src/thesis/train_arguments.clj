@@ -15,7 +15,8 @@
    [weka.classifiers.trees RandomForest J48]
    [weka.classifiers.bayes NaiveBayesMultinomial]
    [weka.classifiers.functions MultilayerPerceptron]
-   java.io.File))
+   java.io.File
+   java.lang.Math))
 
 (defn load-all-corpora-deps [L1]
   "return a seq of seqs of seqs of deps of a given L1. (instances->sentences)"
@@ -130,11 +131,12 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
     ds))
 
 (defn train-and-test [dataset]
-  (let [cl (NaiveBayesMultinomial.)]
-    ;(.setNumTrees cl 100)
+  (let [cl (J48.)]
+    ;(.setNumTrees cl 3)
     (println (mlc/classifier-train cl dataset))
-    (println (mlc/classifier-evaluate cl :cross-validation dataset 20))
-    cl))
+    (let [r (mlc/classifier-evaluate cl :cross-validation dataset 20)]
+      (r :evaluation-object))
+    ))
 
 (defn run-arguments-t-test []
   (let [es-freqs (doall
@@ -303,6 +305,7 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
                              [:zero :one :two :three
                               {:L1 [:es :en]}] (.numInstances as-ds))]
     (mld/dataset-set-class num-ds :L1)
+
     (doseq [[inst-as inst-a]
             (partition-all 2 (interleave (mld/dataset-as-maps as-ds) (mld/dataset-as-maps a-ds)))]
       (let [new-inst (mld/make-instance
@@ -347,15 +350,22 @@ argument structures. there are six: s,ao,aio,aoc,p,pc"
   (let [valen (arg->valency as-ds)
         num-lex (arg->num-lex as-ds a-ds)
         lex-role (arg->lex-role as-ds a-ds)
+        comb (arg->lex-num-val as-ds a-ds)
         clv (J48.)
         cln (J48.)
-        cll (J48.)]
+        cll (J48.)
+        cll-rf (RandomForest.)
+        clc-rf (RandomForest.)]
     (mlc/classifier-train clv valen)
-    (spit "../results/c45-val-accuracy.txt" (mlc/classifier-evaluate clv :cross-validation valen 20))
+    (spit "../results/c45-val-accuracy.txt" (tools/cross-validate valen 20 (J48.)))
     (mlc/classifier-train cln num-lex)
-    (spit "../results/c45-num-lex-accuracy.txt" (mlc/classifier-evaluate cln :cross-validation num-lex 20))
+    (spit "../results/c45-num-lex-accuracy.txt" (tools/cross-validate num-lex 20 (J48.)))
     (mlc/classifier-train cll lex-role)
-    (spit "../results/c45-lex-role-accuracy.txt" (mlc/classifier-evaluate cll :cross-validation lex-role 20))
+    (spit "../results/c45-lex-role-accuracy.txt" (tools/cross-validate lex-role 20 (J48.)))
+    (mlc/classifier-train cll-rf lex-role)
+    (spit "../results/rf-lex-role-accuracy.txt" (tools/cross-validate lex-role 20 (RandomForest.)))
+    (mlc/classifier-train clc-rf comb)
+    (spit "../results/rf-combined-arg-accuracy.txt" (tools/cross-validate comb 20 (RandomForest.)))
     (tools/write-dtree clv "../opus/c45-val.dot")
     (tools/write-dtree cln "../opus/c45-num-lex.dot")
     (tools/write-dtree cll "../opus/c45-lex-role.dot")

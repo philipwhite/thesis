@@ -11,54 +11,51 @@ Warning--empty publisher in breiman:2001
 Warning--empty address in breiman:2001
 Warning--empty address in butt
 Warning--empty address in celce-murcia:1999
-Warning--empty publisher in marneffe-et-al:2006
-Warning--empty address in marneffe-et-al:2006
+Warning--empty address in dubois:2003
 Warning--page numbers missing in hall-et-al:2009
 Warning--empty publisher in klein-manning-pcfg:2003
 Warning--empty address in klein-manning-pcfg:2003
-Warning--empty address in moore:1994
 Warning--empty address in quinlan:1993
 Warning--empty address in whitley:1986
-Warning--empty address in weka-book
-You've used 17 entries,
+You've used 15 entries,
             3177 wiz_defined-function locations,
-            825 strings with 8031 characters,
-and the built_in function-call counts, 11326 in all, are:
-= -- 1029
-> -- 622
-< -- 2
-+ -- 182
-- -- 281
-* -- 1000
-:= -- 1920
-add.period$ -- 72
-call.type$ -- 17
-change.case$ -- 114
-chr.to.int$ -- 17
-cite$ -- 33
-duplicate$ -- 365
-empty$ -- 785
-format.name$ -- 365
-if$ -- 2165
+            816 strings with 7759 characters,
+and the built_in function-call counts, 10085 in all, are:
+= -- 921
+> -- 552
+< -- 4
++ -- 161
+- -- 253
+* -- 889
+:= -- 1716
+add.period$ -- 65
+call.type$ -- 15
+change.case$ -- 100
+chr.to.int$ -- 15
+cite$ -- 28
+duplicate$ -- 319
+empty$ -- 693
+format.name$ -- 323
+if$ -- 1923
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 25
-newline$ -- 87
-num.names$ -- 174
-pop$ -- 126
+missing$ -- 20
+newline$ -- 77
+num.names$ -- 156
+pop$ -- 102
 preamble$ -- 1
-purify$ -- 221
+purify$ -- 194
 quote$ -- 0
-skip$ -- 361
+skip$ -- 321
 stack$ -- 0
-substring$ -- 533
-swap$ -- 117
-text.length$ -- 2
+substring$ -- 485
+swap$ -- 108
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 290
-warning$ -- 16
-while$ -- 174
+type$ -- 260
+warning$ -- 13
+while$ -- 162
 width$ -- 0
-write$ -- 229
-(There were 16 warnings)
+write$ -- 204
+(There were 13 warnings)

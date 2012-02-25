@@ -38,17 +38,17 @@
 \newblock Avoidance of phrasal verbs—a case for contrastive analysis.
 \newblock {\em Studies in Second Language Acquisition\/}~{\em 7,\/}~01, 73--79.
 
-\bibitem[\protect\citeauthoryear{de~Marneffe, MacCartney, and
-  Manning}{de~Marneffe et~al\mbox{.}}{2006}]{marneffe-et-al:2006}
-{\sc de~Marneffe, M.-C.}, {\sc MacCartney, B.}, {\sc and} {\sc Manning, C.~D.}
-  2006.
-\newblock Generating typed dependency parses from phrase structure parses.
-\newblock In {\em {LREC} 2006}.
-
 \bibitem[\protect\citeauthoryear{de~Marneffe and Manning}{de~Marneffe and
   Manning}{2008}]{typed-deps-manual}
 {\sc de~Marneffe, M.-C.} {\sc and} {\sc Manning, C.~D.} 2008.
 \newblock {S}tanford typed dependencies manual.
+
+\bibitem[\protect\citeauthoryear{Du~Bois}{Du~Bois}{2003}]{dubois:2003}
+{\sc Du~Bois, J.~W.} 2003.
+\newblock Discourse and grammar.
+\newblock In {\em The New Psychology of Language: Cognitive and Functional
+  Approaches to Language Structure}, {M.~Tomasello}, Ed. Vol.~2. Lawrence
+  Erlbaum Associates, Chapter~2, 47--87.
 
 \bibitem[\protect\citeauthoryear{Hall, Frank, Holmes, Pfahringer, Reutemann,
   and Witten}{Hall et~al\mbox{.}}{2009}]{hall-et-al:2009}
@@ -84,12 +84,6 @@
 \newblock Avoidance of phrasal verbs: The case of chinese learners of english.
 \newblock {\em Language Learning\/}~{\em 54,\/}~2, 193--226.
 
-\bibitem[\protect\citeauthoryear{Moore}{Moore}{1994}]{moore:1994}
-{\sc Moore, A.~W.} 1994.
-\newblock Efficient algorithms for minimizing cross validation error.
-\newblock In {\em Proceedings of the Eleventh International Conference on
-  Machine Learning}. Morgan Kaufmann, 190--198.
-
 \bibitem[\protect\citeauthoryear{Quinlan}{Quinlan}{1993}]{quinlan:1993}
 {\sc Quinlan, J.~R.} 1993.
 \newblock {\em {C4.5}: Programs for Machine Learning}.
@@ -100,12 +94,5 @@
 \newblock {\em {S}panish/{E}nglish Contrasts: A Course in {S}panish
   Linguistics}.
 \newblock Georgetown University Press.
-
-\bibitem[\protect\citeauthoryear{Witten and Frank}{Witten and
-  Frank}{2005}]{weka-book}
-{\sc Witten, I.~H.} {\sc and} {\sc Frank, E.} 2005.
-\newblock {\em Data Mining: Practical Machine Learning Tools and Techniques\/}
-  Second Ed.
-\newblock Morgan Kaufmann.
 
 \end{thebibliography}

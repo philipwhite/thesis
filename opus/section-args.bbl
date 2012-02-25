@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Butt and Benjamin}{Butt and
+  Benjamin}{2004}]{butt}
+{\sc Butt, J.} {\sc and} {\sc Benjamin, C.} 2004.
+\newblock {\em A New Reference Grammar of Modern {S}panish\/} Fourth Ed.
+\newblock McGraw-Hill.
+
 \bibitem[\protect\citeauthoryear{Celce-Murcia and Larsen-Freeman}{Celce-Murcia
   and Larsen-Freeman}{1999}]{celce-murcia:1999}
 {\sc Celce-Murcia, M.} {\sc and} {\sc Larsen-Freeman, D.} 1999.
@@ -10,6 +16,11 @@
   Manning}{2008}]{typed-deps-manual}
 {\sc de~Marneffe, M.-C.} {\sc and} {\sc Manning, C.~D.} 2008.
 \newblock {S}tanford typed dependencies manual.
+
+\bibitem[\protect\citeauthoryear{Du~Bois}{Du~Bois}{1987}]{dubois:1987}
+{\sc Du~Bois, J.~W.} 1987.
+\newblock The discourse basis of ergativity.
+\newblock {\em Language\/}~{\em 63,\/}~4, 805--855.
 
 \bibitem[\protect\citeauthoryear{Du~Bois}{Du~Bois}{2003}]{dubois:2003}
 {\sc Du~Bois, J.~W.} 2003.
