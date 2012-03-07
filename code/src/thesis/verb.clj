@@ -902,86 +902,8 @@
           :form (f N N N Y)}
 
          ;;experimental
-         {:pattern
-          ["VP"
-           ["VBP"
-            ["am"]]
-           ["VP"
-            ["VBG"
-             ["going"]]
-            ["S"
-             ["VP"
-              ["TO"
-               ["to"]]
-              ["VP"
-               ["VB"]]]]]]
-          :depth 6
-          :form (f N N N N)}
-
-         {:pattern
-          ["VP"
-           ["VBZ"
-            ["is"]]
-           ["VP"
-            ["VBG"
-             ["going"]]
-            ["S"
-             ["VP"
-              ["TO"
-               ["to"]]
-              ["VP"
-               ["VB"]]]]]]
-          :depth 6
-          :form (f N N N N)}
-
-         {:pattern
-          ["VP"
-           ["VBP"
-            ["are"]]
-           ["VP"
-            ["VBG"
-             ["going"]]
-            ["S"
-             ["VP"
-              ["TO"
-               ["to"]]
-              ["VP"
-               ["VB"]]]]]]
-          :depth 6
-          :form (f N N N N)}
-
-         {:pattern
-          ["VP"
-           ["VBD"
-            ["were"]]
-           ["VP"
-            ["VBG"
-             ["going"]]
-            ["S"
-             ["VP"
-              ["TO"
-               ["to"]]
-              ["VP"
-               ["VB"]]]]]]
-          :depth 6
-          :form (f Y N N N)}
-
-         {:pattern
-          ["VP"
-           ["VBD"
-            ["was"]]
-           ["VP"
-            ["VBG"
-             ["going"]]
-            ["S"
-             ["VP"
-              ["TO"
-               ["to"]]
-              ["VP"
-               ["VB"]]]]]]
-          :depth 6
-          :form (f Y N N N)}
-
+         
+         
          {:pattern
           ["VP"
            ["VBD"
@@ -994,70 +916,6 @@
           :depth 4
           :form (f N N N N)}
 
-         {:pattern
-          ["VP"
-           ["MD"
-            ["ought"]]
-           ["S"
-            ["VP"
-             ["TO"
-              ["to"]]
-             ["VP"
-              ["VB"]]]]]
-          :depth 5
-          :form (f N N N N)}
-
-         {:pattern
-          ["VP"
-           ["VBD"
-            ["used"]]
-           ["S"
-            ["VP"
-             ["TO"
-              ["to"]]
-             ["VP"
-              ["VB"]]]]]
-          :depth 5
-          :form (f Y N N N)}
-
-         {:pattern
-          ["VP"
-           ["VBP"
-            ["have"]]
-           ["S"
-            ["VP"
-             ["TO"
-              ["to"]]
-             ["VP"
-              ["VB"]]]]]
-          :depth 5
-          :form (f N N N N)}
-
-         {:pattern
-          ["VP"
-           ["VBZ"
-            ["has"]]
-           ["S"
-            ["VP"
-             ["TO"
-              ["to"]]
-             ["VP"
-              ["VB"]]]]]
-          :depth 5
-          :form (f N N N N)}
-
-         {:pattern
-          ["VP"
-           ["VBD"
-            ["had"]]
-           ["S"
-            ["VP"
-             ["TO"
-              ["to"]]
-             ["VP"
-              ["VB"]]]]]
-          :depth 5
-          :form (f Y N N N)}
 
          {:pattern
           ["VP"
@@ -1159,12 +1017,187 @@
               ["VBN"]]]]]
           :depth 5
           :form (f Y N N Y)}
-         ]]
-   
+         ]
+        ;;add some more modals
+        marginal-modals [["VBP" ["need"]] ["VBZ" ["needs"]] ["VBD" ["needed"]]
+                         ["VBP" ["dare"]] ["VBZ" ["dares"]] ["VBD" ["dared"]]
+                         ["MD" ["ought"]] ["VBD" ["used"]]
+                         ["VBP" ["have"]] ["VBZ" ["has"]] ["VBD" ["had"]]]
+        unsorted-patterns
+        (concat unsorted-patterns
+                (for [m marginal-modals]
+                  {:pattern
+                   ["VP"
+                    m
+                    ["S"
+                     ["VP"
+                      ["TO"
+                       ["to"]]
+                      ["VP"
+                       ["VB"]]]]]
+                    :depth 5
+                    :form (f (= (first m) "VBD") N N N)}))
+        
+        ;;add some quasimodals now
+        quasimodal-variants-jj
+        [["JJ" ["able"]] ["JJ" ["due"]]  ["JJ" ["apt"]] ["JJ" ["willing"]]
+         ["JJ" ["obliged"]] ["JJ" ["likely"]]]
+        quasimodal-variants-other
+        [["VBN" ["bound"]] ["IN" ["about"]]  ["VBN" ["supposed"]] 
+         ["VBN" ["meant"]]  ["VBG" ["going"]]]
+        be-tenses [["VBD" ["was"]] ["VBD" ["were"]] ["VBZ" ["is"]]
+                   ["VBP" ["am"]] ["VBP" ["are"]]]
+        unsorted-patterns
+        (concat unsorted-patterns
+                (for [qm quasimodal-variants-jj
+                       be be-tenses]
+                   {:pattern
+                    ["VP"
+                     be
+                     ["ADJP"
+                      qm
+                      ["S"
+                       ["VP"
+                        ["TO"
+                         ["to"]]
+                        ["VP"
+                         ["VB"]]]]]]
+                    :depth 6
+                    :form (f (= (first be) "VBD") N N N)})
+                (for [qm quasimodal-variants-jj]
+                   {:pattern
+                    ["VP"
+                     ["MD"]
+                     ["VP"
+                      ["VB"
+                       ["be"]]
+                      ["ADJP"
+                       qm
+                       ["S"
+                        ["VP"
+                         ["TO"
+                          ["to"]]
+                         ["VP"
+                          ["VB"]]]]]]]
+                    :depth 7
+                    :form (f N N N N)})
+                (for [qm quasimodal-variants-other
+                       be be-tenses]
+                   {:pattern
+                    ["VP"
+                     be
+                     ["VP"
+                      qm
+                      ["S"
+                       ["VP"
+                        ["TO"
+                         ["to"]]
+                        ["VP"
+                         ["VB"]]]]]]
+                    :depth 6
+                    :form (f (= (first be) "VBD") N N N)})
+                (for [qm quasimodal-variants-other
+                       be be-tenses]
+                   {:pattern
+                    ["VP"
+                     ["MD"]
+                     ["VP"
+                      ["VB"
+                       ["be"]]
+                      ["VP"
+                       qm
+                       ["S"
+                        ["VP"
+                         ["TO"
+                          ["to"]]
+                         ["VP"
+                          ["VB"]]]]]]]
+                    :depth 7
+                    :form (f N N N N)}))]
+    
     ;;now sort from deepest to shallowest. this is so as to match
   ;;complex patterns first, since many of the complex ones
   ;;contain the simple one
     (reverse (sort-by :depth unsorted-patterns))))
+
+(comment
+           {:pattern
+           ["VP"
+            ["MD"
+             ["ought"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]
+           :depth 5
+           :form (f N N N N)}
+
+          {:pattern
+           ["VP"
+            ["VBP"
+             ["need"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]
+           :depth 5
+           :form (f N N N N)}
+
+          {:pattern
+           ["VP"
+            ["VBD"
+             ["used"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]
+           :depth 5
+           :form (f Y N N N)}
+
+          {:pattern
+           ["VP"
+            ["VBP"
+             ["have"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]
+           :depth 5
+           :form (f N N N N)}
+
+          {:pattern
+           ["VP"
+            ["VBZ"
+             ["has"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]
+           :depth 5
+           :form (f N N N N)}
+
+          {:pattern
+           ["VP"
+            ["VBD"
+             ["had"]]
+            ["S"
+             ["VP"
+              ["TO"
+               ["to"]]
+              ["VP"
+               ["VB"]]]]]
+           :depth 5
+           :form (f Y N N N)})
 
 (def *all-tense-aspect-names*
   ;"this includes many tense-aspects that simply don't exist"
@@ -1394,22 +1427,24 @@ first the quasimodal and then the true core verb"
   (let [core-verbs (map string/lower-case core-verbs)]
     (cond
      (some #(= % (take 3 core-verbs))
-           [["am" "going" "to"]
-            ["are" "going" "to"]
-            ["is" "going" "to"]
-            ["was" "going" "to"]
-            ["were" "going" "to"]
-            ["have" "got" "to"]
-            ["has" "got" "to"]
-            ["had" "got" "to"]])
+           (concat
+            (for [be ["am" "are" "is" "was" "were" "be"]
+                  qm [["going" "to"] ["able" "to"] ["about" "to"] ["apt" "to"]
+                      ["bound" "to"] ["due" "to"] ["likely" "to"] ["meant" "to"]
+                      ["obliged" "to"] ["supposed" "to"] ["willing" "to"]]]
+              (into (vector be) qm))
+            [["have" "got" "to"]
+             ["has" "got" "to"]
+             ["had" "got" "to"]]))
      [(take 3 core-verbs) (drop 3 core-verbs)]
      (some #(= % (take 2 core-verbs))
-           [["have" "to"]
-            ["has" "to"]
-            ["had" "to"]
+           [["have" "to"] ["has" "to"] ["had" "to"]
             ["ought" "to"]
             ["had" "better"]
-            ["used" "to"]])
+            ["used" "to"]
+            ["need" "to"] ["needs" "to"] ["needed" "to"]
+            ["dare" "to"] ["dares" "to"] ["dared" "to"]
+            ])
      [(take 2 core-verbs) (drop 2 core-verbs)]
      :else [() core-verbs])))
 
@@ -1445,24 +1480,8 @@ the trees for get passives. It doesn't do so when there is a conjunction in that
 
 
 
-(comment
-  (defn match-and-extract-verb [parse pattern]
-   "if the parse matches the pattern, returns a dictionary with grammatical information. Last item in the sequence will be the verb. If the first item is a sequence, it is a list of modal, the rest of the items will be aux verbs"
-   ;;first do depth check
-   (let [dparse (.depth parse)
-         dpattern (:depth pattern)]
-     (cond
-      (< dparse dpattern) nil           ;can't possibly match
-     
-      (>= dparse dpattern) ;may match here or somewhere deeper in parse
-      (if-let [verb (match-branch parse (:pattern pattern))]
-        (into (:form pattern)
-              {:verb verb
-               :modal (extract-modals parse)})
-        (some #(match-and-extract-verb % pattern)
-              (.children parse)))))))
 
-;;experimental
+
 ;;will not recur into subtrees headed by 'S'
 (defn match-and-extract-verb [parse pattern]
   "if the parse matches the pattern, returns a dictionary with grammatical information. Last item in the sequence will be the verb. If the first item is a sequence, it is a list of modal, the rest of the items will be aux verbs"
@@ -1533,27 +1552,48 @@ the trees for get passives. It doesn't do so when there is a conjunction in that
        (extract-modals-at-node parse)))
 
 ;;;HIGH-FREQUENCY VERBS
-(def *high-freq-verbs*
-  ["have" "go" "take" "do" "say" "look" "know" "see" "give"
-   "think" "come" "find" "get" "make" "use"])
+(comment (def *high-freq-verbs*
+   ["have" "go" "take" "do" "say" "look" "know" "see" "give"
+    "think" "come" "find" "get" "make" "use"]))
+
+(comment [["comes" "came"] "come"
+         ["does" "did" "done"] "do"
+         ["finds" "found"] "found"
+         ["gets" "got" "gotten"] "get"
+         ["gives" "gave" "given"] "give"
+         ["goes" "went" "gone"] "go"
+         ["has" "had"] "have"
+         ["knows" "knew" "known"] "know"
+         ["looks" "looked"] "look"
+         ["makes" "made"] "make"
+         ["says" "said"] "say"
+         ["sees" "saw" "seen"] "see"
+         ["takes" "took" "taken"] "take"
+         ["thinks" "thought"] "think"
+         ["uses" "used"] "use"])
 
 (def *high-freq-verb-inflections-map*
   (let [inflections
-        [["has" "had"] "have"
-         ["goes" "went" "gone"] "go"
-         ["takes" "took" "taken"] "take"
-         ["does" "did" "done"] "do"
-         ["says" "said"] "say"
-         ["looks" "looked"] "look"
-         ["knows" "knew" "known"] "know"
-         ["sees" "saw" "seen"] "see"
-         ["gives" "gave" "given"] "give"
-         ["thinks" "thought"] "think"
-         ["comes" "came"] "come"
-         ["finds" "found"] "found"
-         ["gets" "got" "gotten"] "get"
-         ["makes" "made"] "make"
-         ["uses" "used"] "use"]]
+        [["makes" "made" "making"] "make"
+         ["uses" "used" "using"] "use"
+         ["takes" "took" "taken" "taking"] "take"
+         ["sees" "saw" "seen" "seeing"] "see"
+         ["says" "said" "saying"] "say"
+         ["goes" "went" "gone" "going"] "go"
+         ["becomes" "became"] "become"
+         ["believes" "believed" "believing"] "believe"
+         ["gives" "gave" "given" "giving"] "give"
+         ["feels" "felt" "feeling"] "feel"
+         ["comes" "came" "coming"] "come"
+         ["finds" "found" "finding"] "find"
+         ["thinks" "thought" "thinking"] "think"
+         ["knows" "knew" "known" "knowing"] "know"
+         ["looks" "looked" "looking"] "look"
+         ["seems" "seemed" "seeming"] "seem"
+         ["wants" "wanted" "wanting"] "want"
+         ["gets" "got" "gotten" "getting"] "get"
+         ["lives" "lived" "living"] "live"
+         ["works" "worked" "working"] "work"]]
     ;;now convert those into maps, with multiple keys (the inflections)
     ;;referring to the same value (the base form)
     (apply merge
@@ -1561,6 +1601,8 @@ the trees for get passives. It doesn't do so when there is a conjunction in that
                   (for [[infls base] (partition 2 inflections)]
                     (for [infl infls]
                       {infl base}))))))
+
+(def *high-freq-verbs* (vec (distinct (vals *high-freq-verb-inflections-map*))))
 
 (defn high-freq-verb-base-form [form]
   "either returns the base form, or nil if it's not in the list"

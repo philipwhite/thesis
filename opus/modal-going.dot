@@ -1,0 +1,37 @@
+graph Tree {
+splines=false
+margin=0
+N1 [label="S" shape=plaintext fontsize=20]
+N2 [label="NP" shape=plaintext fontsize=20]
+N1--N2
+N3 [label="PRP" shape=plaintext fontsize=20]
+N2--N3
+N4 [label="He" shape=plaintext fontsize=20]
+N3--N4
+N5 [label="VP" shape=plaintext fontsize=20]
+N1--N5
+N6 [label="VBZ" shape=plaintext fontsize=20]
+N5--N6
+N7 [label="is" shape=plaintext fontsize=20]
+N6--N7
+N8 [label="VP" shape=plaintext fontsize=20]
+N5--N8
+N9 [label="VBG" shape=plaintext fontsize=20]
+N8--N9
+N10 [label="going" shape=plaintext fontsize=20]
+N9--N10
+N11 [label="S" shape=plaintext fontsize=20]
+N8--N11
+N12 [label="VP" shape=plaintext fontsize=20]
+N11--N12
+N13 [label="TO" shape=plaintext fontsize=20]
+N12--N13
+N14 [label="to" shape=plaintext fontsize=20]
+N13--N14
+N15 [label="VP" shape=plaintext fontsize=20]
+N12--N15
+N16 [label="VB" shape=plaintext fontsize=20]
+N15--N16
+N17 [label="go" shape=plaintext fontsize=20]
+N16--N17
+}

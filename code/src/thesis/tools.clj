@@ -1,13 +1,15 @@
 (ns thesis.tools
   (:require
-   [clojure.string :as string])
+   [clojure.string :as string]
+   [clj-ml.classifiers :as mlc])
   (:import
    java.lang.Character
    java.text.DecimalFormat
    java.util.Random
    java.lang.Math
    weka.core.Instances
-   weka.classifiers.Classifier))
+   weka.classifiers.Classifier
+   weka.classifiers.trees.J48))
 
 (defn =any? [many one]
   "returns true if one = any of the items in the seq many"
@@ -24,6 +26,7 @@
 (defn- fix-dotty [dotstr]
   "replaces <= with a better symbol"
   (let [dotstr (-> dotstr
+                   (string/replace-first "\n" "\nmargin=0\n")
                    (string/replace  "<=" " \u2264")
                    (string/replace  "\">" "\" >")
                    (string/replace ".0/" "/")
@@ -38,6 +41,13 @@
 
 (defn write-dtree [classifier path]
   (spit path (fix-dotty (.graph classifier))))
+
+(defn write-classifier-dtree [dataset path]
+  (let [cl (J48.)]
+    (.setConfidenceFactor cl 0.0065)
+    (mlc/classifier-train cl dataset)
+    (write-dtree cl path)))
+
 
 (defn cv-conf-interval [cv-results]
   (let [corrects (map (fn [[a b]] (if (== a b) 1 0)) cv-results)]

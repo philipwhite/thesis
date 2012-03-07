@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  5 MAR 2012 10:07
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  5 MAR 2012 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\input section-args.tex
-(./section-args.tex
+**\input section-verbs.tex
+(./section-verbs.tex
 (/Users/philip/Library/texmf/tex/latex/subfiles/subfiles.cls
 Document Class: subfiles 2002/06/08 Federico Garcia
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/verbatim.sty
@@ -565,8 +565,8 @@ loaded))
 (/usr/local/texlive/2011/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )))
-(./section-args.aux)
-\openout1 = `section-args.aux'.
+(./section-verbs.aux)
+\openout1 = `section-verbs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -709,56 +709,99 @@ e
 Package xypdf Info: Line width: 0.47998pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+[1
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
-<xymatrix 8x1 246> <xymatrix 10x1 368> <xymatrix 10x1 466> <xymatrix 9x1 356>
-<xymatrix 7x1 242> <xymatrix 7x1 242>
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
- [1
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4]
-<c45-val.pdf, id=23, 205.76875pt x 224.84pt>
-File: c45-val.pdf Graphic file (type pdf)
- <use c45-val.pdf>
-Package pdftex.def Info: c45-val.pdf used on input line 167.
-(pdftex.def)             Requested size: 108.405pt x 118.45102pt.
- [5 <./c45-val.pdf>] <c45-num-lex.pdf, id=45, 265.99374pt x 315.1775pt>
-File: c45-num-lex.pdf Graphic file (type pdf)
- <use c45-num-lex.pdf>
-Package pdftex.def Info: c45-num-lex.pdf used on input line 190.
-(pdftex.def)             Requested size: 144.54pt x 171.27057pt.
+[2] <verb-parse.pdf, id=12, 387.4475pt x 550.055pt>
+File: verb-parse.pdf Graphic file (type pdf)
+ <use verb-parse.pdf>
+Package pdftex.def Info: verb-parse.pdf used on input line 56.
+(pdftex.def)             Requested size: 232.47029pt x 330.03554pt.
 
-[6] [7 <./c45-num-lex.pdf>] <c45-lex-role.pdf, id=71, 576.1525pt x 766.865pt>
-File: c45-lex-role.pdf Graphic file (type pdf)
+<modal-parse.pdf, id=13, 206.7725pt x 333.245pt>
+File: modal-parse.pdf Graphic file (type pdf)
+ <use modal-parse.pdf>
+Package pdftex.def Info: modal-parse.pdf used on input line 64.
+(pdftex.def)             Requested size: 124.06445pt x 199.94853pt.
+ [3]
+[4 <./verb-parse.pdf> <./modal-parse.pdf>]
+<modal-able.pdf, id=44, 319.1925pt x 550.055pt>
+File: modal-able.pdf Graphic file (type pdf)
+ <use modal-able.pdf>
+Package pdftex.def Info: modal-able.pdf used on input line 78.
+(pdftex.def)             Requested size: 191.51697pt x 330.03554pt.
 
-<use c45-lex-role.pdf>
-Package pdftex.def Info: c45-lex-role.pdf used on input line 213.
-(pdftex.def)             Requested size: 289.07999pt x 384.77722pt.
- [8] [9 <./c45-lex-role.pdf>] [10] (./section-args.bbl)
-[11] (./section-args.aux) ) 
+Overfull \hbox (0.28429pt too wide) in paragraph at lines 75--82
+\OT1/ptm/m/n/12 The phrasal modals when fronted pro-duce ques-tion-able sen-ten
+ces. The non-phrasal modals,
+ []
+
+<modal-going.pdf, id=45, 320.19624pt x 550.055pt>
+File: modal-going.pdf Graphic file (type pdf)
+ <use modal-going.pdf>
+Package pdftex.def Info: modal-going.pdf used on input line 85.
+(pdftex.def)             Requested size: 192.11922pt x 330.03554pt.
+
+<conj-verb.pdf, id=46, 435.6275pt x 405.515pt>
+File: conj-verb.pdf Graphic file (type pdf)
+ <use conj-verb.pdf>
+Package pdftex.def Info: conj-verb.pdf used on input line 95.
+(pdftex.def)             Requested size: 261.37851pt x 243.31087pt.
+ [5] [6 <./modal-able.pdf>] [7 <./modal-going.pdf>]
+<conj-verb-ab.pdf, id=81, 436.63126pt x 333.245pt>
+File: conj-verb-ab.pdf Graphic file (type pdf)
+ <use conj-verb-ab.pdf>
+Package pdftex.def Info: conj-verb-ab.pdf used on input line 102.
+(pdftex.def)             Requested size: 261.98077pt x 199.94853pt.
+
+[8 <./conj-verb.pdf>]
+<unpruned-basic-verb-tree.pdf, id=97, 1023.825pt x 947.54pt>
+File: unpruned-basic-verb-tree.pdf Graphic file (type pdf)
+
+<use unpruned-basic-verb-tree.pdf>
+Package pdftex.def Info: unpruned-basic-verb-tree.pdf used on input line 114.
+(pdftex.def)             Requested size: 433.62pt x 401.30394pt.
+
+<pruned-basic-verb-tree.pdf, id=98, 536.0025pt x 694.595pt>
+File: pruned-basic-verb-tree.pdf Graphic file (type pdf)
+
+<use pruned-basic-verb-tree.pdf>
+Package pdftex.def Info: pruned-basic-verb-tree.pdf used on input line 136.
+(pdftex.def)             Requested size: 289.07999pt x 374.60938pt.
+ [9 <./conj-verb-ab.pdf>] [10 <./unpruned-basic-verb-tree.pdf>] [11 <./pruned-b
+asic-verb-tree.pdf>] [12] [13] [14]
+<modal-phrasal-tree.pdf, id=167, 528.97626pt x 405.515pt>
+File: modal-phrasal-tree.pdf Graphic file (type pdf)
+
+<use modal-phrasal-tree.pdf>
+Package pdftex.def Info: modal-phrasal-tree.pdf used on input line 235.
+(pdftex.def)             Requested size: 289.07999pt x 221.61076pt.
+ [15] [16 <./modal-phrasal-tree.pdf>] [17] [18]
+(./section-verbs.bbl) [19] (./section-verbs.aux) ) 
 Here is how much of TeX's memory you used:
- 7678 strings out of 493633
- 106084 string characters out of 3143378
- 234479 words of memory out of 3000000
- 10789 multiletter control sequences out of 15000+200000
- 28471 words of font info for 64 fonts, out of 3000000 for 9000
+ 7692 strings out of 493633
+ 106983 string characters out of 3143378
+ 224604 words of memory out of 3000000
+ 10796 multiletter control sequences out of 15000+200000
+ 30662 words of font info for 67 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,20n,40p,3294b,563s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/
-base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></us
-r/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/te
-xlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local/texlive/201
-1/texmf-dist/fonts/type1/public/xypic/xyatip10.pfb></usr/local/texlive/2011/tex
-mf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on section-args.pdf (11 pages, 148595 bytes).
+ 51i,14n,40p,3295b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texm
+f-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
+/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times
+/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.p
+fb>
+Output written on section-verbs.pdf (19 pages, 234587 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
+ 223 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

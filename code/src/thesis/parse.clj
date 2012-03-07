@@ -7,7 +7,18 @@
     edu.stanford.nlp.trees.EnglishGrammaticalStructure
     com.chaoticity.dependensee.Main
     javax.swing.JFrame
-    clojure.lang.ASeq)
+    clojure.lang.ASeq
+    java.awt.image.BufferedImage
+    java.awt.Graphics
+    javax.imageio.ImageIO
+    java.io.File
+    java.awt.Color
+    com.lowagie.text.Document
+    com.lowagie.text.pdf.PdfWriter
+    java.io.FileOutputStream
+    com.lowagie.text.pdf.PdfContentByte
+    com.lowagie.text.pdf.PdfTemplate
+    java.awt.Graphics2D)
   
   (:require
     [clojure.string :as str]
@@ -102,9 +113,65 @@
   (if-not (string? (first s))
     (cons (first s) (remove nil? (map deleafed-seq (rest s))))))
 
+(defn export-parse [text path width height]
+  (let [p (.apply *parser* text)
+        panel (TreeJPanel.)
+        bi (BufferedImage. width height BufferedImage/TYPE_INT_ARGB)
+        g (.createGraphics bi)
+        frame (JFrame. "Tree")]
+    (.setTree panel p)
+    (.setBackground panel Color/white)
+    (doto frame
+      (.setSize width height)
+      (.setDefaultCloseOperation JFrame/DISPOSE_ON_CLOSE)
+      (.setContentPane panel)
+      ;(.pack)
+      (.setVisible true))
+    (.paint panel g)
+    (.dispose g)
+    (ImageIO/write bi "bmp" (File. path))
+    ))
+                                        ;(.dispose frame)
+
+(comment (defn export-parse [text path width height]
+   (let [doc (Document.)
+         pdf-writer (PdfWriter/getInstance doc (FileOutputStream. path))
+         p (.apply *parser* text)
+         panel (TreeJPanel.)
+         frame (JFrame. "Tree")]
+     (.open doc)
+     (let [cb (.getDirectContent pdf-writer)
+           tp (.createTemplate cb width height)
+           g2 (.createGraphics tp width height)]
+       (.setTree panel p)
+       (.setBackground panel Color/white)
+       (doto frame
+         (.setSize 640 480)
+         (.setDefaultCloseOperation JFrame/DISPOSE_ON_CLOSE)
+         (.setContentPane panel)
+         (.setVisible true))
+       (.print panel g2)
+       (.dispose g2)
+       (.addTemplate cb tp 0 0)
+       (.dispose frame)
+       (.close doc)))))
 
 
+(defn parse->dot-2 [node root trim-punct]
+  (if (and trim-punct (some #(= (.value node) %) ["," "." ";" ":" "!" "?"]))
+    ""
+    (str
+     (str "N" (.nodeNumber node root) " [label=\"" (.value node) "\" shape=plaintext fontsize=20]\n")
+     (if-let [parent (.parent node root)]
+       (str "N" (.nodeNumber parent root) "--N" (.nodeNumber node root) "\n")))))
 
-
-
-
+(defn parse->dot [text path trim-punct]
+  "writes a dot file of the parse of the string in text"
+  (let [parse (if (string? text)
+                (.apply *parser* text)
+                text)]
+    (spit path
+     (apply str
+            (concat ["graph Tree {\nsplines=false\nmargin=0\n"]
+                    (map #(parse->dot-2 % (.firstChild parse) trim-punct) (.firstChild parse))
+                    ["}"])))))

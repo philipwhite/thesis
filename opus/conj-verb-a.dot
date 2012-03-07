@@ -1,0 +1,21 @@
+graph Tree {
+splines=false
+margin=0
+N2 [label="VP" shape=plaintext fontsize=20]
+N3 [label="MD" shape=plaintext fontsize=20]
+N2--N3
+N4 [label="can" shape=plaintext fontsize=20]
+N3--N4
+N5 [label="VP" shape=plaintext fontsize=20]
+N2--N5
+N6 [label="VB" shape=plaintext fontsize=20]
+N5--N6
+N7 [label="design" shape=plaintext fontsize=20]
+N6--N7
+N8 [label="NP" shape=plaintext fontsize=20]
+N5--N8
+N9 [label="NNS" shape=plaintext fontsize=20]
+N8--N9
+N10 [label="houses" shape=plaintext fontsize=20]
+N9--N10
+}
