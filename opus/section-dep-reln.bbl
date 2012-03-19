@@ -38,6 +38,12 @@
 {\sc de~Marneffe, M.-C.} {\sc and} {\sc Manning, C.~D.} 2008.
 \newblock {S}tanford typed dependencies manual.
 
+\bibitem[\protect\citeauthoryear{Hinkel}{Hinkel}{2003}]{hinkel:2003}
+{\sc Hinkel, E.} 2003.
+\newblock Simplicity without elegance: Features of sentences in l1 and l2
+  academic texts.
+\newblock {\em TESOL Quarterly\/}~{\em 37,\/}~2, 275--301.
+
 \bibitem[\protect\citeauthoryear{Hulstijn and Marchena}{Hulstijn and
   Marchena}{1989}]{hulstijn:1989}
 {\sc Hulstijn, J.~H.} {\sc and} {\sc Marchena, E.} 1989.
@@ -57,6 +63,13 @@
 {\sc Liao, Y.} {\sc and} {\sc Fukuya, Y.~J.} 2004.
 \newblock Avoidance of phrasal verbs: The case of chinese learners of english.
 \newblock {\em Language Learning\/}~{\em 54,\/}~2, 193--226.
+
+\bibitem[\protect\citeauthoryear{Quirk, Greenbaum, Leech, and Svartvik}{Quirk
+  et~al\mbox{.}}{1985}]{quirk:1985}
+{\sc Quirk, R.}, {\sc Greenbaum, S.}, {\sc Leech, G.}, {\sc and} {\sc Svartvik,
+  J.} 1985.
+\newblock {\em A Comprehensive Grammar of the English Language}.
+\newblock Longman.
 
 \bibitem[\protect\citeauthoryear{Whitley}{Whitley}{1986}]{whitley:1986}
 {\sc Whitley, M.~S.} 1986.

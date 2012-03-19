@@ -1,39 +1,42 @@
 \documentclass[12pt]{article}
 \usepackage{easylist}
+\usepackage{setspace}
 \ListProperties(Progressive=0.25in)
+\newcommand{\nb}[1]{\scriptsize \bfseries #1}
 \begin{document}
-
+\doublespacing
 \begin{easylist}
-§ Introduction
-§ Literature Review
-§ Introduction to Corpora
+§ Introduction \nb{Not Begun}
+§ Literature Review \nb{Not Begun}
+§§ Discuss where others have used automated systems to analyze text.
+§§ grammar checkers, Microsoft Research's project for English Learners, etc.
+§ Introduction to Corpora \nb{Draft Finished}
 §§ List corpora, size, organization, etc.
 §§ Give statistics for native and non-native instances
-§ Overview of Tests and Classification
-§§ Use of the Stanford Parser for parsing and dependencies
+§ Overview of the Experiment Format and the Technologies Used \nb{Partly Done}
+§§ Use of the Stanford Parser for parsing and dependencies \nb{Partly Done}
 §§§ Stanford Parser
 §§§ Stanford Typed Dependencies
-§§ The Tests
+§§ Use of Weka for classification \nb{Largely Done}
+§§§ C4.5 Classifier \nb{Draft Finished}
+§§§ RandomForest Classifier \nb{Not Begun}
+§§ The Experiment Format \nb{Not Begun}
 §§§ The project consists of a suite of tests
 §§§ Each test concerns a particular grammatical point
 §§§ Each test operates on the output from the Stanford parser and generates training or testing cases for the Weka classifier.
-§§§ The cases consist of one or (usually) more attributes with continuous values
-§§§ The values are generally relative frequencies (number of occurrences of that particular grammatical feature divided by the number of occurrences of all grammatical features considered in that test).
-§§ Use of Weka for classification
-§§§ C4.5 Classifier
-§§§ RandomForest Classifier
-§§ Use of Clojure
-§ Classification Method 1 - Grammatical Relations
-§§ Intro to method 1
-§§ Detailed explanation of CS side
+§§§ The cases consist of one or (usually) more attributes with continuous values.
+§§§ The values are generally relative frequencies.
+§ Experiment 1 -- Grammatical Relations \nb{Partly Done}
+§§ The attributed described.
+§§ Explanation of how the attributes are gathered.
 §§ Show results
-§§ Attempt to identify the most informative features and explain these linguistically
-§ Classification Method 2
-§ Classification Method 3
-§ ...
-§ Comparative Discussion of classification methods
-§ Future avenues of research, applications
-§ Conclusion
+§§ Analyze results linguistically.
+§ Experiment 2 -- Verbal Arguments \nb{Draft Finished}
+§§ \ldots
+§ Experiment 3 -- Verb Forms \nb{Draft Finished}
+§§ \ldots
+§ These experiments as the basis of a learner's tool. \nb{Partly Done}
+§ Conclusion \nb{Not Begun}
 \end{easylist}
 
 \end{document}

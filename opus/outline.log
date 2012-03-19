@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  20 NOV 2011 13:00
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  15 MAR 2012 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -42,97 +42,113 @@ Package: easylist 2010/02/28 v.1.3 Numbered items with a single command.
 \el@TotalMargin=\dimen104
 \el@LeftMove=\dimen105
 )
-(./outline.aux)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (./outline.aux)
 \openout1 = `outline.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no Â in font cmr12!
 Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
-Missing character: There is no Â in font cmr12!
- [1
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./outl
-ine.aux) ) 
+Overfull \hbox (1.59106pt too wide) in paragraph at lines 12--13
+[] []\OT1/cmr/m/n/12 grammar check-ers, Mi-crosoft Re-search's project for En-g
+lish Learn-
+ []
+
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+[1
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmbx8!
+Missing character: There is no Â in font cmr12!
+Missing character: There is no Â in font cmbx8!
+
+[2] (./outline.aux) ) 
 Here is how much of TeX's memory you used:
- 574 strings out of 493633
- 5923 string characters out of 3143378
- 58443 words of memory out of 3000000
- 3953 multiletter control sequences out of 15000+200000
- 4298 words of font info for 16 fonts, out of 3000000 for 9000
+ 614 strings out of 493633
+ 6590 string characters out of 3143378
+ 57701 words of memory out of 3000000
+ 3987 multiletter control sequences out of 15000+200000
+ 4906 words of font info for 18 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 22i,4n,19p,238b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r12.pfb>
-Output written on outline.pdf (1 page, 20274 bytes).
+ 22i,5n,19p,166b,144s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb>
+Output written on outline.pdf (2 pages, 31668 bytes).
 PDF statistics:
- 12 PDF objects out of 1000 (max. 8388607)
- 7 compressed objects within 1 object stream
+ 19 PDF objects out of 1000 (max. 8388607)
+ 12 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

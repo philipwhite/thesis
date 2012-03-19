@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  3 MAR 2012 15:58
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  13 MAR 2012 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -555,22 +555,28 @@ loaded))
 \c@enumsi=\count124
 \eeindent=\dimen186
 )
+(/usr/local/texlive/2011/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen187
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 44.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -605,13 +611,13 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
-\scratchdimen=\dimen187
+\scratchdimen=\dimen188
 \scratchbox=\box34
 \nofMPsegments=\count127
 \nofMParguments=\count128
 \everyMPshowfont=\toks33
 \MPscratchCnt=\count129
-\MPscratchDim=\dimen188
+\MPscratchDim=\dimen189
 \MPnumerator=\count130
 \makeMPintoPDFobject=\count131
 \everyMPtoPDFconversion=\toks34
@@ -658,8 +664,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\Gin@req@height=\dimen189
-\Gin@req@width=\dimen190
+\Gin@req@height=\dimen190
+\Gin@req@width=\dimen191
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -695,7 +701,7 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package xypdf Info: Line width: 0.47998pt on input line 42.
+Package xypdf Info: Line width: 0.47998pt on input line 44.
 (./section-corpora.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
@@ -737,30 +743,30 @@ Overfull \hbox (44.153pt too wide) in paragraph at lines 296--297
 [15]) (./section-args.tex [16] <xymatrix 8x1 246> <xymatrix 10x1 368>
 <xymatrix 10x1 466> <xymatrix 9x1 356> <xymatrix 7x1 242> <xymatrix 7x1 242>
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
 
 [17] [18] [19] [20] <c45-val.pdf, id=101, 205.76875pt x 224.84pt>
 File: c45-val.pdf Graphic file (type pdf)
 
 <use c45-val.pdf>
-Package pdftex.def Info: c45-val.pdf used on input line 168.
+Package pdftex.def Info: c45-val.pdf used on input line 167.
 (pdftex.def)             Requested size: 108.405pt x 118.45102pt.
  [21 <./c45-val.pdf>]
 <c45-num-lex.pdf, id=123, 265.99374pt x 315.1775pt>
 File: c45-num-lex.pdf Graphic file (type pdf)
  <use c45-num-lex.pdf>
-Package pdftex.def Info: c45-num-lex.pdf used on input line 191.
+Package pdftex.def Info: c45-num-lex.pdf used on input line 190.
 (pdftex.def)             Requested size: 144.54pt x 171.27057pt.
 
 
 Package natbib Warning: Citation `dubois:1987' on page 22 undefined on input li
-ne 210.
+ne 209.
 
 [22 <./c45-num-lex.pdf>] [23]
 <c45-lex-role.pdf, id=148, 576.1525pt x 766.865pt>
 File: c45-lex-role.pdf Graphic file (type pdf)
  <use c45-lex-role.pdf>
-Package pdftex.def Info: c45-lex-role.pdf used on input line 214.
+Package pdftex.def Info: c45-lex-role.pdf used on input line 213.
 (pdftex.def)             Requested size: 289.07999pt x 384.77722pt.
 
 [24 <./c45-lex-role.pdf>] [25] [26]) (./section-verbs.tex [27]
@@ -768,81 +774,111 @@ Package pdftex.def Info: c45-lex-role.pdf used on input line 214.
 Package natbib Warning: Citation `quirk:1985' on page 28 undefined on input lin
 e 30.
 
+
+Package natbib Warning: Citation `quirk:1985' on page 28 undefined on input lin
+e 30.
+
 [28] <verb-parse.pdf, id=184, 387.4475pt x 550.055pt>
 File: verb-parse.pdf Graphic file (type pdf)
  <use verb-parse.pdf>
-Package pdftex.def Info: verb-parse.pdf used on input line 55.
+Package pdftex.def Info: verb-parse.pdf used on input line 56.
 (pdftex.def)             Requested size: 232.47029pt x 330.03554pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 <modal-parse.pdf, id=185, 206.7725pt x 333.245pt>
 File: modal-parse.pdf Graphic file (type pdf)
  <use modal-parse.pdf>
-Package pdftex.def Info: modal-parse.pdf used on input line 63.
+Package pdftex.def Info: modal-parse.pdf used on input line 64.
 (pdftex.def)             Requested size: 124.06445pt x 199.94853pt.
 
 
 Package natbib Warning: Citation `quirk:1985' on page 29 undefined on input lin
-e 67.
+e 68.
 
+[29] [30 <./verb-parse.pdf> <./modal-parse.pdf>]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package natbib Warning: Citation `quirk:1985' on page 31 undefined on input lin
+e 74.
 
-[29]
-
-Package natbib Warning: Citation `quirk:1985' on page 30 undefined on input lin
-e 73.
-
-<modal-able.pdf, id=189, 319.1925pt x 550.055pt>
+<modal-able.pdf, id=216, 319.1925pt x 550.055pt>
 File: modal-able.pdf Graphic file (type pdf)
  <use modal-able.pdf>
-Package pdftex.def Info: modal-able.pdf used on input line 77.
+Package pdftex.def Info: modal-able.pdf used on input line 78.
 (pdftex.def)             Requested size: 191.51697pt x 330.03554pt.
- [30 <./verb-parse.pdf>]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (0.28429pt too wide) in paragraph at lines 75--82
+\OT1/ptm/m/n/12 The phrasal modals when fronted pro-duce ques-tion-able sen-ten
+ces. The non-phrasal modals,
+ []
 
-<modal-going.pdf, id=205, 320.19624pt x 550.055pt>
+<modal-going.pdf, id=217, 320.19624pt x 550.055pt>
 File: modal-going.pdf Graphic file (type pdf)
  <use modal-going.pdf>
-Package pdftex.def Info: modal-going.pdf used on input line 84.
+Package pdftex.def Info: modal-going.pdf used on input line 85.
 (pdftex.def)             Requested size: 192.11922pt x 330.03554pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<conj-verb.pdf, id=206, 435.6275pt x 405.515pt>
+<conj-verb.pdf, id=218, 435.6275pt x 405.515pt>
 File: conj-verb.pdf Graphic file (type pdf)
  <use conj-verb.pdf>
-Package pdftex.def Info: conj-verb.pdf used on input line 94.
+Package pdftex.def Info: conj-verb.pdf used on input line 95.
 (pdftex.def)             Requested size: 261.37851pt x 243.31087pt.
- [31 <./modal-parse.pdf>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<conj-verb-ab.pdf, id=223, 436.63126pt x 333.245pt>
+ [31]
+[32 <./modal-able.pdf>] [33 <./modal-going.pdf>]
+<conj-verb-ab.pdf, id=253, 436.63126pt x 333.245pt>
 File: conj-verb-ab.pdf Graphic file (type pdf)
  <use conj-verb-ab.pdf>
-Package pdftex.def Info: conj-verb-ab.pdf used on input line 101.
+Package pdftex.def Info: conj-verb-ab.pdf used on input line 102.
 (pdftex.def)             Requested size: 261.98077pt x 199.94853pt.
 
+[34 <./conj-verb.pdf>]
+<unpruned-basic-verb-tree.pdf, id=269, 1023.825pt x 947.54pt>
+File: unpruned-basic-verb-tree.pdf Graphic file (type pdf)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use unpruned-basic-verb-tree.pdf>
+Package pdftex.def Info: unpruned-basic-verb-tree.pdf used on input line 114.
+(pdftex.def)             Requested size: 433.62pt x 401.30394pt.
 
-[32 <./modal-able.pdf>] [33 <./modal-going.pdf>] [34 <./conj-verb.pdf>])
-(./main.bbl [35 <./conj-verb-ab.pdf>])
+<pruned-basic-verb-tree.pdf, id=270, 536.0025pt x 694.595pt>
+File: pruned-basic-verb-tree.pdf Graphic file (type pdf)
+
+<use pruned-basic-verb-tree.pdf>
+Package pdftex.def Info: pruned-basic-verb-tree.pdf used on input line 136.
+(pdftex.def)             Requested size: 289.07999pt x 374.60938pt.
+ [35 <./conj-verb-ab.pdf>] [36 <./unpruned-basic-verb-tree.pdf>] [37 <./pruned-
+basic-verb-tree.pdf>] [38] [39]
+
+Package natbib Warning: Citation `ward:2008' on page 40 undefined on input line
+ 171.
+
+[40] <modal-phrasal-tree.pdf, id=339, 528.97626pt x 405.515pt>
+File: modal-phrasal-tree.pdf Graphic file (type pdf)
+
+<use modal-phrasal-tree.pdf>
+Package pdftex.def Info: modal-phrasal-tree.pdf used on input line 235.
+(pdftex.def)             Requested size: 289.07999pt x 221.61076pt.
+ [41] [42 <./modal-phrasal-tree.pdf>]
+
+Package natbib Warning: Citation `ringbom:1998' on page 43 undefined on input l
+ine 269.
+
+
+Package natbib Warning: Citation `ringbom:1998' on page 43 undefined on input l
+ine 269.
+
+
+Package natbib Warning: Citation `ringbom:1998' on page 43 undefined on input l
+ine 269.
+
+[43] [44]) (./main.bbl [45])
 
 Package natbib Warning: There were undefined citations.
 
-[36] (./main.aux) ) 
+[46] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 7781 strings out of 493633
- 107367 string characters out of 3143378
- 234884 words of memory out of 3000000
- 10879 multiletter control sequences out of 15000+200000
- 36537 words of font info for 77 fonts, out of 3000000 for 9000
+ 7840 strings out of 493633
+ 108845 string characters out of 3143378
+ 235341 words of memory out of 3000000
+ 10926 multiletter control sequences out of 15000+200000
+ 38221 words of font info for 79 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  51i,20n,41p,3246b,625s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.
@@ -862,10 +898,10 @@ exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/
 fonts/type1/urw/times/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/typ
 e1/public/xypic/xyatip10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pu
 blic/xypic/xybtip10.pfb>
-Output written on main.pdf (36 pages, 377662 bytes).
+Output written on main.pdf (46 pages, 463048 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
- 245 compressed objects within 3 object streams
+ 432 PDF objects out of 1000 (max. 8388607)
+ 311 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

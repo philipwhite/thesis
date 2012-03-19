@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  18 MAR 2012 19:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  14 MAR 2012 15:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\input section-dep-reln.tex
-(./section-dep-reln.tex
+**\input section-discussion.tex
+(./section-discussion.tex
 (/Users/philip/Library/texmf/tex/latex/subfiles/subfiles.cls
 Document Class: subfiles 2002/06/08 Federico Garcia
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/verbatim.sty
@@ -565,8 +565,8 @@ loaded))
 (/usr/local/texlive/2011/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )))
-(./section-dep-reln.aux)
-\openout1 = `section-dep-reln.aux'.
+(./section-discussion.aux)
+\openout1 = `section-discussion.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -709,71 +709,29 @@ e
 Package xypdf Info: Line width: 0.47998pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<c45-dep-graph.pdf, id=12, 783.92876pt x 676.5275pt>
-File: c45-dep-graph.pdf Graphic file (type pdf)
- <use c45-dep-graph.pdf>
-Package pdftex.def Info: c45-dep-graph.pdf used on input line 14.
-(pdftex.def)             Requested size: 433.62pt x 374.21779pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
-
-<xymatrix 4x1 124> <xymatrix 3x1 120> [2] [3 <./c45-dep-graph.pdf>] <xymatrix
-12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258>
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
-[]\OT1/ptm/b/n/10.95 Figure 1.3: |\OT1/ptm/m/n/10.95 The de-pen-den-cies $\OML/
-cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n
-/10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]
-\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$
- []
-
-[4] [5] <xymatrix 5x1 128> <xymatrix 8x1 140> [6] <xymatrix 12x1 474>
-Underfull \hbox (badness 6300) in paragraph at lines 214--214
-[]\OT1/ptm/b/n/10.95 Figure 1.5: |\OT1/ptm/m/n/10.95 The de-pen-den-cies $\OML/
-cmm/m/it/10.95 det\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10
-.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/10.95 predet\OT1/cmr/m/n/10.95 ([]\OM
-L/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/1
-0.95 det\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$ \OT
-1/ptm/m/n/10.95 and
- []
-
-[7] [8] [9] <xymatrix 11x1 152> [10] <xymatrix 12x1 262> <xymatrix 9x1 144>
-<xymatrix 6x1 132> [11] <xymatrix 9x1 144> [12]
-Overfull \hbox (44.153pt too wide) in paragraph at lines 371--372
-[]\OT1/ptm/m/n/12 Regardless of the rea-sons be-hind L1-Spanish learn-ers avoid
--ance of phrasal verbs, Alejo Gonz[]alez
- []
-
-[13] (./section-dep-reln.bbl [14]) [15] (./section-dep-reln.aux) ) 
+[2]
+No file section-discussion.bbl.
+[3] (./section-discussion.aux) ) 
 Here is how much of TeX's memory you used:
- 7699 strings out of 493633
- 106416 string characters out of 3143378
- 226966 words of memory out of 3000000
- 10815 multiletter control sequences out of 15000+200000
- 24783 words of font info for 59 fonts, out of 3000000 for 9000
+ 7576 strings out of 493633
+ 104801 string characters out of 3143378
+ 218102 words of memory out of 3000000
+ 10702 multiletter control sequences out of 15000+200000
+ 14326 words of font info for 43 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,21n,40p,3298b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/t
-exlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf
--dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/f
-onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
-/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times
-/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyati
-p10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.p
-fb>
-Output written on section-dep-reln.pdf (15 pages, 163368 bytes).
+ 51i,5n,40p,3300b,113s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/d
+vips/base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb
+8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on section-discussion.pdf (3 pages, 30442 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 23 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
