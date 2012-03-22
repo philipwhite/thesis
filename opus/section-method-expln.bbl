@@ -1,5 +1,19 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Akmajian, Demers, Farmer, and
+  Harnish}{Akmajian et~al\mbox{.}}{2010}]{akmajian:2010}
+{\sc Akmajian, A.}, {\sc Demers, R.~A.}, {\sc Farmer, A.~K.}, {\sc and} {\sc
+  Harnish, R.~M.} 2010.
+\newblock {\em Linguistics: An Introduction to Language and Communication\/} 6
+  Ed.
+\newblock The MIT Press, Cambridge, Massachusetts.
+
+\bibitem[\protect\citeauthoryear{Booth and Thompson}{Booth and
+  Thompson}{1973}]{booth:1973}
+{\sc Booth, T.~L.} {\sc and} {\sc Thompson, R.~A.} 1973.
+\newblock Applying probability measures to abstract languages.
+\newblock {\em IEEE Transactions on Computers\/}~{\em C-22,\/}~5, 442--449.
+
 \bibitem[\protect\citeauthoryear{Breiman}{Breiman}{2001}]{breiman:2001}
 {\sc Breiman, L.} 2001.
 \newblock Random forests.
@@ -18,6 +32,13 @@
 \newblock Accurate unlexicalized parsing.
 \newblock In {\em Proceedings of the 41st Meeting of the Association for
   Computational Linguistics}. 423--430.
+
+\bibitem[\protect\citeauthoryear{Marcus, Marcinkiewicz, and Santorini}{Marcus
+  et~al\mbox{.}}{1993}]{marcus:1993}
+{\sc Marcus, M.~P.}, {\sc Marcinkiewicz, M.~A.}, {\sc and} {\sc Santorini, B.}
+  1993.
+\newblock Building a large annotated corpus of english: the penn treebank.
+\newblock {\em Computational Linguistics\/}~{\em 19,\/}~2, 313--330.
 
 \bibitem[\protect\citeauthoryear{Quinlan}{Quinlan}{1993}]{quinlan:1993}
 {\sc Quinlan, J.~R.} 1993.

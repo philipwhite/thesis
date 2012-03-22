@@ -9,7 +9,44 @@ With very few exceptions, the code I wrote in support of this thesis was done in
 
 \subsection{Parsing}
 
-The Stanford Parser software package, version 1.6.7, configured with the probabilistic context-free grammar (PCFG) \citep*{klein-manning-pcfg:2003}, was used to generate all syntactic parse trees and grammar dependency graphs. In brief, PCFGs have their origins in the work of 
+The Stanford Parser software package, version 1.6.7, configured with the included probabilistic context-free grammar (PCFG) \citep*{klein-manning-pcfg:2003}, was used to generate all syntactic parse trees and grammar dependency graphs. A detailed description of PCFGs is beyond the scope of this paper, and the reader who desires such is referred to \citet{booth:1973}. Central to the PCFG is the context-free grammar (or \textit{phrase structure grammar}). A context-free grammar consists of a number of rules each of which describe the various possible compositions of a particular type of phrase. For instance, Figure~\ref{fig:ps-rules} shows a very simple grammar consisting of five rules.
+\begin{figure}
+\centering
+\begin{tabular}{l l l l}
+a. & S & $\rightarrow$ & $\text{NP} \text{ VP}$\\ 
+b. & NP & $\rightarrow$ & $(\text{Det}) \text{ N } (\text{PP})$\\
+c. & VP & $\rightarrow$ & $(\text{Aux}) \text{ V } (\text{NP}) \text{ } (\text{AdvP})^n$\\
+d. & PP & $\rightarrow$ & $\text{P } \text{NP}$\\
+e. & AdvP &  $\rightarrow$ & $\begin{Bmatrix}
+\text{Adv} \\ \text{PP} \\
+\end{Bmatrix} $
+\end{tabular}
+\caption{Simple Phrase Structure Rules. \citep[Ch. 5.3]{akmajian:2010}}
+\label{fig:ps-rules}
+\end{figure}
+Rule (a) indicates that a sentence (S) is composed of a noun phrase (NP) followed by a verb phrase (VP). Rule (b) says that a noun phrase is composed of a noun (N) preceded by an option determiner (Det) and followed by an option prepositional phrase (PP). Rule (c) says that a verb phrase contains an option auxiliary verb (Aux), followed by a verb (V), followed by an optional noun phrase and then by zero or more adverbial phrases (AdvP). A prepositional phrase is defined by rule (d) as being a preposition plus a noun phrase, and an adverbial phrase is defined by rule (e) as being either an adverb or a prepositional phrase. Again, these are only example rules and cover just a small subset of English grammar. Also, the symbols used by the Stanford parser are not necessarily the same used in these example rules. Using these rules, the sentence \textit{the sun will dry the grapes} can be represented as the tree shown in Figure~\ref{fig:ps-tree}.
+\begin{figure}[htbp]
+\centering
+\includegraphics[scale=0.6]{ps-tree.pdf}
+\caption{Parse of \textit{the sun will dry the grapes} Generated from Rules in Figure~\ref{fig:ps-rules}.}
+\label{fig:ps-tree}
+\end{figure}
+Generating this graph from the original sentence requires a certain knowledge of the parts of speech of the words in the sentence. To some extent, it is not necessary to have all of this information. In fact, if any of the open-class words (i.e. the verb or the two nouns) in this example are replaced with nonsense words, most people would have no trouble parsing it and would generate a tree with same structure as that in Figure~\ref{fig:ps-tree}. Similarly, the Stanford parser successfully parses this sentence even if all of the open-class words are replaced with nonsense words. This does not always hold true for more complex sentences, and replacing the closed-class words with gibberish makes the sentence much more difficult to parse. Also, replacing one word with another word of a different part of speech (e.g. \textit{the sun will dry the warmly}) produces a sentence that is difficult to parse for both human and computer. Parsers guess the part of speech of unknown words the same way humans do, by choosing whatever part of speech produces the most common valid phrase structure. Parsers use a similar method for dealing with ambiguities.
+
+Consider the sentence \textit{the bag was found in the woods by a farmer}. Using the phrase rule structures from Figure~\ref{fig:ps-rules}, one could generate either the parse shown in Figure~\ref{fig:ps-tree-ambig1} or that shown in Figure~\ref{fig:ps-tree-ambig2}. 
+\begin{figure}[htbp]
+\centering
+\includegraphics[scale=0.6]{ps-tree-ambig1.pdf}
+\caption{Possible Parse of \textit{the bag was found in the woods by a farmer} Generated from Rules in Figure~\ref{fig:ps-rules}.}
+\label{fig:ps-tree-ambig1}
+\end{figure}
+\begin{figure}[htbp]
+\centering
+\includegraphics[scale=0.6]{ps-tree-ambig2.pdf}
+\caption{Possible Parse of \textit{the bag was found in the woods by a farmer} Generated from Rules in Figure~\ref{fig:ps-rules}.}
+\label{fig:ps-tree-ambig2}
+\end{figure}
+In both parses, the PP \textit{in the woods} is considered an adverbial phrase modifying the verb. However, the second PP can be parsed either the same way, or it can be placed within the NP containing \textit{woods}. In other words, the sentence can either mean that a farmer found the bag, or that the bag was found in the woods and those woods were located near a farmer. The first interpretation is the one that most English speakers would choose based on the semantic content of the two options. A rule-based parser, however, is unable to attempt semantic interpretation, and a purely rule-based parser might output all possible interpretations. A PCFG-based parser, however, will choose the parse that is \textit{statistically} most likely to be correct. Such a parser requires a large database of correct parses with which it can make probability measurements. The Stanford parser, for instance, uses the Penn Treebank, a corpus of parsed English texts \citep{marcus:1993}. Out of the various possible parses, the one that a probabilistic parser will choose is the one that has a structure, or a substructure, that is common among parses in the database. The parser does not include only the phrase structure in its consideration, but to a certain extent it includes the words itself. For instance, given \textit{the bag was found in the woods by a farmer}, the Stanford Parser will generate a parse very similar to Figure~\ref{fig:ps-tree-ambig1}. However, when given the sentence \textit{the bag was found under the bridge over the stream}, which has the same two possible parses, it chooses the other, the semantically correct one. At first impression, one might think that the parser had located a semantic connection between \textit{bridge} and \textit{stream}, and had used this to choose the correct parse. However, it turns out that it is actually the prepositions (a group of closed-class words) that cause the difference in parsing. For instance, the sentence \textit{the bag was found under the woods over a farmer}, is parsed like Figure~\ref{fig:ps-tree-ambig2} and \textit{the bag was found in the bridge by the stream} is parsed like Figure~\ref{fig:ps-tree-ambig1}. Hence the parser does not consider the open-class (content) words nearly so much as it does the closed-class (structure) words, when choosing between parses.
 
 \subsection{The Tests}
 The crux of this project was the design and creation of a suite of tests, each of which identifies a number of closely related grammatical characteristics of the text samples. These tests operate on the output from the Stanford parser, i.e. parse trees and grammatical dependencies. As output they generate training or testing cases to be used by the Weka classifier. Each of these cases consists of multiple attributes, corresponding to grammatical features, each with continuous values indicating the relative frequency (probability) of that particular feature. For a case with $n$ attributes where the number of occurrences of the grammatical feature associated with the $i$th attribute is $g_i$, the value $f_i$ for that attribute is given by $g_n  / \displaystyle\sum\limits_{i=1}^n g_i$. For instance, one test measures the relative frequencies of the various tense/aspect/voice combinations of finite verbs. English has twenty-four such combination, so the case generated by this test has twenty-four attributes.

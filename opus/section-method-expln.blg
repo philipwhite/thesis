@@ -10,45 +10,45 @@ Warning--page numbers missing in hall-et-al:2009
 Warning--empty publisher in klein-manning-pcfg:2003
 Warning--empty address in klein-manning-pcfg:2003
 Warning--empty address in quinlan:1993
-You've used 4 entries,
+You've used 7 entries,
             3177 wiz_defined-function locations,
-            746 strings with 6162 characters,
-and the built_in function-call counts, 2732 in all, are:
-= -- 244
-> -- 144
+            769 strings with 6712 characters,
+and the built_in function-call counts, 4694 in all, are:
+= -- 421
+> -- 260
 < -- 0
-+ -- 39
-- -- 58
-* -- 235
-:= -- 454
-add.period$ -- 18
-call.type$ -- 4
-change.case$ -- 29
-chr.to.int$ -- 4
-cite$ -- 10
-duplicate$ -- 97
-empty$ -- 197
-format.name$ -- 72
-if$ -- 536
++ -- 73
+- -- 99
+* -- 443
+:= -- 779
+add.period$ -- 30
+call.type$ -- 7
+change.case$ -- 52
+chr.to.int$ -- 7
+cite$ -- 13
+duplicate$ -- 150
+empty$ -- 327
+format.name$ -- 134
+if$ -- 909
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 7
-newline$ -- 23
-num.names$ -- 40
-pop$ -- 36
+missing$ -- 11
+newline$ -- 38
+num.names$ -- 70
+pop$ -- 54
 preamble$ -- 1
-purify$ -- 54
+purify$ -- 96
 quote$ -- 0
-skip$ -- 92
+skip$ -- 146
 stack$ -- 0
-substring$ -- 133
-swap$ -- 33
+substring$ -- 243
+swap$ -- 49
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 70
+type$ -- 120
 warning$ -- 6
-while$ -- 39
+while$ -- 59
 width$ -- 0
-write$ -- 56
+write$ -- 96
 (There were 6 warnings)

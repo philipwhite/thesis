@@ -9,47 +9,48 @@ Warning--page numbers missing in gonzalez:2010
 Warning--empty address in biber:1998
 Warning--empty address in butt
 Warning--empty address in celce-murcia:1999
+Warning--empty address in piera:1995
 Warning--empty address in quirk:1985
 Warning--empty address in whitley:1986
-You've used 12 entries,
+You've used 13 entries,
             3177 wiz_defined-function locations,
-            800 strings with 7346 characters,
-and the built_in function-call counts, 7815 in all, are:
-= -- 704
-> -- 446
+            807 strings with 7482 characters,
+and the built_in function-call counts, 8549 in all, are:
+= -- 776
+> -- 473
 < -- 2
-+ -- 135
-- -- 206
-* -- 713
-:= -- 1352
-add.period$ -- 49
-call.type$ -- 12
-change.case$ -- 79
-chr.to.int$ -- 12
-cite$ -- 19
-duplicate$ -- 229
-empty$ -- 522
-format.name$ -- 269
-if$ -- 1456
++ -- 139
+- -- 217
+* -- 763
+:= -- 1470
+add.period$ -- 54
+call.type$ -- 13
+change.case$ -- 85
+chr.to.int$ -- 13
+cite$ -- 21
+duplicate$ -- 259
+empty$ -- 582
+format.name$ -- 280
+if$ -- 1610
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 15
-newline$ -- 62
-num.names$ -- 124
-pop$ -- 73
+missing$ -- 16
+newline$ -- 67
+num.names$ -- 136
+pop$ -- 80
 preamble$ -- 1
-purify$ -- 155
+purify$ -- 167
 quote$ -- 0
-skip$ -- 238
+skip$ -- 268
 stack$ -- 0
-substring$ -- 375
-swap$ -- 73
+substring$ -- 427
+swap$ -- 86
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 200
-warning$ -- 7
-while$ -- 124
+type$ -- 220
+warning$ -- 8
+while$ -- 138
 width$ -- 0
-write$ -- 160
-(There were 7 warnings)
+write$ -- 175
+(There were 8 warnings)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  18 MAR 2012 19:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  20 MAR 2012 13:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -565,7 +565,14 @@ loaded))
 (/usr/local/texlive/2011/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )))
-(./section-dep-reln.aux)
+(./section-dep-reln.aux
+
+LaTeX Warning: Label `ex:mountain_peak' multiply defined.
+
+
+LaTeX Warning: Label `ex:peak_of' multiply defined.
+
+)
 \openout1 = `section-dep-reln.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -581,8 +588,7 @@ LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 2.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 Package caption Info: Begin \AtBeginDocument code.
@@ -720,19 +726,19 @@ Package pdftex.def Info: c45-dep-graph.pdf used on input line 14.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
 
 <xymatrix 4x1 124> <xymatrix 3x1 120> [2] [3 <./c45-dep-graph.pdf>] <xymatrix
 12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258>
-Underfull \hbox (badness 10000) in paragraph at lines 132--132
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
 []\OT1/ptm/b/n/10.95 Figure 1.3: |\OT1/ptm/m/n/10.95 The de-pen-den-cies $\OML/
 cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n
 /10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]
 \OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$
  []
 
-[4] [5] <xymatrix 5x1 128> <xymatrix 8x1 140> [6] <xymatrix 12x1 474>
-Underfull \hbox (badness 6300) in paragraph at lines 214--214
+[4] <xymatrix 5x1 128> <xymatrix 8x1 140> [5] <xymatrix 12x1 474>
+Underfull \hbox (badness 6300) in paragraph at lines 213--213
 []\OT1/ptm/b/n/10.95 Figure 1.5: |\OT1/ptm/m/n/10.95 The de-pen-den-cies $\OML/
 cmm/m/it/10.95 det\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10
 .95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/10.95 predet\OT1/cmr/m/n/10.95 ([]\OM
@@ -741,39 +747,45 @@ L/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/1
 1/ptm/m/n/10.95 and
  []
 
-[7] [8] [9] <xymatrix 11x1 152> [10] <xymatrix 12x1 262> <xymatrix 9x1 144>
-<xymatrix 6x1 132> [11] <xymatrix 9x1 144> [12]
-Overfull \hbox (44.153pt too wide) in paragraph at lines 371--372
+[6] [7] [8] <xymatrix 7x1 136> [9] [10] <xymatrix 11x1 152> [11] <xymatrix 9x1
+144> <xymatrix 10x1 148> [12] <xymatrix 12x1 262> [13] <xymatrix 9x1 144>
+[14]
+Overfull \hbox (44.153pt too wide) in paragraph at lines 447--448
 []\OT1/ptm/m/n/12 Regardless of the rea-sons be-hind L1-Spanish learn-ers avoid
 -ance of phrasal verbs, Alejo Gonz[]alez
  []
 
-[13] (./section-dep-reln.bbl [14]) [15] (./section-dep-reln.aux) ) 
+<xymatrix 7x1 136> [15] (./section-dep-reln.bbl [16] [17]) [18]
+(./section-dep-reln.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7699 strings out of 493633
- 106416 string characters out of 3143378
- 226966 words of memory out of 3000000
- 10815 multiletter control sequences out of 15000+200000
- 24783 words of font info for 59 fonts, out of 3000000 for 9000
+ 7710 strings out of 493633
+ 106557 string characters out of 3143378
+ 227096 words of memory out of 3000000
+ 10824 multiletter control sequences out of 15000+200000
+ 26425 words of font info for 61 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  51i,21n,40p,3298b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/t
-exlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf
--dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/f
-onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
-/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times
-/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyati
-p10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.p
-fb>
-Output written on section-dep-reln.pdf (15 pages, 163368 bytes).
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
+live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
+/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2
+011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+11/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-d
+ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/
+xyatip10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybti
+p10.pfb>
+Output written on section-dep-reln.pdf (18 pages, 173477 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 130 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

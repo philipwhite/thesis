@@ -25,6 +25,7 @@ Each data set instance contained attributes corresponding to dependency relation
 $auxpass$ & passive auxiliary \\
 $complm$ & complementizer \\
 $cop$ & copula \\
+$dep$ & unclassified dependency \\
 $det$ & determiner \\
 $expl$ & expletive\\
 $mwe$ & multi-word expression \\
@@ -36,7 +37,6 @@ $possessive$ & possessive modifier \\
 $predet$ & preconjunct \\
 $prt$ & phrasal verb particle \\
 $quantmod$ & quantifier phrase modifier \\
-$rel$ & relative \\
 \bottomrule
 \end{tabular}
 \label{table:reln-abbr}
@@ -240,13 +240,29 @@ This difference may encourage learners to use periphrastic constructions in Engl
 
 \subsection{Expletive}
 
-An existential \textit{there} and the copular verb associated with it are connected with the expletive or $expl$ relation.
+An existential \textit{there} and the copular verb associated with it are connected with the expletive or $expl$ relation, as shown in Figure~\ref{ex:expl}. 
+\begin{figure}[ht]
+\centering
+\xytext{
+\xybarnode{There} &
+\xybarnode{was} \xybarconnect(U,U){-1}"_{\small expl}" &
+\xybarnode{someone} &
+\xybarnode{knocking} &
+\xybarnode{at} &
+\xybarnode{the} &
+\xybarnode{door.}
+}
+\caption{The dependency $det(\text{was},\text{there})$. \citep[Ch. 3.29]{quirk:1985}}
+\label{ex:expl}
+\end{figure}
+This relation is used twice in the decision tree, both times associating higher frequencies with nonnative texts and lower frequencies with native texts. Spanish has a similar construction to the English existential \textit{there + be}, using a 3rd-person singular form of the verb \textit{haber} in any of its possible forms. Spanish, which is a pro-drop language, does not use or permit a dummy subject analogous to the English \textit{there}, nor does the verb \textit{haber} agree in number with what follows except in very informal speech \citep[Ch. 30]{butt}. Otherwise, the existential \textit{there} presents little difficulty for the L1-Spanish learner of English. The high rate of use is likely due to this; learner resort to existential \textit{there} frequently because it is a ``safe'' expression, one they can generate correctly with little effort.
 
 \subsection{Multi-Word Expression}
 
-The Stanford typed dependency manual \citep{typed-deps-manual} defines multi-word expressions as being two or more words that are used together as a single unit such that the relationship between them is difficult to define. In the version of the Stanford parser used here, only the following expression are considered multi-word expressions: \textit{rather than, as well as, instead of, such as, because of, in addition to, all but, due to}.
+The Stanford typed dependency manual \citep{typed-deps-manual} defines multi-word expressions as being two or more words that are used together as a single unit such that the relationship between them is difficult to define. In the version of the Stanford parser used here, only the following expression are considered multi-word expressions: \textit{rather than, as well as, instead of, such as, because of, in addition to, all but, due to}. As can be seen in the decision tree, higher rates of use are indicative of a native speaker. Since these tend to be idiomatic, or at least syntactically complex, it seems reasonable that they would be avoided by learners.
 
 \subsection{Noun Compound Modifier}
+\label{sub:nn}
 
 Noun-noun compounds (NNCs) are marked with the relation \textit{nn}. The governor of this dependency is the rightmost noun in the compound and the dependent will be one of the nouns to the left. Note that since all dependencies only deal with pairs of words, a compound consisting of more than two nouns would be indicated by multiple dependencies, all sharing a common governor. Example~\ref{fig:nn-deps} demonstrates this dependency. 
 
@@ -273,17 +289,63 @@ Noun-noun compounds (NNCs) are marked with the relation \textit{nn}. The governo
 \label{fig:nn-deps}
 \end{figure}
 
+The $nn$ relation occupies an important place in the decision tree, being the root test node and thus the relation with the highest information content. Summing leaf values will show that the $nn$ node splits the training cases into a largely native set and a largely nonnative set, corresponding respectively to high and low frequencies of the dependency. That the underuse of noun compounds show be indicative of an L1-Spanish learner of English is understandable considering that Spanish has a much more restrictive system of noun compounding. While Spanish does have NNCs, they are far less common than in English and are not particularly productive \citep{piera:1995}. Most commonly, expressions English NNCs are translated into Spanish using the preposition \textit{de}. Consider, for instance:
+\enumsentence{\shortex{4}
+{\textit{un} & \textit{traje} & \textit{de} & \textit{baño}}
+{\textit{a} & \textit{suit} & \textit{of} & \textit{bath}}
+{\textit{`a bathing suit'} \citep[Ch. 34.7]{butt}}}
+English can also use the preposition \textit{of} to express possession in a construction parallel to the Spanish \textit{de} possessive. Often times, the English speaker can switch between a NNC and the \textit{of}-construction with little change in meaning, as in:
+\eenumsentence{
+\item \textit{the mountain peak} \label{ex:mountain_peak}
+\item \textit{the peak of the mountain} \label{ex:peak_of}
+}
+Considering this flexibility in English, and the paucity of NNCs in Spanish, it seems very likely that L1-Spanish learners of English avoid NNCs in favor of the \textit{of} construction.
+
 \subsection{Noun Phrase as Adverbial Modifier}
 
-
+The $npadvmod$ dependency marks where a NP is used like an adverbial modifier. In general it covers five types of constructions: phrases indicating measure (e.g. \textit{the director is 65 years old}), certain phrases which expresses financial information (e.g. \textit{IBM earned \$5 a share}), reflexive pronouns used for emphasis (e.g. \textit{the silence itself is significant}), and a handful of other usages difficult to categorize. All of these tend to be idiomatic and syntactically complex, which would account for the use of this relation in the decision tree, where cases with high frequencies are categorized as native and with low frequencies as nonnative.
 
 \subsection{Parataxis}
+
+The $parataxis$ relation marks ties the main verb of a clause to another element, generally a parenthetical or something appearing after a colon or semicolon. Figure~\ref{fig:parataxis} shown one example of each of these types of parataxis.
+\begin{figure}[htbp]
+\centering
+\begin{tabular}{ l l }
+a. & \xytext{
+\xybarnode{The} &
+\xybarnode{guy,} &
+\xybarnode{John} &
+\xybarnode{said,} &
+\xybarnode{left}
+\xybarconnect(U,U){-1}"_{\small parataxis}"&
+\xybarnode{early} &
+\xybarnode{in} &
+\xybarnode{the} &
+\xybarnode{morning.}
+}\\
+b. & \xytext{
+\xybarnode{John} &
+\xybarnode{plays} &
+\xybarnode{the} &
+\xybarnode{guitar;} &
+\xybarnode{his} &
+\xybarnode{sister,} &
+\xybarnode{moreover,} &
+\xybarnode{plays} \xybarconnect(U,U){-6}"_{\small parataxis}"&
+\xybarnode{the} &
+\xybarnode{piano.}
+}\\
+\end{tabular}
+\caption{The dependencies $parataxis(\text{left}, \text{said})$ and $parataxis(\text{plays}, \text{plays})$. Taken from \citet{typed-deps-manual} and \citet[Ch. 13.7]{quirk:1985}, respectively.}
+\label{fig:parataxis}
+\end{figure}
+The types of constructions marked by the $parataxis$ relation are syntactically complex, and so one might imagine that they would be underused by learners of English. However, the use of this relation in the decision tree indicates that learner actually use this more often than native speakers. There is little literature discussing parataxis in learner English nor do there appear to be any obvious qualities of Spanish that might explain this overuse. This analysis is particularly difficult considering that the available data does not indicate which of the two types of parataxis are being overused.
+
 \subsection{Possession and Possessive Modifiers}
 
 Inflected genitive constructions are marked by two dependencies: \textit{poss}, which ties the head of a NP (the governor) to a genitive inflectional suffix (\textit{'s}~or~\textit{'}), indicating that the governor is the possessed element; and \textit{possessive}, which connects a noun to its own genitive inflectional suffix. These two dependencies are illustrated in Figure~\ref{fig:poss-deps}. The $poss$ dependency can also have as its dependent a possessive determiner such as \textit{its} or \textit{their}. In this type of construction, the $possession$ dependency is not used. 
 
 \begin{figure}[htbp]
-\caption{The dependencies $poss(\text{effects}, \text{oil})$ and $possessive(text{oil}, \text{'s})$. Native sample taken from MICUSP.}
 \centering
 \xytext{
 \xybarnode{\ldots} &
@@ -300,15 +362,30 @@ Inflected genitive constructions are marked by two dependencies: \textit{poss}, 
 \xybarnode{to} &
 \xybarnode{\ldots}
 }
+\caption{The dependencies $poss(\text{effects}, \text{oil})$ and $possessive(text{oil}, \text{'s})$. Native sample taken from MICUSP.}
 \label{fig:poss-deps}
 \end{figure}
+
+These relations are both used twice in the decision tree. In all four instances, cases with high frequencies tend to end up being classified as native and cases with low frequencies as nonnative. Spanish lacks an inflected genitive, instead tending to use the preposition \textit{de} to express possession, as was discussed in section~\ref{sub:nn}. Much like NNCs, the inflected genitive is usually translated into Spanish using a \textit{de}-constructions, as shown in:
+\enumsentence{
+\shortex{9}
+{\textit{una} & \textit{chica} & \textit{joven} & \textit{de} & \textit{vaqueros} & \textit{y} & \textit{chaqueta} & \textit{de} & \textit{hombre}}
+{\textit{a} & \textit{girl} & \textit{young} & \textit{of} & \textit{jeans} & \textit{and} & \textit{jacket} & \textit{of} & \textit{man}}
+{\textit{`a young girl in jeans and a man's jacket'} \citep[Ch. 34.7]{butt}}}
+Also much like NNCs, it is often possible to use the \textit{of}-construction in place of an inflected genitive:
+\eenumsentence{
+\item \textit{the mountain's peak} \label{ex:mountain_peak}
+\item \textit{the peak of the mountain} \label{ex:peak_of}
+}
+The reasonable conclusion then, is that learners of English are using the \textit{of}-construction in place of the inflected genitive, resulting in fewer occurrences of the latter.
+
+\begin{comment}
 
 \subsection{Preconjunct}
 
 The preconjunct ($preconj$) dependency connects the head of a phrase employing a conjunction to a word that emphasizes or brackets that conjunction, such as \textit{either}, \textit{neither}, or \textit{both}. Figure~\ref{fig:preconj-dep} demonstrates this dependency.
 
 \begin{figure}[h]
-\caption{The dependencies $preconj(\text{boys},\text{both})$ and $preconj(\text{emotionally},\text{neither})$. (a) taken from \citet{typed-deps-manual} and (b) from WRICLE (nonnative).}
 \centering
 \begin{tabular}{ l l }
 a. &
@@ -334,12 +411,12 @@ b. &
 \xybarnode{nor} &
 \xybarnode{economically} &
 \xybarnode{prepared \ldots}
-}
-
-\label{fig:preconj-dep}
+}\\
 \end{tabular}
+\caption{The dependencies $preconj(\text{boys},\text{both})$ and $preconj(\text{emotionally},\text{neither})$. (a) taken from \citet{typed-deps-manual} and (b) from WRICLE (nonnative).}
+\label{fig:preconj-dep}
 \end{figure}
-
+\end{comment}
 
 \subsection{Phrasal Verb Particle}
 
@@ -370,9 +447,31 @@ In their own study, \citeauthor{liao:2004} investigate L1-Chinese learners of En
 
 Regardless of the reasons behind L1-Spanish learners avoidance of phrasal verbs, \citet{gonzalez:2010} demonstrates that it is a reality of learner English. Considering this, it is not surprising that the C4.5 algorithm uses the $prt$ relation with such success in the categorization process.
 
-
 \subsection{Quantifier Phrase Modifiers}
-\subsection{Relative}
+
+The Quantifier Phrase Modifier ($quantmod$) relation marks adverbs that modify certain determiners. In general, this relation is only used when the determiner being modified is a numeral, most other determiners, including quantifying determiners such as \textit{double} or \textit{half}, would require the use of the $advmod$ relation. Thus in Figure~\ref{ex:quantmod}, if the number \textit{200} were replaced with the determiners \textit{half the}, \textit{about} would become the dependent of an $advmod$ dependency instead of the $quantmod$ dependency.
+
+\begin{figure}[h]
+\centering
+\xytext{
+\xybarnode{About} &
+\xybarnode{200} 
+\xybarconnect(U,U){-1}"_{\small quantmod}"&
+\xybarnode{people} &
+\xybarnode{came} &
+\xybarnode{to} &
+\xybarnode{the} &
+\xybarnode{party.}
+}
+\caption{The dependency $quantmod(\text{200},\text{about})$. Taken from \citet{typed-deps-manual}.}
+\label{ex:quantmod}
+\end{figure}
+
+The decision tree shows that high frequencies of this dependency are associated with native texts. Because the scope of this dependency is limited, and because Spanish grammar does not differ markedly from English grammar in the usage of adverb as modifiers of determiners, little can be said in the way of linguistic analysis other than to suggest that these dependencies are less common in learner texts due to the complexity of the syntax that generates them.
+
+\subsection{The Unclassified Dependency}
+
+The final relation, $dep$, is used in any dependency that cannot be more exactly resolved by the parser, whether due to malformed grammar, parser limitations, or any other reason. Due to the nebulous nature of this dependency, no meaningful linguistic analysis is possible. 
 
 \subsection{Classification Accuracy}
 
