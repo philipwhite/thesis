@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  5 MAR 2012 10:07
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  5 APR 2012 18:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -564,6 +564,9 @@ loaded))
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/flafter.sty
+Package: flafter 2000/07/23 v1.2i Standard LaTeX floats after reference (FMi)
 )))
 (./section-args.aux)
 \openout1 = `section-args.aux'.
@@ -713,6 +716,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
 <xymatrix 8x1 246> <xymatrix 10x1 368> <xymatrix 10x1 466> <xymatrix 9x1 356>
 <xymatrix 7x1 242> <xymatrix 7x1 242>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
  [1
@@ -730,20 +735,20 @@ File: c45-num-lex.pdf Graphic file (type pdf)
 Package pdftex.def Info: c45-num-lex.pdf used on input line 190.
 (pdftex.def)             Requested size: 144.54pt x 171.27057pt.
 
-[6] [7 <./c45-num-lex.pdf>] <c45-lex-role.pdf, id=71, 576.1525pt x 766.865pt>
+[6 <./c45-num-lex.pdf>] [7] <c45-lex-role.pdf, id=71, 576.1525pt x 766.865pt>
 File: c45-lex-role.pdf Graphic file (type pdf)
 
 <use c45-lex-role.pdf>
 Package pdftex.def Info: c45-lex-role.pdf used on input line 213.
 (pdftex.def)             Requested size: 289.07999pt x 384.77722pt.
- [8] [9 <./c45-lex-role.pdf>] [10] (./section-args.bbl)
+ [8 <./c45-lex-role.pdf>] [9] [10] (./section-args.bbl)
 [11] (./section-args.aux) ) 
 Here is how much of TeX's memory you used:
- 7678 strings out of 493633
- 106084 string characters out of 3143378
- 234479 words of memory out of 3000000
- 10789 multiletter control sequences out of 15000+200000
- 28471 words of font info for 64 fonts, out of 3000000 for 9000
+ 7688 strings out of 493633
+ 106299 string characters out of 3143378
+ 234612 words of memory out of 3000000
+ 10795 multiletter control sequences out of 15000+200000
+ 30097 words of font info for 66 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  51i,20n,40p,3294b,563s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/
@@ -755,7 +760,7 @@ r/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/local/texlive/201
 1/texmf-dist/fonts/type1/public/xypic/xyatip10.pfb></usr/local/texlive/2011/tex
 mf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on section-args.pdf (11 pages, 148595 bytes).
+Output written on section-args.pdf (11 pages, 148058 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  93 compressed objects within 1 object stream

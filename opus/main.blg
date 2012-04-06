@@ -6,56 +6,70 @@ Database file #1: bibliography.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty address in gonzalez:2010
 Warning--page numbers missing in gonzalez:2010
+Warning--there's a number but no series in berry:2004
+Warning--empty address in berry:2004
 Warning--empty address in biber:1998
 Warning--empty publisher in breiman:2001
 Warning--empty address in breiman:2001
 Warning--empty address in butt
 Warning--empty address in celce-murcia:1999
+Warning--no number and no volume in clifford:1983
+Warning--page numbers missing in clifford:1983
 Warning--empty address in dubois:2003
+Warning--empty publisher in gamon:2010
+Warning--empty address in gamon:2010
 Warning--page numbers missing in hall-et-al:2009
 Warning--empty publisher in klein-manning-pcfg:2003
 Warning--empty address in klein-manning-pcfg:2003
+Warning--empty publisher in lee:2006
+Warning--empty address in lee:2006
+Warning--empty address in piera:1995
 Warning--empty address in quinlan:1993
+Warning--empty address in quirk:1985
+Warning--empty address in ringbom:1998
+Warning--empty publisher in wagner:2007
+Warning--empty address in wagner:2007
+Warning--empty address in ward:2008
 Warning--empty address in whitley:1986
-You've used 15 entries,
+You've used 33 entries,
             3177 wiz_defined-function locations,
-            816 strings with 7759 characters,
-and the built_in function-call counts, 10085 in all, are:
-= -- 921
-> -- 552
-< -- 4
-+ -- 161
-- -- 253
-* -- 889
-:= -- 1716
-add.period$ -- 65
-call.type$ -- 15
-change.case$ -- 100
-chr.to.int$ -- 15
-cite$ -- 28
-duplicate$ -- 319
-empty$ -- 693
-format.name$ -- 323
-if$ -- 1923
+            933 strings with 10694 characters,
+and the built_in function-call counts, 21487 in all, are:
+= -- 1963
+> -- 1107
+< -- 5
++ -- 291
+- -- 465
+* -- 1893
+:= -- 3607
+add.period$ -- 144
+call.type$ -- 33
+change.case$ -- 221
+chr.to.int$ -- 33
+cite$ -- 60
+duplicate$ -- 702
+empty$ -- 1540
+format.name$ -- 598
+if$ -- 4151
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 20
-newline$ -- 77
-num.names$ -- 156
-pop$ -- 102
+missing$ -- 44
+newline$ -- 167
+num.names$ -- 340
+pop$ -- 219
 preamble$ -- 1
-purify$ -- 194
+purify$ -- 427
 quote$ -- 0
-skip$ -- 321
+skip$ -- 688
 stack$ -- 0
-substring$ -- 485
-swap$ -- 108
-text.length$ -- 4
+substring$ -- 1160
+swap$ -- 238
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 260
-warning$ -- 13
-while$ -- 162
+type$ -- 580
+warning$ -- 27
+while$ -- 327
 width$ -- 0
-write$ -- 204
-(There were 13 warnings)
+write$ -- 450
+(There were 27 warnings)

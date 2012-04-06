@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  14 MAR 2012 15:04
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 MAR 2012 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -714,24 +714,23 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
 No file section-discussion.bbl.
-[3] (./section-discussion.aux) ) 
+[2] (./section-discussion.aux) ) 
 Here is how much of TeX's memory you used:
  7576 strings out of 493633
  104801 string characters out of 3143378
- 218102 words of memory out of 3000000
+ 219102 words of memory out of 3000000
  10702 multiletter control sequences out of 15000+200000
  14326 words of font info for 43 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,5n,40p,3300b,113s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,4n,40p,3300b,111s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/d
 vips/base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb
 8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on section-discussion.pdf (3 pages, 30442 bytes).
+Output written on section-discussion.pdf (2 pages, 29808 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 20 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

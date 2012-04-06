@@ -1,5 +1,13 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Akmajian, Demers, Farmer, and
+  Harnish}{Akmajian et~al\mbox{.}}{2010}]{akmajian:2010}
+{\sc Akmajian, A.}, {\sc Demers, R.~A.}, {\sc Farmer, A.~K.}, {\sc and} {\sc
+  Harnish, R.~M.} 2010.
+\newblock {\em {Linguistics: An Introduction to Language and Communication}\/}
+  6 Ed.
+\newblock The MIT Press, Cambridge, Massachusetts.
+
 \bibitem[\protect\citeauthoryear{Alejo~González}{Alejo~González}{2010}]{gonzalez:2010}
 {\sc Alejo~González, R.} 2010.
 \newblock L2 spanish acquisition of english phrasal verbs.
@@ -7,41 +15,75 @@
   Campoy-Cubillo}, {B.~Bellés-Fortuño}, {and} {M.~L. Gea-Valor}, Eds.
   Continuum International Publishing, Chapter~11.
 
+\bibitem[\protect\citeauthoryear{Apt{\'e}, Damerau, and Weiss}{Apt{\'e}
+  et~al\mbox{.}}{1994}]{apte:1994}
+{\sc Apt{\'e}, C.}, {\sc Damerau, F.}, {\sc and} {\sc Weiss, S.~M.} 1994.
+\newblock {Automated Learning of Decision Rules for Text Categorization}.
+\newblock {\em ACM Trans. Inf. Syst.\/}~{\em 12,\/}~3, 233--251.
+
+\bibitem[\protect\citeauthoryear{Berry}{Berry}{2004}]{berry:2004}
+{\sc Berry, M.} 2004.
+\newblock {\em {Survey of Text Mining: Clustering, Classification, and
+  Retrieval}}.
+\newblock Number v. 1. Springer.
+
 \bibitem[\protect\citeauthoryear{Biber and Xeppen}{Biber and
   Xeppen}{1998}]{biber:1998}
 {\sc Biber, D.} {\sc and} {\sc Xeppen, R.} 1998.
-\newblock Comparing native and learner perspectives on english grammar: a study
-  of complement clauses.
+\newblock {Comparing Native and Learner Perspectives on English Grammar: a
+  Study of Complement Clauses}.
 \newblock In {\em Learner English on Computer}, {S.~Granger}, Ed. Addison
   Wesley Longman, Chapter~11, 148--158.
 
+\bibitem[\protect\citeauthoryear{Booth and Thompson}{Booth and
+  Thompson}{1973}]{booth:1973}
+{\sc Booth, T.~L.} {\sc and} {\sc Thompson, R.~A.} 1973.
+\newblock {Applying Probability Measures to Abstract Languages}.
+\newblock {\em IEEE Transactions on Computers\/}~{\em C-22,\/}~5, 442--449.
+
 \bibitem[\protect\citeauthoryear{Breiman}{Breiman}{2001}]{breiman:2001}
 {\sc Breiman, L.} 2001.
-\newblock Random forests.
+\newblock {Random Forests}.
 \newblock In {\em Machine Learning}. 5--32.
 
 \bibitem[\protect\citeauthoryear{Butt and Benjamin}{Butt and
   Benjamin}{2004}]{butt}
 {\sc Butt, J.} {\sc and} {\sc Benjamin, C.} 2004.
-\newblock {\em A New Reference Grammar of Modern {S}panish\/} Fourth Ed.
+\newblock {\em {A New Reference Grammar of Modern {S}panish}\/} Fourth Ed.
 \newblock McGraw-Hill.
 
 \bibitem[\protect\citeauthoryear{Celce-Murcia and Larsen-Freeman}{Celce-Murcia
   and Larsen-Freeman}{1999}]{celce-murcia:1999}
 {\sc Celce-Murcia, M.} {\sc and} {\sc Larsen-Freeman, D.} 1999.
-\newblock {\em The Grammar Book, an ESL/EFL Teacher's Course\/} Second Ed.
+\newblock {\em {The Grammar Book, an ESL/EFL Teacher's Course}\/} Second Ed.
 \newblock Heinle and Heinle Publishers.
+
+\bibitem[\protect\citeauthoryear{Clifford, Jarke, and Vassiliou}{Clifford
+  et~al\mbox{.}}{1983}]{clifford:1983}
+{\sc Clifford, J.}, {\sc Jarke, M.}, {\sc and} {\sc Vassiliou, Y.} 1983.
+\newblock {A Short Introduction to Expert Systems}.
+\newblock {\em SSRN eLibrary\/}.
+
+\bibitem[\protect\citeauthoryear{Cormack}{Cormack}{2008}]{cormack:2008}
+{\sc Cormack, G.~V.} 2008.
+\newblock {Email Spam Filtering: A Systematic Review}.
+\newblock {\em Found. Trends Inf. Retr.\/}~{\em 1,\/}~4, 335--455.
 
 \bibitem[\protect\citeauthoryear{Dagut and Laufer}{Dagut and
   Laufer}{1985}]{dagut:1985}
 {\sc Dagut, M.} {\sc and} {\sc Laufer, B.} 1985.
-\newblock Avoidance of phrasal verbs—a case for contrastive analysis.
+\newblock {Avoidance of Phrasal Verbs --- A Case for Contrastive Analysis}.
 \newblock {\em Studies in Second Language Acquisition\/}~{\em 7,\/}~01, 73--79.
 
 \bibitem[\protect\citeauthoryear{de~Marneffe and Manning}{de~Marneffe and
   Manning}{2008}]{typed-deps-manual}
 {\sc de~Marneffe, M.-C.} {\sc and} {\sc Manning, C.~D.} 2008.
 \newblock {S}tanford typed dependencies manual.
+
+\bibitem[\protect\citeauthoryear{Du~Bois}{Du~Bois}{1987}]{dubois:1987}
+{\sc Du~Bois, J.~W.} 1987.
+\newblock The discourse basis of ergativity.
+\newblock {\em Language\/}~{\em 63,\/}~4, 805--855.
 
 \bibitem[\protect\citeauthoryear{Du~Bois}{Du~Bois}{2003}]{dubois:2003}
 {\sc Du~Bois, J.~W.} 2003.
@@ -50,12 +92,26 @@
   Approaches to Language Structure}, {M.~Tomasello}, Ed. Vol.~2. Lawrence
   Erlbaum Associates, Chapter~2, 47--87.
 
+\bibitem[\protect\citeauthoryear{Gamon}{Gamon}{2010}]{gamon:2010}
+{\sc Gamon, M.} 2010.
+\newblock Using mostly native data to correct errors in learners' writing: A
+  meta-classifier approach.
+\newblock In {\em 2010 Conference of the North American Chapter of the
+  Association for Computational Linguistics}. Association for Computational
+  Linguistics.
+
 \bibitem[\protect\citeauthoryear{Hall, Frank, Holmes, Pfahringer, Reutemann,
   and Witten}{Hall et~al\mbox{.}}{2009}]{hall-et-al:2009}
 {\sc Hall, M.}, {\sc Frank, E.}, {\sc Holmes, G.}, {\sc Pfahringer, B.}, {\sc
   Reutemann, P.}, {\sc and} {\sc Witten, I.~H.} 2009.
 \newblock The {WEKA} data mining software: An update.
 \newblock {\em {SIGKDD} Explorations\/}~{\em 11,\/}~1.
+
+\bibitem[\protect\citeauthoryear{Hinkel}{Hinkel}{2003}]{hinkel:2003}
+{\sc Hinkel, E.} 2003.
+\newblock Simplicity without elegance: Features of sentences in l1 and l2
+  academic texts.
+\newblock {\em TESOL Quarterly\/}~{\em 37,\/}~2, 275--301.
 
 \bibitem[\protect\citeauthoryear{Hulstijn and Marchena}{Hulstijn and
   Marchena}{1989}]{hulstijn:1989}
@@ -78,16 +134,74 @@
 \newblock {\em Studies in Second Language Acquisition\/}~{\em 15,\/}~01,
   35--48.
 
+\bibitem[\protect\citeauthoryear{Lee and Seneff}{Lee and
+  Seneff}{2006}]{lee:2006}
+{\sc Lee, J.} {\sc and} {\sc Seneff, S.} 2006.
+\newblock Automatic grammar correction for second-language learners.
+\newblock In {\em {INTERSPEECH}-2006}. 1978--1981.
+
+\bibitem[\protect\citeauthoryear{Lee}{Lee}{2009}]{lee:2009}
+{\sc Lee, J. S.~Y.} 2009.
+\newblock Automatic correction of grammatical erros in non-native english text.
+\newblock Ph.D. thesis, Massachusetts Institute of Technology.
+
 \bibitem[\protect\citeauthoryear{Liao and Fukuya}{Liao and
   Fukuya}{2004}]{liao:2004}
 {\sc Liao, Y.} {\sc and} {\sc Fukuya, Y.~J.} 2004.
 \newblock Avoidance of phrasal verbs: The case of chinese learners of english.
 \newblock {\em Language Learning\/}~{\em 54,\/}~2, 193--226.
 
+\bibitem[\protect\citeauthoryear{Marcus, Marcinkiewicz, and Santorini}{Marcus
+  et~al\mbox{.}}{1993}]{marcus:1993}
+{\sc Marcus, M.~P.}, {\sc Marcinkiewicz, M.~A.}, {\sc and} {\sc Santorini, B.}
+  1993.
+\newblock Building a large annotated corpus of english: the penn treebank.
+\newblock {\em Computational Linguistics\/}~{\em 19,\/}~2, 313--330.
+
+\bibitem[\protect\citeauthoryear{Piera}{Piera}{1995}]{piera:1995}
+{\sc Piera, C.} 1995.
+\newblock On compounding in {E}nglish and {S}panish.
+\newblock In {\em Evolution and Revolution in Linguistic Theory}, {H.~Campos},
+  Ed. Georgetown University Press, 302--315.
+
 \bibitem[\protect\citeauthoryear{Quinlan}{Quinlan}{1993}]{quinlan:1993}
 {\sc Quinlan, J.~R.} 1993.
 \newblock {\em {C4.5}: Programs for Machine Learning}.
 \newblock Morgan Kaufmann Publishers.
+
+\bibitem[\protect\citeauthoryear{Quirk, Greenbaum, Leech, and Svartvik}{Quirk
+  et~al\mbox{.}}{1985}]{quirk:1985}
+{\sc Quirk, R.}, {\sc Greenbaum, S.}, {\sc Leech, G.}, {\sc and} {\sc Svartvik,
+  J.} 1985.
+\newblock {\em A Comprehensive Grammar of the English Language}.
+\newblock Longman.
+
+\bibitem[\protect\citeauthoryear{Ringbom}{Ringbom}{1998}]{ringbom:1998}
+{\sc Ringbom, H.} 1998.
+\newblock High-frequency verbs in the icle corpus.
+\newblock In {\em Explorations in corpus linguistics}, {A.~Renouf}, Ed.
+  Language and Computers: Studies in Practical Linguistics. Rodopi.
+
+\bibitem[\protect\citeauthoryear{Vernon}{Vernon}{2000}]{vernon:2000}
+{\sc Vernon, A.} 2000.
+\newblock Computerized grammar checkers 2000: capabilities, limitations, and
+  pedagogical possibilities.
+\newblock {\em Computers and Composition\/}~{\em 17,\/}~3, 329 -- 349.
+
+\bibitem[\protect\citeauthoryear{Wagner, Foster, and van Genabith}{Wagner
+  et~al\mbox{.}}{2007}]{wagner:2007}
+{\sc Wagner, J.}, {\sc Foster, J.}, {\sc and} {\sc van Genabith, J.} 2007.
+\newblock A comparative evaluation of deep and shallow approaches to the
+  automatic detection of common grammatical errors.
+\newblock In {\em Proceedings of the 2007 Joint Conference on Empirical Methods
+  in Natural Language processing and Computational Natural Language Learning}.
+  Association for Computational Linguistics, 112--121.
+
+\bibitem[\protect\citeauthoryear{Ward and Birner}{Ward and
+  Birner}{2008}]{ward:2008}
+{\sc Ward, G.} {\sc and} {\sc Birner, B.} 2008.
+\newblock {\em Information Structure and Non-canonical Syntax}.
+\newblock Blackwell Publishing Ltd, 152--174.
 
 \bibitem[\protect\citeauthoryear{Whitley}{Whitley}{1986}]{whitley:1986}
 {\sc Whitley, M.~S.} 1986.

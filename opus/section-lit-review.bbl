@@ -1,0 +1,60 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Apt{\'e}, Damerau, and Weiss}{Apt{\'e}
+  et~al\mbox{.}}{1994}]{apte:1994}
+{\sc Apt{\'e}, C.}, {\sc Damerau, F.}, {\sc and} {\sc Weiss, S.~M.} 1994.
+\newblock Automated learning of decision rules for text categorization.
+\newblock {\em ACM Trans. Inf. Syst.\/}~{\em 12,\/}~3, 233--251.
+
+\bibitem[\protect\citeauthoryear{Berry}{Berry}{2004}]{berry:2004}
+{\sc Berry, M.} 2004.
+\newblock {\em Survey of text mining: clustering, classification, and
+  retrieval}.
+\newblock Number v. 1. Springer.
+
+\bibitem[\protect\citeauthoryear{Clifford, Jarke, and Vassiliou}{Clifford
+  et~al\mbox{.}}{1983}]{clifford:1983}
+{\sc Clifford, J.}, {\sc Jarke, M.}, {\sc and} {\sc Vassiliou, Y.} 1983.
+\newblock {A Short Introduction to Expert Systems}.
+\newblock {\em SSRN eLibrary\/}.
+
+\bibitem[\protect\citeauthoryear{Cormack}{Cormack}{2008}]{cormack:2008}
+{\sc Cormack, G.~V.} 2008.
+\newblock Email spam filtering: A systematic review.
+\newblock {\em Found. Trends Inf. Retr.\/}~{\em 1,\/}~4, 335--455.
+
+\bibitem[\protect\citeauthoryear{Gamon}{Gamon}{2010}]{gamon:2010}
+{\sc Gamon, M.} 2010.
+\newblock Using mostly native data to correct errors in learners' writing: A
+  meta-classifier approach.
+\newblock In {\em 2010 Conference of the North American Chapter of the
+  Association for Computational Linguistics}. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citeauthoryear{Lee and Seneff}{Lee and
+  Seneff}{2006}]{lee:2006}
+{\sc Lee, J.} {\sc and} {\sc Seneff, S.} 2006.
+\newblock Automatic grammar correction for second-language learners.
+\newblock In {\em {INTERSPEECH}-2006}. 1978--1981.
+
+\bibitem[\protect\citeauthoryear{Lee}{Lee}{2009}]{lee:2009}
+{\sc Lee, J. S.~Y.} 2009.
+\newblock Automatic correction of grammatical erros in non-native english text.
+\newblock Ph.D. thesis, Massachusetts Institute of Technology.
+
+\bibitem[\protect\citeauthoryear{Vernon}{Vernon}{2000}]{vernon:2000}
+{\sc Vernon, A.} 2000.
+\newblock Computerized grammar checkers 2000: capabilities, limitations, and
+  pedagogical possibilities.
+\newblock {\em Computers and Composition\/}~{\em 17,\/}~3, 329 -- 349.
+
+\bibitem[\protect\citeauthoryear{Wagner, Foster, and van Genabith}{Wagner
+  et~al\mbox{.}}{2007}]{wagner:2007}
+{\sc Wagner, J.}, {\sc Foster, J.}, {\sc and} {\sc van Genabith, J.} 2007.
+\newblock A comparative evaluation of deep and shallow approaches to the
+  automatic detection of common grammatical errors.
+\newblock In {\em Proceedings of the 2007 Joint Conference on Empirical Methods
+  in Natural Language processing and Computational Natural Language Learning}.
+  Association for Computational Linguistics, 112--121.
+
+\end{thebibliography}

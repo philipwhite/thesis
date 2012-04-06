@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 MAR 2012 09:46
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  5 APR 2012 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -564,6 +564,9 @@ loaded))
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/flafter.sty
+Package: flafter 2000/07/23 v1.2i Standard LaTeX floats after reference (FMi)
 )))
 (./section-method-expln.aux)
 \openout1 = `section-method-expln.aux'.
@@ -712,11 +715,11 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
 <ps-tree.pdf, id=1, 435.6275pt x 333.245pt>
 File: ps-tree.pdf Graphic file (type pdf)
  <use ps-tree.pdf>
-Package pdftex.def Info: ps-tree.pdf used on input line 30.
+Package pdftex.def Info: ps-tree.pdf used on input line 31.
 (pdftex.def)             Requested size: 261.37851pt x 199.94853pt.
  [1
 
@@ -725,49 +728,48 @@ s-tree.pdf>]
 <ps-tree-ambig1.pdf, id=29, 645.41125pt x 477.785pt>
 File: ps-tree-ambig1.pdf Graphic file (type pdf)
  <use ps-tree-ambig1.pdf>
-Package pdftex.def Info: ps-tree-ambig1.pdf used on input line 39.
+Package pdftex.def Info: ps-tree-ambig1.pdf used on input line 40.
 (pdftex.def)             Requested size: 387.24974pt x 286.6732pt.
 
-<ps-tree-ambig2.pdf, id=30, 632.3625pt x 694.595pt>
+<ps-tree-ambig2.pdf, id=30, 668.4975pt x 622.325pt>
 File: ps-tree-ambig2.pdf Graphic file (type pdf)
  <use ps-tree-ambig2.pdf>
-Package pdftex.def Info: ps-tree-ambig2.pdf used on input line 45.
-(pdftex.def)             Requested size: 379.42043pt x 416.76022pt.
+Package pdftex.def Info: ps-tree-ambig2.pdf used on input line 46.
+(pdftex.def)             Requested size: 401.1016pt x 373.39787pt.
 
 [3 <./ps-tree-ambig1.pdf>] [4 <./ps-tree-ambig2.pdf>] [5]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
- [6] [7] [8]
-(./section-method-expln.bbl [9]) [10] (./section-method-expln.aux) ) 
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
+ [6] [7] [8] [9]
+(./section-method-expln.bbl [10]) [11] (./section-method-expln.aux) ) 
 Here is how much of TeX's memory you used:
- 7666 strings out of 493633
- 106125 string characters out of 3143378
- 224564 words of memory out of 3000000
- 10779 multiletter control sequences out of 15000+200000
- 26636 words of font info for 62 fonts, out of 3000000 for 9000
+ 7682 strings out of 493633
+ 106402 string characters out of 3143378
+ 224707 words of memory out of 3000000
+ 10788 multiletter control sequences out of 15000+200000
+ 32795 words of font info for 70 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,18n,40p,3302b,524s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local
-/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2011/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2011/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2011/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type
-1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/time
-s/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.
-pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyatip10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on section-method-expln.pdf (10 pages, 201553 bytes).
+ 51i,18n,40p,3302b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/loca
+l/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2011/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2011/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2011/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2011/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2011/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2011/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/t
+ype1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/t
+imes/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri
+8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyatip10.pf
+b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
+Output written on section-method-expln.pdf (11 pages, 199581 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
+ 141 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

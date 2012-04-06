@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  5 APR 2012 14:20
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  5 APR 2012 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**\input section-corpora.tex
-(./section-corpora.tex
+**\input section-lit-review.tex
+(./section-lit-review.tex
 (/Users/philip/Library/texmf/tex/latex/subfiles/subfiles.cls
 Document Class: subfiles 2002/06/08 Federico Garcia
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/verbatim.sty
@@ -565,8 +565,8 @@ loaded))
 (/usr/local/texlive/2011/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )))
-(./section-corpora.aux)
-\openout1 = `section-corpora.aux'.
+(./section-lit-review.aux)
+\openout1 = `section-lit-review.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -709,29 +709,38 @@ e
 Package xypdf Info: Line width: 0.47998pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./section-corpora.bbl) [2] (./section-corpora.aux) ) 
+[2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+
+
+LaTeX Warning: Reference `subsec:parsing' on page 3 undefined on input line 12.
+
+
+[3] (./section-lit-review.bbl [4]) [5] (./section-lit-review.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7590 strings out of 493633
- 104981 string characters out of 3143378
- 220112 words of memory out of 3000000
- 10711 multiletter control sequences out of 15000+200000
- 18228 words of font info for 50 fonts, out of 3000000 for 9000
+ 7612 strings out of 493633
+ 105400 string characters out of 3143378
+ 223499 words of memory out of 3000000
+ 10732 multiletter control sequences out of 15000+200000
+ 17227 words of font info for 46 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,7n,40p,3297b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/t
-exmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts
-/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw
-/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utm
-ri8a.pfb>
-Output written on section-corpora.pdf (2 pages, 33416 bytes).
+ 51i,4n,40p,3300b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
+1/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-di
+st/fonts/type1/urw/times/utmri8a.pfb>
+Output written on section-lit-review.pdf (5 pages, 51793 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: section-lit-review.aux
+The style file: acmsmall.bst
+Database file #1: bibliography.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--there's a number but no series in berry:2004
+Warning--empty address in berry:2004
+Warning--no number and no volume in clifford:1983
+Warning--page numbers missing in clifford:1983
+Warning--empty publisher in gamon:2010
+Warning--empty address in gamon:2010
+Warning--empty publisher in lee:2006
+Warning--empty address in lee:2006
+Warning--empty publisher in wagner:2007
+Warning--empty address in wagner:2007
+You've used 9 entries,
+            3177 wiz_defined-function locations,
+            784 strings with 7212 characters,
+and the built_in function-call counts, 5615 in all, are:
+= -- 516
+> -- 257
+< -- 1
++ -- 57
+- -- 97
+* -- 478
+:= -- 924
+add.period$ -- 40
+call.type$ -- 9
+change.case$ -- 60
+chr.to.int$ -- 9
+cite$ -- 19
+duplicate$ -- 197
+empty$ -- 427
+format.name$ -- 125
+if$ -- 1106
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 12
+newline$ -- 48
+num.names$ -- 90
+pop$ -- 57
+preamble$ -- 1
+purify$ -- 115
+quote$ -- 0
+skip$ -- 186
+stack$ -- 0
+substring$ -- 331
+swap$ -- 66
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 170
+warning$ -- 10
+while$ -- 80
+width$ -- 0
+write$ -- 125
+(There were 10 warnings)
