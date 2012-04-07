@@ -1,0 +1,448 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D4DA58FD153079290044FF04 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4DA58FC153079290044FF04 /* Cocoa.framework */; };
+		D4DA5907153079290044FF04 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D4DA5905153079290044FF04 /* InfoPlist.strings */; };
+		D4DA5909153079290044FF04 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D4DA5908153079290044FF04 /* main.m */; };
+		D4DA590D153079290044FF04 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D4DA590B153079290044FF04 /* Credits.rtf */; };
+		D4DA5910153079290044FF04 /* RIVAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D4DA590F153079290044FF04 /* RIVAppDelegate.m */; };
+		D4DA5913153079290044FF04 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4DA5911153079290044FF04 /* MainMenu.xib */; };
+		D4DA591B153079290044FF04 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4DA591A153079290044FF04 /* SenTestingKit.framework */; };
+		D4DA591C153079290044FF04 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4DA58FC153079290044FF04 /* Cocoa.framework */; };
+		D4DA5924153079290044FF04 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D4DA5922153079290044FF04 /* InfoPlist.strings */; };
+		D4DA5927153079290044FF04 /* InterfaceSimulatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D4DA5926153079290044FF04 /* InterfaceSimulatorTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D4DA591D153079290044FF04 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D4DA58EF153079290044FF04 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D4DA58F7153079290044FF04;
+			remoteInfo = InterfaceSimulator;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D4DA58F8153079290044FF04 /* InterfaceSimulator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InterfaceSimulator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4DA58FC153079290044FF04 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		D4DA58FF153079290044FF04 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		D4DA5900153079290044FF04 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		D4DA5901153079290044FF04 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D4DA5904153079290044FF04 /* InterfaceSimulator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InterfaceSimulator-Info.plist"; sourceTree = "<group>"; };
+		D4DA5906153079290044FF04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D4DA5908153079290044FF04 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D4DA590A153079290044FF04 /* InterfaceSimulator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "InterfaceSimulator-Prefix.pch"; sourceTree = "<group>"; };
+		D4DA590C153079290044FF04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		D4DA590E153079290044FF04 /* RIVAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RIVAppDelegate.h; sourceTree = "<group>"; };
+		D4DA590F153079290044FF04 /* RIVAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RIVAppDelegate.m; sourceTree = "<group>"; };
+		D4DA5912153079290044FF04 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		D4DA5919153079290044FF04 /* InterfaceSimulatorTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InterfaceSimulatorTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4DA591A153079290044FF04 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		D4DA5921153079290044FF04 /* InterfaceSimulatorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InterfaceSimulatorTests-Info.plist"; sourceTree = "<group>"; };
+		D4DA5923153079290044FF04 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D4DA5925153079290044FF04 /* InterfaceSimulatorTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InterfaceSimulatorTests.h; sourceTree = "<group>"; };
+		D4DA5926153079290044FF04 /* InterfaceSimulatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InterfaceSimulatorTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D4DA58F5153079290044FF04 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D4DA58FD153079290044FF04 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4DA5915153079290044FF04 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D4DA591B153079290044FF04 /* SenTestingKit.framework in Frameworks */,
+				D4DA591C153079290044FF04 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D4DA58ED153079290044FF04 = {
+			isa = PBXGroup;
+			children = (
+				D4DA5902153079290044FF04 /* InterfaceSimulator */,
+				D4DA591F153079290044FF04 /* InterfaceSimulatorTests */,
+				D4DA58FB153079290044FF04 /* Frameworks */,
+				D4DA58F9153079290044FF04 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D4DA58F9153079290044FF04 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D4DA58F8153079290044FF04 /* InterfaceSimulator.app */,
+				D4DA5919153079290044FF04 /* InterfaceSimulatorTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D4DA58FB153079290044FF04 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D4DA58FC153079290044FF04 /* Cocoa.framework */,
+				D4DA591A153079290044FF04 /* SenTestingKit.framework */,
+				D4DA58FE153079290044FF04 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D4DA58FE153079290044FF04 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D4DA58FF153079290044FF04 /* AppKit.framework */,
+				D4DA5900153079290044FF04 /* CoreData.framework */,
+				D4DA5901153079290044FF04 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		D4DA5902153079290044FF04 /* InterfaceSimulator */ = {
+			isa = PBXGroup;
+			children = (
+				D4DA590E153079290044FF04 /* RIVAppDelegate.h */,
+				D4DA590F153079290044FF04 /* RIVAppDelegate.m */,
+				D4DA5911153079290044FF04 /* MainMenu.xib */,
+				D4DA5903153079290044FF04 /* Supporting Files */,
+			);
+			path = InterfaceSimulator;
+			sourceTree = "<group>";
+		};
+		D4DA5903153079290044FF04 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D4DA5904153079290044FF04 /* InterfaceSimulator-Info.plist */,
+				D4DA5905153079290044FF04 /* InfoPlist.strings */,
+				D4DA5908153079290044FF04 /* main.m */,
+				D4DA590A153079290044FF04 /* InterfaceSimulator-Prefix.pch */,
+				D4DA590B153079290044FF04 /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D4DA591F153079290044FF04 /* InterfaceSimulatorTests */ = {
+			isa = PBXGroup;
+			children = (
+				D4DA5925153079290044FF04 /* InterfaceSimulatorTests.h */,
+				D4DA5926153079290044FF04 /* InterfaceSimulatorTests.m */,
+				D4DA5920153079290044FF04 /* Supporting Files */,
+			);
+			path = InterfaceSimulatorTests;
+			sourceTree = "<group>";
+		};
+		D4DA5920153079290044FF04 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D4DA5921153079290044FF04 /* InterfaceSimulatorTests-Info.plist */,
+				D4DA5922153079290044FF04 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D4DA58F7153079290044FF04 /* InterfaceSimulator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D4DA592A153079290044FF04 /* Build configuration list for PBXNativeTarget "InterfaceSimulator" */;
+			buildPhases = (
+				D4DA58F4153079290044FF04 /* Sources */,
+				D4DA58F5153079290044FF04 /* Frameworks */,
+				D4DA58F6153079290044FF04 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = InterfaceSimulator;
+			productName = InterfaceSimulator;
+			productReference = D4DA58F8153079290044FF04 /* InterfaceSimulator.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D4DA5918153079290044FF04 /* InterfaceSimulatorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D4DA592D153079290044FF04 /* Build configuration list for PBXNativeTarget "InterfaceSimulatorTests" */;
+			buildPhases = (
+				D4DA5914153079290044FF04 /* Sources */,
+				D4DA5915153079290044FF04 /* Frameworks */,
+				D4DA5916153079290044FF04 /* Resources */,
+				D4DA5917153079290044FF04 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D4DA591E153079290044FF04 /* PBXTargetDependency */,
+			);
+			name = InterfaceSimulatorTests;
+			productName = InterfaceSimulatorTests;
+			productReference = D4DA5919153079290044FF04 /* InterfaceSimulatorTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D4DA58EF153079290044FF04 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = D4DA58F2153079290044FF04 /* Build configuration list for PBXProject "InterfaceSimulator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D4DA58ED153079290044FF04;
+			productRefGroup = D4DA58F9153079290044FF04 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D4DA58F7153079290044FF04 /* InterfaceSimulator */,
+				D4DA5918153079290044FF04 /* InterfaceSimulatorTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D4DA58F6153079290044FF04 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D4DA5907153079290044FF04 /* InfoPlist.strings in Resources */,
+				D4DA590D153079290044FF04 /* Credits.rtf in Resources */,
+				D4DA5913153079290044FF04 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4DA5916153079290044FF04 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D4DA5924153079290044FF04 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		D4DA5917153079290044FF04 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D4DA58F4153079290044FF04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D4DA5909153079290044FF04 /* main.m in Sources */,
+				D4DA5910153079290044FF04 /* RIVAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4DA5914153079290044FF04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D4DA5927153079290044FF04 /* InterfaceSimulatorTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D4DA591E153079290044FF04 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D4DA58F7153079290044FF04 /* InterfaceSimulator */;
+			targetProxy = D4DA591D153079290044FF04 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D4DA5905153079290044FF04 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D4DA5906153079290044FF04 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		D4DA590B153079290044FF04 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D4DA590C153079290044FF04 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		D4DA5911153079290044FF04 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D4DA5912153079290044FF04 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		D4DA5922153079290044FF04 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D4DA5923153079290044FF04 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D4DA5928153079290044FF04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D4DA5929153079290044FF04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D4DA592B153079290044FF04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "InterfaceSimulator/InterfaceSimulator-Prefix.pch";
+				INFOPLIST_FILE = "InterfaceSimulator/InterfaceSimulator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		D4DA592C153079290044FF04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "InterfaceSimulator/InterfaceSimulator-Prefix.pch";
+				INFOPLIST_FILE = "InterfaceSimulator/InterfaceSimulator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		D4DA592E153079290044FF04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/InterfaceSimulator.app/Contents/MacOS/InterfaceSimulator";
+				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "InterfaceSimulator/InterfaceSimulator-Prefix.pch";
+				INFOPLIST_FILE = "InterfaceSimulatorTests/InterfaceSimulatorTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		D4DA592F153079290044FF04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/InterfaceSimulator.app/Contents/MacOS/InterfaceSimulator";
+				FRAMEWORK_SEARCH_PATHS = "$(DEVELOPER_LIBRARY_DIR)/Frameworks";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "InterfaceSimulator/InterfaceSimulator-Prefix.pch";
+				INFOPLIST_FILE = "InterfaceSimulatorTests/InterfaceSimulatorTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D4DA58F2153079290044FF04 /* Build configuration list for PBXProject "InterfaceSimulator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4DA5928153079290044FF04 /* Debug */,
+				D4DA5929153079290044FF04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D4DA592A153079290044FF04 /* Build configuration list for PBXNativeTarget "InterfaceSimulator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4DA592B153079290044FF04 /* Debug */,
+				D4DA592C153079290044FF04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		D4DA592D153079290044FF04 /* Build configuration list for PBXNativeTarget "InterfaceSimulatorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4DA592E153079290044FF04 /* Debug */,
+				D4DA592F153079290044FF04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D4DA58EF153079290044FF04 /* Project object */;
+}

@@ -41,14 +41,27 @@
 %So citations work well with subfiles
 \def\biblio{\bibliographystyle{acmsmall}\bibliography{bibliography}}
 
+\let\stdsection\section
+\renewcommand\section{\newpage\stdsection}
+
+\raggedright
+\setlength{\parindent}{0.5in}
 
 \begin{document}
 \def\biblio{} %see note above on subfiles
 
 
 \maketitle
+\thispagestyle{empty}
+
+\pagenumbering{roman}
+\tableofcontents
 
 %\subfile{abstract}
+\newpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
 \subfile{section-intro}
 \subfile{section-lit-review}
 \subfile{section-corpora}

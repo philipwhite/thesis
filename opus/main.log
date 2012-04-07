@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  5 APR 2012 20:22
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  7 APR 2012 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -573,19 +573,19 @@ LaTeX Warning: Label `ex:peak_of' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 50.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -710,50 +710,54 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package xypdf Info: Line width: 0.47998pt on input line 45.
-(./section-intro.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-) (./section-lit-review.tex [1
+Package xypdf Info: Line width: 0.47998pt on input line 50.
+[1
 
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-) (./section-corpora.tex
-[4]
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+
+(./main.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+ [2])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [3] (./section-intro.tex [1]) (./section-lit-review.tex
+[2] [3] [4] [5]) (./section-corpora.tex [6]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-) (./section-method-expln.tex
+ [7]) (./section-method-expln.tex
+[8]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
- [5]
-<ps-tree.pdf, id=21, 435.6275pt x 333.245pt>
+ <ps-tree.pdf, id=40, 435.6275pt x 333.245pt>
 File: ps-tree.pdf Graphic file (type pdf)
  <use ps-tree.pdf>
 Package pdftex.def Info: ps-tree.pdf used on input line 31.
 (pdftex.def)             Requested size: 261.37851pt x 199.94853pt.
- [6] [7 <./ps-tree.pdf>] <ps-tree-ambig1.pdf, id=45, 645.41125pt x 477.785pt>
+ [9] [10 <./ps-tree.pdf>] <ps-tree-ambig1.pdf, id=64, 645.41125pt x 477.785pt>
 File: ps-tree-ambig1.pdf Graphic file (type pdf)
 
 <use ps-tree-ambig1.pdf>
 Package pdftex.def Info: ps-tree-ambig1.pdf used on input line 40.
 (pdftex.def)             Requested size: 387.24974pt x 286.6732pt.
- <ps-tree-ambig2.pdf, id=46, 668.4975pt x 622.325pt>
+ <ps-tree-ambig2.pdf, id=65, 668.4975pt x 622.325pt>
 File: ps-tree-ambig2.pdf Graphic file (type pdf)
 
 <use ps-tree-ambig2.pdf>
 Package pdftex.def Info: ps-tree-ambig2.pdf used on input line 46.
 (pdftex.def)             Requested size: 401.1016pt x 373.39787pt.
- [8 <./ps-tree-ambig1.pdf>] [9 <./ps-tree-ambig2.pdf>]
-[10]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
- [11] [12] [13] [14]) (./section-dep-reln.tex [15] [16]
-<c45-dep-graph.pdf, id=107, 783.92876pt x 676.5275pt>
+ [11 <./ps-tree-ambig1.pdf>] [12 <./ps-tree-ambig2.pdf>] [13] [14] [15] [16] [1
+7]) (./section-dep-reln.tex [18] [19]
+<c45-dep-graph.pdf, id=126, 783.92876pt x 676.5275pt>
 File: c45-dep-graph.pdf Graphic file (type pdf)
  <use c45-dep-graph.pdf>
 Package pdftex.def Info: c45-dep-graph.pdf used on input line 14.
 (pdftex.def)             Requested size: 433.62pt x 374.21779pt.
 
-<xymatrix 4x1 124> <xymatrix 3x1 120> [17] [18 <./c45-dep-graph.pdf>]
+[20] [21 <./c45-dep-graph.pdf>] <xymatrix 4x1 124> <xymatrix 3x1 120>
 <xymatrix 12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258>
 Underfull \hbox (badness 10000) in paragraph at lines 131--131
 []\OT1/ptm/b/n/10.95 Figure 5.3: |\OT1/ptm/m/n/10.95 The De-pen-den-cies $\OML/
@@ -762,7 +766,7 @@ cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n
 \OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$
  []
 
-[19] [20] <xymatrix 5x1 128> <xymatrix 8x1 140> [21] <xymatrix 12x1 474>
+[22] [23] <xymatrix 5x1 128> <xymatrix 8x1 140> [24] <xymatrix 12x1 474>
 Underfull \hbox (badness 6300) in paragraph at lines 210--210
 []\OT1/ptm/b/n/10.95 Figure 5.5: |\OT1/ptm/m/n/10.95 The de-pen-den-cies $\OML/
 cmm/m/it/10.95 det\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10
@@ -772,108 +776,131 @@ L/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/1
 1/ptm/m/n/10.95 and
  []
 
-[22] [23] [24] <xymatrix 7x1 136> [25] <xymatrix 11x1 152> [26] <xymatrix 9x1
-144> <xymatrix 10x1 148> [27] <xymatrix 12x1 262> [28] <xymatrix 9x1 144>
-[29] [30] <xymatrix 7x1 136> [31]) (./section-args.tex [32] <xymatrix 8x1 246>
+[25] [26] [27] <xymatrix 7x1 136> [28] <xymatrix 11x1 152> [29] <xymatrix 9x1
+144> <xymatrix 10x1 148> [30] <xymatrix 12x1 262> [31] <xymatrix 9x1 144>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32] [33] <xymatrix 7x1 136> [34]) (./section-args.tex [35] <xymatrix 8x1 246>
 <xymatrix 10x1 368> <xymatrix 10x1 466> <xymatrix 9x1 356> <xymatrix 7x1 242>
 <xymatrix 7x1 242>
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
- [33] [34] [35] [36]
-<c45-val.pdf, id=192, 205.76875pt x 224.84pt>
+ [36] [37] [38] [39]
+<c45-val.pdf, id=211, 205.76875pt x 224.84pt>
 File: c45-val.pdf Graphic file (type pdf)
  <use c45-val.pdf>
 Package pdftex.def Info: c45-val.pdf used on input line 167.
 (pdftex.def)             Requested size: 108.405pt x 118.45102pt.
- [37 <./c45-val.pdf>] <c45-num-lex.pdf, id=215, 265.99374pt x 315.1775pt>
+ [40 <./c45-val.pdf>] <c45-num-lex.pdf, id=234, 265.99374pt x 315.1775pt>
 File: c45-num-lex.pdf Graphic file (type pdf)
 
 <use c45-num-lex.pdf>
 Package pdftex.def Info: c45-num-lex.pdf used on input line 190.
 (pdftex.def)             Requested size: 144.54pt x 171.27057pt.
- [38 <./c45-num-lex.pdf>] [39]
-<c45-lex-role.pdf, id=240, 576.1525pt x 766.865pt>
+ [41 <./c45-num-lex.pdf>] [42]
+<c45-lex-role.pdf, id=259, 576.1525pt x 766.865pt>
 File: c45-lex-role.pdf Graphic file (type pdf)
  <use c45-lex-role.pdf>
 Package pdftex.def Info: c45-lex-role.pdf used on input line 213.
 (pdftex.def)             Requested size: 289.07999pt x 384.77722pt.
 
-[40 <./c45-lex-role.pdf>] [41] [42]) (./section-verbs.tex [43] [44]
-<verb-parse.pdf, id=275, 387.4475pt x 550.055pt>
+[43 <./c45-lex-role.pdf>] [44] [45]) (./section-verbs.tex [46] [47]
+<verb-parse.pdf, id=294, 387.4475pt x 550.055pt>
 File: verb-parse.pdf Graphic file (type pdf)
  <use verb-parse.pdf>
 Package pdftex.def Info: verb-parse.pdf used on input line 56.
 (pdftex.def)             Requested size: 232.47029pt x 330.03554pt.
 
-<modal-parse.pdf, id=276, 206.7725pt x 333.245pt>
+<modal-parse.pdf, id=295, 206.7725pt x 333.245pt>
 File: modal-parse.pdf Graphic file (type pdf)
  <use modal-parse.pdf>
 Package pdftex.def Info: modal-parse.pdf used on input line 64.
 (pdftex.def)             Requested size: 124.06445pt x 199.94853pt.
 
-[45] [46 <./verb-parse.pdf> <./modal-parse.pdf>]
-<modal-able.pdf, id=307, 319.1925pt x 550.055pt>
+[48] [49 <./verb-parse.pdf> <./modal-parse.pdf>]
+<modal-able.pdf, id=327, 319.1925pt x 550.055pt>
 File: modal-able.pdf Graphic file (type pdf)
  <use modal-able.pdf>
 Package pdftex.def Info: modal-able.pdf used on input line 78.
 (pdftex.def)             Requested size: 191.51697pt x 330.03554pt.
 
-<modal-going.pdf, id=308, 320.19624pt x 550.055pt>
+<modal-going.pdf, id=328, 320.19624pt x 550.055pt>
 File: modal-going.pdf Graphic file (type pdf)
  <use modal-going.pdf>
 Package pdftex.def Info: modal-going.pdf used on input line 85.
 (pdftex.def)             Requested size: 192.11922pt x 330.03554pt.
 
-<conj-verb.pdf, id=309, 435.6275pt x 405.515pt>
+[50] [51 <./modal-able.pdf>] [52 <./modal-going.pdf>]
+<conj-verb.pdf, id=363, 435.6275pt x 405.515pt>
 File: conj-verb.pdf Graphic file (type pdf)
  <use conj-verb.pdf>
 Package pdftex.def Info: conj-verb.pdf used on input line 95.
 (pdftex.def)             Requested size: 261.37851pt x 243.31087pt.
- [47]
-[48 <./modal-able.pdf>] [49 <./modal-going.pdf>]
-<conj-verb-ab.pdf, id=345, 436.63126pt x 333.245pt>
+
+<conj-verb-ab.pdf, id=364, 436.63126pt x 333.245pt>
 File: conj-verb-ab.pdf Graphic file (type pdf)
  <use conj-verb-ab.pdf>
 Package pdftex.def Info: conj-verb-ab.pdf used on input line 102.
 (pdftex.def)             Requested size: 261.98077pt x 199.94853pt.
 
-[50 <./conj-verb.pdf>]
-<unpruned-basic-verb-tree.pdf, id=361, 1023.825pt x 947.54pt>
+[53 <./conj-verb.pdf>]
+<unpruned-basic-verb-tree.pdf, id=380, 1023.825pt x 947.54pt>
 File: unpruned-basic-verb-tree.pdf Graphic file (type pdf)
 
 <use unpruned-basic-verb-tree.pdf>
 Package pdftex.def Info: unpruned-basic-verb-tree.pdf used on input line 114.
 (pdftex.def)             Requested size: 433.62pt x 401.30394pt.
 
-<pruned-basic-verb-tree.pdf, id=362, 536.0025pt x 694.595pt>
+<pruned-basic-verb-tree.pdf, id=381, 536.0025pt x 694.595pt>
 File: pruned-basic-verb-tree.pdf Graphic file (type pdf)
 
 <use pruned-basic-verb-tree.pdf>
 Package pdftex.def Info: pruned-basic-verb-tree.pdf used on input line 136.
 (pdftex.def)             Requested size: 289.07999pt x 374.60938pt.
- [51 <./conj-verb-ab.pdf>] [52 <./unpruned-basic-verb-tree.pdf>] [53 <./pruned-
-basic-verb-tree.pdf>] [54] [55] [56]
-<modal-phrasal-tree.pdf, id=430, 528.97626pt x 405.515pt>
+ [54 <./conj-verb-ab.pdf>] [55 <./unpruned-basic-verb-tree.pdf>] [56 <./pruned-
+basic-verb-tree.pdf>] [57] [58] [59]
+<modal-phrasal-tree.pdf, id=449, 528.97626pt x 405.515pt>
 File: modal-phrasal-tree.pdf Graphic file (type pdf)
 
 <use modal-phrasal-tree.pdf>
 Package pdftex.def Info: modal-phrasal-tree.pdf used on input line 246.
 (pdftex.def)             Requested size: 289.07999pt x 221.61076pt.
- [57] [58 <./modal-phrasal-tree.pdf>])
-(./section-discussion.tex [59] [60] [61]) (./section-conclusion.tex)
-(./main.bbl [62] [63] [64] [65]) [66] (./main.aux)
+ [60] [61] [62 <./modal-phrasal-tree.pdf>])
+(./section-discussion.tex [63] [64] [65]
+Package epstopdf Info: Source file: <tools-screenshot-bw.eps>
+(epstopdf)                    date: 2012-04-07 13:22:54
+(epstopdf)                    size: 438890 bytes
+(epstopdf)             Output file: <tools-screenshot-bw-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-04-07 13:23:22
+(epstopdf)                    size: 159786 bytes
+(epstopdf)             Command: <repstopdf --outfile=tools-screenshot-bw-eps-co
+nverted-to.pdf tools-screenshot-bw.eps>
+(epstopdf)             \includegraphics on input line 17.
+Package epstopdf Info: Output file is already uptodate.
+
+<tools-screenshot-bw-eps-converted-to.pdf, id=488, 602.25pt x 516.93124pt>
+File: tools-screenshot-bw-eps-converted-to.pdf Graphic file (type pdf)
+
+<use tools-screenshot-bw-eps-converted-to.pdf>
+Package pdftex.def Info: tools-screenshot-bw-eps-converted-to.pdf used on input
+ line 17.
+(pdftex.def)             Requested size: 361.35278pt x 310.16113pt.
+ [66] [67 <./tools-screenshot-bw-eps-converted-to.pdf>]) (./section-conclusion.
+tex [68] [69]) (./main.bbl
+[70] [71] [72] [73]) [74] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7949 strings out of 493633
- 110812 string characters out of 3143378
- 237623 words of memory out of 3000000
- 11015 multiletter control sequences out of 15000+200000
+ 7960 strings out of 493633
+ 111062 string characters out of 3143378
+ 235637 words of memory out of 3000000
+ 11021 multiletter control sequences out of 15000+200000
  39863 words of font info for 81 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,21n,41p,3246b,618s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,21n,41p,3246b,620s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -891,10 +918,10 @@ ype1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/t
 imes/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyatip10.pf
 b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on main.pdf (66 pages, 550997 bytes).
+Output written on main.pdf (77 pages, 700411 bytes).
 PDF statistics:
- 538 PDF objects out of 1000 (max. 8388607)
- 387 compressed objects within 4 object streams
+ 579 PDF objects out of 1000 (max. 8388607)
+ 414 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
