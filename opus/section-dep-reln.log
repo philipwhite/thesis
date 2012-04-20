@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  5 APR 2012 18:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  14 APR 2012 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -731,7 +731,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
 
-<xymatrix 4x1 124> <xymatrix 3x1 120> [2] [3 <./c45-dep-graph.pdf>] <xymatrix
+[2] [3 <./c45-dep-graph.pdf>] <xymatrix 4x1 124> <xymatrix 3x1 120> <xymatrix
 12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258>
 Underfull \hbox (badness 10000) in paragraph at lines 131--131
 []\OT1/ptm/b/n/10.95 Figure 1.3: |\OT1/ptm/m/n/10.95 The De-pen-den-cies $\OML/
@@ -752,6 +752,9 @@ L/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/1
 
 [7] [8] [9] <xymatrix 7x1 136> [10] <xymatrix 11x1 152> [11] <xymatrix 9x1
 144> <xymatrix 10x1 148> [12] <xymatrix 12x1 262> [13] <xymatrix 9x1 144>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [14] [15] <xymatrix 7x1 136> [16] (./section-dep-reln.bbl [17] [18]) [19]
 (./section-dep-reln.aux)
 
@@ -759,30 +762,29 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7717 strings out of 493633
- 106737 string characters out of 3143378
- 227229 words of memory out of 3000000
- 10828 multiletter control sequences out of 15000+200000
+ 7719 strings out of 493633
+ 106773 string characters out of 3143378
+ 226238 words of memory out of 3000000
+ 10830 multiletter control sequences out of 15000+200000
  26425 words of font info for 61 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,21n,40p,3298b,562s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,21n,40p,3298b,564s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
 live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texli
 ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
 /2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2
-011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
-11/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-d
-ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/
-type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/
-times/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/
-xyatip10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybti
-p10.pfb>
-Output written on section-dep-reln.pdf (19 pages, 174238 bytes).
+011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-
+dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts
+/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw
+/times/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic
+/xyatip10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybt
+ip10.pfb>
+Output written on section-dep-reln.pdf (19 pages, 160994 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
+ 130 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

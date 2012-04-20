@@ -1,0 +1,22 @@
+\contentsline {table}{\numberline {3.1}{\ignorespaces Corpora Composition\relax }}{8}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Relation abbreviations\relax }}{20}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Accuracy of C4.5 Classifier Using Dependency Attributes\relax }}{35}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Accuracy of Random Forest Classifier Using Dependency Attributes\relax }}{35}
+\contentsline {table}{\numberline {6.1}{\ignorespaces The Dependencies Used to Identify Verbal Arguments.\relax }}{36}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Pronouns Used to Determine Non-Lexical Status of Arguments.\relax }}{39}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Accuracy of Verbal Clause Valency C4.5 Classifier\relax }}{40}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Accuracy of Lexical Argument Density C4.5 Classifier\relax }}{42}
+\contentsline {table}{\numberline {6.5}{\ignorespaces Accuracy of Lexical Argument Role C4.5 Classifier\relax }}{44}
+\contentsline {table}{\numberline {6.6}{\ignorespaces Accuracy of Lexical Argument Role Random Forest Classifier\relax }}{45}
+\contentsline {table}{\numberline {6.7}{\ignorespaces Accuracy of Combined Random Forest Classifier\relax }}{45}
+\contentsline {table}{\numberline {7.1}{\ignorespaces English Verbal Forms Employing Modals\relax }}{47}
+\contentsline {table}{\numberline {7.2}{\ignorespaces English Verbal Forms Employing Phrasal Modals\relax }}{48}
+\contentsline {table}{\numberline {7.3}{\ignorespaces Accuracy of C4.5 Classifier Using Various Verbal Attributes With Default Pruning\relax }}{54}
+\contentsline {table}{\numberline {7.4}{\ignorespaces Accuracy of Agressively-Pruned C4.5 Classifier Using Various Verbal Attributes\relax }}{57}
+\contentsline {table}{\numberline {7.5}{\ignorespaces Accuracy of C4.5 Classifier Using Modal Attributes\relax }}{60}
+\contentsline {table}{\numberline {7.6}{\ignorespaces Correspondence Between Modals and Phrasal Modals\relax }}{61}
+\contentsline {table}{\numberline {7.7}{\ignorespaces Accuracy of C4.5 Classifier Using Modal vs Phrasal Attributes\relax }}{61}
+\contentsline {table}{\numberline {7.8}{\ignorespaces High Frequency Verbs\relax }}{62}
+\contentsline {table}{\numberline {7.9}{\ignorespaces Accuracy of C4.5 Classifier Using High Frequency Verb Attributes\relax }}{63}
+\contentsline {table}{\numberline {7.10}{\ignorespaces Accuracy of C4.5 Classifier Using All Verbal Attributes\relax }}{63}
+\contentsline {table}{\numberline {7.11}{\ignorespaces Accuracy of Random Forest Classifier Using All Verbal Attributes\relax }}{63}

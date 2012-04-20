@@ -1,33 +1,34 @@
-\contentsline {section}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {2}History and Similar Efforts}{3}
-\contentsline {section}{\numberline {3}Corpora}{7}
-\contentsline {section}{\numberline {4}Parsing and Classification}{9}
-\contentsline {subsection}{\numberline {4.1}Choice of Language}{9}
-\contentsline {subsection}{\numberline {4.2}Parsing}{9}
-\contentsline {subsection}{\numberline {4.3}The Tests}{13}
-\contentsline {subsection}{\numberline {4.4}Classification}{14}
-\contentsline {subsubsection}{\numberline {4.4.1}C4.5}{14}
-\contentsline {subsection}{\numberline {4.5}Random Forest}{18}
-\contentsline {section}{\numberline {5}Grammatical Relations}{19}
-\contentsline {subsection}{\numberline {5.1}Passive Auxiliary}{20}
-\contentsline {subsection}{\numberline {5.2}Complementizer}{22}
-\contentsline {subsection}{\numberline {5.3}Copula}{24}
-\contentsline {subsection}{\numberline {5.4}Determiner and Predeterminer}{25}
-\contentsline {subsection}{\numberline {5.5}Expletive}{28}
-\contentsline {subsection}{\numberline {5.6}Multi-Word Expression}{28}
-\contentsline {subsection}{\numberline {5.7}Noun Compound Modifier}{29}
-\contentsline {subsection}{\numberline {5.8}Noun Phrase as Adverbial Modifier}{30}
-\contentsline {subsection}{\numberline {5.9}Parataxis}{30}
-\contentsline {subsection}{\numberline {5.10}Possession and Possessive Modifiers}{31}
-\contentsline {subsection}{\numberline {5.11}Phrasal Verb Particle}{32}
-\contentsline {subsection}{\numberline {5.12}Quantifier Phrase Modifier}{34}
-\contentsline {subsection}{\numberline {5.13}The Unclassified Dependency}{35}
-\contentsline {subsection}{\numberline {5.14}Classification Accuracy}{35}
-\contentsline {section}{\numberline {6}Argument Structure}{36}
-\contentsline {section}{\numberline {7}Verbs}{46}
-\contentsline {subsection}{\numberline {7.1}Grammar}{46}
-\contentsline {subsection}{\numberline {7.2}Parsing of Verbs}{48}
-\contentsline {subsection}{\numberline {7.3}Classification}{54}
-\contentsline {section}{\numberline {8}Discussion}{65}
-\contentsline {subsection}{\numberline {8.1}Learner's Tool Design}{65}
-\contentsline {section}{\numberline {9}Conclusion}{69}
+\contentsline {section}{Introduction}{1}
+\contentsline {section}{History and Similar Efforts}{3}
+\contentsline {section}{Corpora}{7}
+\contentsline {section}{Parsing and Classification}{9}
+\contentsline {subsection}{Choice of Language}{9}
+\contentsline {subsection}{Parsing}{9}
+\contentsline {subsection}{The Tests}{13}
+\contentsline {subsection}{Classification}{14}
+\contentsline {subsubsection}{C4.5}{14}
+\contentsline {subsubsection}{Random Forest}{18}
+\contentsline {section}{Grammatical Relations}{19}
+\contentsline {subsection}{Passive Auxiliary}{22}
+\contentsline {subsection}{Complementizer}{22}
+\contentsline {subsection}{Copula}{24}
+\contentsline {subsection}{Determiner and Predeterminer}{25}
+\contentsline {subsection}{Expletive}{28}
+\contentsline {subsection}{Multi-Word Expression}{28}
+\contentsline {subsection}{Noun Compound Modifier}{29}
+\contentsline {subsection}{Noun Phrase as Adverbial Modifier}{30}
+\contentsline {subsection}{Parataxis}{30}
+\contentsline {subsection}{Possession and Possessive Modifiers}{31}
+\contentsline {subsection}{Phrasal Verb Particle}{32}
+\contentsline {subsection}{Quantifier Phrase Modifier}{34}
+\contentsline {subsection}{The Unclassified Dependency}{35}
+\contentsline {subsection}{Classification Accuracy}{35}
+\contentsline {section}{Argument Structure}{36}
+\contentsline {subsection}{Verbal Arguments}{36}
+\contentsline {subsection}{Classification Accuracy}{45}
+\contentsline {section}{Verbs}{47}
+\contentsline {subsection}{Grammar}{47}
+\contentsline {subsection}{Parsing of Verbs}{49}
+\contentsline {subsection}{Classification}{55}
+\contentsline {section}{Learner's Tool}{66}
+\contentsline {section}{Conclusion}{69}

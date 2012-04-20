@@ -2,6 +2,9 @@
 \begin{document}
 
 \section{Verbs}
+\setcounter{section}{7}
+\setcounter{table}{0}
+\setcounter{figure}{0}
 
 The experiments described in this section explore the suitability of using verbal features for language classification. The English verb shows limited grammatical inflection, in contrast to the Spanish verb, which is heavily inflected for tense, mood, number, and person. English, nevertheless, does have a great deal of complexity in its verbal system, employing a wide range of auxiliary verbs and particles to indicate the various possible tense, aspect, and mood combinations, as well as other subtleties of meaning. It is not possible to provide a detailed description of the English verbal system here, but an attempt will be made to touch on the most salient aspects. As they occur rarely in written texts, particularly in the corpora used in this study, question and imperative forms are not discussed here.
 
@@ -27,7 +30,7 @@ In addition to these basic inflected forms, the English verbal system relies on 
 \label{table:modal-verbs}
 \end{table}
 
-Very similar to the modals are the phrasal modals. The thirteen phrasal modals considered in this experiment are those listed by \citet[Ch. 3]{quirk:1985}, and are shown in Table~\ref{table:quasimodal-verbs}. Of these, \textit{dare to}, \textit{need to}, \textit{have got to}, \textit{have to}, and all those beginning with the verb \textit{be}, can be inflected to show tense, person, and number, and can generally be used in conjunction with modals. The remaining phrasal modals do not inflect to agree with the subject, and are restricted to the present tense, with the exception of \textit{used to}, which is restricted to the past tense. It is worth noting that \citet{quirk:1985} do not group all of these into one category, but into three separate categories of modal-like auxiliaries: \textit{marginal modals}, \textit{modal idioms}, and \textit{semi-auxiliaries}. Because a more complicated analysis of these constructions would add little to this study, the term phrasal modal is here applied to any multiword modal-like construction.
+Very similar to the modals are the phrasal modals. The thirteen phrasal modals considered in this experiment are those listed by \citet[pp. 136-47]{quirk:1985}, and are shown in Table~\ref{table:quasimodal-verbs}. Of these, \textit{dare to}, \textit{need to}, \textit{have got to}, \textit{have to}, and all those beginning with the verb \textit{be}, can be inflected to show tense, person, and number, and can generally be used in conjunction with modals. The remaining phrasal modals do not inflect to agree with the subject, and are restricted to the present tense, with the exception of \textit{used to}, which is restricted to the past tense. It is worth noting that \citet{quirk:1985} do not group all of these into one category, but into three separate categories of modal-like auxiliaries: \textit{marginal modals}, \textit{modal idioms}, and \textit{semi-auxiliaries}. Because a more complicated analysis of these constructions would add little to this study, the term phrasal modal is here applied to any multiword modal-like construction.
 
 \begin{table}[htbp]
 \small
@@ -45,7 +48,7 @@ Very similar to the modals are the phrasal modals. The thirteen phrasal modals c
 \label{table:quasimodal-verbs}
 \end{table}
 
-The words \textit{have}, \textit{be}, \textit{get}, and \textit{do}, which are full verbs in their own right, play an important role in English as auxiliary verbs. When used as such, they become the inflected element of the verb, being used in conjunction with a nonfinite form of the main verb. A form of the verb \textit{have} followed by a past participle indicates the perfective aspect (e.g., \textit{he has walked/had walked/will have walked/}etc.) \textit{Be}, in any of its forms, plays two roles as an auxiliary. Followed by a present participle it forms the progressive aspect (e.g., \textit{he is walking/was walking/will be walking/}etc.) Followed by a past participle, it forms the passive mood (e.g., \textit{he was pursued.}) A passive can also be formed using \textit{get} plus a past participle (e.g. \textit{he got hurt}) A finite form of \textit{do} is used to add emphasis to a sentence and to form questions, negatives, and affirmative responses to questions, but only when no modal is present (e.g., \textit{you do not drink wine} but \textit{you will not drink wine}).
+The words \textit{have}, \textit{be}, \textit{get}, and \textit{do}, which are full verbs in their own right, play an important role in English as auxiliary verbs. When used as such, they become the inflected element of the verb, being used in conjunction with a nonfinite form of the main verb. A form of the verb \textit{have} followed by a past participle indicates the perfective aspect (e.g., \textit{he has walked/had walked/will have walked/}etc.). \textit{Be}, in any of its forms, plays two roles as an auxiliary. Followed by a present participle it forms the progressive aspect (e.g., \textit{he is walking/was walking/will be walking/}etc.). Followed by a past participle, it forms the passive mood (e.g., \textit{he was pursued.}). A passive can also be formed using \textit{get} plus a past participle (e.g. \textit{he got hurt}). A finite form of \textit{do} is used to add emphasis to a sentence and to form questions, negatives, and affirmative responses to questions, but only when no modal is present (e.g., \textit{you do not drink wine} but \textit{you will not drink wine}).
 
 \subsection{Parsing of Verbs}
 
@@ -54,7 +57,7 @@ The Stanford Parser marks verbs, but does not explicitly mark all of the verbal 
 \begin{figure}[htbp]
 \centering
 \includegraphics[scale=0.6]{verb-parse.pdf}
-\caption{Typical Parse Tree Showing Verb Types.}
+\caption{Typical Parse Tree Showing Verb Types}
 \label{fig:verb-parse}
 \end{figure}
 
@@ -76,14 +79,14 @@ When fronted, the phrasal modals produce questionable sentences, as in (\ref{ex:
 \begin{figure}[htbp]
 \centering
 \includegraphics[scale=0.6]{modal-able.pdf}
-\caption{Parse Tree Showing Phrasal Modal \textit{be able to.}}
+\caption{Parse Tree Showing Phrasal Modal \textit{be able to}}
 \label{fig:quasimodal-able}
 \end{figure}
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[scale=0.6]{modal-going.pdf}
-\caption{Parse Tree Showing Phrasal Modal \textit{be going to.}}
+\caption{Parse Tree Showing Phrasal Modal \textit{be going to}}
 \label{fig:quasimodal-going}
 \end{figure}
 
@@ -124,13 +127,13 @@ Being able to identify so many attributes gives a wealth of data with which a cl
 Nonnative & 71.7\% \\
 Native & 81.9\% \\
 Overall & 76.8\% \\
-Overall C.I. 95\% & 73.5\% --- 80.1\%\\
+95\% C.I. & 73.5\% --- 80.1\%\\
 \bottomrule
 \end{tabular}
 \label{table:normally-pruned-basic-verb-results}
 \end{table}
 
-A C4.5 decision tree generated from this data set is shown in Figure~\ref{fig:normally-pruned-basic-verb-tree} and the accuracy of such classifiers, calculated using 20-fold cross-validation, is shown in Table~\ref{table:normally-pruned-basic-verb-results}. As can be seen, this is quite a large tree for purposes of analysis, with many attributes appearing multiple times. A somewhat simpler tree, with only a modest lost of accuracy, can be had by using more aggressive pruning following the tree construction phase. Figure~\ref{fig:pruned-basic-verb-tree} shows such a tree, and Table~\ref{table:pruned-basic-verb-results} its accuracy. This tree consists of 13 decision nodes considering 6 different attributes, none of which are considered more than three times.
+A C4.5 decision tree generated from this data set is shown in Figure~\ref{fig:normally-pruned-basic-verb-tree}; and the accuracy of such classifiers, calculated using 20-fold cross-validation, is shown in Table~\ref{table:normally-pruned-basic-verb-results}. As can be seen, this is quite a large tree for purposes of analysis, with many attributes appearing multiple times. A somewhat simpler tree, with only a modest lost of accuracy, can be had by using more aggressive pruning following the tree construction phase. Figure~\ref{fig:pruned-basic-verb-tree} shows such a tree, and Table~\ref{table:pruned-basic-verb-results} its accuracy. This tree consists of 13 decision nodes considering 6 different attributes, none of which are considered more than three times.
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=4in]{pruned-basic-verb-tree.pdf}
@@ -160,14 +163,14 @@ Of the eight attributes used in training, ``quasimodal'' and ``progressive'' are
 \item \shortex{5}
 {\textit{Hubo}&\textit{de}&\textit{repetir}&\textit{el}&\textit{experimento}.}
 {\textit{(S)he-had-to}&&\textit{repeat}&\textit{the}&\textit{experiment}.}
-{`\textit{(S)he had to repeat the experiment'}}\\ \citep[Ch. 21.3,21.4]{butt}}
-Some of these are usually translated into English using modals or phrasal modals, and some require the use of other constructions \citep[Ch. 21]{butt}. Conversely, many English modals and phrasal modals can be translated into Spanish using that language's modals, while others translate as verbal inflections. In addition, for those Spanish modals which can be translated into English modals or phrasal modals, the correspondence is rarely one-to-one, with there being a great deal of overlap and inexactness in meaning both ways. This should not be surprising, considering the close but imperfect correspondence between many of English's modals and phrasal modals (e.g. \textit{can} and \textit{be able to}) \citep[Ch. 8]{celce-murcia:1999}.
+{`\textit{(S)he had to repeat the experiment'}}\\ \citep[pp. 327-30]{butt}}
+Some of these are usually translated into English using modals or phrasal modals, and some require the use of other constructions \citep[pp. 325-32]{butt}. Conversely, many English modals and phrasal modals can be translated into Spanish using that language's modals, while others translate as verbal inflections. In addition, for those Spanish modals which can be translated into English modals or phrasal modals, the correspondence is rarely one-to-one, with there being a great deal of overlap and inexactness in meaning both ways. This should not be surprising, considering the close but imperfect correspondence between many of English's modals and phrasal modals (e.g. \textit{can} and \textit{be able to}) \citep[pp. 137-157]{celce-murcia:1999}.
 
-As mentioned above, the Spanish modals have much in common with the English phrasal modals. In general, the pattern of usage of the Spanish modals is \textit{conjugated modal verb} + \textit{one or zero particles} + \textit{infinitive}. As was seen in Table~\ref{table:quasimodal-verbs}, many of the English phrasal modals follow this pattern as well. With a few exceptions, the Spanish modals can take the full range of verbal inflections, as can the majority of English phrasal modals. From this one might assume that L1-Spanish learners of English would take naturally to the English phrasal modal. Indeed, the decision trees shown in Figures~\ref{fig:normally-pruned-basic-verb-tree} and \ref{fig:pruned-basic-verb-tree} would seem to support this, or at least support the proposition that the learners neither overuse nor underuse phrasal modals relative to their native counterparts. A quick experiment in which the C4.5 classifier was run on the same data set, but with the ``modal'' attribute removed, showed that the ``quasimodal'' attribute was still not used in the resultant decision tree. This means that the reason for the algorithm's excluding the ``quasimodal'' attribute cannot be attributed to its containing no information beyond what the ``modal'' attribute contains.
+As mentioned above, the Spanish modals have much in common with the English phrasal modals. In general, the pattern of the Spanish modals is \textit{conjugated modal verb} + \textit{one or zero particles} + \textit{infinitive}. As was seen in Table~\ref{table:quasimodal-verbs}, many of the English phrasal modals follow this pattern as well. With a few exceptions, the Spanish modals can take the full range of verbal inflections, as can the majority of English phrasal modals. From this one might assume that L1-Spanish learners of English would take naturally to the English phrasal modal. Indeed, the decision trees shown in Figures~\ref{fig:normally-pruned-basic-verb-tree} and \ref{fig:pruned-basic-verb-tree} would seem to support this, or at least support the proposition that the learners neither overuse nor underuse phrasal modals relative to their native counterparts. A quick experiment in which the C4.5 classifier was run on the same data set, but with the ``modal'' attribute removed, showed that the ``quasimodal'' attribute was still not used in the resultant decision tree. This means that the reason for the algorithm's excluding the ``quasimodal'' attribute cannot be attributed to its containing no information beyond what the ``modal'' attribute contains.
 
 Returning to the ``modal'' attribute, it was mentioned above that the decision tree uses overuse and underuse of the English simple modals as an indication that the text being analyzed was written by a learner. Unfortunately, there is surprisingly little literature on the acquisition of English modals by Spanish speakers, but it is not difficult to imagine situations that would lead learners to either overuse or underuse modals. A learner might avoid the English modal, it being syntactically unusual from a Spanish grammar perspective, or, having discovered the relative simplicity of the English modal, which requires no verbal inflection, may use it to excess. The data also suggests that some learners avoid all types of modals.
 
-In Figure~\ref{fig:pruned-basic-verb-tree}, it could be seen that the attribute with the highest information content is ``not.'' This is used three times, with higher frequencies tending to lead to classification as nonnative and lower frequencies to native. It is tempting to attribute this to Spanish's double negative construction \citep[ch. 23.3]{butt}, but it seems doubtful that advanced English learners would not have grasped this basic difference between English and Spanish grammar. More likely is that native speakers, with their presumably larger vocabularies, have a greater number of lexical negatives (e.g. \textit{he is unkind} versus \textit{he is not kind}) at their disposal.
+In Figure~\ref{fig:pruned-basic-verb-tree}, it could be seen that the attribute with the highest information content is ``not.'' This is used three times, with higher frequencies tending to lead to classification as nonnative and lower frequencies to native. It is tempting to attribute this to Spanish's double negative construction \citep[pp. 344-5]{butt}, but it seems doubtful that advanced English learners would not have grasped this basic difference between English and Spanish grammar. More likely is that native speakers, with their presumably larger vocabularies, have a greater number of lexical negatives (e.g. \textit{he is unkind} versus \textit{he is not kind}) at their disposal.
 
 Considering next the ``passive'' attribute, it can be seen that this attribute, too, is used in a consistent manner in the decision tree, with lower and higher frequencies leading to classification as native and nonnative, respectively. Spanish expresses passives in primarily two ways: using the copular verb \textit{ser} plus a past participle in a construction similar to the English passive, or, more commonly, using the reflexive pronoun \textit{se}:
 \eenumsentence{
@@ -178,8 +181,8 @@ Considering next the ``passive'' attribute, it can be seen that this attribute, 
 \item \shortex{5}
 {\textit{Se}&\textit{les}&\textit{devolverán}&\textit{las}&\textit{muestras}.}
 {&\textit{to-you} (pl.)&\textit{will-return}&\textit{the}&\textit{samples}.}
-{`\textit{The samples will be returned to you.}'}\\ \citep[p. 402,8]{butt}}
-Based on these constructions, it is not surprising that L1-English learners of Spanish tend to overuse the \textit{ser}-passive \citep[ch. 28.2.3]{butt}. That L1-Spanish learners of English do the same with the \textit{be}-passive is more surprising. Indeed, this author was unable to find any literature that investigates, or even acknowledges, this phenomenon. One possibility has to do with the connection between the English passive and the presentation of information at the discourse level. The English passive is frequently used to reverse the order of what, in an active sentence, would be the subject and object. Such a reversal is often necessary to preserve the tendency in language to present old information before new information. However, the passive is only one of a number of constructions, the least marked such construction, perhaps, that allow the fronting of a particular element in a sentence \citep{ward:2008}. Other such constructions (e.g. preposing, inversion), being more complicated and alien, may be avoided by the learner, leading to an overuse of the passive.
+{`\textit{The samples will be returned to you.}'}\\ \citep[pp. 402,8]{butt}}
+Based on these constructions, it is not surprising that L1-English learners of Spanish tend to overuse the \textit{ser}-passive \citep[p. 406]{butt}. That L1-Spanish learners of English do the same with the \textit{be}-passive is more surprising. Indeed, this author was unable to find any literature that investigates, or even acknowledges, this phenomenon. One possibility has to do with the connection between the English passive and the presentation of information at the discourse level. The English passive is frequently used to reverse the order of what, in an active sentence, would be the subject and object. Such a reversal is often necessary to preserve the tendency in language to present old information before new information. However, the passive is only one of a number of constructions, the least marked such construction, perhaps, that allow the fronting of a particular element in a sentence \citep{ward:2008}. Other such constructions (e.g. preposing, inversion), being more complicated and alien, may be avoided by the learner, leading to an overuse of the passive.
 
 The remaining three attributes used in the decision tree are rather resistant to analysis. The perfect aspect constructions in English and Spanish, for instance, are remarkably similar, with English using a form of the verb \textit{to have} plus the past participle and Spanish using a form the verb \textit{haber} (cf. Latin \textit{habere}, \textit{to have}), plus a past participle. That the frequency of usage of the perfect should be a useful metric in classification is surprising. Similarly, English and Spanish both have inflected past tenses which, combined with the complex role the ``past'' attribute plays in the decision tree, makes deciphering that attribute difficult. Finally, while Spanish has nothing quite like English's \textit{do} auxiliary, the extremely limited role which the ``do'' attribute plays in the classification process (it is only involved in classifying six out of 642 training cases) suggests that it is of little utility.
 
@@ -192,7 +195,7 @@ The next set of attributes deals with the relative frequencies of the various po
 Nonnative & 76.1\% \\
 Native & 73.8\% \\
 Overall & 74.9\% \\
-Overall C.I. 95\% & 71.6\% --- 78.3\%\\
+95\% C.I. & 71.6\% --- 78.3\%\\
 \bottomrule
 \end{tabular}
 \label{table:modal-attributes-results}
@@ -255,13 +258,13 @@ ir a\\
 Nonnative & 70.7\% \\
 Native & 61.4\% \\
 Overall & 66.0\% \\
-Overall C.I. 95\% & 62.3\% --- 69.7\%\\
+95\% C.I. & 62.3\% --- 69.7\%\\
 \bottomrule
 \end{tabular}
 \label{table:modal-phrasal-results}
 \end{table}
 
-The resultant tree uses three of the four attributes, with the ``should'' attribute not being included. The tree indicates that there is a strong tendency for the learners to use core modals more often relative to phrasal modals than the native writers. This is despite the similarity between English phrasal modals and Spanish modals. Table~\ref{table:modal-phrasal-correspondence} also shows common Spanish modal equivalents to the English modals and phrasal modals. As can be seen from this table, each of these English modals can be expressed using a common Spanish modal, including \textit{will}/\textit{be going to}, which has a Spanish modal equivalent that is used alongside Spanish's inflected future \citep[ch. 14.6.4]{butt}. The best explanation for this is that learners prefer the core modals due to their syntactic simplicity.
+The resultant tree uses three of the four attributes, with the ``should'' attribute not being included. The tree indicates that there is a strong tendency for learners to use core modals more often relative to phrasal modals than native writers. This is despite the similarity between English phrasal modals and Spanish modals. Table~\ref{table:modal-phrasal-correspondence} also shows common Spanish modal equivalents to the English modals and phrasal modals. As can be seen from this table, each of these English modals can be expressed using a common Spanish modal, including \textit{will}/\textit{be going to}, which has a Spanish modal equivalent that is used alongside Spanish's inflected future \citep[p. 221]{butt}. The best explanation for this is that learners prefer the core modals due to their syntactic simplicity.
 
 The third set of attributes considers various common English verbs which are shown in Table~\ref{table:high-freq-verbs}.
 \begin{table}[htbp]
@@ -277,7 +280,7 @@ seem & want & get & live & work\\
 \end{tabular}
 \label{table:high-freq-verbs}
 \end{table}
-These verbs are identified as common verbs that tend to be overused by English learners in a study by \citet{ringbom:1998}. This study uses an earlier version of the ICLE, examining the French, Spanish, Finnish, Swedish, Dutch, and German subcorpora for usages of these verbs, and comparing the frequency of usage to that found in a native subcorpus of the ICLE\footnote{The version of ICLE used in the present study contains no native subcorpus.}. \citeauthor{ringbom:1998} gives the breakdown per word, and finds that not all of the verbs show overuse in the Spanish subcorpus, with only \textit{use, believe, feel}, and \textit{come} showing overuse. \citeauthor{ringbom:1998} does not attempt to establish statistical significance, however. These verbs were used to construct a data set consisting of one attribute per verb with the value of each being equal to the relative frequency of that verb when used as a main verb in a finite clause. The accuracy of a C4.5 classifier trained on this data set is shown in Table~\ref{table:high-freq-results}.
+These verbs are identified as common verbs that tend to be overused by English learners in a study by \citet{ringbom:1998}. This study uses an earlier version of the ICLE, examining the French, Spanish, Finnish, Swedish, Dutch, and German subcorpora for usages of these verbs, and comparing the frequency of usage to that found in a native subcorpus of the ICLE\footnote{The version of ICLE used in the present study contains no native subcorpus.}. \citeauthor{ringbom:1998} gives the breakdown per word, and finds that not all of the verbs show overuse in the Spanish subcorpus, with only \textit{use, believe, feel}, and \textit{come} showing overuse. \citeauthor{ringbom:1998} does not attempt to establish statistical significance, however. In the present study, these verbs were used to construct a data set consisting of one attribute per verb with the value of each being equal to the relative frequency of that verb when used as a main verb in a finite clause. The accuracy of a C4.5 classifier trained on this data set is shown in Table~\ref{table:high-freq-results}.
 \begin{table}[htbp]
 \centering
 \caption{Accuracy of C4.5 Classifier Using High Frequency Verb Attributes}
@@ -286,7 +289,7 @@ These verbs are identified as common verbs that tend to be overused by English l
 Nonnative & 65.4\% \\
 Native & 78.8\% \\
 Overall & 72.1\% \\
-Overall C.I. 95\% & 68.6\% --- 75.6\%\\
+95\% C.I. & 68.6\% --- 75.6\%\\
 \bottomrule
 \end{tabular}
 \label{table:high-freq-results}
@@ -300,8 +303,8 @@ Finally, to gauge the efficacy of verbal attributes in general, classifiers were
 \toprule
 Nonnative & 80.4\% \\
 Native & 77.3\% \\
-Overall & 78.8\% \\
-Overall C.I. 95\% & 75.7\% --- 82.0\%\\
+Overall & 78.8\% \\ 
+95\% C.I. & 75.7\% --- 82.0\%\\
 \bottomrule
 \end{tabular}
 \label{table:c45-combined-results}
@@ -314,7 +317,7 @@ Overall C.I. 95\% & 75.7\% --- 82.0\%\\
 Nonnative & 90.3\% \\
 Native & 85.4\% \\
 Overall & 87.9\% \\
-Overall C.I. 95\% & 85.3\% --- 90.4\%\\
+95\% C.I. & 85.3\% --- 90.4\%\\
 \bottomrule
 \end{tabular}
 \label{table:combined-results}

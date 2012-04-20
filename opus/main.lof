@@ -1,0 +1,30 @@
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Simple Phrase Structure Rules. \citep [Ch. 5.3]{akmajian:2010}\relax }}{9}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Parse of \textit {the sun will dry the grapes} Generated from Rules in Figure\nobreakspace {}4.1\hbox {}.\relax }}{10}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces One Possible Parse of \textit {the bag was found in the woods by a farmer} Generated from Rules in Figure\nobreakspace {}4.1\hbox {}.\relax }}{11}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Another Possible Parse of \textit {the bag was found in the woods by a farmer} Generated from Rules in Figure\nobreakspace {}4.1\hbox {}.\relax }}{12}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Decision Tree Showing the Partitioning of a Set of Training Cases $S_0$ into Subsets Each Consisting of Elements of a Single Class.\relax }}{15}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces C4.5 Decision Tree Employing Relative Frequency of Dependency Relations.\relax }}{21}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces The Dependencies $auxpass(\text {killed},\text {been})$ and $auxpass(\text {killed},\text {was/got})$. \citep {typed-deps-manual}.\relax }}{22}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The Dependencies $complm(\text {place},\text {whether})$, $complm(\text {go},\text {whether})$ $complm(\text {predicts},\text {that})$, and $complm(\text {rise},\text {that})$. Nonnative Samples from WRICLE (\textit {a} and \textit {c}) and SULEC (\textit {b}).\relax }}{23}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The dependencies $cop(\text {independent},\text {became})$ and $cop(\text {interested},\text {was})$. \citep [Ch. 2.15, 2.16]{quirk:1985}.\relax }}{24}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces The dependencies $det(\text {people},\text {some})$, $predet(\text {fuss},\text {such})$, $det(\text {fuss},\text {a})$ and $det(\text {matter},\text {this})$. Nonnative sample taken from SULEC.\relax }}{25}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces The dependency $det(\text {was},\text {there})$. \citep [Ch. 3.29]{quirk:1985}\relax }}{28}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces The dependency $nn(\text {concentration}, \text {oxygen})$. Native sample taken from MICUSP.\relax }}{29}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces The dependencies $parataxis(\text {left}, \text {said})$ and $parataxis(\text {plays}, \text {plays})$. Taken from \citet {typed-deps-manual} and \citet [Ch. 13.7]{quirk:1985}, respectively.\relax }}{31}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces The dependencies $poss(\text {effects}, \text {oil})$ and $possessive(\text {oil}, \text {'s})$. Native sample taken from MICUSP.\relax }}{31}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces The dependency $prt(\text {free},\text {up})$. Native sample from MICUSP.\relax }}{33}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces The dependency $quantmod(\text {200},\text {about})$. Taken from \citet {typed-deps-manual}.\relax }}{34}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Examples of the Dependencies Listed in Table\nobreakspace {}6.1\hbox {}. \textit {a}, native sample from ICE-CAN; \textit {b,c,d}, native samples from MICUSP; \textit {e,f} from \citet {typed-deps-manual}.\relax }}{37}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Verbal Clause Valency C4.5 Decision Tree.\relax }}{40}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Lexical Argument Density C4.5 Decision Tree.\relax }}{41}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Lexical Argument Role C4.5 Decision Tree.\relax }}{43}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Typical Parse Tree Showing Verb Types.\relax }}{49}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Parse Tree Showing Modal \textit {will}\relax }}{49}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Parse Tree Showing Phrasal Modal \textit {be able to.}\relax }}{51}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Parse Tree Showing Phrasal Modal \textit {be going to.}\relax }}{52}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Parse Tree Showing a Verb with Embedded Conjunction\relax }}{53}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Parse Trees Showing the VP from Figure\nobreakspace {}7.5\hbox {} Split into Two VPs\relax }}{54}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces C4.5 Decision Tree Using Various Verbal Attributes With Default Pruning\relax }}{55}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Aggressively Pruned C4.5 Decision Tree Using Various Verbal Attributes\relax }}{56}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces C4.5 Decision Tree Using Modal vs Phrasal Attributes\relax }}{62}
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Mock-up of the Interface of an ESL Learner's Tool.\relax }}{67}

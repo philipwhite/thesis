@@ -14,7 +14,8 @@
     [clj-ml.data :as mld]
     [clj-ml.classifiers :as mlc]
     [incanter.stats :as stats]
-    [incanter.core :as incanter]))
+    [incanter.core :as incanter]
+    [thesis.tools :as tools]))
 
 (def *all-reln*
   (vec (remove #(= % "abbrev") (.keySet (EnglishGrammaticalStructure/shortNameToGRel)))))

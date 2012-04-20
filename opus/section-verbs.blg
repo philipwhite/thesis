@@ -11,12 +11,12 @@ Warning--empty address in ringbom:1998
 Warning--empty address in ward:2008
 You've used 5 entries,
             3177 wiz_defined-function locations,
-            755 strings with 6340 characters,
-and the built_in function-call counts, 3235 in all, are:
+            755 strings with 6350 characters,
+and the built_in function-call counts, 3223 in all, are:
 = -- 279
 > -- 189
 < -- 0
-+ -- 61
++ -- 55
 - -- 83
 * -- 290
 := -- 570
@@ -40,7 +40,7 @@ purify$ -- 66
 quote$ -- 0
 skip$ -- 105
 stack$ -- 0
-substring$ -- 138
+substring$ -- 132
 swap$ -- 31
 text.length$ -- 0
 text.prefix$ -- 0

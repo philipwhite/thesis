@@ -19,17 +19,10 @@
 \usepackage{multirow}
 \usepackage[section]{placeins}
 \usepackage{flafter}
-%\usepackage{xypic}
-%\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{indentfirst}
 
-
-%\usepackage{float}
-%\floatstyle{plaintop}
-%\newfloat{example}{htbp}{lop}[subsection]
-%\floatname{example}{Example}
-
-
-\title{A System To Distinguish Native and Nonnative Written English}
+\title{\textbf{A SYSTEM TO DISTINGUISH NATIVE AND NONNATIVE WRITTEN ENGLISH}}
 \author{Philip White}
 \doublespacing
 
@@ -42,35 +35,84 @@
 \def\biblio{\bibliographystyle{acmsmall}\bibliography{bibliography}}
 
 \let\stdsection\section
-\renewcommand\section{\newpage\stdsection}
+\renewcommand\section{\clearpage\stdsection}
 
 \raggedright
 \setlength{\parindent}{0.5in}
+
+\makeatletter
+\renewcommand\l@section[2]{%
+  \ifnum \c@tocdepth >\z@
+    \addpenalty\@secpenalty
+    \addvspace{1.0em \@plus\p@}%
+    \setlength\@tempdima{1.5em}%
+    \begingroup
+      \parindent \z@ \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode 
+      \advance\leftskip\@tempdima
+      \hskip -\leftskip
+      #1\nobreak\ 
+      \leaders\hbox{$\m@th\mkern \@dotsep mu\hbox{.}\mkern \@dotsep mu$}
+     \hfil \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
+    \endgroup
+  \fi}
+\makeatother
 
 \begin{document}
 \def\biblio{} %see note above on subfiles
 
 
-\maketitle
-\thispagestyle{empty}
-
+%\maketitle
 \pagenumbering{roman}
-\tableofcontents
+\begin{titlepage}
 
-%\subfile{abstract}
+\centering
+
+\textbf{A SYSTEM TO DISTINGUISH NATIVE AND\\NONNATIVE WRITTEN ENGLISH}\\
+
+\null\null
+A Masters Thesis\\
+Presented to\\
+The Graduate College of\\
+Missouri State University\\
+\null\null\null\null
+In Partial Fulfillment\\
+Of the Requirements for the Degree\\
+Master of Natural and Applied Science, Computer Science\\
+\null\null\null\null
+By\\
+Philip Magnus Robinsson White\\
+May 2012
+
+\end{titlepage}
+\setcounter{page}{2}
+%\thispagestyle{empty}
+\subfile{abstract}
+\newpage
+\subfile{signature}
+
+\singlespacing
+\tableofcontents
+\doublespacing
 \newpage
 \pagenumbering{arabic}
 \setcounter{page}{1}
+\setcounter{secnumdepth}{-1}
 
-\subfile{section-intro}
-\subfile{section-lit-review}
-\subfile{section-corpora}
-\subfile{section-method-expln}
-\subfile{section-dep-reln}
-\subfile{section-args}
-\subfile{section-verbs}
-\subfile{section-discussion}
-\subfile{section-conclusion}
+\titleformat{\section}{\normalfont\bfseries\centering}{}{}{\MakeUppercase}
+\titleformat{\subsection}{\normalfont\bfseries}{}{}{}
+\titlespacing*{\subsection}{0pt}{24pt}{0pt}
+
+\subfile{section-intro} %1
+\subfile{section-lit-review} %2
+\subfile{section-corpora} %3
+\subfile{section-method-expln} %4c
+\subfile{section-dep-reln} %5
+\subfile{section-args} %6
+\subfile{section-verbs} %7
+\subfile{section-discussion} %8
+\subfile{section-conclusion} %9
 
 %\nocite{*}
 \bibliographystyle{acmsmall}

@@ -33,16 +33,16 @@ Warning--empty address in ward:2008
 Warning--empty address in whitley:1986
 You've used 33 entries,
             3177 wiz_defined-function locations,
-            933 strings with 10694 characters,
+            934 strings with 10792 characters,
 and the built_in function-call counts, 21487 in all, are:
-= -- 1963
+= -- 1966
 > -- 1107
-< -- 5
-+ -- 291
+< -- 6
++ -- 283
 - -- 465
-* -- 1893
-:= -- 3607
-add.period$ -- 144
+* -- 1896
+:= -- 3609
+add.period$ -- 145
 call.type$ -- 33
 change.case$ -- 221
 chr.to.int$ -- 33
@@ -50,26 +50,26 @@ cite$ -- 60
 duplicate$ -- 702
 empty$ -- 1540
 format.name$ -- 598
-if$ -- 4151
+if$ -- 4155
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 44
 newline$ -- 167
 num.names$ -- 340
-pop$ -- 219
+pop$ -- 218
 preamble$ -- 1
 purify$ -- 427
 quote$ -- 0
 skip$ -- 688
 stack$ -- 0
-substring$ -- 1160
-swap$ -- 238
-text.length$ -- 5
+substring$ -- 1152
+swap$ -- 239
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 580
 warning$ -- 27
 while$ -- 327
 width$ -- 0
-write$ -- 450
+write$ -- 451
 (There were 27 warnings)

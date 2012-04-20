@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  26 MAR 2012 20:50
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  15 APR 2012 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -564,6 +564,24 @@ loaded))
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/flafter.sty
+Package: flafter 2000/07/23 v1.2i Standard LaTeX floats after reference (FMi)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2007/08/12 v2.8 Sectioning titles
+\ttl@box=\box34
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen188
+\ttl@minus=\dimen189
+\ttl@toksa=\toks33
+\titlewidth=\dimen190
+\titlewidthlast=\dimen191
+\titlewidthfirst=\dimen192
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )))
 (./section-verbs.aux)
 \openout1 = `section-verbs.aux'.
@@ -616,16 +634,16 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
-\scratchdimen=\dimen188
-\scratchbox=\box34
+\scratchdimen=\dimen193
+\scratchbox=\box35
 \nofMPsegments=\count127
 \nofMParguments=\count128
-\everyMPshowfont=\toks33
+\everyMPshowfont=\toks34
 \MPscratchCnt=\count129
-\MPscratchDim=\dimen189
+\MPscratchDim=\dimen194
 \MPnumerator=\count130
 \makeMPintoPDFobject=\count131
-\everyMPtoPDFconversion=\toks34
+\everyMPtoPDFconversion=\toks35
 ))) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 
@@ -669,8 +687,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\Gin@req@height=\dimen190
-\Gin@req@width=\dimen191
+\Gin@req@height=\dimen195
+\Gin@req@width=\dimen196
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -710,48 +728,50 @@ Package xypdf Info: Line width: 0.47998pt on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 8.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 [1
+
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
 
 [2] <verb-parse.pdf, id=12, 387.4475pt x 550.055pt>
 File: verb-parse.pdf Graphic file (type pdf)
  <use verb-parse.pdf>
-Package pdftex.def Info: verb-parse.pdf used on input line 56.
+Package pdftex.def Info: verb-parse.pdf used on input line 59.
 (pdftex.def)             Requested size: 232.47029pt x 330.03554pt.
 
 <modal-parse.pdf, id=13, 206.7725pt x 333.245pt>
 File: modal-parse.pdf Graphic file (type pdf)
  <use modal-parse.pdf>
-Package pdftex.def Info: modal-parse.pdf used on input line 64.
+Package pdftex.def Info: modal-parse.pdf used on input line 67.
 (pdftex.def)             Requested size: 124.06445pt x 199.94853pt.
  [3]
 [4 <./verb-parse.pdf> <./modal-parse.pdf>]
 <modal-able.pdf, id=44, 319.1925pt x 550.055pt>
 File: modal-able.pdf Graphic file (type pdf)
  <use modal-able.pdf>
-Package pdftex.def Info: modal-able.pdf used on input line 78.
+Package pdftex.def Info: modal-able.pdf used on input line 81.
 (pdftex.def)             Requested size: 191.51697pt x 330.03554pt.
 
 <modal-going.pdf, id=45, 320.19624pt x 550.055pt>
 File: modal-going.pdf Graphic file (type pdf)
  <use modal-going.pdf>
-Package pdftex.def Info: modal-going.pdf used on input line 85.
+Package pdftex.def Info: modal-going.pdf used on input line 88.
 (pdftex.def)             Requested size: 192.11922pt x 330.03554pt.
 
-<conj-verb.pdf, id=46, 435.6275pt x 405.515pt>
+[5] [6 <./modal-able.pdf>] [7 <./modal-going.pdf>]
+<conj-verb.pdf, id=80, 435.6275pt x 405.515pt>
 File: conj-verb.pdf Graphic file (type pdf)
  <use conj-verb.pdf>
-Package pdftex.def Info: conj-verb.pdf used on input line 95.
+Package pdftex.def Info: conj-verb.pdf used on input line 98.
 (pdftex.def)             Requested size: 261.37851pt x 243.31087pt.
- [5] [6 <./modal-able.pdf>] [7 <./modal-going.pdf>]
+
 <conj-verb-ab.pdf, id=81, 436.63126pt x 333.245pt>
 File: conj-verb-ab.pdf Graphic file (type pdf)
  <use conj-verb-ab.pdf>
-Package pdftex.def Info: conj-verb-ab.pdf used on input line 102.
+Package pdftex.def Info: conj-verb-ab.pdf used on input line 105.
 (pdftex.def)             Requested size: 261.98077pt x 199.94853pt.
 
 [8 <./conj-verb.pdf>]
@@ -759,14 +779,14 @@ Package pdftex.def Info: conj-verb-ab.pdf used on input line 102.
 File: unpruned-basic-verb-tree.pdf Graphic file (type pdf)
 
 <use unpruned-basic-verb-tree.pdf>
-Package pdftex.def Info: unpruned-basic-verb-tree.pdf used on input line 114.
+Package pdftex.def Info: unpruned-basic-verb-tree.pdf used on input line 117.
 (pdftex.def)             Requested size: 433.62pt x 401.30394pt.
 
 <pruned-basic-verb-tree.pdf, id=98, 536.0025pt x 694.595pt>
 File: pruned-basic-verb-tree.pdf Graphic file (type pdf)
 
 <use pruned-basic-verb-tree.pdf>
-Package pdftex.def Info: pruned-basic-verb-tree.pdf used on input line 136.
+Package pdftex.def Info: pruned-basic-verb-tree.pdf used on input line 139.
 (pdftex.def)             Requested size: 289.07999pt x 374.60938pt.
  [9 <./conj-verb-ab.pdf>] [10 <./unpruned-basic-verb-tree.pdf>] [11 <./pruned-b
 asic-verb-tree.pdf>] [12] [13] [14]
@@ -774,29 +794,30 @@ asic-verb-tree.pdf>] [12] [13] [14]
 File: modal-phrasal-tree.pdf Graphic file (type pdf)
 
 <use modal-phrasal-tree.pdf>
-Package pdftex.def Info: modal-phrasal-tree.pdf used on input line 246.
+Package pdftex.def Info: modal-phrasal-tree.pdf used on input line 249.
 (pdftex.def)             Requested size: 289.07999pt x 221.61076pt.
- [15] [16 <./modal-phrasal-tree.pdf>]
-(./section-verbs.bbl [17] [18]) [19] (./section-verbs.aux) ) 
+ [15] [16] [17 <./modal-phrasal-tree.pdf>]
+(./section-verbs.bbl [18] [19]) [20
+
+] (./section-verbs.aux) ) 
 Here is how much of TeX's memory you used:
- 7696 strings out of 493633
- 107027 string characters out of 3143378
- 223648 words of memory out of 3000000
- 10800 multiletter control sequences out of 15000+200000
+ 7963 strings out of 493633
+ 110651 string characters out of 3143378
+ 229790 words of memory out of 3000000
+ 11057 multiletter control sequences out of 15000+200000
  30662 words of font info for 67 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,14n,40p,3295b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive
-/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2011/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/f
-onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
-/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times
-/utmri8a.pfb>
-Output written on section-verbs.pdf (19 pages, 235625 bytes).
+ 51i,14n,40p,3295b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/ba
+se/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/t
+exlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on section-verbs.pdf (20 pages, 231951 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
+ 226 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
