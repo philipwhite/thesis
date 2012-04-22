@@ -3,8 +3,8 @@
 
 \section{Grammatical Relations}
 \setcounter{section}{5}
-\setcounter{table}{0}
-\setcounter{figure}{0}
+%\setcounter{table}{0}
+%\setcounter{figure}{0}
 
 The simplest classification approach used in this study considered the relative frequency of different grammatical relations. For this approach, the governor and the dependent of the dependencies were ignored, with only the relation itself being used. 
 
@@ -15,14 +15,14 @@ Each data set instance contained attributes corresponding to dependency relation
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=6in]{c45-dep-graph.pdf}
-\caption{C4.5 Decision Tree Employing Relative Frequency of Dependency Relations.}
+\caption{C4.5 Decision Tree Employing Relative Frequency of Dependency Relations}
 \label{fig:c4.5-dep-tree}
 \end{figure}
 
 \begin{table}[ht]
 \small
 \centering
-\caption{Relation abbreviations}
+\caption{Relation Abbreviations}
 \begin{tabular}{ l  l }
     \toprule
 $auxpass$ & passive auxiliary \\
@@ -67,7 +67,7 @@ b. & \xytext{
 \xybarconnect(U,U){-1}"_{\small auxpass}"
 }
 \end{tabular}
-\caption{The Dependencies $auxpass(\text{killed},\text{been})$ and $auxpass(\text{killed},\text{was/got})$. \citep{typed-deps-manual}.}
+\captiont{The Dependencies $auxpass(\text{killed},\text{been})$ and $auxpass(\text{killed},\text{was/got})$}{\citep{typed-deps-manual}}
 \label{ex:auxpass-dep}
 \end{figure}
 
@@ -131,13 +131,13 @@ c. &
 \ldots
 }
 \end{tabular}
-\caption{The Dependencies $complm(\text{place},\text{whether})$, $complm(\text{go},\text{whether})$ $complm(\text{predicts},\text{that})$, and $complm(\text{rise},\text{that})$. Nonnative Samples from WRICLE (\textit{a} and \textit{c}) and SULEC (\textit{b}).}
+\caption[The Dependencies $complm(\text{place},\text{whether})$, $complm(\text{go}, whether)$, etc.]{The Dependencies $complm(\text{place},\text{whether})$, $complm(\text{go},\text{whether})$, $complm(\text{predicts},\text{that})$, and $complm(\text{rise},\text{that})$. Nonnative Samples from WRICLE (\textit{a} and \textit{c}) and SULEC (\textit{b}).}
 \label{ex:complm3}
 \end{figure}
 
-
 \citet{whitley:1986} points out that while English tends to allow the deletion of complementizers introducing clausal complements in the object position, Spanish generally does not, as shown in the following examples:
 \eenumsentence{
+\singlespacing
 \label{ex:complm}
 \item \textit{I say that he'll do it.} \label{ex:complma}
 \item \textit{I say he'll do it.} \label{ex:complmb}
@@ -148,7 +148,7 @@ c. &
 
 In a study on differences in complement clause usage between native and nonnative English speakers, \citet{biber:1998} draw a number of conclusions relevant to the current study. First, they consider when native speakers omit the complementizer \textit{that} and conclude that it is rarely omitted in academic prose and in opinion and descriptive essays. Since the vast majority of the corpus samples (both native and nonnative) fall into these categories, this provides encouraging evidence that the differences in complementizer usage identified by the classifier are not due to idiosyncrasies in the samples. Next, while considering four different groups of L1 speakers (French, Spanish, Chinese, and Japanese), \citeauthor{biber:1998} find that all groups show similar levels of \textit{that} omission, and in general these levels of omission are lower than the levels found in comparable types of native texts. They also find that L1-Spanish speakers use complement clauses, with and without omission of the complementizer, more often than either native speakers or the other groups of learners.
 
-The decision tree shown in Figure~\ref{fig:c4.5-dep-tree} uses the $complm$ dependency once, and classifies cases with lower occurrences of $complm$ as native, and larger occurrences as nonnative, without further testing. Because this dependency only indicates the presence of a complement clause if it has a complementizer, the higher frequency among the learners may be due to either low rates of dropping the complementizer, or to high rates of complement clause usage. As shown above, both phenomena have linguistic backing, and very likely both are at play. 
+The decision tree shown in Figure~\ref{fig:c4.5-dep-tree} uses the $complm$ dependency once, and classifies cases with lower occurrences of $complm$ as native, and those with higher occurrences as nonnative, without further testing. Because this dependency only indicates the presence of a complement clause if it has a complementizer, the higher frequency among the learners may be due to either low rates of dropping the complementizer, or to high rates of complement clause usage. As shown above, both phenomena have linguistic backing, and very likely both are at play. 
 
 \subsection{Copula}
 
@@ -179,7 +179,7 @@ b. &
 \xybarnode{proposals.}
 }\\
 \end{tabular}
-\caption{The Dependencies $cop(\text{independent},\text{became})$ and $cop(\text{interested},\text{was})$ \citep[pp. 52-3]{quirk:1985}}
+\captiont{The Dependencies $cop(\text{independent},\text{became})$ and $cop(\text{interested},\text{was})$}{\citep[pp. 52-3]{quirk:1985}}
 \label{ex:cop1}
 \end{figure}
 However, the Stanford Parser does not recognize all copular clauses as such. In particular, copular clauses followed by adverbials are not identified with the $cop$ dependency, for instance:
@@ -210,15 +210,16 @@ The determiner or $det$ dependency connects a determiner to the NP it modifies, 
 \xybarconnect(U,U){-1}"_{\small det}" &
 \xybarnode{\ldots}
 }
-\caption{The Dependencies $det(\text{people},\text{some})$, $predet(\text{fuss},\text{such})$, $det(\text{fuss},\text{a})$ and $det(\text{matter},\text{this})$. Nonnative Sample Taken from SULEC.}
+\caption[The Dependencies $det(\text{people},\text{some})$, $predet(\text{fuss},\text{such})$, etc.]{The Dependencies $det(\text{people},\text{some})$, $predet(\text{fuss},\text{such})$, $det(\text{fuss},\text{a})$ and $det(\text{matter},\text{this})$. Nonnative Sample Taken from SULEC.}
 \label{ex:det}
 \end{figure}
-By the analysis of \citet[p. 253]{quirk:1985}, a determiner is an element which modifies a NP, precedes any adjectives modifying the NP, and which expresses the type of reference made by that NP. Adjectives, on the other hand, indicate the attributes of a NP. \citeauthor{quirk:1985} divide determiners into three classes: predeterminers, central determiners, and postdeterminers. Postdeterminers, which include quantifiers such as \textit{many} and \textit{few}, and both cardinal and ordinal numerals, are identified by the Stanford Parser using relations not found in the decision tree in Figure~\ref{fig:c4.5-dep-tree}. It should not comes as a surprise that the $predet$ relation marks predeterminers, but it is worthy noting that the $det$ relation marks only \textit{central} determiners. Perhaps the most common central determiners are the articles \textit{the}, \textit{a}, and \textit{an}; but this class of words also includes a number of other words, many of which have separate roles as pronouns, such as \textit{this}, \textit{that}, \textit{some}, and so forth. The predeterminers consist of words which generally precede core determiners and which include certain words which modify quantity, such as \textit{all}, \textit{both}, \textit{double}, and \textit{half}, and others more difficult to define: \textit{such}, \textit{what}, and so forth. Note that the Stanford Parser only parses predeterminers as $predet$ dependencies if they appear before a $det$ dependency. Otherwise they get parsed as $det$ dependencies.
+By the analysis of \citet[p. 253]{quirk:1985}, a determiner is an element which modifies a NP, precedes any adjectives modifying the NP, and which expresses the type of reference made by that NP. Adjectives, on the other hand, indicate the attributes of a NP. \citeauthor{quirk:1985} divide determiners into three classes: predeterminers, central determiners, and postdeterminers. Postdeterminers, which include quantifiers such as \textit{many} and \textit{few}, and both cardinal and ordinal numerals, are identified by the Stanford Parser using relations not found in the decision tree in Figure~\ref{fig:c4.5-dep-tree}. It should not comes as a surprise that the $predet$ relation marks predeterminers, but it is worth noting that the $det$ relation marks only \textit{central} determiners. Perhaps the most common central determiners are the articles \textit{the}, \textit{a}, and \textit{an}; but this class of words also includes a number of other words, many of which have separate roles as pronouns, such as \textit{this}, \textit{that}, \textit{some}, and so forth. The predeterminers consist of words which generally precede core determiners and include certain words which modify quantity, such as \textit{all}, \textit{both}, \textit{double}, and \textit{half}, and others more difficult to define: \textit{such}, \textit{what}, and so forth. Note that the Stanford Parser only parses predeterminers as $predet$ dependencies if they appear before a $det$ dependency. Otherwise they get parsed as $det$ dependencies.
 
 Figure~\ref{fig:c4.5-dep-tree} shows one use each of these relations. The test node that considers $det$ splits the training cases into two sets: cases with high frequencies of $det$ which are immediately classified as nonnative, and cases with low frequencies, the majority of which are ultimately classified as native. For the $predet$ test, both subsets are immediately classified, with low frequencies as nonnative and high frequencies as native. The implication then is that nonnative users overuse central determiners and underuse predeterminers. More specifically, nonnative speakers use predeterminers before central determiners with lower frequency than do native speakers.
 
 For the most part, central determiners, especially articles, are closely parallel in English and Spanish. There are some differences in article usage; in particular, the definite articles are frequently used in Spanish where no article is used in English, and, conversely, definite articles are frequently used in English where no article is used in Spanish. The rules governing these usages can certainly be trying for learners, but one would expect advanced learners to have mastered these concepts. Perhaps more difficult a concept, and one which may account for the overuse of central determiners by learners, is where English can express the same concept with a definite article or without an article at all. Consider the following examples:
 \eenumsentence{
+\singlespacing
 \item \textit{The tiger has four legs.} \label{ex:the_tiger}
 \item \textit{Tigers have four legs.} \label{ex:tigers}
 \item \textit{Los tigres tienen cuatro patas} \label{ex:los_tigres}}
@@ -226,10 +227,11 @@ Though, in the right context, (\ref{ex:the_tiger}) could refer to a particular t
 
 The low frequency of the $predet$ relation may simply be a matter of the learner preferring syntactically simple constructions. As mentioned above, the $predet$ dependency is used when a predeterminer precedes a central determiner. This means that for every $predet$ dependency, the parser has found a location with multiple determiners appearing together. By the very definition of complexity, such a construction is more complex than a construction with a single determiner, and thus likely to be avoided by the learner. Another likely source of this underuse may be that many of English's predeterminers do not have common predeterminer equivalents in Spanish. For instance, fractions in English can generally be expressed in two slightly different ways:
 \eenumsentence{
+\singlespacing
 \item \textit{He did it in \underline{a third} the time it took me.}
 \item \textit{He did it in \underline{a third of} the time it took me.} \label{ex:third_of} \citep[p. 261]{quirk:1985}} 
 The latter of these examples is not parsed as a predeterminer by the Stanford Parser. Except for a few common fractions, Spanish generally follows a format similar to~(\ref{ex:third_of}) \citep[pp. 122-3]{butt}. Spanish also tends to use constructions similar to~(\ref{ex:third_of}) to express multipliers:
-\enumsentence{\textit{El aire contiene \underline{el doble de} óxido de nitrógeno que en Washington.} \label{ex:doble_de} \citep[p. 125]{butt}}
+\enumsentence{\singlespacing \textit{El aire contiene \underline{el doble de} óxido de nitrógeno que en Washington.} \label{ex:doble_de} \citep[p. 125]{butt}}
 whereas English would use a simple predeterminer:
 \enumsentence{\textit{The air contains \underline{double} the nitric oxide as Washington.}}
 This difference may encourage learners to use periphrastic constructions in English (e.g. \textit{twice as much}, \textit{two times the amount}) which are not parsed as predeterminers by the Stanford Parser.
@@ -248,7 +250,7 @@ An existential \textit{there} and the copular verb associated with it are connec
 \xybarnode{the} &
 \xybarnode{door.}
 }
-\caption{The Dependency $det(\text{was},\text{there})$ \citep[pp. 126-7]{quirk:1985}}
+\captiont{The Dependency $det(\text{was},\text{there})$}{\citep[pp. 126-7]{quirk:1985}}
 \label{ex:expl}
 \end{figure}
 This relation is used twice in the decision tree, both times associating higher frequencies with nonnative texts and lower frequencies with native texts. Spanish has a similar construction to the English existential \textit{there + be}, using a 3rd-person singular form of the verb \textit{haber} in any of its possible non-progressive forms. Spanish, which is a pro-drop language, does not use or permit a dummy subject analogous to the English \textit{there}, nor does the verb \textit{haber} agree in number with what follows except in very informal speech \citep[pp. 429-32]{butt}. Otherwise, the existential \textit{there} presents little difficulty for the L1-Spanish learner of English. The high rate of use is likely due to this: learners resort to existential \textit{there} frequently because it is a ``safe'' expression, one they can generate correctly with little effort.
@@ -281,17 +283,17 @@ Noun-noun compounds (NNCs) are marked with the relation \textit{nn}. The governo
 \xybarnode{to} &
 \xybarnode{\ldots}
 }
-\caption{The Dependency $nn(\text{concentration}, \text{oxygen})$. Native sample taken from MICUSP.}
+\caption[The Dependency $nn(\text{concentration}, \text{oxygen})$]{The Dependency $nn(\text{concentration}, \text{oxygen})$. Native sample taken from MICUSP.}
 \label{fig:nn-deps}
 \end{figure}
 
 The $nn$ relation occupies an important place in the decision tree, being the root test node and thus the relation with the highest information content. Summing leaf values will show that the $nn$ node splits the training cases into a largely native set and a largely nonnative set, corresponding respectively to high and low frequencies of the dependency. That the underuse of noun compounds should be indicative of an L1-Spanish learner of English is understandable considering that Spanish has a much more restrictive system of noun compounding. While Spanish does have NNCs, they are far less common than in English and are not particularly productive \citep{piera:1995}. Most commonly, expressions in English using NNCs are translated into Spanish using the preposition \textit{de}. Consider, for instance:
-\enumsentence{\shortex{4}
+\enumsentence{\singlespacing\shortexnt{4}
 {\textit{un} & \textit{traje} & \textit{de} & \textit{baño}}
-{\textit{a} & \textit{suit} & \textit{of} & \textit{bath}}
+{\textit{a} & \textit{suit} & \textit{of} & \textit{bath}}\\
 {\textit{`a bathing suit'} \citep[p. 495]{butt}}}
 English can also use the preposition \textit{of} to express possession in a construction parallel to the Spanish \textit{de}-possessive. Often times, the English speaker can switch between a NNC and the \textit{of}-construction with little change in meaning, as in:
-\eenumsentence{
+\eenumsentence{\singlespacing
 \item \textit{the mountain peak} \label{ex:mountain_peak}
 \item \textit{the peak of the mountain} \label{ex:peak_of}
 }
@@ -332,10 +334,10 @@ b. & \xytext{
 \xybarnode{piano.}
 }\\
 \end{tabular}
-\caption{The Dependencies $parataxis(\text{left}, \text{said})$ and $parataxis(\text{plays}, \text{plays})$. Taken from \citet{typed-deps-manual} and \citet[p. 921]{quirk:1985}, Respectively.}
+\caption[The Dependencies $parataxis(\text{left}, \text{said})$ and $parataxis(\text{plays}, \text{plays})$]{The Dependencies $parataxis(\text{left}, \text{said})$ and $parataxis(\text{plays}, \text{plays})$. Taken from \citet{typed-deps-manual} and \citet[p. 921]{quirk:1985}, Respectively.}
 \label{fig:parataxis}
 \end{figure}
-The types of constructions marked by the $parataxis$ relation are syntactically complex, and so one might imagine that they would be underused by learners of English. However, the use of this relation in the decision tree indicates that learners actually use this more often than native speakers. There is little literature discussing parataxis in learner English nor do there appear to be any obvious qualities of Spanish that might explain this overuse. This analysis is particularly difficult considering that the available data does not indicate which of the two types of parataxis are being overused.
+The types of constructions marked by the $parataxis$ relation are syntactically complex, and so one might imagine that they would be underused by learners of English. However, the use of this relation in the decision tree indicates that learners actually use this more often than do native speakers. There is little literature discussing parataxis in learner English nor do there appear to be any obvious qualities of Spanish that might explain this overuse. This analysis is particularly difficult considering that the available data does not indicate which of the two types of parataxis is being overused.
 
 \subsection{Possession and Possessive Modifiers}
 
@@ -358,17 +360,17 @@ Inflected genitive constructions are marked by two dependencies: \textit{poss}, 
 \xybarnode{to} &
 \xybarnode{\ldots}
 }
-\caption{The Dependencies $poss(\text{effects}, \text{oil})$ and $possessive(\text{oil}, \text{'s})$. Native Sample Taken from MICUSP.}
+\caption[The Dependencies $poss(\text{effects}, \text{oil})$ and $possessive(\text{oil}, \text{'s})$]{The Dependencies $poss(\text{effects}, \text{oil})$ and $possessive(\text{oil}, \text{'s})$. Native Sample Taken from MICUSP.}
 \label{fig:poss-deps}
 \end{figure}
 
 These relations are both used twice in the decision tree. In all four instances, cases with high frequencies tend to end up being classified as native, and cases with low frequencies as nonnative. Spanish lacks an inflected genitive, instead tending to use the preposition \textit{de} to express possession, as was discussed in Section~\ref{sub:nn}. Much like NNCs, the inflected genitive is usually translated into Spanish using a \textit{de}-construction, as shown in:
-\enumsentence{\shortex{9}
+\enumsentence{\singlespacing\shortexnt{9}
 {\textit{una} & \textit{chica} & \textit{joven} & \textit{de} & \textit{vaqueros} & \textit{y} & \textit{chaqueta} & \textit{de} & \textit{hombre}}
-{\textit{a} & \textit{girl} & \textit{young} & \textit{of} & \textit{jeans} & \textit{and} & \textit{jacket} & \textit{of} & \textit{man}}
-{\textit{`a young girl in jeans and a man's jacket'} \citep[Ch. 34.7]{butt}}}
+{\textit{a} & \textit{girl} & \textit{young} & \textit{of} & \textit{jeans} & \textit{and} & \textit{jacket} & \textit{of} & \textit{man}}\\
+{\textit{`a young girl in jeans and a man's jacket'} \citep[p. 497]{butt}}}
 Also much like NNCs, it is often possible to use the \textit{of}-construction in place of an inflected genitive:
-\eenumsentence{
+\eenumsentence{\singlespacing
 \item \textit{the mountain's peak} \label{ex:mountain_peak}
 \item \textit{the peak of the mountain} \label{ex:peak_of}
 }
@@ -408,7 +410,7 @@ b. &
 \xybarnode{prepared \ldots}
 }\\
 \end{tabular}
-\caption{The dependencies $preconj(\text{boys},\text{both})$ and $preconj(\text{emotionally},\text{neither})$. (a) taken from \citet{typed-deps-manual} and (b) from WRICLE (nonnative).}
+\caption[The dependencies $preconj(\text{boys},\text{both})$ and $preconj(\text{emotionally},\text{neither})$]{The dependencies $preconj(\text{boys},\text{both})$ and $preconj(\text{emotionally},\text{neither})$. (a) taken from \citet{typed-deps-manual} and (b) from WRICLE (nonnative).}
 \label{fig:preconj-dep}
 \end{figure}
 \end{comment}
@@ -432,7 +434,7 @@ The phrasal verb particle relation ($prt$) ties the head word of a phrasal verb 
 \xybarnode{up} &
 \xybarnode{resources \ldots}
 }
-\caption{The Dependency $prt(\text{free},\text{up})$. Native Sample Taken from MICUSP.}
+\caption[The Dependency $prt(\text{free},\text{up})$]{The Dependency $prt(\text{free},\text{up})$. Native Sample Taken from MICUSP.}
 \label{ex:prt-en1}
 \end{figure}
 
@@ -458,7 +460,7 @@ The Quantifier Phrase Modifier ($quantmod$) relation marks adverbs that modify c
 \xybarnode{the} &
 \xybarnode{party.}
 }
-\caption{The Dependency $quantmod(\text{200},\text{about})$. Taken from \citet{typed-deps-manual}.}
+\caption[The Dependency $quantmod(\text{200},\text{about})$]{The Dependency $quantmod(\text{200},\text{about})$. Taken from \citet{typed-deps-manual}.}
 \label{ex:quantmod}
 \end{figure}
 

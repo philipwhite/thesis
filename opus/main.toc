@@ -21,7 +21,7 @@
 \contentsline {subsection}{Possession and Possessive Modifiers}{31}
 \contentsline {subsection}{Phrasal Verb Particle}{32}
 \contentsline {subsection}{Quantifier Phrase Modifier}{34}
-\contentsline {subsection}{The Unclassified Dependency}{35}
+\contentsline {subsection}{The Unclassified Dependency}{34}
 \contentsline {subsection}{Classification Accuracy}{35}
 \contentsline {section}{Argument Structure}{36}
 \contentsline {subsection}{Verbal Arguments}{36}
@@ -29,6 +29,6 @@
 \contentsline {section}{Verbs}{47}
 \contentsline {subsection}{Grammar}{47}
 \contentsline {subsection}{Parsing of Verbs}{49}
-\contentsline {subsection}{Classification}{55}
-\contentsline {section}{Learner's Tool}{66}
-\contentsline {section}{Conclusion}{69}
+\contentsline {subsection}{Classification Accuracy}{55}
+\contentsline {section}{Learner's Tool}{65}
+\contentsline {section}{Conclusion}{68}

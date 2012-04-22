@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  20 APR 2012 07:53
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 APR 2012 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -20,17 +20,24 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
+\c@enums=\count87
+\widelabel=\dimen103
+\c@tempcnt=\count88
+\c@enumsi=\count89
+\eeindent=\dimen104
+)
 (/usr/local/texlive/2011/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count87
+\c@NAT@ctr=\count90
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen103
-\extrarowheight=\dimen104
+\col@sep=\dimen105
+\extrarowheight=\dimen106
 \NC@list=\toks14
 \extratabsurround=\skip45
 \backup@length=\skip46
@@ -49,34 +56,34 @@ Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-\captionmargin=\dimen105
-\captionmargin@=\dimen106
-\captionwidth=\dimen107
-\caption@indent=\dimen108
-\caption@parindent=\dimen109
-\caption@hangindent=\dimen110
+\captionmargin=\dimen107
+\captionmargin@=\dimen108
+\captionwidth=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
 )
-\c@ContinuedFloat=\count88
+\c@ContinuedFloat=\count91
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen111
-\lightrulewidth=\dimen112
-\cmidrulewidth=\dimen113
-\belowrulesep=\dimen114
-\belowbottomsep=\dimen115
-\aboverulesep=\dimen116
-\abovetopsep=\dimen117
-\cmidrulesep=\dimen118
-\cmidrulekern=\dimen119
-\defaultaddspace=\dimen120
-\@cmidla=\count89
-\@cmidlb=\count90
-\@aboverulesep=\dimen121
-\@belowrulesep=\dimen122
-\@thisruleclass=\count91
-\@lastruleclass=\count92
-\@thisrulewidth=\dimen123
+\heavyrulewidth=\dimen113
+\lightrulewidth=\dimen114
+\cmidrulewidth=\dimen115
+\belowrulesep=\dimen116
+\belowbottomsep=\dimen117
+\aboverulesep=\dimen118
+\abovetopsep=\dimen119
+\cmidrulesep=\dimen120
+\cmidrulekern=\dimen121
+\defaultaddspace=\dimen122
+\@cmidla=\count92
+\@cmidlb=\count93
+\@aboverulesep=\dimen123
+\@belowrulesep=\dimen124
+\@thisruleclass=\count94
+\@lastruleclass=\count95
+\@thisrulewidth=\dimen125
 )
 (/Users/philip/Library/texmf/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2002/06/08 Federico Garcia
@@ -92,15 +99,15 @@ Package: mathtools 2011/02/12 v1.10 mathematical typesetting tools
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count93
-\calc@Bcount=\count94
-\calc@Adimen=\dimen124
-\calc@Bdimen=\dimen125
+\calc@Acount=\count96
+\calc@Bcount=\count97
+\calc@Adimen=\dimen126
+\calc@Bdimen=\dimen127
 \calc@Askip=\skip47
 \calc@Bskip=\skip48
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count95
+\calc@Ccount=\count98
 \calc@Cskip=\skip49
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/mh/mhsetup.sty
@@ -117,46 +124,46 @@ Package: amstext 2000/06/29 v2.01
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks18
-\ex@=\dimen126
+\ex@=\dimen128
 ))
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen127
+\pmbraise@=\dimen129
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count96
+\inf@bad=\count99
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count97
-\leftroot@=\count98
+\uproot@=\count100
+\leftroot@=\count101
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count99
-\DOTSCASE@=\count100
+\classnum@=\count102
+\DOTSCASE@=\count103
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
-\big@size=\dimen128
+\big@size=\dimen130
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count101
-\c@MaxMatrixCols=\count102
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
 \dotsspace@=\muskip11
-\c@parentequation=\count103
-\dspbrk@lvl=\count104
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
 \tag@help=\toks19
-\row@=\count105
-\column@=\count106
-\maxfields@=\count107
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
 \andhelp@=\toks20
-\eqnshift@=\dimen129
-\alignsep@=\dimen130
-\tagshift@=\dimen131
-\tagwidth@=\dimen132
-\totwidth@=\dimen133
-\lineht@=\dimen134
+\eqnshift@=\dimen131
+\alignsep@=\dimen132
+\tagshift@=\dimen133
+\tagwidth@=\dimen134
+\totwidth@=\dimen135
+\lineht@=\dimen136
 \@envbody=\toks21
 \multlinegap=\skip51
 \multlinetaggap=\skip52
@@ -164,11 +171,11 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-\g_MT_multlinerow_int=\count108
-\l_MT_multwidth_dim=\dimen135
+\g_MT_multlinerow_int=\count111
+\l_MT_multwidth_dim=\dimen137
 \origjot=\skip53
-\l_MT_shortvdotswithinadjustabove_dim=\dimen136
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen137
+\l_MT_shortvdotswithinadjustabove_dim=\dimen138
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen139
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
@@ -408,17 +415,17 @@ Package ifvtex Info: VTeX not detected.
 (/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count109
-\Gm@cntv=\count110
-\c@Gm@tempcnt=\count111
-\Gm@bindingoffset=\dimen138
-\Gm@wd@mp=\dimen139
-\Gm@odd@mp=\dimen140
-\Gm@even@mp=\dimen141
-\Gm@layoutwidth=\dimen142
-\Gm@layoutheight=\dimen143
-\Gm@layouthoffset=\dimen144
-\Gm@layoutvoffset=\dimen145
+\Gm@cnth=\count112
+\Gm@cntv=\count113
+\c@Gm@tempcnt=\count114
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
 \Gm@dimlist=\toks25
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/xytree/xytree.sty
@@ -436,45 +443,45 @@ catcodes, docmode,
  Xy-pic is free software: see the User's Guide for details.
 
 Loading kernel: messages; fonts; allocations: state,
-\X@c=\dimen146
-\Y@c=\dimen147
-\U@c=\dimen148
-\D@c=\dimen149
-\L@c=\dimen150
-\R@c=\dimen151
+\X@c=\dimen148
+\Y@c=\dimen149
+\U@c=\dimen150
+\D@c=\dimen151
+\L@c=\dimen152
+\R@c=\dimen153
 \Edge@c=\toks26
-\X@p=\dimen152
-\Y@p=\dimen153
-\U@p=\dimen154
-\D@p=\dimen155
-\L@p=\dimen156
-\R@p=\dimen157
+\X@p=\dimen154
+\Y@p=\dimen155
+\U@p=\dimen156
+\D@p=\dimen157
+\L@p=\dimen158
+\R@p=\dimen159
 \Edge@p=\toks27
-\X@origin=\dimen158
-\Y@origin=\dimen159
-\X@xbase=\dimen160
-\Y@xbase=\dimen161
-\X@ybase=\dimen162
-\Y@ybase=\dimen163
-\X@min=\dimen164
-\Y@min=\dimen165
-\X@max=\dimen166
-\Y@max=\dimen167
+\X@origin=\dimen160
+\Y@origin=\dimen161
+\X@xbase=\dimen162
+\Y@xbase=\dimen163
+\X@ybase=\dimen164
+\Y@ybase=\dimen165
+\X@min=\dimen166
+\Y@min=\dimen167
+\X@max=\dimen168
+\Y@max=\dimen169
 \lastobjectbox@=\box28
 \zerodotbox@=\box29
-\almostz@=\dimen168
+\almostz@=\dimen170
  direction,
-\d@X=\dimen169
-\d@Y=\dimen170
-\K@=\count112
-\KK@=\count113
-\Direction=\count114
-\K@dXdY=\dimen171
-\K@dYdX=\dimen172
+\d@X=\dimen171
+\d@Y=\dimen172
+\K@=\count115
+\KK@=\count116
+\Direction=\count117
+\K@dXdY=\dimen173
+\K@dYdX=\dimen174
 \xyread@=\read2
 \xywrite@=\write3
-\csp@=\count115
-\quotPTK@=\dimen173
+\csp@=\count118
+\quotPTK@=\dimen175
 
 utility macros; pictures: \xy, positions,
 \swaptoks@@=\toks28
@@ -490,15 +497,15 @@ Package: xy 2011/02/11 Xy-pic version 3.8.5
  Xy-pic option: All features v.3.7
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xycurve.tex
  Xy-pic option: Curve and Spline extension v.3.11 curve,
-\crv@cnt@=\count116
+\crv@cnt@=\count119
 \crvpts@=\toks30
 \splinebox@=\box31
-\splineval@=\dimen174
-\splinedepth@=\dimen175
-\splinetol@=\dimen176
-\splinelength@=\dimen177
+\splineval@=\dimen176
+\splinedepth@=\dimen177
+\splinetol@=\dimen178
+\splinelength@=\dimen179
  circles,
-\L@=\dimen178
+\L@=\dimen180
  loaded)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyframe.tex
  Xy-pic option: Frame and Bracket extension v.3.12 loaded)
@@ -508,7 +515,7 @@ Package: xy 2011/02/11 Xy-pic version 3.8.5
  Xy-pic option: More Tips extension v.3.8 loaded) loaded)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyline.tex
  Xy-pic option: Line styles extension v.3.9
-\xylinethick@=\dimen179
+\xylinethick@=\dimen181
  loaded)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyrotate.tex
  Xy-pic option: Rotate and Scale extension v.3.7 loaded)
@@ -516,13 +523,13 @@ Package: xy 2011/02/11 Xy-pic version 3.8.5
  Xy-pic option: Colour extension v.3.10 loaded)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xymatrix.tex
  Xy-pic option: Matrix feature v.3.9
-\Row=\count117
-\Col=\count118
+\Row=\count120
+\Col=\count121
 \queue@=\toks31
 \queue@@=\toks32
-\qcount@=\count119
-\qcount@@=\count120
-\matrixsize@=\count121
+\qcount@=\count122
+\qcount@@=\count123
+\matrixsize@=\count124
  loaded)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyarrow.tex
  Xy-pic option: Arrow and Path feature v.3.8 path, \ar, loaded)
@@ -540,22 +547,14 @@ Xy-pic pdf driver: `line' extension support
 Xy-pic pdf driver: `rotate' extension support
 (/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xypdf-ro.tex loaded)
 loaded))
-\rowheight=\dimen180
-\XyColumnSpacing=\dimen181
-\drs@wd=\dimen182
-\drs@ht=\dimen183
-\drsboxsep=\dimen184
+\rowheight=\dimen182
+\XyColumnSpacing=\dimen183
+\drs@wd=\dimen184
+\drs@ht=\dimen185
+\drsboxsep=\dimen186
 \drs@boxa=\box32
 \drs@boxb=\box33
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
-\c@enums=\count122
-\widelabel=\dimen185
-\c@tempcnt=\count123
-\c@enumsi=\count124
-\eeindent=\dimen186
-)
-(/usr/local/texlive/2011/texmf-dist/tex/latex/multirow/multirow.sty
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen187
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/placeins/placeins.sty
@@ -781,31 +780,41 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 
  [4
 
-] (./section-intro.tex [1
+] (./main.lot)
+\tf@lot=\write5
+\openout5 = `main.lot'.
 
-]) (./section-lit-review.tex
-[2] [3
+ [5
 
-] [4] [5]) (./section-corpora.tex [6] [7
+] (./main.lof [6
 
-]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
-) (./section-method-expln.tex
-[8] <ps-tree.pdf, id=43, 435.6275pt x 333.245pt>
+])
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [7]
+(./section-intro.tex [1
+
+]) (./section-lit-review.tex [2] [3
+
+] [4] [5])
+(./section-corpora.tex [6] [7
+
+]) (./section-method-expln.tex [8]
+<ps-tree.pdf, id=56, 435.6275pt x 333.245pt>
 File: ps-tree.pdf Graphic file (type pdf)
  <use ps-tree.pdf>
 Package pdftex.def Info: ps-tree.pdf used on input line 33.
 (pdftex.def)             Requested size: 261.37851pt x 199.94853pt.
  [9
 
-] [10 <./ps-tree.pdf>] <ps-tree-ambig1.pdf, id=67, 645.41125pt x 477.785pt>
+] [10 <./ps-tree.pdf>] <ps-tree-ambig1.pdf, id=78, 645.41125pt x 477.785pt>
 File: ps-tree-ambig1.pdf Graphic file (type pdf)
 
 <use ps-tree-ambig1.pdf>
 Package pdftex.def Info: ps-tree-ambig1.pdf used on input line 42.
 (pdftex.def)             Requested size: 387.24974pt x 286.6732pt.
- <ps-tree-ambig2.pdf, id=68, 668.4975pt x 622.325pt>
+ <ps-tree-ambig2.pdf, id=79, 668.4975pt x 622.325pt>
 File: ps-tree-ambig2.pdf Graphic file (type pdf)
 
 <use ps-tree-ambig2.pdf>
@@ -815,31 +824,28 @@ Package pdftex.def Info: ps-tree-ambig2.pdf used on input line 48.
 7]) (./section-dep-reln.tex [18] [19
 
 ]
-<c45-dep-graph.pdf, id=129, 783.92876pt x 676.5275pt>
+<c45-dep-graph.pdf, id=138, 783.92876pt x 676.5275pt>
 File: c45-dep-graph.pdf Graphic file (type pdf)
  <use c45-dep-graph.pdf>
 Package pdftex.def Info: c45-dep-graph.pdf used on input line 17.
 (pdftex.def)             Requested size: 433.62pt x 374.21779pt.
 
 [20] [21 <./c45-dep-graph.pdf>] <xymatrix 4x1 124> <xymatrix 3x1 120>
+Underfull \hbox (badness 3769) in paragraph at lines 70--70
+[]\OT1/ptm/m/n/12 Figure 7: |The De-pen-den-cies $\OML/cmm/m/it/12 auxpass\OT1/
+cmr/m/n/12 ([]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )$ \OT1/ptm/m/n/12 and $\OML
+/cmm/m/it/12 auxpass\OT1/cmr/m/n/12 ([]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )$
+ []
+
 <xymatrix 12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258>
 Underfull \hbox (badness 10000) in paragraph at lines 134--134
-[]\OT1/ptm/b/n/10.95 Figure 5.3: |\OT1/ptm/m/n/10.95 The De-pen-den-cies $\OML/
-cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n
-/10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/10.95 complm\OT1/cmr/m/n/10.95 ([]
-\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$
+[]\OT1/ptm/m/n/12 Figure 8: |The De-pen-den-cies $\OML/cmm/m/it/12 complm\OT1/c
+mr/m/n/12 ([]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )$\OT1/ptm/m/n/12 , $\OML/cmm
+/m/it/12 complm\OT1/cmr/m/n/12 ([]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )$\OT1/p
+tm/m/n/12 ,
  []
 
 [22] [23] <xymatrix 5x1 128> <xymatrix 8x1 140> [24] <xymatrix 12x1 474>
-Underfull \hbox (badness 5504) in paragraph at lines 213--213
-[]\OT1/ptm/b/n/10.95 Figure 5.5: |\OT1/ptm/m/n/10.95 The De-pen-den-cies $\OML/
-cmm/m/it/10.95 det\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10
-.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/10.95 predet\OT1/cmr/m/n/10.95 ([]\OM
-L/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$\OT1/ptm/m/n/10.95 , $\OML/cmm/m/it/1
-0.95 det\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 )$ \OT
-1/ptm/m/n/10.95 and
- []
-
 [25] [26] [27] <xymatrix 7x1 136> [28] <xymatrix 11x1 152> [29] <xymatrix 9x1
 144> <xymatrix 10x1 148> [30] <xymatrix 12x1 262> [31] <xymatrix 9x1 144>
 [32] [33] <xymatrix 7x1 136> [34]) (./section-args.tex [35] <xymatrix 8x1 246>
@@ -850,19 +856,19 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
  [36
 
 ] [37] [38] [39]
-<c45-val.pdf, id=215, 205.76875pt x 224.84pt>
+<c45-val.pdf, id=223, 205.76875pt x 224.84pt>
 File: c45-val.pdf Graphic file (type pdf)
  <use c45-val.pdf>
 Package pdftex.def Info: c45-val.pdf used on input line 172.
 (pdftex.def)             Requested size: 108.405pt x 118.45102pt.
- [40 <./c45-val.pdf>] <c45-num-lex.pdf, id=237, 265.99374pt x 315.1775pt>
+ [40 <./c45-val.pdf>] <c45-num-lex.pdf, id=245, 265.99374pt x 315.1775pt>
 File: c45-num-lex.pdf Graphic file (type pdf)
 
 <use c45-num-lex.pdf>
 Package pdftex.def Info: c45-num-lex.pdf used on input line 195.
 (pdftex.def)             Requested size: 144.54pt x 171.27057pt.
  [41] [42 <./c45-num-lex.pdf>]
-<c45-lex-role.pdf, id=262, 576.1525pt x 766.865pt>
+<c45-lex-role.pdf, id=271, 576.1525pt x 766.865pt>
 File: c45-lex-role.pdf Graphic file (type pdf)
  <use c45-lex-role.pdf>
 Package pdftex.def Info: c45-lex-role.pdf used on input line 218.
@@ -870,69 +876,72 @@ Package pdftex.def Info: c45-lex-role.pdf used on input line 218.
 
 [43] [44 <./c45-lex-role.pdf>] [45] [46]) (./section-verbs.tex [47
 
-] [48]
-<verb-parse.pdf, id=300, 387.4475pt x 550.055pt>
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+ [48]
+<verb-parse.pdf, id=309, 387.4475pt x 550.055pt>
 File: verb-parse.pdf Graphic file (type pdf)
  <use verb-parse.pdf>
 Package pdftex.def Info: verb-parse.pdf used on input line 59.
 (pdftex.def)             Requested size: 232.47029pt x 330.03554pt.
 
-<modal-parse.pdf, id=301, 206.7725pt x 333.245pt>
+<modal-parse.pdf, id=310, 206.7725pt x 333.245pt>
 File: modal-parse.pdf Graphic file (type pdf)
  <use modal-parse.pdf>
 Package pdftex.def Info: modal-parse.pdf used on input line 67.
 (pdftex.def)             Requested size: 124.06445pt x 199.94853pt.
 
 [49] [50 <./verb-parse.pdf> <./modal-parse.pdf>]
-<modal-able.pdf, id=333, 319.1925pt x 550.055pt>
+<modal-able.pdf, id=342, 319.1925pt x 550.055pt>
 File: modal-able.pdf Graphic file (type pdf)
  <use modal-able.pdf>
 Package pdftex.def Info: modal-able.pdf used on input line 81.
 (pdftex.def)             Requested size: 191.51697pt x 330.03554pt.
 
-<modal-going.pdf, id=334, 320.19624pt x 550.055pt>
+<modal-going.pdf, id=343, 320.19624pt x 550.055pt>
 File: modal-going.pdf Graphic file (type pdf)
  <use modal-going.pdf>
 Package pdftex.def Info: modal-going.pdf used on input line 88.
 (pdftex.def)             Requested size: 192.11922pt x 330.03554pt.
 
 [51] [52 <./modal-able.pdf>] [53 <./modal-going.pdf>]
-<conj-verb.pdf, id=369, 435.6275pt x 405.515pt>
+<conj-verb.pdf, id=377, 435.6275pt x 405.515pt>
 File: conj-verb.pdf Graphic file (type pdf)
  <use conj-verb.pdf>
 Package pdftex.def Info: conj-verb.pdf used on input line 98.
 (pdftex.def)             Requested size: 261.37851pt x 243.31087pt.
 
-<conj-verb-ab.pdf, id=370, 436.63126pt x 333.245pt>
+<conj-verb-ab.pdf, id=378, 436.63126pt x 333.245pt>
 File: conj-verb-ab.pdf Graphic file (type pdf)
  <use conj-verb-ab.pdf>
 Package pdftex.def Info: conj-verb-ab.pdf used on input line 105.
 (pdftex.def)             Requested size: 261.98077pt x 199.94853pt.
 
 [54 <./conj-verb.pdf>]
-<unpruned-basic-verb-tree.pdf, id=386, 1023.825pt x 947.54pt>
+<unpruned-basic-verb-tree.pdf, id=395, 1023.825pt x 947.54pt>
 File: unpruned-basic-verb-tree.pdf Graphic file (type pdf)
 
 <use unpruned-basic-verb-tree.pdf>
-Package pdftex.def Info: unpruned-basic-verb-tree.pdf used on input line 117.
+Package pdftex.def Info: unpruned-basic-verb-tree.pdf used on input line 118.
 (pdftex.def)             Requested size: 433.62pt x 401.30394pt.
 
-<pruned-basic-verb-tree.pdf, id=387, 536.0025pt x 694.595pt>
+<pruned-basic-verb-tree.pdf, id=396, 536.0025pt x 694.595pt>
 File: pruned-basic-verb-tree.pdf Graphic file (type pdf)
 
 <use pruned-basic-verb-tree.pdf>
-Package pdftex.def Info: pruned-basic-verb-tree.pdf used on input line 139.
+Package pdftex.def Info: pruned-basic-verb-tree.pdf used on input line 138.
 (pdftex.def)             Requested size: 289.07999pt x 374.60938pt.
  [55 <./conj-verb-ab.pdf>] [56 <./unpruned-basic-verb-tree.pdf>] [57 <./pruned-
 basic-verb-tree.pdf>] [58] [59] [60]
-<modal-phrasal-tree.pdf, id=456, 528.97626pt x 405.515pt>
+<modal-phrasal-tree.pdf, id=465, 528.97626pt x 405.515pt>
 File: modal-phrasal-tree.pdf Graphic file (type pdf)
 
 <use modal-phrasal-tree.pdf>
-Package pdftex.def Info: modal-phrasal-tree.pdf used on input line 249.
+Package pdftex.def Info: modal-phrasal-tree.pdf used on input line 248.
 (pdftex.def)             Requested size: 289.07999pt x 221.61076pt.
- [61] [62] [63 <./modal-phrasal-tree.pdf>])
-(./section-discussion.tex [64] [65] [66
+ [61] [62 <./modal-phrasal-tree.pdf>] [63])
+(./section-discussion.tex [64] [65
 
 ]
 Package epstopdf Info: Source file: <tools-screenshot-bw.eps>
@@ -946,32 +955,32 @@ nverted-to.pdf tools-screenshot-bw.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
 
-<tools-screenshot-bw-eps-converted-to.pdf, id=494, 602.25pt x 516.93124pt>
+<tools-screenshot-bw-eps-converted-to.pdf, id=499, 602.25pt x 516.93124pt>
 File: tools-screenshot-bw-eps-converted-to.pdf Graphic file (type pdf)
 
 <use tools-screenshot-bw-eps-converted-to.pdf>
 Package pdftex.def Info: tools-screenshot-bw-eps-converted-to.pdf used on input
  line 18.
 (pdftex.def)             Requested size: 361.35278pt x 310.16113pt.
- [67]) (./section-conclusion.tex
-[68 <./tools-screenshot-bw-eps-converted-to.pdf>] [69
+ [66]) (./section-conclusion.tex
+[67 <./tools-screenshot-bw-eps-converted-to.pdf>] [68
 
-]) (./main.bbl [70]
-[71
+]) (./main.bbl [69]
+[70
 
-] [72] [73]) [74] (./main.aux)
+] [71] [72]) [73] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8217 strings out of 493633
- 114501 string characters out of 3143378
- 240658 words of memory out of 3000000
- 11269 multiletter control sequences out of 15000+200000
+ 8224 strings out of 493633
+ 114553 string characters out of 3143378
+ 240514 words of memory out of 3000000
+ 11270 multiletter control sequences out of 15000+200000
  33930 words of font info for 71 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,21n,41p,3246b,642s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,21n,41p,3244b,642s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -979,20 +988,19 @@ live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
 ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texliv
 e/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/
 2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/20
-11/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2011/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-di
-st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/t
-ype1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/t
-imes/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri
-8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyatip10.pf
-b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on main.pdf (78 pages, 702645 bytes).
+11/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2011/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-
+dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts
+/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw
+/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utm
+ri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyatip10.
+pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
+Output written on main.pdf (80 pages, 696908 bytes).
 PDF statistics:
- 582 PDF objects out of 1000 (max. 8388607)
- 416 compressed objects within 5 object streams
+ 585 PDF objects out of 1000 (max. 8388607)
+ 418 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

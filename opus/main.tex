@@ -1,35 +1,35 @@
 \documentclass[12pt]{article}
-
+%\usepackage[breaklinks=true]{hyperref}
+\usepackage{lingmacros}
 \usepackage[square]{natbib}
 \setcitestyle{aysep={}}
 \usepackage{array}
 \usepackage{url}
-\usepackage[small,bf]{caption}
+\usepackage[normal]{caption}
 \usepackage{booktabs}
 \usepackage{subfiles}
-%\usepackage[noend]{algorithmic}
-%\usepackage{algorithm}
 \usepackage{mathtools}
 \usepackage{times}
 \usepackage[utf8]{inputenc}
 \usepackage{setspace}
 \usepackage[margin=1.0in,left=1.5in]{geometry}
 \usepackage{xytree}
-\usepackage{lingmacros}
+%\usepackage{lingmacros}
 \usepackage{multirow}
 \usepackage[section]{placeins}
 \usepackage{flafter}
 \usepackage{titlesec}
 \usepackage{indentfirst}
 
+\newcommand*\captiont[2]{\caption[#1]{#1 #2}}
+
 \title{\textbf{A SYSTEM TO DISTINGUISH NATIVE AND NONNATIVE WRITTEN ENGLISH}}
 \author{Philip White}
 \doublespacing
 
-\numberwithin{figure}{section}
-\numberwithin{table}{section}
-%\numberwithin{algorithm}{section}
-\numberwithin{enums}{section}
+%\numberwithin{figure}{section}
+%\numberwithin{table}{section}
+%\numberwithin{enums}{section}
 
 %So citations work well with subfiles
 \def\biblio{\bibliographystyle{acmsmall}\bibliography{bibliography}}
@@ -94,6 +94,11 @@ May 2012
 
 \singlespacing
 \tableofcontents
+
+\doublespacing
+\listoftables
+\listoffigures
+
 \doublespacing
 \newpage
 \pagenumbering{arabic}
@@ -107,7 +112,7 @@ May 2012
 \subfile{section-intro} %1
 \subfile{section-lit-review} %2
 \subfile{section-corpora} %3
-\subfile{section-method-expln} %4c
+\subfile{section-method-expln} %4
 \subfile{section-dep-reln} %5
 \subfile{section-args} %6
 \subfile{section-verbs} %7
