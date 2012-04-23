@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  21 APR 2012 20:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 APR 2012 20:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -738,17 +738,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./abstract.aux) ) 
 Here is how much of TeX's memory you used:
- 7824 strings out of 493633
- 108065 string characters out of 3143378
- 223194 words of memory out of 3000000
- 10942 multiletter control sequences out of 15000+200000
+ 7825 strings out of 493633
+ 108073 string characters out of 3143378
+ 223204 words of memory out of 3000000
+ 10943 multiletter control sequences out of 15000+200000
  11686 words of font info for 39 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  51i,4n,40p,3288b,113s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.e
 nc}</usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/l
 ocal/texlive/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on abstract.pdf (1 page, 26494 bytes).
+Output written on abstract.pdf (1 page, 26309 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream

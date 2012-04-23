@@ -20,6 +20,7 @@
 \usepackage{flafter}
 \usepackage{titlesec}
 \usepackage{indentfirst}
+\usepackage{tocloft}
 
 \newcommand*\captiont[2]{\caption[#1]{#1 #2}}
 
@@ -40,6 +41,7 @@
 \raggedright
 \setlength{\parindent}{0.5in}
 
+\begin{comment}
 \makeatletter
 \renewcommand\l@section[2]{%
   \ifnum \c@tocdepth >\z@
@@ -58,6 +60,38 @@
     \endgroup
   \fi}
 \makeatother
+\end{comment}
+
+\cftsetindents{section}{0.0in}{0.0in}
+\cftsetindents{subsection}{0.5in}{0.5in}
+\cftsetindents{subsubsection}{1.0in}{1.0in}
+\cftsetindents{figure}{0.0in}{0.0in}
+\cftsetindents{table}{0.0in}{0.0in}
+
+\renewcommand{\cfttoctitlefont}{\hfill\bfseries}
+\renewcommand{\cftaftertoctitle}{\hfill}
+\renewcommand{\contentsname}{TABLE OF CONTENTS}
+\renewcommand{\cftlottitlefont}{\hfill\bfseries}
+\renewcommand{\cftafterlottitle}{\hfill}
+\renewcommand{\listtablename}{LIST OF TABLES}
+\renewcommand{\cftloftitlefont}{\hfill\bfseries}
+\renewcommand{\cftafterloftitle}{\hfill}
+\renewcommand{\listfigurename}{LIST OF FIGURES}
+
+\renewcommand{\cftsecfont}{\normalsize}
+
+\renewcommand{\cftdotsep}{0.4}
+\renewcommand{\cftsecdotsep}{0.4}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftsecdotsep}}
+\renewcommand{\cftsecpagefont}{\normalsize}
+
+\renewcommand{\cfttabpresnum}{Table }
+\renewcommand{\cfttabaftersnum}{.}
+\renewcommand{\cfttabnumwidth}{0.75in}
+
+\renewcommand{\cftfigpresnum}{Figure }
+\renewcommand{\cftfigaftersnum}{.}
+\renewcommand{\cftfignumwidth}{0.75in}
 
 \begin{document}
 \def\biblio{} %see note above on subfiles
