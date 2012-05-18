@@ -3,6 +3,8 @@
     edu.stanford.nlp.trees.EnglishGrammaticalStructure
     [weka.core Instances Attribute]
     [weka.classifiers.trees RandomForest J48]
+    [weka.classifiers.bayes NaiveBayesMultinomial]
+    [weka.classifiers.functions MultilayerPerceptron]
     java.util.Vector
     java.io.File
     [weka.attributeSelection InfoGainAttributeEval ClassifierSubsetEval GeneticSearch RaceSearch Ranker ChiSquaredAttributeEval]
@@ -40,6 +42,14 @@
     (mld/dataset-set-class ds "L1")
     ds))
 
+(defn make-num-reln-dataset-icle []
+  "Makes a dataset with numerical attributes of dependency relations (just relations) without instances"
+  (let [ds (mld/make-dataset "Dependencies"
+			  (conj *all-reln* {"L1" data/*icle-prefixes*})
+			  100)]
+    (mld/dataset-set-class ds "L1")
+    ds))
+
 (defn add-to-reln-dataset [ds deps L1]
   "adds an instance using the data found in deps"
   (let [tot-reln-count (float (reduce + (map count deps)))
@@ -48,7 +58,13 @@
 			 (map #(/ % tot-reln-count))))]
     (mld/dataset-add ds (conj counts L1))))
 
-
+(defn add-to-reln-dataset-icle [ds deps L1 token-count]
+  "adds an instance using the data found in deps. dep freq is relative to token count, not to total dep count"
+  (let [tot-reln-count (float (reduce + (map count deps)))
+	counts (vec (->> *all-reln*
+			 (map #(count-reln deps %))
+			 (map #(/ % token-count))))]
+    (mld/dataset-add ds (conj counts L1))))
 
 (defn make-reln-dataset-with-samples [corpus en-samples es-samples]
   "Pass corpus title and 2 seq of titles, first for en 2nd for es."
@@ -61,6 +77,20 @@
     (doseq [d (load-samples es-samples)]
       (println "+")
       (add-to-reln-dataset ds d "es"))
+    ds))
+
+(defn make-reln-dataset-with-icle []
+  "Uses data/*all-icle-corpora* to make a dataset"
+  (let [ds (make-num-reln-dataset-icle)
+	load-samples (fn [samples]
+		       (map #(data/load-deps :icle-all %) samples))]
+    (doseq [subcorp data/*all-icle-corpora*]
+      (println "******" (:L1 subcorp) "******")
+      (doseq [filename (:filenames subcorp)]
+        (let [d (data/load-deps :icle-all filename)]
+         (println "+")
+         (add-to-reln-dataset-icle ds d (:L1 subcorp)
+                              (data/count-parsed-tokens-in-file :icle-all filename)))))
     ds))
 
 (defn add-dataset-to-dataset [add-to add-from]
@@ -172,12 +202,12 @@ evaluates it using cross validation, then removes the attribute from dataset tha
                  {reln results}))))))
 
 (defn train-and-test [dataset]
-  (let [cl (RandomForest.)]
+  (let [cl (MultilayerPerceptron.)]
     ;;(.setBinarySplits cl true)
-    (.setNumTrees cl 100)
+    ;;(.setNumTrees cl 100)
     ;;(.setSeed cl (System/currentTimeMillis))
     (mlc/classifier-train cl dataset)
-    (mlc/classifier-evaluate cl :cross-validation dataset 20)
+    (mlc/classifier-evaluate cl :cross-validation dataset 10)
     cl))
 
 (comment (defn eval-attributes [dataset]
@@ -266,6 +296,18 @@ the items that have occurred at least the min number of times"
 
 (defn- load-dataset []
   (with-open [inp (-> (File. "../data/train-deps.dataset")
+                        java.io.FileInputStream.
+                        java.io.ObjectInputStream.)]
+    (.readObject inp)))
+
+(defn- dump-icle-dataset [ds]
+  (with-open [outp (-> (File. "../data/train-deps-icle.dataset")
+                       java.io.FileOutputStream.
+                       java.io.ObjectOutputStream.)]
+    (.writeObject outp ds)))
+
+(defn- load-icle-dataset []
+  (with-open [inp (-> (File. "../data/train-deps-icle.dataset")
                         java.io.FileInputStream.
                         java.io.ObjectInputStream.)]
       (.readObject inp)))

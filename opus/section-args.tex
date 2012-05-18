@@ -8,36 +8,11 @@
 
 \subsection{Verbal Arguments}
 
-In general, every verb in English takes one or more arguments, with a subject argument being required in normal speech and writing. The Stanford NLP system marks the arguments of verbs using the dependencies shown in Table~\ref{table:arg-deps}. In the majority of non-copular clauses, the governors of these dependencies are the core verbs. In copular sentences, the governor is generally the subject complement (i.e. the argument generally appearing after the verb which is equated with the subject), though in the case of copular sentences with clausal subjects, the Stanford Parser chooses the copula to be the governor.
-Figure~\ref{ex:arg-deps} show examples of these dependencies.
-
-\begin{table}[ht]
-\small
-\centering
-\caption{The Dependencies Used to Identify Verbal Arguments}
-\begin{tabular}{ l l }
-\toprule
-ccomp & Clausal Complement\\
-csubj & Clausal Subject\\
-csubjpass & Passive Clausal Subject\\
-dobj & Direct Object\\
-iobj & Indirect Object \\
-nsubj & Nominal Subject\\
-nsubjpass & Passive Nominal Subject\\
-xcomp & Open Clausal Complement\\
-
-\bottomrule
-\end{tabular}
-\label{table:arg-deps}
-\end{table}
-
-\begin{figure}[ht]
-
-\centering
-\begin{tabular}{ l l }
+In general, every verb in English takes one or more arguments, with a subject argument being required in normal speech and writing. The Stanford NLP system marks the arguments of verbs using the dependencies \textit{ccomp} (clausal complement), \textit{csubj} (clausal subject), \textit{csubjpass} (passive clausal subject), \textit{dobj} (direct object), \textit{iobj} (indirect object), \textit{nsubj} (nominal subject), \textit{nsubjpass} (passive nominal subject), and \textit{xcomp} (open clausal complement). In the majority of non-copular clauses, the governors of these dependencies are the core verbs. In copular sentences, the governor is generally the subject complement (i.e. the argument generally appearing after the verb which is equated with the subject), though in the case of copular sentences with clausal subjects, the Stanford Parser chooses the copula to be the governor.
+Examples of these dependencies can be seen in the following sentences taken from the ICE-CAN and MICUSP corpora and from \citet{typed-deps-manual}:
+\newline\newline%\begin{tabular}{ l l }
 %ICE Canada
-a. &
-\xytext{
+\noindent a.{\hskip 1em}\xytext{
 \xybarnode{In} &
 \xybarnode{nineteen} &
 \xybarnode{ninety-seven} &
@@ -50,10 +25,8 @@ a. &
 &
 \xybarnode{president.} 
 }\\
-
-b. &
 %MICUSP native
-\xytext{
+\noindent b.{\hskip 1em}\xytext{
 \xybarnode{\ldots} &
 \xybarnode{before} &
 \xybarnode{his} &
@@ -69,8 +42,7 @@ b. &
 \xybarnode{it.}
 }\\
 %MICUSP native
-c. &
-\xytext{
+\noindent c.{\hskip 1em}\xytext{
 \xybarnode{They} &
 \xybarnode{state} 
 \xybarconnect(U,U){-1}"_{\small nsubj}"
@@ -89,8 +61,7 @@ c. &
 }\\
 
 %MICUSP native
-d. &
-\xytext{
+\noindent d.{\hskip 1em}\xytext{
 \xybarnode{Before} &
 \xybarnode{Yeltsin} &
 \xybarnode{appointed} 
@@ -106,8 +77,7 @@ d. &
 }\\
 
 %Dep Manual
-e. &
-\xytext{
+\noindent e.{\hskip 1em}\xytext{
 \xybarnode{That} &
 \xybarnode{she} &
 \xybarnode{lied} 
@@ -119,8 +89,7 @@ e. &
 \xybarnode{everyone.}
 }\\
 %Dep manual
-f. &
-\xytext{
+\noindent f.{\hskip 1em}\xytext{
 \xybarnode{What} &
 \xybarnode{she} &
 \xybarnode{said} 
@@ -129,21 +98,22 @@ f. &
 \xybarnode{not}&
 \xybarnode{true.}
 \xybarconnect(D,D){-3}"^{\small csubj}"&
-}
+} \newline
 
-\end{tabular}
-\caption[Examples of the Dependencies Listed in Table~\ref{table:arg-deps}]{Examples of the Dependencies Listed in Table~\ref{table:arg-deps}. \textit{a}, Native Sample from ICE-CAN; \textit{b,c,d}, Native Samples from MICUSP; \textit{e,f} from \citet{typed-deps-manual}.}
-\label{ex:arg-deps}
-\end{figure}
+%\end{tabular}
+%\caption[Examples of the Dependencies Listed in Table~\ref{table:arg-deps}]{Examples of the Dependencies Listed in Table~\ref{table:arg-deps}. \textit{a}, Native Sample from ICE-CAN; \textit{b,c,d}, Native Samples from MICUSP; \textit{e,f} from \citet{typed-deps-manual}.}
+%\label{ex:arg-deps}
+%\end{figure}
 
 \citet{dubois:2003} provides hints that verbal argument structure may differ between native and nonnative speakers. That study explores when speakers use lexical NPs rather than pronominal NPs as verbal arguments. Considering only native speakers but looking at a number of different languages, Du Bois finds that there is a very strong tendency for speakers to use no more than one lexical argument per finite clause (Du Bois's One Lexical Argument Constraint) and to avoid placing an argument in the subject role of transitive sentences (the Non-Lexical \textbf{A} Constraint\footnote{\citet{dubois:2003} uses the letters \textbf{A}, \textbf{I}, and \textbf{O} to refer to the subject, indirect object, and direct object arguments of a transitive verb, and \textbf{S} to refer to the sole argument of an intransitive verb.}). He makes the case that these rules hold true for a number of world languages. However, in presenting data to show that several languages abide by the Non-Lexical \textbf{A} Constraint, he also shows that there are large differences between languages in the likelihood of a new argument appearing in the direct object and intransitive subject roles \citep[Table~2.5]{dubois:2003}. A new argument is one presenting information that has not yet been presented in the discourse. A new argument generally cannot be a pronoun, as pronouns typically refer to something presented earlier in the discourse. Not all lexical arguments are new arguments of course, but it stands to reason that the factors affecting the ratio of new to old arguments will also affect the ratio of lexical to pronominal arguments. The data he gathers show that in English, on average, 21\% of new arguments are found in intransitive clauses, versus 28\% for Spanish, and 79\% are found in direct object roles, versus 71\% for Spanish. A $\chi^2$ analysis shows that these differences are statistically significant considering his sample sizes ($\chi^2=2.244, df=2, p=0.326$), though admittedly at a relatively low confidence level (70\%). As an aside, of the five languages for which data is presented in that table, English and Spanish are the most similar in new argument distribution. The three other languages considered, French, Hebrew, and Sakapultek, all show a greater probability of finding a new argument in the intransitive subject role, and a lower probability of finding one in the direct object role, than either Spanish or English. Seeing that there may be differences between Spanish and English in how new arguments are distributed among the various argument roles, and noting that other languages show such differences as well, it is worth investigating whether L1-Spanish learners of English differ in their usage of lexical arguments as compared to native speakers.
 
 To investigate the feasibility of classifying language based on argument structure, Stanford dependency graphs were analyzed to identify 18 different types of finite clauses: intransitives with and without clausal subjects, copular clauses with and without clausal subjects, simple transitives with and without clausal subjects and objects, ditransitives with and without clausal subjects, complex transitives with and without clausal subjects, passives of simple transitives with or without clausal subjects, and passives of complex transitives with or without clausal subjects and complements. Then, for each of these 18 different types of clauses, all possible combinations of lexical and non-lexical arguments were considered, yielding 80 different attributes in total. This system, while providing a generous amount of data for the classifiers, yielded decision trees that were difficult to interpret linguistically. Fortunately, it was possible to generate from these attributes three much smaller and more coherent sets of attributes which, when combined and used to train a classifier, provided comparable accuracy.
 
-The first of these attribute sets consisted of just three attributes, each corresponding to a particular verb valency (i.e. the number of arguments). The values associated with these attributes were the percentage of all clauses which used that number of arguments. The next attribute set consisted of four attributes, named \textit{zero, one, two, three}, with corresponding values indicating what percentage of finite clauses had that number of lexical arguments. To avoid lengthy periphrasis, it is convenient to call this metric \textit{lexical argument density}.  The last attribute set consisted of seven attributes corresponding to types of argument roles. The values associated with these attributes were the percentage of lexical arguments found in that type of argument role. The seven types were intransitive, transitive, passive, and copular subjects, indirect and direct objects, and subject complements. This latter category included both the complement of copular clauses and what is usually the third argument in a complex transitive (e.g. \textit{deputy Prime Minister} in Figure~\ref{ex:arg-deps}d). This set of attributes will be referred to as the \textit{lexical argument role} set.
+The first of these attribute sets consisted of just three attributes, each corresponding to a particular verb valency (i.e. the number of arguments). The values associated with these attributes were the percentage of all clauses which used that number of arguments. The next attribute set consisted of four attributes, named \textit{zero, one, two, three}, with corresponding values indicating what percentage of finite clauses had that number of lexical arguments. To avoid lengthy periphrasis, it is convenient to call this metric \textit{lexical argument density}.  The last attribute set consisted of seven attributes corresponding to types of argument roles. The values associated with these attributes were the percentage of lexical arguments found in that type of argument role. The seven types were intransitive, transitive, passive, and copular subjects, indirect and direct objects, and subject complements. This latter category included both the complement of copular clauses and what is usually the third argument in a complex transitive (e.g. \textit{Before Yeltsin appointed him \underline{the deputy Prime Minister}}). This set of attributes will be referred to as the \textit{lexical argument role} set.
 
-To determine what was a lexical argument and what was not, a list of pronominal forms, largely taken from \citet[pp. 298-300]{celce-murcia:1999}, and shown in Table~\ref{table:pronouns}, was compared with each argument, and if no match was found, the argument was considered lexical. By this standard, clausal arguments were always considered lexical arguments. 
+To determine what was a lexical argument and what was not, the pronouns \textit{other, another, else, same, one, this, that, these, those, what, myself, yourself, herself, himself, itself, ourselves, yourselves, themselves, oneself, mine, yours, hers, his, ours, theirs, me, you, her, him, it, us, them, I, she, he, we}, and \textit{they} were compared with each argument, and if no match was found, the argument was considered lexical. By this standard, clausal arguments were always considered lexical arguments. 
 
+\begin{comment}
 \begin{table}[ht]
 \small
 \centering
@@ -163,13 +133,14 @@ them & I & she & he & we & they \\
 \end{tabular}
 \label{table:pronouns}
 \end{table}
+\end{comment}
 
 Figure~\ref{fig:c4.5-val} shows a C4.5 decision tree trained on cases consisting of the three verb valency attributes. It is noteworthy that the tree considers only two of the three attributes, and appears to indicate that native English has a larger proportion of trivalent verbs than does nonnative English, and that the opposite is true of divalent verbs. However, an extremely large number of training cases are misclassified by this tree, particularly by the middle leaf. In fact, Table~\ref{table:val-results} shows that the tree on average only classifies slightly more than half of all test cases correctly, and, worse still, the confidence interval for that accuracy encompasses 50\%, indicating that the tree may be doing no better than a random classifier. It is a bit surprising that the C4.5 algorithm was unable to construct a useful decision tree, as Du Bois presents data showing that there are statistically significant differences in the usage frequency of transitive and intransitive verbs between English and Spanish \citep[Table~2.3]{dubois:2003}. He found that in English 58\% of finite verbs were intransitive and 42\% transitive, whereas in Spanish the numbers were 63\% and 37\%. Furthermore, calculating from the data he gives, this difference is statistically significant at a high level of confidence: $\chi^2=4.693, df=1, p<0.05$. Based on Du Bois's data, one might expect a decision tree to classify texts as native based on a low ratio of transitive (di- and trivalent) verbs to intransitive (monovalent) verbs. However, there are a number of possible reasons why this is not the case, the most obvious being that perhaps this characteristic is not involved in L1-transfer.
 
 
 \begin{figure}[ht]
 \centering
-\includegraphics[width=1.5in]{c45-val.pdf}
+\includegraphics[width=2.1in]{c45-val.pdf}
 \caption{Verbal Clause Valency C4.5 Decision Tree}
 \label{fig:c4.5-val}
 \end{figure}
@@ -177,12 +148,13 @@ Figure~\ref{fig:c4.5-val} shows a C4.5 decision tree trained on cases consisting
 \begin{table}[ht]
 \centering
 \caption{Accuracy of Verbal Clause Valency C4.5 Classifier}
-\begin{tabular}{l c}
+\begin{tabular}{l c c}
 \toprule
-Nonnative & 84.4\% \\
-Native & 17.4\% \\
-Overall & 50.9\% \\
-95\% C.I. & 47.1\% --- 54.8\%\\
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 84.4\% & - \\
+Native & 17.4\% & - \\
+Overall & 50.9\% & 47.1\% --- 54.8\% \\
 \bottomrule
 \end{tabular}
 \label{table:val-results}
@@ -200,18 +172,21 @@ Figure~\ref{fig:c4.5-num-lex} shows a decision tree generated by the C4.5 algori
 \begin{table}[ht]
 \centering
 \caption{Accuracy of Lexical Argument Density C4.5 Classifier}
-\begin{tabular}{l c}
+\begin{tabular}{l c c}
 \toprule
-Nonnative & 70.7\% \\
-Native & 48.6\% \\
-Overall & 58.7\% \\
-95\% C.I. & 55.9\% --- 63.5\%\\
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 70.7\% & - \\
+Native & 48.6\% & - \\
+Overall & 58.7\% & 55.9\% --- 63.5\% \\
 \bottomrule
 \end{tabular}
 \label{table:num-lex-results}
 \end{table}
 
-Training a C4.5 classifier on the lexical argument role attribute set yields the decision tree shown in Figure~\ref{fig:c4.5-lex-role}. This tree is considerably more complicated than those shown in Figures~\ref{fig:c4.5-val} and \ref{fig:c4.5-num-lex}, and is more accurate, as well. Table~\ref{table:lex-role-results} shows that it correctly classifies test cases approximately two thirds of the time. Considering this tree in light of Du Bois's data shows some interesting parallels. Of the three roles that he considered, Du Bois found that there was not a significant difference between English and Spanish in the number of new arguments appearing as transitive subjects, and, in fact, found very few such arguments. It is not surprising then, that the classifier excluded the transitive subject attribute when constructing the decision tree. Du Bois also gathered data for the intransitive subject role, finding that English tends to have fewer new core arguments in this role than does Spanish. As he explains in an earlier paper \citep{dubois:1987}, he lumps the subjects of copular verbs into this role as well. However, in the decision tree, intransitive and copular subjects are considered separately, as are the subjects of transitive verbs in the passive voice, which Du Bois presumably considered to be intransitive as well. Considering first the intransitive subject (\textit{intr-subj}), it can be seen that this attribute appears twice in the decision tree. Where it appears closer to the root, the node splits the test cases at a value of 11.6162\%. The lower values are immediately classified as native, while the others undergo an additional test, with the majority ultimately being classified as nonnative. The other usage of this attribute is in a separate branch, deeper in the tree. Here, using a higher comparison point, low values lead to a branch where the majority are ultimately classified as nonnative, while most high values are classified as native. With these conflicting branches, it is difficult to draw conclusions, but it can be seen that the latter-mentioned branch, the one that appears to coincide with Du Bois's data, does deal with more training cases (43 with 86\% accuracy) than does the other (20 with 90\% accuracy). This suggests that, while a minority of learners overuse lexical intransitive subjects, a large group of learners underuse them. A similar pattern holds with the copular subject. Early in the decision process, one test splits the training cases based on the \textit{cop-sub} attribute and the group with the lower value is immediately classified as native. The other group, which is quite large, undergoes several more tests. The second use of the \textit{cop-sub} attribute is much deeper in the tree and is a direct descendant of the first, meaning that the information content of the attribute was much higher during the first test. This is convenient, as the first test is the one that coincides with Du Bois's data. 
+Training a C4.5 classifier on the lexical argument role attribute set yields the decision tree shown in Figure~\ref{fig:c4.5-lex-role}. This tree is considerably more complicated than those shown in Figures~\ref{fig:c4.5-val} and \ref{fig:c4.5-num-lex}, and is more accurate, as well. Table~\ref{table:lex-role-results} shows that it correctly classifies test cases approximately two thirds of the time. Considering this tree in light of Du Bois's data shows some interesting parallels. Of the three roles that he considered, Du Bois found that there was not a significant difference between English and Spanish in the number of new arguments appearing as transitive subjects, and, in fact, found very few such arguments. It is not surprising then, that the classifier excluded the transitive subject attribute when constructing the decision tree.
+
+Du Bois also gathered data for the intransitive subject role, finding that English tends to have fewer new core arguments in this role than does Spanish. As he explains in an earlier paper \citep{dubois:1987}, he lumps the subjects of copular verbs into this role as well. However, in the decision tree, intransitive and copular subjects are considered separately, as are the subjects of transitive verbs in the passive voice, which Du Bois presumably considered to be intransitive as well. Considering first the intransitive subject (\textit{intr-subj}), it can be seen that this attribute appears twice in the decision tree. Where it appears closer to the root, the node splits the test cases at a value of 11.6162\%. The lower values are immediately classified as native, while the others undergo an additional test, with the majority ultimately being classified as nonnative. The other usage of this attribute is in a separate branch, deeper in the tree. Here, using a higher comparison point, low values lead to a branch where the majority are ultimately classified as nonnative, while most high values are classified as native. With these conflicting branches, it is difficult to draw conclusions, but it can be seen that the latter-mentioned branch, the one that appears to coincide with Du Bois's data, does deal with more training cases (43 with 86\% accuracy) than does the other (20 with 90\% accuracy). This suggests that, while a minority of learners overuse lexical intransitive subjects, a large group of learners underuse them. A similar pattern holds with the copular subject. Early in the decision process, one test splits the training cases based on the \textit{cop-sub} attribute and the group with the lower value is immediately classified as native. The other group, which is quite large, undergoes several more tests. The second use of the \textit{cop-sub} attribute is much deeper in the tree and is a direct descendant of the first, meaning that the information content of the attribute was much higher during the first test. This is convenient, as the first test is the one that coincides with Du Bois's data. 
 
 \begin{figure}[ht]
 \centering
@@ -223,12 +198,13 @@ Training a C4.5 classifier on the lexical argument role attribute set yields the
 \begin{table}[ht]
 \centering
 \caption{Accuracy of Lexical Argument Role C4.5 Classifier}
-\begin{tabular}{l c}
+\begin{tabular}{l c c}
 \toprule
-Nonnative & 78.5\% \\
-Native & 54.8\%\\
-Overall & 66.7\% \\
-95\% C.I. & 63.0\% --- 70.3\%\\
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 78.5\% & - \\
+Native & 54.8\% & - \\
+Overall & 66.7\% & 63.0\% --- 70.3\% \\
 \bottomrule
 \end{tabular}
 \label{table:lex-role-results}
@@ -245,12 +221,13 @@ To gauge the potential accuracy of these attributes in constructing data models 
 \begin{table}[htbp]
 \centering
 \caption{Accuracy of Lexical Argument Role Random Forest Classifier}
-\begin{tabular}{l c}
+\begin{tabular}{l c c}
 \toprule
-Nonnative & 76.6\% \\
-Native & 63.2\% \\
-Overall & 70.0\% \\
-95\% C.I. & 66.4\% --- 73.5\%\\
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 76.6\% & - \\
+Native & 63.2\% & - \\
+Overall & 70.0\% & 66.4\% --- 73.5\% \\
 \bottomrule
 \end{tabular}
 \label{table:lex-role-rf-results}
@@ -258,12 +235,13 @@ Overall & 70.0\% \\
 \begin{table}[htbp]
 \centering
 \caption{Accuracy of Combined Random Forest Classifier}
-\begin{tabular}{l c}
+\begin{tabular}{l c c}
 \toprule
-Nonnative & 76.6\% \\
-Native & 63.9\% \\
-Overall & 70.2\% \\
-95\% C.I. & 66.7\% --- 73.8\%\\
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 76.6\% & - \\
+Native & 63.9\% & - \\
+Overall & 70.2\% & 66.7\% --- 73.8\% \\
 \bottomrule
 \end{tabular}
 \label{table:combined-rf-results}

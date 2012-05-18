@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 APR 2012 14:01
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  17 MAY 2012 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -581,6 +581,43 @@ Package: titlesec 2007/08/12 v2.8 Sectioning titles
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2010/10/13 v2.3e parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 43.
+\cftparskip=\skip56
+\cftbeforetoctitleskip=\skip57
+\cftaftertoctitleskip=\skip58
+\cftbeforepartskip=\skip59
+\cftpartnumwidth=\skip60
+\cftpartindent=\skip61
+\cftbeforesecskip=\skip62
+\cftsecindent=\skip63
+\cftsecnumwidth=\skip64
+\cftbeforesubsecskip=\skip65
+\cftsubsecindent=\skip66
+\cftsubsecnumwidth=\skip67
+\cftbeforesubsubsecskip=\skip68
+\cftsubsubsecindent=\skip69
+\cftsubsubsecnumwidth=\skip70
+\cftbeforeparaskip=\skip71
+\cftparaindent=\skip72
+\cftparanumwidth=\skip73
+\cftbeforesubparaskip=\skip74
+\cftsubparaindent=\skip75
+\cftsubparanumwidth=\skip76
+\cftbeforeloftitleskip=\skip77
+\cftafterloftitleskip=\skip78
+\cftbeforefigskip=\skip79
+\cftfigindent=\skip80
+\cftfignumwidth=\skip81
+\c@lofdepth=\count125
+\c@lotdepth=\count126
+\cftbeforelottitleskip=\skip82
+\cftafterlottitleskip=\skip83
+\cftbeforetabskip=\skip84
+\cfttabindent=\skip85
+\cfttabnumwidth=\skip86
 )))
 (./section-dep-reln.aux
 
@@ -634,20 +671,20 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count125
+\Gread@gobject=\count127
 
 (/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count126
+\scratchcounter=\count128
 \scratchdimen=\dimen193
 \scratchbox=\box35
-\nofMPsegments=\count127
-\nofMParguments=\count128
+\nofMPsegments=\count129
+\nofMParguments=\count130
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count129
+\MPscratchCnt=\count131
 \MPscratchDim=\dimen194
-\MPnumerator=\count130
-\makeMPintoPDFobject=\count131
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
 \everyMPtoPDFconversion=\toks35
 ))) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
@@ -715,7 +752,7 @@ e
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
-* \footskip=30.0pt
+* \footskip=36.135pt
 * \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
@@ -739,60 +776,45 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 <c45-dep-graph.pdf, id=12, 783.92876pt x 676.5275pt>
 File: c45-dep-graph.pdf Graphic file (type pdf)
  <use c45-dep-graph.pdf>
-Package pdftex.def Info: c45-dep-graph.pdf used on input line 17.
+Package pdftex.def Info: c45-dep-graph.pdf used on input line 19.
 (pdftex.def)             Requested size: 433.62pt x 374.21779pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
 
-[2] [3 <./c45-dep-graph.pdf>] <xymatrix 4x1 124> <xymatrix 3x1 120>
-Underfull \hbox (badness 3769) in paragraph at lines 70--70
-[]\OT1/ptm/m/n/12 Figure 2: |The De-pen-den-cies $\OML/cmm/m/it/12 auxpass\OT1/
-cmr/m/n/12 ([]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )$ \OT1/ptm/m/n/12 and $\OML
-/cmm/m/it/12 auxpass\OT1/cmr/m/n/12 ([]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )$
- []
+<xymatrix 4x1 124> <xymatrix 3x1 120> [2] [3 <./c45-dep-graph.pdf>] <xymatrix
+12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258> [4] <xymatrix 5x1 128>
+<xymatrix 8x1 140> [5] <xymatrix 12x1 474> [6] [7] [8] <xymatrix 7x1 136>
+[9] <xymatrix 11x1 152> [10] [11] <xymatrix 9x1 144> <xymatrix 10x1 148>
+[12] <xymatrix 12x1 262> [13] <xymatrix 9x1 144> [14] <xymatrix 7x1 136>
+[15] (./section-dep-reln.bbl [16] [17] [18
 
-<xymatrix 12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258>
-Underfull \hbox (badness 10000) in paragraph at lines 134--134
-[]\OT1/ptm/m/n/12 Figure 3: |The De-pen-den-cies $\OML/cmm/m/it/12 complm\OT1/c
-mr/m/n/12 ([]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )$\OT1/ptm/m/n/12 , $\OML/cmm
-/m/it/12 complm\OT1/cmr/m/n/12 ([]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )$\OT1/p
-tm/m/n/12 ,
- []
-
-[4] [5] <xymatrix 5x1 128> <xymatrix 8x1 140> [6] <xymatrix 12x1 474> [7]
-[8] [9] <xymatrix 7x1 136> [10] <xymatrix 11x1 152> [11] <xymatrix 9x1 144>
-<xymatrix 10x1 148> [12] <xymatrix 12x1 262> [13] <xymatrix 9x1 144> [14]
-[15] <xymatrix 7x1 136> [16] (./section-dep-reln.bbl [17] [18
-
-]) [19]
-(./section-dep-reln.aux)
+]) [19] (./section-dep-reln.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7974 strings out of 493633
- 110149 string characters out of 3143378
- 232161 words of memory out of 3000000
- 11080 multiletter control sequences out of 15000+200000
- 23115 words of font info for 57 fonts, out of 3000000 for 9000
+ 8206 strings out of 493633
+ 113654 string characters out of 3143378
+ 234810 words of memory out of 3000000
+ 11308 multiletter control sequences out of 15000+200000
+ 21975 words of font info for 53 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 51i,21n,40p,3296b,566s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,19n,40p,3296b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
-xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
-live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texli
-ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive
-/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texm
-f-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fon
-ts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/u
-rw/times/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xyp
-ic/xyatip10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xy
-btip10.pfb>
-Output written on section-dep-reln.pdf (19 pages, 152778 bytes).
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texl
+ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
+e/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/tex
+mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fo
+nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/
+urw/times/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xy
+pic/xyatip10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/x
+ybtip10.pfb>
+Output written on section-dep-reln.pdf (19 pages, 140626 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
+ 122 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -3,28 +3,17 @@
 \contentsline {figure}{\numberline {3}{\ignorespaces One Possible Parse of \textit {the bag was found in the woods by a farmer}}}{11}
 \contentsline {figure}{\numberline {4}{\ignorespaces Another Possible Parse of \textit {the bag was found in the woods by a farmer}}}{12}
 \contentsline {figure}{\numberline {5}{\ignorespaces Decision Tree Showing the Partitioning of a Set of Training Cases $S_0$ into Subsets Consisting of Elements of a Single Class\relax }}{15}
-\contentsline {figure}{\numberline {6}{\ignorespaces C4.5 Decision Tree Employing Relative Frequency of Dependency Relations\relax }}{21}
-\contentsline {figure}{\numberline {7}{\ignorespaces The Dependencies $auxpass(\text {killed},\text {been})$ and $auxpass(\text {killed},\text {was/got})$}}{22}
-\contentsline {figure}{\numberline {8}{\ignorespaces The Dependencies $complm(\text {place},\text {whether})$, $complm(\text {go}, whether)$, etc.}}{23}
-\contentsline {figure}{\numberline {9}{\ignorespaces The Dependencies $cop(\text {independent},\text {became})$ and $cop(\text {interested},\text {was})$}}{24}
-\contentsline {figure}{\numberline {10}{\ignorespaces The Dependencies $det(\text {people},\text {some})$, $predet(\text {fuss},\text {such})$, etc.}}{25}
-\contentsline {figure}{\numberline {11}{\ignorespaces The Dependency $det(\text {was},\text {there})$}}{28}
-\contentsline {figure}{\numberline {12}{\ignorespaces The Dependency $nn(\text {concentration}, \text {oxygen})$}}{29}
-\contentsline {figure}{\numberline {13}{\ignorespaces The Dependencies $parataxis(\text {left}, \text {said})$ and $parataxis(\text {plays}, \text {plays})$}}{31}
-\contentsline {figure}{\numberline {14}{\ignorespaces The Dependencies $poss(\text {effects}, \text {oil})$ and $possessive(\text {oil}, \text {'s})$}}{31}
-\contentsline {figure}{\numberline {15}{\ignorespaces The Dependency $prt(\text {free},\text {up})$}}{32}
-\contentsline {figure}{\numberline {16}{\ignorespaces The Dependency $quantmod(\text {200},\text {about})$}}{34}
-\contentsline {figure}{\numberline {17}{\ignorespaces Examples of the Dependencies Listed in Table\nobreakspace {}5\hbox {}}}{37}
-\contentsline {figure}{\numberline {18}{\ignorespaces Verbal Clause Valency C4.5 Decision Tree\relax }}{40}
-\contentsline {figure}{\numberline {19}{\ignorespaces Lexical Argument Density C4.5 Decision Tree\relax }}{42}
-\contentsline {figure}{\numberline {20}{\ignorespaces Lexical Argument Role C4.5 Decision Tree\relax }}{44}
-\contentsline {figure}{\numberline {21}{\ignorespaces Typical Parse Tree Showing Verb Types\relax }}{50}
-\contentsline {figure}{\numberline {22}{\ignorespaces Parse Tree Showing Modal \textit {will}\relax }}{50}
-\contentsline {figure}{\numberline {23}{\ignorespaces Parse Tree Showing Phrasal Modal \textit {be able to}\relax }}{52}
-\contentsline {figure}{\numberline {24}{\ignorespaces Parse Tree Showing Phrasal Modal \textit {be going to}\relax }}{53}
-\contentsline {figure}{\numberline {25}{\ignorespaces Parse Tree Showing a Verb with Embedded Conjunction\relax }}{54}
-\contentsline {figure}{\numberline {26}{\ignorespaces Parse Trees Showing the VP from Figure\nobreakspace {}25\hbox {} Split into Two VPs\relax }}{55}
-\contentsline {figure}{\numberline {27}{\ignorespaces C4.5 Decision Tree Using Various Verbal Attributes With Default Pruning\relax }}{56}
-\contentsline {figure}{\numberline {28}{\ignorespaces Aggressively Pruned C4.5 Decision Tree Using Various Verbal Attributes\relax }}{57}
-\contentsline {figure}{\numberline {29}{\ignorespaces C4.5 Decision Tree Using Modal vs Phrasal Attributes\relax }}{62}
-\contentsline {figure}{\numberline {30}{\ignorespaces Mock-up of the Interface of an ESL Learner's Tool\relax }}{67}
+\contentsline {figure}{\numberline {6}{\ignorespaces C4.5 Decision Tree Employing Relative Frequency of Relations\relax }}{21}
+\contentsline {figure}{\numberline {7}{\ignorespaces Verbal Clause Valency C4.5 Decision Tree\relax }}{40}
+\contentsline {figure}{\numberline {8}{\ignorespaces Lexical Argument Density C4.5 Decision Tree\relax }}{42}
+\contentsline {figure}{\numberline {9}{\ignorespaces Lexical Argument Role C4.5 Decision Tree\relax }}{44}
+\contentsline {figure}{\numberline {10}{\ignorespaces Typical Parse Tree Showing Verb Types\relax }}{50}
+\contentsline {figure}{\numberline {11}{\ignorespaces Parse Tree Showing Modal \textit {will}\relax }}{50}
+\contentsline {figure}{\numberline {12}{\ignorespaces Parse Tree Showing Phrasal Modal \textit {be able to}\relax }}{52}
+\contentsline {figure}{\numberline {13}{\ignorespaces Parse Tree Showing Phrasal Modal \textit {be going to}\relax }}{53}
+\contentsline {figure}{\numberline {14}{\ignorespaces Parse Tree Showing a Verb with Embedded Conjunction\relax }}{54}
+\contentsline {figure}{\numberline {15}{\ignorespaces Parse Trees Showing the VP from Figure\nobreakspace {}14\hbox {} Split into Two VPs\relax }}{55}
+\contentsline {figure}{\numberline {16}{\ignorespaces C4.5 Decision Tree Using Various Verbal Attributes With Default Pruning\relax }}{56}
+\contentsline {figure}{\numberline {17}{\ignorespaces Aggressively Pruned C4.5 Decision Tree Using Various Verbal Attributes\relax }}{57}
+\contentsline {figure}{\numberline {18}{\ignorespaces C4.5 Decision Tree Using Modal vs Phrasal Attributes\relax }}{63}
+\contentsline {figure}{\numberline {19}{\ignorespaces Mock-up of the Interface of an ESL Learner's Tool\relax }}{68}

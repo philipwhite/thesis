@@ -1,18 +1,22 @@
 \documentclass[12pt]{article}
+\usepackage{mathtools}
+%\usepackage[MnSymbol]{mathspec}
+%\setallmainfonts[Ligatures=TeX]{Times New Roman}
 %\usepackage[breaklinks=true]{hyperref}
 \usepackage{lingmacros}
 \usepackage[square]{natbib}
+\usepackage{natbibspacing}
 \setcitestyle{aysep={}}
 \usepackage{array}
 \usepackage{url}
 \usepackage[normal]{caption}
 \usepackage{booktabs}
 \usepackage{subfiles}
-\usepackage{mathtools}
 \usepackage{times}
+%\usepackage{txfontsb}
 \usepackage[utf8]{inputenc}
 \usepackage{setspace}
-\usepackage[margin=1.0in,left=1.5in]{geometry}
+\usepackage[margin=1.0in,left=1.5in,foot=0.5in]{geometry}
 \usepackage{xytree}
 %\usepackage{lingmacros}
 \usepackage{multirow}
@@ -22,15 +26,15 @@
 \usepackage{indentfirst}
 \usepackage{tocloft}
 
+\setlength{\bibspacing}{\baselineskip}
+
+
 \newcommand*\captiont[2]{\caption[#1]{#1 #2}}
+
 
 \title{\textbf{A SYSTEM TO DISTINGUISH NATIVE AND NONNATIVE WRITTEN ENGLISH}}
 \author{Philip White}
 \doublespacing
-
-%\numberwithin{figure}{section}
-%\numberwithin{table}{section}
-%\numberwithin{enums}{section}
 
 %So citations work well with subfiles
 \def\biblio{\bibliographystyle{acmsmall}\bibliography{bibliography}}
@@ -41,32 +45,15 @@
 \raggedright
 \setlength{\parindent}{0.5in}
 
-\begin{comment}
-\makeatletter
-\renewcommand\l@section[2]{%
-  \ifnum \c@tocdepth >\z@
-    \addpenalty\@secpenalty
-    \addvspace{1.0em \@plus\p@}%
-    \setlength\@tempdima{1.5em}%
-    \begingroup
-      \parindent \z@ \rightskip \@pnumwidth
-      \parfillskip -\@pnumwidth
-      \leavevmode 
-      \advance\leftskip\@tempdima
-      \hskip -\leftskip
-      #1\nobreak\ 
-      \leaders\hbox{$\m@th\mkern \@dotsep mu\hbox{.}\mkern \@dotsep mu$}
-     \hfil \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
-    \endgroup
-  \fi}
-\makeatother
-\end{comment}
-
 \cftsetindents{section}{0.0in}{0.0in}
 \cftsetindents{subsection}{0.5in}{0.5in}
 \cftsetindents{subsubsection}{1.0in}{1.0in}
 \cftsetindents{figure}{0.0in}{0.0in}
 \cftsetindents{table}{0.0in}{0.0in}
+
+\setlength{\cftaftertoctitleskip}{24pt}
+\setlength{\cftafterloftitleskip}{24pt}
+\setlength{\cftafterlottitleskip}{24pt}
 
 \renewcommand{\cfttoctitlefont}{\hfill\bfseries}
 \renewcommand{\cftaftertoctitle}{\hfill}
@@ -93,9 +80,9 @@
 \renewcommand{\cftfigaftersnum}{.}
 \renewcommand{\cftfignumwidth}{0.75in}
 
+
 \begin{document}
 \def\biblio{} %see note above on subfiles
-
 
 %\maketitle
 \pagenumbering{roman}
@@ -113,7 +100,7 @@ Missouri State University\\
 \null\null\null\null
 In Partial Fulfillment\\
 Of the Requirements for the Degree\\
-Master of Natural and Applied Science, Computer Science\\
+Master of Natural and Applied Science\\
 \null\null\null\null
 By\\
 Philip Magnus Robinsson White\\
@@ -126,12 +113,22 @@ May 2012
 \newpage
 \subfile{signature}
 
+\begingroup
+%double space between entries, single space within, for toc, lof, lot
+\setlength{\cftbeforesecskip}{12pt}
+\setlength{\cftbeforesubsecskip}{0pt}
+\setlength{\cftbeforefigskip}{12pt}
+\setlength{\cftbeforetabskip}{12pt}
 \singlespacing
 \tableofcontents
 
-\doublespacing
+%\doublespacing
 \listoftables
 \listoffigures
+\endgroup
+
+%adjust spacing before and after floats
+\setlength{\intextsep}{24pt}
 
 \doublespacing
 \newpage
@@ -141,6 +138,7 @@ May 2012
 
 \titleformat{\section}{\normalfont\bfseries\centering}{}{}{\MakeUppercase}
 \titleformat{\subsection}{\normalfont\bfseries}{}{}{}
+\titlespacing{\section}{0pt}{0pt}{24pt}
 \titlespacing*{\subsection}{0pt}{24pt}{0pt}
 
 \subfile{section-intro} %1
@@ -154,7 +152,9 @@ May 2012
 \subfile{section-conclusion} %9
 
 %\nocite{*}
+\singlespacing
 \bibliographystyle{acmsmall}
+\addcontentsline{toc}{section}{References}
 \bibliography{bibliography}
 
 \end{document}

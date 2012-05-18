@@ -10,15 +10,18 @@ The simplest classification approach used in this study considered the relative 
 
 Each data set instance contained attributes corresponding to dependency relations. The Stanford Parser, in its default configuration, does not generate the \textit{punct} or punctuation dependency, which connects punctuation symbols to a key element in the associated clause. Since English punctuation is broadly similar to Spanish punctuation, aside from some stark differences such as Spanish's inverted question and exclamation marks, which should be apparent to even the beginning learner, it did not seem to useful to activate this dependency. Additionally, the \textit{abbrev} or abbreviation dependency was removed. This dependency marks the definition of an abbreviation, as in the example given by \citet{typed-deps-manual}, ``Australian Broadcasting Corporation (ABC),'' where the dependency would be $abbrev(\text{Corporation},\text{ABC})$. This dependency has little to do with grammar, and thus was ignored for the purposes of this study. Having excluded these two dependencies, each data set instance contained 58 numerical attributes, one for each relation.
 
-      For each attribute $A_r$ corresponding to the relation $r$, the corresponding value was the floating point number $n_r/n_t$, where $n_r$ and $n_t$ were the number of occurrences of the relation $r$ and the total number of relations in the text, respectively. A C4.5 decision tree classifier trained on these instances produces the decision tree shown in Figure~\ref{fig:c4.5-dep-tree}, employing 15 different relations. The full names for these relations are shown in Table~\ref{table:reln-abbr}. At each terminal node of the tree there is an integer or pair of integers in parentheses. These values indicate the number of the training cases that were categorized (correctly or not) at that node and the number of cases incorrectly categorized, this latter value only being shown when greater than zero. For any given test node, one can identify one branch as the predominately \textit{en} branch and the other as the \textit{es} branch. For test nodes where one or both branches lead to terminal nodes, this is trivial, as the terminal nodes themselves label the branches. For any other test node, the branches can be identified by summing up the number of test cases at the terminal nodes of that branch. For instance, the root test node, which considers the relation \textit{nn}, divides the training set of 642 cases into a subset of 337 cases, associated with the left branch, and another subset of 305 cases, associated with the right branch. Looking at the left branch, it can be seen that of these 337 cases, 301 of them are nonnative, i.e. of the class \textit{es}, and only 36 are native. This indicates that this is a predominately nonnative branch. Conversely, the right hand branch consists of 285 native cases and only 20 nonnative cases, making it the native branch. This allows one to say, for instance, that cases with low occurrences of the \textit{nn} relation tend to be nonnative samples. The following subsections explore the linguistic reasons why these relations are so useful in making such categorizations.
+      For each attribute $A_r$ corresponding to the relation $r$, the corresponding value was the floating point number $n_r/n_t$, where $n_r$ and $n_t$ were the number of occurrences of the relation $r$ and the total number of relations in the text, respectively. A C4.5 decision tree classifier trained on these instances produces the decision tree shown in Figure~\ref{fig:c4.5-dep-tree}, employing 15 different relations. The relations uses in this tree are \textit{auxpass} (passive auxiliary), \textit{complm} (complementizer), \textit{cop} (copula), \textit{dep} (unclassified dependency), \textit{det} (determiner), \textit{expl} (expletive), \textit{mwe} (multi-word expression), \textit{nn} (noun compound modifier), \textit{npadvmod} (noun phrase as adverbial modifier), \textit{parataxis}, \textit{poss} (possession modifier), \textit{possessive} (possessive modifier), \textit{predet} (predeterminer), \textit{prt} (phrasal verb particle), and \textit{quantmod} (quantifier phrase modifier).
 
-\begin{figure}[htbp]
+At each terminal node of the tree there is an integer or pair of integers in parentheses. These values indicate the number of the training cases that were categorized (correctly or not) at that node and the number of cases incorrectly categorized, this latter value only being shown when greater than zero. For any given test node, one can identify one branch as the predominately \textit{en} branch and the other as the \textit{es} branch. For test nodes where one or both branches lead to terminal nodes, this is trivial, as the terminal nodes themselves label the branches. For any other test node, the branches can be identified by summing up the number of test cases at the terminal nodes of that branch. For instance, the root test node, which considers the relation \textit{nn}, divides the training set of 642 cases into a subset of 337 cases, associated with the left branch, and another subset of 305 cases, associated with the right branch. Looking at the left branch, it can be seen that of these 337 cases, 301 of them are nonnative, i.e. of the class \textit{es}, and only 36 are native. This indicates that this is a predominately nonnative branch. Conversely, the right hand branch consists of 285 native cases and only 20 nonnative cases, making it the native branch. This allows one to say, for instance, that cases with low occurrences of the \textit{nn} relation tend to be nonnative samples. The following subsections explore the linguistic reasons why these relations are so useful in making such categorizations.
+
+\begin{figure}[!b]
 \centering
 \includegraphics[width=6in]{c45-dep-graph.pdf}
-\caption{C4.5 Decision Tree Employing Relative Frequency of Dependency Relations}
+\caption{C4.5 Decision Tree Employing Relative Frequency of Relations}{C4.5 Decision Tree Employing Relative Frequency of Dependency Relations}
 \label{fig:c4.5-dep-tree}
 \end{figure}
 
+\begin{comment}
 \begin{table}[ht]
 \small
 \centering
@@ -44,15 +47,14 @@ $quantmod$ & quantifier phrase modifier \\
 \end{tabular}
 \label{table:reln-abbr}
 \end{table}
+\end{comment}
 
 
 \subsection{Passive Auxiliary}
 
-The passive auxiliary dependency \textit{auxpass} marks an auxiliary verb which carries the passive information of the clause. In general, a parsed sample of text will contain one such dependency for every passive clause, and so a high relative frequency of this relation indicates heavy usage of the passive voice. Figure~\ref{ex:auxpass-dep} illustrates this dependency.
-
-\begin{figure}[htbp]
-\centering
-\begin{tabular}{ l l }
+The passive auxiliary dependency \textit{auxpass} marks an auxiliary verb which carries the passive information of the clause. In general, a parsed sample of text will contain one such dependency for every passive clause, and so a high relative frequency of this relation indicates heavy usage of the passive voice. An example 
+\citep{typed-deps-manual} of this is:
+\newline\newline\begin{tabular}{ l l }
 a. & \xytext{
 \xybarnode{Kennedy} &
 \xybarnode{has} &
@@ -63,23 +65,22 @@ a. & \xytext{
 b. & \xytext{
 \xybarnode{Kennedy} &
 \xybarnode{was/got} &
-\xybarnode{killed}
+\xybarnode{killed.}
 \xybarconnect(U,U){-1}"_{\small auxpass}"
 }
 \end{tabular}
-\captiont{The Dependencies $auxpass(\text{killed},\text{been})$ and $auxpass(\text{killed},\text{was/got})$}{\citep{typed-deps-manual}}
-\label{ex:auxpass-dep}
-\end{figure}
+\newline
+
+%\captiont{The Dependencies $auxpass(\text{killed},\text{been})$ and %$auxpass(\text{killed},\text{was/got})$}{\citep{typed-deps-manual}}
+%\label{ex:auxpass-dep}
+%\end{figure}
 
 The decision tree in Figure~\ref{fig:c4.5-dep-tree} uses the $auxpass$ attribute once, dividing the training set into cases with higher frequencies, which get classified immediately as nonnative, and cases with lower frequencies, which undergo additional testing. It is important to note that the large majority of this second set of cases (35 out of 41) are ultimately categorized as nonnative as well. So while high relative frequencies of the $auxpass$ attribute are associated with learners, low frequencies are associated with both learners and native speakers. This indicates that the use of the passive is not a strong indicator of the nativeness of the text. Likely a slightly more aggressive pruning factor would have resulted in the elimination of the $auxpass$ node.
 
 \subsection{Complementizer}
 
-A complementizer is a word that signals the beginning of a clausal complement. The Stanford Parser recognizes the complementizers \textit{that} and \textit{whether} as shown in Figure~\ref{ex:complm3}. The governor of a complementizer dependency is the root of the clause, which is generally a verb or, in the case of copular clauses, the subject complement. The dependent is the complementizer itself.
-
-\begin{figure}[ht]
-\centering
-\begin{tabular}{ l l }
+A complementizer is a word that signals the beginning of a clausal complement. The Stanford Parser recognizes the complementizers \textit{that} and \textit{whether}. The governor of a complementizer dependency is the root of the clause, which is generally a verb or, in the case of copular clauses, the subject complement. The dependent is the complementizer itself. The following examples taken from the SULEC and WRICLE corpora illustrate this dependency:
+\newline\newline\begin{tabular}{ l l }
 a. &
 \xytext{
 \xybarnode{\ldots} &
@@ -131,9 +132,10 @@ c. &
 \ldots
 }
 \end{tabular}
-\caption[The Dependencies $complm(\text{place},\text{whether})$, $complm(\text{go}, whether)$, etc.]{The Dependencies $complm(\text{place},\text{whether})$, $complm(\text{go},\text{whether})$, $complm(\text{predicts},\text{that})$, and $complm(\text{rise},\text{that})$. Nonnative Samples from WRICLE (\textit{a} and \textit{c}) and SULEC (\textit{b}).}
-\label{ex:complm3}
-\end{figure}
+\newline
+%\caption[The Dependencies $complm(\text{place},\text{whether})$, $complm(\text{go}, %whether)$, etc.]{The Dependencies $complm(\text{place},\text{whether})$, %$complm(\text{go},\text{whether})$, $complm(\text{predicts},\text{that})$, and %$complm(\text{rise},\text{that})$. Nonnative Samples from WRICLE (\textit{a} and \textit{c}) and SULEC (\textit{b}).}
+%\label{ex:complm3}
+%\end{figure}
 
 \citet{whitley:1986} points out that while English tends to allow the deletion of complementizers introducing clausal complements in the object position, Spanish generally does not, as shown in the following examples:
 \eenumsentence{
@@ -152,10 +154,10 @@ The decision tree shown in Figure~\ref{fig:c4.5-dep-tree} uses the $complm$ depe
 
 \subsection{Copula}
 
-The copula or $cop$ dependency marks copular verbs. This dependency takes as its governor the complement of the copular clause and the verb itself as the dependent. Figure~\ref{ex:cop1} shows examples of two different copular verbs.
-\begin{figure}[ht]
-\centering
-\begin{tabular}{ l l }
+The copula or $cop$ dependency marks copular verbs. This dependency takes as its governor the complement of the copular clause and the verb itself as the dependent. The following \citep[pp. 52-3]{quirk:1985} are examples of two different copular verbs:
+%\begin{figure}[ht]
+%\centering
+\newline\newline\begin{tabular}{ l l }
 a. &
 \xytext{
 \xybarnode{The} &
@@ -179,9 +181,11 @@ b. &
 \xybarnode{proposals.}
 }\\
 \end{tabular}
-\captiont{The Dependencies $cop(\text{independent},\text{became})$ and $cop(\text{interested},\text{was})$}{\citep[pp. 52-3]{quirk:1985}}
-\label{ex:cop1}
-\end{figure}
+\newline
+%\captiont{The Dependencies $cop(\text{independent},\text{became})$ and %$cop(\text{interested},\text{was})$}{\citep[pp. 52-3]{quirk:1985}}
+%\label{ex:cop1}
+%\end{figure}
+
 However, the Stanford Parser does not recognize all copular clauses as such. In particular, copular clauses followed by adverbials are not identified with the $cop$ dependency, for instance:
 \enumsentence{\textit{I have been in the garden.} \citep[p. 53]{quirk:1985}}
 
@@ -189,10 +193,8 @@ The decision tree in Figure~\ref{fig:c4.5-dep-tree} contains one node which uses
 
 \subsection{Determiner and Predeterminer}
 
-The determiner or $det$ dependency connects a determiner to the NP it modifies, with the determiner being the dependent and the head of the NP the governor. Similarly, the $predet$ dependency marks a predeterminer. Figure~\ref{ex:det} shows examples of both determiners and a predeterminer in one sentence fragment. 
-\begin{figure}[ht]
-\centering
-\xytext{
+The determiner or $det$ dependency connects a determiner to the NP it modifies, with the determiner being the dependent and the head of the NP the governor. Similarly, the $predet$ dependency marks a predeterminer. The following, a nonnative sample from the SULEC corpus, is an example of both determiners and a predeterminer in one sentence fragment: 
+\newline\newline \xytext{
 \xybarnode{For} &
 \xybarnode{some} &
 \xybarnode{people}
@@ -210,9 +212,11 @@ The determiner or $det$ dependency connects a determiner to the NP it modifies, 
 \xybarconnect(U,U){-1}"_{\small det}" &
 \xybarnode{\ldots}
 }
-\caption[The Dependencies $det(\text{people},\text{some})$, $predet(\text{fuss},\text{such})$, etc.]{The Dependencies $det(\text{people},\text{some})$, $predet(\text{fuss},\text{such})$, $det(\text{fuss},\text{a})$ and $det(\text{matter},\text{this})$. Nonnative Sample Taken from SULEC.}
-\label{ex:det}
-\end{figure}
+\newline
+
+%\caption[The Dependencies $det(\text{people},\text{some})$, %$predet(\text{fuss},\text{such})$, etc.]{The Dependencies %$det(\text{people},\text{some})$, $predet(\text{fuss},\text{such})$, %$det(\text{fuss},\text{a})$ and $det(\text{matter},\text{this})$. Nonnative Sample %Taken from SULEC.}
+%\label{ex:det}
+%\end{figure}
 By the analysis of \citet[p. 253]{quirk:1985}, a determiner is an element which modifies a NP, precedes any adjectives modifying the NP, and which expresses the type of reference made by that NP. Adjectives, on the other hand, indicate the attributes of a NP. \citeauthor{quirk:1985} divide determiners into three classes: predeterminers, central determiners, and postdeterminers. Postdeterminers, which include quantifiers such as \textit{many} and \textit{few}, and both cardinal and ordinal numerals, are identified by the Stanford Parser using relations not found in the decision tree in Figure~\ref{fig:c4.5-dep-tree}. It should not comes as a surprise that the $predet$ relation marks predeterminers, but it is worth noting that the $det$ relation marks only \textit{central} determiners. Perhaps the most common central determiners are the articles \textit{the}, \textit{a}, and \textit{an}; but this class of words also includes a number of other words, many of which have separate roles as pronouns, such as \textit{this}, \textit{that}, \textit{some}, and so forth. The predeterminers consist of words which generally precede core determiners and include certain words which modify quantity, such as \textit{all}, \textit{both}, \textit{double}, and \textit{half}, and others more difficult to define: \textit{such}, \textit{what}, and so forth. Note that the Stanford Parser only parses predeterminers as $predet$ dependencies if they appear before a $det$ dependency. Otherwise they get parsed as $det$ dependencies.
 
 Figure~\ref{fig:c4.5-dep-tree} shows one use each of these relations. The test node that considers $det$ splits the training cases into two sets: cases with high frequencies of $det$ which are immediately classified as nonnative, and cases with low frequencies, the majority of which are ultimately classified as native. For the $predet$ test, both subsets are immediately classified, with low frequencies as nonnative and high frequencies as native. The implication then is that nonnative users overuse central determiners and underuse predeterminers. More specifically, nonnative speakers use predeterminers before central determiners with lower frequency than do native speakers.
@@ -238,10 +242,8 @@ This difference may encourage learners to use periphrastic constructions in Engl
 
 \subsection{Expletive}
 
-An existential \textit{there} and the copular verb associated with it are connected with the expletive or $expl$ relation, as shown in Figure~\ref{ex:expl}. 
-\begin{figure}[ht]
-\centering
-\xytext{
+An existential \textit{there} and the copular verb associated with it are connected with the expletive or $expl$ relation, as shown in the following \citep[pp. 126-7]{quirk:1985}: 
+\newline\newline\xytext{
 \xybarnode{There} &
 \xybarnode{was} \xybarconnect(U,U){-1}"_{\small expl}" &
 \xybarnode{someone} &
@@ -250,9 +252,11 @@ An existential \textit{there} and the copular verb associated with it are connec
 \xybarnode{the} &
 \xybarnode{door.}
 }
-\captiont{The Dependency $det(\text{was},\text{there})$}{\citep[pp. 126-7]{quirk:1985}}
-\label{ex:expl}
-\end{figure}
+\newline
+%\captiont{The Dependency $det(\text{was},\text{there})$}{\citep[pp. 126-7]{quirk:1985}}
+%\label{ex:expl}
+%\end{figure}
+
 This relation is used twice in the decision tree, both times associating higher frequencies with nonnative texts and lower frequencies with native texts. Spanish has a similar construction to the English existential \textit{there + be}, using a 3rd-person singular form of the verb \textit{haber} in any of its possible non-progressive forms. Spanish, which is a pro-drop language, does not use or permit a dummy subject analogous to the English \textit{there}, nor does the verb \textit{haber} agree in number with what follows except in very informal speech \citep[pp. 429-32]{butt}. Otherwise, the existential \textit{there} presents little difficulty for the L1-Spanish learner of English. The high rate of use is likely due to this: learners resort to existential \textit{there} frequently because it is a ``safe'' expression, one they can generate correctly with little effort.
 
 \subsection{Multi-Word Expression}
@@ -262,11 +266,8 @@ The Stanford typed dependency manual \citep{typed-deps-manual} defines multi-wor
 \subsection{Noun Compound Modifier}
 \label{sub:nn}
 
-Noun-noun compounds (NNCs) are marked with the relation \textit{nn}. The governor of this dependency is the rightmost noun in the compound, and the dependent will be one of the nouns to the left. Note that since all dependencies only deal with pairs of words, a compound consisting of more than two nouns would be indicated by multiple dependencies, all sharing a common governor. Figure~\ref{fig:nn-deps} demonstrates this dependency. 
-
-\begin{figure}[htbp]
-\centering
-\xytext{
+Noun-noun compounds (NNCs) are marked with the relation \textit{nn}. The governor of this dependency is the rightmost noun in the compound, and the dependent will be one of the nouns to the left. Note that since all dependencies only deal with pairs of words, a compound consisting of more than two nouns would be indicated by multiple dependencies, all sharing a common governor. An example of this, taken from the MICUSP corpus, is:
+\newline\newline\xytext{
 \xybarnode{\ldots} &
 \xybarnode{oil}
 %\xybarconnect(D,D){1}"_{\small possessive}"&
@@ -283,9 +284,10 @@ Noun-noun compounds (NNCs) are marked with the relation \textit{nn}. The governo
 \xybarnode{to} &
 \xybarnode{\ldots}
 }
-\caption[The Dependency $nn(\text{concentration}, \text{oxygen})$]{The Dependency $nn(\text{concentration}, \text{oxygen})$. Native sample taken from MICUSP.}
-\label{fig:nn-deps}
-\end{figure}
+\newline
+%\caption[The Dependency $nn(\text{concentration}, \text{oxygen})$]{The Dependency %$nn(\text{concentration}, \text{oxygen})$. Native sample taken from MICUSP.}
+%\label{fig:nn-deps}
+%\end{figure}
 
 The $nn$ relation occupies an important place in the decision tree, being the root test node and thus the relation with the highest information content. Summing leaf values will show that the $nn$ node splits the training cases into a largely native set and a largely nonnative set, corresponding respectively to high and low frequencies of the dependency. That the underuse of noun compounds should be indicative of an L1-Spanish learner of English is understandable considering that Spanish has a much more restrictive system of noun compounding. While Spanish does have NNCs, they are far less common than in English and are not particularly productive \citep{piera:1995}. Most commonly, expressions in English using NNCs are translated into Spanish using the preposition \textit{de}. Consider, for instance:
 \enumsentence{\singlespacing\shortexnt{4}
@@ -305,10 +307,8 @@ The $npadvmod$ dependency marks where a NP is used like an adverbial modifier. I
 
 \subsection{Parataxis}
 
-The $parataxis$ relation ties the main verb of a clause to another element, generally a parenthetical or something appearing after a colon or semicolon. Figure~\ref{fig:parataxis} shown one example of each of these types of parataxis.
-\begin{figure}[htbp]
-\centering
-\begin{tabular}{ l l }
+The $parataxis$ relation ties the main verb of a clause to another element, generally a parenthetical or something appearing after a colon or semicolon. The following sentences \citep[p. 921]{typed-deps-manual,quirk:1985} each show an example of one of these types of parataxis:
+\newline\newline\begin{tabular}{ l l }
 a. & \xytext{
 \xybarnode{The} &
 \xybarnode{guy,} &
@@ -334,18 +334,17 @@ b. & \xytext{
 \xybarnode{piano.}
 }\\
 \end{tabular}
-\caption[The Dependencies $parataxis(\text{left}, \text{said})$ and $parataxis(\text{plays}, \text{plays})$]{The Dependencies $parataxis(\text{left}, \text{said})$ and $parataxis(\text{plays}, \text{plays})$. Taken from \citet{typed-deps-manual} and \citet[p. 921]{quirk:1985}, Respectively.}
-\label{fig:parataxis}
-\end{figure}
+\newline
+%\caption[The Dependencies $parataxis(\text{left}, \text{said})$ and %$parataxis(\text{plays}, \text{plays})$]{The Dependencies $parataxis(\text{left}, %\text{said})$ and $parataxis(\text{plays}, \text{plays})$. Taken from %\citet{typed-deps-manual} and \citet[p. 921]{quirk:1985}, Respectively.}
+%\label{fig:parataxis}
+%\end{figure}
+
 The types of constructions marked by the $parataxis$ relation are syntactically complex, and so one might imagine that they would be underused by learners of English. However, the use of this relation in the decision tree indicates that learners actually use this more often than do native speakers. There is little literature discussing parataxis in learner English nor do there appear to be any obvious qualities of Spanish that might explain this overuse. This analysis is particularly difficult considering that the available data does not indicate which of the two types of parataxis is being overused.
 
 \subsection{Possession and Possessive Modifiers}
 
-Inflected genitive constructions are marked by two dependencies: \textit{poss}, which ties the head of a NP (the governor) to a genitive inflectional suffix (\textit{'s}~or~\textit{'}), indicating that the governor is the possessed element; and \textit{possessive}, which connects a noun to its own genitive inflectional suffix. These two dependencies are illustrated in Figure~\ref{fig:poss-deps}. The $poss$ dependency can also have as its dependent a possessive determiner such as \textit{its} or \textit{their}. In this type of construction, the $possessive$ dependency is not used. 
-
-\begin{figure}[htbp]
-\centering
-\xytext{
+Inflected genitive constructions are marked by two dependencies: \textit{poss}, which ties the head of a NP (the governor) to a genitive inflectional suffix (\textit{'s}~or~\textit{'}), indicating that the governor is the possessed element; and \textit{possessive}, which connects a noun to its own genitive inflectional suffix. The $poss$ dependency can also have as its dependent a possessive determiner such as \textit{its} or \textit{their}. In this type of construction, the $possessive$ dependency is not used. The following example, taken from the MICUSP corpus, illustrates these dependencies:
+\newline\newline\xytext{
 \xybarnode{\ldots} &
 \xybarnode{oil} \xybarconnect(D,D){1}"_{\small possessive}"&
 \xybarnode{'s} &
@@ -360,9 +359,10 @@ Inflected genitive constructions are marked by two dependencies: \textit{poss}, 
 \xybarnode{to} &
 \xybarnode{\ldots}
 }
-\caption[The Dependencies $poss(\text{effects}, \text{oil})$ and $possessive(\text{oil}, \text{'s})$]{The Dependencies $poss(\text{effects}, \text{oil})$ and $possessive(\text{oil}, \text{'s})$. Native Sample Taken from MICUSP.}
-\label{fig:poss-deps}
-\end{figure}
+\newline
+%\caption[The Dependencies $poss(\text{effects}, \text{oil})$ and %$possessive(\text{oil}, \text{'s})$]{The Dependencies $poss(\text{effects}, %\text{oil})$ and $possessive(\text{oil}, \text{'s})$. Native Sample Taken from MICUSP.}
+%\label{fig:poss-deps}
+%\end{figure}
 
 These relations are both used twice in the decision tree. In all four instances, cases with high frequencies tend to end up being classified as native, and cases with low frequencies as nonnative. Spanish lacks an inflected genitive, instead tending to use the preposition \textit{de} to express possession, as was discussed in Section~\ref{sub:nn}. Much like NNCs, the inflected genitive is usually translated into Spanish using a \textit{de}-construction, as shown in:
 \enumsentence{\singlespacing\shortexnt{9}
@@ -417,11 +417,8 @@ b. &
 
 \subsection{Phrasal Verb Particle}
 
-The phrasal verb particle relation ($prt$) ties the head word of a phrasal verb to its particle as shown in Figure~\ref{ex:prt-en1}. The decision tree in Figure~\ref{fig:c4.5-dep-tree} contains this relation once. Relative frequencies of 0.4178\% or less lead to the categorization of a text as nonnative, whereas larger values lead to a subtree. It can be seen that a very high percentage, 36.8\%, of the training cases terminate at the left, or nonnative, branch of this test node, suggesting that this relation contributes a great deal of useful information to the categorization process.
-
-\begin{figure}[h]
-\centering
-\xytext{
+The phrasal verb particle relation ($prt$) ties the head word of a phrasal verb to its particle. Relative frequencies of 0.4178\% or less lead to the categorization of a text as nonnative, whereas larger values lead to a subtree. It can be seen that a very high percentage, 36.8\%, of the training cases terminate at the left, or nonnative, branch of this test node, suggesting that this relation contributes a great deal of useful information to the categorization process. The following native example from the MICUSP corpus shows this:
+\newline\newline\xytext{
 \xybarnode{\ldots the} &
 \xybarnode{reduction} &
 \xybarnode{of} &
@@ -434,9 +431,10 @@ The phrasal verb particle relation ($prt$) ties the head word of a phrasal verb 
 \xybarnode{up} &
 \xybarnode{resources \ldots}
 }
-\caption[The Dependency $prt(\text{free},\text{up})$]{The Dependency $prt(\text{free},\text{up})$. Native Sample Taken from MICUSP.}
-\label{ex:prt-en1}
-\end{figure}
+\newline
+%\caption[The Dependency $prt(\text{free},\text{up})$]{The Dependency %$prt(\text{free},\text{up})$. Native Sample Taken from MICUSP.}
+%\label{ex:prt-en1}
+%\end{figure}
 
 Phrasal verbs are multiword verbs consisting of a core word, which can generally stand alone as a distinct verb in other circumstances, and a preposition-like particle appearing after, though in many cases not immediately after, the primary word \citep{celce-murcia:1999}. These verbs appear to be rare in world languages, with few non-Germanic languages containing such constructions \citep{celce-murcia:1999}. \citet{liao:2004} conduct a review of the literature on phrasal verb avoidance in English language learners, starting with \citet{dagut:1985}, a study which concluded that L1-Hebrew learners of English do avoid these verbs. They further asserted that the reason for this was syntactic differences between Hebrew and English, though others have questioned their bases for this assertion \citep{liao:2004}. The review continues with \citet{hulstijn:1989}, who investigated the claims of \citeauthor{dagut:1985} by applying the same data gathering techniques to a group of English learners whose first language was Dutch, a language which also uses phrasal verbs. These authors hypothesized that the first language has little influence on whether the learner avoids phrasal verbs in English.  Contrary to their expectations, they found that the Dutch speakers did not avoid phrasal verbs in English, suggesting that L1-interference is, at least in part, the source of phrasal verb avoidance. Finally, the review cites the study of \citet{laufer:1993}, which performed a very similar study as \citeauthor{hulstijn:1989}, but with native Swedish speakers, and drew much the same conclusions.
 
@@ -446,11 +444,8 @@ Regardless of the reasons behind the avoidance of phrasal verbs shown by L1-Span
 
 \subsection{Quantifier Phrase Modifier}
 
-The Quantifier Phrase Modifier ($quantmod$) relation marks adverbs that modify certain determiners. In general, this relation is only used when the determiner being modified is a numeral. Most other determiners, including quantifying determiners such as \textit{double} or \textit{half}, would require the use of the $advmod$ relation. Thus in Figure~\ref{ex:quantmod}, if the number \textit{200} were replaced with the determiners \textit{half the}, \textit{about} would become the dependent of an $advmod$ dependency instead of the $quantmod$ dependency.
-
-\begin{figure}[h]
-\centering
-\xytext{
+The Quantifier Phrase Modifier ($quantmod$) relation marks adverbs that modify certain determiners. In general, this relation is only used when the determiner being modified is a numeral. Most other determiners, including quantifying determiners such as \textit{double} or \textit{half}, would require the use of the $advmod$ relation. Thus if in the following example \citet{typed-deps-manual} the number \textit{200} were replaced with the determiners \textit{half the}, \textit{about} would become the dependent of an $advmod$ dependency instead of the $quantmod$ dependency:
+\newline\newline\xytext{
 \xybarnode{About} &
 \xybarnode{200} 
 \xybarconnect(U,U){-1}"_{\small quantmod}"&
@@ -460,9 +455,10 @@ The Quantifier Phrase Modifier ($quantmod$) relation marks adverbs that modify c
 \xybarnode{the} &
 \xybarnode{party.}
 }
-\caption[The Dependency $quantmod(\text{200},\text{about})$]{The Dependency $quantmod(\text{200},\text{about})$. Taken from \citet{typed-deps-manual}.}
-\label{ex:quantmod}
-\end{figure}
+\newline
+%\caption[The Dependency $quantmod(\text{200},\text{about})$]{The Dependency %$quantmod(\text{200},\text{about})$. Taken from \citet{typed-deps-manual}.}
+%\label{ex:quantmod}
+%\end{figure}
 
 The decision tree shows that high frequencies of this dependency are associated with native texts. Because the scope of this dependency is limited, and because Spanish grammar does not differ markedly from English grammar in the usage of adverbs as modifiers of determiners, little can be said in the way of linguistic analysis other than to suggest that these dependencies are less common in learner texts due to the complexity of the syntax that generates them.
 
@@ -472,31 +468,32 @@ The final relation, $dep$, is used in any dependency that cannot be more exactly
 
 \subsection{Classification Accuracy}
 
-Twenty-fold cross-validation was used to test the real-world accuracy of the data. There being 642 cases in the data set, thirty-two unique cases were held out at a time and classified using a C4.5 classifier trained on the remaining 610 cases. This produced a correct classification rate of $88.8\%$. Using a random forest classifier gave better results: performing 20 fold cross-validation on a 100-tree classifier where each tree was trained on six random features yielded $94.24\%$ accuracy. Tables~\ref{table:dep-results-c45} and~\ref{table:dep-results-rf} give details on these accuracies.
-
-\begin{table}[htbp]
+Twenty-fold cross-validation was used to test the real-world accuracy of the data. There being 642 cases in the data set, thirty-two unique cases were held out at a time and classified using a C4.5 classifier trained on the remaining 610 cases. This produced a correct classification rate of $88.8\%$ (see Table~\ref{table:dep-results-c45}).
+\begin{table}[htb]
 \centering
 \caption{Accuracy of C4.5 Classifier Using Dependency Attributes}
-\begin{tabular}{l c}
+\begin{tabular}{l c c}
 \toprule
-Nonnative & 89.7\% \\
-Native & 87.9\% \\
-Overall & 88.8\% \\
-95\% C.I.& 86.3\% --- 91.2\%\\
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 89.7\% & - \\
+Native & 87.9\% & - \\
+Overall & 88.8\% & 86.3\% --- 91.2\% \\
 \bottomrule
 \end{tabular}
 \label{table:dep-results-c45}
 \end{table}
-
-\begin{table}[htbp]
+Using a random forest classifier gave better results: performing 20 fold cross-validation on a 100-tree classifier where each tree was trained on six random features yielded $94.2\%$ accuracy (see Table~\ref{table:dep-results-rf}).
+\begin{table}[htb]
 \centering
 \caption{Accuracy of Random Forest Classifier Using Dependency Attributes}
-\begin{tabular}{l c}
+\begin{tabular}{l c c}
 \toprule
-Nonnative & 96.0\% \\
-Native & 91.9\% \\
-Overall & 93.9\% \\
-95\% C.I. & 92.1\% --- 95.8\%\\
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 96.0\% & - \\
+Native & 91.9\% & - \\
+Overall & 93.9\% & 92.1\% --- 95.8\% \\
 \bottomrule
 \end{tabular}
 \label{table:dep-results-rf}

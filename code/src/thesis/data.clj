@@ -42,6 +42,7 @@
 (def *brown-b-directory* "../data/brown/processed/")
 (def *brown-b-raw-directory* "../data/brown/raw/")
 (def *icle-directory* "../data/icle/sp/")
+(def *icle-all-directory* "../data/icle/all/")
 (def *oanc-directory* "../data/oanc/selected/")
 
 (def keyword-to-directory
@@ -53,7 +54,8 @@
    :ice-hk *ice-hk-directory*
    :brown-b *brown-b-directory*
    :icle *icle-directory*
-   :oanc *oanc-directory*})
+   :oanc *oanc-directory*
+   :icle-all *icle-all-directory*})
 
 (defn download-micusp []
   "Downloads the files listed in the 'PAPER ID' column of the *micusp-keyfile* into *micusp-directory*"
@@ -424,6 +426,16 @@
     :filenames *oanc-en*
     :L1 :en}])
 
+(def *icle-prefixes* ["BG" "CN" "CZ" "DD" "FI" "FR" "GE" "IT" "JP" "NO" "PO" "RU" "SP" "SW" "TR" "TS"])
+
+(let [filenames (text-file-names *icle-all-directory*)
+      fc (fn [prefix] (filter #(= (take 2 %) (take 2 prefix)) filenames))]
+  (def *all-icle-corpora*
+    (for [p *icle-prefixes*]
+      {:corpus :icle-all
+        :filenames (fc p)
+        :L1 p})))
+
 (def *es-corpora*
   (filter #(= (:L1 %) :es) *all-corpora*))
 
@@ -445,6 +457,19 @@ the new file to the same location. Also saves a backup of the original as <path>
       (shorten-white-space (str (corpus keyword-to-directory)  fname ".txt")))
     (throw
      (Exception. (str "No such corpus " corpus " " L1)))))
+
+(defn- cleanup-icle-all []
+  "remove tags <...> from the texts"
+  (doseq [lang *all-icle-corpora*]
+    (doseq [f (lang :filenames)]
+      (let [fpath (str *icle-all-directory* f ".txt")
+            text (slurp fpath)]
+        (spit fpath
+              (-> text
+                  
+                  (string/replace #"\<.+\>" "")
+                 
+                  (string/replace #"[\r\n][\r\n]" " ")))))))
 
 (defn- cleanup-ice-can []
   "remove tags <...> from the texts"
@@ -516,6 +541,7 @@ the new file to the same location. Also saves a backup of the original as <path>
     (apply + (map #(count (.taggedYield %)) parse))))
 
 (defn count-parsed-tokens-in-corpora []
+  
   (reduce
    (fn [s a]
      (if (= (first a) :es)
