@@ -10,9 +10,8 @@
 
 In general, every verb in English takes one or more arguments, with a subject argument being required in normal speech and writing. The Stanford NLP system marks the arguments of verbs using the dependencies \textit{ccomp} (clausal complement), \textit{csubj} (clausal subject), \textit{csubjpass} (passive clausal subject), \textit{dobj} (direct object), \textit{iobj} (indirect object), \textit{nsubj} (nominal subject), \textit{nsubjpass} (passive nominal subject), and \textit{xcomp} (open clausal complement). In the majority of non-copular clauses, the governors of these dependencies are the core verbs. In copular sentences, the governor is generally the subject complement (i.e. the argument generally appearing after the verb which is equated with the subject), though in the case of copular sentences with clausal subjects, the Stanford Parser chooses the copula to be the governor.
 Examples of these dependencies can be seen in the following sentences taken from the ICE-CAN and MICUSP corpora and from \citet{typed-deps-manual}:
-\newline\newline%\begin{tabular}{ l l }
-%ICE Canada
-\noindent a.{\hskip 1em}\xytext{
+\eenumsentence{\it
+\nfitem \xytext{
 \xybarnode{In} &
 \xybarnode{nineteen} &
 \xybarnode{ninety-seven} &
@@ -20,90 +19,78 @@ Examples of these dependencies can be seen in the following sentences taken from
 \xybarnode{Lemon} &
 \xybarnode{was} &
 \xybarnode{elected} 
-\xybarconnect(U,U){-2}"_{\small nsubjpass}"
-\xybarconnect(D,D){1}"_{\small dobj}"
+\xybarconnect(U,U){-2}"_{\small\nf nsubjpass}"
+\xybarconnect(D,D){1}"_{\small\nf dobj}"
 &
 \xybarnode{president.} 
-}\\
-%MICUSP native
-\noindent b.{\hskip 1em}\xytext{
+}
+\nfitem\xytext{
 \xybarnode{\ldots} &
 \xybarnode{before} &
 \xybarnode{his} &
 \xybarnode{father} &
 \xybarnode{gave} 
-\xybarconnect(UL,U){-1}"_{\small nsubj}"
-\xybarconnect(UR,U){1}"^{\small iobj}"
-\xybarconnect(D,D){3}"_{\small dobj}"&
+\xybarconnect(UL,U){-1}"_{\small\nf nsubj}"
+\xybarconnect(UR,U){1}"^{\small\nf iobj}"
+\xybarconnect(D,D){3}"_{\small\nf dobj}"&
 \xybarnode{him} &
 \xybarnode{the} &
 \xybarnode{rest} &
 \xybarnode{of} &
 \xybarnode{it.}
-}\\
-%MICUSP native
-\noindent c.{\hskip 1em}\xytext{
+}
+\nfitem\xytext{
 \xybarnode{They} &
 \xybarnode{state} 
-\xybarconnect(U,U){-1}"_{\small nsubj}"
-\xybarconnect(D,D){3}"_{\small ccomp}"&
+\xybarconnect(U,U){-1}"_{\small\nf nsubj}"
+\xybarconnect(D,D){3}"_{\small\nf ccomp}"&
 \xybarnode{that} &
 \xybarnode{climate} &
 \xybarnode{generally} &
 \xybarnode{predicts} 
-\xybarconnect(U,U){-2}"_{\small nsubj}"
-\xybarconnect(D,D){4}"_{\small ccomp}"&
+\xybarconnect(U,U){-2}"_{\small\nf nsubj}"
+\xybarconnect(D,D){4}"_{\small\nf ccomp}"&
 \xybarnode{that} &
 \xybarnode{temperatures} &
 \xybarnode{should} &
 \xybarnode{rise}
 \ldots
-}\\
-
-%MICUSP native
-\noindent d.{\hskip 1em}\xytext{
+}
+\nfitem\xytext{
 \xybarnode{Before} &
 \xybarnode{Yeltsin} &
 \xybarnode{appointed} 
-\xybarconnect(U,U){-1}"_{\small nsubj}"
-\xybarconnect(D,D){5}"_{\small xcomp}"&
+\xybarconnect(U,U){-1}"_{\small\nf nsubj}"
+\xybarconnect(D,D){5}"_{\small\nf xcomp}"&
 \xybarnode{him} &
 \xybarnode{the} &
 \xybarnode{deputy} &
 \xybarnode{Prime} &
 \xybarnode{Minister}
-\xybarconnect(U,U){-4}"_{\small nsubj}"&
+\xybarconnect(U,U){-4}"_{\small\nf nsubj}"&
 \ldots
-}\\
-
-%Dep Manual
-\noindent e.{\hskip 1em}\xytext{
+}
+\nfitem\xytext{
 \xybarnode{That} &
 \xybarnode{she} &
 \xybarnode{lied} 
-\xybarconnect(U,U){-1}"_{\small nsubj}"&
+\xybarconnect(U,U){-1}"_{\small\nf nsubj}"&
 \xybarnode{was} &
 \xybarnode{suspected}
-\xybarconnect(D,D){-2}"^{\small csubjpass}"&
+\xybarconnect(D,D){-2}"^{\small\nf csubjpass}"&
 \xybarnode{by} &
 \xybarnode{everyone.}
-}\\
-%Dep manual
-\noindent f.{\hskip 1em}\xytext{
+}
+\nfitem\xytext{
 \xybarnode{What} &
 \xybarnode{she} &
 \xybarnode{said} 
-\xybarconnect(U,U){-1}"_{\small nsubj}"&
+\xybarconnect(U,U){-1}"_{\small\nf nsubj}"&
 \xybarnode{is} &
 \xybarnode{not}&
 \xybarnode{true.}
-\xybarconnect(D,D){-3}"^{\small csubj}"&
-} \newline
-
-%\end{tabular}
-%\caption[Examples of the Dependencies Listed in Table~\ref{table:arg-deps}]{Examples of the Dependencies Listed in Table~\ref{table:arg-deps}. \textit{a}, Native Sample from ICE-CAN; \textit{b,c,d}, Native Samples from MICUSP; \textit{e,f} from \citet{typed-deps-manual}.}
-%\label{ex:arg-deps}
-%\end{figure}
+\xybarconnect(D,D){-3}"^{\small\nf csubj}"&
+}}
 
 \citet{dubois:2003} provides hints that verbal argument structure may differ between native and nonnative speakers. That study explores when speakers use lexical NPs rather than pronominal NPs as verbal arguments. Considering only native speakers but looking at a number of different languages, Du Bois finds that there is a very strong tendency for speakers to use no more than one lexical argument per finite clause (Du Bois's One Lexical Argument Constraint) and to avoid placing an argument in the subject role of transitive sentences (the Non-Lexical \textbf{A} Constraint\footnote{\citet{dubois:2003} uses the letters \textbf{A}, \textbf{I}, and \textbf{O} to refer to the subject, indirect object, and direct object arguments of a transitive verb, and \textbf{S} to refer to the sole argument of an intransitive verb.}). He makes the case that these rules hold true for a number of world languages. However, in presenting data to show that several languages abide by the Non-Lexical \textbf{A} Constraint, he also shows that there are large differences between languages in the likelihood of a new argument appearing in the direct object and intransitive subject roles \citep[Table~2.5]{dubois:2003}. A new argument is one presenting information that has not yet been presented in the discourse. A new argument generally cannot be a pronoun, as pronouns typically refer to something presented earlier in the discourse. Not all lexical arguments are new arguments of course, but it stands to reason that the factors affecting the ratio of new to old arguments will also affect the ratio of lexical to pronominal arguments. The data he gathers show that in English, on average, 21\% of new arguments are found in intransitive clauses, versus 28\% for Spanish, and 79\% are found in direct object roles, versus 71\% for Spanish. A $\chi^2$ analysis shows that these differences are statistically significant considering his sample sizes ($\chi^2=2.244, df=2, p=0.326$), though admittedly at a relatively low confidence level (70\%). As an aside, of the five languages for which data is presented in that table, English and Spanish are the most similar in new argument distribution. The three other languages considered, French, Hebrew, and Sakapultek, all show a greater probability of finding a new argument in the intransitive subject role, and a lower probability of finding one in the direct object role, than either Spanish or English. Seeing that there may be differences between Spanish and English in how new arguments are distributed among the various argument roles, and noting that other languages show such differences as well, it is worth investigating whether L1-Spanish learners of English differ in their usage of lexical arguments as compared to native speakers.
 
