@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  17 MAY 2012 21:40
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  18 MAY 2012 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -179,88 +179,9 @@ Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks22
 \verbatim@in@stream=\read1
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfontsb/txfontsb.sty
-File: txfontsb.sty 2009/12/18 v1.0 Package `txfontsb.sty'
- 
- ********************************************************************** 
- * txfontsb style file with added greek and smallcaps by A. Tsolomitis * 
- **********************************************************************  
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/txfonts.sty
-Package: txfonts 2008/01/22 v3.2.1
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
-\symitalic=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
-(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
-\symlettersA=\mathgroup5
-LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
-(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
-\symAMSa=\mathgroup6
-LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
-(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
-\symAMSb=\mathgroup7
-LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
-(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
-\symsymbolsC=\mathgroup8
-LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
-(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
-\symlargesymbolsA=\mathgroup9
-LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
-(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
-LaTeX Info: Redefining \not on input line 1043.
-))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
 (/usr/local/texlive/2011/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks23
@@ -695,54 +616,24 @@ Package tocloft Info: The document has section divisions on input line 43.
 \cftbeforetabskip=\skip84
 \cfttabindent=\skip85
 \cfttabnumwidth=\skip86
-) (./main.aux
-
-LaTeX Warning: Label `ex:mountain_peak' multiply defined.
-
-
-LaTeX Warning: Label `ex:peak_of' multiply defined.
-
-)
+) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 84.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 84.
-
- (/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/omltxmi.fd
-File: omltxmi.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 84.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 84.
-
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/omstxsy.fd
-File: omstxsy.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 84.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 84.
-
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/omxtxex.fd
-File: omxtxex.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 84.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 84.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxexa.fd
-File: utxexa.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 84.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/ot1txr.fd
-File: ot1txr.fd 2000/12/15 v3.1
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 89.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
@@ -865,30 +756,13 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+txmia on input line 84.
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxmia.fd
-File: utxmia.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for U+txsya on input line 84.
+Package xypdf Info: Line width: 0.47998pt on input line 89.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 98.
+[1
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxsya.fd
-File: utxsya.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 84.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxsyb.fd
-File: utxsyb.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 84.
-
-(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxsyc.fd
-File: utxsyc.fd 2000/12/15 v3.1
-)
-Package xypdf Info: Line width: 0.672pt on input line 84.
- [1
-
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./abst
-ract.tex
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./abstract.tex
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
@@ -932,11 +806,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--33
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- (./main.lot [4])
+ [4] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- (./main.lof [5])
+ [5] (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
@@ -946,23 +820,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--33
 ]) (./section-lit-review.tex [2] [3
 
 ] [4] [5]) (./section-corpora.tex [6]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
+
 [7
 
 ]) (./section-method-expln.tex [8]
-<ps-tree.pdf, id=51, 435.6275pt x 333.245pt>
+<ps-tree.pdf, id=52, 435.6275pt x 333.245pt>
 File: ps-tree.pdf Graphic file (type pdf)
  <use ps-tree.pdf>
 Package pdftex.def Info: ps-tree.pdf used on input line 33.
 (pdftex.def)             Requested size: 261.37851pt x 199.94853pt.
  [9
 
-] [10 <./ps-tree.pdf>] <ps-tree-ambig1.pdf, id=72, 645.41125pt x 477.785pt>
+] [10 <./ps-tree.pdf>] <ps-tree-ambig1.pdf, id=75, 645.41125pt x 477.785pt>
 File: ps-tree-ambig1.pdf Graphic file (type pdf)
 
 <use ps-tree-ambig1.pdf>
 Package pdftex.def Info: ps-tree-ambig1.pdf used on input line 42.
 (pdftex.def)             Requested size: 387.24974pt x 286.6732pt.
- <ps-tree-ambig2.pdf, id=73, 668.4975pt x 622.325pt>
+ <ps-tree-ambig2.pdf, id=76, 668.4975pt x 622.325pt>
 File: ps-tree-ambig2.pdf Graphic file (type pdf)
 
 <use ps-tree-ambig2.pdf>
@@ -972,110 +849,100 @@ Package pdftex.def Info: ps-tree-ambig2.pdf used on input line 48.
 7]) (./section-dep-reln.tex [18] [19
 
 ]
-<c45-dep-graph.pdf, id=130, 783.92876pt x 676.5275pt>
+<c45-dep-graph.pdf, id=135, 783.92876pt x 676.5275pt>
 File: c45-dep-graph.pdf Graphic file (type pdf)
  <use c45-dep-graph.pdf>
-Package pdftex.def Info: c45-dep-graph.pdf used on input line 19.
+Package pdftex.def Info: c45-dep-graph.pdf used on input line 21.
 (pdftex.def)             Requested size: 433.62pt x 374.21779pt.
 
 <xymatrix 4x1 124> <xymatrix 3x1 120> [20] [21 <./c45-dep-graph.pdf>]
 <xymatrix 12x1 156> <xymatrix 12x1 156> <xymatrix 11x1 258> [22] <xymatrix 5x1
 128> <xymatrix 8x1 140> [23] <xymatrix 12x1 474> [24] [25] [26] <xymatrix 7x1
-136> [27] <xymatrix 11x1 152> [28] [29] <xymatrix 9x1 144> <xymatrix 10x1 148>
-<xymatrix 12x1 262> [30] <xymatrix 9x1 144> [31] [32] <xymatrix 7x1 136>
-[33] [34]) (./section-args.tex [35] <xymatrix 8x1 246> <xymatrix 10x1 368>
-<xymatrix 10x1 466> <xymatrix 9x1 356> [36
+136> [27] <xymatrix 11x1 152> [28] <xymatrix 9x1 144> <xymatrix 10x1 148>
+[29] <xymatrix 12x1 262> [30] <xymatrix 9x1 144> [31] <xymatrix 7x1 136>
+[32]) (./section-args.tex [33] [34] <xymatrix 8x1 246> <xymatrix 10x1 368>
+<xymatrix 10x1 466> <xymatrix 9x1 356> [35
 
 ] <xymatrix 7x1 242> <xymatrix 7x1
-242> [37] [38] [39] <c45-val.pdf, id=214, 205.76875pt x 224.84pt>
+242>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 108.
+ [36] [37] [38] <c45-val.pdf, id=216, 205.76875pt x 224.84pt>
 File: c45-val.pdf Graphic file (type pdf)
 
 <use c45-val.pdf>
 Package pdftex.def Info: c45-val.pdf used on input line 143.
 (pdftex.def)             Requested size: 151.76744pt x 165.8335pt.
- [40 <./c45-val.pdf>]
-<c45-num-lex.pdf, id=236, 265.99374pt x 315.1775pt>
+ <c45-num-lex.pdf, id=217, 265.99374pt x 315.1775pt>
 File: c45-num-lex.pdf Graphic file (type pdf)
- <use c45-num-lex.pdf>
-Package pdftex.def Info: c45-num-lex.pdf used on input line 167.
-(pdftex.def)             Requested size: 144.54pt x 171.27057pt.
 
-[41] [42 <./c45-num-lex.pdf>]
-<c45-lex-role.pdf, id=261, 576.1525pt x 766.865pt>
+<use c45-num-lex.pdf>
+Package pdftex.def Info: c45-num-lex.pdf used on input line 166.
+(pdftex.def)             Requested size: 144.54pt x 171.27057pt.
+ [39 <./c45-val.pdf>] [40 <./c45-num-lex.pdf>] [41]
+<c45-lex-role.pdf, id=263, 576.1525pt x 766.865pt>
 File: c45-lex-role.pdf Graphic file (type pdf)
  <use c45-lex-role.pdf>
-Package pdftex.def Info: c45-lex-role.pdf used on input line 193.
+Package pdftex.def Info: c45-lex-role.pdf used on input line 195.
 (pdftex.def)             Requested size: 289.07999pt x 384.77722pt.
 
-[43] [44 <./c45-lex-role.pdf>] [45] [46]) (./section-verbs.tex [47
+[42 <./c45-lex-role.pdf>] [43] [44] [45]) (./section-verbs.tex [46
 
-] [48]
-<verb-parse.pdf, id=299, 387.4475pt x 550.055pt>
+] [47]
+<verb-parse.pdf, id=301, 387.4475pt x 550.055pt>
 File: verb-parse.pdf Graphic file (type pdf)
  <use verb-parse.pdf>
 Package pdftex.def Info: verb-parse.pdf used on input line 63.
 (pdftex.def)             Requested size: 232.47029pt x 330.03554pt.
 
-<modal-parse.pdf, id=300, 206.7725pt x 333.245pt>
+<modal-parse.pdf, id=302, 206.7725pt x 333.245pt>
 File: modal-parse.pdf Graphic file (type pdf)
  <use modal-parse.pdf>
 Package pdftex.def Info: modal-parse.pdf used on input line 71.
 (pdftex.def)             Requested size: 124.06445pt x 199.94853pt.
 
-[49] [50 <./verb-parse.pdf> <./modal-parse.pdf>]
-<modal-able.pdf, id=333, 319.1925pt x 550.055pt>
+[48] [49 <./verb-parse.pdf> <./modal-parse.pdf>]
+<modal-able.pdf, id=335, 319.1925pt x 550.055pt>
 File: modal-able.pdf Graphic file (type pdf)
  <use modal-able.pdf>
 Package pdftex.def Info: modal-able.pdf used on input line 85.
-(pdftex.def)             Requested size: 191.51697pt x 330.03554pt.
+(pdftex.def)             Requested size: 169.1712pt x 291.52776pt.
 
-<modal-going.pdf, id=334, 320.19624pt x 550.055pt>
+<modal-going.pdf, id=336, 320.19624pt x 550.055pt>
 File: modal-going.pdf Graphic file (type pdf)
  <use modal-going.pdf>
 Package pdftex.def Info: modal-going.pdf used on input line 92.
-(pdftex.def)             Requested size: 192.11922pt x 330.03554pt.
+(pdftex.def)             Requested size: 169.70319pt x 291.52776pt.
 
-<conj-verb.pdf, id=335, 435.6275pt x 405.515pt>
+[50 <./modal-able.pdf>] <conj-verb.pdf, id=352, 435.6275pt x 405.515pt>
 File: conj-verb.pdf Graphic file (type pdf)
- <use conj-verb.pdf>
+
+<use conj-verb.pdf>
 Package pdftex.def Info: conj-verb.pdf used on input line 102.
 (pdftex.def)             Requested size: 261.37851pt x 243.31087pt.
- [51]
-[52 <./modal-able.pdf>] [53 <./modal-going.pdf>]
-<conj-verb-ab.pdf, id=369, 436.63126pt x 333.245pt>
+ [51 <./modal-going.pdf>]
+<conj-verb-ab.pdf, id=368, 436.63126pt x 333.245pt>
 File: conj-verb-ab.pdf Graphic file (type pdf)
  <use conj-verb-ab.pdf>
 Package pdftex.def Info: conj-verb-ab.pdf used on input line 109.
 (pdftex.def)             Requested size: 261.98077pt x 199.94853pt.
 
-[54 <./conj-verb.pdf>]
-<unpruned-basic-verb-tree.pdf, id=385, 1023.825pt x 947.54pt>
-File: unpruned-basic-verb-tree.pdf Graphic file (type pdf)
-
-<use unpruned-basic-verb-tree.pdf>
-Package pdftex.def Info: unpruned-basic-verb-tree.pdf used on input line 122.
-(pdftex.def)             Requested size: 433.62pt x 401.30394pt.
-
-<pruned-basic-verb-tree.pdf, id=386, 536.0025pt x 694.595pt>
+[52 <./conj-verb.pdf>]
+<pruned-basic-verb-tree.pdf, id=384, 536.0025pt x 694.595pt>
 File: pruned-basic-verb-tree.pdf Graphic file (type pdf)
 
 <use pruned-basic-verb-tree.pdf>
 Package pdftex.def Info: pruned-basic-verb-tree.pdf used on input line 143.
 (pdftex.def)             Requested size: 289.07999pt x 374.60938pt.
- [55 <./conj-verb-ab.pdf>] [56 <./unpruned-basic-verb-tree.pdf>] [57 <./pruned-
-basic-verb-tree.pdf>]
-
-LaTeX Warning: Reference `table:quasimodal-verbs' on page 58 undefined on input
- line 174.
-
-[58] [59] [60] <modal-phrasal-tree.pdf, id=455, 528.97626pt x 405.515pt>
+ [53 <./conj-verb-ab.pdf>] [54 <./pruned-basic-verb-tree.pdf>] [55] [56] [57]
+<modal-phrasal-tree.pdf, id=431, 528.97626pt x 405.515pt>
 File: modal-phrasal-tree.pdf Graphic file (type pdf)
 
 <use modal-phrasal-tree.pdf>
-Package pdftex.def Info: modal-phrasal-tree.pdf used on input line 250.
+Package pdftex.def Info: modal-phrasal-tree.pdf used on input line 213.
 (pdftex.def)             Requested size: 289.07999pt x 221.61076pt.
- [61] [62] [63 <./modal-phrasal-tree.pdf>])
-(./section-discussion.tex [64] [65] [66
+ [58] [59 <./modal-phrasal-tree.pdf>] [60])
+(./section-discussion.tex [61] [62] [63
 
 ]
 Package epstopdf Info: Source file: <tools-screenshot-bw.eps>
@@ -1089,57 +956,48 @@ nverted-to.pdf tools-screenshot-bw.eps>
 (epstopdf)             \includegraphics on input line 18.
 Package epstopdf Info: Output file is already uptodate.
 
-<tools-screenshot-bw-eps-converted-to.pdf, id=493, 602.25pt x 516.93124pt>
+<tools-screenshot-bw-eps-converted-to.pdf, id=470, 602.25pt x 516.93124pt>
 File: tools-screenshot-bw-eps-converted-to.pdf Graphic file (type pdf)
 
 <use tools-screenshot-bw-eps-converted-to.pdf>
 Package pdftex.def Info: tools-screenshot-bw-eps-converted-to.pdf used on input
  line 18.
 (pdftex.def)             Requested size: 361.35278pt x 310.16113pt.
- [67]) (./section-conclusion.tex
-[68 <./tools-screenshot-bw-eps-converted-to.pdf>] [69] [70
+ [64]) (./section-conclusion.tex
+[65 <./tools-screenshot-bw-eps-converted-to.pdf>] [66
 
-]) (./main.bbl
-[71]
-LaTeX Font Info:    Try loading font information for OT1+txrc on input line 5.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/txfontsb/ot1txrc.fd)
-LaTeX Font Info:    Font shape `OT1/txrc/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 5.
+]) (./main.bbl [67]
+[68
 
-[72
-
-] [73]) [74] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+] [69]) [70] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 9181 strings out of 493633
- 126559 string characters out of 3143378
- 245192 words of memory out of 3000000
- 12174 multiletter control sequences out of 15000+200000
- 50008 words of font info for 128 fonts, out of 3000000 for 9000
+ 8441 strings out of 493633
+ 117726 string characters out of 3143378
+ 244160 words of memory out of 3000000
+ 11483 multiletter control sequences out of 15000+200000
+ 30113 words of font info for 66 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  51i,19n,41p,3244b,603s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2011/texmf-dist/fonts/type1/public/txfontsb/FreeSerifb-SmallCaps.pfb></u
-sr/local/texlive/2011/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb></usr/loca
-l/texlive/2011/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texl
-ive/2011/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/201
-1/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2011/texmf
--dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2011/texmf-dist/f
-onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
-/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times
-/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xyati
-p10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/xypic/xybtip10.p
-fb>
-Output written on main.pdf (80 pages, 623501 bytes).
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/
+base/8r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi5.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+6.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
+b></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><
+/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/tex
+live/2011/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2011/texmf-dist
+/fonts/type1/urw/times/utmri8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/ty
+pe1/public/xypic/xyatip10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
+ublic/xypic/xybtip10.pfb>
+Output written on main.pdf (76 pages, 653121 bytes).
 PDF statistics:
- 565 PDF objects out of 1000 (max. 8388607)
- 403 compressed objects within 5 object streams
+ 548 PDF objects out of 1000 (max. 8388607)
+ 392 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

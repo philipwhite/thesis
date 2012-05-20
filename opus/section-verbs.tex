@@ -80,16 +80,16 @@ However, it does not mark phrasal modals in a consistent manner. Figures~\ref{fi
 \item \textit{Unable/Unwilling to resist, Matilda agreed to betray her country.} \label{ex:unable}
 \item \textit{?Able/?Willing to resist, Matilda declined to betray her country.} \label{ex:able}\\ (\citealt[footnote, p. 144]{quirk:1985})}
 When fronted, the phrasal modals produce questionable sentences, as in (\ref{ex:bound}) and (\ref{ex:able}). The non-phrasal modals, however, produce clearly acceptable sentences, shown in (\ref{ex:compelled}) and (\ref{ex:unable}). Interestingly, by this criterion the negated phrasal modals (when negated on the lexical level) do not appear to be true phrasal modals and are not included as such in this study.
-\begin{figure}[htbp]
+\begin{figure}[htb]
 \centering
-\includegraphics[scale=0.6]{modal-able.pdf}
+\includegraphics[scale=0.53]{modal-able.pdf}
 \caption{Parse Tree Showing Phrasal Modal \textit{be able to}}
 \label{fig:quasimodal-able}
 \end{figure}
 
-\begin{figure}[htbp]
+\begin{figure}[htb]
 \centering
-\includegraphics[scale=0.6]{modal-going.pdf}
+\includegraphics[scale=0.53]{modal-going.pdf}
 \caption{Parse Tree Showing Phrasal Modal \textit{be going to}}
 \label{fig:quasimodal-going}
 \end{figure}
@@ -116,14 +116,7 @@ In all, this system uses 169 model subtrees to match the various possible suppor
 \subsection{Classification Accuracy}
 Being able to identify so many attributes gives a wealth of data with which a classifier may be trained. The challenge, as always, is choosing subsets of this data that maximize information content while still producing decision trees comprehensible to a human. The first such subset examined here consists of eight attributes, each with a value indicating the relative frequency with which such verbal qualities are found in a text. These eight attributes are named ``not,'' ``modal,'' ``progressive,'' ``past,'' ``perfect,'' ``passive,'' ``quasimodal,'' and ``do.'' For the most part these are self-explanatory, with ``not'' being the relative frequency of the negating adverb \textit{not} and so forth (``quasimodal'' indicates a phrasal modal). It is worth pointing out that with the exception of ``modal,'' these verbal attributes can only occur once per verbal construction, but of course all can appear many times in a given text. 
 
-A C4.5 decision tree generated from this data set is shown in Figure~\ref{fig:normally-pruned-basic-verb-tree}; and the accuracy of such classifiers, calculated using 20-fold cross-validation, is shown in Table~\ref{table:normally-pruned-basic-verb-results}.
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=6in]{unpruned-basic-verb-tree.pdf}
-\caption{C4.5 Decision Tree Using Various Verbal Attributes With Default Pruning}
-\label{fig:normally-pruned-basic-verb-tree}
-\end{figure}
-\begin{table}[htbp]
+A C4.5 decision tree generated from this data set yields the accuracy shown in Table~\ref{table:normally-pruned-basic-verb-results}. The tree is quite large, and subsequently difficult to analyze, and so is not shown here. A somewhat simpler tree, with only a modest lost of accuracy, can be had by using more aggressive pruning following the tree construction phase. \begin{table}[htbp]
 \centering
 \caption{Accuracy of C4.5 Classifier Using Various Verbal Attributes With Default Pruning}
 \begin{tabular}{l c c}
@@ -131,19 +124,27 @@ A C4.5 decision tree generated from this data set is shown in Figure~\ref{fig:no
 & Mean & 95\% C.I.\\
 \midrule
 Nonnative & 71.7\% & - \\
-Native & 81.9\% & - \\
-Overall & 76.8\% & 73.5\% --- 80.1\% \\
+[6pt]Native & 81.9\% & - \\
+[6pt]Overall & 76.8\% & 73.5\% --- 80.1\% \\
 \bottomrule
 \end{tabular}
 \label{table:normally-pruned-basic-verb-results}
-\end{table}
-As can be seen, this is quite a large tree for purposes of analysis, with many attributes appearing multiple times. A somewhat simpler tree, with only a modest lost of accuracy, can be had by using more aggressive pruning following the tree construction phase. Figure~\ref{fig:pruned-basic-verb-tree} shows such a tree, and Table~\ref{table:pruned-basic-verb-results} its accuracy. This tree consists of 13 decision nodes considering 6 different attributes, none of which are considered more than three times.
+\end{table} Figure~\ref{fig:pruned-basic-verb-tree} shows such a tree, and Table~\ref{table:pruned-basic-verb-results} its accuracy. This tree consists of 13 decision nodes considering 6 different attributes, none of which are considered more than three times.
+\begin{comment}
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=4in]{pruned-basic-verb-tree.pdf}
+\includegraphics[width=6in]{unpruned-basic-verb-tree.pdf}
+\caption{C4.5 Decision Tree Using Various Verbal Attributes With Default Pruning}
+\label{fig:normally-pruned-basic-verb-tree}
+\end{figure}
+\end{comment}
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=4.0in]{pruned-basic-verb-tree.pdf}
 \caption{Aggressively Pruned C4.5 Decision Tree Using Various Verbal Attributes}
 \label{fig:pruned-basic-verb-tree}
 \end{figure}
+\FloatBarrier
 \begin{table}[htbp]
 \centering
 \caption{Accuracy of Agressively-Pruned C4.5 Classifier Using Various Verbal Attributes}
@@ -152,8 +153,8 @@ As can be seen, this is quite a large tree for purposes of analysis, with many a
 & Mean & 95\% C.I.\\
 \midrule
 Nonnative & 71.3\% & - \\
-Native & 79.8\% & - \\
-Overall & 75.5\% & 72.2\% --- 78.9\% \\
+[6pt]Native & 79.8\% & - \\
+[6pt]Overall & 75.5\% & 72.2\% --- 78.9\% \\
 \bottomrule
 \end{tabular}
 \label{table:pruned-basic-verb-results}
@@ -171,7 +172,7 @@ Of the eight attributes used in training, ``quasimodal'' and ``progressive'' are
 {`\textit{(S)he had to repeat the experiment'}}\\ \citep[pp. 327-30]{butt}}
 Some of these are usually translated into English using modals or phrasal modals, and some require the use of other constructions \citep[pp. 325-32]{butt}. Conversely, many English modals and phrasal modals can be translated into Spanish using that language's modals, while others translate as verbal inflections. In addition, for those Spanish modals which can be translated into English modals or phrasal modals, the correspondence is rarely one-to-one, with there being a great deal of overlap and inexactness in meaning both ways. This should not be surprising, considering the close but imperfect correspondence between many of English's modals and phrasal modals (e.g. \textit{can} and \textit{be able to}) \citep[pp. 137-157]{celce-murcia:1999}.
 
-As mentioned above, the Spanish modals have much in common with the English phrasal modals. In general, the pattern of the Spanish modals is \textit{conjugated modal verb} + \textit{one or zero particles} + \textit{infinitive}. As was seen in Table~\ref{table:quasimodal-verbs}, many of the English phrasal modals follow this pattern as well. With a few exceptions, the Spanish modals can take the full range of verbal inflections, as can the majority of English phrasal modals. From this one might assume that L1-Spanish learners of English would take naturally to the English phrasal modal. Indeed, the decision trees shown in Figures~\ref{fig:normally-pruned-basic-verb-tree} and \ref{fig:pruned-basic-verb-tree} would seem to support this, or at least support the proposition that the learners neither overuse nor underuse phrasal modals relative to their native counterparts. A quick experiment in which the C4.5 classifier was run on the same data set, but with the ``modal'' attribute removed, showed that the ``quasimodal'' attribute was still not used in the resultant decision tree. This means that the reason for the algorithm's excluding the ``quasimodal'' attribute cannot be attributed to its containing no information beyond what the ``modal'' attribute contains.
+As mentioned above, the Spanish modals have much in common with the English phrasal modals. In general, the pattern of the Spanish modals is \textit{conjugated modal verb} + \textit{one or zero particles} + \textit{infinitive}. As was shown earlier, many of the English phrasal modals follow this pattern as well. With a few exceptions, the Spanish modals can take the full range of verbal inflections, as can the majority of English phrasal modals. From this one might assume that L1-Spanish learners of English would take naturally to the English phrasal modal. Indeed, the decision tree shown in \ref{fig:pruned-basic-verb-tree} would seem to support this, or at least support the proposition that the learners neither overuse nor underuse phrasal modals relative to their native counterparts. A quick experiment in which the C4.5 classifier was run on the same data set, but with the ``modal'' attribute removed, showed that the ``quasimodal'' attribute was still not used in the resultant decision tree. This means that the reason for the algorithm's excluding the ``quasimodal'' attribute cannot be attributed to its containing no information beyond what the ``modal'' attribute contains.
 
 Returning to the ``modal'' attribute, it was mentioned above that the decision tree uses overuse and underuse of the English simple modals as an indication that the text being analyzed was written by a learner. Unfortunately, there is surprisingly little literature on the acquisition of English modals by Spanish speakers, but it is not difficult to imagine situations that would lead learners to either overuse or underuse modals. A learner might avoid the English modal, it being syntactically unusual from a Spanish grammar perspective, or, having discovered the relative simplicity of the English modal, which requires no verbal inflection, may use it to excess. The data also suggests that some learners avoid all types of modals.
 
@@ -200,13 +201,33 @@ The next set of attributes deals with the relative frequencies of the various po
 & Mean & 95\% C.I.\\
 \midrule
 Nonnative & 76.1\% & - \\
-Native & 73.8\% & - \\
-Overall & 74.9\% & 71.6\% --- 78.3\% \\
+[6pt]Native & 73.8\% & - \\
+[6pt]Overall & 74.9\% & 71.6\% --- 78.3\% \\
 \bottomrule
 \end{tabular}
 \label{table:modal-attributes-results}
 \end{table}
 A derivative data set, which sacrifices accuracy for interpretability, produces the C4.5 tree shown in Figure~\ref{fig:modal-phrasal-tree}, with accuracy results shown in Table~\ref{table:modal-phrasal-results}. The attributes used in this tree indicate whether there is a tendency in a text to use a modal over a phrasal modal with a similar meaning. Only four attributes were used, derived from a total of eleven modals and phrasal modals. Table~\ref{table:modal-phrasal-correspondence} shows the modals used and the corresponding phrasal modals\footnote{For unspecified reasons, \citet{butt} does not include \textit{ir a} with the modals. This is likely for the same reason that many English grammars do not consider \textit{will} a modal, presumably because it modifies tense and not mood.}. The values for these attributes were calculated by subtracting from the number of occurrences of a particular modal the number of occurrences of the corresponding phrasal modals, and dividing the difference by the sum of these two quantities. This yields a real number ranging from $-1$ to $1$, with the most negative number indicating all phrasal modals and no modals, zero indicating an even number of each, and $1$ indicating all modals and no phrasal modals. For the purposes of display in Figure~\ref{fig:modal-phrasal-tree}, these numbers are scaled by a factor of 100. The labels given to the attributes are the names of the modal, these being unique for each correspondence.
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=4in]{modal-phrasal-tree.pdf}
+\caption{C4.5 Decision Tree Using Modal vs Phrasal Attributes}
+\label{fig:modal-phrasal-tree}
+\end{figure}
+\begin{table}[htbp]
+\centering
+\caption{Accuracy of C4.5 Classifier Using Modal vs Phrasal Attributes}
+\begin{tabular}{l c c}
+\toprule
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 70.7\% & - \\
+[6pt]Native & 61.4\% & - \\
+[6pt]Overall & 66.0\% & 62.3\% --- 69.7\% \\
+\bottomrule
+\end{tabular}
+\label{table:modal-phrasal-results}
+\end{table}
 \begin{table}[htbp]
 \centering
 \caption{Correspondence Between Modals and Phrasal Modals}
@@ -245,26 +266,6 @@ ir a\\
 \end{tabular}
 \label{table:modal-phrasal-correspondence}
 \end{table}
-\begin{figure}[htbp]
-\centering
-\includegraphics[width=4in]{modal-phrasal-tree.pdf}
-\caption{C4.5 Decision Tree Using Modal vs Phrasal Attributes}
-\label{fig:modal-phrasal-tree}
-\end{figure}
-\begin{table}[htbp]
-\centering
-\caption{Accuracy of C4.5 Classifier Using Modal vs Phrasal Attributes}
-\begin{tabular}{l c c}
-\toprule
-& Mean & 95\% C.I.\\
-\midrule
-Nonnative & 70.7\% & - \\
-Native & 61.4\% & - \\
-Overall & 66.0\% & 62.3\% --- 69.7\% \\
-\bottomrule
-\end{tabular}
-\label{table:modal-phrasal-results}
-\end{table}
 
 The resultant tree uses three of the four attributes, with the ``should'' attribute not being included. The tree indicates that there is a strong tendency for learners to use core modals more often relative to phrasal modals than native writers. This is despite the similarity between English phrasal modals and Spanish modals. Table~\ref{table:modal-phrasal-correspondence} also shows common Spanish modal equivalents to the English modals and phrasal modals. As can be seen from this table, each of these English modals can be expressed using a common Spanish modal, including \textit{will}/\textit{be going to}, which has a Spanish modal equivalent that is used alongside Spanish's inflected future \citep[p. 221]{butt}. The best explanation for this is that learners prefer the core modals due to their syntactic simplicity.
 
@@ -287,13 +288,14 @@ seem & want & get & live & work\\
 These verbs are identified as common verbs that tend to be overused by English learners in a study by \citet{ringbom:1998}. This study uses an earlier version of the ICLE, examining the French, Spanish, Finnish, Swedish, Dutch, and German subcorpora for usages of these verbs, and comparing the frequency of usage to that found in a native subcorpus of the ICLE\footnote{The version of ICLE used in the present study contains no native subcorpus.}. \citeauthor{ringbom:1998} gives the breakdown per word, and finds that not all of the verbs show overuse in the Spanish subcorpus, with only \textit{use, believe, feel}, and \textit{come} showing overuse. \citeauthor{ringbom:1998} does not attempt to establish statistical significance, however. In the present study, these verbs were used to construct a data set consisting of one attribute per verb with the value of each being equal to the relative frequency of that verb when used as a main verb in a finite clause. The accuracy of a C4.5 classifier trained on this data set is shown in Table~\ref{table:high-freq-results}.
 \begin{table}[htbp]
 \centering
-\caption{Accuracy of C4.5 Classifier Using High Frequency Verb Attributes}
+\caption{Accuracy of C4.5 Classifier Using High Frequency Verbal Attributes}
 \begin{tabular}{l c c}
 \toprule
-Nonnative & 65.4\% \\
-Native & 78.8\% \\
-Overall & 72.1\% \\
-95\% C.I. & 68.6\% --- 75.6\%\\
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 65.4\% & - \\
+[6pt]Native & 78.8\% & - \\
+[6pt]Overall & 72.1\% & 68.6\% --- 75.6\% \\
 \bottomrule
 \end{tabular}
 \label{table:high-freq-results}
@@ -305,10 +307,11 @@ Finally, to gauge the efficacy of verbal attributes in general, classifiers were
 \caption{Accuracy of C4.5 Classifier Using All Verbal Attributes}
 \begin{tabular}{l c c}
 \toprule
-Nonnative & 80.4\% \\
-Native & 77.3\% \\
-Overall & 78.8\% \\ 
-95\% C.I. & 75.7\% --- 82.0\%\\
+& Mean & 95\% C.I.\\
+\midrule
+Nonnative & 80.4\% & - \\
+[6pt]Native & 77.3\% & - \\
+[6pt]Overall & 78.8\% & 75.7\% --- 82.0\% \\
 \bottomrule
 \end{tabular}
 \label{table:c45-combined-results}
@@ -321,12 +324,12 @@ Overall & 78.8\% \\
 & Mean & 95\% C.I.\\
 \midrule
 Nonnative & 90.3\% & - \\
-Native & 85.4\% & - \\
-Overall & 87.9\% & 85.3\% --- 90.4\% \\
+[6pt]Native & 85.4\% & - \\
+[6pt]Overall & 87.9\% & 85.3\% --- 90.4\% \\
 \bottomrule
 \end{tabular}
 \label{table:combined-results}
 \end{table}
-Combining the various attributes sets results in an approximately 4\% improvement in accuracy over using just the modal attributes, which have the highest accuracy of any of the attribute sets. However, one should note that the confidence intervals for the two classifiers do overlap somewhat, which would lead the cautious statistician to conclude that there is insufficient evidence to assert that one is better than the other at the 95\% confidence level. At slightly lower confidence levels, however, there would be no overlap. Using a random forest classifier improves that accuracy by nearly 10\%.
+Combining the various attributes sets results in an approximately 4\% improvement in accuracy over using just the modal attributes, which have the highest accuracy of any of the attribute sets. However, one should note that the confidence intervals for the two classifiers do overlap somewhat, which would lead the cautious statistician to conclude that there is insufficient evidence to assert that one is better than the other at the 95\% confidence level. However, at slight lower confidence levels there would be no overlap. Using a random forest classifier improves that accuracy by nearly 10\%.
 \biblio
 \end{document}

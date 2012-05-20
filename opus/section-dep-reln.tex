@@ -6,6 +6,8 @@
 %\setcounter{table}{0}
 %\setcounter{figure}{0}
 
+\subsection{Dependency Relations}
+
 The simplest classification approach used in this study considered the relative frequency of different grammatical relations. For this approach, the governor and the dependent of the dependencies were ignored, with only the relation itself being used. 
 
 Each data set instance contained attributes corresponding to dependency relations. The Stanford Parser, in its default configuration, does not generate the \textit{punct} or punctuation dependency, which connects punctuation symbols to a key element in the associated clause. Since English punctuation is broadly similar to Spanish punctuation, aside from some stark differences such as Spanish's inverted question and exclamation marks, which should be apparent to even the beginning learner, it did not seem to useful to activate this dependency. Additionally, the \textit{abbrev} or abbreviation dependency was removed. This dependency marks the definition of an abbreviation, as in the example given by \citet{typed-deps-manual}, ``Australian Broadcasting Corporation (ABC),'' where the dependency would be $abbrev(\text{Corporation},\text{ABC})$. This dependency has little to do with grammar, and thus was ignored for the purposes of this study. Having excluded these two dependencies, each data set instance contained 58 numerical attributes, one for each relation.
@@ -17,7 +19,7 @@ At each terminal node of the tree there is an integer or pair of integers in par
 \begin{figure}[!b]
 \centering
 \includegraphics[width=6in]{c45-dep-graph.pdf}
-\caption{C4.5 Decision Tree Employing Relative Frequency of Relations}{C4.5 Decision Tree Employing Relative Frequency of Dependency Relations}
+\caption[C4.5 Decision Tree Employing Relative Frequency of Relations]{C4.5 Decision Tree Employing Relative Frequency of Dependency Relations}
 \label{fig:c4.5-dep-tree}
 \end{figure}
 
@@ -49,10 +51,10 @@ $quantmod$ & quantifier phrase modifier \\
 \end{table}
 \end{comment}
 
+\subsection{Relations Described}
+%\subsection{Passive Auxiliary}
 
-\subsection{Passive Auxiliary}
-
-The passive auxiliary dependency \textit{auxpass} marks an auxiliary verb which carries the passive information of the clause. In general, a parsed sample of text will contain one such dependency for every passive clause, and so a high relative frequency of this relation indicates heavy usage of the passive voice. An example 
+\textbf{Passive Auxiliary.} The passive auxiliary dependency \textit{auxpass} marks an auxiliary verb which carries the passive information of the clause. In general, a parsed sample of text will contain one such dependency for every passive clause, and so a high relative frequency of this relation indicates heavy usage of the passive voice. An example 
 \citep{typed-deps-manual} of this is:
 \newline\newline\begin{tabular}{ l l }
 a. & \xytext{
@@ -77,9 +79,9 @@ b. & \xytext{
 
 The decision tree in Figure~\ref{fig:c4.5-dep-tree} uses the $auxpass$ attribute once, dividing the training set into cases with higher frequencies, which get classified immediately as nonnative, and cases with lower frequencies, which undergo additional testing. It is important to note that the large majority of this second set of cases (35 out of 41) are ultimately categorized as nonnative as well. So while high relative frequencies of the $auxpass$ attribute are associated with learners, low frequencies are associated with both learners and native speakers. This indicates that the use of the passive is not a strong indicator of the nativeness of the text. Likely a slightly more aggressive pruning factor would have resulted in the elimination of the $auxpass$ node.
 
-\subsection{Complementizer}
+%\subsection{Complementizer}
 
-A complementizer is a word that signals the beginning of a clausal complement. The Stanford Parser recognizes the complementizers \textit{that} and \textit{whether}. The governor of a complementizer dependency is the root of the clause, which is generally a verb or, in the case of copular clauses, the subject complement. The dependent is the complementizer itself. The following examples taken from the SULEC and WRICLE corpora illustrate this dependency:
+\textbf{Complementizer.} A complementizer is a word that signals the beginning of a clausal complement. The Stanford Parser recognizes the complementizers \textit{that} and \textit{whether}. The governor of a complementizer dependency is the root of the clause, which is generally a verb or, in the case of copular clauses, the subject complement. The dependent is the complementizer itself. The following examples taken from the SULEC and WRICLE corpora illustrate this dependency:
 \newline\newline\begin{tabular}{ l l }
 a. &
 \xytext{
@@ -152,9 +154,9 @@ In a study on differences in complement clause usage between native and nonnativ
 
 The decision tree shown in Figure~\ref{fig:c4.5-dep-tree} uses the $complm$ dependency once, and classifies cases with lower occurrences of $complm$ as native, and those with higher occurrences as nonnative, without further testing. Because this dependency only indicates the presence of a complement clause if it has a complementizer, the higher frequency among the learners may be due to either low rates of dropping the complementizer, or to high rates of complement clause usage. As shown above, both phenomena have linguistic backing, and very likely both are at play. 
 
-\subsection{Copula}
+%\subsection{Copula}
 
-The copula or $cop$ dependency marks copular verbs. This dependency takes as its governor the complement of the copular clause and the verb itself as the dependent. The following \citep[pp. 52-3]{quirk:1985} are examples of two different copular verbs:
+\textbf{Copula.} The copula or $cop$ dependency marks copular verbs. This dependency takes as its governor the complement of the copular clause and the verb itself as the dependent. The following \citep[pp. 52-3]{quirk:1985} are examples of two different copular verbs:
 %\begin{figure}[ht]
 %\centering
 \newline\newline\begin{tabular}{ l l }
@@ -191,9 +193,9 @@ However, the Stanford Parser does not recognize all copular clauses as such. In 
 
 The decision tree in Figure~\ref{fig:c4.5-dep-tree} contains one node which uses the $cop$ dependency. This node divides the training set into two subsets such that the first, associated with lower frequencies of $cop$, contains a smaller percentage of nonnative texts, and the second, with higher frequencies of the attribute, contains a larger percentage. The best explanation for this is that copular clauses tend to be the simplest type of clauses in language and thus are favored by learners. A detailed treatment of both of these points can be found in a study by \citet{hinkel:2003}, which investigates syntactic simplicity in L1 and L2 academic texts.
 
-\subsection{Determiner and Predeterminer}
+%\subsection{Determiner and Predeterminer}
 
-The determiner or $det$ dependency connects a determiner to the NP it modifies, with the determiner being the dependent and the head of the NP the governor. Similarly, the $predet$ dependency marks a predeterminer. The following, a nonnative sample from the SULEC corpus, is an example of both determiners and a predeterminer in one sentence fragment: 
+\textbf{Determiner and Predeterminer.} The determiner or $det$ dependency connects a determiner to the NP it modifies, with the determiner being the dependent and the head of the NP the governor. Similarly, the $predet$ dependency marks a predeterminer. The following, a nonnative sample from the SULEC corpus, is an example of both determiners and a predeterminer in one sentence fragment: 
 \newline\newline \xytext{
 \xybarnode{For} &
 \xybarnode{some} &
@@ -240,9 +242,9 @@ whereas English would use a simple predeterminer:
 \enumsentence{\textit{The air contains \underline{double} the nitric oxide as Washington.}}
 This difference may encourage learners to use periphrastic constructions in English (e.g. \textit{twice as much}, \textit{two times the amount}) which are not parsed as predeterminers by the Stanford Parser.
 
-\subsection{Expletive}
+%\subsection{Expletive}
 
-An existential \textit{there} and the copular verb associated with it are connected with the expletive or $expl$ relation, as shown in the following \citep[pp. 126-7]{quirk:1985}: 
+\textbf{Expletive.} An existential \textit{there} and the copular verb associated with it are connected with the expletive or $expl$ relation, as shown in the following \citep[pp. 126-7]{quirk:1985}: 
 \newline\newline\xytext{
 \xybarnode{There} &
 \xybarnode{was} \xybarconnect(U,U){-1}"_{\small expl}" &
@@ -259,14 +261,14 @@ An existential \textit{there} and the copular verb associated with it are connec
 
 This relation is used twice in the decision tree, both times associating higher frequencies with nonnative texts and lower frequencies with native texts. Spanish has a similar construction to the English existential \textit{there + be}, using a 3rd-person singular form of the verb \textit{haber} in any of its possible non-progressive forms. Spanish, which is a pro-drop language, does not use or permit a dummy subject analogous to the English \textit{there}, nor does the verb \textit{haber} agree in number with what follows except in very informal speech \citep[pp. 429-32]{butt}. Otherwise, the existential \textit{there} presents little difficulty for the L1-Spanish learner of English. The high rate of use is likely due to this: learners resort to existential \textit{there} frequently because it is a ``safe'' expression, one they can generate correctly with little effort.
 
-\subsection{Multi-Word Expression}
+%\subsection{Multi-Word Expression}
 
-The Stanford typed dependency manual \citep{typed-deps-manual} defines multi-word expressions as being two or more words that are used together as a single unit such that the relationship between them is difficult to define. In the version of the Stanford parser used here, only the following expressions are considered multi-word expressions: \textit{rather than, as well as, instead of, such as, because of, in addition to, all but, due to}. As can be seen in the decision tree, higher rates of use are indicative of a native speaker. Since these tend to be idiomatic, or at least syntactically complex, it seems reasonable that they would be avoided by learners.
+\textbf{Multi-Word Expression.} The Stanford typed dependency manual \citep{typed-deps-manual} defines multi-word expressions as being two or more words that are used together as a single unit such that the relationship between them is difficult to define. In the version of the Stanford parser used here, only the following expressions are considered multi-word expressions: \textit{rather than, as well as, instead of, such as, because of, in addition to, all but, due to}. As can be seen in the decision tree, higher rates of use are indicative of a native speaker. Since these tend to be idiomatic, or at least syntactically complex, it seems reasonable that they would be avoided by learners.
 
-\subsection{Noun Compound Modifier}
-\label{sub:nn}
+%\subsection{Noun Compound Modifier}
+%\label{sub:nn}
 
-Noun-noun compounds (NNCs) are marked with the relation \textit{nn}. The governor of this dependency is the rightmost noun in the compound, and the dependent will be one of the nouns to the left. Note that since all dependencies only deal with pairs of words, a compound consisting of more than two nouns would be indicated by multiple dependencies, all sharing a common governor. An example of this, taken from the MICUSP corpus, is:
+\textbf{Noun Compound Modifier.} Noun-noun compounds (NNCs) are marked with the relation \textit{nn}. The governor of this dependency is the rightmost noun in the compound, and the dependent will be one of the nouns to the left. Note that since all dependencies only deal with pairs of words, a compound consisting of more than two nouns would be indicated by multiple dependencies, all sharing a common governor. An example of this, taken from the MICUSP corpus, is:
 \newline\newline\xytext{
 \xybarnode{\ldots} &
 \xybarnode{oil}
@@ -296,18 +298,18 @@ The $nn$ relation occupies an important place in the decision tree, being the ro
 {\textit{`a bathing suit'} \citep[p. 495]{butt}}}
 English can also use the preposition \textit{of} to express possession in a construction parallel to the Spanish \textit{de}-possessive. Often times, the English speaker can switch between a NNC and the \textit{of}-construction with little change in meaning, as in:
 \eenumsentence{\singlespacing
-\item \textit{the mountain peak} \label{ex:mountain_peak}
-\item \textit{the peak of the mountain} \label{ex:peak_of}
+\item \textit{the mountain peak} %\label{ex:mountain_peak}
+\item \textit{the peak of the mountain} %\label{ex:peak_of}
 }
 Considering this flexibility in English and the paucity of NNCs in Spanish, it seems very likely that L1-Spanish learners of English avoid NNCs in favor of the \textit{of}-construction.
 
-\subsection{Noun Phrase as Adverbial Modifier}
+%\subsection{Noun Phrase as Adverbial Modifier}
 
-The $npadvmod$ dependency marks where a NP is used like an adverbial modifier. In general, it covers five types of constructions: phrases indicating measure (e.g. \textit{the director is 65 years old}), certain phrases which expresses financial information (e.g. \textit{IBM earned \$5 a share}), reflexive pronouns used for emphasis (e.g. \textit{the silence itself is significant}), and a handful of other usages difficult to categorize. All of these tend to be idiomatic and syntactically complex, which would account for the use of this relation in the decision tree, where cases with high frequencies are categorized as native and with low frequencies as nonnative.
+\textbf{Noun Phrase as Adverbial Modifier.} The $npadvmod$ dependency marks where a NP is used like an adverbial modifier. In general, it covers five types of constructions: phrases indicating measure (e.g. \textit{the director is 65 years old}), certain phrases which expresses financial information (e.g. \textit{IBM earned \$5 a share}), reflexive pronouns used for emphasis (e.g. \textit{the silence itself is significant}), and a handful of other usages difficult to categorize. All of these tend to be idiomatic and syntactically complex, which would account for the use of this relation in the decision tree, where cases with high frequencies are categorized as native and with low frequencies as nonnative.
 
-\subsection{Parataxis}
+%\subsection{Parataxis}
 
-The $parataxis$ relation ties the main verb of a clause to another element, generally a parenthetical or something appearing after a colon or semicolon. The following sentences \citep[p. 921]{typed-deps-manual,quirk:1985} each show an example of one of these types of parataxis:
+\textbf{Parataxis.} The $parataxis$ relation ties the main verb of a clause to another element, generally a parenthetical or something appearing after a colon or semicolon. The following sentences \citep[p. 921]{typed-deps-manual,quirk:1985} each show an example of one of these types of parataxis:
 \newline\newline\begin{tabular}{ l l }
 a. & \xytext{
 \xybarnode{The} &
@@ -341,9 +343,9 @@ b. & \xytext{
 
 The types of constructions marked by the $parataxis$ relation are syntactically complex, and so one might imagine that they would be underused by learners of English. However, the use of this relation in the decision tree indicates that learners actually use this more often than do native speakers. There is little literature discussing parataxis in learner English nor do there appear to be any obvious qualities of Spanish that might explain this overuse. This analysis is particularly difficult considering that the available data does not indicate which of the two types of parataxis is being overused.
 
-\subsection{Possession and Possessive Modifiers}
+%\subsection{Possession and Possessive Modifiers}
 
-Inflected genitive constructions are marked by two dependencies: \textit{poss}, which ties the head of a NP (the governor) to a genitive inflectional suffix (\textit{'s}~or~\textit{'}), indicating that the governor is the possessed element; and \textit{possessive}, which connects a noun to its own genitive inflectional suffix. The $poss$ dependency can also have as its dependent a possessive determiner such as \textit{its} or \textit{their}. In this type of construction, the $possessive$ dependency is not used. The following example, taken from the MICUSP corpus, illustrates these dependencies:
+\textbf{Possession and Possessive Modifiers.} Inflected genitive constructions are marked by two dependencies: \textit{poss}, which ties the head of a NP (the governor) to a genitive inflectional suffix (\textit{'s}~or~\textit{'}), indicating that the governor is the possessed element; and \textit{possessive}, which connects a noun to its own genitive inflectional suffix. The $poss$ dependency can also have as its dependent a possessive determiner such as \textit{its} or \textit{their}. In this type of construction, the $possessive$ dependency is not used. The following example, taken from the MICUSP corpus, illustrates these dependencies:
 \newline\newline\xytext{
 \xybarnode{\ldots} &
 \xybarnode{oil} \xybarconnect(D,D){1}"_{\small possessive}"&
@@ -364,23 +366,23 @@ Inflected genitive constructions are marked by two dependencies: \textit{poss}, 
 %\label{fig:poss-deps}
 %\end{figure}
 
-These relations are both used twice in the decision tree. In all four instances, cases with high frequencies tend to end up being classified as native, and cases with low frequencies as nonnative. Spanish lacks an inflected genitive, instead tending to use the preposition \textit{de} to express possession, as was discussed in Section~\ref{sub:nn}. Much like NNCs, the inflected genitive is usually translated into Spanish using a \textit{de}-construction, as shown in:
+These relations are both used twice in the decision tree. In all four instances, cases with high frequencies tend to end up being classified as native, and cases with low frequencies as nonnative. Spanish lacks an inflected genitive, instead tending to use the preposition \textit{de} to express possession, as was discussed previously. Much like NNCs, the inflected genitive is usually translated into Spanish using a \textit{de}-construction, as shown in:
 \enumsentence{\singlespacing\shortexnt{9}
 {\textit{una} & \textit{chica} & \textit{joven} & \textit{de} & \textit{vaqueros} & \textit{y} & \textit{chaqueta} & \textit{de} & \textit{hombre}}
 {\textit{a} & \textit{girl} & \textit{young} & \textit{of} & \textit{jeans} & \textit{and} & \textit{jacket} & \textit{of} & \textit{man}}\\
 {\textit{`a young girl in jeans and a man's jacket'} \citep[p. 497]{butt}}}
 Also much like NNCs, it is often possible to use the \textit{of}-construction in place of an inflected genitive:
 \eenumsentence{\singlespacing
-\item \textit{the mountain's peak} \label{ex:mountain_peak}
-\item \textit{the peak of the mountain} \label{ex:peak_of}
+\item \textit{the mountain's peak} %\label{ex:mountain_peak}
+\item \textit{the peak of the mountain} %\label{ex:peak_of}
 }
 The reasonable conclusion is that learners of English are using the \textit{of}-construction in place of the inflected genitive, resulting in fewer occurrences of the latter.
 
 \begin{comment}
 
-\subsection{Preconjunct}
+%\subsection{Preconjunct}
 
-The preconjunct ($preconj$) dependency connects the head of a phrase employing a conjunction to a word that emphasizes or brackets that conjunction, such as \textit{either}, \textit{neither}, or \textit{both}. Figure~\ref{fig:preconj-dep} demonstrates this dependency.
+\textbf{Preconjunct.} The preconjunct ($preconj$) dependency connects the head of a phrase employing a conjunction to a word that emphasizes or brackets that conjunction, such as \textit{either}, \textit{neither}, or \textit{both}. Figure~\ref{fig:preconj-dep} demonstrates this dependency.
 
 \begin{figure}[h]
 \centering
@@ -415,9 +417,9 @@ b. &
 \end{figure}
 \end{comment}
 
-\subsection{Phrasal Verb Particle}
+%\subsection{Phrasal Verb Particle}
 
-The phrasal verb particle relation ($prt$) ties the head word of a phrasal verb to its particle. Relative frequencies of 0.4178\% or less lead to the categorization of a text as nonnative, whereas larger values lead to a subtree. It can be seen that a very high percentage, 36.8\%, of the training cases terminate at the left, or nonnative, branch of this test node, suggesting that this relation contributes a great deal of useful information to the categorization process. The following native example from the MICUSP corpus shows this:
+\textbf{Phrasal Verb Particle.} The phrasal verb particle relation ($prt$) ties the head word of a phrasal verb to its particle. Relative frequencies of 0.4178\% or less lead to the categorization of a text as nonnative, whereas larger values lead to a subtree. It can be seen that a very high percentage, 36.8\%, of the training cases terminate at the left, or nonnative, branch of this test node, suggesting that this relation contributes a great deal of useful information to the categorization process. The following native example from the MICUSP corpus shows this:
 \newline\newline\xytext{
 \xybarnode{\ldots the} &
 \xybarnode{reduction} &
@@ -442,9 +444,9 @@ In their own study, \citeauthor{liao:2004} investigate L1-Chinese learners of En
 
 Regardless of the reasons behind the avoidance of phrasal verbs shown by L1-Spanish learners, \citet{gonzalez:2010} demonstrates that it is a reality of learner English. Considering this, it is not surprising that the C4.5 algorithm uses the $prt$ relation with such success in the categorization process.
 
-\subsection{Quantifier Phrase Modifier}
+%\subsection{Quantifier Phrase Modifier}
 
-The Quantifier Phrase Modifier ($quantmod$) relation marks adverbs that modify certain determiners. In general, this relation is only used when the determiner being modified is a numeral. Most other determiners, including quantifying determiners such as \textit{double} or \textit{half}, would require the use of the $advmod$ relation. Thus if in the following example \citet{typed-deps-manual} the number \textit{200} were replaced with the determiners \textit{half the}, \textit{about} would become the dependent of an $advmod$ dependency instead of the $quantmod$ dependency:
+\textbf{Quantifier Phrase Modifier.} The Quantifier Phrase Modifier ($quantmod$) relation marks adverbs that modify certain determiners. In general, this relation is only used when the determiner being modified is a numeral. Most other determiners, including quantifying determiners such as \textit{double} or \textit{half}, would require the use of the $advmod$ relation. Thus if in the following example \citet{typed-deps-manual} the number \textit{200} were replaced with the determiners \textit{half the}, \textit{about} would become the dependent of an $advmod$ dependency instead of the $quantmod$ dependency:
 \newline\newline\xytext{
 \xybarnode{About} &
 \xybarnode{200} 
@@ -462,14 +464,14 @@ The Quantifier Phrase Modifier ($quantmod$) relation marks adverbs that modify c
 
 The decision tree shows that high frequencies of this dependency are associated with native texts. Because the scope of this dependency is limited, and because Spanish grammar does not differ markedly from English grammar in the usage of adverbs as modifiers of determiners, little can be said in the way of linguistic analysis other than to suggest that these dependencies are less common in learner texts due to the complexity of the syntax that generates them.
 
-\subsection{The Unclassified Dependency}
+%\subsection{The Unclassified Dependency}
 
-The final relation, $dep$, is used in any dependency that cannot be more exactly resolved by the parser, whether due to malformed grammar, parser limitations, or any other reason. Due to the nebulous nature of this dependency, no meaningful linguistic analysis is possible. 
+\textbf{The Unclassified Dependency.} The final relation, $dep$, is used in any dependency that cannot be more exactly resolved by the parser, whether due to malformed grammar, parser limitations, or any other reason. Due to the nebulous nature of this dependency, no meaningful linguistic analysis is possible. 
 
 \subsection{Classification Accuracy}
 
 Twenty-fold cross-validation was used to test the real-world accuracy of the data. There being 642 cases in the data set, thirty-two unique cases were held out at a time and classified using a C4.5 classifier trained on the remaining 610 cases. This produced a correct classification rate of $88.8\%$ (see Table~\ref{table:dep-results-c45}).
-\begin{table}[htb]
+\begin{table}[t]
 \centering
 \caption{Accuracy of C4.5 Classifier Using Dependency Attributes}
 \begin{tabular}{l c c}
@@ -477,14 +479,15 @@ Twenty-fold cross-validation was used to test the real-world accuracy of the dat
 & Mean & 95\% C.I.\\
 \midrule
 Nonnative & 89.7\% & - \\
-Native & 87.9\% & - \\
-Overall & 88.8\% & 86.3\% --- 91.2\% \\
+[6pt]Native & 87.9\% & - \\
+[6pt]Overall & 88.8\% & 86.3\% --- 91.2\% \\
 \bottomrule
 \end{tabular}
 \label{table:dep-results-c45}
 \end{table}
 Using a random forest classifier gave better results: performing 20 fold cross-validation on a 100-tree classifier where each tree was trained on six random features yielded $94.2\%$ accuracy (see Table~\ref{table:dep-results-rf}).
-\begin{table}[htb]
+
+\begin{table}[t]
 \centering
 \caption{Accuracy of Random Forest Classifier Using Dependency Attributes}
 \begin{tabular}{l c c}
@@ -492,12 +495,14 @@ Using a random forest classifier gave better results: performing 20 fold cross-v
 & Mean & 95\% C.I.\\
 \midrule
 Nonnative & 96.0\% & - \\
-Native & 91.9\% & - \\
-Overall & 93.9\% & 92.1\% --- 95.8\% \\
+[6pt]Native & 91.9\% & - \\
+[6pt]Overall & 93.9\% & 92.1\% --- 95.8\% \\
 \bottomrule
 \end{tabular}
 \label{table:dep-results-rf}
 \end{table}
+
+\vfill
 
 \biblio
 \end{document}

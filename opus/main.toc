@@ -7,27 +7,16 @@
 \contentsline {subsection}{The Tests}{13}
 \contentsline {subsection}{Classification}{14}
 \contentsline {section}{Grammatical Relations}{19}
-\contentsline {subsection}{Passive Auxiliary}{20}
-\contentsline {subsection}{Complementizer}{22}
-\contentsline {subsection}{Copula}{24}
-\contentsline {subsection}{Determiner and Predeterminer}{24}
-\contentsline {subsection}{Expletive}{27}
-\contentsline {subsection}{Multi-Word Expression}{28}
-\contentsline {subsection}{Noun Compound Modifier}{28}
-\contentsline {subsection}{Noun Phrase as Adverbial Modifier}{29}
-\contentsline {subsection}{Parataxis}{30}
-\contentsline {subsection}{Possession and Possessive Modifiers}{31}
-\contentsline {subsection}{Phrasal Verb Particle}{32}
-\contentsline {subsection}{Quantifier Phrase Modifier}{33}
-\contentsline {subsection}{The Unclassified Dependency}{34}
-\contentsline {subsection}{Classification Accuracy}{34}
-\contentsline {section}{Argument Structure}{36}
-\contentsline {subsection}{Verbal Arguments}{36}
-\contentsline {subsection}{Classification Accuracy}{45}
-\contentsline {section}{Verbs}{47}
-\contentsline {subsection}{Grammar}{47}
-\contentsline {subsection}{Parsing of Verbs}{49}
-\contentsline {subsection}{Classification Accuracy}{54}
-\contentsline {section}{Learner's Tool}{66}
-\contentsline {section}{Conclusion}{70}
-\contentsline {section}{References}{71}
+\contentsline {subsection}{Dependency Relations}{19}
+\contentsline {subsection}{Relations Described}{20}
+\contentsline {subsection}{Classification Accuracy}{33}
+\contentsline {section}{Argument Structure}{35}
+\contentsline {subsection}{Verbal Arguments}{35}
+\contentsline {subsection}{Classification Accuracy}{44}
+\contentsline {section}{Verbs}{46}
+\contentsline {subsection}{Grammar}{46}
+\contentsline {subsection}{Parsing of Verbs}{48}
+\contentsline {subsection}{Classification Accuracy}{52}
+\contentsline {section}{Learner's Tool}{63}
+\contentsline {section}{Conclusion}{66}
+\contentsline {section}{References}{67}

@@ -15,6 +15,7 @@
 \usepackage{times}
 %\usepackage{txfontsb}
 \usepackage[utf8]{inputenc}
+
 \usepackage{setspace}
 \usepackage[margin=1.0in,left=1.5in,foot=0.5in]{geometry}
 \usepackage{xytree}
@@ -80,6 +81,10 @@
 \renewcommand{\cftfigaftersnum}{.}
 \renewcommand{\cftfignumwidth}{0.75in}
 
+\makeatletter
+\setlength{\@fptop}{0pt}
+\setlength{\@fpsep}{24pt}
+\makeatletter
 
 \begin{document}
 \def\biblio{} %see note above on subfiles
@@ -120,15 +125,17 @@ May 2012
 \setlength{\cftbeforefigskip}{12pt}
 \setlength{\cftbeforetabskip}{12pt}
 \singlespacing
-\tableofcontents
-
+\tableofcontents\newpage
 %\doublespacing
-\listoftables
+\listoftables\newpage
 \listoffigures
 \endgroup
 
 %adjust spacing before and after floats
 \setlength{\intextsep}{24pt}
+\setlength{\floatsep}{48pt} %between floats
+
+
 
 \doublespacing
 \newpage
